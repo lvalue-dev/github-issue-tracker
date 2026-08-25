@@ -1,1 +1,208 @@
-[]
+[
+  {
+    "key": "lingdojo/kana-dojo#29162",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29162,
+    "title": "[Good First Issue] 🍥 Add new False Friend Pair 6 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29162",
+    "comments": 1,
+    "createdAt": "2026-08-25T23:37:31Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3253,
+    "foundAt": "2026-08-25T23:45:09.165Z"
+  },
+  {
+    "key": "hackforla/website#8755",
+    "tier": 1,
+    "repo": "hackforla/website",
+    "number": 8755,
+    "title": "Update Project Profile: Not Today (Update Project's Description)",
+    "url": "https://github.com/hackforla/website/issues/8755",
+    "comments": 0,
+    "createdAt": "2026-08-25T22:21:25Z",
+    "labels": [
+      "good first issue",
+      "role: front end",
+      "role: back end/devOps",
+      "P-Feature: Project Info and Page",
+      "time sensitive",
+      "P-Feature: Projects page",
+      "size: 0.25pt"
+    ],
+    "language": "javascript",
+    "stars": 364,
+    "foundAt": "2026-08-25T23:45:10.345Z"
+  },
+  {
+    "key": "PipedreamHQ/pipedream#21787",
+    "tier": 1,
+    "repo": "PipedreamHQ/pipedream",
+    "number": 21787,
+    "title": "[ACTION]",
+    "url": "https://github.com/PipedreamHQ/pipedream/issues/21787",
+    "comments": 1,
+    "createdAt": "2026-08-25T19:33:41Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "action"
+    ],
+    "language": "javascript",
+    "stars": 11649,
+    "foundAt": "2026-08-25T23:45:11.279Z"
+  },
+  {
+    "key": "Smaug6739/Alexandrie#720",
+    "tier": 1,
+    "repo": "Smaug6739/Alexandrie",
+    "number": 720,
+    "title": "Kanban view: Adding document with + button in column open page with the wrong query param",
+    "url": "https://github.com/Smaug6739/Alexandrie/issues/720",
+    "comments": 0,
+    "createdAt": "2026-08-25T08:25:38Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "P0"
+    ],
+    "language": "vue",
+    "stars": 2374,
+    "foundAt": "2026-08-25T23:45:17.576Z"
+  },
+  {
+    "key": "data-engineering-community/data-engineering-wiki#171",
+    "tier": 1,
+    "repo": "data-engineering-community/data-engineering-wiki",
+    "number": 171,
+    "title": "Link Checker Report",
+    "url": "https://github.com/data-engineering-community/data-engineering-wiki/issues/171",
+    "comments": 0,
+    "createdAt": "2026-08-24T09:44:11Z",
+    "labels": [
+      "good first issue",
+      "report",
+      "automated issue"
+    ],
+    "language": "css",
+    "stars": 2020,
+    "foundAt": "2026-08-25T23:45:13.261Z"
+  },
+  {
+    "key": "SAPTARSHI-coder/EaseMotion-css#89034",
+    "tier": 1,
+    "repo": "SAPTARSHI-coder/EaseMotion-css",
+    "number": 89034,
+    "title": "[FEATURE] Elastic Drag-to-Dismiss & Swipe Gesture Cards",
+    "url": "https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/89034",
+    "comments": 4,
+    "createdAt": "2026-08-24T06:13:37Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "animation",
+      "GSSoC-26",
+      "gssoc:approved",
+      "level:beginner",
+      "type:feature"
+    ],
+    "language": "css",
+    "stars": 257,
+    "foundAt": "2026-08-25T23:45:14.433Z"
+  },
+  {
+    "key": "supabase/mcp#383",
+    "tier": 3,
+    "repo": "supabase/mcp",
+    "number": 383,
+    "title": "cfc",
+    "url": "https://github.com/supabase/mcp/issues/383",
+    "comments": 0,
+    "createdAt": "2026-08-25T23:13:16Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "typescript",
+    "stars": 2872,
+    "foundAt": "2026-08-25T23:45:21.527Z"
+  },
+  {
+    "key": "quarto-dev/quarto-cli#14810",
+    "tier": 3,
+    "repo": "quarto-dev/quarto-cli",
+    "number": 14810,
+    "title": "a11y: listing pagination aria-label is not localizable",
+    "url": "https://github.com/quarto-dev/quarto-cli/issues/14810",
+    "comments": 0,
+    "createdAt": "2026-08-25T21:17:23Z",
+    "labels": [
+      "bug",
+      "accessibility",
+      "listings"
+    ],
+    "language": "javascript",
+    "stars": 5964,
+    "foundAt": "2026-08-25T23:45:23.868Z"
+  },
+  {
+    "key": "quarto-dev/quarto-cli#14809",
+    "tier": 3,
+    "repo": "quarto-dev/quarto-cli",
+    "number": 14809,
+    "title": "a11y: dashboard header nav landmark has no accessible name",
+    "url": "https://github.com/quarto-dev/quarto-cli/issues/14809",
+    "comments": 0,
+    "createdAt": "2026-08-25T21:17:02Z",
+    "labels": [
+      "bug",
+      "accessibility",
+      "dashboards"
+    ],
+    "language": "javascript",
+    "stars": 5964,
+    "foundAt": "2026-08-25T23:45:23.869Z"
+  },
+  {
+    "key": "getsentry/sentry-docs#19124",
+    "tier": 3,
+    "repo": "getsentry/sentry-docs",
+    "number": 19124,
+    "title": "Use horizontal layout for manual setup section",
+    "url": "https://github.com/getsentry/sentry-docs/issues/19124",
+    "comments": 1,
+    "createdAt": "2026-08-25T20:33:37Z",
+    "labels": [
+      "Docs"
+    ],
+    "language": "mdx",
+    "stars": 442,
+    "foundAt": "2026-08-25T23:45:24.898Z"
+  },
+  {
+    "key": "grommet/grommet#8083",
+    "tier": 3,
+    "repo": "grommet/grommet",
+    "number": 8083,
+    "title": "TimeInput - hogging focus",
+    "url": "https://github.com/grommet/grommet/issues/8083",
+    "comments": 0,
+    "createdAt": "2026-08-25T20:29:42Z",
+    "labels": [
+      "accessibility"
+    ],
+    "language": "javascript",
+    "stars": 8352,
+    "foundAt": "2026-08-25T23:45:24.274Z"
+  }
+]
