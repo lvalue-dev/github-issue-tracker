@@ -1,0 +1,87 @@
+{
+  "$comment": "프론트엔드 초심자용 이슈 탐색 설정. 값만 고치면 됩니다.",
+
+  "lookbackDays": 3,
+  "maxComments": 6,
+  "requireUnassigned": true,
+  "perSearchLimit": 30,
+  "seenRetentionDays": 60,
+  "digestKeep": 100,
+
+  "repoFilters": {
+    "minStars": 200,
+    "maxStars": 400000,
+    "activeWithinDays": 90,
+    "allowForks": false,
+    "allowArchived": false
+  },
+
+  "excludeOrgs": [],
+  "excludeRepos": [],
+  "excludeTitleKeywords": ["[bounty]", "translate", "translation", "i18n:"],
+
+  "notify": {
+    "githubIssue": true,
+    "discord": true,
+    "slack": true,
+    "tierLabels": {
+      "1": "🥇 good first issue",
+      "2": "🥈 쉬운 이슈 / help wanted",
+      "3": "🥉 문서·타입·테스트"
+    }
+  },
+
+  "searches": [
+    {
+      "id": "gfi-js-ts",
+      "tier": 1,
+      "labels": [
+        "good first issue",
+        "good-first-issue",
+        "first-timers-only",
+        "good first bug"
+      ],
+      "languages": ["typescript", "javascript"]
+    },
+    {
+      "id": "gfi-markup",
+      "tier": 1,
+      "labels": [
+        "good first issue",
+        "good-first-issue",
+        "first-timers-only"
+      ],
+      "languages": ["css", "scss", "html", "vue", "svelte", "astro"]
+    },
+    {
+      "id": "easy-help-wanted",
+      "tier": 2,
+      "labels": [
+        "help wanted",
+        "easy",
+        "difficulty: easy",
+        "E-easy",
+        "level: starter",
+        "starter",
+        "beginner friendly",
+        "hacktoberfest"
+      ],
+      "languages": ["typescript", "javascript", "css", "vue", "svelte"],
+      "extraQualifiers": "comments:<3"
+    },
+    {
+      "id": "docs-and-types",
+      "tier": 3,
+      "labels": [
+        "documentation",
+        "docs",
+        "good first issue",
+        "types",
+        "a11y",
+        "accessibility"
+      ],
+      "languages": ["typescript", "javascript", "mdx"],
+      "extraQualifiers": "comments:<2"
+    }
+  ]
+}

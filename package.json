@@ -1,0 +1,15 @@
+{
+  "name": "github-issue-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "초심자용 프론트엔드 good first issue 트래커",
+  "scripts": {
+    "track": "node scripts/track.mjs",
+    "track:dry": "node scripts/track.mjs --dry-run",
+    "test": "node scripts/selftest.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

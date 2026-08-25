@@ -1,0 +1,58 @@
+name: 새 이슈 트래킹
+
+on:
+  schedule:
+    # 매시 25분 (UTC). 더 자주/덜 자주 받고 싶으면 이 값을 바꾸세요.
+    - cron: '25 * * * *'
+  workflow_dispatch:
+    inputs:
+      since_days:
+        description: '며칠 전까지 거슬러 올라가서 검색할지'
+        required: false
+        default: '3'
+      dry_run:
+        description: '검색만 하고 알림/저장은 하지 않음'
+        type: boolean
+        required: false
+        default: false
+
+permissions:
+  contents: write   # data/*.json, DIGEST.md 갱신 커밋
+  issues: write     # 다이제스트 이슈 생성
+
+concurrency:
+  group: track-issues
+  cancel-in-progress: false
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 이슈 검색 및 알림
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          SINCE_DAYS: ${{ inputs.since_days || '3' }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: |
+          args="--since-days=${SINCE_DAYS}"
+          if [ "${DRY_RUN}" = "true" ]; then args="${args} --dry-run"; fi
+          node scripts/track.mjs ${args}
+
+      - name: 상태 커밋
+        if: ${{ inputs.dry_run != true }}
+        run: |
+          git config user.name  'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data DIGEST.md || true
+          git diff --staged --quiet || {
+            git commit -m 'chore: 트래커 상태 갱신'
+            git push
+          }
