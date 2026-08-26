@@ -2128,5 +2128,155 @@
     "language": "JavaScript",
     "openIssues": 2,
     "cachedAt": "2026-08-26T10:04:07.228Z"
+  },
+  "Navin-xmr/navin-frontend": {
+    "fullName": "Navin-xmr/navin-frontend",
+    "stars": 2,
+    "pushedAt": "2026-08-10T14:23:51Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 127,
+    "cachedAt": "2026-08-26T10:57:54.780Z"
+  },
+  "Ahmed200444/LectureAi": {
+    "fullName": "Ahmed200444/LectureAi",
+    "stars": 0,
+    "pushedAt": "2026-08-26T10:35:49Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 3,
+    "cachedAt": "2026-08-26T10:57:54.991Z"
+  },
+  "PascalePaF/codeharbor": {
+    "fullName": "PascalePaF/codeharbor",
+    "stars": 0,
+    "pushedAt": "2026-08-26T10:56:21Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 5,
+    "cachedAt": "2026-08-26T10:57:55.148Z"
+  },
+  "shashankswe2020-ux/local-llmup": {
+    "fullName": "shashankswe2020-ux/local-llmup",
+    "stars": 3,
+    "pushedAt": "2026-08-26T02:18:12Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 197,
+    "cachedAt": "2026-08-26T10:57:55.330Z"
+  },
+  "trublue-2/chastitytracker": {
+    "fullName": "trublue-2/chastitytracker",
+    "stars": 6,
+    "pushedAt": "2026-08-26T10:11:00Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 43,
+    "cachedAt": "2026-08-26T10:57:55.546Z"
+  },
+  "spy4x/antonshubin.com": {
+    "fullName": "spy4x/antonshubin.com",
+    "stars": 1,
+    "pushedAt": "2026-08-26T10:31:31Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 11,
+    "cachedAt": "2026-08-26T10:57:55.759Z"
+  },
+  "Alexanderdunlop/adr-lens": {
+    "fullName": "Alexanderdunlop/adr-lens",
+    "stars": 0,
+    "pushedAt": "2026-08-26T10:22:52Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 10,
+    "cachedAt": "2026-08-26T10:57:55.967Z"
+  },
+  "jefrykurniaone/inventaris-aset-ppm": {
+    "fullName": "jefrykurniaone/inventaris-aset-ppm",
+    "stars": 0,
+    "pushedAt": "2026-08-26T10:37:49Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 11,
+    "cachedAt": "2026-08-26T10:57:56.198Z"
+  },
+  "marekdedic/vitest-prosemirror": {
+    "fullName": "marekdedic/vitest-prosemirror",
+    "stars": 1,
+    "pushedAt": "2026-08-20T21:53:16Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 17,
+    "cachedAt": "2026-08-26T10:57:56.410Z"
+  },
+  "philippstorl/philipp.fyi": {
+    "fullName": "philippstorl/philipp.fyi",
+    "stars": 0,
+    "pushedAt": "2026-08-26T09:22:46Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 9,
+    "cachedAt": "2026-08-26T10:57:56.779Z"
+  },
+  "lengocanh2005it/wispace-bot": {
+    "fullName": "lengocanh2005it/wispace-bot",
+    "stars": 0,
+    "pushedAt": "2026-08-26T02:51:34Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 192,
+    "cachedAt": "2026-08-26T10:57:56.997Z"
+  },
+  "yamadashy/repomix": {
+    "fullName": "yamadashy/repomix",
+    "stars": 28066,
+    "pushedAt": "2026-08-25T16:04:13Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 136,
+    "cachedAt": "2026-08-26T10:57:57.212Z"
+  },
+  "duduspieleklee-create/TileFixFireflyDoctor": {
+    "fullName": "duduspieleklee-create/TileFixFireflyDoctor",
+    "stars": 0,
+    "pushedAt": "2026-08-26T10:55:58Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 15,
+    "cachedAt": "2026-08-26T10:57:57.394Z"
+  },
+  "izkreny/groupifico": {
+    "fullName": "izkreny/groupifico",
+    "stars": 0,
+    "pushedAt": "2026-08-26T10:36:29Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 85,
+    "cachedAt": "2026-08-26T10:57:57.555Z"
+  },
+  "Safricloud/cl-workflow": {
+    "fullName": "Safricloud/cl-workflow",
+    "stars": 0,
+    "pushedAt": "2026-08-26T10:29:23Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 12,
+    "cachedAt": "2026-08-26T10:57:57.781Z"
   }
 }

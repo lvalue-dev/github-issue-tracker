@@ -1,5 +1,45 @@
 [
   {
+    "key": "lingdojo/kana-dojo#29190",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29190,
+    "title": "[Good First Issue] 🎐 Add new Japanese Proverb 93 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29190",
+    "comments": 1,
+    "createdAt": "2026-08-26T10:37:33Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3253,
+    "foundAt": "2026-08-26T10:57:54.780Z"
+  },
+  {
+    "key": "yamadashy/repomix#1819",
+    "tier": 3,
+    "repo": "yamadashy/repomix",
+    "number": 1819,
+    "title": "truncateBase64Content silently drops data-URI parameters due to repeated capture group",
+    "url": "https://github.com/yamadashy/repomix/issues/1819",
+    "comments": 0,
+    "createdAt": "2026-08-26T10:11:16Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 28066,
+    "foundAt": "2026-08-26T10:57:57.212Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#29187",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",

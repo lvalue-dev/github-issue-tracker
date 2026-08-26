@@ -4,6 +4,8 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-08-26 | 🥇 | [[Good First Issue] 🎐 Add new Japanese Proverb 93 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29190) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-08-26 | 🥉 | [truncateBase64Content silently drops data-URI parameters due to repeated capture](https://github.com/yamadashy/repomix/issues/1819) | `yamadashy/repomix` | ⭐ 28.1k |
 | 2026-08-26 | 🥇 | [[Good First Issue] 🍙 Add new Japan Fact 191 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29187) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-08-26 | 🥉 | [Add opt-in pitch sonification for one ordered series](https://github.com/nteract/semiotic/issues/1223) | `nteract/semiotic` | ⭐ 2.7k |
 | 2026-08-26 | 🥉 | [Support audience-specific long and short annotation text](https://github.com/nteract/semiotic/issues/1222) | `nteract/semiotic` | ⭐ 2.7k |
