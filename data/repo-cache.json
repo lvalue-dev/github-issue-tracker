@@ -1978,5 +1978,155 @@
     "language": "JavaScript",
     "openIssues": 2,
     "cachedAt": "2026-08-26T09:08:30.115Z"
+  },
+  "cucuwang/aeoptimize": {
+    "fullName": "cucuwang/aeoptimize",
+    "stars": 1,
+    "pushedAt": "2026-08-26T09:58:43Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 4,
+    "cachedAt": "2026-08-26T10:04:03.472Z"
+  },
+  "ifinavet/yggdrasil": {
+    "fullName": "ifinavet/yggdrasil",
+    "stars": 10,
+    "pushedAt": "2026-08-20T14:14:18Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 42,
+    "cachedAt": "2026-08-26T10:04:03.809Z"
+  },
+  "csitte/mailwarden": {
+    "fullName": "csitte/mailwarden",
+    "stars": 0,
+    "pushedAt": "2026-08-26T09:40:23Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 2,
+    "cachedAt": "2026-08-26T10:04:04.043Z"
+  },
+  "wilmareistad/routly": {
+    "fullName": "wilmareistad/routly",
+    "stars": 0,
+    "pushedAt": "2026-05-11T21:53:24Z",
+    "archived": false,
+    "fork": true,
+    "language": null,
+    "openIssues": 2,
+    "cachedAt": "2026-08-26T10:04:04.348Z"
+  },
+  "Trust-Analysis/Tokenized-Fractional-": {
+    "fullName": "Trust-Analysis/Tokenized-Fractional-",
+    "stars": 1,
+    "pushedAt": "2026-08-25T22:17:02Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 27,
+    "cachedAt": "2026-08-26T10:04:04.615Z"
+  },
+  "SmartDropLabs/smartdrop-backend": {
+    "fullName": "SmartDropLabs/smartdrop-backend",
+    "stars": 1,
+    "pushedAt": "2026-08-21T00:29:58Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 78,
+    "cachedAt": "2026-08-26T10:04:04.918Z"
+  },
+  "Vasak-OS/vasak-settings": {
+    "fullName": "Vasak-OS/vasak-settings",
+    "stars": 0,
+    "pushedAt": "2026-08-26T09:50:29Z",
+    "archived": false,
+    "fork": false,
+    "language": "Vue",
+    "openIssues": 3,
+    "cachedAt": "2026-08-26T10:04:05.262Z"
+  },
+  "nteract/semiotic": {
+    "fullName": "nteract/semiotic",
+    "stars": 2692,
+    "pushedAt": "2026-08-26T10:03:57Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 40,
+    "cachedAt": "2026-08-26T10:04:05.563Z"
+  },
+  "LucaDominici/arbiter": {
+    "fullName": "LucaDominici/arbiter",
+    "stars": 0,
+    "pushedAt": "2026-08-26T03:45:42Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 43,
+    "cachedAt": "2026-08-26T10:04:05.761Z"
+  },
+  "mattbutlerengineering/mattbutlerengineering": {
+    "fullName": "mattbutlerengineering/mattbutlerengineering",
+    "stars": 1,
+    "pushedAt": "2026-08-26T07:08:09Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 28,
+    "cachedAt": "2026-08-26T10:04:06.029Z"
+  },
+  "bQuery/bQuery": {
+    "fullName": "bQuery/bQuery",
+    "stars": 1,
+    "pushedAt": "2026-08-26T09:52:57Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 1,
+    "cachedAt": "2026-08-26T10:04:06.261Z"
+  },
+  "ToshikiImagawa/slide-presentation-app": {
+    "fullName": "ToshikiImagawa/slide-presentation-app",
+    "stars": 1,
+    "pushedAt": "2026-08-26T09:21:52Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 15,
+    "cachedAt": "2026-08-26T10:04:06.530Z"
+  },
+  "hookdeck/n8n-nodes-hookdeck": {
+    "fullName": "hookdeck/n8n-nodes-hookdeck",
+    "stars": 1,
+    "pushedAt": "2026-08-26T09:42:12Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 6,
+    "cachedAt": "2026-08-26T10:04:06.732Z"
+  },
+  "midnightntwrk/midnight-verifiable-credential-digital-passport": {
+    "fullName": "midnightntwrk/midnight-verifiable-credential-digital-passport",
+    "stars": 0,
+    "pushedAt": "2026-08-26T09:54:52Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 18,
+    "cachedAt": "2026-08-26T10:04:07.024Z"
+  },
+  "yunfeizhu/harapter": {
+    "fullName": "yunfeizhu/harapter",
+    "stars": 0,
+    "pushedAt": "2026-08-26T09:48:38Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 2,
+    "cachedAt": "2026-08-26T10:04:07.228Z"
   }
 }

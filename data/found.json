@@ -1,5 +1,80 @@
 [
   {
+    "key": "lingdojo/kana-dojo#29187",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29187,
+    "title": "[Good First Issue] 🍙 Add new Japan Fact 191 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29187",
+    "comments": 1,
+    "createdAt": "2026-08-26T10:01:01Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3253,
+    "foundAt": "2026-08-26T10:04:03.217Z"
+  },
+  {
+    "key": "nteract/semiotic#1223",
+    "tier": 3,
+    "repo": "nteract/semiotic",
+    "number": 1223,
+    "title": "Add opt-in pitch sonification for one ordered series",
+    "url": "https://github.com/nteract/semiotic/issues/1223",
+    "comments": 0,
+    "createdAt": "2026-08-26T10:01:12Z",
+    "labels": [
+      "enhancement",
+      "accessibility"
+    ],
+    "language": "typescript",
+    "stars": 2692,
+    "foundAt": "2026-08-26T10:04:05.563Z"
+  },
+  {
+    "key": "nteract/semiotic#1222",
+    "tier": 3,
+    "repo": "nteract/semiotic",
+    "number": 1222,
+    "title": "Support audience-specific long and short annotation text",
+    "url": "https://github.com/nteract/semiotic/issues/1222",
+    "comments": 0,
+    "createdAt": "2026-08-26T10:01:11Z",
+    "labels": [
+      "enhancement",
+      "accessibility"
+    ],
+    "language": "typescript",
+    "stars": 2692,
+    "foundAt": "2026-08-26T10:04:05.563Z"
+  },
+  {
+    "key": "nteract/semiotic#1213",
+    "tier": 3,
+    "repo": "nteract/semiotic",
+    "number": 1213,
+    "title": "Create a shared bounded label-placement primitive for custom layouts",
+    "url": "https://github.com/nteract/semiotic/issues/1213",
+    "comments": 0,
+    "createdAt": "2026-08-26T09:54:58Z",
+    "labels": [
+      "enhancement",
+      "refactor",
+      "accessibility"
+    ],
+    "language": "typescript",
+    "stars": 2692,
+    "foundAt": "2026-08-26T10:04:05.761Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#29184",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",

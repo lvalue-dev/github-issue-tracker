@@ -4,6 +4,10 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-08-26 | 🥇 | [[Good First Issue] 🍙 Add new Japan Fact 191 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29187) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-08-26 | 🥉 | [Add opt-in pitch sonification for one ordered series](https://github.com/nteract/semiotic/issues/1223) | `nteract/semiotic` | ⭐ 2.7k |
+| 2026-08-26 | 🥉 | [Support audience-specific long and short annotation text](https://github.com/nteract/semiotic/issues/1222) | `nteract/semiotic` | ⭐ 2.7k |
+| 2026-08-26 | 🥉 | [Create a shared bounded label-placement primitive for custom layouts](https://github.com/nteract/semiotic/issues/1213) | `nteract/semiotic` | ⭐ 2.7k |
 | 2026-08-26 | 🥇 | [[Good First Issue] 🍛 Add new Community Note Line #5 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29184) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-08-26 | 🥇 | [[Good First Issue] 🪭 Add new Wallpaper URL #1 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29182) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-08-26 | 🥇 | [editoast: views: add rolling stocks in test](https://github.com/OpenRailAssociation/osrd/issues/18270) | `OpenRailAssociation/osrd` | ⭐ 653 |
