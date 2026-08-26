@@ -1,5 +1,104 @@
 [
   {
+    "key": "lingdojo/kana-dojo#29210",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29210,
+    "title": "[Good First Issue] 🥢 Add new Trivia Question 39 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29210",
+    "comments": 1,
+    "createdAt": "2026-08-26T19:01:17Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3253,
+    "foundAt": "2026-08-26T20:17:40.179Z"
+  },
+  {
+    "key": "silexlabs/Silex#1835",
+    "tier": 1,
+    "repo": "silexlabs/Silex",
+    "number": 1835,
+    "title": "Style panel: add text-underline-offset, transform-origin, and filter in transitions",
+    "url": "https://github.com/silexlabs/Silex/issues/1835",
+    "comments": 1,
+    "createdAt": "2026-08-26T18:39:10Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "enhancement"
+    ],
+    "language": "typescript",
+    "stars": 2936,
+    "foundAt": "2026-08-26T20:17:40.570Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29209",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29209,
+    "title": "[Good First Issue] 🍘 Add new Japanese Haiku 11 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29209",
+    "comments": 1,
+    "createdAt": "2026-08-26T18:37:32Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3253,
+    "foundAt": "2026-08-26T20:17:40.570Z"
+  },
+  {
+    "key": "layer5io/layer5#8000",
+    "tier": 2,
+    "repo": "layer5io/layer5",
+    "number": 8000,
+    "title": "[Bug] RelatedPostsFactory throws runtime error / fails when blog posts have empty or null tags",
+    "url": "https://github.com/layer5io/layer5/issues/8000",
+    "comments": 0,
+    "createdAt": "2026-08-26T19:41:16Z",
+    "labels": [
+      "kind/bug",
+      "help wanted",
+      "framework/gatsby"
+    ],
+    "language": "javascript",
+    "stars": 1112,
+    "foundAt": "2026-08-26T20:17:42.068Z"
+  },
+  {
+    "key": "libredb/libredb-studio#507",
+    "tier": 3,
+    "repo": "libredb/libredb-studio",
+    "number": 507,
+    "title": "Tracking: Valkey ecosystem tools listing (valkey-io/valkey-doc)",
+    "url": "https://github.com/libredb/libredb-studio/issues/507",
+    "comments": 0,
+    "createdAt": "2026-08-26T20:16:24Z",
+    "labels": [
+      "documentation",
+      "loop:needs-moderator-action"
+    ],
+    "language": "typescript",
+    "stars": 353,
+    "foundAt": "2026-08-26T20:17:42.463Z"
+  },
+  {
     "key": "cyrusagents/cyrus#1433",
     "tier": 1,
     "repo": "cyrusagents/cyrus",

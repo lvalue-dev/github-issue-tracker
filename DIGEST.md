@@ -4,6 +4,11 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-08-26 | 🥇 | [[Good First Issue] 🥢 Add new Trivia Question 39 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29210) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-08-26 | 🥇 | [Style panel: add text-underline-offset, transform-origin, and filter in transiti](https://github.com/silexlabs/Silex/issues/1835) | `silexlabs/Silex` | ⭐ 2.9k |
+| 2026-08-26 | 🥇 | [[Good First Issue] 🍘 Add new Japanese Haiku 11 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29209) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-08-26 | 🥈 | [[Bug] RelatedPostsFactory throws runtime error / fails when blog posts have empt](https://github.com/layer5io/layer5/issues/8000) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-08-26 | 🥉 | [Tracking: Valkey ecosystem tools listing (valkey-io/valkey-doc)](https://github.com/libredb/libredb-studio/issues/507) | `libredb/libredb-studio` | ⭐ 353 |
 | 2026-08-26 | 🥇 | [OpenCode: parse usage, cost and finish reason from step_finish.part](https://github.com/cyrusagents/cyrus/issues/1433) | `cyrusagents/cyrus` | ⭐ 785 |
 | 2026-08-26 | 🥇 | [OpenCode: make Cyrus-managed skills available to sessions](https://github.com/cyrusagents/cyrus/issues/1432) | `cyrusagents/cyrus` | ⭐ 785 |
 | 2026-08-26 | 🥇 | [OpenCode: support steering of active turns](https://github.com/cyrusagents/cyrus/issues/1431) | `cyrusagents/cyrus` | ⭐ 785 |
