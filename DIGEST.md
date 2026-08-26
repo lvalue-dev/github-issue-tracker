@@ -4,6 +4,8 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-08-26 | 🥇 | [`hideAvailable`/`hideBlocklisted` discover filters drop non-movie/tv results](https://github.com/seerr-team/seerr/issues/3433) | `seerr-team/seerr` | ⭐ 12.4k |
+| 2026-08-26 | 🥉 | [[DOCS] <title>diffboost](https://github.com/npm/cli/issues/9919) | `npm/cli` | ⭐ 10.1k |
 | 2026-08-26 | 🥇 | [[Good First Issue] 🥢 Add new Trivia Question 39 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29210) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-08-26 | 🥇 | [Style panel: add text-underline-offset, transform-origin, and filter in transiti](https://github.com/silexlabs/Silex/issues/1835) | `silexlabs/Silex` | ⭐ 2.9k |
 | 2026-08-26 | 🥇 | [[Good First Issue] 🍘 Add new Japanese Haiku 11 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29209) | `lingdojo/kana-dojo` | ⭐ 3.3k |

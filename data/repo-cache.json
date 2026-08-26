@@ -3658,5 +3658,255 @@
     "language": "JavaScript",
     "openIssues": 180,
     "cachedAt": "2026-08-26T20:17:44.307Z"
+  },
+  "openslop/openslop": {
+    "fullName": "openslop/openslop",
+    "stars": 13,
+    "pushedAt": "2026-08-26T23:03:20Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 65,
+    "cachedAt": "2026-08-26T23:48:15.584Z"
+  },
+  "Shelterflex/monorepo": {
+    "fullName": "Shelterflex/monorepo",
+    "stars": 3,
+    "pushedAt": "2026-08-26T19:47:03Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 86,
+    "cachedAt": "2026-08-26T23:48:15.794Z"
+  },
+  "RoBorregos/CandidatesDashboard": {
+    "fullName": "RoBorregos/CandidatesDashboard",
+    "stars": 0,
+    "pushedAt": "2026-08-26T07:48:03Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 11,
+    "cachedAt": "2026-08-26T23:48:16.024Z"
+  },
+  "MetroLogic/fluxapay": {
+    "fullName": "MetroLogic/fluxapay",
+    "stars": 6,
+    "pushedAt": "2026-08-26T15:08:50Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 29,
+    "cachedAt": "2026-08-26T23:48:16.252Z"
+  },
+  "seerr-team/seerr": {
+    "fullName": "seerr-team/seerr",
+    "stars": 12399,
+    "pushedAt": "2026-08-26T12:56:26Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 383,
+    "cachedAt": "2026-08-26T23:48:16.430Z"
+  },
+  "OthmaneBlial/web-task-agent": {
+    "fullName": "OthmaneBlial/web-task-agent",
+    "stars": 0,
+    "pushedAt": "2026-08-26T20:59:07Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 3,
+    "cachedAt": "2026-08-26T23:48:16.621Z"
+  },
+  "quangshuynh/gitprofilelens": {
+    "fullName": "quangshuynh/gitprofilelens",
+    "stars": 0,
+    "pushedAt": "2026-08-23T22:52:54Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 1,
+    "cachedAt": "2026-08-26T23:48:16.788Z"
+  },
+  "IskandarovFirdavs/oldindan-app": {
+    "fullName": "IskandarovFirdavs/oldindan-app",
+    "stars": 1,
+    "pushedAt": "2026-08-26T20:20:11Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 13,
+    "cachedAt": "2026-08-26T23:48:16.978Z"
+  },
+  "SCiO-systems/landusetool-frontend": {
+    "fullName": "SCiO-systems/landusetool-frontend",
+    "stars": 0,
+    "pushedAt": "2026-08-26T21:35:38Z",
+    "archived": false,
+    "fork": false,
+    "language": "CSS",
+    "openIssues": 1,
+    "cachedAt": "2026-08-26T23:48:17.161Z"
+  },
+  "skyf0xx/hedgehog": {
+    "fullName": "skyf0xx/hedgehog",
+    "stars": 32,
+    "pushedAt": "2026-08-26T06:32:12Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 4,
+    "cachedAt": "2026-08-26T23:48:17.338Z"
+  },
+  "sylingual/Moa-web-app": {
+    "fullName": "sylingual/Moa-web-app",
+    "stars": 0,
+    "pushedAt": "2026-08-26T22:34:41Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 38,
+    "cachedAt": "2026-08-26T23:48:17.545Z"
+  },
+  "Dayron-Glez/openbranch": {
+    "fullName": "Dayron-Glez/openbranch",
+    "stars": 6,
+    "pushedAt": "2026-08-26T23:35:39Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 8,
+    "cachedAt": "2026-08-26T23:48:17.765Z"
+  },
+  "FloorLamp/allos": {
+    "fullName": "FloorLamp/allos",
+    "stars": 0,
+    "pushedAt": "2026-08-26T23:48:12Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 289,
+    "cachedAt": "2026-08-26T23:48:17.926Z"
+  },
+  "sister-software/mailwoman": {
+    "fullName": "sister-software/mailwoman",
+    "stars": 2,
+    "pushedAt": "2026-08-26T22:31:24Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 112,
+    "cachedAt": "2026-08-26T23:48:18.120Z"
+  },
+  "receptron/sharedapp": {
+    "fullName": "receptron/sharedapp",
+    "stars": 0,
+    "pushedAt": "2026-08-26T23:44:49Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 3,
+    "cachedAt": "2026-08-26T23:48:18.313Z"
+  },
+  "Rise-Experts/retinue": {
+    "fullName": "Rise-Experts/retinue",
+    "stars": 0,
+    "pushedAt": "2026-08-26T22:51:52Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 24,
+    "cachedAt": "2026-08-26T23:48:18.507Z"
+  },
+  "ChungIndustries/chung-industries": {
+    "fullName": "ChungIndustries/chung-industries",
+    "stars": 0,
+    "pushedAt": "2026-08-26T23:08:37Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 6,
+    "cachedAt": "2026-08-26T23:48:18.728Z"
+  },
+  "leah-mckelvey/arise-incremental": {
+    "fullName": "leah-mckelvey/arise-incremental",
+    "stars": 0,
+    "pushedAt": "2026-08-26T23:35:21Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 38,
+    "cachedAt": "2026-08-26T23:48:18.925Z"
+  },
+  "alliecatowo/patches": {
+    "fullName": "alliecatowo/patches",
+    "stars": 0,
+    "pushedAt": "2026-08-26T23:23:35Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 104,
+    "cachedAt": "2026-08-26T23:48:19.087Z"
+  },
+  "keng009/fulcra-dealflow-memory": {
+    "fullName": "keng009/fulcra-dealflow-memory",
+    "stars": 0,
+    "pushedAt": "2026-08-26T22:10:18Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 6,
+    "cachedAt": "2026-08-26T23:48:19.291Z"
+  },
+  "nochaosio/bookmarks.nochaos.io": {
+    "fullName": "nochaosio/bookmarks.nochaos.io",
+    "stars": 0,
+    "pushedAt": "2026-08-26T22:14:21Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 8,
+    "cachedAt": "2026-08-26T23:48:19.482Z"
+  },
+  "npm/cli": {
+    "fullName": "npm/cli",
+    "stars": 10061,
+    "pushedAt": "2026-08-26T21:48:47Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 724,
+    "cachedAt": "2026-08-26T23:48:19.707Z"
+  },
+  "bloodf/durindoor": {
+    "fullName": "bloodf/durindoor",
+    "stars": 5,
+    "pushedAt": "2026-08-26T23:43:12Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 40,
+    "cachedAt": "2026-08-26T23:48:19.927Z"
+  },
+  "CenterCoopMedia/eventrunner": {
+    "fullName": "CenterCoopMedia/eventrunner",
+    "stars": 1,
+    "pushedAt": "2026-08-26T22:54:33Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 14,
+    "cachedAt": "2026-08-26T23:48:20.147Z"
+  },
+  "ShaftHQ/shafthq.github.io": {
+    "fullName": "ShaftHQ/shafthq.github.io",
+    "stars": 13,
+    "pushedAt": "2026-08-26T21:26:48Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 5,
+    "cachedAt": "2026-08-26T23:48:20.428Z"
   }
 }

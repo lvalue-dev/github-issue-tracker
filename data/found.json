@@ -1,5 +1,39 @@
 [
   {
+    "key": "seerr-team/seerr#3433",
+    "tier": 1,
+    "repo": "seerr-team/seerr",
+    "number": 3433,
+    "title": "`hideAvailable`/`hideBlocklisted` discover filters drop non-movie/tv results",
+    "url": "https://github.com/seerr-team/seerr/issues/3433",
+    "comments": 1,
+    "createdAt": "2026-08-26T21:03:01Z",
+    "labels": [
+      "good first issue",
+      "awaiting triage"
+    ],
+    "language": "typescript",
+    "stars": 12399,
+    "foundAt": "2026-08-26T23:48:16.430Z"
+  },
+  {
+    "key": "npm/cli#9919",
+    "tier": 3,
+    "repo": "npm/cli",
+    "number": 9919,
+    "title": "[DOCS] <title>diffboost",
+    "url": "https://github.com/npm/cli/issues/9919",
+    "comments": 0,
+    "createdAt": "2026-08-26T22:03:04Z",
+    "labels": [
+      "Needs Triage",
+      "Documentation"
+    ],
+    "language": "javascript",
+    "stars": 10061,
+    "foundAt": "2026-08-26T23:48:19.707Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#29210",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
