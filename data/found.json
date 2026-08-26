@@ -1,5 +1,230 @@
 [
   {
+    "key": "cyrusagents/cyrus#1433",
+    "tier": 1,
+    "repo": "cyrusagents/cyrus",
+    "number": 1433,
+    "title": "OpenCode: parse usage, cost and finish reason from step_finish.part",
+    "url": "https://github.com/cyrusagents/cyrus/issues/1433",
+    "comments": 0,
+    "createdAt": "2026-08-26T18:09:02Z",
+    "labels": [
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 785,
+    "foundAt": "2026-08-26T18:10:56.188Z"
+  },
+  {
+    "key": "cyrusagents/cyrus#1432",
+    "tier": 1,
+    "repo": "cyrusagents/cyrus",
+    "number": 1432,
+    "title": "OpenCode: make Cyrus-managed skills available to sessions",
+    "url": "https://github.com/cyrusagents/cyrus/issues/1432",
+    "comments": 0,
+    "createdAt": "2026-08-26T18:09:00Z",
+    "labels": [
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 785,
+    "foundAt": "2026-08-26T18:10:56.188Z"
+  },
+  {
+    "key": "cyrusagents/cyrus#1431",
+    "tier": 1,
+    "repo": "cyrusagents/cyrus",
+    "number": 1431,
+    "title": "OpenCode: support steering of active turns",
+    "url": "https://github.com/cyrusagents/cyrus/issues/1431",
+    "comments": 0,
+    "createdAt": "2026-08-26T18:08:58Z",
+    "labels": [
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 785,
+    "foundAt": "2026-08-26T18:10:56.188Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29208",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29208,
+    "title": "[Good First Issue] 🎏 Add new Japanese Proverb 58 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29208",
+    "comments": 1,
+    "createdAt": "2026-08-26T18:01:15Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3253,
+    "foundAt": "2026-08-26T18:10:56.188Z"
+  },
+  {
+    "key": "ONEARMY/community-platform#4865",
+    "tier": 1,
+    "repo": "ONEARMY/community-platform",
+    "number": 4865,
+    "title": "[bug] Missing settings page titles",
+    "url": "https://github.com/ONEARMY/community-platform/issues/4865",
+    "comments": 0,
+    "createdAt": "2026-08-26T17:47:10Z",
+    "labels": [
+      "Good first issue",
+      "Help wanted",
+      "Difficulty: Easy"
+    ],
+    "language": "typescript",
+    "stars": 1398,
+    "foundAt": "2026-08-26T18:10:56.868Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29207",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29207,
+    "title": "[Good First Issue] 🍢 Add new Theme: Winter Kimono - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29207",
+    "comments": 1,
+    "createdAt": "2026-08-26T17:37:52Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3253,
+    "foundAt": "2026-08-26T18:10:57.275Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29206",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29206,
+    "title": "[Good First Issue] 🏮 Add new Community Note Line #4 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29206",
+    "comments": 1,
+    "createdAt": "2026-08-26T17:01:13Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3253,
+    "foundAt": "2026-08-26T18:10:57.275Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29205",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29205,
+    "title": "[Good First Issue] 🎍 Add new Wallpaper URL #5 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29205",
+    "comments": 1,
+    "createdAt": "2026-08-26T16:37:44Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3253,
+    "foundAt": "2026-08-26T18:10:57.486Z"
+  },
+  {
+    "key": "apache/maka#3944",
+    "tier": 2,
+    "repo": "apache/maka",
+    "number": 3944,
+    "title": "test(desktop): enumerate failure and edge states for high-traffic surfaces",
+    "url": "https://github.com/apache/maka/issues/3944",
+    "comments": 1,
+    "createdAt": "2026-08-26T16:05:33Z",
+    "labels": [
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 3407,
+    "foundAt": "2026-08-26T18:10:59.836Z"
+  },
+  {
+    "key": "apache/maka#3943",
+    "tier": 2,
+    "repo": "apache/maka",
+    "number": 3943,
+    "title": "test(desktop): the crash fallback has no story",
+    "url": "https://github.com/apache/maka/issues/3943",
+    "comments": 1,
+    "createdAt": "2026-08-26T16:05:31Z",
+    "labels": [
+      "help wanted",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 3407,
+    "foundAt": "2026-08-26T18:10:59.836Z"
+  },
+  {
+    "key": "apache/maka#3942",
+    "tier": 2,
+    "repo": "apache/maka",
+    "number": 3942,
+    "title": "test(desktop): the Storybook smoke renders one of 22 palette × colour-scheme combinations",
+    "url": "https://github.com/apache/maka/issues/3942",
+    "comments": 0,
+    "createdAt": "2026-08-26T16:05:26Z",
+    "labels": [
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 3407,
+    "foundAt": "2026-08-26T18:10:59.836Z"
+  },
+  {
+    "key": "AmoebeLabs/flex-horseshoe-card#523",
+    "tier": 3,
+    "repo": "AmoebeLabs/flex-horseshoe-card",
+    "number": 523,
+    "title": "Restructure the documentation",
+    "url": "https://github.com/AmoebeLabs/flex-horseshoe-card/issues/523",
+    "comments": 0,
+    "createdAt": "2026-08-26T16:29:43Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "javascript",
+    "stars": 395,
+    "foundAt": "2026-08-26T18:11:02.712Z"
+  },
+  {
     "key": "prometheus/client_js#823",
     "tier": 1,
     "repo": "prometheus/client_js",

@@ -4,6 +4,18 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-08-26 | 🥇 | [OpenCode: parse usage, cost and finish reason from step_finish.part](https://github.com/cyrusagents/cyrus/issues/1433) | `cyrusagents/cyrus` | ⭐ 785 |
+| 2026-08-26 | 🥇 | [OpenCode: make Cyrus-managed skills available to sessions](https://github.com/cyrusagents/cyrus/issues/1432) | `cyrusagents/cyrus` | ⭐ 785 |
+| 2026-08-26 | 🥇 | [OpenCode: support steering of active turns](https://github.com/cyrusagents/cyrus/issues/1431) | `cyrusagents/cyrus` | ⭐ 785 |
+| 2026-08-26 | 🥇 | [[Good First Issue] 🎏 Add new Japanese Proverb 58 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29208) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-08-26 | 🥇 | [[bug] Missing settings page titles](https://github.com/ONEARMY/community-platform/issues/4865) | `ONEARMY/community-platform` | ⭐ 1.4k |
+| 2026-08-26 | 🥇 | [[Good First Issue] 🍢 Add new Theme: Winter Kimono - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29207) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-08-26 | 🥇 | [[Good First Issue] 🏮 Add new Community Note Line #4 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29206) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-08-26 | 🥇 | [[Good First Issue] 🎍 Add new Wallpaper URL #5 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29205) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-08-26 | 🥈 | [test(desktop): enumerate failure and edge states for high-traffic surfaces](https://github.com/apache/maka/issues/3944) | `apache/maka` | ⭐ 3.4k |
+| 2026-08-26 | 🥈 | [test(desktop): the crash fallback has no story](https://github.com/apache/maka/issues/3943) | `apache/maka` | ⭐ 3.4k |
+| 2026-08-26 | 🥈 | [test(desktop): the Storybook smoke renders one of 22 palette × colour-scheme com](https://github.com/apache/maka/issues/3942) | `apache/maka` | ⭐ 3.4k |
+| 2026-08-26 | 🥉 | [Restructure the documentation](https://github.com/AmoebeLabs/flex-horseshoe-card/issues/523) | `AmoebeLabs/flex-horseshoe-card` | ⭐ 395 |
 | 2026-08-26 | 🥇 | [Truthiness Reduction Program 2026](https://github.com/prometheus/client_js/issues/823) | `prometheus/client_js` | ⭐ 3.5k |
 | 2026-08-26 | 🥇 | [[Good First Issue] 🎐 Add new Example Sentence 91 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29203) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-08-26 | 🥇 | [[Good First Issue] 🗻 Add new Etiquette Tip 55 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29202) | `lingdojo/kana-dojo` | ⭐ 3.3k |
