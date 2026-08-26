@@ -4,6 +4,9 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-08-26 | 🥇 | [[Good First Issue] 🍛 Add new Community Note Line #5 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29184) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-08-26 | 🥇 | [[Good First Issue] 🪭 Add new Wallpaper URL #1 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29182) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-08-26 | 🥇 | [editoast: views: add rolling stocks in test](https://github.com/OpenRailAssociation/osrd/issues/18270) | `OpenRailAssociation/osrd` | ⭐ 653 |
 | 2026-08-26 | 🥇 | [[Good First Issue] 🏮 Add new Learner Mistake 21 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29181) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-08-26 | 🥇 | [[Good First Issue] 🍣 Add new Example Sentence 99 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29180) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-08-26 | 🥇 | [templates/portals.example.yml assumes an AI-engineer search: make the example de](https://github.com/santifer/career-ops/issues/3356) | `santifer/career-ops` | ⭐ 68.5k |

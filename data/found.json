@@ -1,5 +1,70 @@
 [
   {
+    "key": "lingdojo/kana-dojo#29184",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29184,
+    "title": "[Good First Issue] 🍛 Add new Community Note Line #5 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29184",
+    "comments": 1,
+    "createdAt": "2026-08-26T09:00:59Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3253,
+    "foundAt": "2026-08-26T09:08:26.819Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29182",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29182,
+    "title": "[Good First Issue] 🪭 Add new Wallpaper URL #1 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29182",
+    "comments": 1,
+    "createdAt": "2026-08-26T08:37:45Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3253,
+    "foundAt": "2026-08-26T09:08:26.819Z"
+  },
+  {
+    "key": "OpenRailAssociation/osrd#18270",
+    "tier": 1,
+    "repo": "OpenRailAssociation/osrd",
+    "number": 18270,
+    "title": "editoast: views: add rolling stocks in test",
+    "url": "https://github.com/OpenRailAssociation/osrd/issues/18270",
+    "comments": 0,
+    "createdAt": "2026-08-26T08:28:33Z",
+    "labels": [
+      "good first issue",
+      "area:editoast"
+    ],
+    "language": "typescript",
+    "stars": 653,
+    "foundAt": "2026-08-26T09:08:27.400Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#29181",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
