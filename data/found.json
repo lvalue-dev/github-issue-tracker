@@ -1,5 +1,113 @@
 [
   {
+    "key": "lingdojo/kana-dojo#29175",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29175,
+    "title": "[Good First Issue] 🎏 Add new Japanese Idiom 55 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29175",
+    "comments": 1,
+    "createdAt": "2026-08-26T05:37:32Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3253,
+    "foundAt": "2026-08-26T05:56:46.674Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29173",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29173,
+    "title": "[Good First Issue] 🗾 Add new Anime Quote 19 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29173",
+    "comments": 1,
+    "createdAt": "2026-08-26T04:37:31Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3253,
+    "foundAt": "2026-08-26T05:56:47.386Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29172",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29172,
+    "title": "[Good First Issue] 🦊 Add new Grammar Point 85 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29172",
+    "comments": 1,
+    "createdAt": "2026-08-26T04:01:03Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3253,
+    "foundAt": "2026-08-26T05:56:47.596Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29171",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29171,
+    "title": "[Good First Issue] 🎌 Add new Trivia Question 28 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29171",
+    "comments": 1,
+    "createdAt": "2026-08-26T03:37:31Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3253,
+    "foundAt": "2026-08-26T05:56:47.880Z"
+  },
+  {
+    "key": "upstash/context7#3081",
+    "tier": 3,
+    "repo": "upstash/context7",
+    "number": 3081,
+    "title": "[Docs]: Official KEO4 documentation rejected – Website score 4 below threshold 9",
+    "url": "https://github.com/upstash/context7/issues/3081",
+    "comments": 0,
+    "createdAt": "2026-08-26T05:47:45Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "typescript",
+    "stars": 61225,
+    "foundAt": "2026-08-26T05:56:48.635Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#29174",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",

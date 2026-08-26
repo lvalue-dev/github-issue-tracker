@@ -4,6 +4,11 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-08-26 | 🥇 | [[Good First Issue] 🎏 Add new Japanese Idiom 55 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29175) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-08-26 | 🥈 | [[Good First Issue] 🗾 Add new Anime Quote 19 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29173) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-08-26 | 🥈 | [[Good First Issue] 🦊 Add new Grammar Point 85 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29172) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-08-26 | 🥈 | [[Good First Issue] 🎌 Add new Trivia Question 28 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29171) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-08-26 | 🥉 | [[Docs]: Official KEO4 documentation rejected – Website score 4 below threshold 9](https://github.com/upstash/context7/issues/3081) | `upstash/context7` | ⭐ 61.2k |
 | 2026-08-26 | 🥇 | [[Good First Issue] 🦊 Add new Video Game Quote 56 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29174) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-08-26 | 🥇 | [[Bug] Fix Meshery Docs Link Styling](https://github.com/meshery/meshery.io/issues/2907) | `meshery/meshery.io` | ⭐ 827 |
 | 2026-08-26 | 🥉 | [docs: incorrect comment on `prepare: false` in the drizzle Edge Function example](https://github.com/supabase/supabase/issues/49577) | `supabase/supabase` | ⭐ 108.4k |
