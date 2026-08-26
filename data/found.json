@@ -1,5 +1,51 @@
 [
   {
+    "key": "lingdojo/kana-dojo#29192",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29192,
+    "title": "[Good First Issue] 🍢 Add new Grammar Point 122 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29192",
+    "comments": 1,
+    "createdAt": "2026-08-26T11:37:32Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3253,
+    "foundAt": "2026-08-26T11:53:12.282Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29191",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29191,
+    "title": "[Good First Issue] 🐙 Add new Trivia Question 2 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29191",
+    "comments": 1,
+    "createdAt": "2026-08-26T11:01:00Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3253,
+    "foundAt": "2026-08-26T11:53:12.647Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#29190",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",

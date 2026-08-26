@@ -2278,5 +2278,235 @@
     "language": "JavaScript",
     "openIssues": 12,
     "cachedAt": "2026-08-26T10:57:57.781Z"
+  },
+  "AchrafReyani/job-matching-platform": {
+    "fullName": "AchrafReyani/job-matching-platform",
+    "stars": 12,
+    "pushedAt": "2026-08-26T11:47:29Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 6,
+    "cachedAt": "2026-08-26T11:53:12.282Z"
+  },
+  "egebese/genny": {
+    "fullName": "egebese/genny",
+    "stars": 0,
+    "pushedAt": "2026-08-26T11:31:13Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 19,
+    "cachedAt": "2026-08-26T11:53:12.458Z"
+  },
+  "Miracle656/veil": {
+    "fullName": "Miracle656/veil",
+    "stars": 4,
+    "pushedAt": "2026-08-26T11:00:19Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 82,
+    "cachedAt": "2026-08-26T11:53:12.647Z"
+  },
+  "shubhv123/autonomous-browser-agent": {
+    "fullName": "shubhv123/autonomous-browser-agent",
+    "stars": 0,
+    "pushedAt": "2026-07-11T18:06:29Z",
+    "archived": false,
+    "fork": false,
+    "language": "HTML",
+    "openIssues": 2,
+    "cachedAt": "2026-08-26T11:53:12.869Z"
+  },
+  "CloudSecurityOfficeHours/csoh.org": {
+    "fullName": "CloudSecurityOfficeHours/csoh.org",
+    "stars": 16,
+    "pushedAt": "2026-08-26T09:43:48Z",
+    "archived": false,
+    "fork": false,
+    "language": "HTML",
+    "openIssues": 1,
+    "cachedAt": "2026-08-26T11:53:13.079Z"
+  },
+  "kubestellar/console-kb": {
+    "fullName": "kubestellar/console-kb",
+    "stars": 9,
+    "pushedAt": "2026-08-26T08:29:15Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 2,
+    "cachedAt": "2026-08-26T11:53:13.358Z"
+  },
+  "itziklerner-pag/stem-workbench": {
+    "fullName": "itziklerner-pag/stem-workbench",
+    "stars": 0,
+    "pushedAt": "2026-08-26T11:27:45Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 17,
+    "cachedAt": "2026-08-26T11:53:13.563Z"
+  },
+  "AstroVela/vane-website": {
+    "fullName": "AstroVela/vane-website",
+    "stars": 6,
+    "pushedAt": "2026-08-24T09:25:58Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 4,
+    "cachedAt": "2026-08-26T11:53:13.797Z"
+  },
+  "Guiroos/mare": {
+    "fullName": "Guiroos/mare",
+    "stars": 1,
+    "pushedAt": "2026-08-26T01:41:34Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 13,
+    "cachedAt": "2026-08-26T11:53:13.996Z"
+  },
+  "shyamsridhar123/ATV-Teams": {
+    "fullName": "shyamsridhar123/ATV-Teams",
+    "stars": 3,
+    "pushedAt": "2026-08-26T11:34:53Z",
+    "archived": false,
+    "fork": true,
+    "language": "TypeScript",
+    "openIssues": 6,
+    "cachedAt": "2026-08-26T11:53:14.225Z"
+  },
+  "uziiuzair/hobbyist": {
+    "fullName": "uziiuzair/hobbyist",
+    "stars": 6,
+    "pushedAt": "2026-08-22T21:49:44Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 16,
+    "cachedAt": "2026-08-26T11:53:14.445Z"
+  },
+  "vorsakha/pi-native-subagents": {
+    "fullName": "vorsakha/pi-native-subagents",
+    "stars": 0,
+    "pushedAt": "2026-08-26T11:06:43Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 5,
+    "cachedAt": "2026-08-26T11:53:14.639Z"
+  },
+  "dihviny25-lab/seminario-huguenotes": {
+    "fullName": "dihviny25-lab/seminario-huguenotes",
+    "stars": 0,
+    "pushedAt": "2026-08-26T11:18:53Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 2,
+    "cachedAt": "2026-08-26T11:53:14.811Z"
+  },
+  "mikelarriba/backlog-claude": {
+    "fullName": "mikelarriba/backlog-claude",
+    "stars": 0,
+    "pushedAt": "2026-08-26T10:37:40Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 21,
+    "cachedAt": "2026-08-26T11:53:15.030Z"
+  },
+  "shruggietech/shruggie-web": {
+    "fullName": "shruggietech/shruggie-web",
+    "stars": 1,
+    "pushedAt": "2026-08-25T04:51:01Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 8,
+    "cachedAt": "2026-08-26T11:53:15.231Z"
+  },
+  "Sorokit/core": {
+    "fullName": "Sorokit/core",
+    "stars": 1,
+    "pushedAt": "2026-08-26T11:25:37Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 48,
+    "cachedAt": "2026-08-26T11:53:15.435Z"
+  },
+  "highfeed/nanochart": {
+    "fullName": "highfeed/nanochart",
+    "stars": 0,
+    "pushedAt": "2026-08-26T11:47:41Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 8,
+    "cachedAt": "2026-08-26T11:53:15.606Z"
+  },
+  "ASTROIDX556/astroid-web": {
+    "fullName": "ASTROIDX556/astroid-web",
+    "stars": 0,
+    "pushedAt": "2026-08-12T04:53:17Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 32,
+    "cachedAt": "2026-08-26T11:53:15.812Z"
+  },
+  "nimeshjm/blog-research-agent": {
+    "fullName": "nimeshjm/blog-research-agent",
+    "stars": 0,
+    "pushedAt": "2026-08-26T11:08:01Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 14,
+    "cachedAt": "2026-08-26T11:53:16.007Z"
+  },
+  "clarkemoyer/technologyadoptionbarriers.org": {
+    "fullName": "clarkemoyer/technologyadoptionbarriers.org",
+    "stars": 1,
+    "pushedAt": "2026-08-26T10:58:30Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 215,
+    "cachedAt": "2026-08-26T11:53:16.281Z"
+  },
+  "StellarEdu/StellarEduPay": {
+    "fullName": "StellarEdu/StellarEduPay",
+    "stars": 1,
+    "pushedAt": "2026-08-26T09:37:18Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 103,
+    "cachedAt": "2026-08-26T11:53:16.507Z"
+  },
+  "sinikebe/finapp": {
+    "fullName": "sinikebe/finapp",
+    "stars": 0,
+    "pushedAt": "2026-08-25T23:55:51Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 33,
+    "cachedAt": "2026-08-26T11:53:16.716Z"
+  },
+  "Manuel1234477/Stellar-Micro-Donation-API": {
+    "fullName": "Manuel1234477/Stellar-Micro-Donation-API",
+    "stars": 2,
+    "pushedAt": "2026-08-26T10:12:27Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 147,
+    "cachedAt": "2026-08-26T11:53:16.939Z"
   }
 }
