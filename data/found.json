@@ -1,5 +1,279 @@
 [
   {
+    "key": "lingdojo/kana-dojo#29168",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29168,
+    "title": "[Good First Issue] 🎎 Add new Theme: Harbor Fog - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29168",
+    "comments": 1,
+    "createdAt": "2026-08-26T02:01:03Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3253,
+    "foundAt": "2026-08-26T02:05:46.456Z"
+  },
+  {
+    "key": "elmohq/elmo#633",
+    "tier": 1,
+    "repo": "elmohq/elmo",
+    "number": 633,
+    "title": "add unit tests for timezone-utils",
+    "url": "https://github.com/elmohq/elmo/issues/633",
+    "comments": 0,
+    "createdAt": "2026-08-26T01:54:29Z",
+    "labels": [
+      "good first issue",
+      "area/core"
+    ],
+    "language": "typescript",
+    "stars": 264,
+    "foundAt": "2026-08-26T02:05:46.694Z"
+  },
+  {
+    "key": "elmohq/elmo#632",
+    "tier": 1,
+    "repo": "elmohq/elmo",
+    "number": 632,
+    "title": "add a contributing section to the README",
+    "url": "https://github.com/elmohq/elmo/issues/632",
+    "comments": 0,
+    "createdAt": "2026-08-26T01:54:24Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "area/oss"
+    ],
+    "language": "typescript",
+    "stars": 264,
+    "foundAt": "2026-08-26T02:05:46.694Z"
+  },
+  {
+    "key": "elmohq/elmo#631",
+    "tier": 1,
+    "repo": "elmohq/elmo",
+    "number": 631,
+    "title": "add see-also links to glossary terms that are missing them",
+    "url": "https://github.com/elmohq/elmo/issues/631",
+    "comments": 0,
+    "createdAt": "2026-08-26T01:54:19Z",
+    "labels": [
+      "good first issue",
+      "area/marketing"
+    ],
+    "language": "typescript",
+    "stars": 264,
+    "foundAt": "2026-08-26T02:05:46.694Z"
+  },
+  {
+    "key": "elmohq/elmo#630",
+    "tier": 1,
+    "repo": "elmohq/elmo",
+    "number": 630,
+    "title": "elmo init should check Docker before the setup wizard, not after",
+    "url": "https://github.com/elmohq/elmo/issues/630",
+    "comments": 0,
+    "createdAt": "2026-08-26T01:54:13Z",
+    "labels": [
+      "good first issue",
+      "area/oss"
+    ],
+    "language": "typescript",
+    "stars": 264,
+    "foundAt": "2026-08-26T02:05:46.694Z"
+  },
+  {
+    "key": "elmohq/elmo#629",
+    "tier": 1,
+    "repo": "elmohq/elmo",
+    "number": 629,
+    "title": "optimize button shows raw model ids for most models",
+    "url": "https://github.com/elmohq/elmo/issues/629",
+    "comments": 0,
+    "createdAt": "2026-08-26T01:54:08Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "area/whitelabel"
+    ],
+    "language": "typescript",
+    "stars": 264,
+    "foundAt": "2026-08-26T02:05:46.694Z"
+  },
+  {
+    "key": "elmohq/elmo#628",
+    "tier": 1,
+    "repo": "elmohq/elmo",
+    "number": 628,
+    "title": "fix stale commands in the developer guide commands reference",
+    "url": "https://github.com/elmohq/elmo/issues/628",
+    "comments": 0,
+    "createdAt": "2026-08-26T01:54:02Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "area/oss"
+    ],
+    "language": "typescript",
+    "stars": 264,
+    "foundAt": "2026-08-26T02:05:46.694Z"
+  },
+  {
+    "key": "elmohq/elmo#627",
+    "tier": 1,
+    "repo": "elmohq/elmo",
+    "number": 627,
+    "title": "add page titles to routes that are missing them",
+    "url": "https://github.com/elmohq/elmo/issues/627",
+    "comments": 0,
+    "createdAt": "2026-08-26T01:53:57Z",
+    "labels": [
+      "good first issue",
+      "area/core"
+    ],
+    "language": "typescript",
+    "stars": 264,
+    "foundAt": "2026-08-26T02:05:46.694Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29167",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29167,
+    "title": "[Good First Issue] 🍣 Add new Community Note Line #1 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29167",
+    "comments": 1,
+    "createdAt": "2026-08-26T01:37:34Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3253,
+    "foundAt": "2026-08-26T02:05:46.694Z"
+  },
+  {
+    "key": "jason5ng32/MyIP#460",
+    "tier": 1,
+    "repo": "jason5ng32/MyIP",
+    "number": 460,
+    "title": "Connectivity test: add a Germany country list",
+    "url": "https://github.com/jason5ng32/MyIP/issues/460",
+    "comments": 0,
+    "createdAt": "2026-08-26T01:37:02Z",
+    "labels": [
+      "enhancement",
+      "good first issue"
+    ],
+    "language": "javascript",
+    "stars": 11752,
+    "foundAt": "2026-08-26T02:05:47.562Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29166",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29166,
+    "title": "[Good First Issue] 🍡 Add new Wallpaper URL #2 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29166",
+    "comments": 1,
+    "createdAt": "2026-08-26T01:00:59Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3253,
+    "foundAt": "2026-08-26T02:05:46.694Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29164",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29164,
+    "title": "[Good First Issue] 🥢 Add new Learner Mistake 47 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29164",
+    "comments": 1,
+    "createdAt": "2026-08-26T00:37:30Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3253,
+    "foundAt": "2026-08-26T02:05:46.694Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29163",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29163,
+    "title": "[Good First Issue] 🀄 Add new Etiquette Tip 62 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29163",
+    "comments": 1,
+    "createdAt": "2026-08-26T00:01:04Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3253,
+    "foundAt": "2026-08-26T02:05:47.386Z"
+  },
+  {
+    "key": "CherryHQ/cherry-studio#19422",
+    "tier": 2,
+    "repo": "CherryHQ/cherry-studio",
+    "number": 19422,
+    "title": "[Discussion]: Scheduled task sends channel messages",
+    "url": "https://github.com/CherryHQ/cherry-studio/issues/19422",
+    "comments": 0,
+    "createdAt": "2026-08-26T01:10:56Z",
+    "labels": [
+      "help wanted",
+      "discussion",
+      "needs-repro"
+    ],
+    "language": "typescript",
+    "stars": 51067,
+    "foundAt": "2026-08-26T02:05:47.754Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#29162",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",

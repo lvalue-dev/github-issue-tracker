@@ -868,5 +868,175 @@
     "language": "MDX",
     "openIssues": 6,
     "cachedAt": "2026-08-25T23:45:28.383Z"
+  },
+  "elmohq/elmo": {
+    "fullName": "elmohq/elmo",
+    "stars": 264,
+    "pushedAt": "2026-08-26T02:03:51Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 128,
+    "cachedAt": "2026-08-26T02:05:46.694Z"
+  },
+  "SmartDropLabs/smartdrop-frontend": {
+    "fullName": "SmartDropLabs/smartdrop-frontend",
+    "stars": 0,
+    "pushedAt": "2026-08-26T01:12:45Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 52,
+    "cachedAt": "2026-08-26T02:05:46.922Z"
+  },
+  "grafana/grafana-pathfinder-app": {
+    "fullName": "grafana/grafana-pathfinder-app",
+    "stars": 19,
+    "pushedAt": "2026-08-25T23:55:50Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 144,
+    "cachedAt": "2026-08-26T02:05:47.147Z"
+  },
+  "stolla-labs/stolla": {
+    "fullName": "stolla-labs/stolla",
+    "stars": 1,
+    "pushedAt": "2026-08-17T11:03:52Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 21,
+    "cachedAt": "2026-08-26T02:05:47.386Z"
+  },
+  "jason5ng32/MyIP": {
+    "fullName": "jason5ng32/MyIP",
+    "stars": 11752,
+    "pushedAt": "2026-08-26T01:55:06Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 28,
+    "cachedAt": "2026-08-26T02:05:47.562Z"
+  },
+  "CherryHQ/cherry-studio": {
+    "fullName": "CherryHQ/cherry-studio",
+    "stars": 51067,
+    "pushedAt": "2026-08-26T01:06:44Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 1373,
+    "cachedAt": "2026-08-26T02:05:47.754Z"
+  },
+  "thecarinsiwa/africatourismgate": {
+    "fullName": "thecarinsiwa/africatourismgate",
+    "stars": 0,
+    "pushedAt": "2026-08-25T23:43:17Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 23,
+    "cachedAt": "2026-08-26T02:05:47.970Z"
+  },
+  "Proto-UI/Proto-UI": {
+    "fullName": "Proto-UI/Proto-UI",
+    "stars": 33,
+    "pushedAt": "2026-08-26T01:52:32Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 64,
+    "cachedAt": "2026-08-26T02:05:48.178Z"
+  },
+  "mrpeanut01/elevator-sim": {
+    "fullName": "mrpeanut01/elevator-sim",
+    "stars": 0,
+    "pushedAt": "2026-08-26T02:03:10Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 85,
+    "cachedAt": "2026-08-26T02:05:48.376Z"
+  },
+  "CoJoA13/HeatSynQ": {
+    "fullName": "CoJoA13/HeatSynQ",
+    "stars": 0,
+    "pushedAt": "2026-08-25T20:49:56Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 34,
+    "cachedAt": "2026-08-26T02:05:48.621Z"
+  },
+  "dcruzgalicia/iteraciones-cli": {
+    "fullName": "dcruzgalicia/iteraciones-cli",
+    "stars": 0,
+    "pushedAt": "2026-08-25T21:21:19Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 27,
+    "cachedAt": "2026-08-26T02:05:48.831Z"
+  },
+  "mako10k/perttool": {
+    "fullName": "mako10k/perttool",
+    "stars": 0,
+    "pushedAt": "2026-08-25T10:58:47Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 18,
+    "cachedAt": "2026-08-26T02:05:49.042Z"
+  },
+  "JSE-ORG/trust-link-backend": {
+    "fullName": "JSE-ORG/trust-link-backend",
+    "stars": 0,
+    "pushedAt": "2026-08-26T01:49:16Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 65,
+    "cachedAt": "2026-08-26T02:05:49.246Z"
+  },
+  "carpet-stain/agents": {
+    "fullName": "carpet-stain/agents",
+    "stars": 0,
+    "pushedAt": "2026-08-26T01:15:10Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 17,
+    "cachedAt": "2026-08-26T02:05:49.442Z"
+  },
+  "egarcia74/warp-sql-server-mcp": {
+    "fullName": "egarcia74/warp-sql-server-mcp",
+    "stars": 5,
+    "pushedAt": "2026-08-26T01:59:37Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 13,
+    "cachedAt": "2026-08-26T02:05:49.671Z"
+  },
+  "markup-carve/carve": {
+    "fullName": "markup-carve/carve",
+    "stars": 24,
+    "pushedAt": "2026-08-26T02:05:22Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 11,
+    "cachedAt": "2026-08-26T02:05:49.849Z"
+  },
+  "voodootikigod/adlc": {
+    "fullName": "voodootikigod/adlc",
+    "stars": 17,
+    "pushedAt": "2026-08-26T00:35:10Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 375,
+    "cachedAt": "2026-08-26T02:05:50.030Z"
   }
 }
