@@ -2728,5 +2728,355 @@
     "language": "JavaScript",
     "openIssues": 64,
     "cachedAt": "2026-08-26T13:31:26.374Z"
+  },
+  "hs3180/disclaude": {
+    "fullName": "hs3180/disclaude",
+    "stars": 3,
+    "pushedAt": "2026-08-26T15:50:14Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 23,
+    "cachedAt": "2026-08-26T15:57:37.018Z"
+  },
+  "Quid-proquo/Quid": {
+    "fullName": "Quid-proquo/Quid",
+    "stars": 1,
+    "pushedAt": "2026-08-26T15:15:42Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 72,
+    "cachedAt": "2026-08-26T15:57:37.232Z"
+  },
+  "PorPay/Predictive-FX-volatility-model-for-stablecoin-off-ramp-scheduling": {
+    "fullName": "PorPay/Predictive-FX-volatility-model-for-stablecoin-off-ramp-scheduling",
+    "stars": 0,
+    "pushedAt": "2026-08-26T15:17:21Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 12,
+    "cachedAt": "2026-08-26T15:57:37.454Z"
+  },
+  "nahcnuj/psychic-waddle": {
+    "fullName": "nahcnuj/psychic-waddle",
+    "stars": 1,
+    "pushedAt": "2026-08-26T14:07:49Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 6,
+    "cachedAt": "2026-08-26T15:57:37.675Z"
+  },
+  "medusajs/medusa": {
+    "fullName": "medusajs/medusa",
+    "stars": 36015,
+    "pushedAt": "2026-08-26T14:58:01Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 174,
+    "cachedAt": "2026-08-26T15:57:37.889Z"
+  },
+  "WooYoungSang/claimgate": {
+    "fullName": "WooYoungSang/claimgate",
+    "stars": 0,
+    "pushedAt": "2026-08-26T14:21:37Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 3,
+    "cachedAt": "2026-08-26T15:57:38.116Z"
+  },
+  "bandstandhq/bandstand": {
+    "fullName": "bandstandhq/bandstand",
+    "stars": 0,
+    "pushedAt": "2026-08-26T14:26:13Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 14,
+    "cachedAt": "2026-08-26T15:57:38.375Z"
+  },
+  "prometheus/client_js": {
+    "fullName": "prometheus/client_js",
+    "stars": 3483,
+    "pushedAt": "2026-08-26T15:30:35Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 52,
+    "cachedAt": "2026-08-26T15:57:38.574Z"
+  },
+  "tetherto/wdk-utils": {
+    "fullName": "tetherto/wdk-utils",
+    "stars": 2,
+    "pushedAt": "2026-07-30T03:17:14Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 3,
+    "cachedAt": "2026-08-26T15:57:38.819Z"
+  },
+  "tetherto/wdk-wallet-ton": {
+    "fullName": "tetherto/wdk-wallet-ton",
+    "stars": 3,
+    "pushedAt": "2026-08-24T05:09:32Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 3,
+    "cachedAt": "2026-08-26T15:57:39.073Z"
+  },
+  "hevansDev/mapping-pydata": {
+    "fullName": "hevansDev/mapping-pydata",
+    "stars": 1,
+    "pushedAt": "2026-08-26T15:06:34Z",
+    "archived": false,
+    "fork": false,
+    "language": "HTML",
+    "openIssues": 3,
+    "cachedAt": "2026-08-26T15:57:39.270Z"
+  },
+  "KaotoIO/kaoto": {
+    "fullName": "KaotoIO/kaoto",
+    "stars": 125,
+    "pushedAt": "2026-08-26T14:41:55Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 248,
+    "cachedAt": "2026-08-26T15:57:39.498Z"
+  },
+  "TriliumNext/Trilium": {
+    "fullName": "TriliumNext/Trilium",
+    "stars": 37596,
+    "pushedAt": "2026-08-26T13:14:24Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 694,
+    "cachedAt": "2026-08-26T15:57:39.743Z"
+  },
+  "travisgalloway/income-tax": {
+    "fullName": "travisgalloway/income-tax",
+    "stars": 0,
+    "pushedAt": "2026-08-26T15:55:36Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 48,
+    "cachedAt": "2026-08-26T15:57:39.927Z"
+  },
+  "lemos075/Partilhe": {
+    "fullName": "lemos075/Partilhe",
+    "stars": 0,
+    "pushedAt": "2026-08-26T13:51:08Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 6,
+    "cachedAt": "2026-08-26T15:57:40.157Z"
+  },
+  "eclipse-theia/theia": {
+    "fullName": "eclipse-theia/theia",
+    "stars": 21657,
+    "pushedAt": "2026-08-26T13:59:54Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 1503,
+    "cachedAt": "2026-08-26T15:57:40.401Z"
+  },
+  "parthbuilds-community/FitMart": {
+    "fullName": "parthbuilds-community/FitMart",
+    "stars": 354,
+    "pushedAt": "2026-08-24T02:45:34Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 577,
+    "cachedAt": "2026-08-26T15:57:40.614Z"
+  },
+  "Simon-He95/markstream-vue": {
+    "fullName": "Simon-He95/markstream-vue",
+    "stars": 2967,
+    "pushedAt": "2026-08-26T14:53:39Z",
+    "archived": false,
+    "fork": false,
+    "language": "Vue",
+    "openIssues": 2,
+    "cachedAt": "2026-08-26T15:57:40.807Z"
+  },
+  "brylie/compendium": {
+    "fullName": "brylie/compendium",
+    "stars": 0,
+    "pushedAt": "2026-08-26T15:42:34Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 44,
+    "cachedAt": "2026-08-26T15:57:41.033Z"
+  },
+  "diegosouzapw/OmniRoute": {
+    "fullName": "diegosouzapw/OmniRoute",
+    "stars": 55922,
+    "pushedAt": "2026-08-26T15:53:25Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 91,
+    "cachedAt": "2026-08-26T15:57:41.250Z"
+  },
+  "AlejandroTatum/cata_club": {
+    "fullName": "AlejandroTatum/cata_club",
+    "stars": 0,
+    "pushedAt": "2026-08-26T06:19:51Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 12,
+    "cachedAt": "2026-08-26T15:57:41.481Z"
+  },
+  "az-digital/design": {
+    "fullName": "az-digital/design",
+    "stars": 0,
+    "pushedAt": "2026-08-26T15:55:00Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 19,
+    "cachedAt": "2026-08-26T15:57:41.754Z"
+  },
+  "electrohyun/smocket": {
+    "fullName": "electrohyun/smocket",
+    "stars": 4,
+    "pushedAt": "2026-08-26T15:54:49Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 14,
+    "cachedAt": "2026-08-26T15:57:41.947Z"
+  },
+  "electrohyun/smocket-site": {
+    "fullName": "electrohyun/smocket-site",
+    "stars": 1,
+    "pushedAt": "2026-08-26T15:54:49Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 10,
+    "cachedAt": "2026-08-26T15:57:42.154Z"
+  },
+  "eggman0131/saltV2": {
+    "fullName": "eggman0131/saltV2",
+    "stars": 0,
+    "pushedAt": "2026-08-26T15:30:07Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 66,
+    "cachedAt": "2026-08-26T15:57:42.430Z"
+  },
+  "memphis-iis/Vellum-Rift": {
+    "fullName": "memphis-iis/Vellum-Rift",
+    "stars": 0,
+    "pushedAt": "2026-08-26T15:54:18Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 21,
+    "cachedAt": "2026-08-26T15:57:42.682Z"
+  },
+  "miruamel/shiyu": {
+    "fullName": "miruamel/shiyu",
+    "stars": 1,
+    "pushedAt": "2026-08-26T15:41:13Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 14,
+    "cachedAt": "2026-08-26T15:57:42.925Z"
+  },
+  "KaolaBrother/Kaola-Workflow": {
+    "fullName": "KaolaBrother/Kaola-Workflow",
+    "stars": 4,
+    "pushedAt": "2026-08-26T15:45:12Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 1,
+    "cachedAt": "2026-08-26T15:57:43.151Z"
+  },
+  "BuiltByLegacy/Motocross-Life-Simulator": {
+    "fullName": "BuiltByLegacy/Motocross-Life-Simulator",
+    "stars": 0,
+    "pushedAt": "2026-08-26T15:28:15Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 15,
+    "cachedAt": "2026-08-26T15:57:43.378Z"
+  },
+  "YuukiFST/my-harness-config": {
+    "fullName": "YuukiFST/my-harness-config",
+    "stars": 0,
+    "pushedAt": "2026-08-26T15:16:39Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 3,
+    "cachedAt": "2026-08-26T15:57:43.604Z"
+  },
+  "barelyworkingcode/fsmcp": {
+    "fullName": "barelyworkingcode/fsmcp",
+    "stars": 0,
+    "pushedAt": "2026-08-26T13:44:09Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 21,
+    "cachedAt": "2026-08-26T15:57:43.816Z"
+  },
+  "Mystify7777/shopstock": {
+    "fullName": "Mystify7777/shopstock",
+    "stars": 0,
+    "pushedAt": "2026-08-25T10:07:51Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 10,
+    "cachedAt": "2026-08-26T15:57:44.043Z"
+  },
+  "2990731862-byte/help_me_decide": {
+    "fullName": "2990731862-byte/help_me_decide",
+    "stars": 0,
+    "pushedAt": "2026-08-26T14:38:29Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 8,
+    "cachedAt": "2026-08-26T15:57:44.294Z"
+  },
+  "metanull/website-template": {
+    "fullName": "metanull/website-template",
+    "stars": 0,
+    "pushedAt": "2026-08-24T19:14:06Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 1,
+    "cachedAt": "2026-08-26T15:57:44.492Z"
+  },
+  "brxbank/api-docs-public": {
+    "fullName": "brxbank/api-docs-public",
+    "stars": 0,
+    "pushedAt": "2026-08-26T15:52:05Z",
+    "archived": false,
+    "fork": false,
+    "language": "MDX",
+    "openIssues": 2,
+    "cachedAt": "2026-08-26T15:57:44.729Z"
   }
 }

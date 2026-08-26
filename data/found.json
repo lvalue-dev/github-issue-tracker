@@ -1,5 +1,229 @@
 [
   {
+    "key": "prometheus/client_js#823",
+    "tier": 1,
+    "repo": "prometheus/client_js",
+    "number": 823,
+    "title": "Truthiness Reduction Program 2026",
+    "url": "https://github.com/prometheus/client_js/issues/823",
+    "comments": 0,
+    "createdAt": "2026-08-26T15:51:00Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "performance"
+    ],
+    "language": "javascript",
+    "stars": 3483,
+    "foundAt": "2026-08-26T15:57:38.574Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29203",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29203,
+    "title": "[Good First Issue] 🎐 Add new Example Sentence 91 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29203",
+    "comments": 1,
+    "createdAt": "2026-08-26T15:01:42Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3253,
+    "foundAt": "2026-08-26T15:57:37.232Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29202",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29202,
+    "title": "[Good First Issue] 🗻 Add new Etiquette Tip 55 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29202",
+    "comments": 1,
+    "createdAt": "2026-08-26T14:38:24Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3253,
+    "foundAt": "2026-08-26T15:57:37.454Z"
+  },
+  {
+    "key": "medusajs/medusa#16612",
+    "tier": 1,
+    "repo": "medusajs/medusa",
+    "number": 16612,
+    "title": "[Bug]: Filtering orders by most order_item fields (e.g. items.fulfilled_quantity) throws 'not existing property OrderLineItem'",
+    "url": "https://github.com/medusajs/medusa/issues/16612",
+    "comments": 1,
+    "createdAt": "2026-08-26T14:04:53Z",
+    "labels": [
+      "good first issue",
+      "type: bug"
+    ],
+    "language": "typescript",
+    "stars": 36015,
+    "foundAt": "2026-08-26T15:57:37.889Z"
+  },
+  {
+    "key": "apache/maka#3933",
+    "tier": 2,
+    "repo": "apache/maka",
+    "number": 3933,
+    "title": "refactor(cli): ship one Eval runtime in the npm CLI package",
+    "url": "https://github.com/apache/maka/issues/3933",
+    "comments": 1,
+    "createdAt": "2026-08-26T14:59:58Z",
+    "labels": [
+      "enhancement",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 3407,
+    "foundAt": "2026-08-26T15:57:39.498Z"
+  },
+  {
+    "key": "apache/maka#3932",
+    "tier": 2,
+    "repo": "apache/maka",
+    "number": 3932,
+    "title": "refactor(runtime-host): remove the uncalled execution.inspect.resolve operation",
+    "url": "https://github.com/apache/maka/issues/3932",
+    "comments": 1,
+    "createdAt": "2026-08-26T14:59:54Z",
+    "labels": [
+      "enhancement",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 3407,
+    "foundAt": "2026-08-26T15:57:39.498Z"
+  },
+  {
+    "key": "TriliumNext/Trilium#11204",
+    "tier": 2,
+    "repo": "TriliumNext/Trilium",
+    "number": 11204,
+    "title": "Tree Quick Search fails when `/` is in the middle of the query",
+    "url": "https://github.com/TriliumNext/Trilium/issues/11204",
+    "comments": 1,
+    "createdAt": "2026-08-26T14:19:58Z",
+    "labels": [
+      "Difficulty: Easy",
+      "State: Triage",
+      "awaiting feedback",
+      "UI"
+    ],
+    "language": "typescript",
+    "stars": 37596,
+    "foundAt": "2026-08-26T15:57:39.743Z"
+  },
+  {
+    "key": "Simon-He95/markstream-vue#726",
+    "tier": 2,
+    "repo": "Simon-He95/markstream-vue",
+    "number": 726,
+    "title": "Research CSS Custom Highlight rendering versus stream-diffs and provide a Vue PoC",
+    "url": "https://github.com/Simon-He95/markstream-vue/issues/726",
+    "comments": 0,
+    "createdAt": "2026-08-26T13:52:05Z",
+    "labels": [
+      "help wanted",
+      "perf",
+      "pr welcome",
+      "vue3"
+    ],
+    "language": "vue",
+    "stars": 2967,
+    "foundAt": "2026-08-26T15:57:40.808Z"
+  },
+  {
+    "key": "parthbuilds-community/FitMart#979",
+    "tier": 2,
+    "repo": "parthbuilds-community/FitMart",
+    "number": 979,
+    "title": "Feature: Create the Program Mongoose Model",
+    "url": "https://github.com/parthbuilds-community/FitMart/issues/979",
+    "comments": 0,
+    "createdAt": "2026-08-26T13:42:55Z",
+    "labels": [
+      "duplicate",
+      "enhancement",
+      "help wanted",
+      "UI"
+    ],
+    "language": "javascript",
+    "stars": 354,
+    "foundAt": "2026-08-26T15:57:40.614Z"
+  },
+  {
+    "key": "eclipse-theia/theia#17957",
+    "tier": 2,
+    "repo": "eclipse-theia/theia",
+    "number": 17957,
+    "title": "Adopt React 19 APIs/features where it makes sense",
+    "url": "https://github.com/eclipse-theia/theia/issues/17957",
+    "comments": 0,
+    "createdAt": "2026-08-26T13:21:04Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "react"
+    ],
+    "language": "typescript",
+    "stars": 21657,
+    "foundAt": "2026-08-26T15:57:40.401Z"
+  },
+  {
+    "key": "diegosouzapw/OmniRoute#11661",
+    "tier": 3,
+    "repo": "diegosouzapw/OmniRoute",
+    "number": 11661,
+    "title": "docs(video): consolidate canonical state and 100 percent closure evidence",
+    "url": "https://github.com/diegosouzapw/OmniRoute/issues/11661",
+    "comments": 0,
+    "createdAt": "2026-08-26T15:46:46Z",
+    "labels": [
+      "documentation",
+      "enhancement"
+    ],
+    "language": "typescript",
+    "stars": 55922,
+    "foundAt": "2026-08-26T15:57:41.251Z"
+  },
+  {
+    "key": "cloudflare/cloudflare-docs#33042",
+    "tier": 3,
+    "repo": "cloudflare/cloudflare-docs",
+    "number": 33042,
+    "title": "glm-5.3-flash page giving 404",
+    "url": "https://github.com/cloudflare/cloudflare-docs/issues/33042",
+    "comments": 0,
+    "createdAt": "2026-08-26T15:35:11Z",
+    "labels": [
+      "documentation",
+      "content:new"
+    ],
+    "language": "mdx",
+    "stars": 5137,
+    "foundAt": "2026-08-26T15:57:44.729Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#29195",
     "tier": 2,
     "repo": "lingdojo/kana-dojo",

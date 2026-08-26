@@ -4,6 +4,18 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-08-26 | 🥇 | [Truthiness Reduction Program 2026](https://github.com/prometheus/client_js/issues/823) | `prometheus/client_js` | ⭐ 3.5k |
+| 2026-08-26 | 🥇 | [[Good First Issue] 🎐 Add new Example Sentence 91 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29203) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-08-26 | 🥇 | [[Good First Issue] 🗻 Add new Etiquette Tip 55 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29202) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-08-26 | 🥇 | [[Bug]: Filtering orders by most order_item fields (e.g. items.fulfilled_quantity](https://github.com/medusajs/medusa/issues/16612) | `medusajs/medusa` | ⭐ 36.0k |
+| 2026-08-26 | 🥈 | [refactor(cli): ship one Eval runtime in the npm CLI package](https://github.com/apache/maka/issues/3933) | `apache/maka` | ⭐ 3.4k |
+| 2026-08-26 | 🥈 | [refactor(runtime-host): remove the uncalled execution.inspect.resolve operation](https://github.com/apache/maka/issues/3932) | `apache/maka` | ⭐ 3.4k |
+| 2026-08-26 | 🥈 | [Tree Quick Search fails when `/` is in the middle of the query](https://github.com/TriliumNext/Trilium/issues/11204) | `TriliumNext/Trilium` | ⭐ 37.6k |
+| 2026-08-26 | 🥈 | [Research CSS Custom Highlight rendering versus stream-diffs and provide a Vue Po](https://github.com/Simon-He95/markstream-vue/issues/726) | `Simon-He95/markstream-vue` | ⭐ 3.0k |
+| 2026-08-26 | 🥈 | [Feature: Create the Program Mongoose Model](https://github.com/parthbuilds-community/FitMart/issues/979) | `parthbuilds-community/FitMart` | ⭐ 354 |
+| 2026-08-26 | 🥈 | [Adopt React 19 APIs/features where it makes sense](https://github.com/eclipse-theia/theia/issues/17957) | `eclipse-theia/theia` | ⭐ 21.7k |
+| 2026-08-26 | 🥉 | [docs(video): consolidate canonical state and 100 percent closure evidence](https://github.com/diegosouzapw/OmniRoute/issues/11661) | `diegosouzapw/OmniRoute` | ⭐ 55.9k |
+| 2026-08-26 | 🥉 | [glm-5.3-flash page giving 404](https://github.com/cloudflare/cloudflare-docs/issues/33042) | `cloudflare/cloudflare-docs` | ⭐ 5.1k |
 | 2026-08-26 | 🥈 | [[Good First Issue] 🎎 Add new Japanese Idiom 73 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29195) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-08-26 | 🥈 | [[Good First Issue] 🍱 Add new Anime Quote 44 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29193) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-08-26 | 🥇 | [[Good First Issue] 🍢 Add new Grammar Point 122 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29192) | `lingdojo/kana-dojo` | ⭐ 3.3k |
