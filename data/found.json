@@ -1,5 +1,65 @@
 [
   {
+    "key": "lingdojo/kana-dojo#29174",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29174,
+    "title": "[Good First Issue] 🦊 Add new Video Game Quote 56 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29174",
+    "comments": 1,
+    "createdAt": "2026-08-26T05:01:01Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3253,
+    "foundAt": "2026-08-26T05:02:07.551Z"
+  },
+  {
+    "key": "meshery/meshery.io#2907",
+    "tier": 1,
+    "repo": "meshery/meshery.io",
+    "number": 2907,
+    "title": "[Bug] Fix Meshery Docs Link Styling",
+    "url": "https://github.com/meshery/meshery.io/issues/2907",
+    "comments": 0,
+    "createdAt": "2026-08-26T04:45:54Z",
+    "labels": [
+      "kind/bug",
+      "good first issue",
+      "help wanted",
+      "first timers only"
+    ],
+    "language": "javascript",
+    "stars": 827,
+    "foundAt": "2026-08-26T05:02:08.078Z"
+  },
+  {
+    "key": "supabase/supabase#49577",
+    "tier": 3,
+    "repo": "supabase/supabase",
+    "number": 49577,
+    "title": "docs: incorrect comment on `prepare: false` in the drizzle Edge Function example",
+    "url": "https://github.com/supabase/supabase/issues/49577",
+    "comments": 0,
+    "createdAt": "2026-08-26T04:44:21Z",
+    "labels": [
+      "documentation",
+      "external-issue",
+      "to-triage"
+    ],
+    "language": "typescript",
+    "stars": 108413,
+    "foundAt": "2026-08-26T05:02:09.846Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#29170",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",

@@ -1268,5 +1268,115 @@
     "language": "JavaScript",
     "openIssues": 7,
     "cachedAt": "2026-08-26T03:30:26.414Z"
+  },
+  "Web3Novalabs/Nevo": {
+    "fullName": "Web3Novalabs/Nevo",
+    "stars": 8,
+    "pushedAt": "2026-08-25T16:10:10Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 188,
+    "cachedAt": "2026-08-26T05:02:07.808Z"
+  },
+  "meshery/meshery.io": {
+    "fullName": "meshery/meshery.io",
+    "stars": 827,
+    "pushedAt": "2026-08-26T00:39:13Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 69,
+    "cachedAt": "2026-08-26T05:02:08.078Z"
+  },
+  "rinzldev/claude-tetris": {
+    "fullName": "rinzldev/claude-tetris",
+    "stars": 0,
+    "pushedAt": "2026-08-26T04:31:42Z",
+    "archived": false,
+    "fork": true,
+    "language": "JavaScript",
+    "openIssues": 1,
+    "cachedAt": "2026-08-26T05:02:08.365Z"
+  },
+  "debezium/dbz": {
+    "fullName": "debezium/dbz",
+    "stars": 5,
+    "pushedAt": "2026-08-24T09:09:01Z",
+    "archived": false,
+    "fork": false,
+    "language": "HTML",
+    "openIssues": 1470,
+    "cachedAt": "2026-08-26T05:02:08.635Z"
+  },
+  "pradipNP/ferilo-ecommerce-FullstackWebsite": {
+    "fullName": "pradipNP/ferilo-ecommerce-FullstackWebsite",
+    "stars": 0,
+    "pushedAt": "2026-08-25T07:20:15Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 12,
+    "cachedAt": "2026-08-26T05:02:08.911Z"
+  },
+  "SarangRao20/bughunt-arena": {
+    "fullName": "SarangRao20/bughunt-arena",
+    "stars": 0,
+    "pushedAt": "2026-08-26T04:56:45Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 10,
+    "cachedAt": "2026-08-26T05:02:09.155Z"
+  },
+  "scottschreckengaust/e2e-ministack": {
+    "fullName": "scottschreckengaust/e2e-ministack",
+    "stars": 2,
+    "pushedAt": "2026-08-26T02:02:21Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 51,
+    "cachedAt": "2026-08-26T05:02:09.368Z"
+  },
+  "kuraryu405/tokyo-opendata": {
+    "fullName": "kuraryu405/tokyo-opendata",
+    "stars": 0,
+    "pushedAt": "2026-08-26T04:59:13Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 54,
+    "cachedAt": "2026-08-26T05:02:09.594Z"
+  },
+  "supabase/supabase": {
+    "fullName": "supabase/supabase",
+    "stars": 108413,
+    "pushedAt": "2026-08-26T04:24:44Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 1070,
+    "cachedAt": "2026-08-26T05:02:09.846Z"
+  },
+  "Vinosaamaa/interview-arc": {
+    "fullName": "Vinosaamaa/interview-arc",
+    "stars": 0,
+    "pushedAt": "2026-08-24T11:00:20Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 38,
+    "cachedAt": "2026-08-26T05:02:10.072Z"
+  },
+  "tadanobutubutu/screeps": {
+    "fullName": "tadanobutubutu/screeps",
+    "stars": 3,
+    "pushedAt": "2026-08-26T05:00:52Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 583,
+    "cachedAt": "2026-08-26T05:02:10.347Z"
   }
 }

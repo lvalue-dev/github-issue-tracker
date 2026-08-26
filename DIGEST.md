@@ -4,6 +4,9 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-08-26 | 🥇 | [[Good First Issue] 🦊 Add new Video Game Quote 56 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29174) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-08-26 | 🥇 | [[Bug] Fix Meshery Docs Link Styling](https://github.com/meshery/meshery.io/issues/2907) | `meshery/meshery.io` | ⭐ 827 |
+| 2026-08-26 | 🥉 | [docs: incorrect comment on `prepare: false` in the drizzle Edge Function example](https://github.com/supabase/supabase/issues/49577) | `supabase/supabase` | ⭐ 108.4k |
 | 2026-08-26 | 🥇 | [[Good First Issue] 🗻 Add new Japanese Proverb 97 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29170) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-08-26 | 🥇 | [[Good First Issue] 🍣 Add new Japan Fact 220 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29169) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-08-26 | 🥈 | [[Discussion]: How to manually install and configure onnxruntime](https://github.com/CherryHQ/cherry-studio/issues/19437) | `CherryHQ/cherry-studio` | ⭐ 51.1k |
