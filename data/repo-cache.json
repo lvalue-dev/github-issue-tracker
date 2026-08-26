@@ -1678,5 +1678,125 @@
     "language": "MDX",
     "openIssues": 3,
     "cachedAt": "2026-08-26T07:16:00.776Z"
+  },
+  "hb-dragons/dragons-hub": {
+    "fullName": "hb-dragons/dragons-hub",
+    "stars": 0,
+    "pushedAt": "2026-08-25T18:10:06Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 39,
+    "cachedAt": "2026-08-26T08:05:54.189Z"
+  },
+  "karim-coder/life-os": {
+    "fullName": "karim-coder/life-os",
+    "stars": 5,
+    "pushedAt": "2026-08-26T07:41:11Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 7,
+    "cachedAt": "2026-08-26T08:05:54.427Z"
+  },
+  "LucaBonamino/Clavimit": {
+    "fullName": "LucaBonamino/Clavimit",
+    "stars": 0,
+    "pushedAt": "2026-08-26T07:51:42Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 1,
+    "cachedAt": "2026-08-26T08:05:54.626Z"
+  },
+  "santifer/career-ops": {
+    "fullName": "santifer/career-ops",
+    "stars": 68509,
+    "pushedAt": "2026-08-26T08:04:27Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 316,
+    "cachedAt": "2026-08-26T08:05:54.858Z"
+  },
+  "stSoftwareAU/VibeCoder": {
+    "fullName": "stSoftwareAU/VibeCoder",
+    "stars": 3,
+    "pushedAt": "2026-08-26T07:52:00Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 19,
+    "cachedAt": "2026-08-26T08:05:55.082Z"
+  },
+  "vjt/grappa-irc": {
+    "fullName": "vjt/grappa-irc",
+    "stars": 8,
+    "pushedAt": "2026-08-26T07:37:39Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 86,
+    "cachedAt": "2026-08-26T08:05:55.348Z"
+  },
+  "westonrobot/docs": {
+    "fullName": "westonrobot/docs",
+    "stars": 0,
+    "pushedAt": "2026-08-26T06:02:06Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 1,
+    "cachedAt": "2026-08-26T08:05:55.622Z"
+  },
+  "PublyApp/publyapp": {
+    "fullName": "PublyApp/publyapp",
+    "stars": 1,
+    "pushedAt": "2026-08-26T08:05:52Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 95,
+    "cachedAt": "2026-08-26T08:05:55.906Z"
+  },
+  "laazyj/composureCDK": {
+    "fullName": "laazyj/composureCDK",
+    "stars": 2,
+    "pushedAt": "2026-08-26T07:58:48Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 31,
+    "cachedAt": "2026-08-26T08:05:56.200Z"
+  },
+  "shubhyansh/PeopleFlow-AI": {
+    "fullName": "shubhyansh/PeopleFlow-AI",
+    "stars": 0,
+    "pushedAt": "2026-08-26T08:00:53Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 8,
+    "cachedAt": "2026-08-26T08:05:56.407Z"
+  },
+  "Ninja6-MC/Keyframe": {
+    "fullName": "Ninja6-MC/Keyframe",
+    "stars": 0,
+    "pushedAt": "2026-08-26T07:49:52Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 6,
+    "cachedAt": "2026-08-26T08:05:56.665Z"
+  },
+  "cpinitiative/usaco-guide": {
+    "fullName": "cpinitiative/usaco-guide",
+    "stars": 1835,
+    "pushedAt": "2026-08-26T02:20:55Z",
+    "archived": false,
+    "fork": false,
+    "language": "MDX",
+    "openIssues": 67,
+    "cachedAt": "2026-08-26T08:05:56.889Z"
   }
 }

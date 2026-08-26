@@ -1,5 +1,86 @@
 [
   {
+    "key": "lingdojo/kana-dojo#29181",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29181,
+    "title": "[Good First Issue] 🏮 Add new Learner Mistake 21 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29181",
+    "comments": 1,
+    "createdAt": "2026-08-26T08:01:02Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3253,
+    "foundAt": "2026-08-26T08:05:53.968Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29180",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29180,
+    "title": "[Good First Issue] 🍣 Add new Example Sentence 99 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29180",
+    "comments": 1,
+    "createdAt": "2026-08-26T07:37:32Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3253,
+    "foundAt": "2026-08-26T08:05:54.427Z"
+  },
+  {
+    "key": "santifer/career-ops#3356",
+    "tier": 1,
+    "repo": "santifer/career-ops",
+    "number": 3356,
+    "title": "templates/portals.example.yml assumes an AI-engineer search: make the example defaults specialty-agnostic",
+    "url": "https://github.com/santifer/career-ops/issues/3356",
+    "comments": 0,
+    "createdAt": "2026-08-26T07:21:51Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "📄 docs"
+    ],
+    "language": "javascript",
+    "stars": 68509,
+    "foundAt": "2026-08-26T08:05:54.858Z"
+  },
+  {
+    "key": "cpinitiative/usaco-guide#6550",
+    "tier": 3,
+    "repo": "cpinitiative/usaco-guide",
+    "number": 6550,
+    "title": "Contact Form Submission - Mistake (Solution: USACO Silver 2018 Open - Lemonade Line)",
+    "url": "https://github.com/cpinitiative/usaco-guide/issues/6550",
+    "comments": 0,
+    "createdAt": "2026-08-26T07:15:54Z",
+    "labels": [
+      "good first issue",
+      "content"
+    ],
+    "language": "mdx",
+    "stars": 1835,
+    "foundAt": "2026-08-26T08:05:56.889Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#29179",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",

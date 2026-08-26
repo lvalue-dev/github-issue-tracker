@@ -4,6 +4,10 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-08-26 | 🥇 | [[Good First Issue] 🏮 Add new Learner Mistake 21 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29181) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-08-26 | 🥇 | [[Good First Issue] 🍣 Add new Example Sentence 99 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29180) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-08-26 | 🥇 | [templates/portals.example.yml assumes an AI-engineer search: make the example de](https://github.com/santifer/career-ops/issues/3356) | `santifer/career-ops` | ⭐ 68.5k |
+| 2026-08-26 | 🥉 | [Contact Form Submission - Mistake (Solution: USACO Silver 2018 Open - Lemonade L](https://github.com/cpinitiative/usaco-guide/issues/6550) | `cpinitiative/usaco-guide` | ⭐ 1.8k |
 | 2026-08-26 | 🥇 | [[Good First Issue] 🌊 Add new Etiquette Tip 94 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29179) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-08-26 | 🥇 | [[Good First Issue] 🌺 Add new False Friend Pair 90 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29178) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-08-26 | 🥇 | [[Good First Issue] 🍚 Add new Dialect Entry 118 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29177) | `lingdojo/kana-dojo` | ⭐ 3.3k |
