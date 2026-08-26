@@ -4,6 +4,10 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-08-26 | 🥇 | [[Good First Issue] 🌊 Add new Etiquette Tip 94 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29179) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-08-26 | 🥇 | [[Good First Issue] 🌺 Add new False Friend Pair 90 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29178) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-08-26 | 🥇 | [[Good First Issue] 🍚 Add new Dialect Entry 118 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29177) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-08-26 | 🥉 | [Add required permission to API reference](https://github.com/cloudflare/cloudflare-docs/issues/33028) | `cloudflare/cloudflare-docs` | ⭐ 5.1k |
 | 2026-08-26 | 🥇 | [[Good First Issue] 🎏 Add new Japanese Idiom 55 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29175) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-08-26 | 🥈 | [[Good First Issue] 🗾 Add new Anime Quote 19 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29173) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-08-26 | 🥈 | [[Good First Issue] 🦊 Add new Grammar Point 85 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29172) | `lingdojo/kana-dojo` | ⭐ 3.3k |

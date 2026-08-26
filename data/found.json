@@ -1,5 +1,92 @@
 [
   {
+    "key": "lingdojo/kana-dojo#29179",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29179,
+    "title": "[Good First Issue] 🌊 Add new Etiquette Tip 94 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29179",
+    "comments": 1,
+    "createdAt": "2026-08-26T07:01:03Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3253,
+    "foundAt": "2026-08-26T07:15:57.573Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29178",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29178,
+    "title": "[Good First Issue] 🌺 Add new False Friend Pair 90 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29178",
+    "comments": 1,
+    "createdAt": "2026-08-26T06:37:35Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3253,
+    "foundAt": "2026-08-26T07:15:57.573Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29177",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29177,
+    "title": "[Good First Issue] 🍚 Add new Dialect Entry 118 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29177",
+    "comments": 1,
+    "createdAt": "2026-08-26T06:01:04Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3253,
+    "foundAt": "2026-08-26T07:15:57.573Z"
+  },
+  {
+    "key": "cloudflare/cloudflare-docs#33028",
+    "tier": 3,
+    "repo": "cloudflare/cloudflare-docs",
+    "number": 33028,
+    "title": "Add required permission to API reference",
+    "url": "https://github.com/cloudflare/cloudflare-docs/issues/33028",
+    "comments": 0,
+    "createdAt": "2026-08-26T06:57:35Z",
+    "labels": [
+      "documentation",
+      "product:API",
+      "content:edit"
+    ],
+    "language": "mdx",
+    "stars": 5137,
+    "foundAt": "2026-08-26T07:16:00.552Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#29175",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
