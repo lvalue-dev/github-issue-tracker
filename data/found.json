@@ -1,5 +1,103 @@
 [
   {
+    "key": "lingdojo/kana-dojo#29170",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29170,
+    "title": "[Good First Issue] 🗻 Add new Japanese Proverb 97 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29170",
+    "comments": 1,
+    "createdAt": "2026-08-26T03:00:58Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3253,
+    "foundAt": "2026-08-26T03:30:21.273Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29169",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29169,
+    "title": "[Good First Issue] 🍣 Add new Japan Fact 220 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29169",
+    "comments": 1,
+    "createdAt": "2026-08-26T02:37:30Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3253,
+    "foundAt": "2026-08-26T03:30:21.485Z"
+  },
+  {
+    "key": "CherryHQ/cherry-studio#19437",
+    "tier": 2,
+    "repo": "CherryHQ/cherry-studio",
+    "number": 19437,
+    "title": "[Discussion]: How to manually install and configure onnxruntime",
+    "url": "https://github.com/CherryHQ/cherry-studio/issues/19437",
+    "comments": 0,
+    "createdAt": "2026-08-26T02:40:56Z",
+    "labels": [
+      "help wanted",
+      "discussion"
+    ],
+    "language": "typescript",
+    "stars": 51067,
+    "foundAt": "2026-08-26T03:30:21.931Z"
+  },
+  {
+    "key": "apache/maka#3840",
+    "tier": 2,
+    "repo": "apache/maka",
+    "number": 3840,
+    "title": "test(runtime-host): flaky 'startup failure preserves its cause when shutdown reaches the active deadline'",
+    "url": "https://github.com/apache/maka/issues/3840",
+    "comments": 2,
+    "createdAt": "2026-08-26T02:21:05Z",
+    "labels": [
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 3407,
+    "foundAt": "2026-08-26T03:30:22.210Z"
+  },
+  {
+    "key": "elizaOS/eliza#28942",
+    "tier": 3,
+    "repo": "elizaOS/eliza",
+    "number": 28942,
+    "title": "docs: require reuse-first implementation and consolidation searches",
+    "url": "https://github.com/elizaOS/eliza/issues/28942",
+    "comments": 1,
+    "createdAt": "2026-08-26T03:27:49Z",
+    "labels": [
+      "documentation",
+      "refactor",
+      "Agent",
+      "claimed:shaw-codex"
+    ],
+    "language": "typescript",
+    "stars": 19166,
+    "foundAt": "2026-08-26T03:30:22.643Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#29168",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",

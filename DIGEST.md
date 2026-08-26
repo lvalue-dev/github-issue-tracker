@@ -4,6 +4,11 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-08-26 | 🥇 | [[Good First Issue] 🗻 Add new Japanese Proverb 97 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29170) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-08-26 | 🥇 | [[Good First Issue] 🍣 Add new Japan Fact 220 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29169) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-08-26 | 🥈 | [[Discussion]: How to manually install and configure onnxruntime](https://github.com/CherryHQ/cherry-studio/issues/19437) | `CherryHQ/cherry-studio` | ⭐ 51.1k |
+| 2026-08-26 | 🥈 | [test(runtime-host): flaky 'startup failure preserves its cause when shutdown rea](https://github.com/apache/maka/issues/3840) | `apache/maka` | ⭐ 3.4k |
+| 2026-08-26 | 🥉 | [docs: require reuse-first implementation and consolidation searches](https://github.com/elizaOS/eliza/issues/28942) | `elizaOS/eliza` | ⭐ 19.2k |
 | 2026-08-26 | 🥇 | [[Good First Issue] 🎎 Add new Theme: Harbor Fog - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29168) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-08-26 | 🥇 | [add unit tests for timezone-utils](https://github.com/elmohq/elmo/issues/633) | `elmohq/elmo` | ⭐ 264 |
 | 2026-08-26 | 🥇 | [add a contributing section to the README](https://github.com/elmohq/elmo/issues/632) | `elmohq/elmo` | ⭐ 264 |
