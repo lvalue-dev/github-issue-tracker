@@ -4,6 +4,8 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-08-26 | 🥈 | [[Good First Issue] 🎎 Add new Japanese Idiom 73 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29195) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-08-26 | 🥈 | [[Good First Issue] 🍱 Add new Anime Quote 44 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29193) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-08-26 | 🥇 | [[Good First Issue] 🍢 Add new Grammar Point 122 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29192) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-08-26 | 🥇 | [[Good First Issue] 🐙 Add new Trivia Question 2 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29191) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-08-26 | 🥇 | [[Good First Issue] 🎐 Add new Japanese Proverb 93 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29190) | `lingdojo/kana-dojo` | ⭐ 3.3k |

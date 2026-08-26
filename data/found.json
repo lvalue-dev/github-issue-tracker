@@ -1,5 +1,51 @@
 [
   {
+    "key": "lingdojo/kana-dojo#29195",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29195,
+    "title": "[Good First Issue] 🎎 Add new Japanese Idiom 73 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29195",
+    "comments": 1,
+    "createdAt": "2026-08-26T13:01:04Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3253,
+    "foundAt": "2026-08-26T13:31:22.974Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29193",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29193,
+    "title": "[Good First Issue] 🍱 Add new Anime Quote 44 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29193",
+    "comments": 1,
+    "createdAt": "2026-08-26T12:01:06Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3253,
+    "foundAt": "2026-08-26T13:31:24.280Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#29192",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
