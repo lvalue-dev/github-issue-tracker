@@ -3908,5 +3908,325 @@
     "language": "JavaScript",
     "openIssues": 5,
     "cachedAt": "2026-08-26T23:48:20.428Z"
+  },
+  "ShenSandaru/MakeYourWorld-OpenCircle": {
+    "fullName": "ShenSandaru/MakeYourWorld-OpenCircle",
+    "stars": 0,
+    "pushedAt": "2026-08-27T09:22:57Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 5,
+    "cachedAt": "2026-08-27T10:02:38.787Z"
+  },
+  "Nano-Collective/nanocoder": {
+    "fullName": "Nano-Collective/nanocoder",
+    "stars": 2385,
+    "pushedAt": "2026-08-27T09:58:15Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 121,
+    "cachedAt": "2026-08-27T10:02:38.968Z"
+  },
+  "alphatrann/limitkit": {
+    "fullName": "alphatrann/limitkit",
+    "stars": 1,
+    "pushedAt": "2026-08-27T08:17:18Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 10,
+    "cachedAt": "2026-08-27T10:02:39.200Z"
+  },
+  "TricklePay/tricklepay-frontend": {
+    "fullName": "TricklePay/tricklepay-frontend",
+    "stars": 2,
+    "pushedAt": "2026-08-27T01:15:39Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 101,
+    "cachedAt": "2026-08-27T10:02:39.389Z"
+  },
+  "mrsbeep/runtime-evidence": {
+    "fullName": "mrsbeep/runtime-evidence",
+    "stars": 0,
+    "pushedAt": "2026-08-27T09:46:46Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 13,
+    "cachedAt": "2026-08-27T10:02:39.583Z"
+  },
+  "Michael-Wester/tabtools": {
+    "fullName": "Michael-Wester/tabtools",
+    "stars": 1,
+    "pushedAt": "2026-08-25T07:13:58Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 3,
+    "cachedAt": "2026-08-27T10:02:39.791Z"
+  },
+  "akshita568/silentStrokes": {
+    "fullName": "akshita568/silentStrokes",
+    "stars": 0,
+    "pushedAt": "2026-08-26T16:04:07Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 1,
+    "cachedAt": "2026-08-27T10:02:39.985Z"
+  },
+  "sadanandpai/frontend-mini-challenges": {
+    "fullName": "sadanandpai/frontend-mini-challenges",
+    "stars": 2412,
+    "pushedAt": "2026-08-22T15:08:16Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 1,
+    "cachedAt": "2026-08-27T10:02:40.191Z"
+  },
+  "josepato/claude-tetris": {
+    "fullName": "josepato/claude-tetris",
+    "stars": 0,
+    "pushedAt": "2026-08-27T05:28:58Z",
+    "archived": false,
+    "fork": true,
+    "language": "JavaScript",
+    "openIssues": 1,
+    "cachedAt": "2026-08-27T10:02:40.416Z"
+  },
+  "wg5759/AgentPlay": {
+    "fullName": "wg5759/AgentPlay",
+    "stars": 1,
+    "pushedAt": "2026-08-27T04:01:13Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 12,
+    "cachedAt": "2026-08-27T10:02:40.621Z"
+  },
+  "xykt-fix/tvbox": {
+    "fullName": "xykt-fix/tvbox",
+    "stars": 0,
+    "pushedAt": "2026-08-26T13:02:27Z",
+    "archived": false,
+    "fork": false,
+    "language": "HTML",
+    "openIssues": 1,
+    "cachedAt": "2026-08-27T10:02:40.814Z"
+  },
+  "matarazzoisaque/TrabalhoBC": {
+    "fullName": "matarazzoisaque/TrabalhoBC",
+    "stars": 0,
+    "pushedAt": "2026-08-20T23:11:01Z",
+    "archived": false,
+    "fork": false,
+    "language": "HTML",
+    "openIssues": 1,
+    "cachedAt": "2026-08-27T10:02:40.976Z"
+  },
+  "crackedstudio/sharibo": {
+    "fullName": "crackedstudio/sharibo",
+    "stars": 1,
+    "pushedAt": "2026-08-06T23:48:02Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 136,
+    "cachedAt": "2026-08-27T10:02:41.166Z"
+  },
+  "discours/discoursio-webapp": {
+    "fullName": "discours/discoursio-webapp",
+    "stars": 10,
+    "pushedAt": "2026-08-27T09:17:31Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 12,
+    "cachedAt": "2026-08-27T10:02:41.402Z"
+  },
+  "ancore-org/ancore": {
+    "fullName": "ancore-org/ancore",
+    "stars": 5,
+    "pushedAt": "2026-08-25T09:39:37Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 110,
+    "cachedAt": "2026-08-27T10:02:41.619Z"
+  },
+  "scout-off/scout-off-backend": {
+    "fullName": "scout-off/scout-off-backend",
+    "stars": 4,
+    "pushedAt": "2026-08-24T14:00:15Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 231,
+    "cachedAt": "2026-08-27T10:02:41.869Z"
+  },
+  "JustAlex0000/Edupage-Extras": {
+    "fullName": "JustAlex0000/Edupage-Extras",
+    "stars": 12,
+    "pushedAt": "2026-08-27T09:59:57Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 6,
+    "cachedAt": "2026-08-27T10:02:42.055Z"
+  },
+  "koayxinchun4-cmd/malaysia-fuel-bot": {
+    "fullName": "koayxinchun4-cmd/malaysia-fuel-bot",
+    "stars": 0,
+    "pushedAt": "2026-06-23T16:01:39Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 1,
+    "cachedAt": "2026-08-27T10:02:42.225Z"
+  },
+  "iteathen/UCI-Arena-Vector": {
+    "fullName": "iteathen/UCI-Arena-Vector",
+    "stars": 0,
+    "pushedAt": "2026-08-27T03:53:36Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 10,
+    "cachedAt": "2026-08-27T10:02:42.450Z"
+  },
+  "moveit/moveit2_tutorials": {
+    "fullName": "moveit/moveit2_tutorials",
+    "stars": 366,
+    "pushedAt": "2026-08-20T10:23:31Z",
+    "archived": false,
+    "fork": false,
+    "language": "CSS",
+    "openIssues": 141,
+    "cachedAt": "2026-08-27T10:02:42.674Z"
+  },
+  "withplumix/plumix": {
+    "fullName": "withplumix/plumix",
+    "stars": 2,
+    "pushedAt": "2026-08-27T09:58:11Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 20,
+    "cachedAt": "2026-08-27T10:02:42.856Z"
+  },
+  "greydragon888/real-router": {
+    "fullName": "greydragon888/real-router",
+    "stars": 11,
+    "pushedAt": "2026-08-27T08:47:05Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 76,
+    "cachedAt": "2026-08-27T10:02:43.080Z"
+  },
+  "wilhel1812/LinkSim": {
+    "fullName": "wilhel1812/LinkSim",
+    "stars": 6,
+    "pushedAt": "2026-08-27T09:59:21Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 21,
+    "cachedAt": "2026-08-27T10:02:43.258Z"
+  },
+  "singleton-sd/post-kit": {
+    "fullName": "singleton-sd/post-kit",
+    "stars": 0,
+    "pushedAt": "2026-08-27T09:28:52Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 28,
+    "cachedAt": "2026-08-27T10:02:43.498Z"
+  },
+  "jasonhnd/jobs": {
+    "fullName": "jasonhnd/jobs",
+    "stars": 0,
+    "pushedAt": "2026-08-27T09:53:48Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 14,
+    "cachedAt": "2026-08-27T10:02:43.695Z"
+  },
+  "CIVRA-INC/LumenHealth": {
+    "fullName": "CIVRA-INC/LumenHealth",
+    "stars": 10,
+    "pushedAt": "2026-08-26T12:53:48Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 125,
+    "cachedAt": "2026-08-27T10:02:43.889Z"
+  },
+  "vouchington/vouchington-tooling": {
+    "fullName": "vouchington/vouchington-tooling",
+    "stars": 0,
+    "pushedAt": "2026-08-27T09:38:02Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 1,
+    "cachedAt": "2026-08-27T10:02:44.127Z"
+  },
+  "BB0813/AperturePrism-AI-Review": {
+    "fullName": "BB0813/AperturePrism-AI-Review",
+    "stars": 2,
+    "pushedAt": "2026-08-26T21:11:28Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 6,
+    "cachedAt": "2026-08-27T10:02:44.333Z"
+  },
+  "daintreehq/daintree": {
+    "fullName": "daintreehq/daintree",
+    "stars": 54,
+    "pushedAt": "2026-08-27T09:38:52Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 35,
+    "cachedAt": "2026-08-27T10:02:44.549Z"
+  },
+  "itiwoja/pokapoka-system": {
+    "fullName": "itiwoja/pokapoka-system",
+    "stars": 0,
+    "pushedAt": "2026-08-24T01:31:54Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 20,
+    "cachedAt": "2026-08-27T10:02:44.774Z"
+  },
+  "neomjs/neo": {
+    "fullName": "neomjs/neo",
+    "stars": 3260,
+    "pushedAt": "2026-08-26T23:14:12Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 173,
+    "cachedAt": "2026-08-27T10:02:44.965Z"
+  },
+  "neomjs/neo-agent-institution": {
+    "fullName": "neomjs/neo-agent-institution",
+    "stars": 1,
+    "pushedAt": "2026-08-27T09:42:33Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 3,
+    "cachedAt": "2026-08-27T10:02:45.173Z"
   }
 }

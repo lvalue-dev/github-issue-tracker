@@ -4,6 +4,24 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-08-27 | 🥇 | [[Bug] Duplicate assignment after auto-compact](https://github.com/Nano-Collective/nanocoder/issues/980) | `Nano-Collective/nanocoder` | ⭐ 2.4k |
+| 2026-08-27 | 🥇 | [[Bug] paste-detection returns wrong addedText on deletions](https://github.com/Nano-Collective/nanocoder/issues/979) | `Nano-Collective/nanocoder` | ⭐ 2.4k |
+| 2026-08-27 | 🥇 | [[Bug] Atomic-deletion boundary off-by-one](https://github.com/Nano-Collective/nanocoder/issues/977) | `Nano-Collective/nanocoder` | ⭐ 2.4k |
+| 2026-08-27 | 🥇 | [[Bug] fetch-url truncation label hardcodes "100KB"](https://github.com/Nano-Collective/nanocoder/issues/976) | `Nano-Collective/nanocoder` | ⭐ 2.4k |
+| 2026-08-27 | 🥇 | [[Bug] welcome-message.tsx crashes app if package.json is missing](https://github.com/Nano-Collective/nanocoder/issues/975) | `Nano-Collective/nanocoder` | ⭐ 2.4k |
+| 2026-08-27 | 🥇 | [[Bug] update.tsx false-negative error detection](https://github.com/Nano-Collective/nanocoder/issues/974) | `Nano-Collective/nanocoder` | ⭐ 2.4k |
+| 2026-08-27 | 🥇 | [[Bug] parseContextLimit silently drops trailing junk](https://github.com/Nano-Collective/nanocoder/issues/973) | `Nano-Collective/nanocoder` | ⭐ 2.4k |
+| 2026-08-27 | 🥇 | [[Bug] Session selector dismisses on ANY key](https://github.com/Nano-Collective/nanocoder/issues/972) | `Nano-Collective/nanocoder` | ⭐ 2.4k |
+| 2026-08-27 | 🥇 | [[Bug] web_search TimeoutError misclassified](https://github.com/Nano-Collective/nanocoder/issues/971) | `Nano-Collective/nanocoder` | ⭐ 2.4k |
+| 2026-08-27 | 🥇 | [[Bug] isMetadataOnly check for read_file never matches](https://github.com/Nano-Collective/nanocoder/issues/970) | `Nano-Collective/nanocoder` | ⭐ 2.4k |
+| 2026-08-27 | 🥇 | [Umbrella: bring the Hired Wall section to the 16 localized READMEs](https://github.com/santifer/career-ops/issues/3398) | `santifer/career-ops` | ⭐ 68.5k |
+| 2026-08-27 | 🥇 | [Angular upgrade from 20 to 22 (latest stable)](https://github.com/sadanandpai/frontend-mini-challenges/issues/537) | `sadanandpai/frontend-mini-challenges` | ⭐ 2.4k |
+| 2026-08-27 | 🥇 | [Browser Compatibility table is not rendering properly](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/89064) | `SAPTARSHI-coder/EaseMotion-css` | ⭐ 257 |
+| 2026-08-27 | 🥈 | [ci: skip the expensive CI job for documentation-only pull requests](https://github.com/apache/maka/issues/3998) | `apache/maka` | ⭐ 3.4k |
+| 2026-08-27 | 🥈 | [Branch `humble` is outdated, unmaintained](https://github.com/moveit/moveit2_tutorials/issues/1117) | `moveit/moveit2_tutorials` | ⭐ 366 |
+| 2026-08-27 | 🥉 | [The apex guide links into trees the split moved, and no check can see it](https://github.com/neomjs/neo/issues/17809) | `neomjs/neo` | ⭐ 3.3k |
+| 2026-08-27 | 🥉 | [Map the Neo organization from the Engine README](https://github.com/neomjs/neo/issues/17808) | `neomjs/neo` | ⭐ 3.3k |
+| 2026-08-27 | 🥉 | [Separate Engine package identity from Brain metadata](https://github.com/neomjs/neo/issues/17807) | `neomjs/neo` | ⭐ 3.3k |
 | 2026-08-26 | 🥇 | [`hideAvailable`/`hideBlocklisted` discover filters drop non-movie/tv results](https://github.com/seerr-team/seerr/issues/3433) | `seerr-team/seerr` | ⭐ 12.4k |
 | 2026-08-26 | 🥉 | [[DOCS] <title>diffboost](https://github.com/npm/cli/issues/9919) | `npm/cli` | ⭐ 10.1k |
 | 2026-08-26 | 🥇 | [[Good First Issue] 🥢 Add new Trivia Question 39 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29210) | `lingdojo/kana-dojo` | ⭐ 3.3k |
@@ -86,11 +104,3 @@
 | 2026-08-25 | 🥇 | [[Good First Issue] 🍥 Add new False Friend Pair 6 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29162) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-08-25 | 🥇 | [Update Project Profile: Not Today (Update Project's Description)](https://github.com/hackforla/website/issues/8755) | `hackforla/website` | ⭐ 364 |
 | 2026-08-25 | 🥇 | [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/21787) | `PipedreamHQ/pipedream` | ⭐ 11.6k |
-| 2026-08-25 | 🥇 | [Kanban view: Adding document with + button in column open page with the wrong qu](https://github.com/Smaug6739/Alexandrie/issues/720) | `Smaug6739/Alexandrie` | ⭐ 2.4k |
-| 2026-08-25 | 🥇 | [Link Checker Report](https://github.com/data-engineering-community/data-engineering-wiki/issues/171) | `data-engineering-community/data-engineering-wiki` | ⭐ 2.0k |
-| 2026-08-25 | 🥇 | [[FEATURE] Elastic Drag-to-Dismiss & Swipe Gesture Cards](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/89034) | `SAPTARSHI-coder/EaseMotion-css` | ⭐ 257 |
-| 2026-08-25 | 🥉 | [cfc](https://github.com/supabase/mcp/issues/383) | `supabase/mcp` | ⭐ 2.9k |
-| 2026-08-25 | 🥉 | [a11y: listing pagination aria-label is not localizable](https://github.com/quarto-dev/quarto-cli/issues/14810) | `quarto-dev/quarto-cli` | ⭐ 6.0k |
-| 2026-08-25 | 🥉 | [a11y: dashboard header nav landmark has no accessible name](https://github.com/quarto-dev/quarto-cli/issues/14809) | `quarto-dev/quarto-cli` | ⭐ 6.0k |
-| 2026-08-25 | 🥉 | [Use horizontal layout for manual setup section](https://github.com/getsentry/sentry-docs/issues/19124) | `getsentry/sentry-docs` | ⭐ 442 |
-| 2026-08-25 | 🥉 | [TimeInput - hogging focus](https://github.com/grommet/grommet/issues/8083) | `grommet/grommet` | ⭐ 8.4k |
