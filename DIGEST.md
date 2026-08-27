@@ -4,6 +4,42 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-08-27 | 🥇 | [updateOrderWorkflow: "Country code cannot be changed" when ADDING an address to ](https://github.com/medusajs/medusa/issues/16636) | `medusajs/medusa` | ⭐ 36.0k |
+| 2026-08-27 | 🥇 | [Dependency Update Report - August 27, 2026 🤖⬆️](https://github.com/activist-org/activist/issues/2371) | `activist-org/activist` | ⭐ 739 |
+| 2026-08-27 | 🥇 | [The linters are unhappy with some of our TS declarations](https://github.com/prometheus/client_js/issues/831) | `prometheus/client_js` | ⭐ 3.5k |
+| 2026-08-27 | 🥇 | [act-verdict-parity asserts against source text, so it passes on a call whose res](https://github.com/reticlehq/reticle/issues/619) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-27 | 🥇 | [[agent] the throttle recommendation does not mention that leasing empties the hu](https://github.com/reticlehq/reticle/issues/606) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-27 | 🥇 | [[agent] audit instructions reference reticle_crawl, which no longer exists](https://github.com/reticlehq/reticle/issues/605) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-27 | 🥇 | [Program Seed Data Creation](https://github.com/parthbuilds-community/FitMart/issues/987) | `parthbuilds-community/FitMart` | ⭐ 354 |
+| 2026-08-27 | 🥈 | [The version-skew remedy names a React package on Vue projects, and the daemon br](https://github.com/reticlehq/reticle/issues/618) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-27 | 🥈 | [Project stack is still frequently unknown, which blocks every per-framework qual](https://github.com/reticlehq/reticle/issues/617) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-27 | 🥈 | [Decide: visual baselines and capability contracts have no adoption at all — dele](https://github.com/reticlehq/reticle/issues/616) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-27 | 🥈 | [The no-session diagnosis computes a ranked reason and throws it away as prose, s](https://github.com/reticlehq/reticle/issues/615) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-27 | 🥈 | [A truncated response body is graded as a hard failure instead of undecidable](https://github.com/reticlehq/reticle/issues/614) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-27 | 🥈 | [Redaction rewrites the URL the grader matches against, so urlContains cannot mat](https://github.com/reticlehq/reticle/issues/613) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-27 | 🥈 | [assert's timeout_ms is inert: the no-session error short-circuits before any wai](https://github.com/reticlehq/reticle/issues/612) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-27 | 🥈 | [The leaseExpired flag latches on a lifetime counter, so every closed human tab i](https://github.com/reticlehq/reticle/issues/611) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-27 | 🥈 | [Three install paths produce a page that can never authenticate, and none of them](https://github.com/reticlehq/reticle/issues/610) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-27 | 🥈 | [No keep-alive agent on the MCP proxy's POST leg, so every tool call opens a fres](https://github.com/reticlehq/reticle/issues/609) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-27 | 🥈 | [Contradictions have no first-party/third-party axis, so an analytics beacon can ](https://github.com/reticlehq/reticle/issues/608) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-27 | 🥈 | [[agent] act_and_wait effect.appeared strings are not always usable as a text pre](https://github.com/reticlehq/reticle/issues/607) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-27 | 🥈 | [[agent] reticle_sessions does not say a dev server is already listening](https://github.com/reticlehq/reticle/issues/604) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-27 | 🥈 | [[agent] recorded flows do not capture navigations, so a flow that backtracks can](https://github.com/reticlehq/reticle/issues/603) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-27 | 🥈 | [[agent] flow replay cannot express a wait, and races a fill that triggers an asy](https://github.com/reticlehq/reticle/issues/602) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-27 | 🥈 | [[agent] advertised timeout_ms exceeds what MCP clients will wait, with no bounde](https://github.com/reticlehq/reticle/issues/601) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-27 | 🥈 | [[agent] a second reticle_lease acquire on the same origin poisons default sessio](https://github.com/reticlehq/reticle/issues/600) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-27 | 🥈 | [[agent] reticle_storage can read all three areas but cannot write one](https://github.com/reticlehq/reticle/issues/599) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-27 | 🥈 | [[agent] an origin in RETICLE_ALLOWED_ORIGINS without a scheme is silently discar](https://github.com/reticlehq/reticle/issues/598) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-27 | 🥈 | [[agent] reticle verify tells you to pass sessionId, and has no such flag](https://github.com/reticlehq/reticle/issues/597) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-27 | 🥈 | [[agent] the destructive-action heuristic blocks "Payment" and "Log out"](https://github.com/reticlehq/reticle/issues/596) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-27 | 🥈 | [[agent] element predicate errors name the rejected field but never the accepted ](https://github.com/reticlehq/reticle/issues/595) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-27 | 🥈 | [GET /api/memberships List Endpoint (Owner and Admin)](https://github.com/parthbuilds-community/FitMart/issues/995) | `parthbuilds-community/FitMart` | ⭐ 354 |
+| 2026-08-27 | 🥈 | [POST /api/memberships Create Endpoint](https://github.com/parthbuilds-community/FitMart/issues/994) | `parthbuilds-community/FitMart` | ⭐ 354 |
+| 2026-08-27 | 🥈 | [Membership Model Schema Definition](https://github.com/parthbuilds-community/FitMart/issues/991) | `parthbuilds-community/FitMart` | ⭐ 354 |
+| 2026-08-27 | 🥈 | [GET /api/programs List Endpoint](https://github.com/parthbuilds-community/FitMart/issues/988) | `parthbuilds-community/FitMart` | ⭐ 354 |
+| 2026-08-27 | 🥈 | [Program Model Unit Tests](https://github.com/parthbuilds-community/FitMart/issues/986) | `parthbuilds-community/FitMart` | ⭐ 354 |
+| 2026-08-27 | 🥈 | [Program Model Validation and Database Indexes](https://github.com/parthbuilds-community/FitMart/issues/985) | `parthbuilds-community/FitMart` | ⭐ 354 |
+| 2026-08-27 | 🥈 | [[Help] 值是正确的但是一直显示❌ JWT secret mismatch](https://github.com/maillab/cloud-mail/issues/545) | `maillab/cloud-mail` | ⭐ 13.7k |
 | 2026-08-27 | 🥇 | [[Bug] Duplicate assignment after auto-compact](https://github.com/Nano-Collective/nanocoder/issues/980) | `Nano-Collective/nanocoder` | ⭐ 2.4k |
 | 2026-08-27 | 🥇 | [[Bug] paste-detection returns wrong addedText on deletions](https://github.com/Nano-Collective/nanocoder/issues/979) | `Nano-Collective/nanocoder` | ⭐ 2.4k |
 | 2026-08-27 | 🥇 | [[Bug] Atomic-deletion boundary off-by-one](https://github.com/Nano-Collective/nanocoder/issues/977) | `Nano-Collective/nanocoder` | ⭐ 2.4k |
@@ -68,39 +104,3 @@
 | 2026-08-26 | 🥇 | [editoast: views: add rolling stocks in test](https://github.com/OpenRailAssociation/osrd/issues/18270) | `OpenRailAssociation/osrd` | ⭐ 653 |
 | 2026-08-26 | 🥇 | [[Good First Issue] 🏮 Add new Learner Mistake 21 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29181) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-08-26 | 🥇 | [[Good First Issue] 🍣 Add new Example Sentence 99 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29180) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-08-26 | 🥇 | [templates/portals.example.yml assumes an AI-engineer search: make the example de](https://github.com/santifer/career-ops/issues/3356) | `santifer/career-ops` | ⭐ 68.5k |
-| 2026-08-26 | 🥉 | [Contact Form Submission - Mistake (Solution: USACO Silver 2018 Open - Lemonade L](https://github.com/cpinitiative/usaco-guide/issues/6550) | `cpinitiative/usaco-guide` | ⭐ 1.8k |
-| 2026-08-26 | 🥇 | [[Good First Issue] 🌊 Add new Etiquette Tip 94 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29179) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-08-26 | 🥇 | [[Good First Issue] 🌺 Add new False Friend Pair 90 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29178) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-08-26 | 🥇 | [[Good First Issue] 🍚 Add new Dialect Entry 118 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29177) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-08-26 | 🥉 | [Add required permission to API reference](https://github.com/cloudflare/cloudflare-docs/issues/33028) | `cloudflare/cloudflare-docs` | ⭐ 5.1k |
-| 2026-08-26 | 🥇 | [[Good First Issue] 🎏 Add new Japanese Idiom 55 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29175) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-08-26 | 🥈 | [[Good First Issue] 🗾 Add new Anime Quote 19 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29173) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-08-26 | 🥈 | [[Good First Issue] 🦊 Add new Grammar Point 85 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29172) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-08-26 | 🥈 | [[Good First Issue] 🎌 Add new Trivia Question 28 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29171) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-08-26 | 🥉 | [[Docs]: Official KEO4 documentation rejected – Website score 4 below threshold 9](https://github.com/upstash/context7/issues/3081) | `upstash/context7` | ⭐ 61.2k |
-| 2026-08-26 | 🥇 | [[Good First Issue] 🦊 Add new Video Game Quote 56 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29174) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-08-26 | 🥇 | [[Bug] Fix Meshery Docs Link Styling](https://github.com/meshery/meshery.io/issues/2907) | `meshery/meshery.io` | ⭐ 827 |
-| 2026-08-26 | 🥉 | [docs: incorrect comment on `prepare: false` in the drizzle Edge Function example](https://github.com/supabase/supabase/issues/49577) | `supabase/supabase` | ⭐ 108.4k |
-| 2026-08-26 | 🥇 | [[Good First Issue] 🗻 Add new Japanese Proverb 97 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29170) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-08-26 | 🥇 | [[Good First Issue] 🍣 Add new Japan Fact 220 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29169) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-08-26 | 🥈 | [[Discussion]: How to manually install and configure onnxruntime](https://github.com/CherryHQ/cherry-studio/issues/19437) | `CherryHQ/cherry-studio` | ⭐ 51.1k |
-| 2026-08-26 | 🥈 | [test(runtime-host): flaky 'startup failure preserves its cause when shutdown rea](https://github.com/apache/maka/issues/3840) | `apache/maka` | ⭐ 3.4k |
-| 2026-08-26 | 🥉 | [docs: require reuse-first implementation and consolidation searches](https://github.com/elizaOS/eliza/issues/28942) | `elizaOS/eliza` | ⭐ 19.2k |
-| 2026-08-26 | 🥇 | [[Good First Issue] 🎎 Add new Theme: Harbor Fog - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29168) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-08-26 | 🥇 | [add unit tests for timezone-utils](https://github.com/elmohq/elmo/issues/633) | `elmohq/elmo` | ⭐ 264 |
-| 2026-08-26 | 🥇 | [add a contributing section to the README](https://github.com/elmohq/elmo/issues/632) | `elmohq/elmo` | ⭐ 264 |
-| 2026-08-26 | 🥇 | [add see-also links to glossary terms that are missing them](https://github.com/elmohq/elmo/issues/631) | `elmohq/elmo` | ⭐ 264 |
-| 2026-08-26 | 🥇 | [elmo init should check Docker before the setup wizard, not after](https://github.com/elmohq/elmo/issues/630) | `elmohq/elmo` | ⭐ 264 |
-| 2026-08-26 | 🥇 | [optimize button shows raw model ids for most models](https://github.com/elmohq/elmo/issues/629) | `elmohq/elmo` | ⭐ 264 |
-| 2026-08-26 | 🥇 | [fix stale commands in the developer guide commands reference](https://github.com/elmohq/elmo/issues/628) | `elmohq/elmo` | ⭐ 264 |
-| 2026-08-26 | 🥇 | [add page titles to routes that are missing them](https://github.com/elmohq/elmo/issues/627) | `elmohq/elmo` | ⭐ 264 |
-| 2026-08-26 | 🥇 | [[Good First Issue] 🍣 Add new Community Note Line #1 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29167) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-08-26 | 🥇 | [Connectivity test: add a Germany country list](https://github.com/jason5ng32/MyIP/issues/460) | `jason5ng32/MyIP` | ⭐ 11.8k |
-| 2026-08-26 | 🥇 | [[Good First Issue] 🍡 Add new Wallpaper URL #2 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29166) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-08-26 | 🥇 | [[Good First Issue] 🥢 Add new Learner Mistake 47 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29164) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-08-26 | 🥇 | [[Good First Issue] 🀄 Add new Etiquette Tip 62 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29163) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-08-26 | 🥈 | [[Discussion]: Scheduled task sends channel messages](https://github.com/CherryHQ/cherry-studio/issues/19422) | `CherryHQ/cherry-studio` | ⭐ 51.1k |
-| 2026-08-25 | 🥇 | [[Good First Issue] 🍥 Add new False Friend Pair 6 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29162) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-08-25 | 🥇 | [Update Project Profile: Not Today (Update Project's Description)](https://github.com/hackforla/website/issues/8755) | `hackforla/website` | ⭐ 364 |
-| 2026-08-25 | 🥇 | [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/21787) | `PipedreamHQ/pipedream` | ⭐ 11.6k |
