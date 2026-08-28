@@ -4,6 +4,29 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-08-28 | 🥇 | [discoverProjectConfigs misses a workspace declared as a bare directory name](https://github.com/reticlehq/reticle/issues/624) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-28 | 🥇 | [Typed `!`-commands don't normalise Slack mention encoding in arguments](https://github.com/sandbox-quantum/switch/issues/315) | `sandbox-quantum/switch` | ⭐ 372 |
+| 2026-08-28 | 🥇 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/14727) | `stdlib-js/stdlib` | ⭐ 5.9k |
+| 2026-08-28 | 🥇 | [docs(outlook): pin list/send-mail on the overview](https://github.com/corsairdev/corsair/issues/1258) | `corsairdev/corsair` | ⭐ 10.6k |
+| 2026-08-28 | 🥇 | [docs(zoom): pin list/create-meeting on the overview](https://github.com/corsairdev/corsair/issues/1257) | `corsairdev/corsair` | ⭐ 10.6k |
+| 2026-08-28 | 🥇 | [docs(figma): pin get-file/add-comment on the overview](https://github.com/corsairdev/corsair/issues/1256) | `corsairdev/corsair` | ⭐ 10.6k |
+| 2026-08-28 | 🥇 | [docs(asana): pin list/create-task on the overview](https://github.com/corsairdev/corsair/issues/1255) | `corsairdev/corsair` | ⭐ 10.6k |
+| 2026-08-28 | 🥇 | [docs(jira): pin search/create-issue on the overview](https://github.com/corsairdev/corsair/issues/1254) | `corsairdev/corsair` | ⭐ 10.6k |
+| 2026-08-28 | 🥇 | [docs(resend): pin list/send on the overview](https://github.com/corsairdev/corsair/issues/1253) | `corsairdev/corsair` | ⭐ 10.6k |
+| 2026-08-28 | 🥇 | [docs(googlesheets): pin get-rows/append-row on the overview](https://github.com/corsairdev/corsair/issues/1252) | `corsairdev/corsair` | ⭐ 10.6k |
+| 2026-08-28 | 🥇 | [docs(googledrive): pin list/create on the overview](https://github.com/corsairdev/corsair/issues/1251) | `corsairdev/corsair` | ⭐ 10.6k |
+| 2026-08-28 | 🥇 | [docs(posthog): add plugin-docs.yaml for familiar overview examples](https://github.com/corsairdev/corsair/issues/1246) | `corsairdev/corsair` | ⭐ 10.6k |
+| 2026-08-28 | 🥇 | [docs(discord): add plugin-docs.yaml for familiar overview examples](https://github.com/corsairdev/corsair/issues/1245) | `corsairdev/corsair` | ⭐ 10.6k |
+| 2026-08-28 | 🥇 | [docs(stripe): add plugin-docs.yaml for familiar overview examples](https://github.com/corsairdev/corsair/issues/1244) | `corsairdev/corsair` | ⭐ 10.6k |
+| 2026-08-28 | 🥇 | [docs(hubspot): add plugin-docs.yaml for familiar overview examples](https://github.com/corsairdev/corsair/issues/1243) | `corsairdev/corsair` | ⭐ 10.6k |
+| 2026-08-28 | 🥇 | [docs(googlecalendar): add plugin-docs.yaml for familiar overview examples](https://github.com/corsairdev/corsair/issues/1241) | `corsairdev/corsair` | ⭐ 10.6k |
+| 2026-08-28 | 🥇 | [docs(github): add plugin-docs.yaml for familiar overview examples](https://github.com/corsairdev/corsair/issues/1240) | `corsairdev/corsair` | ⭐ 10.6k |
+| 2026-08-28 | 🥇 | [Add Perplexity integration attribution headers](https://github.com/Mintplex-Labs/anything-llm/issues/6203) | `Mintplex-Labs/anything-llm` | ⭐ 65.3k |
+| 2026-08-28 | 🥈 | [feat(library): import public GitHub repositories](https://github.com/liliu-z/stashbase/issues/204) | `liliu-z/stashbase` | ⭐ 468 |
+| 2026-08-28 | 🥈 | [[Bug]: Hidden dropdown menu in filters](https://github.com/meshery/meshery.io/issues/2914) | `meshery/meshery.io` | ⭐ 827 |
+| 2026-08-28 | 🥉 | [F300: publish the Agent Self-Sensing and Self-Management contract](https://github.com/zts212653/clowder-ai/issues/1411) | `zts212653/clowder-ai` | ⭐ 2.8k |
+| 2026-08-28 | 🥉 | [[Feature]: docs example for PZERO OpenAI-compatible provider](https://github.com/CherryHQ/cherry-studio/issues/19628) | `CherryHQ/cherry-studio` | ⭐ 51.1k |
+| 2026-08-28 | 🥉 | [[DOCS]: Cryptographic checksum or signature-verification seem unavailable for Li](https://github.com/Mintplex-Labs/anything-llm/issues/6208) | `Mintplex-Labs/anything-llm` | ⭐ 65.3k |
 | 2026-08-27 | 🥇 | [updateOrderWorkflow: "Country code cannot be changed" when ADDING an address to ](https://github.com/medusajs/medusa/issues/16636) | `medusajs/medusa` | ⭐ 36.0k |
 | 2026-08-27 | 🥇 | [Dependency Update Report - August 27, 2026 🤖⬆️](https://github.com/activist-org/activist/issues/2371) | `activist-org/activist` | ⭐ 739 |
 | 2026-08-27 | 🥇 | [The linters are unhappy with some of our TS declarations](https://github.com/prometheus/client_js/issues/831) | `prometheus/client_js` | ⭐ 3.5k |
@@ -81,26 +104,3 @@
 | 2026-08-26 | 🥇 | [[Good First Issue] 🎐 Add new Example Sentence 91 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29203) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-08-26 | 🥇 | [[Good First Issue] 🗻 Add new Etiquette Tip 55 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29202) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-08-26 | 🥇 | [[Bug]: Filtering orders by most order_item fields (e.g. items.fulfilled_quantity](https://github.com/medusajs/medusa/issues/16612) | `medusajs/medusa` | ⭐ 36.0k |
-| 2026-08-26 | 🥈 | [refactor(cli): ship one Eval runtime in the npm CLI package](https://github.com/apache/maka/issues/3933) | `apache/maka` | ⭐ 3.4k |
-| 2026-08-26 | 🥈 | [refactor(runtime-host): remove the uncalled execution.inspect.resolve operation](https://github.com/apache/maka/issues/3932) | `apache/maka` | ⭐ 3.4k |
-| 2026-08-26 | 🥈 | [Tree Quick Search fails when `/` is in the middle of the query](https://github.com/TriliumNext/Trilium/issues/11204) | `TriliumNext/Trilium` | ⭐ 37.6k |
-| 2026-08-26 | 🥈 | [Research CSS Custom Highlight rendering versus stream-diffs and provide a Vue Po](https://github.com/Simon-He95/markstream-vue/issues/726) | `Simon-He95/markstream-vue` | ⭐ 3.0k |
-| 2026-08-26 | 🥈 | [Feature: Create the Program Mongoose Model](https://github.com/parthbuilds-community/FitMart/issues/979) | `parthbuilds-community/FitMart` | ⭐ 354 |
-| 2026-08-26 | 🥈 | [Adopt React 19 APIs/features where it makes sense](https://github.com/eclipse-theia/theia/issues/17957) | `eclipse-theia/theia` | ⭐ 21.7k |
-| 2026-08-26 | 🥉 | [docs(video): consolidate canonical state and 100 percent closure evidence](https://github.com/diegosouzapw/OmniRoute/issues/11661) | `diegosouzapw/OmniRoute` | ⭐ 55.9k |
-| 2026-08-26 | 🥉 | [glm-5.3-flash page giving 404](https://github.com/cloudflare/cloudflare-docs/issues/33042) | `cloudflare/cloudflare-docs` | ⭐ 5.1k |
-| 2026-08-26 | 🥈 | [[Good First Issue] 🎎 Add new Japanese Idiom 73 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29195) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-08-26 | 🥈 | [[Good First Issue] 🍱 Add new Anime Quote 44 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29193) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-08-26 | 🥇 | [[Good First Issue] 🍢 Add new Grammar Point 122 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29192) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-08-26 | 🥇 | [[Good First Issue] 🐙 Add new Trivia Question 2 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29191) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-08-26 | 🥇 | [[Good First Issue] 🎐 Add new Japanese Proverb 93 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29190) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-08-26 | 🥉 | [truncateBase64Content silently drops data-URI parameters due to repeated capture](https://github.com/yamadashy/repomix/issues/1819) | `yamadashy/repomix` | ⭐ 28.1k |
-| 2026-08-26 | 🥇 | [[Good First Issue] 🍙 Add new Japan Fact 191 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29187) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-08-26 | 🥉 | [Add opt-in pitch sonification for one ordered series](https://github.com/nteract/semiotic/issues/1223) | `nteract/semiotic` | ⭐ 2.7k |
-| 2026-08-26 | 🥉 | [Support audience-specific long and short annotation text](https://github.com/nteract/semiotic/issues/1222) | `nteract/semiotic` | ⭐ 2.7k |
-| 2026-08-26 | 🥉 | [Create a shared bounded label-placement primitive for custom layouts](https://github.com/nteract/semiotic/issues/1213) | `nteract/semiotic` | ⭐ 2.7k |
-| 2026-08-26 | 🥇 | [[Good First Issue] 🍛 Add new Community Note Line #5 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29184) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-08-26 | 🥇 | [[Good First Issue] 🪭 Add new Wallpaper URL #1 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29182) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-08-26 | 🥇 | [editoast: views: add rolling stocks in test](https://github.com/OpenRailAssociation/osrd/issues/18270) | `OpenRailAssociation/osrd` | ⭐ 653 |
-| 2026-08-26 | 🥇 | [[Good First Issue] 🏮 Add new Learner Mistake 21 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29181) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-08-26 | 🥇 | [[Good First Issue] 🍣 Add new Example Sentence 99 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29180) | `lingdojo/kana-dojo` | ⭐ 3.3k |

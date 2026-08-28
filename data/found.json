@@ -1,5 +1,411 @@
 [
   {
+    "key": "reticlehq/reticle#624",
+    "tier": 1,
+    "repo": "reticlehq/reticle",
+    "number": 624,
+    "title": "discoverProjectConfigs misses a workspace declared as a bare directory name",
+    "url": "https://github.com/reticlehq/reticle/issues/624",
+    "comments": 0,
+    "createdAt": "2026-08-28T04:05:49Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 367,
+    "foundAt": "2026-08-28T05:30:19.105Z"
+  },
+  {
+    "key": "sandbox-quantum/switch#315",
+    "tier": 1,
+    "repo": "sandbox-quantum/switch",
+    "number": 315,
+    "title": "Typed `!`-commands don't normalise Slack mention encoding in arguments",
+    "url": "https://github.com/sandbox-quantum/switch/issues/315",
+    "comments": 1,
+    "createdAt": "2026-08-28T02:53:48Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 372,
+    "foundAt": "2026-08-28T05:30:19.322Z"
+  },
+  {
+    "key": "stdlib-js/stdlib#14727",
+    "tier": 1,
+    "repo": "stdlib-js/stdlib",
+    "number": 14727,
+    "title": "Fix JavaScript lint errors",
+    "url": "https://github.com/stdlib-js/stdlib/issues/14727",
+    "comments": 2,
+    "createdAt": "2026-08-28T02:47:13Z",
+    "labels": [
+      "Good First Issue"
+    ],
+    "language": "javascript",
+    "stars": 5944,
+    "foundAt": "2026-08-28T05:30:20.476Z"
+  },
+  {
+    "key": "corsairdev/corsair#1258",
+    "tier": 1,
+    "repo": "corsairdev/corsair",
+    "number": 1258,
+    "title": "docs(outlook): pin list/send-mail on the overview",
+    "url": "https://github.com/corsairdev/corsair/issues/1258",
+    "comments": 0,
+    "createdAt": "2026-08-28T02:34:17Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "status: available"
+    ],
+    "language": "typescript",
+    "stars": 10585,
+    "foundAt": "2026-08-28T05:30:19.554Z"
+  },
+  {
+    "key": "corsairdev/corsair#1257",
+    "tier": 1,
+    "repo": "corsairdev/corsair",
+    "number": 1257,
+    "title": "docs(zoom): pin list/create-meeting on the overview",
+    "url": "https://github.com/corsairdev/corsair/issues/1257",
+    "comments": 0,
+    "createdAt": "2026-08-28T02:34:10Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "status: available"
+    ],
+    "language": "typescript",
+    "stars": 10585,
+    "foundAt": "2026-08-28T05:30:19.554Z"
+  },
+  {
+    "key": "corsairdev/corsair#1256",
+    "tier": 1,
+    "repo": "corsairdev/corsair",
+    "number": 1256,
+    "title": "docs(figma): pin get-file/add-comment on the overview",
+    "url": "https://github.com/corsairdev/corsair/issues/1256",
+    "comments": 0,
+    "createdAt": "2026-08-28T02:34:02Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "status: available"
+    ],
+    "language": "typescript",
+    "stars": 10585,
+    "foundAt": "2026-08-28T05:30:19.554Z"
+  },
+  {
+    "key": "corsairdev/corsair#1255",
+    "tier": 1,
+    "repo": "corsairdev/corsair",
+    "number": 1255,
+    "title": "docs(asana): pin list/create-task on the overview",
+    "url": "https://github.com/corsairdev/corsair/issues/1255",
+    "comments": 0,
+    "createdAt": "2026-08-28T02:33:57Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "status: available"
+    ],
+    "language": "typescript",
+    "stars": 10585,
+    "foundAt": "2026-08-28T05:30:19.554Z"
+  },
+  {
+    "key": "corsairdev/corsair#1254",
+    "tier": 1,
+    "repo": "corsairdev/corsair",
+    "number": 1254,
+    "title": "docs(jira): pin search/create-issue on the overview",
+    "url": "https://github.com/corsairdev/corsair/issues/1254",
+    "comments": 0,
+    "createdAt": "2026-08-28T02:33:50Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "status: available"
+    ],
+    "language": "typescript",
+    "stars": 10585,
+    "foundAt": "2026-08-28T05:30:19.554Z"
+  },
+  {
+    "key": "corsairdev/corsair#1253",
+    "tier": 1,
+    "repo": "corsairdev/corsair",
+    "number": 1253,
+    "title": "docs(resend): pin list/send on the overview",
+    "url": "https://github.com/corsairdev/corsair/issues/1253",
+    "comments": 0,
+    "createdAt": "2026-08-28T02:33:43Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "status: available"
+    ],
+    "language": "typescript",
+    "stars": 10585,
+    "foundAt": "2026-08-28T05:30:19.554Z"
+  },
+  {
+    "key": "corsairdev/corsair#1252",
+    "tier": 1,
+    "repo": "corsairdev/corsair",
+    "number": 1252,
+    "title": "docs(googlesheets): pin get-rows/append-row on the overview",
+    "url": "https://github.com/corsairdev/corsair/issues/1252",
+    "comments": 0,
+    "createdAt": "2026-08-28T02:33:37Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "status: available"
+    ],
+    "language": "typescript",
+    "stars": 10585,
+    "foundAt": "2026-08-28T05:30:19.554Z"
+  },
+  {
+    "key": "corsairdev/corsair#1251",
+    "tier": 1,
+    "repo": "corsairdev/corsair",
+    "number": 1251,
+    "title": "docs(googledrive): pin list/create on the overview",
+    "url": "https://github.com/corsairdev/corsair/issues/1251",
+    "comments": 0,
+    "createdAt": "2026-08-28T02:33:31Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "status: available"
+    ],
+    "language": "typescript",
+    "stars": 10585,
+    "foundAt": "2026-08-28T05:30:19.554Z"
+  },
+  {
+    "key": "corsairdev/corsair#1246",
+    "tier": 1,
+    "repo": "corsairdev/corsair",
+    "number": 1246,
+    "title": "docs(posthog): add plugin-docs.yaml for familiar overview examples",
+    "url": "https://github.com/corsairdev/corsair/issues/1246",
+    "comments": 0,
+    "createdAt": "2026-08-28T00:54:15Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "status: available"
+    ],
+    "language": "typescript",
+    "stars": 10585,
+    "foundAt": "2026-08-28T05:30:19.952Z"
+  },
+  {
+    "key": "corsairdev/corsair#1245",
+    "tier": 1,
+    "repo": "corsairdev/corsair",
+    "number": 1245,
+    "title": "docs(discord): add plugin-docs.yaml for familiar overview examples",
+    "url": "https://github.com/corsairdev/corsair/issues/1245",
+    "comments": 0,
+    "createdAt": "2026-08-28T00:53:54Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "status: available"
+    ],
+    "language": "typescript",
+    "stars": 10585,
+    "foundAt": "2026-08-28T05:30:19.952Z"
+  },
+  {
+    "key": "corsairdev/corsair#1244",
+    "tier": 1,
+    "repo": "corsairdev/corsair",
+    "number": 1244,
+    "title": "docs(stripe): add plugin-docs.yaml for familiar overview examples",
+    "url": "https://github.com/corsairdev/corsair/issues/1244",
+    "comments": 0,
+    "createdAt": "2026-08-28T00:53:40Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "status: available"
+    ],
+    "language": "typescript",
+    "stars": 10585,
+    "foundAt": "2026-08-28T05:30:19.952Z"
+  },
+  {
+    "key": "corsairdev/corsair#1243",
+    "tier": 1,
+    "repo": "corsairdev/corsair",
+    "number": 1243,
+    "title": "docs(hubspot): add plugin-docs.yaml for familiar overview examples",
+    "url": "https://github.com/corsairdev/corsair/issues/1243",
+    "comments": 0,
+    "createdAt": "2026-08-28T00:53:20Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "status: available"
+    ],
+    "language": "typescript",
+    "stars": 10585,
+    "foundAt": "2026-08-28T05:30:19.952Z"
+  },
+  {
+    "key": "corsairdev/corsair#1241",
+    "tier": 1,
+    "repo": "corsairdev/corsair",
+    "number": 1241,
+    "title": "docs(googlecalendar): add plugin-docs.yaml for familiar overview examples",
+    "url": "https://github.com/corsairdev/corsair/issues/1241",
+    "comments": 0,
+    "createdAt": "2026-08-28T00:52:39Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "status: available"
+    ],
+    "language": "typescript",
+    "stars": 10585,
+    "foundAt": "2026-08-28T05:30:19.952Z"
+  },
+  {
+    "key": "corsairdev/corsair#1240",
+    "tier": 1,
+    "repo": "corsairdev/corsair",
+    "number": 1240,
+    "title": "docs(github): add plugin-docs.yaml for familiar overview examples",
+    "url": "https://github.com/corsairdev/corsair/issues/1240",
+    "comments": 0,
+    "createdAt": "2026-08-28T00:52:20Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "status: available"
+    ],
+    "language": "typescript",
+    "stars": 10585,
+    "foundAt": "2026-08-28T05:30:19.952Z"
+  },
+  {
+    "key": "Mintplex-Labs/anything-llm#6203",
+    "tier": 1,
+    "repo": "Mintplex-Labs/anything-llm",
+    "number": 6203,
+    "title": "Add Perplexity integration attribution headers",
+    "url": "https://github.com/Mintplex-Labs/anything-llm/issues/6203",
+    "comments": 3,
+    "createdAt": "2026-08-27T20:29:30Z",
+    "labels": [
+      "good first issue"
+    ],
+    "language": "javascript",
+    "stars": 65314,
+    "foundAt": "2026-08-28T05:30:21.386Z"
+  },
+  {
+    "key": "liliu-z/stashbase#204",
+    "tier": 2,
+    "repo": "liliu-z/stashbase",
+    "number": 204,
+    "title": "feat(library): import public GitHub repositories",
+    "url": "https://github.com/liliu-z/stashbase/issues/204",
+    "comments": 0,
+    "createdAt": "2026-08-28T03:40:49Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "ready-for-agent",
+      "area: library"
+    ],
+    "language": "typescript",
+    "stars": 468,
+    "foundAt": "2026-08-28T05:30:22.201Z"
+  },
+  {
+    "key": "meshery/meshery.io#2914",
+    "tier": 2,
+    "repo": "meshery/meshery.io",
+    "number": 2914,
+    "title": "[Bug]: Hidden dropdown menu in filters",
+    "url": "https://github.com/meshery/meshery.io/issues/2914",
+    "comments": 0,
+    "createdAt": "2026-08-28T02:40:04Z",
+    "labels": [
+      "kind/bug",
+      "help wanted"
+    ],
+    "language": "javascript",
+    "stars": 827,
+    "foundAt": "2026-08-28T05:30:22.675Z"
+  },
+  {
+    "key": "zts212653/clowder-ai#1411",
+    "tier": 3,
+    "repo": "zts212653/clowder-ai",
+    "number": 1411,
+    "title": "F300: publish the Agent Self-Sensing and Self-Management contract",
+    "url": "https://github.com/zts212653/clowder-ai/issues/1411",
+    "comments": 1,
+    "createdAt": "2026-08-28T05:00:14Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "triaged",
+      "accepted",
+      "feature:F300"
+    ],
+    "language": "typescript",
+    "stars": 2796,
+    "foundAt": "2026-08-28T05:30:23.065Z"
+  },
+  {
+    "key": "CherryHQ/cherry-studio#19628",
+    "tier": 3,
+    "repo": "CherryHQ/cherry-studio",
+    "number": 19628,
+    "title": "[Feature]: docs example for PZERO OpenAI-compatible provider",
+    "url": "https://github.com/CherryHQ/cherry-studio/issues/19628",
+    "comments": 0,
+    "createdAt": "2026-08-28T04:59:22Z",
+    "labels": [
+      "docs"
+    ],
+    "language": "typescript",
+    "stars": 51067,
+    "foundAt": "2026-08-28T05:30:23.065Z"
+  },
+  {
+    "key": "Mintplex-Labs/anything-llm#6208",
+    "tier": 3,
+    "repo": "Mintplex-Labs/anything-llm",
+    "number": 6208,
+    "title": "[DOCS]: Cryptographic checksum or signature-verification seem unavailable for Linux Desktop App/AppImage",
+    "url": "https://github.com/Mintplex-Labs/anything-llm/issues/6208",
+    "comments": 0,
+    "createdAt": "2026-08-28T00:51:27Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "javascript",
+    "stars": 65314,
+    "foundAt": "2026-08-28T05:30:26.068Z"
+  },
+  {
     "key": "medusajs/medusa#16636",
     "tier": 1,
     "repo": "medusajs/medusa",
@@ -1408,466 +1814,5 @@
     "language": "typescript",
     "stars": 36015,
     "foundAt": "2026-08-26T15:57:37.889Z"
-  },
-  {
-    "key": "apache/maka#3933",
-    "tier": 2,
-    "repo": "apache/maka",
-    "number": 3933,
-    "title": "refactor(cli): ship one Eval runtime in the npm CLI package",
-    "url": "https://github.com/apache/maka/issues/3933",
-    "comments": 1,
-    "createdAt": "2026-08-26T14:59:58Z",
-    "labels": [
-      "enhancement",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 3407,
-    "foundAt": "2026-08-26T15:57:39.498Z"
-  },
-  {
-    "key": "apache/maka#3932",
-    "tier": 2,
-    "repo": "apache/maka",
-    "number": 3932,
-    "title": "refactor(runtime-host): remove the uncalled execution.inspect.resolve operation",
-    "url": "https://github.com/apache/maka/issues/3932",
-    "comments": 1,
-    "createdAt": "2026-08-26T14:59:54Z",
-    "labels": [
-      "enhancement",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 3407,
-    "foundAt": "2026-08-26T15:57:39.498Z"
-  },
-  {
-    "key": "TriliumNext/Trilium#11204",
-    "tier": 2,
-    "repo": "TriliumNext/Trilium",
-    "number": 11204,
-    "title": "Tree Quick Search fails when `/` is in the middle of the query",
-    "url": "https://github.com/TriliumNext/Trilium/issues/11204",
-    "comments": 1,
-    "createdAt": "2026-08-26T14:19:58Z",
-    "labels": [
-      "Difficulty: Easy",
-      "State: Triage",
-      "awaiting feedback",
-      "UI"
-    ],
-    "language": "typescript",
-    "stars": 37596,
-    "foundAt": "2026-08-26T15:57:39.743Z"
-  },
-  {
-    "key": "Simon-He95/markstream-vue#726",
-    "tier": 2,
-    "repo": "Simon-He95/markstream-vue",
-    "number": 726,
-    "title": "Research CSS Custom Highlight rendering versus stream-diffs and provide a Vue PoC",
-    "url": "https://github.com/Simon-He95/markstream-vue/issues/726",
-    "comments": 0,
-    "createdAt": "2026-08-26T13:52:05Z",
-    "labels": [
-      "help wanted",
-      "perf",
-      "pr welcome",
-      "vue3"
-    ],
-    "language": "vue",
-    "stars": 2967,
-    "foundAt": "2026-08-26T15:57:40.808Z"
-  },
-  {
-    "key": "parthbuilds-community/FitMart#979",
-    "tier": 2,
-    "repo": "parthbuilds-community/FitMart",
-    "number": 979,
-    "title": "Feature: Create the Program Mongoose Model",
-    "url": "https://github.com/parthbuilds-community/FitMart/issues/979",
-    "comments": 0,
-    "createdAt": "2026-08-26T13:42:55Z",
-    "labels": [
-      "duplicate",
-      "enhancement",
-      "help wanted",
-      "UI"
-    ],
-    "language": "javascript",
-    "stars": 354,
-    "foundAt": "2026-08-26T15:57:40.614Z"
-  },
-  {
-    "key": "eclipse-theia/theia#17957",
-    "tier": 2,
-    "repo": "eclipse-theia/theia",
-    "number": 17957,
-    "title": "Adopt React 19 APIs/features where it makes sense",
-    "url": "https://github.com/eclipse-theia/theia/issues/17957",
-    "comments": 0,
-    "createdAt": "2026-08-26T13:21:04Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "react"
-    ],
-    "language": "typescript",
-    "stars": 21657,
-    "foundAt": "2026-08-26T15:57:40.401Z"
-  },
-  {
-    "key": "diegosouzapw/OmniRoute#11661",
-    "tier": 3,
-    "repo": "diegosouzapw/OmniRoute",
-    "number": 11661,
-    "title": "docs(video): consolidate canonical state and 100 percent closure evidence",
-    "url": "https://github.com/diegosouzapw/OmniRoute/issues/11661",
-    "comments": 0,
-    "createdAt": "2026-08-26T15:46:46Z",
-    "labels": [
-      "documentation",
-      "enhancement"
-    ],
-    "language": "typescript",
-    "stars": 55922,
-    "foundAt": "2026-08-26T15:57:41.251Z"
-  },
-  {
-    "key": "cloudflare/cloudflare-docs#33042",
-    "tier": 3,
-    "repo": "cloudflare/cloudflare-docs",
-    "number": 33042,
-    "title": "glm-5.3-flash page giving 404",
-    "url": "https://github.com/cloudflare/cloudflare-docs/issues/33042",
-    "comments": 0,
-    "createdAt": "2026-08-26T15:35:11Z",
-    "labels": [
-      "documentation",
-      "content:new"
-    ],
-    "language": "mdx",
-    "stars": 5137,
-    "foundAt": "2026-08-26T15:57:44.729Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29195",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29195,
-    "title": "[Good First Issue] 🎎 Add new Japanese Idiom 73 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29195",
-    "comments": 1,
-    "createdAt": "2026-08-26T13:01:04Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3253,
-    "foundAt": "2026-08-26T13:31:22.974Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29193",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29193,
-    "title": "[Good First Issue] 🍱 Add new Anime Quote 44 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29193",
-    "comments": 1,
-    "createdAt": "2026-08-26T12:01:06Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3253,
-    "foundAt": "2026-08-26T13:31:24.280Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29192",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29192,
-    "title": "[Good First Issue] 🍢 Add new Grammar Point 122 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29192",
-    "comments": 1,
-    "createdAt": "2026-08-26T11:37:32Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3253,
-    "foundAt": "2026-08-26T11:53:12.282Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29191",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29191,
-    "title": "[Good First Issue] 🐙 Add new Trivia Question 2 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29191",
-    "comments": 1,
-    "createdAt": "2026-08-26T11:01:00Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3253,
-    "foundAt": "2026-08-26T11:53:12.647Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29190",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29190,
-    "title": "[Good First Issue] 🎐 Add new Japanese Proverb 93 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29190",
-    "comments": 1,
-    "createdAt": "2026-08-26T10:37:33Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3253,
-    "foundAt": "2026-08-26T10:57:54.780Z"
-  },
-  {
-    "key": "yamadashy/repomix#1819",
-    "tier": 3,
-    "repo": "yamadashy/repomix",
-    "number": 1819,
-    "title": "truncateBase64Content silently drops data-URI parameters due to repeated capture group",
-    "url": "https://github.com/yamadashy/repomix/issues/1819",
-    "comments": 0,
-    "createdAt": "2026-08-26T10:11:16Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 28066,
-    "foundAt": "2026-08-26T10:57:57.212Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29187",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29187,
-    "title": "[Good First Issue] 🍙 Add new Japan Fact 191 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29187",
-    "comments": 1,
-    "createdAt": "2026-08-26T10:01:01Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3253,
-    "foundAt": "2026-08-26T10:04:03.217Z"
-  },
-  {
-    "key": "nteract/semiotic#1223",
-    "tier": 3,
-    "repo": "nteract/semiotic",
-    "number": 1223,
-    "title": "Add opt-in pitch sonification for one ordered series",
-    "url": "https://github.com/nteract/semiotic/issues/1223",
-    "comments": 0,
-    "createdAt": "2026-08-26T10:01:12Z",
-    "labels": [
-      "enhancement",
-      "accessibility"
-    ],
-    "language": "typescript",
-    "stars": 2692,
-    "foundAt": "2026-08-26T10:04:05.563Z"
-  },
-  {
-    "key": "nteract/semiotic#1222",
-    "tier": 3,
-    "repo": "nteract/semiotic",
-    "number": 1222,
-    "title": "Support audience-specific long and short annotation text",
-    "url": "https://github.com/nteract/semiotic/issues/1222",
-    "comments": 0,
-    "createdAt": "2026-08-26T10:01:11Z",
-    "labels": [
-      "enhancement",
-      "accessibility"
-    ],
-    "language": "typescript",
-    "stars": 2692,
-    "foundAt": "2026-08-26T10:04:05.563Z"
-  },
-  {
-    "key": "nteract/semiotic#1213",
-    "tier": 3,
-    "repo": "nteract/semiotic",
-    "number": 1213,
-    "title": "Create a shared bounded label-placement primitive for custom layouts",
-    "url": "https://github.com/nteract/semiotic/issues/1213",
-    "comments": 0,
-    "createdAt": "2026-08-26T09:54:58Z",
-    "labels": [
-      "enhancement",
-      "refactor",
-      "accessibility"
-    ],
-    "language": "typescript",
-    "stars": 2692,
-    "foundAt": "2026-08-26T10:04:05.761Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29184",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29184,
-    "title": "[Good First Issue] 🍛 Add new Community Note Line #5 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29184",
-    "comments": 1,
-    "createdAt": "2026-08-26T09:00:59Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3253,
-    "foundAt": "2026-08-26T09:08:26.819Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29182",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29182,
-    "title": "[Good First Issue] 🪭 Add new Wallpaper URL #1 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29182",
-    "comments": 1,
-    "createdAt": "2026-08-26T08:37:45Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3253,
-    "foundAt": "2026-08-26T09:08:26.819Z"
-  },
-  {
-    "key": "OpenRailAssociation/osrd#18270",
-    "tier": 1,
-    "repo": "OpenRailAssociation/osrd",
-    "number": 18270,
-    "title": "editoast: views: add rolling stocks in test",
-    "url": "https://github.com/OpenRailAssociation/osrd/issues/18270",
-    "comments": 0,
-    "createdAt": "2026-08-26T08:28:33Z",
-    "labels": [
-      "good first issue",
-      "area:editoast"
-    ],
-    "language": "typescript",
-    "stars": 653,
-    "foundAt": "2026-08-26T09:08:27.400Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29181",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29181,
-    "title": "[Good First Issue] 🏮 Add new Learner Mistake 21 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29181",
-    "comments": 1,
-    "createdAt": "2026-08-26T08:01:02Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3253,
-    "foundAt": "2026-08-26T08:05:53.968Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29180",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29180,
-    "title": "[Good First Issue] 🍣 Add new Example Sentence 99 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29180",
-    "comments": 1,
-    "createdAt": "2026-08-26T07:37:32Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3253,
-    "foundAt": "2026-08-26T08:05:54.427Z"
   }
 ]
