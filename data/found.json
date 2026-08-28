@@ -1,5 +1,76 @@
 [
   {
+    "key": "WordPress/gutenberg#82169",
+    "tier": 1,
+    "repo": "WordPress/gutenberg",
+    "number": 82169,
+    "title": "PostCSS/esbuild/Vite token-fallback plugins incorrectly rewrite var()-like text inside strings",
+    "url": "https://github.com/WordPress/gutenberg/issues/82169",
+    "comments": 0,
+    "createdAt": "2026-08-28T09:14:26Z",
+    "labels": [
+      "Good First Issue",
+      "[Package] Theme"
+    ],
+    "language": "javascript",
+    "stars": 11748,
+    "foundAt": "2026-08-28T18:51:59.323Z"
+  },
+  {
+    "key": "quarto-dev/quarto-cli#14829",
+    "tier": 3,
+    "repo": "quarto-dev/quarto-cli",
+    "number": 14829,
+    "title": "a11y: dashboard arrow-key page navigation does not update the URL or the page flow",
+    "url": "https://github.com/quarto-dev/quarto-cli/issues/14829",
+    "comments": 0,
+    "createdAt": "2026-08-28T17:11:36Z",
+    "labels": [
+      "bug",
+      "accessibility",
+      "dashboards"
+    ],
+    "language": "javascript",
+    "stars": 5964,
+    "foundAt": "2026-08-28T18:52:03.131Z"
+  },
+  {
+    "key": "getsentry/sentry-docs#19177",
+    "tier": 3,
+    "repo": "getsentry/sentry-docs",
+    "number": 19177,
+    "title": "Monolog Log Handler is using old constructor parameters",
+    "url": "https://github.com/getsentry/sentry-docs/issues/19177",
+    "comments": 1,
+    "createdAt": "2026-08-28T15:46:22Z",
+    "labels": [
+      "SDKs",
+      "Platform: PHP",
+      "Docs"
+    ],
+    "language": "mdx",
+    "stars": 442,
+    "foundAt": "2026-08-28T18:52:03.131Z"
+  },
+  {
+    "key": "getsentry/sentry-docs#19174",
+    "tier": 3,
+    "repo": "getsentry/sentry-docs",
+    "number": 19174,
+    "title": "Custom Integrations has incorrect link to Integration interface",
+    "url": "https://github.com/getsentry/sentry-docs/issues/19174",
+    "comments": 1,
+    "createdAt": "2026-08-28T08:56:44Z",
+    "labels": [
+      "SDKs",
+      "Platform: JavaScript",
+      "Docs"
+    ],
+    "language": "mdx",
+    "stars": 442,
+    "foundAt": "2026-08-28T18:52:03.299Z"
+  },
+  {
     "key": "reticlehq/reticle#624",
     "tier": 1,
     "repo": "reticlehq/reticle",
@@ -1733,86 +1804,5 @@
     "language": "javascript",
     "stars": 395,
     "foundAt": "2026-08-26T18:11:02.712Z"
-  },
-  {
-    "key": "prometheus/client_js#823",
-    "tier": 1,
-    "repo": "prometheus/client_js",
-    "number": 823,
-    "title": "Truthiness Reduction Program 2026",
-    "url": "https://github.com/prometheus/client_js/issues/823",
-    "comments": 0,
-    "createdAt": "2026-08-26T15:51:00Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "performance"
-    ],
-    "language": "javascript",
-    "stars": 3483,
-    "foundAt": "2026-08-26T15:57:38.574Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29203",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29203,
-    "title": "[Good First Issue] 🎐 Add new Example Sentence 91 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29203",
-    "comments": 1,
-    "createdAt": "2026-08-26T15:01:42Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3253,
-    "foundAt": "2026-08-26T15:57:37.232Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29202",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29202,
-    "title": "[Good First Issue] 🗻 Add new Etiquette Tip 55 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29202",
-    "comments": 1,
-    "createdAt": "2026-08-26T14:38:24Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3253,
-    "foundAt": "2026-08-26T15:57:37.454Z"
-  },
-  {
-    "key": "medusajs/medusa#16612",
-    "tier": 1,
-    "repo": "medusajs/medusa",
-    "number": 16612,
-    "title": "[Bug]: Filtering orders by most order_item fields (e.g. items.fulfilled_quantity) throws 'not existing property OrderLineItem'",
-    "url": "https://github.com/medusajs/medusa/issues/16612",
-    "comments": 1,
-    "createdAt": "2026-08-26T14:04:53Z",
-    "labels": [
-      "good first issue",
-      "type: bug"
-    ],
-    "language": "typescript",
-    "stars": 36015,
-    "foundAt": "2026-08-26T15:57:37.889Z"
   }
 ]

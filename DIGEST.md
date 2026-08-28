@@ -4,6 +4,10 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-08-28 | 🥇 | [PostCSS/esbuild/Vite token-fallback plugins incorrectly rewrite var()-like text ](https://github.com/WordPress/gutenberg/issues/82169) | `WordPress/gutenberg` | ⭐ 11.7k |
+| 2026-08-28 | 🥉 | [a11y: dashboard arrow-key page navigation does not update the URL or the page fl](https://github.com/quarto-dev/quarto-cli/issues/14829) | `quarto-dev/quarto-cli` | ⭐ 6.0k |
+| 2026-08-28 | 🥉 | [Monolog Log Handler is using old constructor parameters](https://github.com/getsentry/sentry-docs/issues/19177) | `getsentry/sentry-docs` | ⭐ 442 |
+| 2026-08-28 | 🥉 | [Custom Integrations has incorrect link to Integration interface](https://github.com/getsentry/sentry-docs/issues/19174) | `getsentry/sentry-docs` | ⭐ 442 |
 | 2026-08-28 | 🥇 | [discoverProjectConfigs misses a workspace declared as a bare directory name](https://github.com/reticlehq/reticle/issues/624) | `reticlehq/reticle` | ⭐ 367 |
 | 2026-08-28 | 🥇 | [Typed `!`-commands don't normalise Slack mention encoding in arguments](https://github.com/sandbox-quantum/switch/issues/315) | `sandbox-quantum/switch` | ⭐ 372 |
 | 2026-08-28 | 🥇 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/14727) | `stdlib-js/stdlib` | ⭐ 5.9k |
@@ -100,7 +104,3 @@
 | 2026-08-26 | 🥈 | [test(desktop): the crash fallback has no story](https://github.com/apache/maka/issues/3943) | `apache/maka` | ⭐ 3.4k |
 | 2026-08-26 | 🥈 | [test(desktop): the Storybook smoke renders one of 22 palette × colour-scheme com](https://github.com/apache/maka/issues/3942) | `apache/maka` | ⭐ 3.4k |
 | 2026-08-26 | 🥉 | [Restructure the documentation](https://github.com/AmoebeLabs/flex-horseshoe-card/issues/523) | `AmoebeLabs/flex-horseshoe-card` | ⭐ 395 |
-| 2026-08-26 | 🥇 | [Truthiness Reduction Program 2026](https://github.com/prometheus/client_js/issues/823) | `prometheus/client_js` | ⭐ 3.5k |
-| 2026-08-26 | 🥇 | [[Good First Issue] 🎐 Add new Example Sentence 91 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29203) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-08-26 | 🥇 | [[Good First Issue] 🗻 Add new Etiquette Tip 55 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29202) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-08-26 | 🥇 | [[Bug]: Filtering orders by most order_item fields (e.g. items.fulfilled_quantity](https://github.com/medusajs/medusa/issues/16612) | `medusajs/medusa` | ⭐ 36.0k |
