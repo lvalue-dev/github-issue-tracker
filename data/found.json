@@ -1,5 +1,90 @@
 [
   {
+    "key": "hackforla/website#8762",
+    "tier": 1,
+    "repo": "hackforla/website",
+    "number": 8762,
+    "title": "Update Project Profile: Hackforla.org Website Remove Ryan Keller",
+    "url": "https://github.com/hackforla/website/issues/8762",
+    "comments": 0,
+    "createdAt": "2026-08-29T06:15:52Z",
+    "labels": [
+      "good first issue",
+      "role: front end",
+      "role: back end/devOps",
+      "P-Feature: Project Info and Page",
+      "time sensitive",
+      "size: 0.25pt",
+      "ready for merge team"
+    ],
+    "language": "javascript",
+    "stars": 364,
+    "foundAt": "2026-08-29T09:12:44.991Z"
+  },
+  {
+    "key": "hackforla/website#8761",
+    "tier": 1,
+    "repo": "hackforla/website",
+    "number": 8761,
+    "title": "Update Project Profile: Hackforla.org Website Add Maleah Castillo Smith",
+    "url": "https://github.com/hackforla/website/issues/8761",
+    "comments": 0,
+    "createdAt": "2026-08-29T06:07:44Z",
+    "labels": [
+      "good first issue",
+      "role: front end",
+      "role: back end/devOps",
+      "P-Feature: Project Info and Page",
+      "time sensitive",
+      "size: 0.25pt",
+      "ready for merge team"
+    ],
+    "language": "javascript",
+    "stars": 364,
+    "foundAt": "2026-08-29T09:12:44.991Z"
+  },
+  {
+    "key": "hackforla/website#8760",
+    "tier": 1,
+    "repo": "hackforla/website",
+    "number": 8760,
+    "title": "Update Project Profile: Hackforla.org Website Add Jose Santiago",
+    "url": "https://github.com/hackforla/website/issues/8760",
+    "comments": 0,
+    "createdAt": "2026-08-29T05:53:42Z",
+    "labels": [
+      "good first issue",
+      "role: front end",
+      "role: back end/devOps",
+      "P-Feature: Project Info and Page",
+      "time sensitive",
+      "size: 0.25pt",
+      "ready for merge team"
+    ],
+    "language": "javascript",
+    "stars": 364,
+    "foundAt": "2026-08-29T09:12:44.991Z"
+  },
+  {
+    "key": "code-charity/youtube#4302",
+    "tier": 1,
+    "repo": "code-charity/youtube",
+    "number": 4302,
+    "title": "💡 Separate quality setting for 60 fps videos",
+    "url": "https://github.com/code-charity/youtube/issues/4302",
+    "comments": 1,
+    "createdAt": "2026-08-29T04:41:24Z",
+    "labels": [
+      "Feature request",
+      "help wanted",
+      "good first issue",
+      "up-for-grabs"
+    ],
+    "language": "javascript",
+    "stars": 4555,
+    "foundAt": "2026-08-29T09:12:45.221Z"
+  },
+  {
     "key": "hackforla/website#8759",
     "tier": 1,
     "repo": "hackforla/website",
@@ -1722,93 +1807,5 @@
     "language": "typescript",
     "stars": 785,
     "foundAt": "2026-08-26T18:10:56.188Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29208",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29208,
-    "title": "[Good First Issue] 🎏 Add new Japanese Proverb 58 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29208",
-    "comments": 1,
-    "createdAt": "2026-08-26T18:01:15Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3253,
-    "foundAt": "2026-08-26T18:10:56.188Z"
-  },
-  {
-    "key": "ONEARMY/community-platform#4865",
-    "tier": 1,
-    "repo": "ONEARMY/community-platform",
-    "number": 4865,
-    "title": "[bug] Missing settings page titles",
-    "url": "https://github.com/ONEARMY/community-platform/issues/4865",
-    "comments": 0,
-    "createdAt": "2026-08-26T17:47:10Z",
-    "labels": [
-      "Good first issue",
-      "Help wanted",
-      "Difficulty: Easy"
-    ],
-    "language": "typescript",
-    "stars": 1398,
-    "foundAt": "2026-08-26T18:10:56.868Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29207",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29207,
-    "title": "[Good First Issue] 🍢 Add new Theme: Winter Kimono - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29207",
-    "comments": 1,
-    "createdAt": "2026-08-26T17:37:52Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3253,
-    "foundAt": "2026-08-26T18:10:57.275Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29206",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29206,
-    "title": "[Good First Issue] 🏮 Add new Community Note Line #4 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29206",
-    "comments": 1,
-    "createdAt": "2026-08-26T17:01:13Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3253,
-    "foundAt": "2026-08-26T18:10:57.275Z"
   }
 ]

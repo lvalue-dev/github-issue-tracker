@@ -4,6 +4,10 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-08-29 | 🥇 | [Update Project Profile: Hackforla.org Website Remove Ryan Keller](https://github.com/hackforla/website/issues/8762) | `hackforla/website` | ⭐ 364 |
+| 2026-08-29 | 🥇 | [Update Project Profile: Hackforla.org Website Add Maleah Castillo Smith](https://github.com/hackforla/website/issues/8761) | `hackforla/website` | ⭐ 364 |
+| 2026-08-29 | 🥇 | [Update Project Profile: Hackforla.org Website Add Jose Santiago](https://github.com/hackforla/website/issues/8760) | `hackforla/website` | ⭐ 364 |
+| 2026-08-29 | 🥇 | [💡 Separate quality setting for 60 fps videos](https://github.com/code-charity/youtube/issues/4302) | `code-charity/youtube` | ⭐ 4.6k |
 | 2026-08-29 | 🥇 | [Update Project Profile: Hack for LA Site Remove Gilbert Quionnez](https://github.com/hackforla/website/issues/8759) | `hackforla/website` | ⭐ 364 |
 | 2026-08-29 | 🥇 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/14759) | `stdlib-js/stdlib` | ⭐ 5.9k |
 | 2026-08-29 | 🥇 | [USWDS - Testing: Replace build.spec.js with a dist smoke test in release-prep ve](https://github.com/uswds/uswds/issues/6877) | `uswds/uswds` | ⭐ 7.2k |
@@ -100,7 +104,3 @@
 | 2026-08-26 | 🥇 | [OpenCode: parse usage, cost and finish reason from step_finish.part](https://github.com/cyrusagents/cyrus/issues/1433) | `cyrusagents/cyrus` | ⭐ 785 |
 | 2026-08-26 | 🥇 | [OpenCode: make Cyrus-managed skills available to sessions](https://github.com/cyrusagents/cyrus/issues/1432) | `cyrusagents/cyrus` | ⭐ 785 |
 | 2026-08-26 | 🥇 | [OpenCode: support steering of active turns](https://github.com/cyrusagents/cyrus/issues/1431) | `cyrusagents/cyrus` | ⭐ 785 |
-| 2026-08-26 | 🥇 | [[Good First Issue] 🎏 Add new Japanese Proverb 58 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29208) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-08-26 | 🥇 | [[bug] Missing settings page titles](https://github.com/ONEARMY/community-platform/issues/4865) | `ONEARMY/community-platform` | ⭐ 1.4k |
-| 2026-08-26 | 🥇 | [[Good First Issue] 🍢 Add new Theme: Winter Kimono - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29207) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-08-26 | 🥇 | [[Good First Issue] 🏮 Add new Community Note Line #4 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29206) | `lingdojo/kana-dojo` | ⭐ 3.3k |
