@@ -6038,5 +6038,295 @@
     "language": "MDX",
     "openIssues": 18,
     "cachedAt": "2026-08-29T09:12:52.159Z"
+  },
+  "chahe-dridi/vscode-agent-bell": {
+    "fullName": "chahe-dridi/vscode-agent-bell",
+    "stars": 0,
+    "pushedAt": "2026-08-29T13:32:58Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 23,
+    "cachedAt": "2026-08-29T14:35:46.377Z"
+  },
+  "KubeOrch/ui": {
+    "fullName": "KubeOrch/ui",
+    "stars": 46,
+    "pushedAt": "2026-08-18T13:16:22Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 5,
+    "cachedAt": "2026-08-29T14:35:46.614Z"
+  },
+  "Muskankr/AI-Resume-Analyzer": {
+    "fullName": "Muskankr/AI-Resume-Analyzer",
+    "stars": 26,
+    "pushedAt": "2026-08-28T18:08:00Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 136,
+    "cachedAt": "2026-08-29T14:35:46.827Z"
+  },
+  "salikkhann/openmedskills": {
+    "fullName": "salikkhann/openmedskills",
+    "stars": 0,
+    "pushedAt": "2026-08-29T14:07:56Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 10,
+    "cachedAt": "2026-08-29T14:35:47.074Z"
+  },
+  "schmug/lenspub": {
+    "fullName": "schmug/lenspub",
+    "stars": 0,
+    "pushedAt": "2026-08-29T13:23:06Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 3,
+    "cachedAt": "2026-08-29T14:35:47.291Z"
+  },
+  "alplabai/alp-sdk-vscode": {
+    "fullName": "alplabai/alp-sdk-vscode",
+    "stars": 1,
+    "pushedAt": "2026-08-29T12:47:51Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 32,
+    "cachedAt": "2026-08-29T14:35:47.496Z"
+  },
+  "cobusgreyling/grok-bot-templates": {
+    "fullName": "cobusgreyling/grok-bot-templates",
+    "stars": 1,
+    "pushedAt": "2026-08-29T12:55:39Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 10,
+    "cachedAt": "2026-08-29T14:35:47.712Z"
+  },
+  "rajat-wyrm/InternOps": {
+    "fullName": "rajat-wyrm/InternOps",
+    "stars": 2,
+    "pushedAt": "2026-08-29T13:22:41Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 67,
+    "cachedAt": "2026-08-29T14:35:47.916Z"
+  },
+  "sraodev/SmartPod": {
+    "fullName": "sraodev/SmartPod",
+    "stars": 0,
+    "pushedAt": "2026-08-29T10:44:24Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 4,
+    "cachedAt": "2026-08-29T14:35:48.144Z"
+  },
+  "MoleCare/molecare-webapp": {
+    "fullName": "MoleCare/molecare-webapp",
+    "stars": 2,
+    "pushedAt": "2026-08-25T22:11:31Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 28,
+    "cachedAt": "2026-08-29T14:35:48.345Z"
+  },
+  "MoleCare/molecare-desktop": {
+    "fullName": "MoleCare/molecare-desktop",
+    "stars": 2,
+    "pushedAt": "2026-08-25T22:12:18Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 5,
+    "cachedAt": "2026-08-29T14:35:48.596Z"
+  },
+  "NextLevelManagementAdvisors/nlma.io": {
+    "fullName": "NextLevelManagementAdvisors/nlma.io",
+    "stars": 0,
+    "pushedAt": "2026-08-29T14:35:00Z",
+    "archived": false,
+    "fork": false,
+    "language": "HTML",
+    "openIssues": 1,
+    "cachedAt": "2026-08-29T14:35:48.780Z"
+  },
+  "ChristerFrestad/NeighborTools": {
+    "fullName": "ChristerFrestad/NeighborTools",
+    "stars": 0,
+    "pushedAt": "2026-08-29T12:03:07Z",
+    "archived": false,
+    "fork": false,
+    "language": "HTML",
+    "openIssues": 1,
+    "cachedAt": "2026-08-29T14:35:48.976Z"
+  },
+  "saramjh/interaction-doctor": {
+    "fullName": "saramjh/interaction-doctor",
+    "stars": 0,
+    "pushedAt": "2026-08-29T09:56:53Z",
+    "archived": false,
+    "fork": false,
+    "language": "HTML",
+    "openIssues": 3,
+    "cachedAt": "2026-08-29T14:35:49.157Z"
+  },
+  "P-r-e-m-i-u-m/open-source-starter-lab": {
+    "fullName": "P-r-e-m-i-u-m/open-source-starter-lab",
+    "stars": 24,
+    "pushedAt": "2026-08-29T09:58:16Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 51,
+    "cachedAt": "2026-08-29T14:35:49.377Z"
+  },
+  "kimatata/unittcms": {
+    "fullName": "kimatata/unittcms",
+    "stars": 112,
+    "pushedAt": "2026-06-14T08:17:39Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 63,
+    "cachedAt": "2026-08-29T14:35:49.574Z"
+  },
+  "societe-agents-ia-arch/open-agent-polity": {
+    "fullName": "societe-agents-ia-arch/open-agent-polity",
+    "stars": 0,
+    "pushedAt": "2026-08-29T11:17:33Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 1,
+    "cachedAt": "2026-08-29T14:35:49.782Z"
+  },
+  "eudi-verify/eudi-verify": {
+    "fullName": "eudi-verify/eudi-verify",
+    "stars": 0,
+    "pushedAt": "2026-08-29T11:16:26Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 6,
+    "cachedAt": "2026-08-29T14:35:50.004Z"
+  },
+  "trustflow-protocol/trustflow-sdk": {
+    "fullName": "trustflow-protocol/trustflow-sdk",
+    "stars": 0,
+    "pushedAt": "2026-08-28T10:47:31Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 55,
+    "cachedAt": "2026-08-29T14:35:50.197Z"
+  },
+  "Miniks040506/EffectGate": {
+    "fullName": "Miniks040506/EffectGate",
+    "stars": 1,
+    "pushedAt": "2026-08-29T13:41:55Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 1,
+    "cachedAt": "2026-08-29T14:35:50.414Z"
+  },
+  "hackernotfound/dsh-tacit": {
+    "fullName": "hackernotfound/dsh-tacit",
+    "stars": 0,
+    "pushedAt": "2026-08-29T13:39:35Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 2,
+    "cachedAt": "2026-08-29T14:35:50.615Z"
+  },
+  "Compendiq/compendiq-ce": {
+    "fullName": "Compendiq/compendiq-ce",
+    "stars": 0,
+    "pushedAt": "2026-08-29T14:23:45Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 34,
+    "cachedAt": "2026-08-29T14:35:50.832Z"
+  },
+  "SmartTechBrewery/rover": {
+    "fullName": "SmartTechBrewery/rover",
+    "stars": 0,
+    "pushedAt": "2026-08-29T14:33:43Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 18,
+    "cachedAt": "2026-08-29T14:35:51.059Z"
+  },
+  "kompiro/karasu": {
+    "fullName": "kompiro/karasu",
+    "stars": 1,
+    "pushedAt": "2026-08-29T14:23:57Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 44,
+    "cachedAt": "2026-08-29T14:35:51.244Z"
+  },
+  "nalfeo/Crawler": {
+    "fullName": "nalfeo/Crawler",
+    "stars": 1,
+    "pushedAt": "2026-08-29T14:25:09Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 50,
+    "cachedAt": "2026-08-29T14:35:51.423Z"
+  },
+  "Automated-Cross-Contract-SDK/Automated-Cross-Contract-SDK-Backend": {
+    "fullName": "Automated-Cross-Contract-SDK/Automated-Cross-Contract-SDK-Backend",
+    "stars": 5,
+    "pushedAt": "2026-08-10T09:27:31Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 195,
+    "cachedAt": "2026-08-29T14:35:51.647Z"
+  },
+  "schmug/shipofclaudius": {
+    "fullName": "schmug/shipofclaudius",
+    "stars": 0,
+    "pushedAt": "2026-08-29T13:14:30Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 23,
+    "cachedAt": "2026-08-29T14:35:51.839Z"
+  },
+  "ProjectSidewalk/SidewalkWebpage": {
+    "fullName": "ProjectSidewalk/SidewalkWebpage",
+    "stars": 104,
+    "pushedAt": "2026-08-29T13:36:44Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 462,
+    "cachedAt": "2026-08-29T14:35:52.061Z"
+  },
+  "xmanrui/dsh-im": {
+    "fullName": "xmanrui/dsh-im",
+    "stars": 977,
+    "pushedAt": "2026-08-29T12:26:09Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 15,
+    "cachedAt": "2026-08-29T14:35:52.283Z"
   }
 }

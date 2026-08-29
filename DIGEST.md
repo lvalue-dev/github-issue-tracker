@@ -4,6 +4,11 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-08-29 | 🥇 | [Graph view / improved view of categories](https://github.com/Smaug6739/Alexandrie/issues/740) | `Smaug6739/Alexandrie` | ⭐ 2.4k |
+| 2026-08-29 | 🥇 | [Fix: Datatable select page count display the wrong default value](https://github.com/Smaug6739/Alexandrie/issues/739) | `Smaug6739/Alexandrie` | ⭐ 2.4k |
+| 2026-08-29 | 🥇 | [Fix Kannban assign modal display](https://github.com/Smaug6739/Alexandrie/issues/738) | `Smaug6739/Alexandrie` | ⭐ 2.4k |
+| 2026-08-29 | 🥈 | [In-page search (Ctrl+F) does not find text inside inline, cards, and internal li](https://github.com/TriliumNext/Trilium/issues/11242) | `TriliumNext/Trilium` | ⭐ 37.6k |
+| 2026-08-29 | 🥉 | [【兼容性公告】dsh-im v4.0.0 已兼容 DSH v0.1.2-alpha.1，同时兼容旧版](https://github.com/xmanrui/dsh-im/issues/83) | `xmanrui/dsh-im` | ⭐ 977 |
 | 2026-08-29 | 🥇 | [Update Project Profile: Hackforla.org Website Remove Ryan Keller](https://github.com/hackforla/website/issues/8762) | `hackforla/website` | ⭐ 364 |
 | 2026-08-29 | 🥇 | [Update Project Profile: Hackforla.org Website Add Maleah Castillo Smith](https://github.com/hackforla/website/issues/8761) | `hackforla/website` | ⭐ 364 |
 | 2026-08-29 | 🥇 | [Update Project Profile: Hackforla.org Website Add Jose Santiago](https://github.com/hackforla/website/issues/8760) | `hackforla/website` | ⭐ 364 |
@@ -99,8 +104,3 @@
 | 2026-08-26 | 🥇 | [[Good First Issue] 🥢 Add new Trivia Question 39 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29210) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-08-26 | 🥇 | [Style panel: add text-underline-offset, transform-origin, and filter in transiti](https://github.com/silexlabs/Silex/issues/1835) | `silexlabs/Silex` | ⭐ 2.9k |
 | 2026-08-26 | 🥇 | [[Good First Issue] 🍘 Add new Japanese Haiku 11 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29209) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-08-26 | 🥈 | [[Bug] RelatedPostsFactory throws runtime error / fails when blog posts have empt](https://github.com/layer5io/layer5/issues/8000) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-08-26 | 🥉 | [Tracking: Valkey ecosystem tools listing (valkey-io/valkey-doc)](https://github.com/libredb/libredb-studio/issues/507) | `libredb/libredb-studio` | ⭐ 353 |
-| 2026-08-26 | 🥇 | [OpenCode: parse usage, cost and finish reason from step_finish.part](https://github.com/cyrusagents/cyrus/issues/1433) | `cyrusagents/cyrus` | ⭐ 785 |
-| 2026-08-26 | 🥇 | [OpenCode: make Cyrus-managed skills available to sessions](https://github.com/cyrusagents/cyrus/issues/1432) | `cyrusagents/cyrus` | ⭐ 785 |
-| 2026-08-26 | 🥇 | [OpenCode: support steering of active turns](https://github.com/cyrusagents/cyrus/issues/1431) | `cyrusagents/cyrus` | ⭐ 785 |

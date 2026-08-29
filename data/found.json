@@ -1,5 +1,96 @@
 [
   {
+    "key": "Smaug6739/Alexandrie#740",
+    "tier": 1,
+    "repo": "Smaug6739/Alexandrie",
+    "number": 740,
+    "title": "Graph view / improved view of categories",
+    "url": "https://github.com/Smaug6739/Alexandrie/issues/740",
+    "comments": 0,
+    "createdAt": "2026-08-29T12:10:22Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "frontend",
+      "interface"
+    ],
+    "language": "vue",
+    "stars": 2374,
+    "foundAt": "2026-08-29T14:35:49.158Z"
+  },
+  {
+    "key": "Smaug6739/Alexandrie#739",
+    "tier": 1,
+    "repo": "Smaug6739/Alexandrie",
+    "number": 739,
+    "title": "Fix: Datatable select page count display the wrong default value",
+    "url": "https://github.com/Smaug6739/Alexandrie/issues/739",
+    "comments": 0,
+    "createdAt": "2026-08-29T11:52:46Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "interface"
+    ],
+    "language": "vue",
+    "stars": 2374,
+    "foundAt": "2026-08-29T14:35:49.158Z"
+  },
+  {
+    "key": "Smaug6739/Alexandrie#738",
+    "tier": 1,
+    "repo": "Smaug6739/Alexandrie",
+    "number": 738,
+    "title": "Fix Kannban assign modal display",
+    "url": "https://github.com/Smaug6739/Alexandrie/issues/738",
+    "comments": 0,
+    "createdAt": "2026-08-29T11:49:08Z",
+    "labels": [
+      "bug",
+      "enhancement",
+      "good first issue",
+      "frontend"
+    ],
+    "language": "vue",
+    "stars": 2374,
+    "foundAt": "2026-08-29T14:35:49.158Z"
+  },
+  {
+    "key": "TriliumNext/Trilium#11242",
+    "tier": 2,
+    "repo": "TriliumNext/Trilium",
+    "number": 11242,
+    "title": "In-page search (Ctrl+F) does not find text inside inline, cards, and internal links",
+    "url": "https://github.com/TriliumNext/Trilium/issues/11242",
+    "comments": 1,
+    "createdAt": "2026-08-29T12:36:13Z",
+    "labels": [
+      "Difficulty: Easy",
+      "State: Triage",
+      "search",
+      "UI"
+    ],
+    "language": "typescript",
+    "stars": 37596,
+    "foundAt": "2026-08-29T14:35:49.574Z"
+  },
+  {
+    "key": "xmanrui/dsh-im#83",
+    "tier": 3,
+    "repo": "xmanrui/dsh-im",
+    "number": 83,
+    "title": "【兼容性公告】dsh-im v4.0.0 已兼容 DSH v0.1.2-alpha.1，同时兼容旧版",
+    "url": "https://github.com/xmanrui/dsh-im/issues/83",
+    "comments": 0,
+    "createdAt": "2026-08-29T12:34:29Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "javascript",
+    "stars": 977,
+    "foundAt": "2026-08-29T14:35:52.283Z"
+  },
+  {
     "key": "hackforla/website#8762",
     "tier": 1,
     "repo": "hackforla/website",
@@ -1724,88 +1815,5 @@
     "language": "typescript",
     "stars": 3253,
     "foundAt": "2026-08-26T20:17:40.570Z"
-  },
-  {
-    "key": "layer5io/layer5#8000",
-    "tier": 2,
-    "repo": "layer5io/layer5",
-    "number": 8000,
-    "title": "[Bug] RelatedPostsFactory throws runtime error / fails when blog posts have empty or null tags",
-    "url": "https://github.com/layer5io/layer5/issues/8000",
-    "comments": 0,
-    "createdAt": "2026-08-26T19:41:16Z",
-    "labels": [
-      "kind/bug",
-      "help wanted",
-      "framework/gatsby"
-    ],
-    "language": "javascript",
-    "stars": 1112,
-    "foundAt": "2026-08-26T20:17:42.068Z"
-  },
-  {
-    "key": "libredb/libredb-studio#507",
-    "tier": 3,
-    "repo": "libredb/libredb-studio",
-    "number": 507,
-    "title": "Tracking: Valkey ecosystem tools listing (valkey-io/valkey-doc)",
-    "url": "https://github.com/libredb/libredb-studio/issues/507",
-    "comments": 0,
-    "createdAt": "2026-08-26T20:16:24Z",
-    "labels": [
-      "documentation",
-      "loop:needs-moderator-action"
-    ],
-    "language": "typescript",
-    "stars": 353,
-    "foundAt": "2026-08-26T20:17:42.463Z"
-  },
-  {
-    "key": "cyrusagents/cyrus#1433",
-    "tier": 1,
-    "repo": "cyrusagents/cyrus",
-    "number": 1433,
-    "title": "OpenCode: parse usage, cost and finish reason from step_finish.part",
-    "url": "https://github.com/cyrusagents/cyrus/issues/1433",
-    "comments": 0,
-    "createdAt": "2026-08-26T18:09:02Z",
-    "labels": [
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 785,
-    "foundAt": "2026-08-26T18:10:56.188Z"
-  },
-  {
-    "key": "cyrusagents/cyrus#1432",
-    "tier": 1,
-    "repo": "cyrusagents/cyrus",
-    "number": 1432,
-    "title": "OpenCode: make Cyrus-managed skills available to sessions",
-    "url": "https://github.com/cyrusagents/cyrus/issues/1432",
-    "comments": 0,
-    "createdAt": "2026-08-26T18:09:00Z",
-    "labels": [
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 785,
-    "foundAt": "2026-08-26T18:10:56.188Z"
-  },
-  {
-    "key": "cyrusagents/cyrus#1431",
-    "tier": 1,
-    "repo": "cyrusagents/cyrus",
-    "number": 1431,
-    "title": "OpenCode: support steering of active turns",
-    "url": "https://github.com/cyrusagents/cyrus/issues/1431",
-    "comments": 0,
-    "createdAt": "2026-08-26T18:08:58Z",
-    "labels": [
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 785,
-    "foundAt": "2026-08-26T18:10:56.188Z"
   }
 ]
