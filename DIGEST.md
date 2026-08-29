@@ -4,6 +4,11 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-08-29 | 🥇 | [Update Project Profile: Hack for LA Site Remove Gilbert Quionnez](https://github.com/hackforla/website/issues/8759) | `hackforla/website` | ⭐ 364 |
+| 2026-08-29 | 🥇 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/14759) | `stdlib-js/stdlib` | ⭐ 5.9k |
+| 2026-08-29 | 🥇 | [USWDS - Testing: Replace build.spec.js with a dist smoke test in release-prep ve](https://github.com/uswds/uswds/issues/6877) | `uswds/uswds` | ⭐ 7.2k |
+| 2026-08-29 | 🥇 | [Motion engine parser: "bounce" is both an animation name and a documented easing](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/89069) | `SAPTARSHI-coder/EaseMotion-css` | ⭐ 257 |
+| 2026-08-29 | 🥈 | [Community videos: Agent Skills in real use](https://github.com/addyosmani/agent-skills/issues/527) | `addyosmani/agent-skills` | ⭐ 90.5k |
 | 2026-08-28 | 🥇 | [PostCSS/esbuild/Vite token-fallback plugins incorrectly rewrite var()-like text ](https://github.com/WordPress/gutenberg/issues/82169) | `WordPress/gutenberg` | ⭐ 11.7k |
 | 2026-08-28 | 🥉 | [a11y: dashboard arrow-key page navigation does not update the URL or the page fl](https://github.com/quarto-dev/quarto-cli/issues/14829) | `quarto-dev/quarto-cli` | ⭐ 6.0k |
 | 2026-08-28 | 🥉 | [Monolog Log Handler is using old constructor parameters](https://github.com/getsentry/sentry-docs/issues/19177) | `getsentry/sentry-docs` | ⭐ 442 |
@@ -99,8 +104,3 @@
 | 2026-08-26 | 🥇 | [[bug] Missing settings page titles](https://github.com/ONEARMY/community-platform/issues/4865) | `ONEARMY/community-platform` | ⭐ 1.4k |
 | 2026-08-26 | 🥇 | [[Good First Issue] 🍢 Add new Theme: Winter Kimono - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29207) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-08-26 | 🥇 | [[Good First Issue] 🏮 Add new Community Note Line #4 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29206) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-08-26 | 🥇 | [[Good First Issue] 🎍 Add new Wallpaper URL #5 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29205) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-08-26 | 🥈 | [test(desktop): enumerate failure and edge states for high-traffic surfaces](https://github.com/apache/maka/issues/3944) | `apache/maka` | ⭐ 3.4k |
-| 2026-08-26 | 🥈 | [test(desktop): the crash fallback has no story](https://github.com/apache/maka/issues/3943) | `apache/maka` | ⭐ 3.4k |
-| 2026-08-26 | 🥈 | [test(desktop): the Storybook smoke renders one of 22 palette × colour-scheme com](https://github.com/apache/maka/issues/3942) | `apache/maka` | ⭐ 3.4k |
-| 2026-08-26 | 🥉 | [Restructure the documentation](https://github.com/AmoebeLabs/flex-horseshoe-card/issues/523) | `AmoebeLabs/flex-horseshoe-card` | ⭐ 395 |

@@ -1,5 +1,100 @@
 [
   {
+    "key": "hackforla/website#8759",
+    "tier": 1,
+    "repo": "hackforla/website",
+    "number": 8759,
+    "title": "Update Project Profile: Hack for LA Site Remove Gilbert Quionnez",
+    "url": "https://github.com/hackforla/website/issues/8759",
+    "comments": 1,
+    "createdAt": "2026-08-29T00:22:20Z",
+    "labels": [
+      "good first issue",
+      "role: front end",
+      "role: back end/devOps",
+      "P-Feature: Project Info and Page",
+      "time sensitive",
+      "size: 0.25pt",
+      "ready for merge team"
+    ],
+    "language": "javascript",
+    "stars": 364,
+    "foundAt": "2026-08-29T02:19:52.889Z"
+  },
+  {
+    "key": "stdlib-js/stdlib#14759",
+    "tier": 1,
+    "repo": "stdlib-js/stdlib",
+    "number": 14759,
+    "title": "Fix JavaScript lint errors",
+    "url": "https://github.com/stdlib-js/stdlib/issues/14759",
+    "comments": 2,
+    "createdAt": "2026-08-29T00:15:12Z",
+    "labels": [
+      "Good First Issue"
+    ],
+    "language": "javascript",
+    "stars": 5944,
+    "foundAt": "2026-08-29T02:19:52.889Z"
+  },
+  {
+    "key": "uswds/uswds#6877",
+    "tier": 1,
+    "repo": "uswds/uswds",
+    "number": 6877,
+    "title": "USWDS - Testing: Replace build.spec.js with a dist smoke test in release-prep verification",
+    "url": "https://github.com/uswds/uswds/issues/6877",
+    "comments": 0,
+    "createdAt": "2026-08-28T20:41:01Z",
+    "labels": [
+      "Affects: Testing",
+      "Affects: Automation",
+      "Affects: Build",
+      "Good first issue",
+      "Help wanted"
+    ],
+    "language": "scss",
+    "stars": 7165,
+    "foundAt": "2026-08-29T02:19:53.932Z"
+  },
+  {
+    "key": "SAPTARSHI-coder/EaseMotion-css#89069",
+    "tier": 1,
+    "repo": "SAPTARSHI-coder/EaseMotion-css",
+    "number": 89069,
+    "title": "Motion engine parser: \"bounce\" is both an animation name and a documented easing alias, so the easing meaning is unreachable",
+    "url": "https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/89069",
+    "comments": 5,
+    "createdAt": "2026-08-26T11:58:41Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "animation",
+      "GSSoC-26",
+      "gssoc:approved",
+      "level:intermediate"
+    ],
+    "language": "css",
+    "stars": 257,
+    "foundAt": "2026-08-29T02:19:53.710Z"
+  },
+  {
+    "key": "addyosmani/agent-skills#527",
+    "tier": 2,
+    "repo": "addyosmani/agent-skills",
+    "number": 527,
+    "title": "Community videos: Agent Skills in real use",
+    "url": "https://github.com/addyosmani/agent-skills/issues/527",
+    "comments": 2,
+    "createdAt": "2026-08-28T23:03:12Z",
+    "labels": [
+      "help wanted"
+    ],
+    "language": "javascript",
+    "stars": 90528,
+    "foundAt": "2026-08-29T02:19:54.854Z"
+  },
+  {
     "key": "WordPress/gutenberg#82169",
     "tier": 1,
     "repo": "WordPress/gutenberg",
@@ -1715,94 +1810,5 @@
     "language": "typescript",
     "stars": 3253,
     "foundAt": "2026-08-26T18:10:57.275Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29205",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29205,
-    "title": "[Good First Issue] 🎍 Add new Wallpaper URL #5 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29205",
-    "comments": 1,
-    "createdAt": "2026-08-26T16:37:44Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3253,
-    "foundAt": "2026-08-26T18:10:57.486Z"
-  },
-  {
-    "key": "apache/maka#3944",
-    "tier": 2,
-    "repo": "apache/maka",
-    "number": 3944,
-    "title": "test(desktop): enumerate failure and edge states for high-traffic surfaces",
-    "url": "https://github.com/apache/maka/issues/3944",
-    "comments": 1,
-    "createdAt": "2026-08-26T16:05:33Z",
-    "labels": [
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 3407,
-    "foundAt": "2026-08-26T18:10:59.836Z"
-  },
-  {
-    "key": "apache/maka#3943",
-    "tier": 2,
-    "repo": "apache/maka",
-    "number": 3943,
-    "title": "test(desktop): the crash fallback has no story",
-    "url": "https://github.com/apache/maka/issues/3943",
-    "comments": 1,
-    "createdAt": "2026-08-26T16:05:31Z",
-    "labels": [
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 3407,
-    "foundAt": "2026-08-26T18:10:59.836Z"
-  },
-  {
-    "key": "apache/maka#3942",
-    "tier": 2,
-    "repo": "apache/maka",
-    "number": 3942,
-    "title": "test(desktop): the Storybook smoke renders one of 22 palette × colour-scheme combinations",
-    "url": "https://github.com/apache/maka/issues/3942",
-    "comments": 0,
-    "createdAt": "2026-08-26T16:05:26Z",
-    "labels": [
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 3407,
-    "foundAt": "2026-08-26T18:10:59.836Z"
-  },
-  {
-    "key": "AmoebeLabs/flex-horseshoe-card#523",
-    "tier": 3,
-    "repo": "AmoebeLabs/flex-horseshoe-card",
-    "number": 523,
-    "title": "Restructure the documentation",
-    "url": "https://github.com/AmoebeLabs/flex-horseshoe-card/issues/523",
-    "comments": 0,
-    "createdAt": "2026-08-26T16:29:43Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "javascript",
-    "stars": 395,
-    "foundAt": "2026-08-26T18:11:02.712Z"
   }
 ]
