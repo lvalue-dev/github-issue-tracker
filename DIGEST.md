@@ -4,6 +4,10 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-08-29 | 🥇 | [Toggle snap to grid with a key](https://github.com/xevrion/breakscale/issues/28) | `xevrion/breakscale` | ⭐ 217 |
+| 2026-08-29 | 🥇 | [Re-adding an existing node duplicates it in the TreeStore hierarchy](https://github.com/neomjs/neo/issues/17855) | `neomjs/neo` | ⭐ 3.3k |
+| 2026-08-29 | 🥈 | [Truncated legacy (pre-v14) backup import fails with an opaque TypeError instead ](https://github.com/super-productivity/super-productivity/issues/9810) | `super-productivity/super-productivity` | ⭐ 21.7k |
+| 2026-08-29 | 🥉 | [Document that the dmabuf import path bypasses the vaMapBuffer2 guard](https://github.com/getopenscreen/openscreen/issues/534) | `getopenscreen/openscreen` | ⭐ 2.2k |
 | 2026-08-29 | 🥇 | [Graph view / improved view of categories](https://github.com/Smaug6739/Alexandrie/issues/740) | `Smaug6739/Alexandrie` | ⭐ 2.4k |
 | 2026-08-29 | 🥇 | [Fix: Datatable select page count display the wrong default value](https://github.com/Smaug6739/Alexandrie/issues/739) | `Smaug6739/Alexandrie` | ⭐ 2.4k |
 | 2026-08-29 | 🥇 | [Fix Kannban assign modal display](https://github.com/Smaug6739/Alexandrie/issues/738) | `Smaug6739/Alexandrie` | ⭐ 2.4k |
@@ -100,7 +104,3 @@
 | 2026-08-27 | 🥉 | [Map the Neo organization from the Engine README](https://github.com/neomjs/neo/issues/17808) | `neomjs/neo` | ⭐ 3.3k |
 | 2026-08-27 | 🥉 | [Separate Engine package identity from Brain metadata](https://github.com/neomjs/neo/issues/17807) | `neomjs/neo` | ⭐ 3.3k |
 | 2026-08-26 | 🥇 | [`hideAvailable`/`hideBlocklisted` discover filters drop non-movie/tv results](https://github.com/seerr-team/seerr/issues/3433) | `seerr-team/seerr` | ⭐ 12.4k |
-| 2026-08-26 | 🥉 | [[DOCS] <title>diffboost](https://github.com/npm/cli/issues/9919) | `npm/cli` | ⭐ 10.1k |
-| 2026-08-26 | 🥇 | [[Good First Issue] 🥢 Add new Trivia Question 39 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29210) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-08-26 | 🥇 | [Style panel: add text-underline-offset, transform-origin, and filter in transiti](https://github.com/silexlabs/Silex/issues/1835) | `silexlabs/Silex` | ⭐ 2.9k |
-| 2026-08-26 | 🥇 | [[Good First Issue] 🍘 Add new Japanese Haiku 11 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29209) | `lingdojo/kana-dojo` | ⭐ 3.3k |

@@ -1,5 +1,75 @@
 [
   {
+    "key": "xevrion/breakscale#28",
+    "tier": 1,
+    "repo": "xevrion/breakscale",
+    "number": 28,
+    "title": "Toggle snap to grid with a key",
+    "url": "https://github.com/xevrion/breakscale/issues/28",
+    "comments": 0,
+    "createdAt": "2026-08-29T17:19:20Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "area:canvas"
+    ],
+    "language": "typescript",
+    "stars": 217,
+    "foundAt": "2026-08-29T18:41:48.513Z"
+  },
+  {
+    "key": "neomjs/neo#17855",
+    "tier": 1,
+    "repo": "neomjs/neo",
+    "number": 17855,
+    "title": "Re-adding an existing node duplicates it in the TreeStore hierarchy",
+    "url": "https://github.com/neomjs/neo/issues/17855",
+    "comments": 1,
+    "createdAt": "2026-08-29T16:29:29Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "ai",
+      "core",
+      "accessibility"
+    ],
+    "language": "javascript",
+    "stars": 3260,
+    "foundAt": "2026-08-29T18:41:49.535Z"
+  },
+  {
+    "key": "super-productivity/super-productivity#9810",
+    "tier": 2,
+    "repo": "super-productivity/super-productivity",
+    "number": 9810,
+    "title": "Truncated legacy (pre-v14) backup import fails with an opaque TypeError instead of 'repair not possible'",
+    "url": "https://github.com/super-productivity/super-productivity/issues/9810",
+    "comments": 0,
+    "createdAt": "2026-08-29T17:32:57Z",
+    "labels": [
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 21658,
+    "foundAt": "2026-08-29T18:41:51.016Z"
+  },
+  {
+    "key": "getopenscreen/openscreen#534",
+    "tier": 3,
+    "repo": "getopenscreen/openscreen",
+    "number": 534,
+    "title": "Document that the dmabuf import path bypasses the vaMapBuffer2 guard",
+    "url": "https://github.com/getopenscreen/openscreen/issues/534",
+    "comments": 0,
+    "createdAt": "2026-08-29T18:25:16Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "typescript",
+    "stars": 2170,
+    "foundAt": "2026-08-29T18:41:52.497Z"
+  },
+  {
     "key": "Smaug6739/Alexandrie#740",
     "tier": 1,
     "repo": "Smaug6739/Alexandrie",
@@ -1734,86 +1804,5 @@
     "language": "typescript",
     "stars": 12399,
     "foundAt": "2026-08-26T23:48:16.430Z"
-  },
-  {
-    "key": "npm/cli#9919",
-    "tier": 3,
-    "repo": "npm/cli",
-    "number": 9919,
-    "title": "[DOCS] <title>diffboost",
-    "url": "https://github.com/npm/cli/issues/9919",
-    "comments": 0,
-    "createdAt": "2026-08-26T22:03:04Z",
-    "labels": [
-      "Needs Triage",
-      "Documentation"
-    ],
-    "language": "javascript",
-    "stars": 10061,
-    "foundAt": "2026-08-26T23:48:19.707Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29210",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29210,
-    "title": "[Good First Issue] 🥢 Add new Trivia Question 39 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29210",
-    "comments": 1,
-    "createdAt": "2026-08-26T19:01:17Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3253,
-    "foundAt": "2026-08-26T20:17:40.179Z"
-  },
-  {
-    "key": "silexlabs/Silex#1835",
-    "tier": 1,
-    "repo": "silexlabs/Silex",
-    "number": 1835,
-    "title": "Style panel: add text-underline-offset, transform-origin, and filter in transitions",
-    "url": "https://github.com/silexlabs/Silex/issues/1835",
-    "comments": 1,
-    "createdAt": "2026-08-26T18:39:10Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "enhancement"
-    ],
-    "language": "typescript",
-    "stars": 2936,
-    "foundAt": "2026-08-26T20:17:40.570Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29209",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29209,
-    "title": "[Good First Issue] 🍘 Add new Japanese Haiku 11 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29209",
-    "comments": 1,
-    "createdAt": "2026-08-26T18:37:32Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3253,
-    "foundAt": "2026-08-26T20:17:40.570Z"
   }
 ]
