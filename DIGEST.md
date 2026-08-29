@@ -4,6 +4,11 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-08-29 | 🥇 | [Reject malformed key chords containing empty segments](https://github.com/modem-dev/hunk/issues/906) | `modem-dev/hunk` | ⭐ 8.9k |
+| 2026-08-29 | 🥇 | [weightedArrayElement does not mention the possibility to throw in it's docs](https://github.com/faker-js/faker/issues/4015) | `faker-js/faker` | ⭐ 15.5k |
+| 2026-08-29 | 🥈 | [🚨 The tray icon does not work on Linux Mint](https://github.com/super-productivity/super-productivity/issues/9812) | `super-productivity/super-productivity` | ⭐ 21.7k |
+| 2026-08-29 | 🥈 | [[🐛 Bug]: Absolute plugin paths containing URL-reserved characters fail to load](https://github.com/webdriverio/webdriverio/issues/15543) | `webdriverio/webdriverio` | ⭐ 9.8k |
+| 2026-08-29 | 🥉 | [docs: Linux rows in the platform-differences table predate the native capture he](https://github.com/getopenscreen/openscreen/issues/535) | `getopenscreen/openscreen` | ⭐ 2.2k |
 | 2026-08-29 | 🥇 | [Toggle snap to grid with a key](https://github.com/xevrion/breakscale/issues/28) | `xevrion/breakscale` | ⭐ 217 |
 | 2026-08-29 | 🥇 | [Re-adding an existing node duplicates it in the TreeStore hierarchy](https://github.com/neomjs/neo/issues/17855) | `neomjs/neo` | ⭐ 3.3k |
 | 2026-08-29 | 🥈 | [Truncated legacy (pre-v14) backup import fails with an opaque TypeError instead ](https://github.com/super-productivity/super-productivity/issues/9810) | `super-productivity/super-productivity` | ⭐ 21.7k |
@@ -99,8 +104,3 @@
 | 2026-08-27 | 🥇 | [Angular upgrade from 20 to 22 (latest stable)](https://github.com/sadanandpai/frontend-mini-challenges/issues/537) | `sadanandpai/frontend-mini-challenges` | ⭐ 2.4k |
 | 2026-08-27 | 🥇 | [Browser Compatibility table is not rendering properly](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/89064) | `SAPTARSHI-coder/EaseMotion-css` | ⭐ 257 |
 | 2026-08-27 | 🥈 | [ci: skip the expensive CI job for documentation-only pull requests](https://github.com/apache/maka/issues/3998) | `apache/maka` | ⭐ 3.4k |
-| 2026-08-27 | 🥈 | [Branch `humble` is outdated, unmaintained](https://github.com/moveit/moveit2_tutorials/issues/1117) | `moveit/moveit2_tutorials` | ⭐ 366 |
-| 2026-08-27 | 🥉 | [The apex guide links into trees the split moved, and no check can see it](https://github.com/neomjs/neo/issues/17809) | `neomjs/neo` | ⭐ 3.3k |
-| 2026-08-27 | 🥉 | [Map the Neo organization from the Engine README](https://github.com/neomjs/neo/issues/17808) | `neomjs/neo` | ⭐ 3.3k |
-| 2026-08-27 | 🥉 | [Separate Engine package identity from Brain metadata](https://github.com/neomjs/neo/issues/17807) | `neomjs/neo` | ⭐ 3.3k |
-| 2026-08-26 | 🥇 | [`hideAvailable`/`hideBlocklisted` discover filters drop non-movie/tv results](https://github.com/seerr-team/seerr/issues/3433) | `seerr-team/seerr` | ⭐ 12.4k |

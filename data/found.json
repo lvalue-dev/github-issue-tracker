@@ -1,5 +1,90 @@
 [
   {
+    "key": "modem-dev/hunk#906",
+    "tier": 1,
+    "repo": "modem-dev/hunk",
+    "number": 906,
+    "title": "Reject malformed key chords containing empty segments",
+    "url": "https://github.com/modem-dev/hunk/issues/906",
+    "comments": 0,
+    "createdAt": "2026-08-29T19:43:48Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 8915,
+    "foundAt": "2026-08-29T21:50:07.147Z"
+  },
+  {
+    "key": "faker-js/faker#4015",
+    "tier": 1,
+    "repo": "faker-js/faker",
+    "number": 4015,
+    "title": "weightedArrayElement does not mention the possibility to throw in it's docs",
+    "url": "https://github.com/faker-js/faker/issues/4015",
+    "comments": 1,
+    "createdAt": "2026-08-29T19:36:05Z",
+    "labels": [
+      "c: docs",
+      "good first issue",
+      "m: helpers"
+    ],
+    "language": "typescript",
+    "stars": 15476,
+    "foundAt": "2026-08-29T21:50:07.352Z"
+  },
+  {
+    "key": "super-productivity/super-productivity#9812",
+    "tier": 2,
+    "repo": "super-productivity/super-productivity",
+    "number": 9812,
+    "title": "🚨 The tray icon does not work on Linux Mint",
+    "url": "https://github.com/super-productivity/super-productivity/issues/9812",
+    "comments": 2,
+    "createdAt": "2026-08-29T19:53:23Z",
+    "labels": [
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 21658,
+    "foundAt": "2026-08-29T21:50:08.179Z"
+  },
+  {
+    "key": "webdriverio/webdriverio#15543",
+    "tier": 2,
+    "repo": "webdriverio/webdriverio",
+    "number": 15543,
+    "title": "[🐛 Bug]: Absolute plugin paths containing URL-reserved characters fail to load",
+    "url": "https://github.com/webdriverio/webdriverio/issues/15543",
+    "comments": 2,
+    "createdAt": "2026-08-29T18:43:28Z",
+    "labels": [
+      "Bug 🐛",
+      "help wanted",
+      "good first pick"
+    ],
+    "language": "typescript",
+    "stars": 9830,
+    "foundAt": "2026-08-29T21:50:08.369Z"
+  },
+  {
+    "key": "getopenscreen/openscreen#535",
+    "tier": 3,
+    "repo": "getopenscreen/openscreen",
+    "number": 535,
+    "title": "docs: Linux rows in the platform-differences table predate the native capture helper",
+    "url": "https://github.com/getopenscreen/openscreen/issues/535",
+    "comments": 0,
+    "createdAt": "2026-08-29T21:04:08Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "typescript",
+    "stars": 2170,
+    "foundAt": "2026-08-29T21:50:10.322Z"
+  },
+  {
     "key": "xevrion/breakscale#28",
     "tier": 1,
     "repo": "xevrion/breakscale",
@@ -1715,94 +1800,5 @@
     "language": "typescript",
     "stars": 3407,
     "foundAt": "2026-08-27T10:02:40.976Z"
-  },
-  {
-    "key": "moveit/moveit2_tutorials#1117",
-    "tier": 2,
-    "repo": "moveit/moveit2_tutorials",
-    "number": 1117,
-    "title": "Branch `humble` is outdated, unmaintained",
-    "url": "https://github.com/moveit/moveit2_tutorials/issues/1117",
-    "comments": 1,
-    "createdAt": "2026-08-27T04:40:24Z",
-    "labels": [
-      "help wanted",
-      "distro_humble"
-    ],
-    "language": "css",
-    "stars": 366,
-    "foundAt": "2026-08-27T10:02:42.674Z"
-  },
-  {
-    "key": "neomjs/neo#17809",
-    "tier": 3,
-    "repo": "neomjs/neo",
-    "number": 17809,
-    "title": "The apex guide links into trees the split moved, and no check can see it",
-    "url": "https://github.com/neomjs/neo/issues/17809",
-    "comments": 0,
-    "createdAt": "2026-08-27T08:57:59Z",
-    "labels": [
-      "bug",
-      "documentation",
-      "ai"
-    ],
-    "language": "javascript",
-    "stars": 3260,
-    "foundAt": "2026-08-27T10:02:44.965Z"
-  },
-  {
-    "key": "neomjs/neo#17808",
-    "tier": 3,
-    "repo": "neomjs/neo",
-    "number": 17808,
-    "title": "Map the Neo organization from the Engine README",
-    "url": "https://github.com/neomjs/neo/issues/17808",
-    "comments": 0,
-    "createdAt": "2026-08-27T08:49:32Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "ai"
-    ],
-    "language": "javascript",
-    "stars": 3260,
-    "foundAt": "2026-08-27T10:02:45.173Z"
-  },
-  {
-    "key": "neomjs/neo#17807",
-    "tier": 3,
-    "repo": "neomjs/neo",
-    "number": 17807,
-    "title": "Separate Engine package identity from Brain metadata",
-    "url": "https://github.com/neomjs/neo/issues/17807",
-    "comments": 0,
-    "createdAt": "2026-08-27T08:49:30Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "ai",
-      "refactoring"
-    ],
-    "language": "javascript",
-    "stars": 3260,
-    "foundAt": "2026-08-27T10:02:45.173Z"
-  },
-  {
-    "key": "seerr-team/seerr#3433",
-    "tier": 1,
-    "repo": "seerr-team/seerr",
-    "number": 3433,
-    "title": "`hideAvailable`/`hideBlocklisted` discover filters drop non-movie/tv results",
-    "url": "https://github.com/seerr-team/seerr/issues/3433",
-    "comments": 1,
-    "createdAt": "2026-08-26T21:03:01Z",
-    "labels": [
-      "good first issue",
-      "awaiting triage"
-    ],
-    "language": "typescript",
-    "stars": 12399,
-    "foundAt": "2026-08-26T23:48:16.430Z"
   }
 ]
