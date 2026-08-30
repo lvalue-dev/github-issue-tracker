@@ -4,6 +4,12 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-08-30 | 🥈 | [chore(focus-mode): remove unreachable screen-routing code (unused strategy metho](https://github.com/super-productivity/super-productivity/issues/9818) | `super-productivity/super-productivity` | ⭐ 21.7k |
+| 2026-08-30 | 🥈 | [`comments-time-machine-links` broken on issues](https://github.com/refined-github/refined-github/issues/10016) | `refined-github/refined-github` | ⭐ 32.0k |
+| 2026-08-30 | 🥈 | [[Feature] 支持一键重新生成 / Regenerate](https://github.com/shanliuling/dsh-image-gen/issues/19) | `shanliuling/dsh-image-gen` | ⭐ 279 |
+| 2026-08-30 | 🥈 | [[Feature] 从画廊选择历史图片继续编辑](https://github.com/shanliuling/dsh-image-gen/issues/18) | `shanliuling/dsh-image-gen` | ⭐ 279 |
+| 2026-08-30 | 🥈 | [[Feature] 支持一次生成多张候选图片 / Multiple Variations](https://github.com/shanliuling/dsh-image-gen/issues/17) | `shanliuling/dsh-image-gen` | ⭐ 279 |
+| 2026-08-30 | 🥈 | [[Feature] 画廊支持收藏图片 / Favorites](https://github.com/shanliuling/dsh-image-gen/issues/16) | `shanliuling/dsh-image-gen` | ⭐ 279 |
 | 2026-08-30 | 🥇 | [🐞Watch Later button throws error](https://github.com/code-charity/youtube/issues/4305) | `code-charity/youtube` | ⭐ 4.6k |
 | 2026-08-30 | 🥇 | [Rename the “stack” diff layout to “unified” across Hunk](https://github.com/modem-dev/hunk/issues/915) | `modem-dev/hunk` | ⭐ 8.9k |
 | 2026-08-30 | 🥈 | [[Help] cf部署完毕，邮箱后台怎么进入](https://github.com/maillab/cloud-mail/issues/553) | `maillab/cloud-mail` | ⭐ 13.7k |
@@ -98,9 +104,3 @@
 | 2026-08-27 | 🥈 | [POST /api/memberships Create Endpoint](https://github.com/parthbuilds-community/FitMart/issues/994) | `parthbuilds-community/FitMart` | ⭐ 354 |
 | 2026-08-27 | 🥈 | [Membership Model Schema Definition](https://github.com/parthbuilds-community/FitMart/issues/991) | `parthbuilds-community/FitMart` | ⭐ 354 |
 | 2026-08-27 | 🥈 | [GET /api/programs List Endpoint](https://github.com/parthbuilds-community/FitMart/issues/988) | `parthbuilds-community/FitMart` | ⭐ 354 |
-| 2026-08-27 | 🥈 | [Program Model Unit Tests](https://github.com/parthbuilds-community/FitMart/issues/986) | `parthbuilds-community/FitMart` | ⭐ 354 |
-| 2026-08-27 | 🥈 | [Program Model Validation and Database Indexes](https://github.com/parthbuilds-community/FitMart/issues/985) | `parthbuilds-community/FitMart` | ⭐ 354 |
-| 2026-08-27 | 🥈 | [[Help] 值是正确的但是一直显示❌ JWT secret mismatch](https://github.com/maillab/cloud-mail/issues/545) | `maillab/cloud-mail` | ⭐ 13.7k |
-| 2026-08-27 | 🥇 | [[Bug] Duplicate assignment after auto-compact](https://github.com/Nano-Collective/nanocoder/issues/980) | `Nano-Collective/nanocoder` | ⭐ 2.4k |
-| 2026-08-27 | 🥇 | [[Bug] paste-detection returns wrong addedText on deletions](https://github.com/Nano-Collective/nanocoder/issues/979) | `Nano-Collective/nanocoder` | ⭐ 2.4k |
-| 2026-08-27 | 🥇 | [[Bug] Atomic-deletion boundary off-by-one](https://github.com/Nano-Collective/nanocoder/issues/977) | `Nano-Collective/nanocoder` | ⭐ 2.4k |

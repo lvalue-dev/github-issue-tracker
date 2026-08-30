@@ -1,5 +1,108 @@
 [
   {
+    "key": "super-productivity/super-productivity#9818",
+    "tier": 2,
+    "repo": "super-productivity/super-productivity",
+    "number": 9818,
+    "title": "chore(focus-mode): remove unreachable screen-routing code (unused strategy method + 3 FocusScreen members)",
+    "url": "https://github.com/super-productivity/super-productivity/issues/9818",
+    "comments": 0,
+    "createdAt": "2026-08-30T12:23:26Z",
+    "labels": [
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 21658,
+    "foundAt": "2026-08-30T13:02:30.285Z"
+  },
+  {
+    "key": "refined-github/refined-github#10016",
+    "tier": 2,
+    "repo": "refined-github/refined-github",
+    "number": 10016,
+    "title": "`comments-time-machine-links` broken on issues",
+    "url": "https://github.com/refined-github/refined-github/issues/10016",
+    "comments": 0,
+    "createdAt": "2026-08-30T09:24:34Z",
+    "labels": [
+      "bug",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 32010,
+    "foundAt": "2026-08-30T13:02:30.844Z"
+  },
+  {
+    "key": "shanliuling/dsh-image-gen#19",
+    "tier": 2,
+    "repo": "shanliuling/dsh-image-gen",
+    "number": 19,
+    "title": "[Feature] 支持一键重新生成 / Regenerate",
+    "url": "https://github.com/shanliuling/dsh-image-gen/issues/19",
+    "comments": 0,
+    "createdAt": "2026-08-30T08:09:17Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 279,
+    "foundAt": "2026-08-30T13:02:31.250Z"
+  },
+  {
+    "key": "shanliuling/dsh-image-gen#18",
+    "tier": 2,
+    "repo": "shanliuling/dsh-image-gen",
+    "number": 18,
+    "title": "[Feature] 从画廊选择历史图片继续编辑",
+    "url": "https://github.com/shanliuling/dsh-image-gen/issues/18",
+    "comments": 0,
+    "createdAt": "2026-08-30T08:09:08Z",
+    "labels": [
+      "enhancement",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 279,
+    "foundAt": "2026-08-30T13:02:31.250Z"
+  },
+  {
+    "key": "shanliuling/dsh-image-gen#17",
+    "tier": 2,
+    "repo": "shanliuling/dsh-image-gen",
+    "number": 17,
+    "title": "[Feature] 支持一次生成多张候选图片 / Multiple Variations",
+    "url": "https://github.com/shanliuling/dsh-image-gen/issues/17",
+    "comments": 0,
+    "createdAt": "2026-08-30T08:08:59Z",
+    "labels": [
+      "enhancement",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 279,
+    "foundAt": "2026-08-30T13:02:31.250Z"
+  },
+  {
+    "key": "shanliuling/dsh-image-gen#16",
+    "tier": 2,
+    "repo": "shanliuling/dsh-image-gen",
+    "number": 16,
+    "title": "[Feature] 画廊支持收藏图片 / Favorites",
+    "url": "https://github.com/shanliuling/dsh-image-gen/issues/16",
+    "comments": 0,
+    "createdAt": "2026-08-30T08:08:51Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 279,
+    "foundAt": "2026-08-30T13:02:31.250Z"
+  },
+  {
     "key": "code-charity/youtube#4305",
     "tier": 1,
     "repo": "code-charity/youtube",
@@ -1697,108 +1800,5 @@
     "language": "javascript",
     "stars": 354,
     "foundAt": "2026-08-27T20:37:29.658Z"
-  },
-  {
-    "key": "parthbuilds-community/FitMart#986",
-    "tier": 2,
-    "repo": "parthbuilds-community/FitMart",
-    "number": 986,
-    "title": "Program Model Unit Tests",
-    "url": "https://github.com/parthbuilds-community/FitMart/issues/986",
-    "comments": 0,
-    "createdAt": "2026-08-27T16:57:20Z",
-    "labels": [
-      "help wanted",
-      "refactor",
-      "UI"
-    ],
-    "language": "javascript",
-    "stars": 354,
-    "foundAt": "2026-08-27T20:37:29.658Z"
-  },
-  {
-    "key": "parthbuilds-community/FitMart#985",
-    "tier": 2,
-    "repo": "parthbuilds-community/FitMart",
-    "number": 985,
-    "title": "Program Model Validation and Database Indexes",
-    "url": "https://github.com/parthbuilds-community/FitMart/issues/985",
-    "comments": 0,
-    "createdAt": "2026-08-27T16:45:18Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "UI"
-    ],
-    "language": "javascript",
-    "stars": 354,
-    "foundAt": "2026-08-27T20:37:29.658Z"
-  },
-  {
-    "key": "maillab/cloud-mail#545",
-    "tier": 2,
-    "repo": "maillab/cloud-mail",
-    "number": 545,
-    "title": "[Help] 值是正确的但是一直显示❌ JWT secret mismatch",
-    "url": "https://github.com/maillab/cloud-mail/issues/545",
-    "comments": 1,
-    "createdAt": "2026-08-27T15:56:26Z",
-    "labels": [
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 13724,
-    "foundAt": "2026-08-27T20:37:29.997Z"
-  },
-  {
-    "key": "Nano-Collective/nanocoder#980",
-    "tier": 1,
-    "repo": "Nano-Collective/nanocoder",
-    "number": 980,
-    "title": "[Bug] Duplicate assignment after auto-compact",
-    "url": "https://github.com/Nano-Collective/nanocoder/issues/980",
-    "comments": 0,
-    "createdAt": "2026-08-27T09:33:01Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 2385,
-    "foundAt": "2026-08-27T10:02:38.968Z"
-  },
-  {
-    "key": "Nano-Collective/nanocoder#979",
-    "tier": 1,
-    "repo": "Nano-Collective/nanocoder",
-    "number": 979,
-    "title": "[Bug] paste-detection returns wrong addedText on deletions",
-    "url": "https://github.com/Nano-Collective/nanocoder/issues/979",
-    "comments": 0,
-    "createdAt": "2026-08-27T09:32:18Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 2385,
-    "foundAt": "2026-08-27T10:02:38.968Z"
-  },
-  {
-    "key": "Nano-Collective/nanocoder#977",
-    "tier": 1,
-    "repo": "Nano-Collective/nanocoder",
-    "number": 977,
-    "title": "[Bug] Atomic-deletion boundary off-by-one",
-    "url": "https://github.com/Nano-Collective/nanocoder/issues/977",
-    "comments": 0,
-    "createdAt": "2026-08-27T09:31:31Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 2385,
-    "foundAt": "2026-08-27T10:02:38.968Z"
   }
 ]
