@@ -1,5 +1,108 @@
 [
   {
+    "key": "code-charity/youtube#4305",
+    "tier": 1,
+    "repo": "code-charity/youtube",
+    "number": 4305,
+    "title": "🐞Watch Later button throws error",
+    "url": "https://github.com/code-charity/youtube/issues/4305",
+    "comments": 1,
+    "createdAt": "2026-08-30T03:17:30Z",
+    "labels": [
+      "Bug",
+      "help wanted",
+      "good first issue",
+      "up-for-grabs"
+    ],
+    "language": "javascript",
+    "stars": 4555,
+    "foundAt": "2026-08-30T06:52:13.167Z"
+  },
+  {
+    "key": "modem-dev/hunk#915",
+    "tier": 1,
+    "repo": "modem-dev/hunk",
+    "number": 915,
+    "title": "Rename the “stack” diff layout to “unified” across Hunk",
+    "url": "https://github.com/modem-dev/hunk/issues/915",
+    "comments": 0,
+    "createdAt": "2026-08-30T02:13:22Z",
+    "labels": [
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 8915,
+    "foundAt": "2026-08-30T06:52:12.274Z"
+  },
+  {
+    "key": "maillab/cloud-mail#553",
+    "tier": 2,
+    "repo": "maillab/cloud-mail",
+    "number": 553,
+    "title": "[Help] cf部署完毕，邮箱后台怎么进入",
+    "url": "https://github.com/maillab/cloud-mail/issues/553",
+    "comments": 0,
+    "createdAt": "2026-08-30T03:53:39Z",
+    "labels": [
+      "help wanted"
+    ],
+    "language": "javascript",
+    "stars": 13724,
+    "foundAt": "2026-08-30T06:52:14.925Z"
+  },
+  {
+    "key": "TriliumNext/Trilium#11256",
+    "tier": 2,
+    "repo": "TriliumNext/Trilium",
+    "number": 11256,
+    "title": "Two collapse‑related enter‑key bugs for todo/unordered lists",
+    "url": "https://github.com/TriliumNext/Trilium/issues/11256",
+    "comments": 1,
+    "createdAt": "2026-08-30T00:57:56Z",
+    "labels": [
+      "Difficulty: Easy",
+      "State: Triage",
+      "awaiting feedback",
+      "UI"
+    ],
+    "language": "typescript",
+    "stars": 37596,
+    "foundAt": "2026-08-30T06:52:14.641Z"
+  },
+  {
+    "key": "jakubkozera/vsc-csharp-dev-tools#262",
+    "tier": 2,
+    "repo": "jakubkozera/vsc-csharp-dev-tools",
+    "number": 262,
+    "title": "[Bug]: When typing in the code window, opens a dropdown",
+    "url": "https://github.com/jakubkozera/vsc-csharp-dev-tools/issues/262",
+    "comments": 2,
+    "createdAt": "2026-08-29T13:03:18Z",
+    "labels": [
+      "bug",
+      "help wanted"
+    ],
+    "language": "css",
+    "stars": 348,
+    "foundAt": "2026-08-30T06:52:15.183Z"
+  },
+  {
+    "key": "upstash/context7#3108",
+    "tier": 3,
+    "repo": "upstash/context7",
+    "number": 3108,
+    "title": "[Docs]:",
+    "url": "https://github.com/upstash/context7/issues/3108",
+    "comments": 0,
+    "createdAt": "2026-08-30T05:40:48Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "typescript",
+    "stars": 61225,
+    "foundAt": "2026-08-30T06:52:17.450Z"
+  },
+  {
     "key": "xmanrui/dsh-im#88",
     "tier": 1,
     "repo": "xmanrui/dsh-im",
@@ -1690,110 +1793,6 @@
     "url": "https://github.com/Nano-Collective/nanocoder/issues/977",
     "comments": 0,
     "createdAt": "2026-08-27T09:31:31Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 2385,
-    "foundAt": "2026-08-27T10:02:38.968Z"
-  },
-  {
-    "key": "Nano-Collective/nanocoder#976",
-    "tier": 1,
-    "repo": "Nano-Collective/nanocoder",
-    "number": 976,
-    "title": "[Bug] fetch-url truncation label hardcodes \"100KB\"",
-    "url": "https://github.com/Nano-Collective/nanocoder/issues/976",
-    "comments": 0,
-    "createdAt": "2026-08-27T09:30:52Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "ui"
-    ],
-    "language": "typescript",
-    "stars": 2385,
-    "foundAt": "2026-08-27T10:02:38.968Z"
-  },
-  {
-    "key": "Nano-Collective/nanocoder#975",
-    "tier": 1,
-    "repo": "Nano-Collective/nanocoder",
-    "number": 975,
-    "title": "[Bug] welcome-message.tsx crashes app if package.json is missing",
-    "url": "https://github.com/Nano-Collective/nanocoder/issues/975",
-    "comments": 0,
-    "createdAt": "2026-08-27T09:30:11Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 2385,
-    "foundAt": "2026-08-27T10:02:38.968Z"
-  },
-  {
-    "key": "Nano-Collective/nanocoder#974",
-    "tier": 1,
-    "repo": "Nano-Collective/nanocoder",
-    "number": 974,
-    "title": "[Bug] update.tsx false-negative error detection",
-    "url": "https://github.com/Nano-Collective/nanocoder/issues/974",
-    "comments": 0,
-    "createdAt": "2026-08-27T09:29:45Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 2385,
-    "foundAt": "2026-08-27T10:02:38.968Z"
-  },
-  {
-    "key": "Nano-Collective/nanocoder#973",
-    "tier": 1,
-    "repo": "Nano-Collective/nanocoder",
-    "number": 973,
-    "title": "[Bug] parseContextLimit silently drops trailing junk",
-    "url": "https://github.com/Nano-Collective/nanocoder/issues/973",
-    "comments": 0,
-    "createdAt": "2026-08-27T09:29:09Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 2385,
-    "foundAt": "2026-08-27T10:02:38.968Z"
-  },
-  {
-    "key": "Nano-Collective/nanocoder#972",
-    "tier": 1,
-    "repo": "Nano-Collective/nanocoder",
-    "number": 972,
-    "title": "[Bug] Session selector dismisses on ANY key",
-    "url": "https://github.com/Nano-Collective/nanocoder/issues/972",
-    "comments": 1,
-    "createdAt": "2026-08-27T09:28:24Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "ux"
-    ],
-    "language": "typescript",
-    "stars": 2385,
-    "foundAt": "2026-08-27T10:02:38.968Z"
-  },
-  {
-    "key": "Nano-Collective/nanocoder#971",
-    "tier": 1,
-    "repo": "Nano-Collective/nanocoder",
-    "number": 971,
-    "title": "[Bug] web_search TimeoutError misclassified",
-    "url": "https://github.com/Nano-Collective/nanocoder/issues/971",
-    "comments": 0,
-    "createdAt": "2026-08-27T09:27:32Z",
     "labels": [
       "bug",
       "good first issue"

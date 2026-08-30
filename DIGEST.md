@@ -4,6 +4,12 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-08-30 | 🥇 | [🐞Watch Later button throws error](https://github.com/code-charity/youtube/issues/4305) | `code-charity/youtube` | ⭐ 4.6k |
+| 2026-08-30 | 🥇 | [Rename the “stack” diff layout to “unified” across Hunk](https://github.com/modem-dev/hunk/issues/915) | `modem-dev/hunk` | ⭐ 8.9k |
+| 2026-08-30 | 🥈 | [[Help] cf部署完毕，邮箱后台怎么进入](https://github.com/maillab/cloud-mail/issues/553) | `maillab/cloud-mail` | ⭐ 13.7k |
+| 2026-08-30 | 🥈 | [Two collapse‑related enter‑key bugs for todo/unordered lists](https://github.com/TriliumNext/Trilium/issues/11256) | `TriliumNext/Trilium` | ⭐ 37.6k |
+| 2026-08-30 | 🥈 | [[Bug]: When typing in the code window, opens a dropdown](https://github.com/jakubkozera/vsc-csharp-dev-tools/issues/262) | `jakubkozera/vsc-csharp-dev-tools` | ⭐ 348 |
+| 2026-08-30 | 🥉 | [[Docs]:](https://github.com/upstash/context7/issues/3108) | `upstash/context7` | ⭐ 61.2k |
 | 2026-08-30 | 🥇 | [[Feature] 为工作区命令增加 /ws、/wsl 和 /workspaces 别名](https://github.com/xmanrui/dsh-im/issues/88) | `xmanrui/dsh-im` | ⭐ 977 |
 | 2026-08-30 | 🥇 | [[Feature] 支持使用 /workspacelist 序号切换工作区](https://github.com/xmanrui/dsh-im/issues/87) | `xmanrui/dsh-im` | ⭐ 977 |
 | 2026-08-30 | 🥈 | [[Enhancement] Telegram / 命令菜单自动同步新增命令](https://github.com/xmanrui/dsh-im/issues/89) | `xmanrui/dsh-im` | ⭐ 977 |
@@ -98,9 +104,3 @@
 | 2026-08-27 | 🥇 | [[Bug] Duplicate assignment after auto-compact](https://github.com/Nano-Collective/nanocoder/issues/980) | `Nano-Collective/nanocoder` | ⭐ 2.4k |
 | 2026-08-27 | 🥇 | [[Bug] paste-detection returns wrong addedText on deletions](https://github.com/Nano-Collective/nanocoder/issues/979) | `Nano-Collective/nanocoder` | ⭐ 2.4k |
 | 2026-08-27 | 🥇 | [[Bug] Atomic-deletion boundary off-by-one](https://github.com/Nano-Collective/nanocoder/issues/977) | `Nano-Collective/nanocoder` | ⭐ 2.4k |
-| 2026-08-27 | 🥇 | [[Bug] fetch-url truncation label hardcodes "100KB"](https://github.com/Nano-Collective/nanocoder/issues/976) | `Nano-Collective/nanocoder` | ⭐ 2.4k |
-| 2026-08-27 | 🥇 | [[Bug] welcome-message.tsx crashes app if package.json is missing](https://github.com/Nano-Collective/nanocoder/issues/975) | `Nano-Collective/nanocoder` | ⭐ 2.4k |
-| 2026-08-27 | 🥇 | [[Bug] update.tsx false-negative error detection](https://github.com/Nano-Collective/nanocoder/issues/974) | `Nano-Collective/nanocoder` | ⭐ 2.4k |
-| 2026-08-27 | 🥇 | [[Bug] parseContextLimit silently drops trailing junk](https://github.com/Nano-Collective/nanocoder/issues/973) | `Nano-Collective/nanocoder` | ⭐ 2.4k |
-| 2026-08-27 | 🥇 | [[Bug] Session selector dismisses on ANY key](https://github.com/Nano-Collective/nanocoder/issues/972) | `Nano-Collective/nanocoder` | ⭐ 2.4k |
-| 2026-08-27 | 🥇 | [[Bug] web_search TimeoutError misclassified](https://github.com/Nano-Collective/nanocoder/issues/971) | `Nano-Collective/nanocoder` | ⭐ 2.4k |
