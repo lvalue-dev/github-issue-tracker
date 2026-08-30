@@ -4,6 +4,11 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-08-30 | 🥇 | [[Feature] 为工作区命令增加 /ws、/wsl 和 /workspaces 别名](https://github.com/xmanrui/dsh-im/issues/88) | `xmanrui/dsh-im` | ⭐ 977 |
+| 2026-08-30 | 🥇 | [[Feature] 支持使用 /workspacelist 序号切换工作区](https://github.com/xmanrui/dsh-im/issues/87) | `xmanrui/dsh-im` | ⭐ 977 |
+| 2026-08-30 | 🥈 | [[Enhancement] Telegram / 命令菜单自动同步新增命令](https://github.com/xmanrui/dsh-im/issues/89) | `xmanrui/dsh-im` | ⭐ 977 |
+| 2026-08-30 | 🥉 | [Say that the usage statusline is Claude Code only](https://github.com/openwong2kim/wmux/issues/1106) | `openwong2kim/wmux` | ⭐ 359 |
+| 2026-08-30 | 🥉 | [ComboboxPopover discards a caller's tree snapshot key, so tags stay inert](https://github.com/ariakit/ariakit/issues/7330) | `ariakit/ariakit` | ⭐ 8.6k |
 | 2026-08-29 | 🥇 | [Reject malformed key chords containing empty segments](https://github.com/modem-dev/hunk/issues/906) | `modem-dev/hunk` | ⭐ 8.9k |
 | 2026-08-29 | 🥇 | [weightedArrayElement does not mention the possibility to throw in it's docs](https://github.com/faker-js/faker/issues/4015) | `faker-js/faker` | ⭐ 15.5k |
 | 2026-08-29 | 🥈 | [🚨 The tray icon does not work on Linux Mint](https://github.com/super-productivity/super-productivity/issues/9812) | `super-productivity/super-productivity` | ⭐ 21.7k |
@@ -99,8 +104,3 @@
 | 2026-08-27 | 🥇 | [[Bug] parseContextLimit silently drops trailing junk](https://github.com/Nano-Collective/nanocoder/issues/973) | `Nano-Collective/nanocoder` | ⭐ 2.4k |
 | 2026-08-27 | 🥇 | [[Bug] Session selector dismisses on ANY key](https://github.com/Nano-Collective/nanocoder/issues/972) | `Nano-Collective/nanocoder` | ⭐ 2.4k |
 | 2026-08-27 | 🥇 | [[Bug] web_search TimeoutError misclassified](https://github.com/Nano-Collective/nanocoder/issues/971) | `Nano-Collective/nanocoder` | ⭐ 2.4k |
-| 2026-08-27 | 🥇 | [[Bug] isMetadataOnly check for read_file never matches](https://github.com/Nano-Collective/nanocoder/issues/970) | `Nano-Collective/nanocoder` | ⭐ 2.4k |
-| 2026-08-27 | 🥇 | [Umbrella: bring the Hired Wall section to the 16 localized READMEs](https://github.com/santifer/career-ops/issues/3398) | `santifer/career-ops` | ⭐ 68.5k |
-| 2026-08-27 | 🥇 | [Angular upgrade from 20 to 22 (latest stable)](https://github.com/sadanandpai/frontend-mini-challenges/issues/537) | `sadanandpai/frontend-mini-challenges` | ⭐ 2.4k |
-| 2026-08-27 | 🥇 | [Browser Compatibility table is not rendering properly](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/89064) | `SAPTARSHI-coder/EaseMotion-css` | ⭐ 257 |
-| 2026-08-27 | 🥈 | [ci: skip the expensive CI job for documentation-only pull requests](https://github.com/apache/maka/issues/3998) | `apache/maka` | ⭐ 3.4k |
