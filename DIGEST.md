@@ -4,6 +4,8 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-08-30 | 🥇 | [docs(budget): a verified quick-start for running a local model (Ollama or LM Stu](https://github.com/santifer/career-ops/issues/3534) | `santifer/career-ops` | ⭐ 68.5k |
+| 2026-08-30 | 🥈 | [Unstable comment print in parenthesized arrow function body](https://github.com/prettier/prettier/issues/19955) | `prettier/prettier` | ⭐ 52.2k |
 | 2026-08-30 | 🥈 | [chore(focus-mode): remove unreachable screen-routing code (unused strategy metho](https://github.com/super-productivity/super-productivity/issues/9818) | `super-productivity/super-productivity` | ⭐ 21.7k |
 | 2026-08-30 | 🥈 | [`comments-time-machine-links` broken on issues](https://github.com/refined-github/refined-github/issues/10016) | `refined-github/refined-github` | ⭐ 32.0k |
 | 2026-08-30 | 🥈 | [[Feature] 支持一键重新生成 / Regenerate](https://github.com/shanliuling/dsh-image-gen/issues/19) | `shanliuling/dsh-image-gen` | ⭐ 279 |
@@ -102,5 +104,3 @@
 | 2026-08-27 | 🥈 | [[agent] element predicate errors name the rejected field but never the accepted ](https://github.com/reticlehq/reticle/issues/595) | `reticlehq/reticle` | ⭐ 367 |
 | 2026-08-27 | 🥈 | [GET /api/memberships List Endpoint (Owner and Admin)](https://github.com/parthbuilds-community/FitMart/issues/995) | `parthbuilds-community/FitMart` | ⭐ 354 |
 | 2026-08-27 | 🥈 | [POST /api/memberships Create Endpoint](https://github.com/parthbuilds-community/FitMart/issues/994) | `parthbuilds-community/FitMart` | ⭐ 354 |
-| 2026-08-27 | 🥈 | [Membership Model Schema Definition](https://github.com/parthbuilds-community/FitMart/issues/991) | `parthbuilds-community/FitMart` | ⭐ 354 |
-| 2026-08-27 | 🥈 | [GET /api/programs List Endpoint](https://github.com/parthbuilds-community/FitMart/issues/988) | `parthbuilds-community/FitMart` | ⭐ 354 |

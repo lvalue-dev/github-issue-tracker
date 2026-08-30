@@ -1,5 +1,40 @@
 [
   {
+    "key": "santifer/career-ops#3534",
+    "tier": 1,
+    "repo": "santifer/career-ops",
+    "number": 3534,
+    "title": "docs(budget): a verified quick-start for running a local model (Ollama or LM Studio)",
+    "url": "https://github.com/santifer/career-ops/issues/3534",
+    "comments": 1,
+    "createdAt": "2026-08-30T17:11:43Z",
+    "labels": [
+      "documentation",
+      "good first issue"
+    ],
+    "language": "javascript",
+    "stars": 68509,
+    "foundAt": "2026-08-30T17:39:05.472Z"
+  },
+  {
+    "key": "prettier/prettier#19955",
+    "tier": 2,
+    "repo": "prettier/prettier",
+    "number": 19955,
+    "title": "Unstable comment print in parenthesized arrow function body",
+    "url": "https://github.com/prettier/prettier/issues/19955",
+    "comments": 1,
+    "createdAt": "2026-08-30T14:02:33Z",
+    "labels": [
+      "help wanted",
+      "area:comments",
+      "area:idempotency"
+    ],
+    "language": "javascript",
+    "stars": 52221,
+    "foundAt": "2026-08-30T17:39:07.471Z"
+  },
+  {
     "key": "super-productivity/super-productivity#9818",
     "tier": 2,
     "repo": "super-productivity/super-productivity",
@@ -1754,43 +1789,6 @@
     "url": "https://github.com/parthbuilds-community/FitMart/issues/994",
     "comments": 0,
     "createdAt": "2026-08-27T17:00:56Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "question",
-      "UI"
-    ],
-    "language": "javascript",
-    "stars": 354,
-    "foundAt": "2026-08-27T20:37:29.658Z"
-  },
-  {
-    "key": "parthbuilds-community/FitMart#991",
-    "tier": 2,
-    "repo": "parthbuilds-community/FitMart",
-    "number": 991,
-    "title": "Membership Model Schema Definition",
-    "url": "https://github.com/parthbuilds-community/FitMart/issues/991",
-    "comments": 0,
-    "createdAt": "2026-08-27T17:00:07Z",
-    "labels": [
-      "bug",
-      "enhancement",
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 354,
-    "foundAt": "2026-08-27T20:37:29.658Z"
-  },
-  {
-    "key": "parthbuilds-community/FitMart#988",
-    "tier": 2,
-    "repo": "parthbuilds-community/FitMart",
-    "number": 988,
-    "title": "GET /api/programs List Endpoint",
-    "url": "https://github.com/parthbuilds-community/FitMart/issues/988",
-    "comments": 0,
-    "createdAt": "2026-08-27T16:58:23Z",
     "labels": [
       "enhancement",
       "help wanted",
