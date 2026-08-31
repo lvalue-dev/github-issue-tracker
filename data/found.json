@@ -1,5 +1,62 @@
 [
   {
+    "key": "code-charity/youtube#4308",
+    "tier": 1,
+    "repo": "code-charity/youtube",
+    "number": 4308,
+    "title": "🐞Incomplete settings application (subtitles, audio) during internal YouTube navigation ",
+    "url": "https://github.com/code-charity/youtube/issues/4308",
+    "comments": 0,
+    "createdAt": "2026-08-31T03:06:01Z",
+    "labels": [
+      "Bug",
+      "Feature request",
+      "help wanted",
+      "good first issue",
+      "up-for-grabs"
+    ],
+    "language": "javascript",
+    "stars": 4555,
+    "foundAt": "2026-08-31T05:49:55.429Z"
+  },
+  {
+    "key": "snapotter-hq/SnapOtter#955",
+    "tier": 2,
+    "repo": "snapotter-hq/SnapOtter",
+    "number": 955,
+    "title": "fix(ai): detect glyph-id fallback from the font dicts, not the characters",
+    "url": "https://github.com/snapotter-hq/SnapOtter/issues/955",
+    "comments": 0,
+    "createdAt": "2026-08-31T05:45:40Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "area:ai"
+    ],
+    "language": "typescript",
+    "stars": 2394,
+    "foundAt": "2026-08-31T05:49:56.044Z"
+  },
+  {
+    "key": "snapotter-hq/SnapOtter#953",
+    "tier": 2,
+    "repo": "snapotter-hq/SnapOtter",
+    "number": 953,
+    "title": "feat(ai): add Arabic recognition to OCR",
+    "url": "https://github.com/snapotter-hq/SnapOtter/issues/953",
+    "comments": 0,
+    "createdAt": "2026-08-31T05:44:49Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "community-request",
+      "area:ai"
+    ],
+    "language": "typescript",
+    "stars": 2394,
+    "foundAt": "2026-08-31T05:49:56.214Z"
+  },
+  {
     "key": "santifer/career-ops#3534",
     "tier": 1,
     "repo": "santifer/career-ops",
@@ -1741,62 +1798,6 @@
     ],
     "language": "typescript",
     "stars": 367,
-    "foundAt": "2026-08-27T20:37:29.658Z"
-  },
-  {
-    "key": "reticlehq/reticle#595",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 595,
-    "title": "[agent] element predicate errors name the rejected field but never the accepted shape",
-    "url": "https://github.com/reticlehq/reticle/issues/595",
-    "comments": 0,
-    "createdAt": "2026-08-27T18:36:13Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-27T20:37:29.658Z"
-  },
-  {
-    "key": "parthbuilds-community/FitMart#995",
-    "tier": 2,
-    "repo": "parthbuilds-community/FitMart",
-    "number": 995,
-    "title": "GET /api/memberships List Endpoint (Owner and Admin)",
-    "url": "https://github.com/parthbuilds-community/FitMart/issues/995",
-    "comments": 0,
-    "createdAt": "2026-08-27T17:01:09Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "security"
-    ],
-    "language": "javascript",
-    "stars": 354,
-    "foundAt": "2026-08-27T20:37:29.658Z"
-  },
-  {
-    "key": "parthbuilds-community/FitMart#994",
-    "tier": 2,
-    "repo": "parthbuilds-community/FitMart",
-    "number": 994,
-    "title": "POST /api/memberships Create Endpoint",
-    "url": "https://github.com/parthbuilds-community/FitMart/issues/994",
-    "comments": 0,
-    "createdAt": "2026-08-27T17:00:56Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "question",
-      "UI"
-    ],
-    "language": "javascript",
-    "stars": 354,
     "foundAt": "2026-08-27T20:37:29.658Z"
   }
 ]

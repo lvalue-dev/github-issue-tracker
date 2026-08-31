@@ -4,6 +4,9 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-08-31 | 🥇 | [🐞Incomplete settings application (subtitles, audio) during internal YouTube nav](https://github.com/code-charity/youtube/issues/4308) | `code-charity/youtube` | ⭐ 4.6k |
+| 2026-08-31 | 🥈 | [fix(ai): detect glyph-id fallback from the font dicts, not the characters](https://github.com/snapotter-hq/SnapOtter/issues/955) | `snapotter-hq/SnapOtter` | ⭐ 2.4k |
+| 2026-08-31 | 🥈 | [feat(ai): add Arabic recognition to OCR](https://github.com/snapotter-hq/SnapOtter/issues/953) | `snapotter-hq/SnapOtter` | ⭐ 2.4k |
 | 2026-08-30 | 🥇 | [docs(budget): a verified quick-start for running a local model (Ollama or LM Stu](https://github.com/santifer/career-ops/issues/3534) | `santifer/career-ops` | ⭐ 68.5k |
 | 2026-08-30 | 🥈 | [Unstable comment print in parenthesized arrow function body](https://github.com/prettier/prettier/issues/19955) | `prettier/prettier` | ⭐ 52.2k |
 | 2026-08-30 | 🥈 | [chore(focus-mode): remove unreachable screen-routing code (unused strategy metho](https://github.com/super-productivity/super-productivity/issues/9818) | `super-productivity/super-productivity` | ⭐ 21.7k |
@@ -101,6 +104,3 @@
 | 2026-08-27 | 🥈 | [[agent] an origin in RETICLE_ALLOWED_ORIGINS without a scheme is silently discar](https://github.com/reticlehq/reticle/issues/598) | `reticlehq/reticle` | ⭐ 367 |
 | 2026-08-27 | 🥈 | [[agent] reticle verify tells you to pass sessionId, and has no such flag](https://github.com/reticlehq/reticle/issues/597) | `reticlehq/reticle` | ⭐ 367 |
 | 2026-08-27 | 🥈 | [[agent] the destructive-action heuristic blocks "Payment" and "Log out"](https://github.com/reticlehq/reticle/issues/596) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-27 | 🥈 | [[agent] element predicate errors name the rejected field but never the accepted ](https://github.com/reticlehq/reticle/issues/595) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-27 | 🥈 | [GET /api/memberships List Endpoint (Owner and Admin)](https://github.com/parthbuilds-community/FitMart/issues/995) | `parthbuilds-community/FitMart` | ⭐ 354 |
-| 2026-08-27 | 🥈 | [POST /api/memberships Create Endpoint](https://github.com/parthbuilds-community/FitMart/issues/994) | `parthbuilds-community/FitMart` | ⭐ 354 |
