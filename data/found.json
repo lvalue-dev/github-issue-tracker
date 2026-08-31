@@ -1,5 +1,56 @@
 [
   {
+    "key": "AprilSylph/XKit-Rewritten#2365",
+    "tier": 2,
+    "repo": "AprilSylph/XKit-Rewritten",
+    "number": 2365,
+    "title": "AccessKit Disable GIFs: Pause animated avatars (if they launch)",
+    "url": "https://github.com/AprilSylph/XKit-Rewritten/issues/2365",
+    "comments": 0,
+    "createdAt": "2026-08-31T09:19:40Z",
+    "labels": [
+      "enhancement",
+      "help wanted"
+    ],
+    "language": "javascript",
+    "stars": 371,
+    "foundAt": "2026-08-31T14:11:21.230Z"
+  },
+  {
+    "key": "GouvernementFR/dsfr#1506",
+    "tier": 3,
+    "repo": "GouvernementFR/dsfr",
+    "number": 1506,
+    "title": "[Coquille documentation] image sur la page de l'infobulle",
+    "url": "https://github.com/GouvernementFR/dsfr/issues/1506",
+    "comments": 0,
+    "createdAt": "2026-08-31T13:50:32Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "javascript",
+    "stars": 389,
+    "foundAt": "2026-08-31T14:11:23.631Z"
+  },
+  {
+    "key": "dokieli/dokieli#607",
+    "tier": 3,
+    "repo": "dokieli/dokieli",
+    "number": 607,
+    "title": "Improve the accessibility of Table of Contents (ToC) management",
+    "url": "https://github.com/dokieli/dokieli/issues/607",
+    "comments": 1,
+    "createdAt": "2026-08-31T12:04:50Z",
+    "labels": [
+      "UI",
+      "accessibility",
+      "help-wanted"
+    ],
+    "language": "javascript",
+    "stars": 893,
+    "foundAt": "2026-08-31T14:11:24.636Z"
+  },
+  {
     "key": "code-charity/youtube#4308",
     "tier": 1,
     "repo": "code-charity/youtube",
@@ -1736,63 +1787,6 @@
     "createdAt": "2026-08-27T18:36:56Z",
     "labels": [
       "enhancement",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-27T20:37:29.658Z"
-  },
-  {
-    "key": "reticlehq/reticle#598",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 598,
-    "title": "[agent] an origin in RETICLE_ALLOWED_ORIGINS without a scheme is silently discarded",
-    "url": "https://github.com/reticlehq/reticle/issues/598",
-    "comments": 0,
-    "createdAt": "2026-08-27T18:36:54Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-27T20:37:29.658Z"
-  },
-  {
-    "key": "reticlehq/reticle#597",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 597,
-    "title": "[agent] reticle verify tells you to pass sessionId, and has no such flag",
-    "url": "https://github.com/reticlehq/reticle/issues/597",
-    "comments": 0,
-    "createdAt": "2026-08-27T18:36:34Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-27T20:37:29.658Z"
-  },
-  {
-    "key": "reticlehq/reticle#596",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 596,
-    "title": "[agent] the destructive-action heuristic blocks \"Payment\" and \"Log out\"",
-    "url": "https://github.com/reticlehq/reticle/issues/596",
-    "comments": 0,
-    "createdAt": "2026-08-27T18:36:32Z",
-    "labels": [
-      "bug",
-      "good first issue",
       "help wanted",
       "agent-reported"
     ],

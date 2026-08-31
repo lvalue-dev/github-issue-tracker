@@ -4,6 +4,9 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-08-31 | 🥈 | [AccessKit Disable GIFs: Pause animated avatars (if they launch)](https://github.com/AprilSylph/XKit-Rewritten/issues/2365) | `AprilSylph/XKit-Rewritten` | ⭐ 371 |
+| 2026-08-31 | 🥉 | [[Coquille documentation] image sur la page de l'infobulle](https://github.com/GouvernementFR/dsfr/issues/1506) | `GouvernementFR/dsfr` | ⭐ 389 |
+| 2026-08-31 | 🥉 | [Improve the accessibility of Table of Contents (ToC) management](https://github.com/dokieli/dokieli/issues/607) | `dokieli/dokieli` | ⭐ 893 |
 | 2026-08-31 | 🥇 | [🐞Incomplete settings application (subtitles, audio) during internal YouTube nav](https://github.com/code-charity/youtube/issues/4308) | `code-charity/youtube` | ⭐ 4.6k |
 | 2026-08-31 | 🥈 | [fix(ai): detect glyph-id fallback from the font dicts, not the characters](https://github.com/snapotter-hq/SnapOtter/issues/955) | `snapotter-hq/SnapOtter` | ⭐ 2.4k |
 | 2026-08-31 | 🥈 | [feat(ai): add Arabic recognition to OCR](https://github.com/snapotter-hq/SnapOtter/issues/953) | `snapotter-hq/SnapOtter` | ⭐ 2.4k |
@@ -101,6 +104,3 @@
 | 2026-08-27 | 🥈 | [[agent] advertised timeout_ms exceeds what MCP clients will wait, with no bounde](https://github.com/reticlehq/reticle/issues/601) | `reticlehq/reticle` | ⭐ 367 |
 | 2026-08-27 | 🥈 | [[agent] a second reticle_lease acquire on the same origin poisons default sessio](https://github.com/reticlehq/reticle/issues/600) | `reticlehq/reticle` | ⭐ 367 |
 | 2026-08-27 | 🥈 | [[agent] reticle_storage can read all three areas but cannot write one](https://github.com/reticlehq/reticle/issues/599) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-27 | 🥈 | [[agent] an origin in RETICLE_ALLOWED_ORIGINS without a scheme is silently discar](https://github.com/reticlehq/reticle/issues/598) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-27 | 🥈 | [[agent] reticle verify tells you to pass sessionId, and has no such flag](https://github.com/reticlehq/reticle/issues/597) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-27 | 🥈 | [[agent] the destructive-action heuristic blocks "Payment" and "Log out"](https://github.com/reticlehq/reticle/issues/596) | `reticlehq/reticle` | ⭐ 367 |
