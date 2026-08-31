@@ -253,5 +253,8 @@
   "ch-bas/cctv-camera-database#336": "2026-08-31T20:13:54.020Z",
   "ch-bas/cctv-camera-database#339": "2026-08-31T20:13:54.020Z",
   "ch-bas/cctv-camera-database#338": "2026-08-31T20:13:54.020Z",
-  "shopware/frontends#2678": "2026-08-31T20:13:54.020Z"
+  "shopware/frontends#2678": "2026-08-31T20:13:54.020Z",
+  "jaegertracing/jaeger-ui#4418": "2026-08-31T23:57:23.277Z",
+  "silexlabs/Silex#1846": "2026-08-31T23:57:23.277Z",
+  "OWASP/cve-lite-cli#1063": "2026-08-31T23:57:23.277Z"
 }

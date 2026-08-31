@@ -9678,5 +9678,355 @@
     "language": "JavaScript",
     "openIssues": 12,
     "cachedAt": "2026-08-31T20:13:53.492Z"
+  },
+  "oss-slu/repoexplorer": {
+    "fullName": "oss-slu/repoexplorer",
+    "stars": 0,
+    "pushedAt": "2026-08-31T23:22:36Z",
+    "archived": false,
+    "fork": true,
+    "language": "TypeScript",
+    "openIssues": 1,
+    "cachedAt": "2026-08-31T23:57:15.761Z"
+  },
+  "pureidlelabs/IncidentCompanion": {
+    "fullName": "pureidlelabs/IncidentCompanion",
+    "stars": 0,
+    "pushedAt": "2026-08-31T22:15:31Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 19,
+    "cachedAt": "2026-08-31T23:57:15.977Z"
+  },
+  "Selftend/selftend": {
+    "fullName": "Selftend/selftend",
+    "stars": 1,
+    "pushedAt": "2026-08-31T21:45:35Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 30,
+    "cachedAt": "2026-08-31T23:57:16.185Z"
+  },
+  "DatanoiseTV/Materix": {
+    "fullName": "DatanoiseTV/Materix",
+    "stars": 0,
+    "pushedAt": "2026-08-31T21:21:02Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 10,
+    "cachedAt": "2026-08-31T23:57:16.361Z"
+  },
+  "chairemobilite/evolution": {
+    "fullName": "chairemobilite/evolution",
+    "stars": 6,
+    "pushedAt": "2026-08-30T14:49:59Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 462,
+    "cachedAt": "2026-08-31T23:57:16.588Z"
+  },
+  "AnarresyUrras/readtrack": {
+    "fullName": "AnarresyUrras/readtrack",
+    "stars": 0,
+    "pushedAt": "2026-08-31T20:32:18Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 14,
+    "cachedAt": "2026-08-31T23:57:16.778Z"
+  },
+  "HybridCloudWorks/Demo-GitHub_and_Kiro": {
+    "fullName": "HybridCloudWorks/Demo-GitHub_and_Kiro",
+    "stars": 0,
+    "pushedAt": "2026-08-31T23:56:10Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 14,
+    "cachedAt": "2026-08-31T23:57:16.954Z"
+  },
+  "anggelitub30/claude-tetris": {
+    "fullName": "anggelitub30/claude-tetris",
+    "stars": 0,
+    "pushedAt": "2026-08-31T23:53:37Z",
+    "archived": false,
+    "fork": true,
+    "language": "JavaScript",
+    "openIssues": 1,
+    "cachedAt": "2026-08-31T23:57:17.174Z"
+  },
+  "yashumani/open-source-reviewer-app": {
+    "fullName": "yashumani/open-source-reviewer-app",
+    "stars": 0,
+    "pushedAt": "2026-08-31T22:22:46Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 17,
+    "cachedAt": "2026-08-31T23:57:17.357Z"
+  },
+  "ACM-Alexandria/ACM-Alexandria-Chapter-Official-Website": {
+    "fullName": "ACM-Alexandria/ACM-Alexandria-Chapter-Official-Website",
+    "stars": 6,
+    "pushedAt": "2026-08-31T01:23:25Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 10,
+    "cachedAt": "2026-08-31T23:57:17.579Z"
+  },
+  "auras172/constructii-legislatie-ro": {
+    "fullName": "auras172/constructii-legislatie-ro",
+    "stars": 4,
+    "pushedAt": "2026-08-31T21:34:52Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 1,
+    "cachedAt": "2026-08-31T23:57:17.758Z"
+  },
+  "UUON-Foundation/riemann-dipole-engine": {
+    "fullName": "UUON-Foundation/riemann-dipole-engine",
+    "stars": 0,
+    "pushedAt": "2026-08-31T22:10:25Z",
+    "archived": false,
+    "fork": false,
+    "language": "HTML",
+    "openIssues": 1,
+    "cachedAt": "2026-08-31T23:57:17.953Z"
+  },
+  "paro-studio/web": {
+    "fullName": "paro-studio/web",
+    "stars": 3,
+    "pushedAt": "2026-08-31T15:36:29Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 11,
+    "cachedAt": "2026-08-31T23:57:18.179Z"
+  },
+  "OksigeniaSL/oga-veve": {
+    "fullName": "OksigeniaSL/oga-veve",
+    "stars": 0,
+    "pushedAt": "2026-08-31T23:51:01Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 122,
+    "cachedAt": "2026-08-31T23:57:18.402Z"
+  },
+  "seedbed-ai/crossdock": {
+    "fullName": "seedbed-ai/crossdock",
+    "stars": 0,
+    "pushedAt": "2026-08-31T23:57:09Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 18,
+    "cachedAt": "2026-08-31T23:57:18.588Z"
+  },
+  "OWASP/cve-lite-cli": {
+    "fullName": "OWASP/cve-lite-cli",
+    "stars": 681,
+    "pushedAt": "2026-08-31T23:06:03Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 26,
+    "cachedAt": "2026-08-31T23:57:18.770Z"
+  },
+  "RSI-Software/t3code-hyprws": {
+    "fullName": "RSI-Software/t3code-hyprws",
+    "stars": 0,
+    "pushedAt": "2026-08-31T23:09:01Z",
+    "archived": false,
+    "fork": true,
+    "language": "TypeScript",
+    "openIssues": 49,
+    "cachedAt": "2026-08-31T23:57:19.052Z"
+  },
+  "layervai/qurl-mcp": {
+    "fullName": "layervai/qurl-mcp",
+    "stars": 4,
+    "pushedAt": "2026-08-31T20:17:20Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 24,
+    "cachedAt": "2026-08-31T23:57:19.262Z"
+  },
+  "bluleo78/smart-fire-hub": {
+    "fullName": "bluleo78/smart-fire-hub",
+    "stars": 0,
+    "pushedAt": "2026-08-31T02:26:28Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 32,
+    "cachedAt": "2026-08-31T23:57:19.517Z"
+  },
+  "jnogales319/rising_moon_core": {
+    "fullName": "jnogales319/rising_moon_core",
+    "stars": 0,
+    "pushedAt": "2026-08-31T22:43:49Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 9,
+    "cachedAt": "2026-08-31T23:57:19.723Z"
+  },
+  "jefrykurniaone/porto-jefry": {
+    "fullName": "jefrykurniaone/porto-jefry",
+    "stars": 0,
+    "pushedAt": "2026-08-11T07:17:29Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 7,
+    "cachedAt": "2026-08-31T23:57:19.896Z"
+  },
+  "linuxmaier/wish-granted": {
+    "fullName": "linuxmaier/wish-granted",
+    "stars": 0,
+    "pushedAt": "2026-08-31T23:56:13Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 8,
+    "cachedAt": "2026-08-31T23:57:20.077Z"
+  },
+  "tomjn/coilbox": {
+    "fullName": "tomjn/coilbox",
+    "stars": 2,
+    "pushedAt": "2026-08-31T23:12:36Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 249,
+    "cachedAt": "2026-08-31T23:57:20.281Z"
+  },
+  "getlibero/libero": {
+    "fullName": "getlibero/libero",
+    "stars": 1,
+    "pushedAt": "2026-08-31T23:39:03Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 24,
+    "cachedAt": "2026-08-31T23:57:20.471Z"
+  },
+  "vtellier/OpenMaintenance": {
+    "fullName": "vtellier/OpenMaintenance",
+    "stars": 2,
+    "pushedAt": "2026-08-31T23:40:48Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 14,
+    "cachedAt": "2026-08-31T23:57:20.694Z"
+  },
+  "JesusFilm/phoebe": {
+    "fullName": "JesusFilm/phoebe",
+    "stars": 0,
+    "pushedAt": "2026-08-31T23:53:41Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 12,
+    "cachedAt": "2026-08-31T23:57:21.004Z"
+  },
+  "well-prado/blok": {
+    "fullName": "well-prado/blok",
+    "stars": 0,
+    "pushedAt": "2026-08-31T22:47:02Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 89,
+    "cachedAt": "2026-08-31T23:57:21.188Z"
+  },
+  "MarkoAtc/QuickWerk": {
+    "fullName": "MarkoAtc/QuickWerk",
+    "stars": 1,
+    "pushedAt": "2026-08-31T22:42:06Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 4,
+    "cachedAt": "2026-08-31T23:57:21.349Z"
+  },
+  "LumenWipe/lumenwipe": {
+    "fullName": "LumenWipe/lumenwipe",
+    "stars": 3,
+    "pushedAt": "2026-08-31T23:38:52Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 28,
+    "cachedAt": "2026-08-31T23:57:21.539Z"
+  },
+  "athrvk/vayu": {
+    "fullName": "athrvk/vayu",
+    "stars": 13,
+    "pushedAt": "2026-08-31T21:56:20Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 21,
+    "cachedAt": "2026-08-31T23:57:21.766Z"
+  },
+  "OpenTechEvents/opentechevents-spec": {
+    "fullName": "OpenTechEvents/opentechevents-spec",
+    "stars": 1,
+    "pushedAt": "2026-08-31T22:48:30Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 21,
+    "cachedAt": "2026-08-31T23:57:22.003Z"
+  },
+  "cybertecpty/platform": {
+    "fullName": "cybertecpty/platform",
+    "stars": 0,
+    "pushedAt": "2026-08-31T23:32:09Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 1,
+    "cachedAt": "2026-08-31T23:57:22.186Z"
+  },
+  "mchacher/sowel": {
+    "fullName": "mchacher/sowel",
+    "stars": 7,
+    "pushedAt": "2026-08-31T21:56:48Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 7,
+    "cachedAt": "2026-08-31T23:57:22.396Z"
+  },
+  "keithgroben/lift": {
+    "fullName": "keithgroben/lift",
+    "stars": 0,
+    "pushedAt": "2026-08-31T21:07:39Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 9,
+    "cachedAt": "2026-08-31T23:57:22.587Z"
+  },
+  "ConnorGriffin/skills": {
+    "fullName": "ConnorGriffin/skills",
+    "stars": 20,
+    "pushedAt": "2026-08-31T20:14:42Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 5,
+    "cachedAt": "2026-08-31T23:57:22.777Z"
   }
 }

@@ -1,5 +1,56 @@
 [
   {
+    "key": "jaegertracing/jaeger-ui#4418",
+    "tier": 1,
+    "repo": "jaegertracing/jaeger-ui",
+    "number": 4418,
+    "title": "[chore]: Contextual controls in span row in trace timeline view",
+    "url": "https://github.com/jaegertracing/jaeger-ui/issues/4418",
+    "comments": 0,
+    "createdAt": "2026-08-31T23:33:16Z",
+    "labels": [
+      "help wanted",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 1524,
+    "foundAt": "2026-08-31T23:57:15.761Z"
+  },
+  {
+    "key": "silexlabs/Silex#1846",
+    "tier": 2,
+    "repo": "silexlabs/Silex",
+    "number": 1846,
+    "title": "Style Manager: the CSS variables plugin keeps its own list of Silex properties",
+    "url": "https://github.com/silexlabs/Silex/issues/1846",
+    "comments": 1,
+    "createdAt": "2026-08-31T22:18:14Z",
+    "labels": [
+      "help wanted",
+      "enhancement"
+    ],
+    "language": "typescript",
+    "stars": 2936,
+    "foundAt": "2026-08-31T23:57:18.402Z"
+  },
+  {
+    "key": "OWASP/cve-lite-cli#1063",
+    "tier": 3,
+    "repo": "OWASP/cve-lite-cli",
+    "number": 1063,
+    "title": "docs: link comparison table rows to their docs pages in README",
+    "url": "https://github.com/OWASP/cve-lite-cli/issues/1063",
+    "comments": 0,
+    "createdAt": "2026-08-31T23:55:39Z",
+    "labels": [
+      "documentation",
+      "in-house"
+    ],
+    "language": "typescript",
+    "stars": 681,
+    "foundAt": "2026-08-31T23:57:18.770Z"
+  },
+  {
     "key": "shadcn-labs/editorcn#21",
     "tier": 1,
     "repo": "shadcn-labs/editorcn",
@@ -1742,59 +1793,5 @@
     "language": "typescript",
     "stars": 10585,
     "foundAt": "2026-08-28T05:30:19.554Z"
-  },
-  {
-    "key": "corsairdev/corsair#1252",
-    "tier": 1,
-    "repo": "corsairdev/corsair",
-    "number": 1252,
-    "title": "docs(googlesheets): pin get-rows/append-row on the overview",
-    "url": "https://github.com/corsairdev/corsair/issues/1252",
-    "comments": 0,
-    "createdAt": "2026-08-28T02:33:37Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "status: available"
-    ],
-    "language": "typescript",
-    "stars": 10585,
-    "foundAt": "2026-08-28T05:30:19.554Z"
-  },
-  {
-    "key": "corsairdev/corsair#1251",
-    "tier": 1,
-    "repo": "corsairdev/corsair",
-    "number": 1251,
-    "title": "docs(googledrive): pin list/create on the overview",
-    "url": "https://github.com/corsairdev/corsair/issues/1251",
-    "comments": 0,
-    "createdAt": "2026-08-28T02:33:31Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "status: available"
-    ],
-    "language": "typescript",
-    "stars": 10585,
-    "foundAt": "2026-08-28T05:30:19.554Z"
-  },
-  {
-    "key": "corsairdev/corsair#1246",
-    "tier": 1,
-    "repo": "corsairdev/corsair",
-    "number": 1246,
-    "title": "docs(posthog): add plugin-docs.yaml for familiar overview examples",
-    "url": "https://github.com/corsairdev/corsair/issues/1246",
-    "comments": 0,
-    "createdAt": "2026-08-28T00:54:15Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "status: available"
-    ],
-    "language": "typescript",
-    "stars": 10585,
-    "foundAt": "2026-08-28T05:30:19.952Z"
   }
 ]

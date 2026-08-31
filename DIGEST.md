@@ -4,6 +4,9 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-08-31 | 🥇 | [[chore]: Contextual controls in span row in trace timeline view](https://github.com/jaegertracing/jaeger-ui/issues/4418) | `jaegertracing/jaeger-ui` | ⭐ 1.5k |
+| 2026-08-31 | 🥈 | [Style Manager: the CSS variables plugin keeps its own list of Silex properties](https://github.com/silexlabs/Silex/issues/1846) | `silexlabs/Silex` | ⭐ 2.9k |
+| 2026-08-31 | 🥉 | [docs: link comparison table rows to their docs pages in README](https://github.com/OWASP/cve-lite-cli/issues/1063) | `OWASP/cve-lite-cli` | ⭐ 681 |
 | 2026-08-31 | 🥇 | [Fix the code snippet css in landing page](https://github.com/shadcn-labs/editorcn/issues/21) | `shadcn-labs/editorcn` | ⭐ 209 |
 | 2026-08-31 | 🥇 | [Fix the code block syntax highlighting colour in toolbar editor](https://github.com/shadcn-labs/editorcn/issues/20) | `shadcn-labs/editorcn` | ⭐ 209 |
 | 2026-08-31 | 🥇 | [Fix the Text selection colour on web app](https://github.com/shadcn-labs/editorcn/issues/19) | `shadcn-labs/editorcn` | ⭐ 209 |
@@ -101,6 +104,3 @@
 | 2026-08-28 | 🥇 | [docs(asana): pin list/create-task on the overview](https://github.com/corsairdev/corsair/issues/1255) | `corsairdev/corsair` | ⭐ 10.6k |
 | 2026-08-28 | 🥇 | [docs(jira): pin search/create-issue on the overview](https://github.com/corsairdev/corsair/issues/1254) | `corsairdev/corsair` | ⭐ 10.6k |
 | 2026-08-28 | 🥇 | [docs(resend): pin list/send on the overview](https://github.com/corsairdev/corsair/issues/1253) | `corsairdev/corsair` | ⭐ 10.6k |
-| 2026-08-28 | 🥇 | [docs(googlesheets): pin get-rows/append-row on the overview](https://github.com/corsairdev/corsair/issues/1252) | `corsairdev/corsair` | ⭐ 10.6k |
-| 2026-08-28 | 🥇 | [docs(googledrive): pin list/create on the overview](https://github.com/corsairdev/corsair/issues/1251) | `corsairdev/corsair` | ⭐ 10.6k |
-| 2026-08-28 | 🥇 | [docs(posthog): add plugin-docs.yaml for familiar overview examples](https://github.com/corsairdev/corsair/issues/1246) | `corsairdev/corsair` | ⭐ 10.6k |
