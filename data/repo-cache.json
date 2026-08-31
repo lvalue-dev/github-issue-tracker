@@ -9378,5 +9378,305 @@
     "language": "MDX",
     "openIssues": 16,
     "cachedAt": "2026-08-31T14:11:25.062Z"
+  },
+  "shadcn-labs/editorcn": {
+    "fullName": "shadcn-labs/editorcn",
+    "stars": 209,
+    "pushedAt": "2026-08-31T12:42:55Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 8,
+    "cachedAt": "2026-08-31T20:13:46.440Z"
+  },
+  "Open-Resin-Alliance/DragonFruit": {
+    "fullName": "Open-Resin-Alliance/DragonFruit",
+    "stars": 65,
+    "pushedAt": "2026-08-31T02:50:08Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 206,
+    "cachedAt": "2026-08-31T20:13:46.729Z"
+  },
+  "jaegertracing/jaeger-ui": {
+    "fullName": "jaegertracing/jaeger-ui",
+    "stars": 1524,
+    "pushedAt": "2026-08-31T15:15:43Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 250,
+    "cachedAt": "2026-08-31T20:13:46.975Z"
+  },
+  "Roogry/roogo-fitness": {
+    "fullName": "Roogry/roogo-fitness",
+    "stars": 0,
+    "pushedAt": "2026-08-31T19:07:50Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 20,
+    "cachedAt": "2026-08-31T20:13:47.213Z"
+  },
+  "clusterio/clusterio": {
+    "fullName": "clusterio/clusterio",
+    "stars": 379,
+    "pushedAt": "2026-08-31T19:39:26Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 58,
+    "cachedAt": "2026-08-31T20:13:47.431Z"
+  },
+  "KongFangXun/sofagent": {
+    "fullName": "KongFangXun/sofagent",
+    "stars": 41,
+    "pushedAt": "2026-08-31T19:08:08Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 4,
+    "cachedAt": "2026-08-31T20:13:47.678Z"
+  },
+  "adarshashokbaghel-code/mentr": {
+    "fullName": "adarshashokbaghel-code/mentr",
+    "stars": 0,
+    "pushedAt": "2026-08-31T12:43:50Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 5,
+    "cachedAt": "2026-08-31T20:13:47.920Z"
+  },
+  "ChristianDenniss/volleyProject": {
+    "fullName": "ChristianDenniss/volleyProject",
+    "stars": 3,
+    "pushedAt": "2026-08-31T20:03:51Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 22,
+    "cachedAt": "2026-08-31T20:13:48.134Z"
+  },
+  "tzioup/PortOS": {
+    "fullName": "tzioup/PortOS",
+    "stars": 0,
+    "pushedAt": "2026-08-31T09:16:21Z",
+    "archived": false,
+    "fork": true,
+    "language": null,
+    "openIssues": 11,
+    "cachedAt": "2026-08-31T20:13:48.446Z"
+  },
+  "ismailntl/multiverse-cable": {
+    "fullName": "ismailntl/multiverse-cable",
+    "stars": 8,
+    "pushedAt": "2026-08-31T20:10:52Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 8,
+    "cachedAt": "2026-08-31T20:13:48.645Z"
+  },
+  "Coding-Moves/diskern": {
+    "fullName": "Coding-Moves/diskern",
+    "stars": 2,
+    "pushedAt": "2026-08-30T19:42:13Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 31,
+    "cachedAt": "2026-08-31T20:13:48.910Z"
+  },
+  "datacontract/datacontract-cli": {
+    "fullName": "datacontract/datacontract-cli",
+    "stars": 1051,
+    "pushedAt": "2026-08-31T14:50:30Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 34,
+    "cachedAt": "2026-08-31T20:13:49.137Z"
+  },
+  "Bilex95/carousel-a11y-fix": {
+    "fullName": "Bilex95/carousel-a11y-fix",
+    "stars": 0,
+    "pushedAt": "2026-08-31T19:28:17Z",
+    "archived": false,
+    "fork": false,
+    "language": "HTML",
+    "openIssues": 1,
+    "cachedAt": "2026-08-31T20:13:49.354Z"
+  },
+  "JmealSA/aws-cloud-portfolio": {
+    "fullName": "JmealSA/aws-cloud-portfolio",
+    "stars": 0,
+    "pushedAt": "2026-08-31T13:27:28Z",
+    "archived": false,
+    "fork": false,
+    "language": "HTML",
+    "openIssues": 9,
+    "cachedAt": "2026-08-31T20:13:49.593Z"
+  },
+  "webrune-tim/The-Autonomy-Protocol": {
+    "fullName": "webrune-tim/The-Autonomy-Protocol",
+    "stars": 2,
+    "pushedAt": "2026-08-18T20:21:08Z",
+    "archived": false,
+    "fork": false,
+    "language": "Svelte",
+    "openIssues": 2,
+    "cachedAt": "2026-08-31T20:13:49.853Z"
+  },
+  "adididitagain/tokentab": {
+    "fullName": "adididitagain/tokentab",
+    "stars": 2,
+    "pushedAt": "2026-08-10T00:20:33Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 4,
+    "cachedAt": "2026-08-31T20:13:50.066Z"
+  },
+  "jdsalasca/timebank-protocol": {
+    "fullName": "jdsalasca/timebank-protocol",
+    "stars": 0,
+    "pushedAt": "2026-08-31T12:42:03Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 112,
+    "cachedAt": "2026-08-31T20:13:50.297Z"
+  },
+  "ch-bas/cctv-camera-database": {
+    "fullName": "ch-bas/cctv-camera-database",
+    "stars": 240,
+    "pushedAt": "2026-08-31T19:35:48Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 23,
+    "cachedAt": "2026-08-31T20:13:50.513Z"
+  },
+  "btravstack/btravstack": {
+    "fullName": "btravstack/btravstack",
+    "stars": 1,
+    "pushedAt": "2026-08-31T20:08:45Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 44,
+    "cachedAt": "2026-08-31T20:13:50.747Z"
+  },
+  "plot-and-scatter/dchp3": {
+    "fullName": "plot-and-scatter/dchp3",
+    "stars": 2,
+    "pushedAt": "2026-08-31T19:38:12Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 159,
+    "cachedAt": "2026-08-31T20:13:51.019Z"
+  },
+  "Just1P/tattoo": {
+    "fullName": "Just1P/tattoo",
+    "stars": 0,
+    "pushedAt": "2026-08-08T00:23:51Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 25,
+    "cachedAt": "2026-08-31T20:13:51.237Z"
+  },
+  "shopware/frontends": {
+    "fullName": "shopware/frontends",
+    "stars": 227,
+    "pushedAt": "2026-08-31T18:27:43Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 66,
+    "cachedAt": "2026-08-31T20:13:51.492Z"
+  },
+  "jenarvaezg/worthline": {
+    "fullName": "jenarvaezg/worthline",
+    "stars": 2,
+    "pushedAt": "2026-08-31T19:59:36Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 60,
+    "cachedAt": "2026-08-31T20:13:51.756Z"
+  },
+  "4444J99/peer-audited--behavioral-blockchain": {
+    "fullName": "4444J99/peer-audited--behavioral-blockchain",
+    "stars": 0,
+    "pushedAt": "2026-08-31T14:02:33Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 108,
+    "cachedAt": "2026-08-31T20:13:51.997Z"
+  },
+  "wcmc-its/Scholars-Profile-System": {
+    "fullName": "wcmc-its/Scholars-Profile-System",
+    "stars": 0,
+    "pushedAt": "2026-08-31T20:02:44Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 149,
+    "cachedAt": "2026-08-31T20:13:52.281Z"
+  },
+  "project-laundry/laundry-platform-app": {
+    "fullName": "project-laundry/laundry-platform-app",
+    "stars": 0,
+    "pushedAt": "2026-08-31T19:30:19Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 30,
+    "cachedAt": "2026-08-31T20:13:52.507Z"
+  },
+  "aboveaveragerob/TheBoards": {
+    "fullName": "aboveaveragerob/TheBoards",
+    "stars": 0,
+    "pushedAt": "2026-08-31T19:32:30Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 2,
+    "cachedAt": "2026-08-31T20:13:52.755Z"
+  },
+  "BreakableHoodie/settimesdotca": {
+    "fullName": "BreakableHoodie/settimesdotca",
+    "stars": 3,
+    "pushedAt": "2026-08-31T19:28:30Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 12,
+    "cachedAt": "2026-08-31T20:13:52.996Z"
+  },
+  "flosrn/ax": {
+    "fullName": "flosrn/ax",
+    "stars": 0,
+    "pushedAt": "2026-08-31T16:30:28Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 6,
+    "cachedAt": "2026-08-31T20:13:53.246Z"
+  },
+  "beinsiculous/insiculous_web": {
+    "fullName": "beinsiculous/insiculous_web",
+    "stars": 0,
+    "pushedAt": "2026-08-31T18:51:47Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 12,
+    "cachedAt": "2026-08-31T20:13:53.492Z"
   }
 }

@@ -1,5 +1,658 @@
 [
   {
+    "key": "shadcn-labs/editorcn#21",
+    "tier": 1,
+    "repo": "shadcn-labs/editorcn",
+    "number": 21,
+    "title": "Fix the code snippet css in landing page",
+    "url": "https://github.com/shadcn-labs/editorcn/issues/21",
+    "comments": 0,
+    "createdAt": "2026-08-31T19:10:11Z",
+    "labels": [
+      "enhancement",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 209,
+    "foundAt": "2026-08-31T20:13:46.440Z"
+  },
+  {
+    "key": "shadcn-labs/editorcn#20",
+    "tier": 1,
+    "repo": "shadcn-labs/editorcn",
+    "number": 20,
+    "title": "Fix the code block syntax highlighting colour in toolbar editor",
+    "url": "https://github.com/shadcn-labs/editorcn/issues/20",
+    "comments": 0,
+    "createdAt": "2026-08-31T19:01:42Z",
+    "labels": [
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 209,
+    "foundAt": "2026-08-31T20:13:46.440Z"
+  },
+  {
+    "key": "shadcn-labs/editorcn#19",
+    "tier": 1,
+    "repo": "shadcn-labs/editorcn",
+    "number": 19,
+    "title": "Fix the Text selection colour on web app",
+    "url": "https://github.com/shadcn-labs/editorcn/issues/19",
+    "comments": 0,
+    "createdAt": "2026-08-31T18:54:51Z",
+    "labels": [
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 209,
+    "foundAt": "2026-08-31T20:13:46.440Z"
+  },
+  {
+    "key": "jaegertracing/jaeger-ui#4415",
+    "tier": 1,
+    "repo": "jaegertracing/jaeger-ui",
+    "number": 4415,
+    "title": "[chore]: Do not switch to GenAI span view if there are no recognized attributes",
+    "url": "https://github.com/jaegertracing/jaeger-ui/issues/4415",
+    "comments": 0,
+    "createdAt": "2026-08-31T18:37:31Z",
+    "labels": [
+      "help wanted",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 1524,
+    "foundAt": "2026-08-31T20:13:46.975Z"
+  },
+  {
+    "key": "reticlehq/reticle#702",
+    "tier": 1,
+    "repo": "reticlehq/reticle",
+    "number": 702,
+    "title": "act_sequence steps reject `target` and the error blames a stale ref",
+    "url": "https://github.com/reticlehq/reticle/issues/702",
+    "comments": 1,
+    "createdAt": "2026-08-31T18:33:35Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "agent-reported"
+    ],
+    "language": "typescript",
+    "stars": 367,
+    "foundAt": "2026-08-31T20:13:46.975Z"
+  },
+  {
+    "key": "reticlehq/reticle#701",
+    "tier": 1,
+    "repo": "reticlehq/reticle",
+    "number": 701,
+    "title": "A browser session is reported as an Electron renderer with unobserved IPC coverage",
+    "url": "https://github.com/reticlehq/reticle/issues/701",
+    "comments": 0,
+    "createdAt": "2026-08-31T18:33:33Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "agent-reported"
+    ],
+    "language": "typescript",
+    "stars": 367,
+    "foundAt": "2026-08-31T20:13:46.975Z"
+  },
+  {
+    "key": "reticlehq/reticle#700",
+    "tier": 1,
+    "repo": "reticlehq/reticle",
+    "number": 700,
+    "title": "The no-store-registered gap fires on apps whose store is registered and readable",
+    "url": "https://github.com/reticlehq/reticle/issues/700",
+    "comments": 0,
+    "createdAt": "2026-08-31T18:33:31Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "agent-reported",
+      "v2.13.0"
+    ],
+    "language": "typescript",
+    "stars": 367,
+    "foundAt": "2026-08-31T20:13:46.975Z"
+  },
+  {
+    "key": "reticlehq/reticle#698",
+    "tier": 1,
+    "repo": "reticlehq/reticle",
+    "number": 698,
+    "title": "flow_save's flowName is the recording's name, not the name to save as",
+    "url": "https://github.com/reticlehq/reticle/issues/698",
+    "comments": 0,
+    "createdAt": "2026-08-31T18:33:27Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "agent-reported"
+    ],
+    "language": "typescript",
+    "stars": 367,
+    "foundAt": "2026-08-31T20:13:46.975Z"
+  },
+  {
+    "key": "reticlehq/reticle#687",
+    "tier": 1,
+    "repo": "reticlehq/reticle",
+    "number": 687,
+    "title": "`serve --http-port` is accepted and ignored",
+    "url": "https://github.com/reticlehq/reticle/issues/687",
+    "comments": 0,
+    "createdAt": "2026-08-31T18:32:55Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "agent-reported"
+    ],
+    "language": "typescript",
+    "stars": 367,
+    "foundAt": "2026-08-31T20:13:46.975Z"
+  },
+  {
+    "key": "reticlehq/reticle#686",
+    "tier": 1,
+    "repo": "reticlehq/reticle",
+    "number": 686,
+    "title": "doctor and status disagree about whether the daemon is running",
+    "url": "https://github.com/reticlehq/reticle/issues/686",
+    "comments": 0,
+    "createdAt": "2026-08-31T18:32:53Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "agent-reported"
+    ],
+    "language": "typescript",
+    "stars": 367,
+    "foundAt": "2026-08-31T20:13:46.976Z"
+  },
+  {
+    "key": "reticlehq/reticle#684",
+    "tier": 1,
+    "repo": "reticlehq/reticle",
+    "number": 684,
+    "title": "The generated connect module is emitted unformatted, so a clean install fails the project's own lint",
+    "url": "https://github.com/reticlehq/reticle/issues/684",
+    "comments": 0,
+    "createdAt": "2026-08-31T18:32:40Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "agent-reported"
+    ],
+    "language": "typescript",
+    "stars": 367,
+    "foundAt": "2026-08-31T20:13:46.976Z"
+  },
+  {
+    "key": "reticlehq/reticle#682",
+    "tier": 1,
+    "repo": "reticlehq/reticle",
+    "number": 682,
+    "title": "init discovery misses nested app directories and a single app under a repo root",
+    "url": "https://github.com/reticlehq/reticle/issues/682",
+    "comments": 0,
+    "createdAt": "2026-08-31T18:32:36Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "agent-reported"
+    ],
+    "language": "typescript",
+    "stars": 367,
+    "foundAt": "2026-08-31T20:13:46.976Z"
+  },
+  {
+    "key": "reticlehq/reticle#681",
+    "tier": 1,
+    "repo": "reticlehq/reticle",
+    "number": 681,
+    "title": "The Codex MCP detector does not read an existing [mcp_servers.reticle] table, so a wired machine gets a warning it must not act on",
+    "url": "https://github.com/reticlehq/reticle/issues/681",
+    "comments": 0,
+    "createdAt": "2026-08-31T18:32:34Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "agent-reported"
+    ],
+    "language": "typescript",
+    "stars": 367,
+    "foundAt": "2026-08-31T20:13:46.976Z"
+  },
+  {
+    "key": "reticlehq/reticle#677",
+    "tier": 1,
+    "repo": "reticlehq/reticle",
+    "number": 677,
+    "title": "Astro init breaks `astro check`: the injected defines are never declared",
+    "url": "https://github.com/reticlehq/reticle/issues/677",
+    "comments": 0,
+    "createdAt": "2026-08-31T18:32:26Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "agent-reported"
+    ],
+    "language": "typescript",
+    "stars": 367,
+    "foundAt": "2026-08-31T20:13:46.976Z"
+  },
+  {
+    "key": "reticlehq/reticle#676",
+    "tier": 1,
+    "repo": "reticlehq/reticle",
+    "number": 676,
+    "title": "The vite plugin injects the connect script at the server root and ignores Vite's `base`",
+    "url": "https://github.com/reticlehq/reticle/issues/676",
+    "comments": 0,
+    "createdAt": "2026-08-31T18:32:24Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "agent-reported",
+      "v2.13.0"
+    ],
+    "language": "typescript",
+    "stars": 367,
+    "foundAt": "2026-08-31T20:13:46.976Z"
+  },
+  {
+    "key": "reticlehq/reticle#675",
+    "tier": 1,
+    "repo": "reticlehq/reticle",
+    "number": 675,
+    "title": "init writes a TypeScript connect module into a JavaScript CRA app, and the first compile fails",
+    "url": "https://github.com/reticlehq/reticle/issues/675",
+    "comments": 0,
+    "createdAt": "2026-08-31T18:32:22Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "agent-reported",
+      "v2.13.0"
+    ],
+    "language": "typescript",
+    "stars": 367,
+    "foundAt": "2026-08-31T20:13:46.976Z"
+  },
+  {
+    "key": "clusterio/clusterio#985",
+    "tier": 1,
+    "repo": "clusterio/clusterio",
+    "number": 985,
+    "title": "Add missing config options to configuration.md",
+    "url": "https://github.com/clusterio/clusterio/issues/985",
+    "comments": 0,
+    "createdAt": "2026-08-31T18:09:36Z",
+    "labels": [
+      "Impact: 4-Internal",
+      "Good First Issue",
+      "Scope: Core",
+      "Scope: Plugin"
+    ],
+    "language": "typescript",
+    "stars": 379,
+    "foundAt": "2026-08-31T20:13:47.431Z"
+  },
+  {
+    "key": "data-engineering-community/data-engineering-wiki#172",
+    "tier": 1,
+    "repo": "data-engineering-community/data-engineering-wiki",
+    "number": 172,
+    "title": "Link Checker Report",
+    "url": "https://github.com/data-engineering-community/data-engineering-wiki/issues/172",
+    "comments": 0,
+    "createdAt": "2026-08-31T16:42:12Z",
+    "labels": [
+      "good first issue",
+      "report",
+      "automated issue"
+    ],
+    "language": "css",
+    "stars": 2020,
+    "foundAt": "2026-08-31T20:13:49.137Z"
+  },
+  {
+    "key": "datacontract/datacontract-cli#1553",
+    "tier": 1,
+    "repo": "datacontract/datacontract-cli",
+    "number": 1553,
+    "title": "[feature request, Kafka test] Add custom group.id prefix to Kafka env variables",
+    "url": "https://github.com/datacontract/datacontract-cli/issues/1553",
+    "comments": 2,
+    "createdAt": "2026-08-31T13:02:35Z",
+    "labels": [
+      "enhancement",
+      "good first issue"
+    ],
+    "language": "javascript",
+    "stars": 1051,
+    "foundAt": "2026-08-31T20:13:49.137Z"
+  },
+  {
+    "key": "meshery/meshery.io#2928",
+    "tier": 2,
+    "repo": "meshery/meshery.io",
+    "number": 2928,
+    "title": "[UI]: Add a page title and fix content alignment on the Community Leaderboard",
+    "url": "https://github.com/meshery/meshery.io/issues/2928",
+    "comments": 0,
+    "createdAt": "2026-08-31T19:48:31Z",
+    "labels": [
+      "help wanted",
+      "language/javascript",
+      "framework/jekyll",
+      "language/markdown",
+      "area/website",
+      "language/css"
+    ],
+    "language": "javascript",
+    "stars": 827,
+    "foundAt": "2026-08-31T20:13:49.853Z"
+  },
+  {
+    "key": "shadcn-labs/editorcn#23",
+    "tier": 2,
+    "repo": "shadcn-labs/editorcn",
+    "number": 23,
+    "title": "Ai integration in block editor",
+    "url": "https://github.com/shadcn-labs/editorcn/issues/23",
+    "comments": 0,
+    "createdAt": "2026-08-31T19:28:28Z",
+    "labels": [
+      "enhancement",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 209,
+    "foundAt": "2026-08-31T20:13:49.853Z"
+  },
+  {
+    "key": "shadcn-labs/editorcn#22",
+    "tier": 2,
+    "repo": "shadcn-labs/editorcn",
+    "number": 22,
+    "title": "Templates",
+    "url": "https://github.com/shadcn-labs/editorcn/issues/22",
+    "comments": 0,
+    "createdAt": "2026-08-31T19:16:47Z",
+    "labels": [
+      "enhancement",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 209,
+    "foundAt": "2026-08-31T20:13:49.853Z"
+  },
+  {
+    "key": "reticlehq/reticle#704",
+    "tier": 2,
+    "repo": "reticlehq/reticle",
+    "number": 704,
+    "title": "A same-page hash anchor is graded route-rendered-nothing",
+    "url": "https://github.com/reticlehq/reticle/issues/704",
+    "comments": 0,
+    "createdAt": "2026-08-31T18:33:39Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "agent-reported"
+    ],
+    "language": "typescript",
+    "stars": 367,
+    "foundAt": "2026-08-31T20:13:49.853Z"
+  },
+  {
+    "key": "reticlehq/reticle#703",
+    "tier": 2,
+    "repo": "reticlehq/reticle",
+    "number": 703,
+    "title": "hover reports dispatched and settled while CSS :hover never applies",
+    "url": "https://github.com/reticlehq/reticle/issues/703",
+    "comments": 0,
+    "createdAt": "2026-08-31T18:33:37Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "agent-reported"
+    ],
+    "language": "typescript",
+    "stars": 367,
+    "foundAt": "2026-08-31T20:13:49.853Z"
+  },
+  {
+    "key": "reticlehq/reticle#699",
+    "tier": 2,
+    "repo": "reticlehq/reticle",
+    "number": 699,
+    "title": "Replay does not navigate to startPath, and record never persists one",
+    "url": "https://github.com/reticlehq/reticle/issues/699",
+    "comments": 0,
+    "createdAt": "2026-08-31T18:33:29Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "agent-reported"
+    ],
+    "language": "typescript",
+    "stars": 367,
+    "foundAt": "2026-08-31T20:13:49.853Z"
+  },
+  {
+    "key": "reticlehq/reticle#697",
+    "tier": 2,
+    "repo": "reticlehq/reticle",
+    "number": 697,
+    "title": "Flow replay silently skips a second destructive step and reports it as testid drift",
+    "url": "https://github.com/reticlehq/reticle/issues/697",
+    "comments": 0,
+    "createdAt": "2026-08-31T18:33:25Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "agent-reported"
+    ],
+    "language": "typescript",
+    "stars": 367,
+    "foundAt": "2026-08-31T20:13:49.853Z"
+  },
+  {
+    "key": "reticlehq/reticle#696",
+    "tier": 2,
+    "repo": "reticlehq/reticle",
+    "number": 696,
+    "title": "A flow step's expect accepts one predicate kind, so the saved artifact is strictly weaker than the drive that made it",
+    "url": "https://github.com/reticlehq/reticle/issues/696",
+    "comments": 0,
+    "createdAt": "2026-08-31T18:33:23Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "agent-reported"
+    ],
+    "language": "typescript",
+    "stars": 367,
+    "foundAt": "2026-08-31T20:13:49.853Z"
+  },
+  {
+    "key": "reticlehq/reticle#694",
+    "tier": 2,
+    "repo": "reticlehq/reticle",
+    "number": 694,
+    "title": "act_sequence ignores an explicit sessionId and blames the ref",
+    "url": "https://github.com/reticlehq/reticle/issues/694",
+    "comments": 0,
+    "createdAt": "2026-08-31T18:33:10Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "agent-reported"
+    ],
+    "language": "typescript",
+    "stars": 367,
+    "foundAt": "2026-08-31T20:13:49.853Z"
+  },
+  {
+    "key": "reticlehq/reticle#693",
+    "tier": 2,
+    "repo": "reticlehq/reticle",
+    "number": 693,
+    "title": "reticle_network_mock returns no-cdp-provider on the leased session the docs point at",
+    "url": "https://github.com/reticlehq/reticle/issues/693",
+    "comments": 0,
+    "createdAt": "2026-08-31T18:33:07Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "agent-reported"
+    ],
+    "language": "typescript",
+    "stars": 367,
+    "foundAt": "2026-08-31T20:13:49.853Z"
+  },
+  {
+    "key": "reticlehq/reticle#692",
+    "tier": 2,
+    "repo": "reticlehq/reticle",
+    "number": 692,
+    "title": "A lease reports ready for a tab that never authenticated, and hands back a sessionId other tools reject",
+    "url": "https://github.com/reticlehq/reticle/issues/692",
+    "comments": 1,
+    "createdAt": "2026-08-31T18:33:05Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "agent-reported"
+    ],
+    "language": "typescript",
+    "stars": 367,
+    "foundAt": "2026-08-31T20:13:49.853Z"
+  },
+  {
+    "key": "reticlehq/reticle#691",
+    "tier": 2,
+    "repo": "reticlehq/reticle",
+    "number": 691,
+    "title": "Lease Chromium failures all report the same wrong cause, and there is no fallback",
+    "url": "https://github.com/reticlehq/reticle/issues/691",
+    "comments": 0,
+    "createdAt": "2026-08-31T18:33:03Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "agent-reported"
+    ],
+    "language": "typescript",
+    "stars": 367,
+    "foundAt": "2026-08-31T20:13:49.853Z"
+  },
+  {
+    "key": "reticlehq/reticle#690",
+    "tier": 2,
+    "repo": "reticlehq/reticle",
+    "number": 690,
+    "title": "Document and support the HTTP/SSE transport a user had to reverse-engineer",
+    "url": "https://github.com/reticlehq/reticle/issues/690",
+    "comments": 0,
+    "createdAt": "2026-08-31T18:33:01Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "agent-reported"
+    ],
+    "language": "typescript",
+    "stars": 367,
+    "foundAt": "2026-08-31T20:13:49.853Z"
+  },
+  {
+    "key": "ch-bas/cctv-camera-database#336",
+    "tier": 2,
+    "repo": "ch-bas/cctv-camera-database",
+    "number": 336,
+    "title": "🔗 Dead/unreachable source URLs (automated weekly check)",
+    "url": "https://github.com/ch-bas/cctv-camera-database/issues/336",
+    "comments": 0,
+    "createdAt": "2026-08-31T15:09:46Z",
+    "labels": [
+      "help wanted"
+    ],
+    "language": "javascript",
+    "stars": 240,
+    "foundAt": "2026-08-31T20:13:50.513Z"
+  },
+  {
+    "key": "ch-bas/cctv-camera-database#339",
+    "tier": 3,
+    "repo": "ch-bas/cctv-camera-database",
+    "number": 339,
+    "title": "feat(schema): add cloud_required (cloud dependency) field",
+    "url": "https://github.com/ch-bas/cctv-camera-database/issues/339",
+    "comments": 0,
+    "createdAt": "2026-08-31T19:34:00Z",
+    "labels": [
+      "documentation",
+      "enhancement"
+    ],
+    "language": "javascript",
+    "stars": 240,
+    "foundAt": "2026-08-31T20:13:52.755Z"
+  },
+  {
+    "key": "ch-bas/cctv-camera-database#338",
+    "tier": 3,
+    "repo": "ch-bas/cctv-camera-database",
+    "number": 338,
+    "title": "feat(web): Compare page v2 — scoring, shareable pair URLs, add-from-grid",
+    "url": "https://github.com/ch-bas/cctv-camera-database/issues/338",
+    "comments": 0,
+    "createdAt": "2026-08-31T19:33:59Z",
+    "labels": [
+      "documentation",
+      "enhancement"
+    ],
+    "language": "javascript",
+    "stars": 240,
+    "foundAt": "2026-08-31T20:13:52.755Z"
+  },
+  {
+    "key": "shopware/frontends#2678",
+    "tier": 3,
+    "repo": "shopware/frontends",
+    "number": 2678,
+    "title": "Prune AGENTS.md files and add a CI staleness check",
+    "url": "https://github.com/shopware/frontends/issues/2678",
+    "comments": 0,
+    "createdAt": "2026-08-31T19:20:15Z",
+    "labels": [
+      "documentation",
+      "github_actions"
+    ],
+    "language": "typescript",
+    "stars": 227,
+    "foundAt": "2026-08-31T20:13:51.492Z"
+  },
+  {
     "key": "AprilSylph/XKit-Rewritten#2365",
     "tier": 2,
     "repo": "AprilSylph/XKit-Rewritten",
@@ -1143,655 +1796,5 @@
     "language": "typescript",
     "stars": 10585,
     "foundAt": "2026-08-28T05:30:19.952Z"
-  },
-  {
-    "key": "corsairdev/corsair#1245",
-    "tier": 1,
-    "repo": "corsairdev/corsair",
-    "number": 1245,
-    "title": "docs(discord): add plugin-docs.yaml for familiar overview examples",
-    "url": "https://github.com/corsairdev/corsair/issues/1245",
-    "comments": 0,
-    "createdAt": "2026-08-28T00:53:54Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "status: available"
-    ],
-    "language": "typescript",
-    "stars": 10585,
-    "foundAt": "2026-08-28T05:30:19.952Z"
-  },
-  {
-    "key": "corsairdev/corsair#1244",
-    "tier": 1,
-    "repo": "corsairdev/corsair",
-    "number": 1244,
-    "title": "docs(stripe): add plugin-docs.yaml for familiar overview examples",
-    "url": "https://github.com/corsairdev/corsair/issues/1244",
-    "comments": 0,
-    "createdAt": "2026-08-28T00:53:40Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "status: available"
-    ],
-    "language": "typescript",
-    "stars": 10585,
-    "foundAt": "2026-08-28T05:30:19.952Z"
-  },
-  {
-    "key": "corsairdev/corsair#1243",
-    "tier": 1,
-    "repo": "corsairdev/corsair",
-    "number": 1243,
-    "title": "docs(hubspot): add plugin-docs.yaml for familiar overview examples",
-    "url": "https://github.com/corsairdev/corsair/issues/1243",
-    "comments": 0,
-    "createdAt": "2026-08-28T00:53:20Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "status: available"
-    ],
-    "language": "typescript",
-    "stars": 10585,
-    "foundAt": "2026-08-28T05:30:19.952Z"
-  },
-  {
-    "key": "corsairdev/corsair#1241",
-    "tier": 1,
-    "repo": "corsairdev/corsair",
-    "number": 1241,
-    "title": "docs(googlecalendar): add plugin-docs.yaml for familiar overview examples",
-    "url": "https://github.com/corsairdev/corsair/issues/1241",
-    "comments": 0,
-    "createdAt": "2026-08-28T00:52:39Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "status: available"
-    ],
-    "language": "typescript",
-    "stars": 10585,
-    "foundAt": "2026-08-28T05:30:19.952Z"
-  },
-  {
-    "key": "corsairdev/corsair#1240",
-    "tier": 1,
-    "repo": "corsairdev/corsair",
-    "number": 1240,
-    "title": "docs(github): add plugin-docs.yaml for familiar overview examples",
-    "url": "https://github.com/corsairdev/corsair/issues/1240",
-    "comments": 0,
-    "createdAt": "2026-08-28T00:52:20Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "status: available"
-    ],
-    "language": "typescript",
-    "stars": 10585,
-    "foundAt": "2026-08-28T05:30:19.952Z"
-  },
-  {
-    "key": "Mintplex-Labs/anything-llm#6203",
-    "tier": 1,
-    "repo": "Mintplex-Labs/anything-llm",
-    "number": 6203,
-    "title": "Add Perplexity integration attribution headers",
-    "url": "https://github.com/Mintplex-Labs/anything-llm/issues/6203",
-    "comments": 3,
-    "createdAt": "2026-08-27T20:29:30Z",
-    "labels": [
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 65314,
-    "foundAt": "2026-08-28T05:30:21.386Z"
-  },
-  {
-    "key": "liliu-z/stashbase#204",
-    "tier": 2,
-    "repo": "liliu-z/stashbase",
-    "number": 204,
-    "title": "feat(library): import public GitHub repositories",
-    "url": "https://github.com/liliu-z/stashbase/issues/204",
-    "comments": 0,
-    "createdAt": "2026-08-28T03:40:49Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "ready-for-agent",
-      "area: library"
-    ],
-    "language": "typescript",
-    "stars": 468,
-    "foundAt": "2026-08-28T05:30:22.201Z"
-  },
-  {
-    "key": "meshery/meshery.io#2914",
-    "tier": 2,
-    "repo": "meshery/meshery.io",
-    "number": 2914,
-    "title": "[Bug]: Hidden dropdown menu in filters",
-    "url": "https://github.com/meshery/meshery.io/issues/2914",
-    "comments": 0,
-    "createdAt": "2026-08-28T02:40:04Z",
-    "labels": [
-      "kind/bug",
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 827,
-    "foundAt": "2026-08-28T05:30:22.675Z"
-  },
-  {
-    "key": "zts212653/clowder-ai#1411",
-    "tier": 3,
-    "repo": "zts212653/clowder-ai",
-    "number": 1411,
-    "title": "F300: publish the Agent Self-Sensing and Self-Management contract",
-    "url": "https://github.com/zts212653/clowder-ai/issues/1411",
-    "comments": 1,
-    "createdAt": "2026-08-28T05:00:14Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "triaged",
-      "accepted",
-      "feature:F300"
-    ],
-    "language": "typescript",
-    "stars": 2796,
-    "foundAt": "2026-08-28T05:30:23.065Z"
-  },
-  {
-    "key": "CherryHQ/cherry-studio#19628",
-    "tier": 3,
-    "repo": "CherryHQ/cherry-studio",
-    "number": 19628,
-    "title": "[Feature]: docs example for PZERO OpenAI-compatible provider",
-    "url": "https://github.com/CherryHQ/cherry-studio/issues/19628",
-    "comments": 0,
-    "createdAt": "2026-08-28T04:59:22Z",
-    "labels": [
-      "docs"
-    ],
-    "language": "typescript",
-    "stars": 51067,
-    "foundAt": "2026-08-28T05:30:23.065Z"
-  },
-  {
-    "key": "Mintplex-Labs/anything-llm#6208",
-    "tier": 3,
-    "repo": "Mintplex-Labs/anything-llm",
-    "number": 6208,
-    "title": "[DOCS]: Cryptographic checksum or signature-verification seem unavailable for Linux Desktop App/AppImage",
-    "url": "https://github.com/Mintplex-Labs/anything-llm/issues/6208",
-    "comments": 0,
-    "createdAt": "2026-08-28T00:51:27Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "javascript",
-    "stars": 65314,
-    "foundAt": "2026-08-28T05:30:26.068Z"
-  },
-  {
-    "key": "medusajs/medusa#16636",
-    "tier": 1,
-    "repo": "medusajs/medusa",
-    "number": 16636,
-    "title": "updateOrderWorkflow: \"Country code cannot be changed\" when ADDING an address to an order that has none",
-    "url": "https://github.com/medusajs/medusa/issues/16636",
-    "comments": 1,
-    "createdAt": "2026-08-27T20:29:44Z",
-    "labels": [
-      "good first issue",
-      "type: bug"
-    ],
-    "language": "typescript",
-    "stars": 36015,
-    "foundAt": "2026-08-27T20:37:21.753Z"
-  },
-  {
-    "key": "activist-org/activist#2371",
-    "tier": 1,
-    "repo": "activist-org/activist",
-    "number": 2371,
-    "title": "Dependency Update Report - August 27, 2026 🤖⬆️",
-    "url": "https://github.com/activist-org/activist/issues/2371",
-    "comments": 1,
-    "createdAt": "2026-08-27T19:37:34Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "dependencies"
-    ],
-    "language": "typescript",
-    "stars": 739,
-    "foundAt": "2026-08-27T20:37:23.177Z"
-  },
-  {
-    "key": "prometheus/client_js#831",
-    "tier": 1,
-    "repo": "prometheus/client_js",
-    "number": 831,
-    "title": "The linters are unhappy with some of our TS declarations",
-    "url": "https://github.com/prometheus/client_js/issues/831",
-    "comments": 0,
-    "createdAt": "2026-08-27T19:11:07Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "documentation",
-      "typescript"
-    ],
-    "language": "javascript",
-    "stars": 3483,
-    "foundAt": "2026-08-27T20:37:25.662Z"
-  },
-  {
-    "key": "reticlehq/reticle#619",
-    "tier": 1,
-    "repo": "reticlehq/reticle",
-    "number": 619,
-    "title": "act-verdict-parity asserts against source text, so it passes on a call whose result is discarded",
-    "url": "https://github.com/reticlehq/reticle/issues/619",
-    "comments": 2,
-    "createdAt": "2026-08-27T19:04:13Z",
-    "labels": [
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-27T20:37:23.772Z"
-  },
-  {
-    "key": "reticlehq/reticle#606",
-    "tier": 1,
-    "repo": "reticlehq/reticle",
-    "number": 606,
-    "title": "[agent] the throttle recommendation does not mention that leasing empties the human's HUD",
-    "url": "https://github.com/reticlehq/reticle/issues/606",
-    "comments": 0,
-    "createdAt": "2026-08-27T18:37:52Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-27T20:37:25.059Z"
-  },
-  {
-    "key": "reticlehq/reticle#605",
-    "tier": 1,
-    "repo": "reticlehq/reticle",
-    "number": 605,
-    "title": "[agent] audit instructions reference reticle_crawl, which no longer exists",
-    "url": "https://github.com/reticlehq/reticle/issues/605",
-    "comments": 0,
-    "createdAt": "2026-08-27T18:37:50Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-27T20:37:25.059Z"
-  },
-  {
-    "key": "parthbuilds-community/FitMart#987",
-    "tier": 1,
-    "repo": "parthbuilds-community/FitMart",
-    "number": 987,
-    "title": "Program Seed Data Creation",
-    "url": "https://github.com/parthbuilds-community/FitMart/issues/987",
-    "comments": 0,
-    "createdAt": "2026-08-27T16:57:46Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "UI"
-    ],
-    "language": "javascript",
-    "stars": 354,
-    "foundAt": "2026-08-27T20:37:27.441Z"
-  },
-  {
-    "key": "reticlehq/reticle#618",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 618,
-    "title": "The version-skew remedy names a React package on Vue projects, and the daemon branch cannot converge when the daemon is newer",
-    "url": "https://github.com/reticlehq/reticle/issues/618",
-    "comments": 0,
-    "createdAt": "2026-08-27T18:41:40Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "agent-reported",
-      "v2.13.0"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-27T20:37:29.658Z"
-  },
-  {
-    "key": "reticlehq/reticle#617",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 617,
-    "title": "Project stack is still frequently unknown, which blocks every per-framework quality question",
-    "url": "https://github.com/reticlehq/reticle/issues/617",
-    "comments": 0,
-    "createdAt": "2026-08-27T18:41:18Z",
-    "labels": [
-      "enhancement",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-27T20:37:29.658Z"
-  },
-  {
-    "key": "reticlehq/reticle#616",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 616,
-    "title": "Decide: visual baselines and capability contracts have no adoption at all — delete them or invest in them",
-    "url": "https://github.com/reticlehq/reticle/issues/616",
-    "comments": 0,
-    "createdAt": "2026-08-27T18:41:16Z",
-    "labels": [
-      "help wanted",
-      "question"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-27T20:37:29.658Z"
-  },
-  {
-    "key": "reticlehq/reticle#615",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 615,
-    "title": "The no-session diagnosis computes a ranked reason and throws it away as prose, so the never-instrumented cohort has no cause",
-    "url": "https://github.com/reticlehq/reticle/issues/615",
-    "comments": 0,
-    "createdAt": "2026-08-27T18:41:14Z",
-    "labels": [
-      "enhancement",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-27T20:37:29.658Z"
-  },
-  {
-    "key": "reticlehq/reticle#614",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 614,
-    "title": "A truncated response body is graded as a hard failure instead of undecidable",
-    "url": "https://github.com/reticlehq/reticle/issues/614",
-    "comments": 0,
-    "createdAt": "2026-08-27T18:40:38Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "agent-reported",
-      "v2.13.0"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-27T20:37:29.658Z"
-  },
-  {
-    "key": "reticlehq/reticle#613",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 613,
-    "title": "Redaction rewrites the URL the grader matches against, so urlContains cannot match a public path",
-    "url": "https://github.com/reticlehq/reticle/issues/613",
-    "comments": 0,
-    "createdAt": "2026-08-27T18:40:35Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "agent-reported",
-      "v2.13.0"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-27T20:37:29.658Z"
-  },
-  {
-    "key": "reticlehq/reticle#612",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 612,
-    "title": "assert's timeout_ms is inert: the no-session error short-circuits before any waiting happens",
-    "url": "https://github.com/reticlehq/reticle/issues/612",
-    "comments": 0,
-    "createdAt": "2026-08-27T18:40:32Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "agent-reported",
-      "v2.13.0"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-27T20:37:29.658Z"
-  },
-  {
-    "key": "reticlehq/reticle#611",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 611,
-    "title": "The leaseExpired flag latches on a lifetime counter, so every closed human tab is blamed on an expired lease forever",
-    "url": "https://github.com/reticlehq/reticle/issues/611",
-    "comments": 0,
-    "createdAt": "2026-08-27T18:40:30Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "agent-reported",
-      "v2.13.0"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-27T20:37:29.658Z"
-  },
-  {
-    "key": "reticlehq/reticle#610",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 610,
-    "title": "Three install paths produce a page that can never authenticate, and none of them says so",
-    "url": "https://github.com/reticlehq/reticle/issues/610",
-    "comments": 0,
-    "createdAt": "2026-08-27T18:39:54Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "agent-reported",
-      "v2.13.0"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-27T20:37:29.658Z"
-  },
-  {
-    "key": "reticlehq/reticle#609",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 609,
-    "title": "No keep-alive agent on the MCP proxy's POST leg, so every tool call opens a fresh socket and ENOBUFS kills the call with no retry",
-    "url": "https://github.com/reticlehq/reticle/issues/609",
-    "comments": 0,
-    "createdAt": "2026-08-27T18:39:51Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "agent-reported",
-      "v2.13.0"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-27T20:37:29.658Z"
-  },
-  {
-    "key": "reticlehq/reticle#608",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 608,
-    "title": "Contradictions have no first-party/third-party axis, so an analytics beacon can overturn a verdict the caller proved",
-    "url": "https://github.com/reticlehq/reticle/issues/608",
-    "comments": 0,
-    "createdAt": "2026-08-27T18:39:17Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "agent-reported",
-      "v2.13.0"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-27T20:37:29.658Z"
-  },
-  {
-    "key": "reticlehq/reticle#607",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 607,
-    "title": "[agent] act_and_wait effect.appeared strings are not always usable as a text predicate",
-    "url": "https://github.com/reticlehq/reticle/issues/607",
-    "comments": 0,
-    "createdAt": "2026-08-27T18:37:54Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-27T20:37:29.658Z"
-  },
-  {
-    "key": "reticlehq/reticle#604",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 604,
-    "title": "[agent] reticle_sessions does not say a dev server is already listening",
-    "url": "https://github.com/reticlehq/reticle/issues/604",
-    "comments": 0,
-    "createdAt": "2026-08-27T18:37:29Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-27T20:37:29.658Z"
-  },
-  {
-    "key": "reticlehq/reticle#603",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 603,
-    "title": "[agent] recorded flows do not capture navigations, so a flow that backtracks cannot replay",
-    "url": "https://github.com/reticlehq/reticle/issues/603",
-    "comments": 0,
-    "createdAt": "2026-08-27T18:37:27Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-27T20:37:29.658Z"
-  },
-  {
-    "key": "reticlehq/reticle#602",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 602,
-    "title": "[agent] flow replay cannot express a wait, and races a fill that triggers an async re-render",
-    "url": "https://github.com/reticlehq/reticle/issues/602",
-    "comments": 0,
-    "createdAt": "2026-08-27T18:37:24Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-27T20:37:29.658Z"
-  },
-  {
-    "key": "reticlehq/reticle#601",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 601,
-    "title": "[agent] advertised timeout_ms exceeds what MCP clients will wait, with no bounded-wait alternative",
-    "url": "https://github.com/reticlehq/reticle/issues/601",
-    "comments": 0,
-    "createdAt": "2026-08-27T18:37:22Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-27T20:37:29.658Z"
-  },
-  {
-    "key": "reticlehq/reticle#600",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 600,
-    "title": "[agent] a second reticle_lease acquire on the same origin poisons default session resolution",
-    "url": "https://github.com/reticlehq/reticle/issues/600",
-    "comments": 0,
-    "createdAt": "2026-08-27T18:36:57Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-27T20:37:29.658Z"
-  },
-  {
-    "key": "reticlehq/reticle#599",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 599,
-    "title": "[agent] reticle_storage can read all three areas but cannot write one",
-    "url": "https://github.com/reticlehq/reticle/issues/599",
-    "comments": 0,
-    "createdAt": "2026-08-27T18:36:56Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-27T20:37:29.658Z"
   }
 ]

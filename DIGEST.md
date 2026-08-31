@@ -4,6 +4,42 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-08-31 | 🥇 | [Fix the code snippet css in landing page](https://github.com/shadcn-labs/editorcn/issues/21) | `shadcn-labs/editorcn` | ⭐ 209 |
+| 2026-08-31 | 🥇 | [Fix the code block syntax highlighting colour in toolbar editor](https://github.com/shadcn-labs/editorcn/issues/20) | `shadcn-labs/editorcn` | ⭐ 209 |
+| 2026-08-31 | 🥇 | [Fix the Text selection colour on web app](https://github.com/shadcn-labs/editorcn/issues/19) | `shadcn-labs/editorcn` | ⭐ 209 |
+| 2026-08-31 | 🥇 | [[chore]: Do not switch to GenAI span view if there are no recognized attributes](https://github.com/jaegertracing/jaeger-ui/issues/4415) | `jaegertracing/jaeger-ui` | ⭐ 1.5k |
+| 2026-08-31 | 🥇 | [act_sequence steps reject `target` and the error blames a stale ref](https://github.com/reticlehq/reticle/issues/702) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-31 | 🥇 | [A browser session is reported as an Electron renderer with unobserved IPC covera](https://github.com/reticlehq/reticle/issues/701) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-31 | 🥇 | [The no-store-registered gap fires on apps whose store is registered and readable](https://github.com/reticlehq/reticle/issues/700) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-31 | 🥇 | [flow_save's flowName is the recording's name, not the name to save as](https://github.com/reticlehq/reticle/issues/698) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-31 | 🥇 | [`serve --http-port` is accepted and ignored](https://github.com/reticlehq/reticle/issues/687) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-31 | 🥇 | [doctor and status disagree about whether the daemon is running](https://github.com/reticlehq/reticle/issues/686) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-31 | 🥇 | [The generated connect module is emitted unformatted, so a clean install fails th](https://github.com/reticlehq/reticle/issues/684) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-31 | 🥇 | [init discovery misses nested app directories and a single app under a repo root](https://github.com/reticlehq/reticle/issues/682) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-31 | 🥇 | [The Codex MCP detector does not read an existing [mcp_servers.reticle] table, so](https://github.com/reticlehq/reticle/issues/681) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-31 | 🥇 | [Astro init breaks `astro check`: the injected defines are never declared](https://github.com/reticlehq/reticle/issues/677) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-31 | 🥇 | [The vite plugin injects the connect script at the server root and ignores Vite's](https://github.com/reticlehq/reticle/issues/676) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-31 | 🥇 | [init writes a TypeScript connect module into a JavaScript CRA app, and the first](https://github.com/reticlehq/reticle/issues/675) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-31 | 🥇 | [Add missing config options to configuration.md](https://github.com/clusterio/clusterio/issues/985) | `clusterio/clusterio` | ⭐ 379 |
+| 2026-08-31 | 🥇 | [Link Checker Report](https://github.com/data-engineering-community/data-engineering-wiki/issues/172) | `data-engineering-community/data-engineering-wiki` | ⭐ 2.0k |
+| 2026-08-31 | 🥇 | [[feature request, Kafka test] Add custom group.id prefix to Kafka env variables](https://github.com/datacontract/datacontract-cli/issues/1553) | `datacontract/datacontract-cli` | ⭐ 1.1k |
+| 2026-08-31 | 🥈 | [[UI]: Add a page title and fix content alignment on the Community Leaderboard](https://github.com/meshery/meshery.io/issues/2928) | `meshery/meshery.io` | ⭐ 827 |
+| 2026-08-31 | 🥈 | [Ai integration in block editor](https://github.com/shadcn-labs/editorcn/issues/23) | `shadcn-labs/editorcn` | ⭐ 209 |
+| 2026-08-31 | 🥈 | [Templates](https://github.com/shadcn-labs/editorcn/issues/22) | `shadcn-labs/editorcn` | ⭐ 209 |
+| 2026-08-31 | 🥈 | [A same-page hash anchor is graded route-rendered-nothing](https://github.com/reticlehq/reticle/issues/704) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-31 | 🥈 | [hover reports dispatched and settled while CSS :hover never applies](https://github.com/reticlehq/reticle/issues/703) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-31 | 🥈 | [Replay does not navigate to startPath, and record never persists one](https://github.com/reticlehq/reticle/issues/699) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-31 | 🥈 | [Flow replay silently skips a second destructive step and reports it as testid dr](https://github.com/reticlehq/reticle/issues/697) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-31 | 🥈 | [A flow step's expect accepts one predicate kind, so the saved artifact is strict](https://github.com/reticlehq/reticle/issues/696) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-31 | 🥈 | [act_sequence ignores an explicit sessionId and blames the ref](https://github.com/reticlehq/reticle/issues/694) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-31 | 🥈 | [reticle_network_mock returns no-cdp-provider on the leased session the docs poin](https://github.com/reticlehq/reticle/issues/693) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-31 | 🥈 | [A lease reports ready for a tab that never authenticated, and hands back a sessi](https://github.com/reticlehq/reticle/issues/692) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-31 | 🥈 | [Lease Chromium failures all report the same wrong cause, and there is no fallbac](https://github.com/reticlehq/reticle/issues/691) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-31 | 🥈 | [Document and support the HTTP/SSE transport a user had to reverse-engineer](https://github.com/reticlehq/reticle/issues/690) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-08-31 | 🥈 | [🔗 Dead/unreachable source URLs (automated weekly check)](https://github.com/ch-bas/cctv-camera-database/issues/336) | `ch-bas/cctv-camera-database` | ⭐ 240 |
+| 2026-08-31 | 🥉 | [feat(schema): add cloud_required (cloud dependency) field](https://github.com/ch-bas/cctv-camera-database/issues/339) | `ch-bas/cctv-camera-database` | ⭐ 240 |
+| 2026-08-31 | 🥉 | [feat(web): Compare page v2 — scoring, shareable pair URLs, add-from-grid](https://github.com/ch-bas/cctv-camera-database/issues/338) | `ch-bas/cctv-camera-database` | ⭐ 240 |
+| 2026-08-31 | 🥉 | [Prune AGENTS.md files and add a CI staleness check](https://github.com/shopware/frontends/issues/2678) | `shopware/frontends` | ⭐ 227 |
 | 2026-08-31 | 🥈 | [AccessKit Disable GIFs: Pause animated avatars (if they launch)](https://github.com/AprilSylph/XKit-Rewritten/issues/2365) | `AprilSylph/XKit-Rewritten` | ⭐ 371 |
 | 2026-08-31 | 🥉 | [[Coquille documentation] image sur la page de l'infobulle](https://github.com/GouvernementFR/dsfr/issues/1506) | `GouvernementFR/dsfr` | ⭐ 389 |
 | 2026-08-31 | 🥉 | [Improve the accessibility of Table of Contents (ToC) management](https://github.com/dokieli/dokieli/issues/607) | `dokieli/dokieli` | ⭐ 893 |
@@ -68,39 +104,3 @@
 | 2026-08-28 | 🥇 | [docs(googlesheets): pin get-rows/append-row on the overview](https://github.com/corsairdev/corsair/issues/1252) | `corsairdev/corsair` | ⭐ 10.6k |
 | 2026-08-28 | 🥇 | [docs(googledrive): pin list/create on the overview](https://github.com/corsairdev/corsair/issues/1251) | `corsairdev/corsair` | ⭐ 10.6k |
 | 2026-08-28 | 🥇 | [docs(posthog): add plugin-docs.yaml for familiar overview examples](https://github.com/corsairdev/corsair/issues/1246) | `corsairdev/corsair` | ⭐ 10.6k |
-| 2026-08-28 | 🥇 | [docs(discord): add plugin-docs.yaml for familiar overview examples](https://github.com/corsairdev/corsair/issues/1245) | `corsairdev/corsair` | ⭐ 10.6k |
-| 2026-08-28 | 🥇 | [docs(stripe): add plugin-docs.yaml for familiar overview examples](https://github.com/corsairdev/corsair/issues/1244) | `corsairdev/corsair` | ⭐ 10.6k |
-| 2026-08-28 | 🥇 | [docs(hubspot): add plugin-docs.yaml for familiar overview examples](https://github.com/corsairdev/corsair/issues/1243) | `corsairdev/corsair` | ⭐ 10.6k |
-| 2026-08-28 | 🥇 | [docs(googlecalendar): add plugin-docs.yaml for familiar overview examples](https://github.com/corsairdev/corsair/issues/1241) | `corsairdev/corsair` | ⭐ 10.6k |
-| 2026-08-28 | 🥇 | [docs(github): add plugin-docs.yaml for familiar overview examples](https://github.com/corsairdev/corsair/issues/1240) | `corsairdev/corsair` | ⭐ 10.6k |
-| 2026-08-28 | 🥇 | [Add Perplexity integration attribution headers](https://github.com/Mintplex-Labs/anything-llm/issues/6203) | `Mintplex-Labs/anything-llm` | ⭐ 65.3k |
-| 2026-08-28 | 🥈 | [feat(library): import public GitHub repositories](https://github.com/liliu-z/stashbase/issues/204) | `liliu-z/stashbase` | ⭐ 468 |
-| 2026-08-28 | 🥈 | [[Bug]: Hidden dropdown menu in filters](https://github.com/meshery/meshery.io/issues/2914) | `meshery/meshery.io` | ⭐ 827 |
-| 2026-08-28 | 🥉 | [F300: publish the Agent Self-Sensing and Self-Management contract](https://github.com/zts212653/clowder-ai/issues/1411) | `zts212653/clowder-ai` | ⭐ 2.8k |
-| 2026-08-28 | 🥉 | [[Feature]: docs example for PZERO OpenAI-compatible provider](https://github.com/CherryHQ/cherry-studio/issues/19628) | `CherryHQ/cherry-studio` | ⭐ 51.1k |
-| 2026-08-28 | 🥉 | [[DOCS]: Cryptographic checksum or signature-verification seem unavailable for Li](https://github.com/Mintplex-Labs/anything-llm/issues/6208) | `Mintplex-Labs/anything-llm` | ⭐ 65.3k |
-| 2026-08-27 | 🥇 | [updateOrderWorkflow: "Country code cannot be changed" when ADDING an address to ](https://github.com/medusajs/medusa/issues/16636) | `medusajs/medusa` | ⭐ 36.0k |
-| 2026-08-27 | 🥇 | [Dependency Update Report - August 27, 2026 🤖⬆️](https://github.com/activist-org/activist/issues/2371) | `activist-org/activist` | ⭐ 739 |
-| 2026-08-27 | 🥇 | [The linters are unhappy with some of our TS declarations](https://github.com/prometheus/client_js/issues/831) | `prometheus/client_js` | ⭐ 3.5k |
-| 2026-08-27 | 🥇 | [act-verdict-parity asserts against source text, so it passes on a call whose res](https://github.com/reticlehq/reticle/issues/619) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-27 | 🥇 | [[agent] the throttle recommendation does not mention that leasing empties the hu](https://github.com/reticlehq/reticle/issues/606) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-27 | 🥇 | [[agent] audit instructions reference reticle_crawl, which no longer exists](https://github.com/reticlehq/reticle/issues/605) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-27 | 🥇 | [Program Seed Data Creation](https://github.com/parthbuilds-community/FitMart/issues/987) | `parthbuilds-community/FitMart` | ⭐ 354 |
-| 2026-08-27 | 🥈 | [The version-skew remedy names a React package on Vue projects, and the daemon br](https://github.com/reticlehq/reticle/issues/618) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-27 | 🥈 | [Project stack is still frequently unknown, which blocks every per-framework qual](https://github.com/reticlehq/reticle/issues/617) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-27 | 🥈 | [Decide: visual baselines and capability contracts have no adoption at all — dele](https://github.com/reticlehq/reticle/issues/616) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-27 | 🥈 | [The no-session diagnosis computes a ranked reason and throws it away as prose, s](https://github.com/reticlehq/reticle/issues/615) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-27 | 🥈 | [A truncated response body is graded as a hard failure instead of undecidable](https://github.com/reticlehq/reticle/issues/614) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-27 | 🥈 | [Redaction rewrites the URL the grader matches against, so urlContains cannot mat](https://github.com/reticlehq/reticle/issues/613) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-27 | 🥈 | [assert's timeout_ms is inert: the no-session error short-circuits before any wai](https://github.com/reticlehq/reticle/issues/612) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-27 | 🥈 | [The leaseExpired flag latches on a lifetime counter, so every closed human tab i](https://github.com/reticlehq/reticle/issues/611) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-27 | 🥈 | [Three install paths produce a page that can never authenticate, and none of them](https://github.com/reticlehq/reticle/issues/610) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-27 | 🥈 | [No keep-alive agent on the MCP proxy's POST leg, so every tool call opens a fres](https://github.com/reticlehq/reticle/issues/609) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-27 | 🥈 | [Contradictions have no first-party/third-party axis, so an analytics beacon can ](https://github.com/reticlehq/reticle/issues/608) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-27 | 🥈 | [[agent] act_and_wait effect.appeared strings are not always usable as a text pre](https://github.com/reticlehq/reticle/issues/607) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-27 | 🥈 | [[agent] reticle_sessions does not say a dev server is already listening](https://github.com/reticlehq/reticle/issues/604) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-27 | 🥈 | [[agent] recorded flows do not capture navigations, so a flow that backtracks can](https://github.com/reticlehq/reticle/issues/603) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-27 | 🥈 | [[agent] flow replay cannot express a wait, and races a fill that triggers an asy](https://github.com/reticlehq/reticle/issues/602) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-27 | 🥈 | [[agent] advertised timeout_ms exceeds what MCP clients will wait, with no bounde](https://github.com/reticlehq/reticle/issues/601) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-27 | 🥈 | [[agent] a second reticle_lease acquire on the same origin poisons default sessio](https://github.com/reticlehq/reticle/issues/600) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-27 | 🥈 | [[agent] reticle_storage can read all three areas but cannot write one](https://github.com/reticlehq/reticle/issues/599) | `reticlehq/reticle` | ⭐ 367 |
