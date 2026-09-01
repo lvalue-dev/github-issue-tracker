@@ -4,6 +4,8 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-01 | 🥇 | [(bug) Stepper displayed on question form dock when only one question exists](https://github.com/Agenta-AI/agenta/issues/6456) | `Agenta-AI/agenta` | ⭐ 4.7k |
+| 2026-09-01 | 🥈 | [执行方案：docs/应用层代码审查问题清单.md](https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues/70) | `Weiss-UltimateSavior/Tyranor-Next` | ⭐ 303 |
 | 2026-09-01 | 🥇 | [(bug) The chat error card cuts the provider error off at the card edge and offer](https://github.com/Agenta-AI/agenta/issues/6445) | `Agenta-AI/agenta` | ⭐ 4.7k |
 | 2026-09-01 | 🥇 | [(bug) The provider drawer lists 34 models for a key that OpenAI just rejected](https://github.com/Agenta-AI/agenta/issues/6443) | `Agenta-AI/agenta` | ⭐ 4.7k |
 | 2026-09-01 | 🥇 | [(bug) A scheme-less AGENTA_API_URL produces a malformed OTLP endpoint in the SDK](https://github.com/Agenta-AI/agenta/issues/6440) | `Agenta-AI/agenta` | ⭐ 4.7k |
@@ -102,5 +104,3 @@
 | 2026-08-30 | 🥈 | [[Feature] 支持一次生成多张候选图片 / Multiple Variations](https://github.com/shanliuling/dsh-image-gen/issues/17) | `shanliuling/dsh-image-gen` | ⭐ 279 |
 | 2026-08-30 | 🥈 | [[Feature] 画廊支持收藏图片 / Favorites](https://github.com/shanliuling/dsh-image-gen/issues/16) | `shanliuling/dsh-image-gen` | ⭐ 279 |
 | 2026-08-30 | 🥇 | [🐞Watch Later button throws error](https://github.com/code-charity/youtube/issues/4305) | `code-charity/youtube` | ⭐ 4.6k |
-| 2026-08-30 | 🥇 | [Rename the “stack” diff layout to “unified” across Hunk](https://github.com/modem-dev/hunk/issues/915) | `modem-dev/hunk` | ⭐ 8.9k |
-| 2026-08-30 | 🥈 | [[Help] cf部署完毕，邮箱后台怎么进入](https://github.com/maillab/cloud-mail/issues/553) | `maillab/cloud-mail` | ⭐ 13.7k |

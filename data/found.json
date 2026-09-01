@@ -1,5 +1,41 @@
 [
   {
+    "key": "Agenta-AI/agenta#6456",
+    "tier": 1,
+    "repo": "Agenta-AI/agenta",
+    "number": 6456,
+    "title": "(bug) Stepper displayed on question form dock when only one question exists",
+    "url": "https://github.com/Agenta-AI/agenta/issues/6456",
+    "comments": 1,
+    "createdAt": "2026-09-01T13:37:52Z",
+    "labels": [
+      "good first issue",
+      "frontend",
+      "ux bug"
+    ],
+    "language": "typescript",
+    "stars": 4665,
+    "foundAt": "2026-09-01T15:00:11.450Z"
+  },
+  {
+    "key": "Weiss-UltimateSavior/Tyranor-Next#70",
+    "tier": 2,
+    "repo": "Weiss-UltimateSavior/Tyranor-Next",
+    "number": 70,
+    "title": "执行方案：docs/应用层代码审查问题清单.md",
+    "url": "https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues/70",
+    "comments": 0,
+    "createdAt": "2026-09-01T14:30:35Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "urgent"
+    ],
+    "language": "javascript",
+    "stars": 303,
+    "foundAt": "2026-09-01T15:00:16.447Z"
+  },
+  {
     "key": "Agenta-AI/agenta#6445",
     "tier": 1,
     "repo": "Agenta-AI/agenta",
@@ -1896,37 +1932,5 @@
     "language": "javascript",
     "stars": 4555,
     "foundAt": "2026-08-30T06:52:13.167Z"
-  },
-  {
-    "key": "modem-dev/hunk#915",
-    "tier": 1,
-    "repo": "modem-dev/hunk",
-    "number": 915,
-    "title": "Rename the “stack” diff layout to “unified” across Hunk",
-    "url": "https://github.com/modem-dev/hunk/issues/915",
-    "comments": 0,
-    "createdAt": "2026-08-30T02:13:22Z",
-    "labels": [
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 8915,
-    "foundAt": "2026-08-30T06:52:12.274Z"
-  },
-  {
-    "key": "maillab/cloud-mail#553",
-    "tier": 2,
-    "repo": "maillab/cloud-mail",
-    "number": 553,
-    "title": "[Help] cf部署完毕，邮箱后台怎么进入",
-    "url": "https://github.com/maillab/cloud-mail/issues/553",
-    "comments": 0,
-    "createdAt": "2026-08-30T03:53:39Z",
-    "labels": [
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 13724,
-    "foundAt": "2026-08-30T06:52:14.925Z"
   }
 ]
