@@ -4,6 +4,44 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-01 | 🥇 | [Disallow vertical scrolling on tab bar in MacOS app](https://github.com/kgoedecke/doop/issues/84) | `kgoedecke/doop` | ⭐ 542 |
+| 2026-09-01 | 🥇 | [Add ability to reply to comments](https://github.com/kgoedecke/doop/issues/83) | `kgoedecke/doop` | ⭐ 542 |
+| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Medium Issue 1 (JavaScript)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8115) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
+| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Medium Issue 2 (JavaScript)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8114) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
+| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Spring Boot)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8113) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
+| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Medium Issue (Docker)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8112) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
+| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Medium Issue (Solid.js)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8109) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
+| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Solid.js)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8108) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
+| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (JSON)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8107) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
+| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue 3 (PHP)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8106) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
+| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue 1 (PHP)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8105) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
+| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue 2 (PHP)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8104) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
+| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Next.js)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8103) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
+| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (React.js)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8102) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
+| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue 3 (Dart)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8101) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
+| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue 2 (Dart)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8100) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
+| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue 3 (HTML)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8099) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
+| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue 2 (HTML)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8098) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
+| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue 1 (HTML)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8097) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
+| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (TypeScript/Vitest)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8096) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
+| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue 1 (Dart)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8095) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
+| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (C#)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8094) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
+| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Medium Issue (HTML)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8093) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
+| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Bash)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8092) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
+| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Medium Issue 2 (React.js)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8091) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
+| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Medium Issue 1 (React.js)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8090) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
+| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Markdown)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8089) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
+| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Medium Issue (Python)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8088) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
+| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Hard Issue (JavaScript/Jest)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8087) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
+| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Rust)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8086) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
+| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue 3 (Python)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8085) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
+| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Tailwind CSS)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8084) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
+| 2026-09-01 | 🥇 | [Fix broken Markdown link: https://en.wikipedia.org/wiki/Anglit_distribution](https://github.com/stdlib-js/stdlib/issues/14863) | `stdlib-js/stdlib` | ⭐ 5.9k |
+| 2026-09-01 | 🥈 | [Fork, Commit, Merge - Medium Issue (Java)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8083) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
+| 2026-09-01 | 🥈 | [Fork, Commit, Merge - Easy Issue (Java)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8082) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
+| 2026-09-01 | 🥈 | [Fork, Commit, Merge - Easy Issue (ReScript)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8081) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
+| 2026-09-01 | 🥈 | [Improve sidebar item spacing](https://github.com/AprilSylph/XKit-Rewritten/issues/2368) | `AprilSylph/XKit-Rewritten` | ⭐ 371 |
+| 2026-09-01 | 🥉 | [Docs: go get of prebuilt aws-go provider fails with "module source tree too larg](https://github.com/open-constructs/cdk-terrain/issues/387) | `open-constructs/cdk-terrain` | ⭐ 257 |
 | 2026-08-31 | 🥇 | [[chore]: Contextual controls in span row in trace timeline view](https://github.com/jaegertracing/jaeger-ui/issues/4418) | `jaegertracing/jaeger-ui` | ⭐ 1.5k |
 | 2026-08-31 | 🥈 | [Style Manager: the CSS variables plugin keeps its own list of Silex properties](https://github.com/silexlabs/Silex/issues/1846) | `silexlabs/Silex` | ⭐ 2.9k |
 | 2026-08-31 | 🥉 | [docs: link comparison table rows to their docs pages in README](https://github.com/OWASP/cve-lite-cli/issues/1063) | `OWASP/cve-lite-cli` | ⭐ 681 |
@@ -66,41 +104,3 @@
 | 2026-08-30 | 🥇 | [[Feature] 为工作区命令增加 /ws、/wsl 和 /workspaces 别名](https://github.com/xmanrui/dsh-im/issues/88) | `xmanrui/dsh-im` | ⭐ 977 |
 | 2026-08-30 | 🥇 | [[Feature] 支持使用 /workspacelist 序号切换工作区](https://github.com/xmanrui/dsh-im/issues/87) | `xmanrui/dsh-im` | ⭐ 977 |
 | 2026-08-30 | 🥈 | [[Enhancement] Telegram / 命令菜单自动同步新增命令](https://github.com/xmanrui/dsh-im/issues/89) | `xmanrui/dsh-im` | ⭐ 977 |
-| 2026-08-30 | 🥉 | [Say that the usage statusline is Claude Code only](https://github.com/openwong2kim/wmux/issues/1106) | `openwong2kim/wmux` | ⭐ 359 |
-| 2026-08-30 | 🥉 | [ComboboxPopover discards a caller's tree snapshot key, so tags stay inert](https://github.com/ariakit/ariakit/issues/7330) | `ariakit/ariakit` | ⭐ 8.6k |
-| 2026-08-29 | 🥇 | [Reject malformed key chords containing empty segments](https://github.com/modem-dev/hunk/issues/906) | `modem-dev/hunk` | ⭐ 8.9k |
-| 2026-08-29 | 🥇 | [weightedArrayElement does not mention the possibility to throw in it's docs](https://github.com/faker-js/faker/issues/4015) | `faker-js/faker` | ⭐ 15.5k |
-| 2026-08-29 | 🥈 | [🚨 The tray icon does not work on Linux Mint](https://github.com/super-productivity/super-productivity/issues/9812) | `super-productivity/super-productivity` | ⭐ 21.7k |
-| 2026-08-29 | 🥈 | [[🐛 Bug]: Absolute plugin paths containing URL-reserved characters fail to load](https://github.com/webdriverio/webdriverio/issues/15543) | `webdriverio/webdriverio` | ⭐ 9.8k |
-| 2026-08-29 | 🥉 | [docs: Linux rows in the platform-differences table predate the native capture he](https://github.com/getopenscreen/openscreen/issues/535) | `getopenscreen/openscreen` | ⭐ 2.2k |
-| 2026-08-29 | 🥇 | [Toggle snap to grid with a key](https://github.com/xevrion/breakscale/issues/28) | `xevrion/breakscale` | ⭐ 217 |
-| 2026-08-29 | 🥇 | [Re-adding an existing node duplicates it in the TreeStore hierarchy](https://github.com/neomjs/neo/issues/17855) | `neomjs/neo` | ⭐ 3.3k |
-| 2026-08-29 | 🥈 | [Truncated legacy (pre-v14) backup import fails with an opaque TypeError instead ](https://github.com/super-productivity/super-productivity/issues/9810) | `super-productivity/super-productivity` | ⭐ 21.7k |
-| 2026-08-29 | 🥉 | [Document that the dmabuf import path bypasses the vaMapBuffer2 guard](https://github.com/getopenscreen/openscreen/issues/534) | `getopenscreen/openscreen` | ⭐ 2.2k |
-| 2026-08-29 | 🥇 | [Graph view / improved view of categories](https://github.com/Smaug6739/Alexandrie/issues/740) | `Smaug6739/Alexandrie` | ⭐ 2.4k |
-| 2026-08-29 | 🥇 | [Fix: Datatable select page count display the wrong default value](https://github.com/Smaug6739/Alexandrie/issues/739) | `Smaug6739/Alexandrie` | ⭐ 2.4k |
-| 2026-08-29 | 🥇 | [Fix Kannban assign modal display](https://github.com/Smaug6739/Alexandrie/issues/738) | `Smaug6739/Alexandrie` | ⭐ 2.4k |
-| 2026-08-29 | 🥈 | [In-page search (Ctrl+F) does not find text inside inline, cards, and internal li](https://github.com/TriliumNext/Trilium/issues/11242) | `TriliumNext/Trilium` | ⭐ 37.6k |
-| 2026-08-29 | 🥉 | [【兼容性公告】dsh-im v4.0.0 已兼容 DSH v0.1.2-alpha.1，同时兼容旧版](https://github.com/xmanrui/dsh-im/issues/83) | `xmanrui/dsh-im` | ⭐ 977 |
-| 2026-08-29 | 🥇 | [Update Project Profile: Hackforla.org Website Remove Ryan Keller](https://github.com/hackforla/website/issues/8762) | `hackforla/website` | ⭐ 364 |
-| 2026-08-29 | 🥇 | [Update Project Profile: Hackforla.org Website Add Maleah Castillo Smith](https://github.com/hackforla/website/issues/8761) | `hackforla/website` | ⭐ 364 |
-| 2026-08-29 | 🥇 | [Update Project Profile: Hackforla.org Website Add Jose Santiago](https://github.com/hackforla/website/issues/8760) | `hackforla/website` | ⭐ 364 |
-| 2026-08-29 | 🥇 | [💡 Separate quality setting for 60 fps videos](https://github.com/code-charity/youtube/issues/4302) | `code-charity/youtube` | ⭐ 4.6k |
-| 2026-08-29 | 🥇 | [Update Project Profile: Hack for LA Site Remove Gilbert Quionnez](https://github.com/hackforla/website/issues/8759) | `hackforla/website` | ⭐ 364 |
-| 2026-08-29 | 🥇 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/14759) | `stdlib-js/stdlib` | ⭐ 5.9k |
-| 2026-08-29 | 🥇 | [USWDS - Testing: Replace build.spec.js with a dist smoke test in release-prep ve](https://github.com/uswds/uswds/issues/6877) | `uswds/uswds` | ⭐ 7.2k |
-| 2026-08-29 | 🥇 | [Motion engine parser: "bounce" is both an animation name and a documented easing](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/89069) | `SAPTARSHI-coder/EaseMotion-css` | ⭐ 257 |
-| 2026-08-29 | 🥈 | [Community videos: Agent Skills in real use](https://github.com/addyosmani/agent-skills/issues/527) | `addyosmani/agent-skills` | ⭐ 90.5k |
-| 2026-08-28 | 🥇 | [PostCSS/esbuild/Vite token-fallback plugins incorrectly rewrite var()-like text ](https://github.com/WordPress/gutenberg/issues/82169) | `WordPress/gutenberg` | ⭐ 11.7k |
-| 2026-08-28 | 🥉 | [a11y: dashboard arrow-key page navigation does not update the URL or the page fl](https://github.com/quarto-dev/quarto-cli/issues/14829) | `quarto-dev/quarto-cli` | ⭐ 6.0k |
-| 2026-08-28 | 🥉 | [Monolog Log Handler is using old constructor parameters](https://github.com/getsentry/sentry-docs/issues/19177) | `getsentry/sentry-docs` | ⭐ 442 |
-| 2026-08-28 | 🥉 | [Custom Integrations has incorrect link to Integration interface](https://github.com/getsentry/sentry-docs/issues/19174) | `getsentry/sentry-docs` | ⭐ 442 |
-| 2026-08-28 | 🥇 | [discoverProjectConfigs misses a workspace declared as a bare directory name](https://github.com/reticlehq/reticle/issues/624) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-28 | 🥇 | [Typed `!`-commands don't normalise Slack mention encoding in arguments](https://github.com/sandbox-quantum/switch/issues/315) | `sandbox-quantum/switch` | ⭐ 372 |
-| 2026-08-28 | 🥇 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/14727) | `stdlib-js/stdlib` | ⭐ 5.9k |
-| 2026-08-28 | 🥇 | [docs(outlook): pin list/send-mail on the overview](https://github.com/corsairdev/corsair/issues/1258) | `corsairdev/corsair` | ⭐ 10.6k |
-| 2026-08-28 | 🥇 | [docs(zoom): pin list/create-meeting on the overview](https://github.com/corsairdev/corsair/issues/1257) | `corsairdev/corsair` | ⭐ 10.6k |
-| 2026-08-28 | 🥇 | [docs(figma): pin get-file/add-comment on the overview](https://github.com/corsairdev/corsair/issues/1256) | `corsairdev/corsair` | ⭐ 10.6k |
-| 2026-08-28 | 🥇 | [docs(asana): pin list/create-task on the overview](https://github.com/corsairdev/corsair/issues/1255) | `corsairdev/corsair` | ⭐ 10.6k |
-| 2026-08-28 | 🥇 | [docs(jira): pin search/create-issue on the overview](https://github.com/corsairdev/corsair/issues/1254) | `corsairdev/corsair` | ⭐ 10.6k |
-| 2026-08-28 | 🥇 | [docs(resend): pin list/send on the overview](https://github.com/corsairdev/corsair/issues/1253) | `corsairdev/corsair` | ⭐ 10.6k |
