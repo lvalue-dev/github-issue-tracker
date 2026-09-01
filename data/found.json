@@ -1,5 +1,216 @@
 [
   {
+    "key": "meshery/meshery#21731",
+    "tier": 1,
+    "repo": "meshery/meshery",
+    "number": 21731,
+    "title": "[UI] left gap in Design code view on small screen",
+    "url": "https://github.com/meshery/meshery/issues/21731",
+    "comments": 0,
+    "createdAt": "2026-09-01T21:48:49Z",
+    "labels": [
+      "kind/bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 11634,
+    "foundAt": "2026-09-01T21:52:10.515Z"
+  },
+  {
+    "key": "meshery/meshery#21730",
+    "tier": 1,
+    "repo": "meshery/meshery",
+    "number": 21730,
+    "title": "[UI] Badge overlaps with creator name on small screens",
+    "url": "https://github.com/meshery/meshery/issues/21730",
+    "comments": 0,
+    "createdAt": "2026-09-01T21:45:27Z",
+    "labels": [
+      "kind/bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 11634,
+    "foundAt": "2026-09-01T21:52:10.515Z"
+  },
+  {
+    "key": "reticlehq/reticle#726",
+    "tier": 1,
+    "repo": "reticlehq/reticle",
+    "number": 726,
+    "title": "Session test stubs break every time Session gains a method (4th occurrence)",
+    "url": "https://github.com/reticlehq/reticle/issues/726",
+    "comments": 0,
+    "createdAt": "2026-09-01T21:41:12Z",
+    "labels": [
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 367,
+    "foundAt": "2026-09-01T21:52:10.515Z"
+  },
+  {
+    "key": "meshery/meshery#21729",
+    "tier": 1,
+    "repo": "meshery/meshery",
+    "number": 21729,
+    "title": "[UI] Dry Run content overflows on small screens in Playground Designs",
+    "url": "https://github.com/meshery/meshery/issues/21729",
+    "comments": 0,
+    "createdAt": "2026-09-01T21:38:40Z",
+    "labels": [
+      "kind/bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 11634,
+    "foundAt": "2026-09-01T21:52:10.515Z"
+  },
+  {
+    "key": "meshery/meshery#21728",
+    "tier": 1,
+    "repo": "meshery/meshery",
+    "number": 21728,
+    "title": "[UI] Actions dropdown opens behind the toolbar in Designs",
+    "url": "https://github.com/meshery/meshery/issues/21728",
+    "comments": 0,
+    "createdAt": "2026-09-01T21:33:43Z",
+    "labels": [
+      "kind/bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 11634,
+    "foundAt": "2026-09-01T21:52:10.515Z"
+  },
+  {
+    "key": "meshery/meshery#21727",
+    "tier": 1,
+    "repo": "meshery/meshery",
+    "number": 21727,
+    "title": "[UI] prevent Designs toolbar overflow on small screens",
+    "url": "https://github.com/meshery/meshery/issues/21727",
+    "comments": 0,
+    "createdAt": "2026-09-01T21:25:23Z",
+    "labels": [
+      "kind/bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 11634,
+    "foundAt": "2026-09-01T21:52:10.755Z"
+  },
+  {
+    "key": "kgoedecke/doop#90",
+    "tier": 1,
+    "repo": "kgoedecke/doop",
+    "number": 90,
+    "title": "Pinch to zoom on iOS does not work",
+    "url": "https://github.com/kgoedecke/doop/issues/90",
+    "comments": 0,
+    "createdAt": "2026-09-01T20:57:07Z",
+    "labels": [
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 542,
+    "foundAt": "2026-09-01T21:52:11.084Z"
+  },
+  {
+    "key": "bastani-inc/atomic#2802",
+    "tier": 1,
+    "repo": "bastani-inc/atomic",
+    "number": 2802,
+    "title": "workflows: revise provisional execution shape after material clarification",
+    "url": "https://github.com/bastani-inc/atomic/issues/2802",
+    "comments": 0,
+    "createdAt": "2026-09-01T18:52:49Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 735,
+    "foundAt": "2026-09-01T21:52:13.252Z"
+  },
+  {
+    "key": "verifywise-ai/verifywise#4585",
+    "tier": 1,
+    "repo": "verifywise-ai/verifywise",
+    "number": 4585,
+    "title": "Add intended use / purpose field to model inventory",
+    "url": "https://github.com/verifywise-ai/verifywise/issues/4585",
+    "comments": 0,
+    "createdAt": "2026-09-01T18:43:37Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "frontend",
+      "backend"
+    ],
+    "language": "typescript",
+    "stars": 343,
+    "foundAt": "2026-09-01T21:52:13.518Z"
+  },
+  {
+    "key": "verifywise-ai/verifywise#4584",
+    "tier": 1,
+    "repo": "verifywise-ai/verifywise",
+    "number": 4584,
+    "title": "Add suspend / emergency-action status values to AI incidents",
+    "url": "https://github.com/verifywise-ai/verifywise/issues/4584",
+    "comments": 0,
+    "createdAt": "2026-09-01T18:43:36Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "frontend",
+      "backend"
+    ],
+    "language": "typescript",
+    "stars": 343,
+    "foundAt": "2026-09-01T21:52:13.518Z"
+  },
+  {
+    "key": "apmantza/pi-lens#2418",
+    "tier": 3,
+    "repo": "apmantza/pi-lens",
+    "number": 2418,
+    "title": "Stability & versioning policy for public config, facades, and MCP surfaces (gates #2416; foundation for #2415/#2372/#2383/#195)",
+    "url": "https://github.com/apmantza/pi-lens/issues/2418",
+    "comments": 0,
+    "createdAt": "2026-09-01T21:32:15Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "area:observability",
+      "area:tests",
+      "area:config"
+    ],
+    "language": "typescript",
+    "stars": 373,
+    "foundAt": "2026-09-01T21:52:16.137Z"
+  },
+  {
+    "key": "quarto-dev/quarto-cli#14838",
+    "tier": 3,
+    "repo": "quarto-dev/quarto-cli",
+    "number": 14838,
+    "title": "a11y: the floating color-scheme toggle is last in reading and focus order",
+    "url": "https://github.com/quarto-dev/quarto-cli/issues/14838",
+    "comments": 0,
+    "createdAt": "2026-09-01T21:16:47Z",
+    "labels": [
+      "accessibility",
+      "html"
+    ],
+    "language": "javascript",
+    "stars": 5964,
+    "foundAt": "2026-09-01T21:52:16.656Z"
+  },
+  {
     "key": "verifywise-ai/verifywise#4581",
     "tier": 1,
     "repo": "verifywise-ai/verifywise",
@@ -1756,213 +1967,5 @@
     "language": "typescript",
     "stars": 367,
     "foundAt": "2026-08-31T20:13:49.853Z"
-  },
-  {
-    "key": "reticlehq/reticle#694",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 694,
-    "title": "act_sequence ignores an explicit sessionId and blames the ref",
-    "url": "https://github.com/reticlehq/reticle/issues/694",
-    "comments": 0,
-    "createdAt": "2026-08-31T18:33:10Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-31T20:13:49.853Z"
-  },
-  {
-    "key": "reticlehq/reticle#693",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 693,
-    "title": "reticle_network_mock returns no-cdp-provider on the leased session the docs point at",
-    "url": "https://github.com/reticlehq/reticle/issues/693",
-    "comments": 0,
-    "createdAt": "2026-08-31T18:33:07Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-31T20:13:49.853Z"
-  },
-  {
-    "key": "reticlehq/reticle#692",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 692,
-    "title": "A lease reports ready for a tab that never authenticated, and hands back a sessionId other tools reject",
-    "url": "https://github.com/reticlehq/reticle/issues/692",
-    "comments": 1,
-    "createdAt": "2026-08-31T18:33:05Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-31T20:13:49.853Z"
-  },
-  {
-    "key": "reticlehq/reticle#691",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 691,
-    "title": "Lease Chromium failures all report the same wrong cause, and there is no fallback",
-    "url": "https://github.com/reticlehq/reticle/issues/691",
-    "comments": 0,
-    "createdAt": "2026-08-31T18:33:03Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-31T20:13:49.853Z"
-  },
-  {
-    "key": "reticlehq/reticle#690",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 690,
-    "title": "Document and support the HTTP/SSE transport a user had to reverse-engineer",
-    "url": "https://github.com/reticlehq/reticle/issues/690",
-    "comments": 0,
-    "createdAt": "2026-08-31T18:33:01Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-31T20:13:49.853Z"
-  },
-  {
-    "key": "ch-bas/cctv-camera-database#336",
-    "tier": 2,
-    "repo": "ch-bas/cctv-camera-database",
-    "number": 336,
-    "title": "🔗 Dead/unreachable source URLs (automated weekly check)",
-    "url": "https://github.com/ch-bas/cctv-camera-database/issues/336",
-    "comments": 0,
-    "createdAt": "2026-08-31T15:09:46Z",
-    "labels": [
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 240,
-    "foundAt": "2026-08-31T20:13:50.513Z"
-  },
-  {
-    "key": "ch-bas/cctv-camera-database#339",
-    "tier": 3,
-    "repo": "ch-bas/cctv-camera-database",
-    "number": 339,
-    "title": "feat(schema): add cloud_required (cloud dependency) field",
-    "url": "https://github.com/ch-bas/cctv-camera-database/issues/339",
-    "comments": 0,
-    "createdAt": "2026-08-31T19:34:00Z",
-    "labels": [
-      "documentation",
-      "enhancement"
-    ],
-    "language": "javascript",
-    "stars": 240,
-    "foundAt": "2026-08-31T20:13:52.755Z"
-  },
-  {
-    "key": "ch-bas/cctv-camera-database#338",
-    "tier": 3,
-    "repo": "ch-bas/cctv-camera-database",
-    "number": 338,
-    "title": "feat(web): Compare page v2 — scoring, shareable pair URLs, add-from-grid",
-    "url": "https://github.com/ch-bas/cctv-camera-database/issues/338",
-    "comments": 0,
-    "createdAt": "2026-08-31T19:33:59Z",
-    "labels": [
-      "documentation",
-      "enhancement"
-    ],
-    "language": "javascript",
-    "stars": 240,
-    "foundAt": "2026-08-31T20:13:52.755Z"
-  },
-  {
-    "key": "shopware/frontends#2678",
-    "tier": 3,
-    "repo": "shopware/frontends",
-    "number": 2678,
-    "title": "Prune AGENTS.md files and add a CI staleness check",
-    "url": "https://github.com/shopware/frontends/issues/2678",
-    "comments": 0,
-    "createdAt": "2026-08-31T19:20:15Z",
-    "labels": [
-      "documentation",
-      "github_actions"
-    ],
-    "language": "typescript",
-    "stars": 227,
-    "foundAt": "2026-08-31T20:13:51.492Z"
-  },
-  {
-    "key": "AprilSylph/XKit-Rewritten#2365",
-    "tier": 2,
-    "repo": "AprilSylph/XKit-Rewritten",
-    "number": 2365,
-    "title": "AccessKit Disable GIFs: Pause animated avatars (if they launch)",
-    "url": "https://github.com/AprilSylph/XKit-Rewritten/issues/2365",
-    "comments": 0,
-    "createdAt": "2026-08-31T09:19:40Z",
-    "labels": [
-      "enhancement",
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 371,
-    "foundAt": "2026-08-31T14:11:21.230Z"
-  },
-  {
-    "key": "GouvernementFR/dsfr#1506",
-    "tier": 3,
-    "repo": "GouvernementFR/dsfr",
-    "number": 1506,
-    "title": "[Coquille documentation] image sur la page de l'infobulle",
-    "url": "https://github.com/GouvernementFR/dsfr/issues/1506",
-    "comments": 0,
-    "createdAt": "2026-08-31T13:50:32Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "javascript",
-    "stars": 389,
-    "foundAt": "2026-08-31T14:11:23.631Z"
-  },
-  {
-    "key": "dokieli/dokieli#607",
-    "tier": 3,
-    "repo": "dokieli/dokieli",
-    "number": 607,
-    "title": "Improve the accessibility of Table of Contents (ToC) management",
-    "url": "https://github.com/dokieli/dokieli/issues/607",
-    "comments": 1,
-    "createdAt": "2026-08-31T12:04:50Z",
-    "labels": [
-      "UI",
-      "accessibility",
-      "help-wanted"
-    ],
-    "language": "javascript",
-    "stars": 893,
-    "foundAt": "2026-08-31T14:11:24.636Z"
   }
 ]

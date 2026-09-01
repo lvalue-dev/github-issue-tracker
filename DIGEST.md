@@ -4,6 +4,18 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-01 | 🥇 | [[UI] left gap in Design code view on small screen](https://github.com/meshery/meshery/issues/21731) | `meshery/meshery` | ⭐ 11.6k |
+| 2026-09-01 | 🥇 | [[UI] Badge overlaps with creator name on small screens](https://github.com/meshery/meshery/issues/21730) | `meshery/meshery` | ⭐ 11.6k |
+| 2026-09-01 | 🥇 | [Session test stubs break every time Session gains a method (4th occurrence)](https://github.com/reticlehq/reticle/issues/726) | `reticlehq/reticle` | ⭐ 367 |
+| 2026-09-01 | 🥇 | [[UI] Dry Run content overflows on small screens in Playground Designs](https://github.com/meshery/meshery/issues/21729) | `meshery/meshery` | ⭐ 11.6k |
+| 2026-09-01 | 🥇 | [[UI] Actions dropdown opens behind the toolbar in Designs](https://github.com/meshery/meshery/issues/21728) | `meshery/meshery` | ⭐ 11.6k |
+| 2026-09-01 | 🥇 | [[UI] prevent Designs toolbar overflow on small screens](https://github.com/meshery/meshery/issues/21727) | `meshery/meshery` | ⭐ 11.6k |
+| 2026-09-01 | 🥇 | [Pinch to zoom on iOS does not work](https://github.com/kgoedecke/doop/issues/90) | `kgoedecke/doop` | ⭐ 542 |
+| 2026-09-01 | 🥇 | [workflows: revise provisional execution shape after material clarification](https://github.com/bastani-inc/atomic/issues/2802) | `bastani-inc/atomic` | ⭐ 735 |
+| 2026-09-01 | 🥇 | [Add intended use / purpose field to model inventory](https://github.com/verifywise-ai/verifywise/issues/4585) | `verifywise-ai/verifywise` | ⭐ 343 |
+| 2026-09-01 | 🥇 | [Add suspend / emergency-action status values to AI incidents](https://github.com/verifywise-ai/verifywise/issues/4584) | `verifywise-ai/verifywise` | ⭐ 343 |
+| 2026-09-01 | 🥉 | [Stability & versioning policy for public config, facades, and MCP surfaces (gate](https://github.com/apmantza/pi-lens/issues/2418) | `apmantza/pi-lens` | ⭐ 373 |
+| 2026-09-01 | 🥉 | [a11y: the floating color-scheme toggle is last in reading and focus order](https://github.com/quarto-dev/quarto-cli/issues/14838) | `quarto-dev/quarto-cli` | ⭐ 6.0k |
 | 2026-09-01 | 🥇 | [Add AI solution type classification (Traditional ML / GenAI / RAG / Agentic) to ](https://github.com/verifywise-ai/verifywise/issues/4581) | `verifywise-ai/verifywise` | ⭐ 343 |
 | 2026-09-01 | 🥇 | [Add 'Retired' status to model inventory lifecycle](https://github.com/verifywise-ai/verifywise/issues/4580) | `verifywise-ai/verifywise` | ⭐ 343 |
 | 2026-09-01 | 🥇 | [Post-login redirect should return to originally requested page](https://github.com/openeverest/openeverest/issues/3105) | `openeverest/openeverest` | ⭐ 906 |
@@ -92,15 +104,3 @@
 | 2026-08-31 | 🥈 | [Replay does not navigate to startPath, and record never persists one](https://github.com/reticlehq/reticle/issues/699) | `reticlehq/reticle` | ⭐ 367 |
 | 2026-08-31 | 🥈 | [Flow replay silently skips a second destructive step and reports it as testid dr](https://github.com/reticlehq/reticle/issues/697) | `reticlehq/reticle` | ⭐ 367 |
 | 2026-08-31 | 🥈 | [A flow step's expect accepts one predicate kind, so the saved artifact is strict](https://github.com/reticlehq/reticle/issues/696) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-31 | 🥈 | [act_sequence ignores an explicit sessionId and blames the ref](https://github.com/reticlehq/reticle/issues/694) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-31 | 🥈 | [reticle_network_mock returns no-cdp-provider on the leased session the docs poin](https://github.com/reticlehq/reticle/issues/693) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-31 | 🥈 | [A lease reports ready for a tab that never authenticated, and hands back a sessi](https://github.com/reticlehq/reticle/issues/692) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-31 | 🥈 | [Lease Chromium failures all report the same wrong cause, and there is no fallbac](https://github.com/reticlehq/reticle/issues/691) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-31 | 🥈 | [Document and support the HTTP/SSE transport a user had to reverse-engineer](https://github.com/reticlehq/reticle/issues/690) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-31 | 🥈 | [🔗 Dead/unreachable source URLs (automated weekly check)](https://github.com/ch-bas/cctv-camera-database/issues/336) | `ch-bas/cctv-camera-database` | ⭐ 240 |
-| 2026-08-31 | 🥉 | [feat(schema): add cloud_required (cloud dependency) field](https://github.com/ch-bas/cctv-camera-database/issues/339) | `ch-bas/cctv-camera-database` | ⭐ 240 |
-| 2026-08-31 | 🥉 | [feat(web): Compare page v2 — scoring, shareable pair URLs, add-from-grid](https://github.com/ch-bas/cctv-camera-database/issues/338) | `ch-bas/cctv-camera-database` | ⭐ 240 |
-| 2026-08-31 | 🥉 | [Prune AGENTS.md files and add a CI staleness check](https://github.com/shopware/frontends/issues/2678) | `shopware/frontends` | ⭐ 227 |
-| 2026-08-31 | 🥈 | [AccessKit Disable GIFs: Pause animated avatars (if they launch)](https://github.com/AprilSylph/XKit-Rewritten/issues/2365) | `AprilSylph/XKit-Rewritten` | ⭐ 371 |
-| 2026-08-31 | 🥉 | [[Coquille documentation] image sur la page de l'infobulle](https://github.com/GouvernementFR/dsfr/issues/1506) | `GouvernementFR/dsfr` | ⭐ 389 |
-| 2026-08-31 | 🥉 | [Improve the accessibility of Table of Contents (ToC) management](https://github.com/dokieli/dokieli/issues/607) | `dokieli/dokieli` | ⭐ 893 |
