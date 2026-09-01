@@ -1,5 +1,251 @@
 [
   {
+    "key": "verifywise-ai/verifywise#4581",
+    "tier": 1,
+    "repo": "verifywise-ai/verifywise",
+    "number": 4581,
+    "title": "Add AI solution type classification (Traditional ML / GenAI / RAG / Agentic) to model inventory",
+    "url": "https://github.com/verifywise-ai/verifywise/issues/4581",
+    "comments": 0,
+    "createdAt": "2026-09-01T18:23:27Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "frontend",
+      "backend"
+    ],
+    "language": "typescript",
+    "stars": 343,
+    "foundAt": "2026-09-01T18:40:21.975Z"
+  },
+  {
+    "key": "verifywise-ai/verifywise#4580",
+    "tier": 1,
+    "repo": "verifywise-ai/verifywise",
+    "number": 4580,
+    "title": "Add 'Retired' status to model inventory lifecycle",
+    "url": "https://github.com/verifywise-ai/verifywise/issues/4580",
+    "comments": 0,
+    "createdAt": "2026-09-01T18:23:16Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "frontend",
+      "backend"
+    ],
+    "language": "typescript",
+    "stars": 343,
+    "foundAt": "2026-09-01T18:40:21.975Z"
+  },
+  {
+    "key": "openeverest/openeverest#3105",
+    "tier": 1,
+    "repo": "openeverest/openeverest",
+    "number": 3105,
+    "title": "Post-login redirect should return to originally requested page",
+    "url": "https://github.com/openeverest/openeverest/issues/3105",
+    "comments": 4,
+    "createdAt": "2026-09-01T15:11:28Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "ui",
+      "needs-triage",
+      "triage/accepted"
+    ],
+    "language": "typescript",
+    "stars": 906,
+    "foundAt": "2026-09-01T18:40:22.708Z"
+  },
+  {
+    "key": "meshery/meshery#21717",
+    "tier": 2,
+    "repo": "meshery/meshery",
+    "number": 21717,
+    "title": "[Server] Scalability Testing for Meshery Server Against Large Kubernetes Clusters",
+    "url": "https://github.com/meshery/meshery/issues/21717",
+    "comments": 2,
+    "createdAt": "2026-09-01T15:03:14Z",
+    "labels": [
+      "kind/enhancement",
+      "help wanted",
+      "kind/chore"
+    ],
+    "language": "typescript",
+    "stars": 11634,
+    "foundAt": "2026-09-01T18:40:24.659Z"
+  },
+  {
+    "key": "neomjs/neo#18037",
+    "tier": 3,
+    "repo": "neomjs/neo",
+    "number": 18037,
+    "title": "Explain how to test and debug DockLayouts end to end",
+    "url": "https://github.com/neomjs/neo/issues/18037",
+    "comments": 0,
+    "createdAt": "2026-09-01T17:52:16Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "developer-experience",
+      "no auto close",
+      "ai",
+      "testing",
+      "core"
+    ],
+    "language": "javascript",
+    "stars": 3260,
+    "foundAt": "2026-09-01T18:40:28.421Z"
+  },
+  {
+    "key": "neomjs/neo#18036",
+    "tier": 3,
+    "repo": "neomjs/neo",
+    "number": 18036,
+    "title": "Document DockLayouts styling, themes, and action chrome",
+    "url": "https://github.com/neomjs/neo/issues/18036",
+    "comments": 0,
+    "createdAt": "2026-09-01T17:52:12Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "developer-experience",
+      "no auto close",
+      "design",
+      "ai",
+      "core"
+    ],
+    "language": "javascript",
+    "stars": 3260,
+    "foundAt": "2026-09-01T18:40:28.421Z"
+  },
+  {
+    "key": "neomjs/neo#18035",
+    "tier": 3,
+    "repo": "neomjs/neo",
+    "number": 18035,
+    "title": "Explain DockLayouts cross-window vessel lifecycles",
+    "url": "https://github.com/neomjs/neo/issues/18035",
+    "comments": 0,
+    "createdAt": "2026-09-01T17:52:07Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "windows",
+      "developer-experience",
+      "no auto close",
+      "ai",
+      "architecture",
+      "core"
+    ],
+    "language": "javascript",
+    "stars": 3260,
+    "foundAt": "2026-09-01T18:40:28.421Z"
+  },
+  {
+    "key": "neomjs/neo#18034",
+    "tier": 3,
+    "repo": "neomjs/neo",
+    "number": 18034,
+    "title": "Explain DockLayouts panes as ordinary Neo components",
+    "url": "https://github.com/neomjs/neo/issues/18034",
+    "comments": 0,
+    "createdAt": "2026-09-01T17:52:01Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "developer-experience",
+      "no auto close",
+      "ai",
+      "core"
+    ],
+    "language": "javascript",
+    "stars": 3260,
+    "foundAt": "2026-09-01T18:40:28.421Z"
+  },
+  {
+    "key": "neomjs/neo#18033",
+    "tier": 3,
+    "repo": "neomjs/neo",
+    "number": 18033,
+    "title": "Document the complete DockLayouts feature surface",
+    "url": "https://github.com/neomjs/neo/issues/18033",
+    "comments": 0,
+    "createdAt": "2026-09-01T17:51:57Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "developer-experience",
+      "no auto close",
+      "design",
+      "ai",
+      "core"
+    ],
+    "language": "javascript",
+    "stars": 3260,
+    "foundAt": "2026-09-01T18:40:28.421Z"
+  },
+  {
+    "key": "neomjs/neo#18032",
+    "tier": 3,
+    "repo": "neomjs/neo",
+    "number": 18032,
+    "title": "Explain DockLayouts state, operations, and persistence",
+    "url": "https://github.com/neomjs/neo/issues/18032",
+    "comments": 0,
+    "createdAt": "2026-09-01T17:51:53Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "developer-experience",
+      "no auto close",
+      "ai",
+      "architecture",
+      "core"
+    ],
+    "language": "javascript",
+    "stars": 3260,
+    "foundAt": "2026-09-01T18:40:28.421Z"
+  },
+  {
+    "key": "neomjs/neo#18031",
+    "tier": 3,
+    "repo": "neomjs/neo",
+    "number": 18031,
+    "title": "Explain the DockLayouts gesture and commit mechanics",
+    "url": "https://github.com/neomjs/neo/issues/18031",
+    "comments": 0,
+    "createdAt": "2026-09-01T17:51:49Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "developer-experience",
+      "no auto close",
+      "ai",
+      "architecture",
+      "core"
+    ],
+    "language": "javascript",
+    "stars": 3260,
+    "foundAt": "2026-09-01T18:40:28.421Z"
+  },
+  {
+    "key": "GouvernementFR/dsfr#1510",
+    "tier": 3,
+    "repo": "GouvernementFR/dsfr",
+    "number": 1510,
+    "title": "[Coquille documentation] Erreur de français sur Icones",
+    "url": "https://github.com/GouvernementFR/dsfr/issues/1510",
+    "comments": 0,
+    "createdAt": "2026-09-01T16:56:32Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "javascript",
+    "stars": 389,
+    "foundAt": "2026-09-01T18:40:28.921Z"
+  },
+  {
     "key": "Agenta-AI/agenta#6456",
     "tier": 1,
     "repo": "Agenta-AI/agenta",
@@ -1718,219 +1964,5 @@
     "language": "javascript",
     "stars": 893,
     "foundAt": "2026-08-31T14:11:24.636Z"
-  },
-  {
-    "key": "code-charity/youtube#4308",
-    "tier": 1,
-    "repo": "code-charity/youtube",
-    "number": 4308,
-    "title": "🐞Incomplete settings application (subtitles, audio) during internal YouTube navigation ",
-    "url": "https://github.com/code-charity/youtube/issues/4308",
-    "comments": 0,
-    "createdAt": "2026-08-31T03:06:01Z",
-    "labels": [
-      "Bug",
-      "Feature request",
-      "help wanted",
-      "good first issue",
-      "up-for-grabs"
-    ],
-    "language": "javascript",
-    "stars": 4555,
-    "foundAt": "2026-08-31T05:49:55.429Z"
-  },
-  {
-    "key": "snapotter-hq/SnapOtter#955",
-    "tier": 2,
-    "repo": "snapotter-hq/SnapOtter",
-    "number": 955,
-    "title": "fix(ai): detect glyph-id fallback from the font dicts, not the characters",
-    "url": "https://github.com/snapotter-hq/SnapOtter/issues/955",
-    "comments": 0,
-    "createdAt": "2026-08-31T05:45:40Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "area:ai"
-    ],
-    "language": "typescript",
-    "stars": 2394,
-    "foundAt": "2026-08-31T05:49:56.044Z"
-  },
-  {
-    "key": "snapotter-hq/SnapOtter#953",
-    "tier": 2,
-    "repo": "snapotter-hq/SnapOtter",
-    "number": 953,
-    "title": "feat(ai): add Arabic recognition to OCR",
-    "url": "https://github.com/snapotter-hq/SnapOtter/issues/953",
-    "comments": 0,
-    "createdAt": "2026-08-31T05:44:49Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "community-request",
-      "area:ai"
-    ],
-    "language": "typescript",
-    "stars": 2394,
-    "foundAt": "2026-08-31T05:49:56.214Z"
-  },
-  {
-    "key": "santifer/career-ops#3534",
-    "tier": 1,
-    "repo": "santifer/career-ops",
-    "number": 3534,
-    "title": "docs(budget): a verified quick-start for running a local model (Ollama or LM Studio)",
-    "url": "https://github.com/santifer/career-ops/issues/3534",
-    "comments": 1,
-    "createdAt": "2026-08-30T17:11:43Z",
-    "labels": [
-      "documentation",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 68509,
-    "foundAt": "2026-08-30T17:39:05.472Z"
-  },
-  {
-    "key": "prettier/prettier#19955",
-    "tier": 2,
-    "repo": "prettier/prettier",
-    "number": 19955,
-    "title": "Unstable comment print in parenthesized arrow function body",
-    "url": "https://github.com/prettier/prettier/issues/19955",
-    "comments": 1,
-    "createdAt": "2026-08-30T14:02:33Z",
-    "labels": [
-      "help wanted",
-      "area:comments",
-      "area:idempotency"
-    ],
-    "language": "javascript",
-    "stars": 52221,
-    "foundAt": "2026-08-30T17:39:07.471Z"
-  },
-  {
-    "key": "super-productivity/super-productivity#9818",
-    "tier": 2,
-    "repo": "super-productivity/super-productivity",
-    "number": 9818,
-    "title": "chore(focus-mode): remove unreachable screen-routing code (unused strategy method + 3 FocusScreen members)",
-    "url": "https://github.com/super-productivity/super-productivity/issues/9818",
-    "comments": 0,
-    "createdAt": "2026-08-30T12:23:26Z",
-    "labels": [
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 21658,
-    "foundAt": "2026-08-30T13:02:30.285Z"
-  },
-  {
-    "key": "refined-github/refined-github#10016",
-    "tier": 2,
-    "repo": "refined-github/refined-github",
-    "number": 10016,
-    "title": "`comments-time-machine-links` broken on issues",
-    "url": "https://github.com/refined-github/refined-github/issues/10016",
-    "comments": 0,
-    "createdAt": "2026-08-30T09:24:34Z",
-    "labels": [
-      "bug",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 32010,
-    "foundAt": "2026-08-30T13:02:30.844Z"
-  },
-  {
-    "key": "shanliuling/dsh-image-gen#19",
-    "tier": 2,
-    "repo": "shanliuling/dsh-image-gen",
-    "number": 19,
-    "title": "[Feature] 支持一键重新生成 / Regenerate",
-    "url": "https://github.com/shanliuling/dsh-image-gen/issues/19",
-    "comments": 0,
-    "createdAt": "2026-08-30T08:09:17Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 279,
-    "foundAt": "2026-08-30T13:02:31.250Z"
-  },
-  {
-    "key": "shanliuling/dsh-image-gen#18",
-    "tier": 2,
-    "repo": "shanliuling/dsh-image-gen",
-    "number": 18,
-    "title": "[Feature] 从画廊选择历史图片继续编辑",
-    "url": "https://github.com/shanliuling/dsh-image-gen/issues/18",
-    "comments": 0,
-    "createdAt": "2026-08-30T08:09:08Z",
-    "labels": [
-      "enhancement",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 279,
-    "foundAt": "2026-08-30T13:02:31.250Z"
-  },
-  {
-    "key": "shanliuling/dsh-image-gen#17",
-    "tier": 2,
-    "repo": "shanliuling/dsh-image-gen",
-    "number": 17,
-    "title": "[Feature] 支持一次生成多张候选图片 / Multiple Variations",
-    "url": "https://github.com/shanliuling/dsh-image-gen/issues/17",
-    "comments": 0,
-    "createdAt": "2026-08-30T08:08:59Z",
-    "labels": [
-      "enhancement",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 279,
-    "foundAt": "2026-08-30T13:02:31.250Z"
-  },
-  {
-    "key": "shanliuling/dsh-image-gen#16",
-    "tier": 2,
-    "repo": "shanliuling/dsh-image-gen",
-    "number": 16,
-    "title": "[Feature] 画廊支持收藏图片 / Favorites",
-    "url": "https://github.com/shanliuling/dsh-image-gen/issues/16",
-    "comments": 0,
-    "createdAt": "2026-08-30T08:08:51Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 279,
-    "foundAt": "2026-08-30T13:02:31.250Z"
-  },
-  {
-    "key": "code-charity/youtube#4305",
-    "tier": 1,
-    "repo": "code-charity/youtube",
-    "number": 4305,
-    "title": "🐞Watch Later button throws error",
-    "url": "https://github.com/code-charity/youtube/issues/4305",
-    "comments": 1,
-    "createdAt": "2026-08-30T03:17:30Z",
-    "labels": [
-      "Bug",
-      "help wanted",
-      "good first issue",
-      "up-for-grabs"
-    ],
-    "language": "javascript",
-    "stars": 4555,
-    "foundAt": "2026-08-30T06:52:13.167Z"
   }
 ]

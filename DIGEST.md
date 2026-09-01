@@ -4,6 +4,18 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-01 | 🥇 | [Add AI solution type classification (Traditional ML / GenAI / RAG / Agentic) to ](https://github.com/verifywise-ai/verifywise/issues/4581) | `verifywise-ai/verifywise` | ⭐ 343 |
+| 2026-09-01 | 🥇 | [Add 'Retired' status to model inventory lifecycle](https://github.com/verifywise-ai/verifywise/issues/4580) | `verifywise-ai/verifywise` | ⭐ 343 |
+| 2026-09-01 | 🥇 | [Post-login redirect should return to originally requested page](https://github.com/openeverest/openeverest/issues/3105) | `openeverest/openeverest` | ⭐ 906 |
+| 2026-09-01 | 🥈 | [[Server] Scalability Testing for Meshery Server Against Large Kubernetes Cluster](https://github.com/meshery/meshery/issues/21717) | `meshery/meshery` | ⭐ 11.6k |
+| 2026-09-01 | 🥉 | [Explain how to test and debug DockLayouts end to end](https://github.com/neomjs/neo/issues/18037) | `neomjs/neo` | ⭐ 3.3k |
+| 2026-09-01 | 🥉 | [Document DockLayouts styling, themes, and action chrome](https://github.com/neomjs/neo/issues/18036) | `neomjs/neo` | ⭐ 3.3k |
+| 2026-09-01 | 🥉 | [Explain DockLayouts cross-window vessel lifecycles](https://github.com/neomjs/neo/issues/18035) | `neomjs/neo` | ⭐ 3.3k |
+| 2026-09-01 | 🥉 | [Explain DockLayouts panes as ordinary Neo components](https://github.com/neomjs/neo/issues/18034) | `neomjs/neo` | ⭐ 3.3k |
+| 2026-09-01 | 🥉 | [Document the complete DockLayouts feature surface](https://github.com/neomjs/neo/issues/18033) | `neomjs/neo` | ⭐ 3.3k |
+| 2026-09-01 | 🥉 | [Explain DockLayouts state, operations, and persistence](https://github.com/neomjs/neo/issues/18032) | `neomjs/neo` | ⭐ 3.3k |
+| 2026-09-01 | 🥉 | [Explain the DockLayouts gesture and commit mechanics](https://github.com/neomjs/neo/issues/18031) | `neomjs/neo` | ⭐ 3.3k |
+| 2026-09-01 | 🥉 | [[Coquille documentation] Erreur de français sur Icones](https://github.com/GouvernementFR/dsfr/issues/1510) | `GouvernementFR/dsfr` | ⭐ 389 |
 | 2026-09-01 | 🥇 | [(bug) Stepper displayed on question form dock when only one question exists](https://github.com/Agenta-AI/agenta/issues/6456) | `Agenta-AI/agenta` | ⭐ 4.7k |
 | 2026-09-01 | 🥈 | [执行方案：docs/应用层代码审查问题清单.md](https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues/70) | `Weiss-UltimateSavior/Tyranor-Next` | ⭐ 303 |
 | 2026-09-01 | 🥇 | [(bug) The chat error card cuts the provider error off at the card edge and offer](https://github.com/Agenta-AI/agenta/issues/6445) | `Agenta-AI/agenta` | ⭐ 4.7k |
@@ -92,15 +104,3 @@
 | 2026-08-31 | 🥈 | [AccessKit Disable GIFs: Pause animated avatars (if they launch)](https://github.com/AprilSylph/XKit-Rewritten/issues/2365) | `AprilSylph/XKit-Rewritten` | ⭐ 371 |
 | 2026-08-31 | 🥉 | [[Coquille documentation] image sur la page de l'infobulle](https://github.com/GouvernementFR/dsfr/issues/1506) | `GouvernementFR/dsfr` | ⭐ 389 |
 | 2026-08-31 | 🥉 | [Improve the accessibility of Table of Contents (ToC) management](https://github.com/dokieli/dokieli/issues/607) | `dokieli/dokieli` | ⭐ 893 |
-| 2026-08-31 | 🥇 | [🐞Incomplete settings application (subtitles, audio) during internal YouTube nav](https://github.com/code-charity/youtube/issues/4308) | `code-charity/youtube` | ⭐ 4.6k |
-| 2026-08-31 | 🥈 | [fix(ai): detect glyph-id fallback from the font dicts, not the characters](https://github.com/snapotter-hq/SnapOtter/issues/955) | `snapotter-hq/SnapOtter` | ⭐ 2.4k |
-| 2026-08-31 | 🥈 | [feat(ai): add Arabic recognition to OCR](https://github.com/snapotter-hq/SnapOtter/issues/953) | `snapotter-hq/SnapOtter` | ⭐ 2.4k |
-| 2026-08-30 | 🥇 | [docs(budget): a verified quick-start for running a local model (Ollama or LM Stu](https://github.com/santifer/career-ops/issues/3534) | `santifer/career-ops` | ⭐ 68.5k |
-| 2026-08-30 | 🥈 | [Unstable comment print in parenthesized arrow function body](https://github.com/prettier/prettier/issues/19955) | `prettier/prettier` | ⭐ 52.2k |
-| 2026-08-30 | 🥈 | [chore(focus-mode): remove unreachable screen-routing code (unused strategy metho](https://github.com/super-productivity/super-productivity/issues/9818) | `super-productivity/super-productivity` | ⭐ 21.7k |
-| 2026-08-30 | 🥈 | [`comments-time-machine-links` broken on issues](https://github.com/refined-github/refined-github/issues/10016) | `refined-github/refined-github` | ⭐ 32.0k |
-| 2026-08-30 | 🥈 | [[Feature] 支持一键重新生成 / Regenerate](https://github.com/shanliuling/dsh-image-gen/issues/19) | `shanliuling/dsh-image-gen` | ⭐ 279 |
-| 2026-08-30 | 🥈 | [[Feature] 从画廊选择历史图片继续编辑](https://github.com/shanliuling/dsh-image-gen/issues/18) | `shanliuling/dsh-image-gen` | ⭐ 279 |
-| 2026-08-30 | 🥈 | [[Feature] 支持一次生成多张候选图片 / Multiple Variations](https://github.com/shanliuling/dsh-image-gen/issues/17) | `shanliuling/dsh-image-gen` | ⭐ 279 |
-| 2026-08-30 | 🥈 | [[Feature] 画廊支持收藏图片 / Favorites](https://github.com/shanliuling/dsh-image-gen/issues/16) | `shanliuling/dsh-image-gen` | ⭐ 279 |
-| 2026-08-30 | 🥇 | [🐞Watch Later button throws error](https://github.com/code-charity/youtube/issues/4305) | `code-charity/youtube` | ⭐ 4.6k |
