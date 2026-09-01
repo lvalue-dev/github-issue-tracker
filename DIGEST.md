@@ -4,6 +4,12 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-01 | 🥇 | [(bug) The chat error card cuts the provider error off at the card edge and offer](https://github.com/Agenta-AI/agenta/issues/6445) | `Agenta-AI/agenta` | ⭐ 4.7k |
+| 2026-09-01 | 🥇 | [(bug) The provider drawer lists 34 models for a key that OpenAI just rejected](https://github.com/Agenta-AI/agenta/issues/6443) | `Agenta-AI/agenta` | ⭐ 4.7k |
+| 2026-09-01 | 🥇 | [(bug) A scheme-less AGENTA_API_URL produces a malformed OTLP endpoint in the SDK](https://github.com/Agenta-AI/agenta/issues/6440) | `Agenta-AI/agenta` | ⭐ 4.7k |
+| 2026-09-01 | 🥇 | [Clicking on editorcn on header should redirect to homepage](https://github.com/shadcn-labs/editorcn/issues/27) | `shadcn-labs/editorcn` | ⭐ 209 |
+| 2026-09-01 | 🥇 | [Implement common actions on tabs in MacOS app](https://github.com/kgoedecke/doop/issues/86) | `kgoedecke/doop` | ⭐ 542 |
+| 2026-09-01 | 🥇 | [[Bug] ascii logo is missing in small/narrow terminals (e.g., VS Code) in new-ui](https://github.com/Nano-Collective/nanocoder/issues/1114) | `Nano-Collective/nanocoder` | ⭐ 2.4k |
 | 2026-09-01 | 🥇 | [Disallow vertical scrolling on tab bar in MacOS app](https://github.com/kgoedecke/doop/issues/84) | `kgoedecke/doop` | ⭐ 542 |
 | 2026-09-01 | 🥇 | [Add ability to reply to comments](https://github.com/kgoedecke/doop/issues/83) | `kgoedecke/doop` | ⭐ 542 |
 | 2026-09-01 | 🥇 | [Fork, Commit, Merge - Medium Issue 1 (JavaScript)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8115) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
@@ -98,9 +104,3 @@
 | 2026-08-30 | 🥇 | [🐞Watch Later button throws error](https://github.com/code-charity/youtube/issues/4305) | `code-charity/youtube` | ⭐ 4.6k |
 | 2026-08-30 | 🥇 | [Rename the “stack” diff layout to “unified” across Hunk](https://github.com/modem-dev/hunk/issues/915) | `modem-dev/hunk` | ⭐ 8.9k |
 | 2026-08-30 | 🥈 | [[Help] cf部署完毕，邮箱后台怎么进入](https://github.com/maillab/cloud-mail/issues/553) | `maillab/cloud-mail` | ⭐ 13.7k |
-| 2026-08-30 | 🥈 | [Two collapse‑related enter‑key bugs for todo/unordered lists](https://github.com/TriliumNext/Trilium/issues/11256) | `TriliumNext/Trilium` | ⭐ 37.6k |
-| 2026-08-30 | 🥈 | [[Bug]: When typing in the code window, opens a dropdown](https://github.com/jakubkozera/vsc-csharp-dev-tools/issues/262) | `jakubkozera/vsc-csharp-dev-tools` | ⭐ 348 |
-| 2026-08-30 | 🥉 | [[Docs]:](https://github.com/upstash/context7/issues/3108) | `upstash/context7` | ⭐ 61.2k |
-| 2026-08-30 | 🥇 | [[Feature] 为工作区命令增加 /ws、/wsl 和 /workspaces 别名](https://github.com/xmanrui/dsh-im/issues/88) | `xmanrui/dsh-im` | ⭐ 977 |
-| 2026-08-30 | 🥇 | [[Feature] 支持使用 /workspacelist 序号切换工作区](https://github.com/xmanrui/dsh-im/issues/87) | `xmanrui/dsh-im` | ⭐ 977 |
-| 2026-08-30 | 🥈 | [[Enhancement] Telegram / 命令菜单自动同步新增命令](https://github.com/xmanrui/dsh-im/issues/89) | `xmanrui/dsh-im` | ⭐ 977 |

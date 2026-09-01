@@ -1,5 +1,111 @@
 [
   {
+    "key": "Agenta-AI/agenta#6445",
+    "tier": 1,
+    "repo": "Agenta-AI/agenta",
+    "number": 6445,
+    "title": "(bug) The chat error card cuts the provider error off at the card edge and offers no action",
+    "url": "https://github.com/Agenta-AI/agenta/issues/6445",
+    "comments": 1,
+    "createdAt": "2026-09-01T09:24:00Z",
+    "labels": [
+      "good first issue",
+      "frontend",
+      "bug report"
+    ],
+    "language": "typescript",
+    "stars": 4665,
+    "foundAt": "2026-09-01T10:17:53.093Z"
+  },
+  {
+    "key": "Agenta-AI/agenta#6443",
+    "tier": 1,
+    "repo": "Agenta-AI/agenta",
+    "number": 6443,
+    "title": "(bug) The provider drawer lists 34 models for a key that OpenAI just rejected",
+    "url": "https://github.com/Agenta-AI/agenta/issues/6443",
+    "comments": 1,
+    "createdAt": "2026-09-01T09:23:53Z",
+    "labels": [
+      "good first issue",
+      "frontend",
+      "bug report"
+    ],
+    "language": "typescript",
+    "stars": 4665,
+    "foundAt": "2026-09-01T10:17:53.093Z"
+  },
+  {
+    "key": "Agenta-AI/agenta#6440",
+    "tier": 1,
+    "repo": "Agenta-AI/agenta",
+    "number": 6440,
+    "title": "(bug) A scheme-less AGENTA_API_URL produces a malformed OTLP endpoint in the SDK",
+    "url": "https://github.com/Agenta-AI/agenta/issues/6440",
+    "comments": 2,
+    "createdAt": "2026-09-01T09:23:42Z",
+    "labels": [
+      "good first issue",
+      "sdk",
+      "bug report"
+    ],
+    "language": "typescript",
+    "stars": 4665,
+    "foundAt": "2026-09-01T10:17:53.093Z"
+  },
+  {
+    "key": "shadcn-labs/editorcn#27",
+    "tier": 1,
+    "repo": "shadcn-labs/editorcn",
+    "number": 27,
+    "title": "Clicking on editorcn on header should redirect to homepage",
+    "url": "https://github.com/shadcn-labs/editorcn/issues/27",
+    "comments": 0,
+    "createdAt": "2026-09-01T07:48:56Z",
+    "labels": [
+      "enhancement",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 209,
+    "foundAt": "2026-09-01T10:17:54.169Z"
+  },
+  {
+    "key": "kgoedecke/doop#86",
+    "tier": 1,
+    "repo": "kgoedecke/doop",
+    "number": 86,
+    "title": "Implement common actions on tabs in MacOS app",
+    "url": "https://github.com/kgoedecke/doop/issues/86",
+    "comments": 0,
+    "createdAt": "2026-09-01T06:56:03Z",
+    "labels": [
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 542,
+    "foundAt": "2026-09-01T10:17:54.357Z"
+  },
+  {
+    "key": "Nano-Collective/nanocoder#1114",
+    "tier": 1,
+    "repo": "Nano-Collective/nanocoder",
+    "number": 1114,
+    "title": "[Bug] ascii logo is missing in small/narrow terminals (e.g., VS Code) in new-ui",
+    "url": "https://github.com/Nano-Collective/nanocoder/issues/1114",
+    "comments": 0,
+    "createdAt": "2026-09-01T06:43:32Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "ux",
+      "ui"
+    ],
+    "language": "typescript",
+    "stars": 2385,
+    "foundAt": "2026-09-01T10:17:54.536Z"
+  },
+  {
     "key": "kgoedecke/doop#84",
     "tier": 1,
     "repo": "kgoedecke/doop",
@@ -1822,110 +1928,5 @@
     "language": "javascript",
     "stars": 13724,
     "foundAt": "2026-08-30T06:52:14.925Z"
-  },
-  {
-    "key": "TriliumNext/Trilium#11256",
-    "tier": 2,
-    "repo": "TriliumNext/Trilium",
-    "number": 11256,
-    "title": "Two collapse‑related enter‑key bugs for todo/unordered lists",
-    "url": "https://github.com/TriliumNext/Trilium/issues/11256",
-    "comments": 1,
-    "createdAt": "2026-08-30T00:57:56Z",
-    "labels": [
-      "Difficulty: Easy",
-      "State: Triage",
-      "awaiting feedback",
-      "UI"
-    ],
-    "language": "typescript",
-    "stars": 37596,
-    "foundAt": "2026-08-30T06:52:14.641Z"
-  },
-  {
-    "key": "jakubkozera/vsc-csharp-dev-tools#262",
-    "tier": 2,
-    "repo": "jakubkozera/vsc-csharp-dev-tools",
-    "number": 262,
-    "title": "[Bug]: When typing in the code window, opens a dropdown",
-    "url": "https://github.com/jakubkozera/vsc-csharp-dev-tools/issues/262",
-    "comments": 2,
-    "createdAt": "2026-08-29T13:03:18Z",
-    "labels": [
-      "bug",
-      "help wanted"
-    ],
-    "language": "css",
-    "stars": 348,
-    "foundAt": "2026-08-30T06:52:15.183Z"
-  },
-  {
-    "key": "upstash/context7#3108",
-    "tier": 3,
-    "repo": "upstash/context7",
-    "number": 3108,
-    "title": "[Docs]:",
-    "url": "https://github.com/upstash/context7/issues/3108",
-    "comments": 0,
-    "createdAt": "2026-08-30T05:40:48Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "typescript",
-    "stars": 61225,
-    "foundAt": "2026-08-30T06:52:17.450Z"
-  },
-  {
-    "key": "xmanrui/dsh-im#88",
-    "tier": 1,
-    "repo": "xmanrui/dsh-im",
-    "number": 88,
-    "title": "[Feature] 为工作区命令增加 /ws、/wsl 和 /workspaces 别名",
-    "url": "https://github.com/xmanrui/dsh-im/issues/88",
-    "comments": 0,
-    "createdAt": "2026-08-29T22:38:14Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 977,
-    "foundAt": "2026-08-30T00:28:35.603Z"
-  },
-  {
-    "key": "xmanrui/dsh-im#87",
-    "tier": 1,
-    "repo": "xmanrui/dsh-im",
-    "number": 87,
-    "title": "[Feature] 支持使用 /workspacelist 序号切换工作区",
-    "url": "https://github.com/xmanrui/dsh-im/issues/87",
-    "comments": 1,
-    "createdAt": "2026-08-29T22:22:06Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 977,
-    "foundAt": "2026-08-30T00:28:35.860Z"
-  },
-  {
-    "key": "xmanrui/dsh-im#89",
-    "tier": 2,
-    "repo": "xmanrui/dsh-im",
-    "number": 89,
-    "title": "[Enhancement] Telegram / 命令菜单自动同步新增命令",
-    "url": "https://github.com/xmanrui/dsh-im/issues/89",
-    "comments": 0,
-    "createdAt": "2026-08-29T22:46:27Z",
-    "labels": [
-      "enhancement",
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 977,
-    "foundAt": "2026-08-30T00:28:37.006Z"
   }
 ]
