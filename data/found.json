@@ -1,5 +1,243 @@
 [
   {
+    "key": "1lck/Lithe-IDEA#404",
+    "tier": 1,
+    "repo": "1lck/Lithe-IDEA",
+    "number": 404,
+    "title": "[Feature] 希望支持项目的显示名自定义",
+    "url": "https://github.com/1lck/Lithe-IDEA/issues/404",
+    "comments": 0,
+    "createdAt": "2026-09-02T06:02:34Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "windows"
+    ],
+    "language": "typescript",
+    "stars": 627,
+    "foundAt": "2026-09-02T09:45:19.209Z"
+  },
+  {
+    "key": "facebook/astryx#5904",
+    "tier": 1,
+    "repo": "facebook/astryx",
+    "number": 5904,
+    "title": "[Bug] Selector Properties preview renders no working component",
+    "url": "https://github.com/facebook/astryx/issues/5904",
+    "comments": 0,
+    "createdAt": "2026-09-02T05:43:19Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 12680,
+    "foundAt": "2026-09-02T09:45:19.397Z"
+  },
+  {
+    "key": "facebook/astryx#5903",
+    "tier": 1,
+    "repo": "facebook/astryx",
+    "number": 5903,
+    "title": "[Bug] MultiSelector Properties preview renders no working component",
+    "url": "https://github.com/facebook/astryx/issues/5903",
+    "comments": 0,
+    "createdAt": "2026-09-02T05:43:04Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 12680,
+    "foundAt": "2026-09-02T09:45:19.397Z"
+  },
+  {
+    "key": "facebook/astryx#5902",
+    "tier": 1,
+    "repo": "facebook/astryx",
+    "number": 5902,
+    "title": "[Bug] PowerSearch Properties preview renders no working component",
+    "url": "https://github.com/facebook/astryx/issues/5902",
+    "comments": 0,
+    "createdAt": "2026-09-02T05:43:02Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 12680,
+    "foundAt": "2026-09-02T09:45:19.397Z"
+  },
+  {
+    "key": "facebook/astryx#5901",
+    "tier": 1,
+    "repo": "facebook/astryx",
+    "number": 5901,
+    "title": "[Bug] SideNavCollapseButton Properties preview renders no working component",
+    "url": "https://github.com/facebook/astryx/issues/5901",
+    "comments": 0,
+    "createdAt": "2026-09-02T05:43:01Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 12680,
+    "foundAt": "2026-09-02T09:45:19.397Z"
+  },
+  {
+    "key": "facebook/astryx#5900",
+    "tier": 1,
+    "repo": "facebook/astryx",
+    "number": 5900,
+    "title": "[Bug] VStack Properties preview renders no working component",
+    "url": "https://github.com/facebook/astryx/issues/5900",
+    "comments": 0,
+    "createdAt": "2026-09-02T05:42:54Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 12680,
+    "foundAt": "2026-09-02T09:45:19.397Z"
+  },
+  {
+    "key": "facebook/astryx#5899",
+    "tier": 1,
+    "repo": "facebook/astryx",
+    "number": 5899,
+    "title": "[Bug] StackItem Properties preview renders no working component",
+    "url": "https://github.com/facebook/astryx/issues/5899",
+    "comments": 0,
+    "createdAt": "2026-09-02T05:42:52Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 12680,
+    "foundAt": "2026-09-02T09:45:19.397Z"
+  },
+  {
+    "key": "facebook/astryx#5898",
+    "tier": 1,
+    "repo": "facebook/astryx",
+    "number": 5898,
+    "title": "[Bug] Stack Properties preview renders no working component",
+    "url": "https://github.com/facebook/astryx/issues/5898",
+    "comments": 0,
+    "createdAt": "2026-09-02T05:42:50Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 12680,
+    "foundAt": "2026-09-02T09:45:19.397Z"
+  },
+  {
+    "key": "facebook/astryx#5897",
+    "tier": 1,
+    "repo": "facebook/astryx",
+    "number": 5897,
+    "title": "[Bug] LayoutPanel Properties preview renders no working component",
+    "url": "https://github.com/facebook/astryx/issues/5897",
+    "comments": 0,
+    "createdAt": "2026-09-02T05:42:41Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 12680,
+    "foundAt": "2026-09-02T09:45:19.397Z"
+  },
+  {
+    "key": "facebook/astryx#5896",
+    "tier": 1,
+    "repo": "facebook/astryx",
+    "number": 5896,
+    "title": "[Bug] LayoutHeader Properties preview renders no working component",
+    "url": "https://github.com/facebook/astryx/issues/5896",
+    "comments": 0,
+    "createdAt": "2026-09-02T05:42:40Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 12680,
+    "foundAt": "2026-09-02T09:45:19.397Z"
+  },
+  {
+    "key": "facebook/astryx#5895",
+    "tier": 1,
+    "repo": "facebook/astryx",
+    "number": 5895,
+    "title": "[Bug] LayoutFooter Properties preview renders no working component",
+    "url": "https://github.com/facebook/astryx/issues/5895",
+    "comments": 0,
+    "createdAt": "2026-09-02T05:42:38Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 12680,
+    "foundAt": "2026-09-02T09:45:19.397Z"
+  },
+  {
+    "key": "facebook/astryx#5894",
+    "tier": 1,
+    "repo": "facebook/astryx",
+    "number": 5894,
+    "title": "[Bug] HStack Properties preview renders no working component",
+    "url": "https://github.com/facebook/astryx/issues/5894",
+    "comments": 0,
+    "createdAt": "2026-09-02T05:42:32Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 12680,
+    "foundAt": "2026-09-02T09:45:19.397Z"
+  },
+  {
+    "key": "facebook/astryx#5893",
+    "tier": 1,
+    "repo": "facebook/astryx",
+    "number": 5893,
+    "title": "[Bug] GridSpan Properties preview renders no working component",
+    "url": "https://github.com/facebook/astryx/issues/5893",
+    "comments": 0,
+    "createdAt": "2026-09-02T05:42:30Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 12680,
+    "foundAt": "2026-09-02T09:45:19.397Z"
+  },
+  {
+    "key": "RushB-fr/freekiosk#250",
+    "tier": 3,
+    "repo": "RushB-fr/freekiosk",
+    "number": 250,
+    "title": "Document the ADB provisioning knobs that are not discoverable from the UI",
+    "url": "https://github.com/RushB-fr/freekiosk/issues/250",
+    "comments": 0,
+    "createdAt": "2026-09-02T09:14:25Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "typescript",
+    "stars": 581,
+    "foundAt": "2026-09-02T09:45:23.114Z"
+  },
+  {
     "key": "xyz-tools/gcode-preview#435",
     "tier": 1,
     "repo": "xyz-tools/gcode-preview",
@@ -1714,256 +1952,5 @@
     "language": "css",
     "stars": 509,
     "foundAt": "2026-09-01T05:22:49.837Z"
-  },
-  {
-    "key": "stdlib-js/stdlib#14863",
-    "tier": 1,
-    "repo": "stdlib-js/stdlib",
-    "number": 14863,
-    "title": "Fix broken Markdown link: https://en.wikipedia.org/wiki/Anglit_distribution",
-    "url": "https://github.com/stdlib-js/stdlib/issues/14863",
-    "comments": 2,
-    "createdAt": "2026-09-01T02:17:33Z",
-    "labels": [
-      "Good First Issue"
-    ],
-    "language": "javascript",
-    "stars": 5944,
-    "foundAt": "2026-09-01T05:22:49.639Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8083",
-    "tier": 2,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8083,
-    "title": "Fork, Commit, Merge - Medium Issue (Java)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8083",
-    "comments": 0,
-    "createdAt": "2026-09-01T02:50:14Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "medium",
-      "java",
-      "up-for-grabs"
-    ],
-    "language": "css",
-    "stars": 509,
-    "foundAt": "2026-09-01T05:22:50.797Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8082",
-    "tier": 2,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8082,
-    "title": "Fork, Commit, Merge - Easy Issue (Java)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8082",
-    "comments": 0,
-    "createdAt": "2026-09-01T02:50:12Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "easy",
-      "java",
-      "up-for-grabs"
-    ],
-    "language": "css",
-    "stars": 509,
-    "foundAt": "2026-09-01T05:22:50.797Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8081",
-    "tier": 2,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8081,
-    "title": "Fork, Commit, Merge - Easy Issue (ReScript)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8081",
-    "comments": 0,
-    "createdAt": "2026-09-01T02:50:10Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "easy",
-      "rescript",
-      "up-for-grabs"
-    ],
-    "language": "css",
-    "stars": 509,
-    "foundAt": "2026-09-01T05:22:50.797Z"
-  },
-  {
-    "key": "AprilSylph/XKit-Rewritten#2368",
-    "tier": 2,
-    "repo": "AprilSylph/XKit-Rewritten",
-    "number": 2368,
-    "title": "Improve sidebar item spacing",
-    "url": "https://github.com/AprilSylph/XKit-Rewritten/issues/2368",
-    "comments": 0,
-    "createdAt": "2026-09-01T00:57:25Z",
-    "labels": [
-      "enhancement",
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 371,
-    "foundAt": "2026-09-01T05:22:50.797Z"
-  },
-  {
-    "key": "open-constructs/cdk-terrain#387",
-    "tier": 3,
-    "repo": "open-constructs/cdk-terrain",
-    "number": 387,
-    "title": "Docs: go get of prebuilt aws-go provider fails with \"module source tree too large\" (500MB Go proxy limit); document GOPRIVATE workaround",
-    "url": "https://github.com/open-constructs/cdk-terrain/issues/387",
-    "comments": 0,
-    "createdAt": "2026-09-01T05:20:36Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "typescript",
-    "stars": 257,
-    "foundAt": "2026-09-01T05:22:51.019Z"
-  },
-  {
-    "key": "jaegertracing/jaeger-ui#4418",
-    "tier": 1,
-    "repo": "jaegertracing/jaeger-ui",
-    "number": 4418,
-    "title": "[chore]: Contextual controls in span row in trace timeline view",
-    "url": "https://github.com/jaegertracing/jaeger-ui/issues/4418",
-    "comments": 0,
-    "createdAt": "2026-08-31T23:33:16Z",
-    "labels": [
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 1524,
-    "foundAt": "2026-08-31T23:57:15.761Z"
-  },
-  {
-    "key": "silexlabs/Silex#1846",
-    "tier": 2,
-    "repo": "silexlabs/Silex",
-    "number": 1846,
-    "title": "Style Manager: the CSS variables plugin keeps its own list of Silex properties",
-    "url": "https://github.com/silexlabs/Silex/issues/1846",
-    "comments": 1,
-    "createdAt": "2026-08-31T22:18:14Z",
-    "labels": [
-      "help wanted",
-      "enhancement"
-    ],
-    "language": "typescript",
-    "stars": 2936,
-    "foundAt": "2026-08-31T23:57:18.402Z"
-  },
-  {
-    "key": "OWASP/cve-lite-cli#1063",
-    "tier": 3,
-    "repo": "OWASP/cve-lite-cli",
-    "number": 1063,
-    "title": "docs: link comparison table rows to their docs pages in README",
-    "url": "https://github.com/OWASP/cve-lite-cli/issues/1063",
-    "comments": 0,
-    "createdAt": "2026-08-31T23:55:39Z",
-    "labels": [
-      "documentation",
-      "in-house"
-    ],
-    "language": "typescript",
-    "stars": 681,
-    "foundAt": "2026-08-31T23:57:18.770Z"
-  },
-  {
-    "key": "shadcn-labs/editorcn#21",
-    "tier": 1,
-    "repo": "shadcn-labs/editorcn",
-    "number": 21,
-    "title": "Fix the code snippet css in landing page",
-    "url": "https://github.com/shadcn-labs/editorcn/issues/21",
-    "comments": 0,
-    "createdAt": "2026-08-31T19:10:11Z",
-    "labels": [
-      "enhancement",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 209,
-    "foundAt": "2026-08-31T20:13:46.440Z"
-  },
-  {
-    "key": "shadcn-labs/editorcn#20",
-    "tier": 1,
-    "repo": "shadcn-labs/editorcn",
-    "number": 20,
-    "title": "Fix the code block syntax highlighting colour in toolbar editor",
-    "url": "https://github.com/shadcn-labs/editorcn/issues/20",
-    "comments": 0,
-    "createdAt": "2026-08-31T19:01:42Z",
-    "labels": [
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 209,
-    "foundAt": "2026-08-31T20:13:46.440Z"
-  },
-  {
-    "key": "shadcn-labs/editorcn#19",
-    "tier": 1,
-    "repo": "shadcn-labs/editorcn",
-    "number": 19,
-    "title": "Fix the Text selection colour on web app",
-    "url": "https://github.com/shadcn-labs/editorcn/issues/19",
-    "comments": 0,
-    "createdAt": "2026-08-31T18:54:51Z",
-    "labels": [
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 209,
-    "foundAt": "2026-08-31T20:13:46.440Z"
-  },
-  {
-    "key": "jaegertracing/jaeger-ui#4415",
-    "tier": 1,
-    "repo": "jaegertracing/jaeger-ui",
-    "number": 4415,
-    "title": "[chore]: Do not switch to GenAI span view if there are no recognized attributes",
-    "url": "https://github.com/jaegertracing/jaeger-ui/issues/4415",
-    "comments": 0,
-    "createdAt": "2026-08-31T18:37:31Z",
-    "labels": [
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 1524,
-    "foundAt": "2026-08-31T20:13:46.975Z"
-  },
-  {
-    "key": "reticlehq/reticle#702",
-    "tier": 1,
-    "repo": "reticlehq/reticle",
-    "number": 702,
-    "title": "act_sequence steps reject `target` and the error blames a stale ref",
-    "url": "https://github.com/reticlehq/reticle/issues/702",
-    "comments": 1,
-    "createdAt": "2026-08-31T18:33:35Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-31T20:13:46.975Z"
   }
 ]

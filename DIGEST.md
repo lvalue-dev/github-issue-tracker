@@ -4,6 +4,20 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-02 | 🥇 | [[Feature] 希望支持项目的显示名自定义](https://github.com/1lck/Lithe-IDEA/issues/404) | `1lck/Lithe-IDEA` | ⭐ 627 |
+| 2026-09-02 | 🥇 | [[Bug] Selector Properties preview renders no working component](https://github.com/facebook/astryx/issues/5904) | `facebook/astryx` | ⭐ 12.7k |
+| 2026-09-02 | 🥇 | [[Bug] MultiSelector Properties preview renders no working component](https://github.com/facebook/astryx/issues/5903) | `facebook/astryx` | ⭐ 12.7k |
+| 2026-09-02 | 🥇 | [[Bug] PowerSearch Properties preview renders no working component](https://github.com/facebook/astryx/issues/5902) | `facebook/astryx` | ⭐ 12.7k |
+| 2026-09-02 | 🥇 | [[Bug] SideNavCollapseButton Properties preview renders no working component](https://github.com/facebook/astryx/issues/5901) | `facebook/astryx` | ⭐ 12.7k |
+| 2026-09-02 | 🥇 | [[Bug] VStack Properties preview renders no working component](https://github.com/facebook/astryx/issues/5900) | `facebook/astryx` | ⭐ 12.7k |
+| 2026-09-02 | 🥇 | [[Bug] StackItem Properties preview renders no working component](https://github.com/facebook/astryx/issues/5899) | `facebook/astryx` | ⭐ 12.7k |
+| 2026-09-02 | 🥇 | [[Bug] Stack Properties preview renders no working component](https://github.com/facebook/astryx/issues/5898) | `facebook/astryx` | ⭐ 12.7k |
+| 2026-09-02 | 🥇 | [[Bug] LayoutPanel Properties preview renders no working component](https://github.com/facebook/astryx/issues/5897) | `facebook/astryx` | ⭐ 12.7k |
+| 2026-09-02 | 🥇 | [[Bug] LayoutHeader Properties preview renders no working component](https://github.com/facebook/astryx/issues/5896) | `facebook/astryx` | ⭐ 12.7k |
+| 2026-09-02 | 🥇 | [[Bug] LayoutFooter Properties preview renders no working component](https://github.com/facebook/astryx/issues/5895) | `facebook/astryx` | ⭐ 12.7k |
+| 2026-09-02 | 🥇 | [[Bug] HStack Properties preview renders no working component](https://github.com/facebook/astryx/issues/5894) | `facebook/astryx` | ⭐ 12.7k |
+| 2026-09-02 | 🥇 | [[Bug] GridSpan Properties preview renders no working component](https://github.com/facebook/astryx/issues/5893) | `facebook/astryx` | ⭐ 12.7k |
+| 2026-09-02 | 🥉 | [Document the ADB provisioning knobs that are not discoverable from the UI](https://github.com/RushB-fr/freekiosk/issues/250) | `RushB-fr/freekiosk` | ⭐ 581 |
 | 2026-09-02 | 🥇 | [Support M428 (home offsets here)](https://github.com/xyz-tools/gcode-preview/issues/435) | `xyz-tools/gcode-preview` | ⭐ 202 |
 | 2026-09-02 | 🥇 | [Support M206 (set home offsets)](https://github.com/xyz-tools/gcode-preview/issues/434) | `xyz-tools/gcode-preview` | ⭐ 202 |
 | 2026-09-02 | 🥇 | [Support G92 (set position)](https://github.com/xyz-tools/gcode-preview/issues/433) | `xyz-tools/gcode-preview` | ⭐ 202 |
@@ -90,17 +104,3 @@
 | 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Rust)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8086) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
 | 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue 3 (Python)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8085) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
 | 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Tailwind CSS)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8084) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
-| 2026-09-01 | 🥇 | [Fix broken Markdown link: https://en.wikipedia.org/wiki/Anglit_distribution](https://github.com/stdlib-js/stdlib/issues/14863) | `stdlib-js/stdlib` | ⭐ 5.9k |
-| 2026-09-01 | 🥈 | [Fork, Commit, Merge - Medium Issue (Java)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8083) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
-| 2026-09-01 | 🥈 | [Fork, Commit, Merge - Easy Issue (Java)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8082) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
-| 2026-09-01 | 🥈 | [Fork, Commit, Merge - Easy Issue (ReScript)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8081) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
-| 2026-09-01 | 🥈 | [Improve sidebar item spacing](https://github.com/AprilSylph/XKit-Rewritten/issues/2368) | `AprilSylph/XKit-Rewritten` | ⭐ 371 |
-| 2026-09-01 | 🥉 | [Docs: go get of prebuilt aws-go provider fails with "module source tree too larg](https://github.com/open-constructs/cdk-terrain/issues/387) | `open-constructs/cdk-terrain` | ⭐ 257 |
-| 2026-08-31 | 🥇 | [[chore]: Contextual controls in span row in trace timeline view](https://github.com/jaegertracing/jaeger-ui/issues/4418) | `jaegertracing/jaeger-ui` | ⭐ 1.5k |
-| 2026-08-31 | 🥈 | [Style Manager: the CSS variables plugin keeps its own list of Silex properties](https://github.com/silexlabs/Silex/issues/1846) | `silexlabs/Silex` | ⭐ 2.9k |
-| 2026-08-31 | 🥉 | [docs: link comparison table rows to their docs pages in README](https://github.com/OWASP/cve-lite-cli/issues/1063) | `OWASP/cve-lite-cli` | ⭐ 681 |
-| 2026-08-31 | 🥇 | [Fix the code snippet css in landing page](https://github.com/shadcn-labs/editorcn/issues/21) | `shadcn-labs/editorcn` | ⭐ 209 |
-| 2026-08-31 | 🥇 | [Fix the code block syntax highlighting colour in toolbar editor](https://github.com/shadcn-labs/editorcn/issues/20) | `shadcn-labs/editorcn` | ⭐ 209 |
-| 2026-08-31 | 🥇 | [Fix the Text selection colour on web app](https://github.com/shadcn-labs/editorcn/issues/19) | `shadcn-labs/editorcn` | ⭐ 209 |
-| 2026-08-31 | 🥇 | [[chore]: Do not switch to GenAI span view if there are no recognized attributes](https://github.com/jaegertracing/jaeger-ui/issues/4415) | `jaegertracing/jaeger-ui` | ⭐ 1.5k |
-| 2026-08-31 | 🥇 | [act_sequence steps reject `target` and the error blames a stale ref](https://github.com/reticlehq/reticle/issues/702) | `reticlehq/reticle` | ⭐ 367 |
