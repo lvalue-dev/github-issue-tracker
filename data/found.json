@@ -1,5 +1,181 @@
 [
   {
+    "key": "codex-team/editor.js#3022",
+    "tier": 1,
+    "repo": "codex-team/editor.js",
+    "number": 3022,
+    "title": "Slow rendering of editor blocks due to offsetWidth",
+    "url": "https://github.com/codex-team/editor.js/issues/3022",
+    "comments": 2,
+    "createdAt": "2026-09-02T13:19:09Z",
+    "labels": [
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 31922,
+    "foundAt": "2026-09-02T14:35:30.025Z"
+  },
+  {
+    "key": "langwatch/langwatch#7773",
+    "tier": 1,
+    "repo": "langwatch/langwatch",
+    "number": 7773,
+    "title": "Convention cleanup in the automations filter display: boolean prop prefixes, test helper params, given blocks",
+    "url": "https://github.com/langwatch/langwatch/issues/7773",
+    "comments": 1,
+    "createdAt": "2026-09-02T12:56:02Z",
+    "labels": [
+      "good first issue",
+      "tech-debt"
+    ],
+    "language": "typescript",
+    "stars": 3522,
+    "foundAt": "2026-09-02T14:35:30.511Z"
+  },
+  {
+    "key": "career-ops-hq/career-ops#3675",
+    "tier": 1,
+    "repo": "career-ops-hq/career-ops",
+    "number": 3675,
+    "title": "i18n(ua): re-sync modes/ua/oferta.md (Ukrainian) to the canonical A–H + Risk Summary structure",
+    "url": "https://github.com/career-ops-hq/career-ops/issues/3675",
+    "comments": 0,
+    "createdAt": "2026-09-02T11:11:24Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "i18n"
+    ],
+    "language": "javascript",
+    "stars": 69868,
+    "foundAt": "2026-09-02T14:35:33.047Z"
+  },
+  {
+    "key": "career-ops-hq/career-ops#3674",
+    "tier": 1,
+    "repo": "career-ops-hq/career-ops",
+    "number": 3674,
+    "title": "i18n(ru): re-sync modes/ru/oferta.md (Russian) to the canonical A–H + Risk Summary structure",
+    "url": "https://github.com/career-ops-hq/career-ops/issues/3674",
+    "comments": 0,
+    "createdAt": "2026-09-02T11:11:22Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "i18n"
+    ],
+    "language": "javascript",
+    "stars": 69868,
+    "foundAt": "2026-09-02T14:35:33.047Z"
+  },
+  {
+    "key": "career-ops-hq/career-ops#3673",
+    "tier": 1,
+    "repo": "career-ops-hq/career-ops",
+    "number": 3673,
+    "title": "i18n(pt): re-sync modes/pt/oferta.md (Portuguese) to the canonical A–H + Risk Summary structure",
+    "url": "https://github.com/career-ops-hq/career-ops/issues/3673",
+    "comments": 0,
+    "createdAt": "2026-09-02T11:11:21Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "i18n"
+    ],
+    "language": "javascript",
+    "stars": 69868,
+    "foundAt": "2026-09-02T14:35:33.047Z"
+  },
+  {
+    "key": "career-ops-hq/career-ops#3672",
+    "tier": 1,
+    "repo": "career-ops-hq/career-ops",
+    "number": 3672,
+    "title": "i18n(pl): re-sync modes/pl/oferta.md (Polish) to the canonical A–H + Risk Summary structure",
+    "url": "https://github.com/career-ops-hq/career-ops/issues/3672",
+    "comments": 0,
+    "createdAt": "2026-09-02T11:11:19Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "i18n"
+    ],
+    "language": "javascript",
+    "stars": 69868,
+    "foundAt": "2026-09-02T14:35:33.047Z"
+  },
+  {
+    "key": "career-ops-hq/career-ops#3671",
+    "tier": 1,
+    "repo": "career-ops-hq/career-ops",
+    "number": 3671,
+    "title": "i18n(es): re-sync modes/es/oferta.md (Spanish) to the canonical A–H + Risk Summary structure",
+    "url": "https://github.com/career-ops-hq/career-ops/issues/3671",
+    "comments": 0,
+    "createdAt": "2026-09-02T11:11:17Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "i18n"
+    ],
+    "language": "javascript",
+    "stars": 69868,
+    "foundAt": "2026-09-02T14:35:33.047Z"
+  },
+  {
+    "key": "career-ops-hq/career-ops#3670",
+    "tier": 1,
+    "repo": "career-ops-hq/career-ops",
+    "number": 3670,
+    "title": "i18n(da): re-sync modes/da/oferta.md (Danish) to the canonical A–H + Risk Summary structure",
+    "url": "https://github.com/career-ops-hq/career-ops/issues/3670",
+    "comments": 0,
+    "createdAt": "2026-09-02T11:11:15Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "i18n"
+    ],
+    "language": "javascript",
+    "stars": 69868,
+    "foundAt": "2026-09-02T14:35:33.047Z"
+  },
+  {
+    "key": "career-ops-hq/career-ops#3669",
+    "tier": 2,
+    "repo": "career-ops-hq/career-ops",
+    "number": 3669,
+    "title": "Umbrella: re-sync the six frozen localized oferta.md modes (da/es/pl/pt/ru/ua) to the canonical A–H + Risk Summary structure",
+    "url": "https://github.com/career-ops-hq/career-ops/issues/3669",
+    "comments": 0,
+    "createdAt": "2026-09-02T11:10:52Z",
+    "labels": [
+      "help wanted",
+      "umbrella",
+      "i18n"
+    ],
+    "language": "javascript",
+    "stars": 69868,
+    "foundAt": "2026-09-02T14:35:35.742Z"
+  },
+  {
+    "key": "typescript-eslint/typescript-eslint#12811",
+    "tier": 3,
+    "repo": "typescript-eslint/typescript-eslint",
+    "number": 12811,
+    "title": "Docs: Add a reference to `webpro-nl/remove-unused-vars`",
+    "url": "https://github.com/typescript-eslint/typescript-eslint/issues/12811",
+    "comments": 1,
+    "createdAt": "2026-09-02T14:12:18Z",
+    "labels": [
+      "triage",
+      "documentation"
+    ],
+    "language": "typescript",
+    "stars": 16375,
+    "foundAt": "2026-09-02T14:35:36.974Z"
+  },
+  {
     "key": "1lck/Lithe-IDEA#404",
     "tier": 1,
     "repo": "1lck/Lithe-IDEA",
@@ -1718,236 +1894,6 @@
       "dotnet",
       "up-for-grabs",
       ".NET"
-    ],
-    "language": "css",
-    "stars": 509,
-    "foundAt": "2026-09-01T05:22:49.837Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8093",
-    "tier": 1,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8093,
-    "title": "Fork, Commit, Merge - Medium Issue (HTML)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8093",
-    "comments": 0,
-    "createdAt": "2026-09-01T02:50:28Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "medium",
-      "html",
-      "up-for-grabs"
-    ],
-    "language": "css",
-    "stars": 509,
-    "foundAt": "2026-09-01T05:22:49.837Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8092",
-    "tier": 1,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8092,
-    "title": "Fork, Commit, Merge - Easy Issue (Bash)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8092",
-    "comments": 0,
-    "createdAt": "2026-09-01T02:50:27Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "bash",
-      "shell",
-      "up-for-grabs"
-    ],
-    "language": "css",
-    "stars": 509,
-    "foundAt": "2026-09-01T05:22:49.837Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8091",
-    "tier": 1,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8091,
-    "title": "Fork, Commit, Merge - Medium Issue 2 (React.js)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8091",
-    "comments": 0,
-    "createdAt": "2026-09-01T02:50:25Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "typescript",
-      "react",
-      "vite",
-      "up-for-grabs",
-      "reactjs",
-      "jsx"
-    ],
-    "language": "css",
-    "stars": 509,
-    "foundAt": "2026-09-01T05:22:49.837Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8090",
-    "tier": 1,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8090,
-    "title": "Fork, Commit, Merge - Medium Issue 1 (React.js)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8090",
-    "comments": 0,
-    "createdAt": "2026-09-01T02:50:24Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "javascript",
-      "react",
-      "vite",
-      "up-for-grabs",
-      "reactjs",
-      "jsx"
-    ],
-    "language": "css",
-    "stars": 509,
-    "foundAt": "2026-09-01T05:22:49.837Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8089",
-    "tier": 1,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8089,
-    "title": "Fork, Commit, Merge - Easy Issue (Markdown)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8089",
-    "comments": 0,
-    "createdAt": "2026-09-01T02:50:22Z",
-    "labels": [
-      "documentation",
-      "help wanted",
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "easy",
-      "markdown",
-      "up-for-grabs"
-    ],
-    "language": "css",
-    "stars": 509,
-    "foundAt": "2026-09-01T05:22:49.837Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8088",
-    "tier": 1,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8088,
-    "title": "Fork, Commit, Merge - Medium Issue (Python)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8088",
-    "comments": 0,
-    "createdAt": "2026-09-01T02:50:21Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "medium",
-      "python",
-      "up-for-grabs"
-    ],
-    "language": "css",
-    "stars": 509,
-    "foundAt": "2026-09-01T05:22:49.837Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8087",
-    "tier": 1,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8087,
-    "title": "Fork, Commit, Merge - Hard Issue (JavaScript/Jest)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8087",
-    "comments": 0,
-    "createdAt": "2026-09-01T02:50:19Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "javascript",
-      "jest",
-      "testing",
-      "up-for-grabs"
-    ],
-    "language": "css",
-    "stars": 509,
-    "foundAt": "2026-09-01T05:22:49.837Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8086",
-    "tier": 1,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8086,
-    "title": "Fork, Commit, Merge - Easy Issue (Rust)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8086",
-    "comments": 0,
-    "createdAt": "2026-09-01T02:50:18Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "easy",
-      "rust",
-      "up-for-grabs"
-    ],
-    "language": "css",
-    "stars": 509,
-    "foundAt": "2026-09-01T05:22:49.837Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8085",
-    "tier": 1,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8085,
-    "title": "Fork, Commit, Merge - Easy Issue 3 (Python)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8085",
-    "comments": 0,
-    "createdAt": "2026-09-01T02:50:16Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "easy",
-      "python",
-      "up-for-grabs"
-    ],
-    "language": "css",
-    "stars": 509,
-    "foundAt": "2026-09-01T05:22:49.837Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8084",
-    "tier": 1,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8084,
-    "title": "Fork, Commit, Merge - Easy Issue (Tailwind CSS)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8084",
-    "comments": 0,
-    "createdAt": "2026-09-01T02:50:15Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "easy",
-      "css",
-      "tailwindcss",
-      "tailwind",
-      "up-for-grabs"
     ],
     "language": "css",
     "stars": 509,

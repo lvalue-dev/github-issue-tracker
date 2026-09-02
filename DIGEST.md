@@ -4,6 +4,16 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-02 | 🥇 | [Slow rendering of editor blocks due to offsetWidth](https://github.com/codex-team/editor.js/issues/3022) | `codex-team/editor.js` | ⭐ 31.9k |
+| 2026-09-02 | 🥇 | [Convention cleanup in the automations filter display: boolean prop prefixes, tes](https://github.com/langwatch/langwatch/issues/7773) | `langwatch/langwatch` | ⭐ 3.5k |
+| 2026-09-02 | 🥇 | [i18n(ua): re-sync modes/ua/oferta.md (Ukrainian) to the canonical A–H + Risk Sum](https://github.com/career-ops-hq/career-ops/issues/3675) | `career-ops-hq/career-ops` | ⭐ 69.9k |
+| 2026-09-02 | 🥇 | [i18n(ru): re-sync modes/ru/oferta.md (Russian) to the canonical A–H + Risk Summa](https://github.com/career-ops-hq/career-ops/issues/3674) | `career-ops-hq/career-ops` | ⭐ 69.9k |
+| 2026-09-02 | 🥇 | [i18n(pt): re-sync modes/pt/oferta.md (Portuguese) to the canonical A–H + Risk Su](https://github.com/career-ops-hq/career-ops/issues/3673) | `career-ops-hq/career-ops` | ⭐ 69.9k |
+| 2026-09-02 | 🥇 | [i18n(pl): re-sync modes/pl/oferta.md (Polish) to the canonical A–H + Risk Summar](https://github.com/career-ops-hq/career-ops/issues/3672) | `career-ops-hq/career-ops` | ⭐ 69.9k |
+| 2026-09-02 | 🥇 | [i18n(es): re-sync modes/es/oferta.md (Spanish) to the canonical A–H + Risk Summa](https://github.com/career-ops-hq/career-ops/issues/3671) | `career-ops-hq/career-ops` | ⭐ 69.9k |
+| 2026-09-02 | 🥇 | [i18n(da): re-sync modes/da/oferta.md (Danish) to the canonical A–H + Risk Summar](https://github.com/career-ops-hq/career-ops/issues/3670) | `career-ops-hq/career-ops` | ⭐ 69.9k |
+| 2026-09-02 | 🥈 | [Umbrella: re-sync the six frozen localized oferta.md modes (da/es/pl/pt/ru/ua) t](https://github.com/career-ops-hq/career-ops/issues/3669) | `career-ops-hq/career-ops` | ⭐ 69.9k |
+| 2026-09-02 | 🥉 | [Docs: Add a reference to `webpro-nl/remove-unused-vars`](https://github.com/typescript-eslint/typescript-eslint/issues/12811) | `typescript-eslint/typescript-eslint` | ⭐ 16.4k |
 | 2026-09-02 | 🥇 | [[Feature] 希望支持项目的显示名自定义](https://github.com/1lck/Lithe-IDEA/issues/404) | `1lck/Lithe-IDEA` | ⭐ 627 |
 | 2026-09-02 | 🥇 | [[Bug] Selector Properties preview renders no working component](https://github.com/facebook/astryx/issues/5904) | `facebook/astryx` | ⭐ 12.7k |
 | 2026-09-02 | 🥇 | [[Bug] MultiSelector Properties preview renders no working component](https://github.com/facebook/astryx/issues/5903) | `facebook/astryx` | ⭐ 12.7k |
@@ -94,13 +104,3 @@
 | 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (TypeScript/Vitest)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8096) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
 | 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue 1 (Dart)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8095) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
 | 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (C#)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8094) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
-| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Medium Issue (HTML)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8093) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
-| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Bash)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8092) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
-| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Medium Issue 2 (React.js)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8091) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
-| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Medium Issue 1 (React.js)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8090) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
-| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Markdown)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8089) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
-| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Medium Issue (Python)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8088) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
-| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Hard Issue (JavaScript/Jest)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8087) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
-| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Rust)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8086) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
-| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue 3 (Python)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8085) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
-| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Tailwind CSS)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8084) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
