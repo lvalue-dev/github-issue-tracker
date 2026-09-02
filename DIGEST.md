@@ -4,6 +4,15 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-02 | 🥇 | [[Bug]: [workflow-engine-redis] Options type declares top-level redisUrl but load](https://github.com/medusajs/medusa/issues/16697) | `medusajs/medusa` | ⭐ 36.1k |
+| 2026-09-02 | 🥇 | [feat/DB Inspector Web UI](https://github.com/goatplatform/goatdb/issues/56) | `goatplatform/goatdb` | ⭐ 572 |
+| 2026-09-02 | 🥇 | [[ACTION] Freshdesk - List Tickets: add requester_id / email / per_page / updated](https://github.com/PipedreamHQ/pipedream/issues/21866) | `PipedreamHQ/pipedream` | ⭐ 11.7k |
+| 2026-09-02 | 🥈 | [诚邀贡献者协助接入 iMessage 渠道](https://github.com/xmanrui/dsh-im/issues/137) | `xmanrui/dsh-im` | ⭐ 977 |
+| 2026-09-02 | 🥈 | [feat(pipeline): heuristic pre-score gate before LLM evaluation (spin-out from RF](https://github.com/career-ops-hq/career-ops/issues/3680) | `career-ops-hq/career-ops` | ⭐ 69.9k |
+| 2026-09-02 | 🥉 | [[ROSETTA] Make research source tooling capability-aware](https://github.com/griddynamics/rosetta/issues/355) | `griddynamics/rosetta` | ⭐ 341 |
+| 2026-09-02 | 🥉 | [[ROSETTA] Document MCP timeout and health environment variables](https://github.com/griddynamics/rosetta/issues/349) | `griddynamics/rosetta` | ⭐ 341 |
+| 2026-09-02 | 🥉 | [Effect installation docs gives error](https://github.com/Effect-TS/effect/issues/7653) | `Effect-TS/effect` | ⭐ 15.8k |
+| 2026-09-02 | 🥉 | [docs(backend): GAMIFICATION.md documents an XP reward table that does not exist ](https://github.com/diegosouzapw/OmniRoute/issues/12501) | `diegosouzapw/OmniRoute` | ⭐ 60.3k |
 | 2026-09-02 | 🥇 | [Slow rendering of editor blocks due to offsetWidth](https://github.com/codex-team/editor.js/issues/3022) | `codex-team/editor.js` | ⭐ 31.9k |
 | 2026-09-02 | 🥇 | [Convention cleanup in the automations filter display: boolean prop prefixes, tes](https://github.com/langwatch/langwatch/issues/7773) | `langwatch/langwatch` | ⭐ 3.5k |
 | 2026-09-02 | 🥇 | [i18n(ua): re-sync modes/ua/oferta.md (Ukrainian) to the canonical A–H + Risk Sum](https://github.com/career-ops-hq/career-ops/issues/3675) | `career-ops-hq/career-ops` | ⭐ 69.9k |
@@ -95,12 +104,3 @@
 | 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue 1 (PHP)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8105) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
 | 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue 2 (PHP)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8104) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
 | 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Next.js)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8103) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
-| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (React.js)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8102) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
-| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue 3 (Dart)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8101) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
-| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue 2 (Dart)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8100) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
-| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue 3 (HTML)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8099) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
-| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue 2 (HTML)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8098) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
-| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue 1 (HTML)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8097) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
-| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (TypeScript/Vitest)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8096) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
-| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue 1 (Dart)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8095) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
-| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (C#)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8094) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |

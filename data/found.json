@@ -1,5 +1,162 @@
 [
   {
+    "key": "medusajs/medusa#16697",
+    "tier": 1,
+    "repo": "medusajs/medusa",
+    "number": 16697,
+    "title": "[Bug]: [workflow-engine-redis] Options type declares top-level redisUrl but loader only reads nested options.redis",
+    "url": "https://github.com/medusajs/medusa/issues/16697",
+    "comments": 2,
+    "createdAt": "2026-09-02T17:41:46Z",
+    "labels": [
+      "good first issue",
+      "type: bug",
+      "status: needs triaging",
+      "version: 2.0"
+    ],
+    "language": "typescript",
+    "stars": 36109,
+    "foundAt": "2026-09-02T18:49:23.136Z"
+  },
+  {
+    "key": "goatplatform/goatdb#56",
+    "tier": 1,
+    "repo": "goatplatform/goatdb",
+    "number": 56,
+    "title": "feat/DB Inspector Web UI",
+    "url": "https://github.com/goatplatform/goatdb/issues/56",
+    "comments": 0,
+    "createdAt": "2026-09-02T16:12:49Z",
+    "labels": [
+      "enhancement",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 572,
+    "foundAt": "2026-09-02T18:49:23.772Z"
+  },
+  {
+    "key": "PipedreamHQ/pipedream#21866",
+    "tier": 1,
+    "repo": "PipedreamHQ/pipedream",
+    "number": 21866,
+    "title": "[ACTION] Freshdesk - List Tickets: add requester_id / email / per_page / updated_since / include filters (For Neople)",
+    "url": "https://github.com/PipedreamHQ/pipedream/issues/21866",
+    "comments": 1,
+    "createdAt": "2026-09-02T15:12:30Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "action"
+    ],
+    "language": "javascript",
+    "stars": 11665,
+    "foundAt": "2026-09-02T18:49:24.744Z"
+  },
+  {
+    "key": "xmanrui/dsh-im#137",
+    "tier": 2,
+    "repo": "xmanrui/dsh-im",
+    "number": 137,
+    "title": "诚邀贡献者协助接入 iMessage 渠道",
+    "url": "https://github.com/xmanrui/dsh-im/issues/137",
+    "comments": 0,
+    "createdAt": "2026-09-02T18:26:59Z",
+    "labels": [
+      "enhancement",
+      "help wanted"
+    ],
+    "language": "javascript",
+    "stars": 977,
+    "foundAt": "2026-09-02T18:49:25.703Z"
+  },
+  {
+    "key": "career-ops-hq/career-ops#3680",
+    "tier": 2,
+    "repo": "career-ops-hq/career-ops",
+    "number": 3680,
+    "title": "feat(pipeline): heuristic pre-score gate before LLM evaluation (spin-out from RFC #494)",
+    "url": "https://github.com/career-ops-hq/career-ops/issues/3680",
+    "comments": 1,
+    "createdAt": "2026-09-02T11:24:39Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "architectural-proposal"
+    ],
+    "language": "javascript",
+    "stars": 69868,
+    "foundAt": "2026-09-02T18:49:25.972Z"
+  },
+  {
+    "key": "griddynamics/rosetta#355",
+    "tier": 3,
+    "repo": "griddynamics/rosetta",
+    "number": 355,
+    "title": "[ROSETTA] Make research source tooling capability-aware",
+    "url": "https://github.com/griddynamics/rosetta/issues/355",
+    "comments": 1,
+    "createdAt": "2026-09-02T18:35:37Z",
+    "labels": [
+      "documentation",
+      "instructions"
+    ],
+    "language": "typescript",
+    "stars": 341,
+    "foundAt": "2026-09-02T18:49:26.317Z"
+  },
+  {
+    "key": "griddynamics/rosetta#349",
+    "tier": 3,
+    "repo": "griddynamics/rosetta",
+    "number": 349,
+    "title": "[ROSETTA] Document MCP timeout and health environment variables",
+    "url": "https://github.com/griddynamics/rosetta/issues/349",
+    "comments": 1,
+    "createdAt": "2026-09-02T18:09:45Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "typescript",
+    "stars": 341,
+    "foundAt": "2026-09-02T18:49:27.447Z"
+  },
+  {
+    "key": "Effect-TS/effect#7653",
+    "tier": 3,
+    "repo": "Effect-TS/effect",
+    "number": 7653,
+    "title": "Effect installation docs gives error",
+    "url": "https://github.com/Effect-TS/effect/issues/7653",
+    "comments": 0,
+    "createdAt": "2026-09-02T18:09:23Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "typescript",
+    "stars": 15765,
+    "foundAt": "2026-09-02T18:49:27.664Z"
+  },
+  {
+    "key": "diegosouzapw/OmniRoute#12501",
+    "tier": 3,
+    "repo": "diegosouzapw/OmniRoute",
+    "number": 12501,
+    "title": "docs(backend): GAMIFICATION.md documents an XP reward table that does not exist in the code",
+    "url": "https://github.com/diegosouzapw/OmniRoute/issues/12501",
+    "comments": 0,
+    "createdAt": "2026-09-02T18:09:09Z",
+    "labels": [
+      "documentation",
+      "backlog",
+      "backend"
+    ],
+    "language": "typescript",
+    "stars": 60289,
+    "foundAt": "2026-09-02T18:49:27.839Z"
+  },
+  {
     "key": "codex-team/editor.js#3022",
     "tier": 1,
     "repo": "codex-team/editor.js",
@@ -1689,211 +1846,6 @@
       "nextjs",
       "up-for-grabs",
       "reactjs"
-    ],
-    "language": "css",
-    "stars": 509,
-    "foundAt": "2026-09-01T05:22:49.837Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8102",
-    "tier": 1,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8102,
-    "title": "Fork, Commit, Merge - Easy Issue (React.js)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8102",
-    "comments": 0,
-    "createdAt": "2026-09-01T02:50:41Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "easy",
-      "javascript",
-      "react",
-      "vite",
-      "up-for-grabs",
-      "reactjs"
-    ],
-    "language": "css",
-    "stars": 509,
-    "foundAt": "2026-09-01T05:22:49.837Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8101",
-    "tier": 1,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8101,
-    "title": "Fork, Commit, Merge - Easy Issue 3 (Dart)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8101",
-    "comments": 0,
-    "createdAt": "2026-09-01T02:50:40Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "easy",
-      "dart",
-      "up-for-grabs"
-    ],
-    "language": "css",
-    "stars": 509,
-    "foundAt": "2026-09-01T05:22:49.837Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8100",
-    "tier": 1,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8100,
-    "title": "Fork, Commit, Merge - Easy Issue 2 (Dart)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8100",
-    "comments": 0,
-    "createdAt": "2026-09-01T02:50:38Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "easy",
-      "dart",
-      "up-for-grabs"
-    ],
-    "language": "css",
-    "stars": 509,
-    "foundAt": "2026-09-01T05:22:49.837Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8099",
-    "tier": 1,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8099,
-    "title": "Fork, Commit, Merge - Easy Issue 3 (HTML)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8099",
-    "comments": 0,
-    "createdAt": "2026-09-01T02:50:37Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "easy",
-      "html",
-      "up-for-grabs"
-    ],
-    "language": "css",
-    "stars": 509,
-    "foundAt": "2026-09-01T05:22:49.837Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8098",
-    "tier": 1,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8098,
-    "title": "Fork, Commit, Merge - Easy Issue 2 (HTML)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8098",
-    "comments": 0,
-    "createdAt": "2026-09-01T02:50:35Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "easy",
-      "html",
-      "up-for-grabs"
-    ],
-    "language": "css",
-    "stars": 509,
-    "foundAt": "2026-09-01T05:22:49.837Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8097",
-    "tier": 1,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8097,
-    "title": "Fork, Commit, Merge - Easy Issue 1 (HTML)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8097",
-    "comments": 0,
-    "createdAt": "2026-09-01T02:50:34Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "easy",
-      "html",
-      "up-for-grabs"
-    ],
-    "language": "css",
-    "stars": 509,
-    "foundAt": "2026-09-01T05:22:49.837Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8096",
-    "tier": 1,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8096,
-    "title": "Fork, Commit, Merge - Easy Issue (TypeScript/Vitest)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8096",
-    "comments": 0,
-    "createdAt": "2026-09-01T02:50:32Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "easy",
-      "typescript",
-      "testing",
-      "vitest",
-      "up-for-grabs"
-    ],
-    "language": "css",
-    "stars": 509,
-    "foundAt": "2026-09-01T05:22:49.837Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8095",
-    "tier": 1,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8095,
-    "title": "Fork, Commit, Merge - Easy Issue 1 (Dart)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8095",
-    "comments": 0,
-    "createdAt": "2026-09-01T02:50:31Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "easy",
-      "dart",
-      "up-for-grabs"
-    ],
-    "language": "css",
-    "stars": 509,
-    "foundAt": "2026-09-01T05:22:49.837Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8094",
-    "tier": 1,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8094,
-    "title": "Fork, Commit, Merge - Easy Issue (C#)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8094",
-    "comments": 0,
-    "createdAt": "2026-09-01T02:50:30Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "easy",
-      "c#",
-      "dotnet",
-      "up-for-grabs",
-      ".NET"
     ],
     "language": "css",
     "stars": 509,
