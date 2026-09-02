@@ -4,6 +4,27 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-02 | 🥇 | [Support M428 (home offsets here)](https://github.com/xyz-tools/gcode-preview/issues/435) | `xyz-tools/gcode-preview` | ⭐ 202 |
+| 2026-09-02 | 🥇 | [Support M206 (set home offsets)](https://github.com/xyz-tools/gcode-preview/issues/434) | `xyz-tools/gcode-preview` | ⭐ 202 |
+| 2026-09-02 | 🥇 | [Support G92 (set position)](https://github.com/xyz-tools/gcode-preview/issues/433) | `xyz-tools/gcode-preview` | ⭐ 202 |
+| 2026-09-02 | 🥇 | [Support G90/G91 (absolute/relative positioning)](https://github.com/xyz-tools/gcode-preview/issues/432) | `xyz-tools/gcode-preview` | ⭐ 202 |
+| 2026-09-02 | 🥇 | [Support M290 (babystepping)](https://github.com/xyz-tools/gcode-preview/issues/431) | `xyz-tools/gcode-preview` | ⭐ 202 |
+| 2026-09-02 | 🥇 | [Support M221/M200 (flow percentage and volumetric extrusion)](https://github.com/xyz-tools/gcode-preview/issues/430) | `xyz-tools/gcode-preview` | ⭐ 202 |
+| 2026-09-02 | 🥇 | [Support G161/G162 (home to min/max endstops)](https://github.com/xyz-tools/gcode-preview/issues/429) | `xyz-tools/gcode-preview` | ⭐ 202 |
+| 2026-09-02 | 🥇 | [Support G80 (Prusa mesh bed leveling)](https://github.com/xyz-tools/gcode-preview/issues/428) | `xyz-tools/gcode-preview` | ⭐ 202 |
+| 2026-09-02 | 🥇 | [Support G27 (park toolhead)](https://github.com/xyz-tools/gcode-preview/issues/427) | `xyz-tools/gcode-preview` | ⭐ 202 |
+| 2026-09-02 | 🥇 | [Support pause/filament-change park moves (M600, M601/M602, M125, M25)](https://github.com/xyz-tools/gcode-preview/issues/426) | `xyz-tools/gcode-preview` | ⭐ 202 |
+| 2026-09-02 | 🥇 | [Support G60/G61 (save and restore position)](https://github.com/xyz-tools/gcode-preview/issues/425) | `xyz-tools/gcode-preview` | ⭐ 202 |
+| 2026-09-02 | 🥇 | [Support G92.1 (reset coordinate system offsets)](https://github.com/xyz-tools/gcode-preview/issues/424) | `xyz-tools/gcode-preview` | ⭐ 202 |
+| 2026-09-02 | 🥇 | [Support M218 (hotend/tool offsets)](https://github.com/xyz-tools/gcode-preview/issues/423) | `xyz-tools/gcode-preview` | ⭐ 202 |
+| 2026-09-02 | 🥇 | [Support G53-G59.3 (machine and workplace coordinate systems)](https://github.com/xyz-tools/gcode-preview/issues/422) | `xyz-tools/gcode-preview` | ⭐ 202 |
+| 2026-09-02 | 🥇 | [Support G17/G18/G19 (arc plane selection)](https://github.com/xyz-tools/gcode-preview/issues/421) | `xyz-tools/gcode-preview` | ⭐ 202 |
+| 2026-09-02 | 🥇 | [Support G10/G11 (firmware retract/recover)](https://github.com/xyz-tools/gcode-preview/issues/420) | `xyz-tools/gcode-preview` | ⭐ 202 |
+| 2026-09-02 | 🥇 | [Support M82/M83 (absolute/relative extrusion mode)](https://github.com/xyz-tools/gcode-preview/issues/419) | `xyz-tools/gcode-preview` | ⭐ 202 |
+| 2026-09-02 | 🥈 | [[UI]: Long URLs overflow the Meshery installation terminal](https://github.com/layer5io/layer5/issues/8008) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-02 | 🥈 | [No me deja instalar la extension](https://github.com/jephersonRD/JiruHub/issues/12) | `jephersonRD/JiruHub` | ⭐ 288 |
+| 2026-09-02 | 🥈 | [[Feature] 新旧工作区渲染矛盾逻辑，承接 #390 PR的适配性改动](https://github.com/1lck/Lithe-IDEA/issues/398) | `1lck/Lithe-IDEA` | ⭐ 627 |
+| 2026-09-02 | 🥈 | [Route reading is duplicated six ways: centralise it behind one helper](https://github.com/reticlehq/reticle/issues/727) | `reticlehq/reticle` | ⭐ 367 |
 | 2026-09-02 | 🥇 | [ui: human readable "wait period before next action"](https://github.com/joinmarket-webui/jam/issues/1472) | `joinmarket-webui/jam` | ⭐ 329 |
 | 2026-09-01 | 🥇 | [[UI] left gap in Design code view on small screen](https://github.com/meshery/meshery/issues/21731) | `meshery/meshery` | ⭐ 11.6k |
 | 2026-09-01 | 🥇 | [[UI] Badge overlaps with creator name on small screens](https://github.com/meshery/meshery/issues/21730) | `meshery/meshery` | ⭐ 11.6k |
@@ -83,24 +104,3 @@
 | 2026-08-31 | 🥇 | [Fix the Text selection colour on web app](https://github.com/shadcn-labs/editorcn/issues/19) | `shadcn-labs/editorcn` | ⭐ 209 |
 | 2026-08-31 | 🥇 | [[chore]: Do not switch to GenAI span view if there are no recognized attributes](https://github.com/jaegertracing/jaeger-ui/issues/4415) | `jaegertracing/jaeger-ui` | ⭐ 1.5k |
 | 2026-08-31 | 🥇 | [act_sequence steps reject `target` and the error blames a stale ref](https://github.com/reticlehq/reticle/issues/702) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-31 | 🥇 | [A browser session is reported as an Electron renderer with unobserved IPC covera](https://github.com/reticlehq/reticle/issues/701) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-31 | 🥇 | [The no-store-registered gap fires on apps whose store is registered and readable](https://github.com/reticlehq/reticle/issues/700) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-31 | 🥇 | [flow_save's flowName is the recording's name, not the name to save as](https://github.com/reticlehq/reticle/issues/698) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-31 | 🥇 | [`serve --http-port` is accepted and ignored](https://github.com/reticlehq/reticle/issues/687) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-31 | 🥇 | [doctor and status disagree about whether the daemon is running](https://github.com/reticlehq/reticle/issues/686) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-31 | 🥇 | [The generated connect module is emitted unformatted, so a clean install fails th](https://github.com/reticlehq/reticle/issues/684) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-31 | 🥇 | [init discovery misses nested app directories and a single app under a repo root](https://github.com/reticlehq/reticle/issues/682) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-31 | 🥇 | [The Codex MCP detector does not read an existing [mcp_servers.reticle] table, so](https://github.com/reticlehq/reticle/issues/681) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-31 | 🥇 | [Astro init breaks `astro check`: the injected defines are never declared](https://github.com/reticlehq/reticle/issues/677) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-31 | 🥇 | [The vite plugin injects the connect script at the server root and ignores Vite's](https://github.com/reticlehq/reticle/issues/676) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-31 | 🥇 | [init writes a TypeScript connect module into a JavaScript CRA app, and the first](https://github.com/reticlehq/reticle/issues/675) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-31 | 🥇 | [Add missing config options to configuration.md](https://github.com/clusterio/clusterio/issues/985) | `clusterio/clusterio` | ⭐ 379 |
-| 2026-08-31 | 🥇 | [Link Checker Report](https://github.com/data-engineering-community/data-engineering-wiki/issues/172) | `data-engineering-community/data-engineering-wiki` | ⭐ 2.0k |
-| 2026-08-31 | 🥇 | [[feature request, Kafka test] Add custom group.id prefix to Kafka env variables](https://github.com/datacontract/datacontract-cli/issues/1553) | `datacontract/datacontract-cli` | ⭐ 1.1k |
-| 2026-08-31 | 🥈 | [[UI]: Add a page title and fix content alignment on the Community Leaderboard](https://github.com/meshery/meshery.io/issues/2928) | `meshery/meshery.io` | ⭐ 827 |
-| 2026-08-31 | 🥈 | [Ai integration in block editor](https://github.com/shadcn-labs/editorcn/issues/23) | `shadcn-labs/editorcn` | ⭐ 209 |
-| 2026-08-31 | 🥈 | [Templates](https://github.com/shadcn-labs/editorcn/issues/22) | `shadcn-labs/editorcn` | ⭐ 209 |
-| 2026-08-31 | 🥈 | [A same-page hash anchor is graded route-rendered-nothing](https://github.com/reticlehq/reticle/issues/704) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-31 | 🥈 | [hover reports dispatched and settled while CSS :hover never applies](https://github.com/reticlehq/reticle/issues/703) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-31 | 🥈 | [Replay does not navigate to startPath, and record never persists one](https://github.com/reticlehq/reticle/issues/699) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-31 | 🥈 | [Flow replay silently skips a second destructive step and reports it as testid dr](https://github.com/reticlehq/reticle/issues/697) | `reticlehq/reticle` | ⭐ 367 |

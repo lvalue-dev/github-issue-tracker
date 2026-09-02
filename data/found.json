@@ -1,5 +1,397 @@
 [
   {
+    "key": "xyz-tools/gcode-preview#435",
+    "tier": 1,
+    "repo": "xyz-tools/gcode-preview",
+    "number": 435,
+    "title": "Support M428 (home offsets here)",
+    "url": "https://github.com/xyz-tools/gcode-preview/issues/435",
+    "comments": 0,
+    "createdAt": "2026-09-02T04:02:19Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "3.1+",
+      "interpreter"
+    ],
+    "language": "typescript",
+    "stars": 202,
+    "foundAt": "2026-09-02T04:49:17.345Z"
+  },
+  {
+    "key": "xyz-tools/gcode-preview#434",
+    "tier": 1,
+    "repo": "xyz-tools/gcode-preview",
+    "number": 434,
+    "title": "Support M206 (set home offsets)",
+    "url": "https://github.com/xyz-tools/gcode-preview/issues/434",
+    "comments": 0,
+    "createdAt": "2026-09-02T04:02:12Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "3.1+",
+      "interpreter"
+    ],
+    "language": "typescript",
+    "stars": 202,
+    "foundAt": "2026-09-02T04:49:17.345Z"
+  },
+  {
+    "key": "xyz-tools/gcode-preview#433",
+    "tier": 1,
+    "repo": "xyz-tools/gcode-preview",
+    "number": 433,
+    "title": "Support G92 (set position)",
+    "url": "https://github.com/xyz-tools/gcode-preview/issues/433",
+    "comments": 0,
+    "createdAt": "2026-09-02T04:02:05Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "3.1+",
+      "interpreter"
+    ],
+    "language": "typescript",
+    "stars": 202,
+    "foundAt": "2026-09-02T04:49:17.345Z"
+  },
+  {
+    "key": "xyz-tools/gcode-preview#432",
+    "tier": 1,
+    "repo": "xyz-tools/gcode-preview",
+    "number": 432,
+    "title": "Support G90/G91 (absolute/relative positioning)",
+    "url": "https://github.com/xyz-tools/gcode-preview/issues/432",
+    "comments": 0,
+    "createdAt": "2026-09-02T04:01:56Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "3.1+",
+      "interpreter"
+    ],
+    "language": "typescript",
+    "stars": 202,
+    "foundAt": "2026-09-02T04:49:17.345Z"
+  },
+  {
+    "key": "xyz-tools/gcode-preview#431",
+    "tier": 1,
+    "repo": "xyz-tools/gcode-preview",
+    "number": 431,
+    "title": "Support M290 (babystepping)",
+    "url": "https://github.com/xyz-tools/gcode-preview/issues/431",
+    "comments": 0,
+    "createdAt": "2026-09-02T03:59:27Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "3.1+",
+      "interpreter"
+    ],
+    "language": "typescript",
+    "stars": 202,
+    "foundAt": "2026-09-02T04:49:17.345Z"
+  },
+  {
+    "key": "xyz-tools/gcode-preview#430",
+    "tier": 1,
+    "repo": "xyz-tools/gcode-preview",
+    "number": 430,
+    "title": "Support M221/M200 (flow percentage and volumetric extrusion)",
+    "url": "https://github.com/xyz-tools/gcode-preview/issues/430",
+    "comments": 0,
+    "createdAt": "2026-09-02T03:59:25Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "3.1+",
+      "interpreter"
+    ],
+    "language": "typescript",
+    "stars": 202,
+    "foundAt": "2026-09-02T04:49:17.345Z"
+  },
+  {
+    "key": "xyz-tools/gcode-preview#429",
+    "tier": 1,
+    "repo": "xyz-tools/gcode-preview",
+    "number": 429,
+    "title": "Support G161/G162 (home to min/max endstops)",
+    "url": "https://github.com/xyz-tools/gcode-preview/issues/429",
+    "comments": 0,
+    "createdAt": "2026-09-02T03:59:23Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "3.1+",
+      "interpreter"
+    ],
+    "language": "typescript",
+    "stars": 202,
+    "foundAt": "2026-09-02T04:49:17.345Z"
+  },
+  {
+    "key": "xyz-tools/gcode-preview#428",
+    "tier": 1,
+    "repo": "xyz-tools/gcode-preview",
+    "number": 428,
+    "title": "Support G80 (Prusa mesh bed leveling)",
+    "url": "https://github.com/xyz-tools/gcode-preview/issues/428",
+    "comments": 0,
+    "createdAt": "2026-09-02T03:59:21Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "3.1+",
+      "interpreter"
+    ],
+    "language": "typescript",
+    "stars": 202,
+    "foundAt": "2026-09-02T04:49:17.345Z"
+  },
+  {
+    "key": "xyz-tools/gcode-preview#427",
+    "tier": 1,
+    "repo": "xyz-tools/gcode-preview",
+    "number": 427,
+    "title": "Support G27 (park toolhead)",
+    "url": "https://github.com/xyz-tools/gcode-preview/issues/427",
+    "comments": 0,
+    "createdAt": "2026-09-02T03:59:19Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "3.1+",
+      "interpreter"
+    ],
+    "language": "typescript",
+    "stars": 202,
+    "foundAt": "2026-09-02T04:49:17.345Z"
+  },
+  {
+    "key": "xyz-tools/gcode-preview#426",
+    "tier": 1,
+    "repo": "xyz-tools/gcode-preview",
+    "number": 426,
+    "title": "Support pause/filament-change park moves (M600, M601/M602, M125, M25)",
+    "url": "https://github.com/xyz-tools/gcode-preview/issues/426",
+    "comments": 0,
+    "createdAt": "2026-09-02T03:59:16Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "3.1+",
+      "interpreter"
+    ],
+    "language": "typescript",
+    "stars": 202,
+    "foundAt": "2026-09-02T04:49:17.345Z"
+  },
+  {
+    "key": "xyz-tools/gcode-preview#425",
+    "tier": 1,
+    "repo": "xyz-tools/gcode-preview",
+    "number": 425,
+    "title": "Support G60/G61 (save and restore position)",
+    "url": "https://github.com/xyz-tools/gcode-preview/issues/425",
+    "comments": 0,
+    "createdAt": "2026-09-02T03:59:14Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "3.1+",
+      "interpreter"
+    ],
+    "language": "typescript",
+    "stars": 202,
+    "foundAt": "2026-09-02T04:49:17.345Z"
+  },
+  {
+    "key": "xyz-tools/gcode-preview#424",
+    "tier": 1,
+    "repo": "xyz-tools/gcode-preview",
+    "number": 424,
+    "title": "Support G92.1 (reset coordinate system offsets)",
+    "url": "https://github.com/xyz-tools/gcode-preview/issues/424",
+    "comments": 0,
+    "createdAt": "2026-09-02T03:59:12Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "3.1+",
+      "interpreter"
+    ],
+    "language": "typescript",
+    "stars": 202,
+    "foundAt": "2026-09-02T04:49:17.345Z"
+  },
+  {
+    "key": "xyz-tools/gcode-preview#423",
+    "tier": 1,
+    "repo": "xyz-tools/gcode-preview",
+    "number": 423,
+    "title": "Support M218 (hotend/tool offsets)",
+    "url": "https://github.com/xyz-tools/gcode-preview/issues/423",
+    "comments": 0,
+    "createdAt": "2026-09-02T03:59:10Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "3.1+",
+      "interpreter"
+    ],
+    "language": "typescript",
+    "stars": 202,
+    "foundAt": "2026-09-02T04:49:17.345Z"
+  },
+  {
+    "key": "xyz-tools/gcode-preview#422",
+    "tier": 1,
+    "repo": "xyz-tools/gcode-preview",
+    "number": 422,
+    "title": "Support G53-G59.3 (machine and workplace coordinate systems)",
+    "url": "https://github.com/xyz-tools/gcode-preview/issues/422",
+    "comments": 0,
+    "createdAt": "2026-09-02T03:59:08Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "3.1+",
+      "interpreter"
+    ],
+    "language": "typescript",
+    "stars": 202,
+    "foundAt": "2026-09-02T04:49:17.345Z"
+  },
+  {
+    "key": "xyz-tools/gcode-preview#421",
+    "tier": 1,
+    "repo": "xyz-tools/gcode-preview",
+    "number": 421,
+    "title": "Support G17/G18/G19 (arc plane selection)",
+    "url": "https://github.com/xyz-tools/gcode-preview/issues/421",
+    "comments": 0,
+    "createdAt": "2026-09-02T03:59:06Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "3.1+",
+      "interpreter"
+    ],
+    "language": "typescript",
+    "stars": 202,
+    "foundAt": "2026-09-02T04:49:17.345Z"
+  },
+  {
+    "key": "xyz-tools/gcode-preview#420",
+    "tier": 1,
+    "repo": "xyz-tools/gcode-preview",
+    "number": 420,
+    "title": "Support G10/G11 (firmware retract/recover)",
+    "url": "https://github.com/xyz-tools/gcode-preview/issues/420",
+    "comments": 0,
+    "createdAt": "2026-09-02T03:59:05Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "3.1+",
+      "interpreter"
+    ],
+    "language": "typescript",
+    "stars": 202,
+    "foundAt": "2026-09-02T04:49:17.345Z"
+  },
+  {
+    "key": "xyz-tools/gcode-preview#419",
+    "tier": 1,
+    "repo": "xyz-tools/gcode-preview",
+    "number": 419,
+    "title": "Support M82/M83 (absolute/relative extrusion mode)",
+    "url": "https://github.com/xyz-tools/gcode-preview/issues/419",
+    "comments": 0,
+    "createdAt": "2026-09-02T03:59:03Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "3.1+",
+      "interpreter"
+    ],
+    "language": "typescript",
+    "stars": 202,
+    "foundAt": "2026-09-02T04:49:17.345Z"
+  },
+  {
+    "key": "layer5io/layer5#8008",
+    "tier": 2,
+    "repo": "layer5io/layer5",
+    "number": 8008,
+    "title": "[UI]: Long URLs overflow the Meshery installation terminal",
+    "url": "https://github.com/layer5io/layer5/issues/8008",
+    "comments": 2,
+    "createdAt": "2026-09-02T04:09:19Z",
+    "labels": [
+      "kind/bug",
+      "help wanted",
+      "framework/gatsby"
+    ],
+    "language": "javascript",
+    "stars": 1112,
+    "foundAt": "2026-09-02T04:49:21.697Z"
+  },
+  {
+    "key": "jephersonRD/JiruHub#12",
+    "tier": 2,
+    "repo": "jephersonRD/JiruHub",
+    "number": 12,
+    "title": "No me deja instalar la extension",
+    "url": "https://github.com/jephersonRD/JiruHub/issues/12",
+    "comments": 0,
+    "createdAt": "2026-09-02T04:09:04Z",
+    "labels": [
+      "help wanted"
+    ],
+    "language": "javascript",
+    "stars": 288,
+    "foundAt": "2026-09-02T04:49:21.946Z"
+  },
+  {
+    "key": "1lck/Lithe-IDEA#398",
+    "tier": 2,
+    "repo": "1lck/Lithe-IDEA",
+    "number": 398,
+    "title": "[Feature] 新旧工作区渲染矛盾逻辑，承接 #390 PR的适配性改动",
+    "url": "https://github.com/1lck/Lithe-IDEA/issues/398",
+    "comments": 0,
+    "createdAt": "2026-09-02T02:17:18Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "macos"
+    ],
+    "language": "typescript",
+    "stars": 627,
+    "foundAt": "2026-09-02T04:49:20.337Z"
+  },
+  {
+    "key": "reticlehq/reticle#727",
+    "tier": 2,
+    "repo": "reticlehq/reticle",
+    "number": 727,
+    "title": "Route reading is duplicated six ways: centralise it behind one helper",
+    "url": "https://github.com/reticlehq/reticle/issues/727",
+    "comments": 0,
+    "createdAt": "2026-09-02T00:55:15Z",
+    "labels": [
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 367,
+    "foundAt": "2026-09-02T04:49:21.401Z"
+  },
+  {
     "key": "joinmarket-webui/jam#1472",
     "tier": 1,
     "repo": "joinmarket-webui/jam",
@@ -1573,398 +1965,5 @@
     "language": "typescript",
     "stars": 367,
     "foundAt": "2026-08-31T20:13:46.975Z"
-  },
-  {
-    "key": "reticlehq/reticle#701",
-    "tier": 1,
-    "repo": "reticlehq/reticle",
-    "number": 701,
-    "title": "A browser session is reported as an Electron renderer with unobserved IPC coverage",
-    "url": "https://github.com/reticlehq/reticle/issues/701",
-    "comments": 0,
-    "createdAt": "2026-08-31T18:33:33Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-31T20:13:46.975Z"
-  },
-  {
-    "key": "reticlehq/reticle#700",
-    "tier": 1,
-    "repo": "reticlehq/reticle",
-    "number": 700,
-    "title": "The no-store-registered gap fires on apps whose store is registered and readable",
-    "url": "https://github.com/reticlehq/reticle/issues/700",
-    "comments": 0,
-    "createdAt": "2026-08-31T18:33:31Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "help wanted",
-      "agent-reported",
-      "v2.13.0"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-31T20:13:46.975Z"
-  },
-  {
-    "key": "reticlehq/reticle#698",
-    "tier": 1,
-    "repo": "reticlehq/reticle",
-    "number": 698,
-    "title": "flow_save's flowName is the recording's name, not the name to save as",
-    "url": "https://github.com/reticlehq/reticle/issues/698",
-    "comments": 0,
-    "createdAt": "2026-08-31T18:33:27Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-31T20:13:46.975Z"
-  },
-  {
-    "key": "reticlehq/reticle#687",
-    "tier": 1,
-    "repo": "reticlehq/reticle",
-    "number": 687,
-    "title": "`serve --http-port` is accepted and ignored",
-    "url": "https://github.com/reticlehq/reticle/issues/687",
-    "comments": 0,
-    "createdAt": "2026-08-31T18:32:55Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-31T20:13:46.975Z"
-  },
-  {
-    "key": "reticlehq/reticle#686",
-    "tier": 1,
-    "repo": "reticlehq/reticle",
-    "number": 686,
-    "title": "doctor and status disagree about whether the daemon is running",
-    "url": "https://github.com/reticlehq/reticle/issues/686",
-    "comments": 0,
-    "createdAt": "2026-08-31T18:32:53Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-31T20:13:46.976Z"
-  },
-  {
-    "key": "reticlehq/reticle#684",
-    "tier": 1,
-    "repo": "reticlehq/reticle",
-    "number": 684,
-    "title": "The generated connect module is emitted unformatted, so a clean install fails the project's own lint",
-    "url": "https://github.com/reticlehq/reticle/issues/684",
-    "comments": 0,
-    "createdAt": "2026-08-31T18:32:40Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-31T20:13:46.976Z"
-  },
-  {
-    "key": "reticlehq/reticle#682",
-    "tier": 1,
-    "repo": "reticlehq/reticle",
-    "number": 682,
-    "title": "init discovery misses nested app directories and a single app under a repo root",
-    "url": "https://github.com/reticlehq/reticle/issues/682",
-    "comments": 0,
-    "createdAt": "2026-08-31T18:32:36Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-31T20:13:46.976Z"
-  },
-  {
-    "key": "reticlehq/reticle#681",
-    "tier": 1,
-    "repo": "reticlehq/reticle",
-    "number": 681,
-    "title": "The Codex MCP detector does not read an existing [mcp_servers.reticle] table, so a wired machine gets a warning it must not act on",
-    "url": "https://github.com/reticlehq/reticle/issues/681",
-    "comments": 0,
-    "createdAt": "2026-08-31T18:32:34Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-31T20:13:46.976Z"
-  },
-  {
-    "key": "reticlehq/reticle#677",
-    "tier": 1,
-    "repo": "reticlehq/reticle",
-    "number": 677,
-    "title": "Astro init breaks `astro check`: the injected defines are never declared",
-    "url": "https://github.com/reticlehq/reticle/issues/677",
-    "comments": 0,
-    "createdAt": "2026-08-31T18:32:26Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-31T20:13:46.976Z"
-  },
-  {
-    "key": "reticlehq/reticle#676",
-    "tier": 1,
-    "repo": "reticlehq/reticle",
-    "number": 676,
-    "title": "The vite plugin injects the connect script at the server root and ignores Vite's `base`",
-    "url": "https://github.com/reticlehq/reticle/issues/676",
-    "comments": 0,
-    "createdAt": "2026-08-31T18:32:24Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "help wanted",
-      "agent-reported",
-      "v2.13.0"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-31T20:13:46.976Z"
-  },
-  {
-    "key": "reticlehq/reticle#675",
-    "tier": 1,
-    "repo": "reticlehq/reticle",
-    "number": 675,
-    "title": "init writes a TypeScript connect module into a JavaScript CRA app, and the first compile fails",
-    "url": "https://github.com/reticlehq/reticle/issues/675",
-    "comments": 0,
-    "createdAt": "2026-08-31T18:32:22Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "help wanted",
-      "agent-reported",
-      "v2.13.0"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-31T20:13:46.976Z"
-  },
-  {
-    "key": "clusterio/clusterio#985",
-    "tier": 1,
-    "repo": "clusterio/clusterio",
-    "number": 985,
-    "title": "Add missing config options to configuration.md",
-    "url": "https://github.com/clusterio/clusterio/issues/985",
-    "comments": 0,
-    "createdAt": "2026-08-31T18:09:36Z",
-    "labels": [
-      "Impact: 4-Internal",
-      "Good First Issue",
-      "Scope: Core",
-      "Scope: Plugin"
-    ],
-    "language": "typescript",
-    "stars": 379,
-    "foundAt": "2026-08-31T20:13:47.431Z"
-  },
-  {
-    "key": "data-engineering-community/data-engineering-wiki#172",
-    "tier": 1,
-    "repo": "data-engineering-community/data-engineering-wiki",
-    "number": 172,
-    "title": "Link Checker Report",
-    "url": "https://github.com/data-engineering-community/data-engineering-wiki/issues/172",
-    "comments": 0,
-    "createdAt": "2026-08-31T16:42:12Z",
-    "labels": [
-      "good first issue",
-      "report",
-      "automated issue"
-    ],
-    "language": "css",
-    "stars": 2020,
-    "foundAt": "2026-08-31T20:13:49.137Z"
-  },
-  {
-    "key": "datacontract/datacontract-cli#1553",
-    "tier": 1,
-    "repo": "datacontract/datacontract-cli",
-    "number": 1553,
-    "title": "[feature request, Kafka test] Add custom group.id prefix to Kafka env variables",
-    "url": "https://github.com/datacontract/datacontract-cli/issues/1553",
-    "comments": 2,
-    "createdAt": "2026-08-31T13:02:35Z",
-    "labels": [
-      "enhancement",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 1051,
-    "foundAt": "2026-08-31T20:13:49.137Z"
-  },
-  {
-    "key": "meshery/meshery.io#2928",
-    "tier": 2,
-    "repo": "meshery/meshery.io",
-    "number": 2928,
-    "title": "[UI]: Add a page title and fix content alignment on the Community Leaderboard",
-    "url": "https://github.com/meshery/meshery.io/issues/2928",
-    "comments": 0,
-    "createdAt": "2026-08-31T19:48:31Z",
-    "labels": [
-      "help wanted",
-      "language/javascript",
-      "framework/jekyll",
-      "language/markdown",
-      "area/website",
-      "language/css"
-    ],
-    "language": "javascript",
-    "stars": 827,
-    "foundAt": "2026-08-31T20:13:49.853Z"
-  },
-  {
-    "key": "shadcn-labs/editorcn#23",
-    "tier": 2,
-    "repo": "shadcn-labs/editorcn",
-    "number": 23,
-    "title": "Ai integration in block editor",
-    "url": "https://github.com/shadcn-labs/editorcn/issues/23",
-    "comments": 0,
-    "createdAt": "2026-08-31T19:28:28Z",
-    "labels": [
-      "enhancement",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 209,
-    "foundAt": "2026-08-31T20:13:49.853Z"
-  },
-  {
-    "key": "shadcn-labs/editorcn#22",
-    "tier": 2,
-    "repo": "shadcn-labs/editorcn",
-    "number": 22,
-    "title": "Templates",
-    "url": "https://github.com/shadcn-labs/editorcn/issues/22",
-    "comments": 0,
-    "createdAt": "2026-08-31T19:16:47Z",
-    "labels": [
-      "enhancement",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 209,
-    "foundAt": "2026-08-31T20:13:49.853Z"
-  },
-  {
-    "key": "reticlehq/reticle#704",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 704,
-    "title": "A same-page hash anchor is graded route-rendered-nothing",
-    "url": "https://github.com/reticlehq/reticle/issues/704",
-    "comments": 0,
-    "createdAt": "2026-08-31T18:33:39Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-31T20:13:49.853Z"
-  },
-  {
-    "key": "reticlehq/reticle#703",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 703,
-    "title": "hover reports dispatched and settled while CSS :hover never applies",
-    "url": "https://github.com/reticlehq/reticle/issues/703",
-    "comments": 0,
-    "createdAt": "2026-08-31T18:33:37Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-31T20:13:49.853Z"
-  },
-  {
-    "key": "reticlehq/reticle#699",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 699,
-    "title": "Replay does not navigate to startPath, and record never persists one",
-    "url": "https://github.com/reticlehq/reticle/issues/699",
-    "comments": 0,
-    "createdAt": "2026-08-31T18:33:29Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-31T20:13:49.853Z"
-  },
-  {
-    "key": "reticlehq/reticle#697",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 697,
-    "title": "Flow replay silently skips a second destructive step and reports it as testid drift",
-    "url": "https://github.com/reticlehq/reticle/issues/697",
-    "comments": 0,
-    "createdAt": "2026-08-31T18:33:25Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-31T20:13:49.853Z"
   }
 ]
