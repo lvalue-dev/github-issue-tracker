@@ -4,6 +4,11 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-02 | 🥇 | [[New Feature] - Identifier Tool - Mousing over should also highlight values in t](https://github.com/NASA-AMMOS/MMGIS/issues/1070) | `NASA-AMMOS/MMGIS` | ⭐ 229 |
+| 2026-09-02 | 🥇 | [[Bug]: Coordinates Tab - Projection Setup: duplicate fields and better descripti](https://github.com/NASA-AMMOS/MMGIS/issues/1069) | `NASA-AMMOS/MMGIS` | ⭐ 229 |
+| 2026-09-02 | 🥇 | [[Documentation]: Docs for Agentic Administrator.](https://github.com/NASA-AMMOS/MMGIS/issues/1068) | `NASA-AMMOS/MMGIS` | ⭐ 229 |
+| 2026-09-02 | 🥇 | [Update Documentation Links on the Home Page](https://github.com/PokemonWorkshop/PokemonStudio/issues/816) | `PokemonWorkshop/PokemonStudio` | ⭐ 217 |
+| 2026-09-02 | 🥉 | [MCP 7/7: client compatibility pass, docs, and connect skill (Claude.ai, Claude C](https://github.com/openstory-so/openstory/issues/1463) | `openstory-so/openstory` | ⭐ 564 |
 | 2026-09-02 | 🥇 | [[Bug]: [workflow-engine-redis] Options type declares top-level redisUrl but load](https://github.com/medusajs/medusa/issues/16697) | `medusajs/medusa` | ⭐ 36.1k |
 | 2026-09-02 | 🥇 | [feat/DB Inspector Web UI](https://github.com/goatplatform/goatdb/issues/56) | `goatplatform/goatdb` | ⭐ 572 |
 | 2026-09-02 | 🥇 | [[ACTION] Freshdesk - List Tickets: add requester_id / email / per_page / updated](https://github.com/PipedreamHQ/pipedream/issues/21866) | `PipedreamHQ/pipedream` | ⭐ 11.7k |
@@ -99,8 +104,3 @@
 | 2026-09-01 | 🥇 | [Fork, Commit, Merge - Medium Issue (Docker)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8112) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
 | 2026-09-01 | 🥇 | [Fork, Commit, Merge - Medium Issue (Solid.js)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8109) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
 | 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Solid.js)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8108) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
-| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (JSON)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8107) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
-| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue 3 (PHP)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8106) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
-| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue 1 (PHP)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8105) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
-| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue 2 (PHP)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8104) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
-| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Next.js)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8103) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |

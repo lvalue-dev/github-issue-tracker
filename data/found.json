@@ -1,5 +1,92 @@
 [
   {
+    "key": "NASA-AMMOS/MMGIS#1070",
+    "tier": 1,
+    "repo": "NASA-AMMOS/MMGIS",
+    "number": 1070,
+    "title": "[New Feature] - Identifier Tool - Mousing over should also highlight values in the Legend Tool.",
+    "url": "https://github.com/NASA-AMMOS/MMGIS/issues/1070",
+    "comments": 0,
+    "createdAt": "2026-09-02T20:45:26Z",
+    "labels": [
+      "good first issue",
+      "new feature"
+    ],
+    "language": "javascript",
+    "stars": 229,
+    "foundAt": "2026-09-02T21:54:14.461Z"
+  },
+  {
+    "key": "NASA-AMMOS/MMGIS#1069",
+    "tier": 1,
+    "repo": "NASA-AMMOS/MMGIS",
+    "number": 1069,
+    "title": "[Bug]: Coordinates Tab - Projection Setup: duplicate fields and better description",
+    "url": "https://github.com/NASA-AMMOS/MMGIS/issues/1069",
+    "comments": 0,
+    "createdAt": "2026-09-02T20:40:25Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "documentation"
+    ],
+    "language": "javascript",
+    "stars": 229,
+    "foundAt": "2026-09-02T21:54:14.462Z"
+  },
+  {
+    "key": "NASA-AMMOS/MMGIS#1068",
+    "tier": 1,
+    "repo": "NASA-AMMOS/MMGIS",
+    "number": 1068,
+    "title": "[Documentation]: Docs for Agentic Administrator.",
+    "url": "https://github.com/NASA-AMMOS/MMGIS/issues/1068",
+    "comments": 0,
+    "createdAt": "2026-09-02T20:34:07Z",
+    "labels": [
+      "good first issue",
+      "documentation"
+    ],
+    "language": "javascript",
+    "stars": 229,
+    "foundAt": "2026-09-02T21:54:14.462Z"
+  },
+  {
+    "key": "PokemonWorkshop/PokemonStudio#816",
+    "tier": 1,
+    "repo": "PokemonWorkshop/PokemonStudio",
+    "number": 816,
+    "title": "Update Documentation Links on the Home Page",
+    "url": "https://github.com/PokemonWorkshop/PokemonStudio/issues/816",
+    "comments": 0,
+    "createdAt": "2026-09-02T20:03:38Z",
+    "labels": [
+      "Good first issue",
+      "User story"
+    ],
+    "language": "typescript",
+    "stars": 217,
+    "foundAt": "2026-09-02T21:54:12.138Z"
+  },
+  {
+    "key": "openstory-so/openstory#1463",
+    "tier": 3,
+    "repo": "openstory-so/openstory",
+    "number": 1463,
+    "title": "MCP 7/7: client compatibility pass, docs, and connect skill (Claude.ai, Claude Code, Cursor)",
+    "url": "https://github.com/openstory-so/openstory/issues/1463",
+    "comments": 0,
+    "createdAt": "2026-09-02T21:38:18Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "api"
+    ],
+    "language": "typescript",
+    "stars": 564,
+    "foundAt": "2026-09-02T21:54:15.630Z"
+  },
+  {
     "key": "medusajs/medusa#16697",
     "tier": 1,
     "repo": "medusajs/medusa",
@@ -1732,120 +1819,6 @@
       "javascript",
       "up-for-grabs",
       "solidjs"
-    ],
-    "language": "css",
-    "stars": 509,
-    "foundAt": "2026-09-01T05:22:49.837Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8107",
-    "tier": 1,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8107,
-    "title": "Fork, Commit, Merge - Easy Issue (JSON)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8107",
-    "comments": 0,
-    "createdAt": "2026-09-01T02:50:48Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "easy",
-      "json",
-      "data",
-      "up-for-grabs"
-    ],
-    "language": "css",
-    "stars": 509,
-    "foundAt": "2026-09-01T05:22:49.837Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8106",
-    "tier": 1,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8106,
-    "title": "Fork, Commit, Merge - Easy Issue 3 (PHP)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8106",
-    "comments": 0,
-    "createdAt": "2026-09-01T02:50:47Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "easy",
-      "php",
-      "up-for-grabs"
-    ],
-    "language": "css",
-    "stars": 509,
-    "foundAt": "2026-09-01T05:22:49.837Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8105",
-    "tier": 1,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8105,
-    "title": "Fork, Commit, Merge - Easy Issue 1 (PHP)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8105",
-    "comments": 0,
-    "createdAt": "2026-09-01T02:50:45Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "easy",
-      "php",
-      "up-for-grabs"
-    ],
-    "language": "css",
-    "stars": 509,
-    "foundAt": "2026-09-01T05:22:49.837Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8104",
-    "tier": 1,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8104,
-    "title": "Fork, Commit, Merge - Easy Issue 2 (PHP)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8104",
-    "comments": 0,
-    "createdAt": "2026-09-01T02:50:44Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "easy",
-      "php",
-      "up-for-grabs"
-    ],
-    "language": "css",
-    "stars": 509,
-    "foundAt": "2026-09-01T05:22:49.837Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8103",
-    "tier": 1,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8103,
-    "title": "Fork, Commit, Merge - Easy Issue (Next.js)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8103",
-    "comments": 0,
-    "createdAt": "2026-09-01T02:50:43Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "easy",
-      "typescript",
-      "react",
-      "nextjs",
-      "up-for-grabs",
-      "reactjs"
     ],
     "language": "css",
     "stars": 509,
