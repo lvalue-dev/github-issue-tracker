@@ -4,6 +4,7 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-02 | 🥇 | [ui: human readable "wait period before next action"](https://github.com/joinmarket-webui/jam/issues/1472) | `joinmarket-webui/jam` | ⭐ 329 |
 | 2026-09-01 | 🥇 | [[UI] left gap in Design code view on small screen](https://github.com/meshery/meshery/issues/21731) | `meshery/meshery` | ⭐ 11.6k |
 | 2026-09-01 | 🥇 | [[UI] Badge overlaps with creator name on small screens](https://github.com/meshery/meshery/issues/21730) | `meshery/meshery` | ⭐ 11.6k |
 | 2026-09-01 | 🥇 | [Session test stubs break every time Session gains a method (4th occurrence)](https://github.com/reticlehq/reticle/issues/726) | `reticlehq/reticle` | ⭐ 367 |
@@ -103,4 +104,3 @@
 | 2026-08-31 | 🥈 | [hover reports dispatched and settled while CSS :hover never applies](https://github.com/reticlehq/reticle/issues/703) | `reticlehq/reticle` | ⭐ 367 |
 | 2026-08-31 | 🥈 | [Replay does not navigate to startPath, and record never persists one](https://github.com/reticlehq/reticle/issues/699) | `reticlehq/reticle` | ⭐ 367 |
 | 2026-08-31 | 🥈 | [Flow replay silently skips a second destructive step and reports it as testid dr](https://github.com/reticlehq/reticle/issues/697) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-08-31 | 🥈 | [A flow step's expect accepts one predicate kind, so the saved artifact is strict](https://github.com/reticlehq/reticle/issues/696) | `reticlehq/reticle` | ⭐ 367 |

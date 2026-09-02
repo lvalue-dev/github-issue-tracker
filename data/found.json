@@ -1,5 +1,22 @@
 [
   {
+    "key": "joinmarket-webui/jam#1472",
+    "tier": 1,
+    "repo": "joinmarket-webui/jam",
+    "number": 1472,
+    "title": "ui: human readable \"wait period before next action\"",
+    "url": "https://github.com/joinmarket-webui/jam/issues/1472",
+    "comments": 0,
+    "createdAt": "2026-09-02T00:09:15Z",
+    "labels": [
+      "enhancement",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 329,
+    "foundAt": "2026-09-02T00:21:21.527Z"
+  },
+  {
     "key": "meshery/meshery#21731",
     "tier": 1,
     "repo": "meshery/meshery",
@@ -1941,24 +1958,6 @@
     "url": "https://github.com/reticlehq/reticle/issues/697",
     "comments": 0,
     "createdAt": "2026-08-31T18:33:25Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-08-31T20:13:49.853Z"
-  },
-  {
-    "key": "reticlehq/reticle#696",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 696,
-    "title": "A flow step's expect accepts one predicate kind, so the saved artifact is strictly weaker than the drive that made it",
-    "url": "https://github.com/reticlehq/reticle/issues/696",
-    "comments": 0,
-    "createdAt": "2026-08-31T18:33:23Z",
     "labels": [
       "bug",
       "help wanted",
