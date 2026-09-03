@@ -4,6 +4,16 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-03 | 🥇 | [[Good First Issue] 🐡 Add new False Friend Pair 96 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29687) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-03 | 🥇 | [[Good First Issue] 🍙 Add new Japanese Idiom 49 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29686) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-03 | 🥇 | [[Good First Issue] 🍱 Add new Video Game Quote 29 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29685) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-03 | 🥇 | [[Good First Issue] 🌋 Add new Anime Quote 116 - Beginner-Friendly Open-source Co](https://github.com/lingdojo/kana-dojo/issues/29684) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-03 | 🥇 | [[Good First Issue] 🎋 Add new Grammar Point 132 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29683) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-03 | 🥇 | [[Good First Issue] 🐉 Add new Trivia Question 86 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29682) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-03 | 🥈 | [`tab-size` broken for code embedded in Issues](https://github.com/refined-github/refined-github/issues/10031) | `refined-github/refined-github` | ⭐ 32.0k |
+| 2026-09-03 | 🥈 | [Remove broken/useless Readme link from repo sidebar](https://github.com/refined-github/refined-github/issues/10030) | `refined-github/refined-github` | ⭐ 32.0k |
+| 2026-09-03 | 🥉 | [Command descriptions are ambiguous and lead to wrong actions (promote vs retired](https://github.com/plur-ai/plur/issues/1116) | `plur-ai/plur` | ⭐ 245 |
+| 2026-09-03 | 🥉 | [[Feature] Agent 对话模块：以 ACP 客户端方式接入外部 Agent](https://github.com/1lck/Lithe-IDEA/issues/440) | `1lck/Lithe-IDEA` | ⭐ 627 |
 | 2026-09-03 | 🥇 | [[Good First Issue] 🍘 Add new Theme: Sunrise Express - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29677) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-03 | 🥇 | [[daily-playwright] Playwright Test Coverage Tracker](https://github.com/ohcnetwork/care_fe/issues/16769) | `ohcnetwork/care_fe` | ⭐ 626 |
 | 2026-09-03 | 🥇 | [[Good First Issue] 🍵 Add new Community Note Line #3 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29676) | `lingdojo/kana-dojo` | ⭐ 3.3k |
@@ -94,13 +104,3 @@
 | 2026-09-02 | 🥈 | [No me deja instalar la extension](https://github.com/jephersonRD/JiruHub/issues/12) | `jephersonRD/JiruHub` | ⭐ 288 |
 | 2026-09-02 | 🥈 | [[Feature] 新旧工作区渲染矛盾逻辑，承接 #390 PR的适配性改动](https://github.com/1lck/Lithe-IDEA/issues/398) | `1lck/Lithe-IDEA` | ⭐ 627 |
 | 2026-09-02 | 🥈 | [Route reading is duplicated six ways: centralise it behind one helper](https://github.com/reticlehq/reticle/issues/727) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-09-02 | 🥇 | [ui: human readable "wait period before next action"](https://github.com/joinmarket-webui/jam/issues/1472) | `joinmarket-webui/jam` | ⭐ 329 |
-| 2026-09-01 | 🥇 | [[UI] left gap in Design code view on small screen](https://github.com/meshery/meshery/issues/21731) | `meshery/meshery` | ⭐ 11.6k |
-| 2026-09-01 | 🥇 | [[UI] Badge overlaps with creator name on small screens](https://github.com/meshery/meshery/issues/21730) | `meshery/meshery` | ⭐ 11.6k |
-| 2026-09-01 | 🥇 | [Session test stubs break every time Session gains a method (4th occurrence)](https://github.com/reticlehq/reticle/issues/726) | `reticlehq/reticle` | ⭐ 367 |
-| 2026-09-01 | 🥇 | [[UI] Dry Run content overflows on small screens in Playground Designs](https://github.com/meshery/meshery/issues/21729) | `meshery/meshery` | ⭐ 11.6k |
-| 2026-09-01 | 🥇 | [[UI] Actions dropdown opens behind the toolbar in Designs](https://github.com/meshery/meshery/issues/21728) | `meshery/meshery` | ⭐ 11.6k |
-| 2026-09-01 | 🥇 | [[UI] prevent Designs toolbar overflow on small screens](https://github.com/meshery/meshery/issues/21727) | `meshery/meshery` | ⭐ 11.6k |
-| 2026-09-01 | 🥇 | [Pinch to zoom on iOS does not work](https://github.com/kgoedecke/doop/issues/90) | `kgoedecke/doop` | ⭐ 542 |
-| 2026-09-01 | 🥇 | [workflows: revise provisional execution shape after material clarification](https://github.com/bastani-inc/atomic/issues/2802) | `bastani-inc/atomic` | ⭐ 735 |
-| 2026-09-01 | 🥇 | [Add intended use / purpose field to model inventory](https://github.com/verifywise-ai/verifywise/issues/4585) | `verifywise-ai/verifywise` | ⭐ 343 |

@@ -1,5 +1,218 @@
 [
   {
+    "key": "lingdojo/kana-dojo#29687",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29687,
+    "title": "[Good First Issue] 🐡 Add new False Friend Pair 96 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29687",
+    "comments": 1,
+    "createdAt": "2026-09-03T09:01:04Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-03T09:57:52.704Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29686",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29686,
+    "title": "[Good First Issue] 🍙 Add new Japanese Idiom 49 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29686",
+    "comments": 1,
+    "createdAt": "2026-09-03T08:37:35Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-03T09:57:52.704Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29685",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29685,
+    "title": "[Good First Issue] 🍱 Add new Video Game Quote 29 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29685",
+    "comments": 1,
+    "createdAt": "2026-09-03T08:01:02Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-03T09:57:53.005Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29684",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29684,
+    "title": "[Good First Issue] 🌋 Add new Anime Quote 116 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29684",
+    "comments": 1,
+    "createdAt": "2026-09-03T07:37:31Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-03T09:57:53.819Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29683",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29683,
+    "title": "[Good First Issue] 🎋 Add new Grammar Point 132 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29683",
+    "comments": 1,
+    "createdAt": "2026-09-03T07:01:05Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-03T09:57:54.115Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29682",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29682,
+    "title": "[Good First Issue] 🐉 Add new Trivia Question 86 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29682",
+    "comments": 1,
+    "createdAt": "2026-09-03T06:37:31Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-03T09:57:54.115Z"
+  },
+  {
+    "key": "refined-github/refined-github#10031",
+    "tier": 2,
+    "repo": "refined-github/refined-github",
+    "number": 10031,
+    "title": "`tab-size` broken for code embedded in Issues",
+    "url": "https://github.com/refined-github/refined-github/issues/10031",
+    "comments": 0,
+    "createdAt": "2026-09-03T07:51:34Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "small"
+    ],
+    "language": "typescript",
+    "stars": 32010,
+    "foundAt": "2026-09-03T09:57:55.408Z"
+  },
+  {
+    "key": "refined-github/refined-github#10030",
+    "tier": 2,
+    "repo": "refined-github/refined-github",
+    "number": 10030,
+    "title": "Remove broken/useless Readme link from repo sidebar",
+    "url": "https://github.com/refined-github/refined-github/issues/10030",
+    "comments": 0,
+    "createdAt": "2026-09-03T07:07:25Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "small",
+      "github bug"
+    ],
+    "language": "typescript",
+    "stars": 32010,
+    "foundAt": "2026-09-03T09:57:55.408Z"
+  },
+  {
+    "key": "plur-ai/plur#1116",
+    "tier": 3,
+    "repo": "plur-ai/plur",
+    "number": 1116,
+    "title": "Command descriptions are ambiguous and lead to wrong actions (promote vs retired, forget, unscoped learn)",
+    "url": "https://github.com/plur-ai/plur/issues/1116",
+    "comments": 0,
+    "createdAt": "2026-09-03T09:32:27Z",
+    "labels": [
+      "documentation",
+      "P2"
+    ],
+    "language": "typescript",
+    "stars": 245,
+    "foundAt": "2026-09-03T09:57:55.986Z"
+  },
+  {
+    "key": "1lck/Lithe-IDEA#440",
+    "tier": 3,
+    "repo": "1lck/Lithe-IDEA",
+    "number": 440,
+    "title": "[Feature] Agent 对话模块：以 ACP 客户端方式接入外部 Agent",
+    "url": "https://github.com/1lck/Lithe-IDEA/issues/440",
+    "comments": 0,
+    "createdAt": "2026-09-03T09:10:37Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "windows",
+      "macos",
+      "P2",
+      "platform:macos"
+    ],
+    "language": "typescript",
+    "stars": 627,
+    "foundAt": "2026-09-03T09:57:55.986Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#29677",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1682,177 +1895,5 @@
     "language": "typescript",
     "stars": 367,
     "foundAt": "2026-09-02T04:49:21.401Z"
-  },
-  {
-    "key": "joinmarket-webui/jam#1472",
-    "tier": 1,
-    "repo": "joinmarket-webui/jam",
-    "number": 1472,
-    "title": "ui: human readable \"wait period before next action\"",
-    "url": "https://github.com/joinmarket-webui/jam/issues/1472",
-    "comments": 0,
-    "createdAt": "2026-09-02T00:09:15Z",
-    "labels": [
-      "enhancement",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 329,
-    "foundAt": "2026-09-02T00:21:21.527Z"
-  },
-  {
-    "key": "meshery/meshery#21731",
-    "tier": 1,
-    "repo": "meshery/meshery",
-    "number": 21731,
-    "title": "[UI] left gap in Design code view on small screen",
-    "url": "https://github.com/meshery/meshery/issues/21731",
-    "comments": 0,
-    "createdAt": "2026-09-01T21:48:49Z",
-    "labels": [
-      "kind/bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 11634,
-    "foundAt": "2026-09-01T21:52:10.515Z"
-  },
-  {
-    "key": "meshery/meshery#21730",
-    "tier": 1,
-    "repo": "meshery/meshery",
-    "number": 21730,
-    "title": "[UI] Badge overlaps with creator name on small screens",
-    "url": "https://github.com/meshery/meshery/issues/21730",
-    "comments": 0,
-    "createdAt": "2026-09-01T21:45:27Z",
-    "labels": [
-      "kind/bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 11634,
-    "foundAt": "2026-09-01T21:52:10.515Z"
-  },
-  {
-    "key": "reticlehq/reticle#726",
-    "tier": 1,
-    "repo": "reticlehq/reticle",
-    "number": 726,
-    "title": "Session test stubs break every time Session gains a method (4th occurrence)",
-    "url": "https://github.com/reticlehq/reticle/issues/726",
-    "comments": 0,
-    "createdAt": "2026-09-01T21:41:12Z",
-    "labels": [
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-09-01T21:52:10.515Z"
-  },
-  {
-    "key": "meshery/meshery#21729",
-    "tier": 1,
-    "repo": "meshery/meshery",
-    "number": 21729,
-    "title": "[UI] Dry Run content overflows on small screens in Playground Designs",
-    "url": "https://github.com/meshery/meshery/issues/21729",
-    "comments": 0,
-    "createdAt": "2026-09-01T21:38:40Z",
-    "labels": [
-      "kind/bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 11634,
-    "foundAt": "2026-09-01T21:52:10.515Z"
-  },
-  {
-    "key": "meshery/meshery#21728",
-    "tier": 1,
-    "repo": "meshery/meshery",
-    "number": 21728,
-    "title": "[UI] Actions dropdown opens behind the toolbar in Designs",
-    "url": "https://github.com/meshery/meshery/issues/21728",
-    "comments": 0,
-    "createdAt": "2026-09-01T21:33:43Z",
-    "labels": [
-      "kind/bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 11634,
-    "foundAt": "2026-09-01T21:52:10.515Z"
-  },
-  {
-    "key": "meshery/meshery#21727",
-    "tier": 1,
-    "repo": "meshery/meshery",
-    "number": 21727,
-    "title": "[UI] prevent Designs toolbar overflow on small screens",
-    "url": "https://github.com/meshery/meshery/issues/21727",
-    "comments": 0,
-    "createdAt": "2026-09-01T21:25:23Z",
-    "labels": [
-      "kind/bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 11634,
-    "foundAt": "2026-09-01T21:52:10.755Z"
-  },
-  {
-    "key": "kgoedecke/doop#90",
-    "tier": 1,
-    "repo": "kgoedecke/doop",
-    "number": 90,
-    "title": "Pinch to zoom on iOS does not work",
-    "url": "https://github.com/kgoedecke/doop/issues/90",
-    "comments": 0,
-    "createdAt": "2026-09-01T20:57:07Z",
-    "labels": [
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 542,
-    "foundAt": "2026-09-01T21:52:11.084Z"
-  },
-  {
-    "key": "bastani-inc/atomic#2802",
-    "tier": 1,
-    "repo": "bastani-inc/atomic",
-    "number": 2802,
-    "title": "workflows: revise provisional execution shape after material clarification",
-    "url": "https://github.com/bastani-inc/atomic/issues/2802",
-    "comments": 0,
-    "createdAt": "2026-09-01T18:52:49Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 735,
-    "foundAt": "2026-09-01T21:52:13.252Z"
-  },
-  {
-    "key": "verifywise-ai/verifywise#4585",
-    "tier": 1,
-    "repo": "verifywise-ai/verifywise",
-    "number": 4585,
-    "title": "Add intended use / purpose field to model inventory",
-    "url": "https://github.com/verifywise-ai/verifywise/issues/4585",
-    "comments": 0,
-    "createdAt": "2026-09-01T18:43:37Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "frontend",
-      "backend"
-    ],
-    "language": "typescript",
-    "stars": 343,
-    "foundAt": "2026-09-01T21:52:13.518Z"
   }
 ]
