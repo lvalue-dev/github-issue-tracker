@@ -4,6 +4,21 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-03 | 🥇 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/14920) | `stdlib-js/stdlib` | ⭐ 5.9k |
+| 2026-09-03 | 🥇 | [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/14919) | `stdlib-js/stdlib` | ⭐ 5.9k |
+| 2026-09-03 | 🥇 | [[Good First Issue] 🍱 Add new Video Game Quote 57 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29667) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-03 | 🥇 | [[Good First Issue] 🌋 Add new Anime Quote 108 - Beginner-Friendly Open-source Co](https://github.com/lingdojo/kana-dojo/issues/29666) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-03 | 🥇 | [[Good First Issue] 🐙 Add new Grammar Point 82 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29665) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-03 | 🥇 | [Update Project Profile: Hackforla.org Website Remove Will Gillis](https://github.com/hackforla/website/issues/8774) | `hackforla/website` | ⭐ 364 |
+| 2026-09-03 | 🥇 | [Update Project Profile: Hackforla.org Website Remove Xavier Neal-Carson](https://github.com/hackforla/website/issues/8773) | `hackforla/website` | ⭐ 364 |
+| 2026-09-03 | 🥇 | [Update Project Profile: Hackforla.org Website Remove Kerstin Carson](https://github.com/hackforla/website/issues/8772) | `hackforla/website` | ⭐ 364 |
+| 2026-09-03 | 🥇 | [Update Project Profile: Hackforla.org Website Remove Santiago Vidal](https://github.com/hackforla/website/issues/8771) | `hackforla/website` | ⭐ 364 |
+| 2026-09-03 | 🥇 | [Update Project Profile: Hackforla.org Website Remove Priyanka Jujjavara](https://github.com/hackforla/website/issues/8770) | `hackforla/website` | ⭐ 364 |
+| 2026-09-03 | 🥇 | [Update Project Profile: Hackforla.org Website Remove Amen Divine Ikamba](https://github.com/hackforla/website/issues/8769) | `hackforla/website` | ⭐ 364 |
+| 2026-09-03 | 🥇 | [Update Project Profile: Hackforla.org Website Remove Eleftherios Christou](https://github.com/hackforla/website/issues/8768) | `hackforla/website` | ⭐ 364 |
+| 2026-09-03 | 🥇 | [Update Project Profile: Hackforla.org Website Remove Essence Goff](https://github.com/hackforla/website/issues/8767) | `hackforla/website` | ⭐ 364 |
+| 2026-09-03 | 🥇 | [Close recorded input-family public prop gaps](https://github.com/facebook/astryx/issues/5941) | `facebook/astryx` | ⭐ 12.7k |
+| 2026-09-03 | 🥉 | [Group Settings navigation and establish the shared layout system](https://github.com/BradGroux/veritas-kanban/issues/1320) | `BradGroux/veritas-kanban` | ⭐ 821 |
 | 2026-09-02 | 🥇 | [[New Feature] - Identifier Tool - Mousing over should also highlight values in t](https://github.com/NASA-AMMOS/MMGIS/issues/1070) | `NASA-AMMOS/MMGIS` | ⭐ 229 |
 | 2026-09-02 | 🥇 | [[Bug]: Coordinates Tab - Projection Setup: duplicate fields and better descripti](https://github.com/NASA-AMMOS/MMGIS/issues/1069) | `NASA-AMMOS/MMGIS` | ⭐ 229 |
 | 2026-09-02 | 🥇 | [[Documentation]: Docs for Agentic Administrator.](https://github.com/NASA-AMMOS/MMGIS/issues/1068) | `NASA-AMMOS/MMGIS` | ⭐ 229 |
@@ -89,18 +104,3 @@
 | 2026-09-01 | 🥉 | [Explain the DockLayouts gesture and commit mechanics](https://github.com/neomjs/neo/issues/18031) | `neomjs/neo` | ⭐ 3.3k |
 | 2026-09-01 | 🥉 | [[Coquille documentation] Erreur de français sur Icones](https://github.com/GouvernementFR/dsfr/issues/1510) | `GouvernementFR/dsfr` | ⭐ 389 |
 | 2026-09-01 | 🥇 | [(bug) Stepper displayed on question form dock when only one question exists](https://github.com/Agenta-AI/agenta/issues/6456) | `Agenta-AI/agenta` | ⭐ 4.7k |
-| 2026-09-01 | 🥈 | [执行方案：docs/应用层代码审查问题清单.md](https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues/70) | `Weiss-UltimateSavior/Tyranor-Next` | ⭐ 303 |
-| 2026-09-01 | 🥇 | [(bug) The chat error card cuts the provider error off at the card edge and offer](https://github.com/Agenta-AI/agenta/issues/6445) | `Agenta-AI/agenta` | ⭐ 4.7k |
-| 2026-09-01 | 🥇 | [(bug) The provider drawer lists 34 models for a key that OpenAI just rejected](https://github.com/Agenta-AI/agenta/issues/6443) | `Agenta-AI/agenta` | ⭐ 4.7k |
-| 2026-09-01 | 🥇 | [(bug) A scheme-less AGENTA_API_URL produces a malformed OTLP endpoint in the SDK](https://github.com/Agenta-AI/agenta/issues/6440) | `Agenta-AI/agenta` | ⭐ 4.7k |
-| 2026-09-01 | 🥇 | [Clicking on editorcn on header should redirect to homepage](https://github.com/shadcn-labs/editorcn/issues/27) | `shadcn-labs/editorcn` | ⭐ 209 |
-| 2026-09-01 | 🥇 | [Implement common actions on tabs in MacOS app](https://github.com/kgoedecke/doop/issues/86) | `kgoedecke/doop` | ⭐ 542 |
-| 2026-09-01 | 🥇 | [[Bug] ascii logo is missing in small/narrow terminals (e.g., VS Code) in new-ui](https://github.com/Nano-Collective/nanocoder/issues/1114) | `Nano-Collective/nanocoder` | ⭐ 2.4k |
-| 2026-09-01 | 🥇 | [Disallow vertical scrolling on tab bar in MacOS app](https://github.com/kgoedecke/doop/issues/84) | `kgoedecke/doop` | ⭐ 542 |
-| 2026-09-01 | 🥇 | [Add ability to reply to comments](https://github.com/kgoedecke/doop/issues/83) | `kgoedecke/doop` | ⭐ 542 |
-| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Medium Issue 1 (JavaScript)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8115) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
-| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Medium Issue 2 (JavaScript)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8114) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
-| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Spring Boot)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8113) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
-| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Medium Issue (Docker)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8112) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
-| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Medium Issue (Solid.js)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8109) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |
-| 2026-09-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Solid.js)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8108) | `fork-commit-merge/fork-commit-merge` | ⭐ 509 |

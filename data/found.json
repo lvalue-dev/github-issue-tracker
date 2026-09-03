@@ -1,5 +1,317 @@
 [
   {
+    "key": "stdlib-js/stdlib#14920",
+    "tier": 1,
+    "repo": "stdlib-js/stdlib",
+    "number": 14920,
+    "title": "Fix JavaScript lint errors",
+    "url": "https://github.com/stdlib-js/stdlib/issues/14920",
+    "comments": 1,
+    "createdAt": "2026-09-03T00:18:23Z",
+    "labels": [
+      "Good First Issue"
+    ],
+    "language": "javascript",
+    "stars": 5944,
+    "foundAt": "2026-09-03T00:23:33.462Z"
+  },
+  {
+    "key": "stdlib-js/stdlib#14919",
+    "tier": 1,
+    "repo": "stdlib-js/stdlib",
+    "number": 14919,
+    "title": "Fix EditorConfig lint errors",
+    "url": "https://github.com/stdlib-js/stdlib/issues/14919",
+    "comments": 1,
+    "createdAt": "2026-09-03T00:05:04Z",
+    "labels": [
+      "Good First Issue"
+    ],
+    "language": "javascript",
+    "stars": 5944,
+    "foundAt": "2026-09-03T00:23:33.462Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29667",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29667,
+    "title": "[Good First Issue] 🍱 Add new Video Game Quote 57 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29667",
+    "comments": 1,
+    "createdAt": "2026-09-03T00:01:08Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-03T00:23:32.885Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29666",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29666,
+    "title": "[Good First Issue] 🌋 Add new Anime Quote 108 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29666",
+    "comments": 1,
+    "createdAt": "2026-09-02T23:37:35Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-03T00:23:32.885Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29665",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29665,
+    "title": "[Good First Issue] 🐙 Add new Grammar Point 82 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29665",
+    "comments": 1,
+    "createdAt": "2026-09-02T23:01:00Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-03T00:23:32.885Z"
+  },
+  {
+    "key": "hackforla/website#8774",
+    "tier": 1,
+    "repo": "hackforla/website",
+    "number": 8774,
+    "title": "Update Project Profile: Hackforla.org Website Remove Will Gillis",
+    "url": "https://github.com/hackforla/website/issues/8774",
+    "comments": 0,
+    "createdAt": "2026-09-02T22:54:45Z",
+    "labels": [
+      "good first issue",
+      "role: front end",
+      "role: back end/devOps",
+      "P-Feature: Project Info and Page",
+      "time sensitive",
+      "size: 0.25pt",
+      "ready for merge team"
+    ],
+    "language": "javascript",
+    "stars": 364,
+    "foundAt": "2026-09-03T00:23:33.687Z"
+  },
+  {
+    "key": "hackforla/website#8773",
+    "tier": 1,
+    "repo": "hackforla/website",
+    "number": 8773,
+    "title": "Update Project Profile: Hackforla.org Website Remove Xavier Neal-Carson",
+    "url": "https://github.com/hackforla/website/issues/8773",
+    "comments": 0,
+    "createdAt": "2026-09-02T22:51:45Z",
+    "labels": [
+      "good first issue",
+      "role: front end",
+      "role: back end/devOps",
+      "P-Feature: Project Info and Page",
+      "time sensitive",
+      "size: 0.25pt",
+      "ready for merge team"
+    ],
+    "language": "javascript",
+    "stars": 364,
+    "foundAt": "2026-09-03T00:23:33.687Z"
+  },
+  {
+    "key": "hackforla/website#8772",
+    "tier": 1,
+    "repo": "hackforla/website",
+    "number": 8772,
+    "title": "Update Project Profile: Hackforla.org Website Remove Kerstin Carson",
+    "url": "https://github.com/hackforla/website/issues/8772",
+    "comments": 0,
+    "createdAt": "2026-09-02T22:49:47Z",
+    "labels": [
+      "good first issue",
+      "role: front end",
+      "role: back end/devOps",
+      "P-Feature: Project Info and Page",
+      "time sensitive",
+      "size: 0.25pt",
+      "ready for merge team"
+    ],
+    "language": "javascript",
+    "stars": 364,
+    "foundAt": "2026-09-03T00:23:33.687Z"
+  },
+  {
+    "key": "hackforla/website#8771",
+    "tier": 1,
+    "repo": "hackforla/website",
+    "number": 8771,
+    "title": "Update Project Profile: Hackforla.org Website Remove Santiago Vidal",
+    "url": "https://github.com/hackforla/website/issues/8771",
+    "comments": 0,
+    "createdAt": "2026-09-02T22:48:31Z",
+    "labels": [
+      "good first issue",
+      "role: front end",
+      "role: back end/devOps",
+      "P-Feature: Project Info and Page",
+      "time sensitive",
+      "size: 0.25pt",
+      "ready for merge team"
+    ],
+    "language": "javascript",
+    "stars": 364,
+    "foundAt": "2026-09-03T00:23:33.687Z"
+  },
+  {
+    "key": "hackforla/website#8770",
+    "tier": 1,
+    "repo": "hackforla/website",
+    "number": 8770,
+    "title": "Update Project Profile: Hackforla.org Website Remove Priyanka Jujjavara",
+    "url": "https://github.com/hackforla/website/issues/8770",
+    "comments": 0,
+    "createdAt": "2026-09-02T22:46:26Z",
+    "labels": [
+      "good first issue",
+      "role: front end",
+      "role: back end/devOps",
+      "P-Feature: Project Info and Page",
+      "time sensitive",
+      "size: 0.25pt",
+      "ready for merge team"
+    ],
+    "language": "javascript",
+    "stars": 364,
+    "foundAt": "2026-09-03T00:23:33.687Z"
+  },
+  {
+    "key": "hackforla/website#8769",
+    "tier": 1,
+    "repo": "hackforla/website",
+    "number": 8769,
+    "title": "Update Project Profile: Hackforla.org Website Remove Amen Divine Ikamba",
+    "url": "https://github.com/hackforla/website/issues/8769",
+    "comments": 0,
+    "createdAt": "2026-09-02T22:43:46Z",
+    "labels": [
+      "good first issue",
+      "role: front end",
+      "role: back end/devOps",
+      "P-Feature: Project Info and Page",
+      "time sensitive",
+      "size: 0.25pt",
+      "ready for merge team"
+    ],
+    "language": "javascript",
+    "stars": 364,
+    "foundAt": "2026-09-03T00:23:33.687Z"
+  },
+  {
+    "key": "hackforla/website#8768",
+    "tier": 1,
+    "repo": "hackforla/website",
+    "number": 8768,
+    "title": "Update Project Profile: Hackforla.org Website Remove Eleftherios Christou",
+    "url": "https://github.com/hackforla/website/issues/8768",
+    "comments": 0,
+    "createdAt": "2026-09-02T22:38:50Z",
+    "labels": [
+      "good first issue",
+      "role: front end",
+      "role: back end/devOps",
+      "P-Feature: Project Info and Page",
+      "time sensitive",
+      "size: 0.25pt",
+      "ready for merge team"
+    ],
+    "language": "javascript",
+    "stars": 364,
+    "foundAt": "2026-09-03T00:23:33.687Z"
+  },
+  {
+    "key": "hackforla/website#8767",
+    "tier": 1,
+    "repo": "hackforla/website",
+    "number": 8767,
+    "title": "Update Project Profile: Hackforla.org Website Remove Essence Goff",
+    "url": "https://github.com/hackforla/website/issues/8767",
+    "comments": 0,
+    "createdAt": "2026-09-02T22:29:51Z",
+    "labels": [
+      "good first issue",
+      "role: front end",
+      "role: back end/devOps",
+      "P-Feature: Project Info and Page",
+      "time sensitive",
+      "size: 0.25pt",
+      "ready for merge team"
+    ],
+    "language": "javascript",
+    "stars": 364,
+    "foundAt": "2026-09-03T00:23:33.687Z"
+  },
+  {
+    "key": "facebook/astryx#5941",
+    "tier": 1,
+    "repo": "facebook/astryx",
+    "number": 5941,
+    "title": "Close recorded input-family public prop gaps",
+    "url": "https://github.com/facebook/astryx/issues/5941",
+    "comments": 0,
+    "createdAt": "2026-09-02T22:17:22Z",
+    "labels": [
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 12680,
+    "foundAt": "2026-09-03T00:23:33.149Z"
+  },
+  {
+    "key": "BradGroux/veritas-kanban#1320",
+    "tier": 3,
+    "repo": "BradGroux/veritas-kanban",
+    "number": 1320,
+    "title": "Group Settings navigation and establish the shared layout system",
+    "url": "https://github.com/BradGroux/veritas-kanban/issues/1320",
+    "comments": 0,
+    "createdAt": "2026-09-03T00:10:25Z",
+    "labels": [
+      "enhancement",
+      "accessibility",
+      "ux",
+      "area:desktop"
+    ],
+    "language": "typescript",
+    "stars": 821,
+    "foundAt": "2026-09-03T00:23:35.957Z"
+  },
+  {
     "key": "NASA-AMMOS/MMGIS#1070",
     "tier": 1,
     "repo": "NASA-AMMOS/MMGIS",
@@ -1540,288 +1852,5 @@
     "language": "typescript",
     "stars": 4665,
     "foundAt": "2026-09-01T15:00:11.450Z"
-  },
-  {
-    "key": "Weiss-UltimateSavior/Tyranor-Next#70",
-    "tier": 2,
-    "repo": "Weiss-UltimateSavior/Tyranor-Next",
-    "number": 70,
-    "title": "执行方案：docs/应用层代码审查问题清单.md",
-    "url": "https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues/70",
-    "comments": 0,
-    "createdAt": "2026-09-01T14:30:35Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "urgent"
-    ],
-    "language": "javascript",
-    "stars": 303,
-    "foundAt": "2026-09-01T15:00:16.447Z"
-  },
-  {
-    "key": "Agenta-AI/agenta#6445",
-    "tier": 1,
-    "repo": "Agenta-AI/agenta",
-    "number": 6445,
-    "title": "(bug) The chat error card cuts the provider error off at the card edge and offers no action",
-    "url": "https://github.com/Agenta-AI/agenta/issues/6445",
-    "comments": 1,
-    "createdAt": "2026-09-01T09:24:00Z",
-    "labels": [
-      "good first issue",
-      "frontend",
-      "bug report"
-    ],
-    "language": "typescript",
-    "stars": 4665,
-    "foundAt": "2026-09-01T10:17:53.093Z"
-  },
-  {
-    "key": "Agenta-AI/agenta#6443",
-    "tier": 1,
-    "repo": "Agenta-AI/agenta",
-    "number": 6443,
-    "title": "(bug) The provider drawer lists 34 models for a key that OpenAI just rejected",
-    "url": "https://github.com/Agenta-AI/agenta/issues/6443",
-    "comments": 1,
-    "createdAt": "2026-09-01T09:23:53Z",
-    "labels": [
-      "good first issue",
-      "frontend",
-      "bug report"
-    ],
-    "language": "typescript",
-    "stars": 4665,
-    "foundAt": "2026-09-01T10:17:53.093Z"
-  },
-  {
-    "key": "Agenta-AI/agenta#6440",
-    "tier": 1,
-    "repo": "Agenta-AI/agenta",
-    "number": 6440,
-    "title": "(bug) A scheme-less AGENTA_API_URL produces a malformed OTLP endpoint in the SDK",
-    "url": "https://github.com/Agenta-AI/agenta/issues/6440",
-    "comments": 2,
-    "createdAt": "2026-09-01T09:23:42Z",
-    "labels": [
-      "good first issue",
-      "sdk",
-      "bug report"
-    ],
-    "language": "typescript",
-    "stars": 4665,
-    "foundAt": "2026-09-01T10:17:53.093Z"
-  },
-  {
-    "key": "shadcn-labs/editorcn#27",
-    "tier": 1,
-    "repo": "shadcn-labs/editorcn",
-    "number": 27,
-    "title": "Clicking on editorcn on header should redirect to homepage",
-    "url": "https://github.com/shadcn-labs/editorcn/issues/27",
-    "comments": 0,
-    "createdAt": "2026-09-01T07:48:56Z",
-    "labels": [
-      "enhancement",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 209,
-    "foundAt": "2026-09-01T10:17:54.169Z"
-  },
-  {
-    "key": "kgoedecke/doop#86",
-    "tier": 1,
-    "repo": "kgoedecke/doop",
-    "number": 86,
-    "title": "Implement common actions on tabs in MacOS app",
-    "url": "https://github.com/kgoedecke/doop/issues/86",
-    "comments": 0,
-    "createdAt": "2026-09-01T06:56:03Z",
-    "labels": [
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 542,
-    "foundAt": "2026-09-01T10:17:54.357Z"
-  },
-  {
-    "key": "Nano-Collective/nanocoder#1114",
-    "tier": 1,
-    "repo": "Nano-Collective/nanocoder",
-    "number": 1114,
-    "title": "[Bug] ascii logo is missing in small/narrow terminals (e.g., VS Code) in new-ui",
-    "url": "https://github.com/Nano-Collective/nanocoder/issues/1114",
-    "comments": 0,
-    "createdAt": "2026-09-01T06:43:32Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "ux",
-      "ui"
-    ],
-    "language": "typescript",
-    "stars": 2385,
-    "foundAt": "2026-09-01T10:17:54.536Z"
-  },
-  {
-    "key": "kgoedecke/doop#84",
-    "tier": 1,
-    "repo": "kgoedecke/doop",
-    "number": 84,
-    "title": "Disallow vertical scrolling on tab bar in MacOS app",
-    "url": "https://github.com/kgoedecke/doop/issues/84",
-    "comments": 0,
-    "createdAt": "2026-09-01T05:01:43Z",
-    "labels": [
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 542,
-    "foundAt": "2026-09-01T05:22:47.653Z"
-  },
-  {
-    "key": "kgoedecke/doop#83",
-    "tier": 1,
-    "repo": "kgoedecke/doop",
-    "number": 83,
-    "title": "Add ability to reply to comments",
-    "url": "https://github.com/kgoedecke/doop/issues/83",
-    "comments": 0,
-    "createdAt": "2026-09-01T04:59:49Z",
-    "labels": [
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 542,
-    "foundAt": "2026-09-01T05:22:47.653Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8115",
-    "tier": 1,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8115,
-    "title": "Fork, Commit, Merge - Medium Issue 1 (JavaScript)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8115",
-    "comments": 0,
-    "createdAt": "2026-09-01T02:51:00Z",
-    "labels": [
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "javascript"
-    ],
-    "language": "css",
-    "stars": 509,
-    "foundAt": "2026-09-01T05:22:49.837Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8114",
-    "tier": 1,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8114,
-    "title": "Fork, Commit, Merge - Medium Issue 2 (JavaScript)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8114",
-    "comments": 0,
-    "createdAt": "2026-09-01T02:50:59Z",
-    "labels": [
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "medium",
-      "javascript"
-    ],
-    "language": "css",
-    "stars": 509,
-    "foundAt": "2026-09-01T05:22:49.837Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8113",
-    "tier": 1,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8113,
-    "title": "Fork, Commit, Merge - Easy Issue (Spring Boot)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8113",
-    "comments": 0,
-    "createdAt": "2026-09-01T02:50:57Z",
-    "labels": [
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "easy",
-      "java",
-      "up-for-grabs",
-      "maven",
-      "spring",
-      "spring-boot"
-    ],
-    "language": "css",
-    "stars": 509,
-    "foundAt": "2026-09-01T05:22:49.837Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8112",
-    "tier": 1,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8112,
-    "title": "Fork, Commit, Merge - Medium Issue (Docker)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8112",
-    "comments": 0,
-    "createdAt": "2026-09-01T02:50:56Z",
-    "labels": [
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "medium",
-      "docker"
-    ],
-    "language": "css",
-    "stars": 509,
-    "foundAt": "2026-09-01T05:22:49.837Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8109",
-    "tier": 1,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8109,
-    "title": "Fork, Commit, Merge - Medium Issue (Solid.js)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8109",
-    "comments": 0,
-    "createdAt": "2026-09-01T02:50:51Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "javascript",
-      "up-for-grabs",
-      "solidjs"
-    ],
-    "language": "css",
-    "stars": 509,
-    "foundAt": "2026-09-01T05:22:49.837Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8108",
-    "tier": 1,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8108,
-    "title": "Fork, Commit, Merge - Easy Issue (Solid.js)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8108",
-    "comments": 0,
-    "createdAt": "2026-09-01T02:50:50Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "javascript",
-      "up-for-grabs",
-      "solidjs"
-    ],
-    "language": "css",
-    "stars": 509,
-    "foundAt": "2026-09-01T05:22:49.837Z"
   }
 ]
