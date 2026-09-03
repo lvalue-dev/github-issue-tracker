@@ -1,5 +1,253 @@
 [
   {
+    "key": "lingdojo/kana-dojo#29700",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29700,
+    "title": "[Good First Issue] 🍣 Add new Grammar Point 63 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29700",
+    "comments": 1,
+    "createdAt": "2026-09-03T14:37:36Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-03T14:39:29.465Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29699",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29699,
+    "title": "[Good First Issue] 🎑 Add new Trivia Question 80 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29699",
+    "comments": 1,
+    "createdAt": "2026-09-03T14:01:04Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-03T14:39:29.465Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29697",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29697,
+    "title": "[Good First Issue] 🍶 Add new Japanese Haiku 6 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29697",
+    "comments": 1,
+    "createdAt": "2026-09-03T13:37:35Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-03T14:39:29.707Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29695",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29695,
+    "title": "[Good First Issue] 🍶 Add new Japanese Proverb 110 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29695",
+    "comments": 1,
+    "createdAt": "2026-09-03T13:01:05Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-03T14:39:29.962Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29694",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29694,
+    "title": "[Good First Issue] 🌋 Add new Japan Fact 235 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29694",
+    "comments": 1,
+    "createdAt": "2026-09-03T12:37:28Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-03T14:39:30.204Z"
+  },
+  {
+    "key": "layer5io/layer5#8009",
+    "tier": 1,
+    "repo": "layer5io/layer5",
+    "number": 8009,
+    "title": "[Community] Member Profile: Hiya Chhawchharia",
+    "url": "https://github.com/layer5io/layer5/issues/8009",
+    "comments": 2,
+    "createdAt": "2026-09-03T12:34:54Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "language/markdown",
+      "framework/gatsby",
+      "area/community"
+    ],
+    "language": "javascript",
+    "stars": 1115,
+    "foundAt": "2026-09-03T14:39:31.743Z"
+  },
+  {
+    "key": "taskcluster/taskcluster#9119",
+    "tier": 1,
+    "repo": "taskcluster/taskcluster",
+    "number": 9119,
+    "title": "Github quickstart page not rendering url substitituion",
+    "url": "https://github.com/taskcluster/taskcluster/issues/9119",
+    "comments": 1,
+    "createdAt": "2026-09-03T12:24:18Z",
+    "labels": [
+      "good first issue",
+      "ui"
+    ],
+    "language": "javascript",
+    "stars": 430,
+    "foundAt": "2026-09-03T14:39:31.989Z"
+  },
+  {
+    "key": "bitwarden/clients#22910",
+    "tier": 1,
+    "repo": "bitwarden/clients",
+    "number": 22910,
+    "title": "Hidden fields revealing actual data length",
+    "url": "https://github.com/bitwarden/clients/issues/22910",
+    "comments": 1,
+    "createdAt": "2026-09-03T12:01:03Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "browser",
+      "desktop",
+      "web"
+    ],
+    "language": "typescript",
+    "stars": 13733,
+    "foundAt": "2026-09-03T14:39:31.058Z"
+  },
+  {
+    "key": "ch-bas/cctv-camera-database#348",
+    "tier": 1,
+    "repo": "ch-bas/cctv-camera-database",
+    "number": 348,
+    "title": "🛡️ NDAA (Section 889) compliance field — dataset-wide rollout",
+    "url": "https://github.com/ch-bas/cctv-camera-database/issues/348",
+    "comments": 0,
+    "createdAt": "2026-09-03T11:21:57Z",
+    "labels": [
+      "help wanted",
+      "good first issue"
+    ],
+    "language": "javascript",
+    "stars": 240,
+    "foundAt": "2026-09-03T14:39:32.191Z"
+  },
+  {
+    "key": "webdriverio/webdriverio#15558",
+    "tier": 2,
+    "repo": "webdriverio/webdriverio",
+    "number": 15558,
+    "title": "[🐛 Bug]: `browser.once('dialog', ...)` does not disable default auto dismiss",
+    "url": "https://github.com/webdriverio/webdriverio/issues/15558",
+    "comments": 1,
+    "createdAt": "2026-09-03T11:51:57Z",
+    "labels": [
+      "Bug 🐛",
+      "help wanted",
+      "good first pick"
+    ],
+    "language": "typescript",
+    "stars": 9830,
+    "foundAt": "2026-09-03T14:39:33.108Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29692",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29692,
+    "title": "[Good First Issue] 🎴 Add new Community Note Line #4 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29692",
+    "comments": 1,
+    "createdAt": "2026-09-03T11:37:34Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-03T14:39:33.108Z"
+  },
+  {
+    "key": "elastic/eui#9997",
+    "tier": 3,
+    "repo": "elastic/eui",
+    "number": 9997,
+    "title": "[EuiToolTip] Tooltip does not dismiss on mouse-out for aria-disabled anchors",
+    "url": "https://github.com/elastic/eui/issues/9997",
+    "comments": 0,
+    "createdAt": "2026-09-03T14:29:47Z",
+    "labels": [
+      "accessibility",
+      "⚠️ needs validation"
+    ],
+    "language": "typescript",
+    "stars": 6348,
+    "foundAt": "2026-09-03T14:39:33.523Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#29687",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1674,226 +1922,5 @@
     "language": "typescript",
     "stars": 202,
     "foundAt": "2026-09-02T04:49:17.345Z"
-  },
-  {
-    "key": "xyz-tools/gcode-preview#426",
-    "tier": 1,
-    "repo": "xyz-tools/gcode-preview",
-    "number": 426,
-    "title": "Support pause/filament-change park moves (M600, M601/M602, M125, M25)",
-    "url": "https://github.com/xyz-tools/gcode-preview/issues/426",
-    "comments": 0,
-    "createdAt": "2026-09-02T03:59:16Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "3.1+",
-      "interpreter"
-    ],
-    "language": "typescript",
-    "stars": 202,
-    "foundAt": "2026-09-02T04:49:17.345Z"
-  },
-  {
-    "key": "xyz-tools/gcode-preview#425",
-    "tier": 1,
-    "repo": "xyz-tools/gcode-preview",
-    "number": 425,
-    "title": "Support G60/G61 (save and restore position)",
-    "url": "https://github.com/xyz-tools/gcode-preview/issues/425",
-    "comments": 0,
-    "createdAt": "2026-09-02T03:59:14Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "3.1+",
-      "interpreter"
-    ],
-    "language": "typescript",
-    "stars": 202,
-    "foundAt": "2026-09-02T04:49:17.345Z"
-  },
-  {
-    "key": "xyz-tools/gcode-preview#424",
-    "tier": 1,
-    "repo": "xyz-tools/gcode-preview",
-    "number": 424,
-    "title": "Support G92.1 (reset coordinate system offsets)",
-    "url": "https://github.com/xyz-tools/gcode-preview/issues/424",
-    "comments": 0,
-    "createdAt": "2026-09-02T03:59:12Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "3.1+",
-      "interpreter"
-    ],
-    "language": "typescript",
-    "stars": 202,
-    "foundAt": "2026-09-02T04:49:17.345Z"
-  },
-  {
-    "key": "xyz-tools/gcode-preview#423",
-    "tier": 1,
-    "repo": "xyz-tools/gcode-preview",
-    "number": 423,
-    "title": "Support M218 (hotend/tool offsets)",
-    "url": "https://github.com/xyz-tools/gcode-preview/issues/423",
-    "comments": 0,
-    "createdAt": "2026-09-02T03:59:10Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "3.1+",
-      "interpreter"
-    ],
-    "language": "typescript",
-    "stars": 202,
-    "foundAt": "2026-09-02T04:49:17.345Z"
-  },
-  {
-    "key": "xyz-tools/gcode-preview#422",
-    "tier": 1,
-    "repo": "xyz-tools/gcode-preview",
-    "number": 422,
-    "title": "Support G53-G59.3 (machine and workplace coordinate systems)",
-    "url": "https://github.com/xyz-tools/gcode-preview/issues/422",
-    "comments": 0,
-    "createdAt": "2026-09-02T03:59:08Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "3.1+",
-      "interpreter"
-    ],
-    "language": "typescript",
-    "stars": 202,
-    "foundAt": "2026-09-02T04:49:17.345Z"
-  },
-  {
-    "key": "xyz-tools/gcode-preview#421",
-    "tier": 1,
-    "repo": "xyz-tools/gcode-preview",
-    "number": 421,
-    "title": "Support G17/G18/G19 (arc plane selection)",
-    "url": "https://github.com/xyz-tools/gcode-preview/issues/421",
-    "comments": 0,
-    "createdAt": "2026-09-02T03:59:06Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "3.1+",
-      "interpreter"
-    ],
-    "language": "typescript",
-    "stars": 202,
-    "foundAt": "2026-09-02T04:49:17.345Z"
-  },
-  {
-    "key": "xyz-tools/gcode-preview#420",
-    "tier": 1,
-    "repo": "xyz-tools/gcode-preview",
-    "number": 420,
-    "title": "Support G10/G11 (firmware retract/recover)",
-    "url": "https://github.com/xyz-tools/gcode-preview/issues/420",
-    "comments": 0,
-    "createdAt": "2026-09-02T03:59:05Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "3.1+",
-      "interpreter"
-    ],
-    "language": "typescript",
-    "stars": 202,
-    "foundAt": "2026-09-02T04:49:17.345Z"
-  },
-  {
-    "key": "xyz-tools/gcode-preview#419",
-    "tier": 1,
-    "repo": "xyz-tools/gcode-preview",
-    "number": 419,
-    "title": "Support M82/M83 (absolute/relative extrusion mode)",
-    "url": "https://github.com/xyz-tools/gcode-preview/issues/419",
-    "comments": 0,
-    "createdAt": "2026-09-02T03:59:03Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "3.1+",
-      "interpreter"
-    ],
-    "language": "typescript",
-    "stars": 202,
-    "foundAt": "2026-09-02T04:49:17.345Z"
-  },
-  {
-    "key": "layer5io/layer5#8008",
-    "tier": 2,
-    "repo": "layer5io/layer5",
-    "number": 8008,
-    "title": "[UI]: Long URLs overflow the Meshery installation terminal",
-    "url": "https://github.com/layer5io/layer5/issues/8008",
-    "comments": 2,
-    "createdAt": "2026-09-02T04:09:19Z",
-    "labels": [
-      "kind/bug",
-      "help wanted",
-      "framework/gatsby"
-    ],
-    "language": "javascript",
-    "stars": 1112,
-    "foundAt": "2026-09-02T04:49:21.697Z"
-  },
-  {
-    "key": "jephersonRD/JiruHub#12",
-    "tier": 2,
-    "repo": "jephersonRD/JiruHub",
-    "number": 12,
-    "title": "No me deja instalar la extension",
-    "url": "https://github.com/jephersonRD/JiruHub/issues/12",
-    "comments": 0,
-    "createdAt": "2026-09-02T04:09:04Z",
-    "labels": [
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 288,
-    "foundAt": "2026-09-02T04:49:21.946Z"
-  },
-  {
-    "key": "1lck/Lithe-IDEA#398",
-    "tier": 2,
-    "repo": "1lck/Lithe-IDEA",
-    "number": 398,
-    "title": "[Feature] 新旧工作区渲染矛盾逻辑，承接 #390 PR的适配性改动",
-    "url": "https://github.com/1lck/Lithe-IDEA/issues/398",
-    "comments": 0,
-    "createdAt": "2026-09-02T02:17:18Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "macos"
-    ],
-    "language": "typescript",
-    "stars": 627,
-    "foundAt": "2026-09-02T04:49:20.337Z"
-  },
-  {
-    "key": "reticlehq/reticle#727",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 727,
-    "title": "Route reading is duplicated six ways: centralise it behind one helper",
-    "url": "https://github.com/reticlehq/reticle/issues/727",
-    "comments": 0,
-    "createdAt": "2026-09-02T00:55:15Z",
-    "labels": [
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 367,
-    "foundAt": "2026-09-02T04:49:21.401Z"
   }
 ]

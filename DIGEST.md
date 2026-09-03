@@ -4,6 +4,18 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-03 | 🥇 | [[Good First Issue] 🍣 Add new Grammar Point 63 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29700) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-03 | 🥇 | [[Good First Issue] 🎑 Add new Trivia Question 80 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29699) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-03 | 🥇 | [[Good First Issue] 🍶 Add new Japanese Haiku 6 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29697) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-03 | 🥇 | [[Good First Issue] 🍶 Add new Japanese Proverb 110 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29695) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-03 | 🥇 | [[Good First Issue] 🌋 Add new Japan Fact 235 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29694) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-03 | 🥇 | [[Community] Member Profile: Hiya Chhawchharia](https://github.com/layer5io/layer5/issues/8009) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-03 | 🥇 | [Github quickstart page not rendering url substitituion](https://github.com/taskcluster/taskcluster/issues/9119) | `taskcluster/taskcluster` | ⭐ 430 |
+| 2026-09-03 | 🥇 | [Hidden fields revealing actual data length](https://github.com/bitwarden/clients/issues/22910) | `bitwarden/clients` | ⭐ 13.7k |
+| 2026-09-03 | 🥇 | [🛡️ NDAA (Section 889) compliance field — dataset-wide rollout](https://github.com/ch-bas/cctv-camera-database/issues/348) | `ch-bas/cctv-camera-database` | ⭐ 240 |
+| 2026-09-03 | 🥈 | [[🐛 Bug]: `browser.once('dialog', ...)` does not disable default auto dismiss](https://github.com/webdriverio/webdriverio/issues/15558) | `webdriverio/webdriverio` | ⭐ 9.8k |
+| 2026-09-03 | 🥈 | [[Good First Issue] 🎴 Add new Community Note Line #4 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29692) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-03 | 🥉 | [[EuiToolTip] Tooltip does not dismiss on mouse-out for aria-disabled anchors](https://github.com/elastic/eui/issues/9997) | `elastic/eui` | ⭐ 6.3k |
 | 2026-09-03 | 🥇 | [[Good First Issue] 🐡 Add new False Friend Pair 96 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29687) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-03 | 🥇 | [[Good First Issue] 🍙 Add new Japanese Idiom 49 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29686) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-03 | 🥇 | [[Good First Issue] 🍱 Add new Video Game Quote 29 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29685) | `lingdojo/kana-dojo` | ⭐ 3.3k |
@@ -92,15 +104,3 @@
 | 2026-09-02 | 🥇 | [Support G161/G162 (home to min/max endstops)](https://github.com/xyz-tools/gcode-preview/issues/429) | `xyz-tools/gcode-preview` | ⭐ 202 |
 | 2026-09-02 | 🥇 | [Support G80 (Prusa mesh bed leveling)](https://github.com/xyz-tools/gcode-preview/issues/428) | `xyz-tools/gcode-preview` | ⭐ 202 |
 | 2026-09-02 | 🥇 | [Support G27 (park toolhead)](https://github.com/xyz-tools/gcode-preview/issues/427) | `xyz-tools/gcode-preview` | ⭐ 202 |
-| 2026-09-02 | 🥇 | [Support pause/filament-change park moves (M600, M601/M602, M125, M25)](https://github.com/xyz-tools/gcode-preview/issues/426) | `xyz-tools/gcode-preview` | ⭐ 202 |
-| 2026-09-02 | 🥇 | [Support G60/G61 (save and restore position)](https://github.com/xyz-tools/gcode-preview/issues/425) | `xyz-tools/gcode-preview` | ⭐ 202 |
-| 2026-09-02 | 🥇 | [Support G92.1 (reset coordinate system offsets)](https://github.com/xyz-tools/gcode-preview/issues/424) | `xyz-tools/gcode-preview` | ⭐ 202 |
-| 2026-09-02 | 🥇 | [Support M218 (hotend/tool offsets)](https://github.com/xyz-tools/gcode-preview/issues/423) | `xyz-tools/gcode-preview` | ⭐ 202 |
-| 2026-09-02 | 🥇 | [Support G53-G59.3 (machine and workplace coordinate systems)](https://github.com/xyz-tools/gcode-preview/issues/422) | `xyz-tools/gcode-preview` | ⭐ 202 |
-| 2026-09-02 | 🥇 | [Support G17/G18/G19 (arc plane selection)](https://github.com/xyz-tools/gcode-preview/issues/421) | `xyz-tools/gcode-preview` | ⭐ 202 |
-| 2026-09-02 | 🥇 | [Support G10/G11 (firmware retract/recover)](https://github.com/xyz-tools/gcode-preview/issues/420) | `xyz-tools/gcode-preview` | ⭐ 202 |
-| 2026-09-02 | 🥇 | [Support M82/M83 (absolute/relative extrusion mode)](https://github.com/xyz-tools/gcode-preview/issues/419) | `xyz-tools/gcode-preview` | ⭐ 202 |
-| 2026-09-02 | 🥈 | [[UI]: Long URLs overflow the Meshery installation terminal](https://github.com/layer5io/layer5/issues/8008) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-02 | 🥈 | [No me deja instalar la extension](https://github.com/jephersonRD/JiruHub/issues/12) | `jephersonRD/JiruHub` | ⭐ 288 |
-| 2026-09-02 | 🥈 | [[Feature] 新旧工作区渲染矛盾逻辑，承接 #390 PR的适配性改动](https://github.com/1lck/Lithe-IDEA/issues/398) | `1lck/Lithe-IDEA` | ⭐ 627 |
-| 2026-09-02 | 🥈 | [Route reading is duplicated six ways: centralise it behind one helper](https://github.com/reticlehq/reticle/issues/727) | `reticlehq/reticle` | ⭐ 367 |
