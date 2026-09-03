@@ -1,5 +1,289 @@
 [
   {
+    "key": "lingdojo/kana-dojo#29710",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29710,
+    "title": "[Good First Issue] 🐙 Add new Learner Mistake 69 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29710",
+    "comments": 1,
+    "createdAt": "2026-09-03T18:37:33Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-03T18:48:12.237Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29708",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29708,
+    "title": "[Good First Issue] 🍘 Add new Example Sentence 120 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29708",
+    "comments": 1,
+    "createdAt": "2026-09-03T18:01:04Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-03T18:48:13.532Z"
+  },
+  {
+    "key": "felladrin/MiniSearch#2528",
+    "tier": 1,
+    "repo": "felladrin/MiniSearch",
+    "number": 2528,
+    "title": "docs: add .github/SUPPORT.md",
+    "url": "https://github.com/felladrin/MiniSearch/issues/2528",
+    "comments": 0,
+    "createdAt": "2026-09-03T17:48:27Z",
+    "labels": [
+      "good first issue",
+      "documentation"
+    ],
+    "language": "typescript",
+    "stars": 586,
+    "foundAt": "2026-09-03T18:48:14.856Z"
+  },
+  {
+    "key": "felladrin/MiniSearch#2527",
+    "tier": 1,
+    "repo": "felladrin/MiniSearch",
+    "number": 2527,
+    "title": "test: add unit tests for server/config/modelConfig.ts and server/rerankerServiceHook.ts",
+    "url": "https://github.com/felladrin/MiniSearch/issues/2527",
+    "comments": 0,
+    "createdAt": "2026-09-03T17:47:34Z",
+    "labels": [
+      "good first issue",
+      "test"
+    ],
+    "language": "typescript",
+    "stars": 586,
+    "foundAt": "2026-09-03T18:48:14.856Z"
+  },
+  {
+    "key": "felladrin/MiniSearch#2526",
+    "tier": 1,
+    "repo": "felladrin/MiniSearch",
+    "number": 2526,
+    "title": "docs: fix quick-start.md port confusion (7861 vs 7860)",
+    "url": "https://github.com/felladrin/MiniSearch/issues/2526",
+    "comments": 0,
+    "createdAt": "2026-09-03T17:46:50Z",
+    "labels": [
+      "good first issue",
+      "documentation"
+    ],
+    "language": "typescript",
+    "stars": 586,
+    "foundAt": "2026-09-03T18:48:14.856Z"
+  },
+  {
+    "key": "felladrin/MiniSearch#2519",
+    "tier": 1,
+    "repo": "felladrin/MiniSearch",
+    "number": 2519,
+    "title": "community: add good-first-issue labels to appropriate issues",
+    "url": "https://github.com/felladrin/MiniSearch/issues/2519",
+    "comments": 0,
+    "createdAt": "2026-09-03T17:40:40Z",
+    "labels": [
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 586,
+    "foundAt": "2026-09-03T18:48:14.856Z"
+  },
+  {
+    "key": "felladrin/MiniSearch#2518",
+    "tier": 1,
+    "repo": "felladrin/MiniSearch",
+    "number": 2518,
+    "title": "automation: add stale issue/PR automation",
+    "url": "https://github.com/felladrin/MiniSearch/issues/2518",
+    "comments": 0,
+    "createdAt": "2026-09-03T17:39:56Z",
+    "labels": [
+      "enhancement",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 586,
+    "foundAt": "2026-09-03T18:48:14.856Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29707",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29707,
+    "title": "[Good First Issue] 🌸 Add new Etiquette Tip 86 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29707",
+    "comments": 1,
+    "createdAt": "2026-09-03T17:37:31Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-03T18:48:15.766Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29706",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29706,
+    "title": "[Good First Issue] 🐙 Add new False Friend Pair 112 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29706",
+    "comments": 1,
+    "createdAt": "2026-09-03T17:01:03Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-03T18:48:16.184Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29705",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29705,
+    "title": "[Good First Issue] 🐡 Add new Dialect Entry 2 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29705",
+    "comments": 1,
+    "createdAt": "2026-09-03T16:37:37Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-03T18:48:16.501Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29703",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29703,
+    "title": "[Good First Issue] 🎋 Add new Japanese Idiom 68 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29703",
+    "comments": 1,
+    "createdAt": "2026-09-03T16:01:06Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-03T18:48:16.848Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29702",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29702,
+    "title": "[Good First Issue] 🎏 Add new Video Game Quote 118 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29702",
+    "comments": 1,
+    "createdAt": "2026-09-03T15:37:30Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-03T18:48:16.849Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29701",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29701,
+    "title": "[Good First Issue] 🎍 Add new Anime Quote 68 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29701",
+    "comments": 1,
+    "createdAt": "2026-09-03T15:01:09Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-03T18:48:16.849Z"
+  },
+  {
+    "key": "remittor/zapret-openwrt#844",
+    "tier": 2,
+    "repo": "remittor/zapret-openwrt",
+    "number": 844,
+    "title": "[HELP]",
+    "url": "https://github.com/remittor/zapret-openwrt/issues/844",
+    "comments": 0,
+    "createdAt": "2026-09-03T14:41:25Z",
+    "labels": [
+      "help wanted"
+    ],
+    "language": "javascript",
+    "stars": 1365,
+    "foundAt": "2026-09-03T18:48:17.613Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#29700",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1667,260 +1951,5 @@
     "language": "typescript",
     "stars": 12680,
     "foundAt": "2026-09-02T09:45:19.397Z"
-  },
-  {
-    "key": "facebook/astryx#5896",
-    "tier": 1,
-    "repo": "facebook/astryx",
-    "number": 5896,
-    "title": "[Bug] LayoutHeader Properties preview renders no working component",
-    "url": "https://github.com/facebook/astryx/issues/5896",
-    "comments": 0,
-    "createdAt": "2026-09-02T05:42:40Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 12680,
-    "foundAt": "2026-09-02T09:45:19.397Z"
-  },
-  {
-    "key": "facebook/astryx#5895",
-    "tier": 1,
-    "repo": "facebook/astryx",
-    "number": 5895,
-    "title": "[Bug] LayoutFooter Properties preview renders no working component",
-    "url": "https://github.com/facebook/astryx/issues/5895",
-    "comments": 0,
-    "createdAt": "2026-09-02T05:42:38Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 12680,
-    "foundAt": "2026-09-02T09:45:19.397Z"
-  },
-  {
-    "key": "facebook/astryx#5894",
-    "tier": 1,
-    "repo": "facebook/astryx",
-    "number": 5894,
-    "title": "[Bug] HStack Properties preview renders no working component",
-    "url": "https://github.com/facebook/astryx/issues/5894",
-    "comments": 0,
-    "createdAt": "2026-09-02T05:42:32Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 12680,
-    "foundAt": "2026-09-02T09:45:19.397Z"
-  },
-  {
-    "key": "facebook/astryx#5893",
-    "tier": 1,
-    "repo": "facebook/astryx",
-    "number": 5893,
-    "title": "[Bug] GridSpan Properties preview renders no working component",
-    "url": "https://github.com/facebook/astryx/issues/5893",
-    "comments": 0,
-    "createdAt": "2026-09-02T05:42:30Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 12680,
-    "foundAt": "2026-09-02T09:45:19.397Z"
-  },
-  {
-    "key": "RushB-fr/freekiosk#250",
-    "tier": 3,
-    "repo": "RushB-fr/freekiosk",
-    "number": 250,
-    "title": "Document the ADB provisioning knobs that are not discoverable from the UI",
-    "url": "https://github.com/RushB-fr/freekiosk/issues/250",
-    "comments": 0,
-    "createdAt": "2026-09-02T09:14:25Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "typescript",
-    "stars": 581,
-    "foundAt": "2026-09-02T09:45:23.114Z"
-  },
-  {
-    "key": "xyz-tools/gcode-preview#435",
-    "tier": 1,
-    "repo": "xyz-tools/gcode-preview",
-    "number": 435,
-    "title": "Support M428 (home offsets here)",
-    "url": "https://github.com/xyz-tools/gcode-preview/issues/435",
-    "comments": 0,
-    "createdAt": "2026-09-02T04:02:19Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "3.1+",
-      "interpreter"
-    ],
-    "language": "typescript",
-    "stars": 202,
-    "foundAt": "2026-09-02T04:49:17.345Z"
-  },
-  {
-    "key": "xyz-tools/gcode-preview#434",
-    "tier": 1,
-    "repo": "xyz-tools/gcode-preview",
-    "number": 434,
-    "title": "Support M206 (set home offsets)",
-    "url": "https://github.com/xyz-tools/gcode-preview/issues/434",
-    "comments": 0,
-    "createdAt": "2026-09-02T04:02:12Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "3.1+",
-      "interpreter"
-    ],
-    "language": "typescript",
-    "stars": 202,
-    "foundAt": "2026-09-02T04:49:17.345Z"
-  },
-  {
-    "key": "xyz-tools/gcode-preview#433",
-    "tier": 1,
-    "repo": "xyz-tools/gcode-preview",
-    "number": 433,
-    "title": "Support G92 (set position)",
-    "url": "https://github.com/xyz-tools/gcode-preview/issues/433",
-    "comments": 0,
-    "createdAt": "2026-09-02T04:02:05Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "3.1+",
-      "interpreter"
-    ],
-    "language": "typescript",
-    "stars": 202,
-    "foundAt": "2026-09-02T04:49:17.345Z"
-  },
-  {
-    "key": "xyz-tools/gcode-preview#432",
-    "tier": 1,
-    "repo": "xyz-tools/gcode-preview",
-    "number": 432,
-    "title": "Support G90/G91 (absolute/relative positioning)",
-    "url": "https://github.com/xyz-tools/gcode-preview/issues/432",
-    "comments": 0,
-    "createdAt": "2026-09-02T04:01:56Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "3.1+",
-      "interpreter"
-    ],
-    "language": "typescript",
-    "stars": 202,
-    "foundAt": "2026-09-02T04:49:17.345Z"
-  },
-  {
-    "key": "xyz-tools/gcode-preview#431",
-    "tier": 1,
-    "repo": "xyz-tools/gcode-preview",
-    "number": 431,
-    "title": "Support M290 (babystepping)",
-    "url": "https://github.com/xyz-tools/gcode-preview/issues/431",
-    "comments": 0,
-    "createdAt": "2026-09-02T03:59:27Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "3.1+",
-      "interpreter"
-    ],
-    "language": "typescript",
-    "stars": 202,
-    "foundAt": "2026-09-02T04:49:17.345Z"
-  },
-  {
-    "key": "xyz-tools/gcode-preview#430",
-    "tier": 1,
-    "repo": "xyz-tools/gcode-preview",
-    "number": 430,
-    "title": "Support M221/M200 (flow percentage and volumetric extrusion)",
-    "url": "https://github.com/xyz-tools/gcode-preview/issues/430",
-    "comments": 0,
-    "createdAt": "2026-09-02T03:59:25Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "3.1+",
-      "interpreter"
-    ],
-    "language": "typescript",
-    "stars": 202,
-    "foundAt": "2026-09-02T04:49:17.345Z"
-  },
-  {
-    "key": "xyz-tools/gcode-preview#429",
-    "tier": 1,
-    "repo": "xyz-tools/gcode-preview",
-    "number": 429,
-    "title": "Support G161/G162 (home to min/max endstops)",
-    "url": "https://github.com/xyz-tools/gcode-preview/issues/429",
-    "comments": 0,
-    "createdAt": "2026-09-02T03:59:23Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "3.1+",
-      "interpreter"
-    ],
-    "language": "typescript",
-    "stars": 202,
-    "foundAt": "2026-09-02T04:49:17.345Z"
-  },
-  {
-    "key": "xyz-tools/gcode-preview#428",
-    "tier": 1,
-    "repo": "xyz-tools/gcode-preview",
-    "number": 428,
-    "title": "Support G80 (Prusa mesh bed leveling)",
-    "url": "https://github.com/xyz-tools/gcode-preview/issues/428",
-    "comments": 0,
-    "createdAt": "2026-09-02T03:59:21Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "3.1+",
-      "interpreter"
-    ],
-    "language": "typescript",
-    "stars": 202,
-    "foundAt": "2026-09-02T04:49:17.345Z"
-  },
-  {
-    "key": "xyz-tools/gcode-preview#427",
-    "tier": 1,
-    "repo": "xyz-tools/gcode-preview",
-    "number": 427,
-    "title": "Support G27 (park toolhead)",
-    "url": "https://github.com/xyz-tools/gcode-preview/issues/427",
-    "comments": 0,
-    "createdAt": "2026-09-02T03:59:19Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "3.1+",
-      "interpreter"
-    ],
-    "language": "typescript",
-    "stars": 202,
-    "foundAt": "2026-09-02T04:49:17.345Z"
   }
 ]

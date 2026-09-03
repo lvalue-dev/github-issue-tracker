@@ -4,6 +4,20 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-03 | 🥇 | [[Good First Issue] 🐙 Add new Learner Mistake 69 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29710) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-03 | 🥇 | [[Good First Issue] 🍘 Add new Example Sentence 120 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29708) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-03 | 🥇 | [docs: add .github/SUPPORT.md](https://github.com/felladrin/MiniSearch/issues/2528) | `felladrin/MiniSearch` | ⭐ 586 |
+| 2026-09-03 | 🥇 | [test: add unit tests for server/config/modelConfig.ts and server/rerankerService](https://github.com/felladrin/MiniSearch/issues/2527) | `felladrin/MiniSearch` | ⭐ 586 |
+| 2026-09-03 | 🥇 | [docs: fix quick-start.md port confusion (7861 vs 7860)](https://github.com/felladrin/MiniSearch/issues/2526) | `felladrin/MiniSearch` | ⭐ 586 |
+| 2026-09-03 | 🥇 | [community: add good-first-issue labels to appropriate issues](https://github.com/felladrin/MiniSearch/issues/2519) | `felladrin/MiniSearch` | ⭐ 586 |
+| 2026-09-03 | 🥇 | [automation: add stale issue/PR automation](https://github.com/felladrin/MiniSearch/issues/2518) | `felladrin/MiniSearch` | ⭐ 586 |
+| 2026-09-03 | 🥈 | [[Good First Issue] 🌸 Add new Etiquette Tip 86 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29707) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-03 | 🥈 | [[Good First Issue] 🐙 Add new False Friend Pair 112 - Beginner-Friendly Open-sou](https://github.com/lingdojo/kana-dojo/issues/29706) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-03 | 🥈 | [[Good First Issue] 🐡 Add new Dialect Entry 2 - Beginner-Friendly Open-source Co](https://github.com/lingdojo/kana-dojo/issues/29705) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-03 | 🥈 | [[Good First Issue] 🎋 Add new Japanese Idiom 68 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29703) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-03 | 🥈 | [[Good First Issue] 🎏 Add new Video Game Quote 118 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29702) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-03 | 🥈 | [[Good First Issue] 🎍 Add new Anime Quote 68 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29701) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-03 | 🥈 | [[HELP]](https://github.com/remittor/zapret-openwrt/issues/844) | `remittor/zapret-openwrt` | ⭐ 1.4k |
 | 2026-09-03 | 🥇 | [[Good First Issue] 🍣 Add new Grammar Point 63 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29700) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-03 | 🥇 | [[Good First Issue] 🎑 Add new Trivia Question 80 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29699) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-03 | 🥇 | [[Good First Issue] 🍶 Add new Japanese Haiku 6 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29697) | `lingdojo/kana-dojo` | ⭐ 3.3k |
@@ -90,17 +104,3 @@
 | 2026-09-02 | 🥇 | [[Bug] StackItem Properties preview renders no working component](https://github.com/facebook/astryx/issues/5899) | `facebook/astryx` | ⭐ 12.7k |
 | 2026-09-02 | 🥇 | [[Bug] Stack Properties preview renders no working component](https://github.com/facebook/astryx/issues/5898) | `facebook/astryx` | ⭐ 12.7k |
 | 2026-09-02 | 🥇 | [[Bug] LayoutPanel Properties preview renders no working component](https://github.com/facebook/astryx/issues/5897) | `facebook/astryx` | ⭐ 12.7k |
-| 2026-09-02 | 🥇 | [[Bug] LayoutHeader Properties preview renders no working component](https://github.com/facebook/astryx/issues/5896) | `facebook/astryx` | ⭐ 12.7k |
-| 2026-09-02 | 🥇 | [[Bug] LayoutFooter Properties preview renders no working component](https://github.com/facebook/astryx/issues/5895) | `facebook/astryx` | ⭐ 12.7k |
-| 2026-09-02 | 🥇 | [[Bug] HStack Properties preview renders no working component](https://github.com/facebook/astryx/issues/5894) | `facebook/astryx` | ⭐ 12.7k |
-| 2026-09-02 | 🥇 | [[Bug] GridSpan Properties preview renders no working component](https://github.com/facebook/astryx/issues/5893) | `facebook/astryx` | ⭐ 12.7k |
-| 2026-09-02 | 🥉 | [Document the ADB provisioning knobs that are not discoverable from the UI](https://github.com/RushB-fr/freekiosk/issues/250) | `RushB-fr/freekiosk` | ⭐ 581 |
-| 2026-09-02 | 🥇 | [Support M428 (home offsets here)](https://github.com/xyz-tools/gcode-preview/issues/435) | `xyz-tools/gcode-preview` | ⭐ 202 |
-| 2026-09-02 | 🥇 | [Support M206 (set home offsets)](https://github.com/xyz-tools/gcode-preview/issues/434) | `xyz-tools/gcode-preview` | ⭐ 202 |
-| 2026-09-02 | 🥇 | [Support G92 (set position)](https://github.com/xyz-tools/gcode-preview/issues/433) | `xyz-tools/gcode-preview` | ⭐ 202 |
-| 2026-09-02 | 🥇 | [Support G90/G91 (absolute/relative positioning)](https://github.com/xyz-tools/gcode-preview/issues/432) | `xyz-tools/gcode-preview` | ⭐ 202 |
-| 2026-09-02 | 🥇 | [Support M290 (babystepping)](https://github.com/xyz-tools/gcode-preview/issues/431) | `xyz-tools/gcode-preview` | ⭐ 202 |
-| 2026-09-02 | 🥇 | [Support M221/M200 (flow percentage and volumetric extrusion)](https://github.com/xyz-tools/gcode-preview/issues/430) | `xyz-tools/gcode-preview` | ⭐ 202 |
-| 2026-09-02 | 🥇 | [Support G161/G162 (home to min/max endstops)](https://github.com/xyz-tools/gcode-preview/issues/429) | `xyz-tools/gcode-preview` | ⭐ 202 |
-| 2026-09-02 | 🥇 | [Support G80 (Prusa mesh bed leveling)](https://github.com/xyz-tools/gcode-preview/issues/428) | `xyz-tools/gcode-preview` | ⭐ 202 |
-| 2026-09-02 | 🥇 | [Support G27 (park toolhead)](https://github.com/xyz-tools/gcode-preview/issues/427) | `xyz-tools/gcode-preview` | ⭐ 202 |
