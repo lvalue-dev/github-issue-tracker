@@ -4,6 +4,10 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-03 | 🥇 | [[Good First Issue] 🍘 Add new Japanese Haiku 11 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29717) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-03 | 🥇 | [[Good First Issue] 🐡 Add new Japanese Proverb 100 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29716) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-03 | 🥈 | [[Feature] 机器人卡片支持设置模型](https://github.com/xmanrui/dsh-im/issues/142) | `xmanrui/dsh-im` | ⭐ 977 |
+| 2026-09-03 | 🥉 | [chore(aiwg): preserve maintainer guidance artifacts](https://github.com/elder-plinius/T3MP3ST/issues/208) | `elder-plinius/T3MP3ST` | ⭐ 6.0k |
 | 2026-09-03 | 🥇 | [[Good First Issue] 🐙 Add new Learner Mistake 69 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29710) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-03 | 🥇 | [[Good First Issue] 🍘 Add new Example Sentence 120 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29708) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-03 | 🥇 | [docs: add .github/SUPPORT.md](https://github.com/felladrin/MiniSearch/issues/2528) | `felladrin/MiniSearch` | ⭐ 586 |
@@ -100,7 +104,3 @@
 | 2026-09-02 | 🥇 | [[Bug] MultiSelector Properties preview renders no working component](https://github.com/facebook/astryx/issues/5903) | `facebook/astryx` | ⭐ 12.7k |
 | 2026-09-02 | 🥇 | [[Bug] PowerSearch Properties preview renders no working component](https://github.com/facebook/astryx/issues/5902) | `facebook/astryx` | ⭐ 12.7k |
 | 2026-09-02 | 🥇 | [[Bug] SideNavCollapseButton Properties preview renders no working component](https://github.com/facebook/astryx/issues/5901) | `facebook/astryx` | ⭐ 12.7k |
-| 2026-09-02 | 🥇 | [[Bug] VStack Properties preview renders no working component](https://github.com/facebook/astryx/issues/5900) | `facebook/astryx` | ⭐ 12.7k |
-| 2026-09-02 | 🥇 | [[Bug] StackItem Properties preview renders no working component](https://github.com/facebook/astryx/issues/5899) | `facebook/astryx` | ⭐ 12.7k |
-| 2026-09-02 | 🥇 | [[Bug] Stack Properties preview renders no working component](https://github.com/facebook/astryx/issues/5898) | `facebook/astryx` | ⭐ 12.7k |
-| 2026-09-02 | 🥇 | [[Bug] LayoutPanel Properties preview renders no working component](https://github.com/facebook/astryx/issues/5897) | `facebook/astryx` | ⭐ 12.7k |

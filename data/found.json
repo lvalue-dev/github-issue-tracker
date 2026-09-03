@@ -1,5 +1,84 @@
 [
   {
+    "key": "lingdojo/kana-dojo#29717",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29717,
+    "title": "[Good First Issue] 🍘 Add new Japanese Haiku 11 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29717",
+    "comments": 1,
+    "createdAt": "2026-09-03T21:37:29Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-03T21:46:42.357Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29716",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29716,
+    "title": "[Good First Issue] 🐡 Add new Japanese Proverb 100 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29716",
+    "comments": 1,
+    "createdAt": "2026-09-03T21:01:05Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-03T21:46:43.116Z"
+  },
+  {
+    "key": "xmanrui/dsh-im#142",
+    "tier": 2,
+    "repo": "xmanrui/dsh-im",
+    "number": 142,
+    "title": "[Feature] 机器人卡片支持设置模型",
+    "url": "https://github.com/xmanrui/dsh-im/issues/142",
+    "comments": 0,
+    "createdAt": "2026-09-03T20:03:11Z",
+    "labels": [
+      "enhancement",
+      "help wanted"
+    ],
+    "language": "javascript",
+    "stars": 977,
+    "foundAt": "2026-09-03T21:46:44.261Z"
+  },
+  {
+    "key": "elder-plinius/T3MP3ST#208",
+    "tier": 3,
+    "repo": "elder-plinius/T3MP3ST",
+    "number": 208,
+    "title": "chore(aiwg): preserve maintainer guidance artifacts",
+    "url": "https://github.com/elder-plinius/T3MP3ST/issues/208",
+    "comments": 0,
+    "createdAt": "2026-09-03T21:25:53Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "typescript",
+    "stars": 5972,
+    "foundAt": "2026-09-03T21:46:45.438Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#29710",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1876,74 +1955,6 @@
     "url": "https://github.com/facebook/astryx/issues/5901",
     "comments": 0,
     "createdAt": "2026-09-02T05:43:01Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 12680,
-    "foundAt": "2026-09-02T09:45:19.397Z"
-  },
-  {
-    "key": "facebook/astryx#5900",
-    "tier": 1,
-    "repo": "facebook/astryx",
-    "number": 5900,
-    "title": "[Bug] VStack Properties preview renders no working component",
-    "url": "https://github.com/facebook/astryx/issues/5900",
-    "comments": 0,
-    "createdAt": "2026-09-02T05:42:54Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 12680,
-    "foundAt": "2026-09-02T09:45:19.397Z"
-  },
-  {
-    "key": "facebook/astryx#5899",
-    "tier": 1,
-    "repo": "facebook/astryx",
-    "number": 5899,
-    "title": "[Bug] StackItem Properties preview renders no working component",
-    "url": "https://github.com/facebook/astryx/issues/5899",
-    "comments": 0,
-    "createdAt": "2026-09-02T05:42:52Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 12680,
-    "foundAt": "2026-09-02T09:45:19.397Z"
-  },
-  {
-    "key": "facebook/astryx#5898",
-    "tier": 1,
-    "repo": "facebook/astryx",
-    "number": 5898,
-    "title": "[Bug] Stack Properties preview renders no working component",
-    "url": "https://github.com/facebook/astryx/issues/5898",
-    "comments": 0,
-    "createdAt": "2026-09-02T05:42:50Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 12680,
-    "foundAt": "2026-09-02T09:45:19.397Z"
-  },
-  {
-    "key": "facebook/astryx#5897",
-    "tier": 1,
-    "repo": "facebook/astryx",
-    "number": 5897,
-    "title": "[Bug] LayoutPanel Properties preview renders no working component",
-    "url": "https://github.com/facebook/astryx/issues/5897",
-    "comments": 0,
-    "createdAt": "2026-09-02T05:42:41Z",
     "labels": [
       "bug",
       "good first issue"
