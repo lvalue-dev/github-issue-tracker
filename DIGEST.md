@@ -4,6 +4,22 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-03 | 🥇 | [[Good First Issue] 🍘 Add new Theme: Sunrise Express - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29677) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-03 | 🥇 | [[daily-playwright] Playwright Test Coverage Tracker](https://github.com/ohcnetwork/care_fe/issues/16769) | `ohcnetwork/care_fe` | ⭐ 626 |
+| 2026-09-03 | 🥇 | [[Good First Issue] 🍵 Add new Community Note Line #3 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29676) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-03 | 🥇 | [[Good First Issue] 🎑 Add new Wallpaper URL #5 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29675) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-03 | 🥇 | [[Good First Issue] 🪭 Add new Learner Mistake 19 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29674) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-03 | 🥇 | [[Good First Issue] 🪭 Add new Example Sentence 37 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29673) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-03 | 🥇 | [Add generated files change check in CI](https://github.com/openeverest/openeverest/issues/3123) | `openeverest/openeverest` | ⭐ 906 |
+| 2026-09-03 | 🥇 | [[Bug] Windows 端在内置终端使用 Ctrl+V 时被输入为字面量 ^V](https://github.com/1lck/Lithe-IDEA/issues/421) | `1lck/Lithe-IDEA` | ⭐ 627 |
+| 2026-09-03 | 🥇 | [[Good First Issue] 🗻 Add new Etiquette Tip 120 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29672) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-03 | 🥇 | [[Good First Issue] 🦊 Add new False Friend Pair 87 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29671) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-03 | 🥇 | [[Good First Issue] 🍁 Add new Japanese Idiom 71 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29668) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-03 | 🥇 | [[Bug]: Create Regions form does not warn when Payment Provider is Empty](https://github.com/medusajs/medusa/issues/16701) | `medusajs/medusa` | ⭐ 36.1k |
+| 2026-09-03 | 🥈 | [[Help] catch-all那里现在需要email worker，咋办？](https://github.com/maillab/cloud-mail/issues/564) | `maillab/cloud-mail` | ⭐ 13.7k |
+| 2026-09-03 | 🥈 | [[Help] cloudflare里面的电子邮件路由消失了，咋办？](https://github.com/maillab/cloud-mail/issues/563) | `maillab/cloud-mail` | ⭐ 13.7k |
+| 2026-09-03 | 🥉 | [Configuration docs](https://github.com/sveltejs/kit/issues/17028) | `sveltejs/kit` | ⭐ 20.8k |
+| 2026-09-03 | 🥉 | [Docs: engine internals are published in the API reference and in consumers' auto](https://github.com/melonjs/melonJS/issues/1637) | `melonjs/melonJS` | ⭐ 6.4k |
 | 2026-09-03 | 🥇 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/14920) | `stdlib-js/stdlib` | ⭐ 5.9k |
 | 2026-09-03 | 🥇 | [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/14919) | `stdlib-js/stdlib` | ⭐ 5.9k |
 | 2026-09-03 | 🥇 | [[Good First Issue] 🍱 Add new Video Game Quote 57 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29667) | `lingdojo/kana-dojo` | ⭐ 3.3k |
@@ -88,19 +104,3 @@
 | 2026-09-01 | 🥇 | [Pinch to zoom on iOS does not work](https://github.com/kgoedecke/doop/issues/90) | `kgoedecke/doop` | ⭐ 542 |
 | 2026-09-01 | 🥇 | [workflows: revise provisional execution shape after material clarification](https://github.com/bastani-inc/atomic/issues/2802) | `bastani-inc/atomic` | ⭐ 735 |
 | 2026-09-01 | 🥇 | [Add intended use / purpose field to model inventory](https://github.com/verifywise-ai/verifywise/issues/4585) | `verifywise-ai/verifywise` | ⭐ 343 |
-| 2026-09-01 | 🥇 | [Add suspend / emergency-action status values to AI incidents](https://github.com/verifywise-ai/verifywise/issues/4584) | `verifywise-ai/verifywise` | ⭐ 343 |
-| 2026-09-01 | 🥉 | [Stability & versioning policy for public config, facades, and MCP surfaces (gate](https://github.com/apmantza/pi-lens/issues/2418) | `apmantza/pi-lens` | ⭐ 373 |
-| 2026-09-01 | 🥉 | [a11y: the floating color-scheme toggle is last in reading and focus order](https://github.com/quarto-dev/quarto-cli/issues/14838) | `quarto-dev/quarto-cli` | ⭐ 6.0k |
-| 2026-09-01 | 🥇 | [Add AI solution type classification (Traditional ML / GenAI / RAG / Agentic) to ](https://github.com/verifywise-ai/verifywise/issues/4581) | `verifywise-ai/verifywise` | ⭐ 343 |
-| 2026-09-01 | 🥇 | [Add 'Retired' status to model inventory lifecycle](https://github.com/verifywise-ai/verifywise/issues/4580) | `verifywise-ai/verifywise` | ⭐ 343 |
-| 2026-09-01 | 🥇 | [Post-login redirect should return to originally requested page](https://github.com/openeverest/openeverest/issues/3105) | `openeverest/openeverest` | ⭐ 906 |
-| 2026-09-01 | 🥈 | [[Server] Scalability Testing for Meshery Server Against Large Kubernetes Cluster](https://github.com/meshery/meshery/issues/21717) | `meshery/meshery` | ⭐ 11.6k |
-| 2026-09-01 | 🥉 | [Explain how to test and debug DockLayouts end to end](https://github.com/neomjs/neo/issues/18037) | `neomjs/neo` | ⭐ 3.3k |
-| 2026-09-01 | 🥉 | [Document DockLayouts styling, themes, and action chrome](https://github.com/neomjs/neo/issues/18036) | `neomjs/neo` | ⭐ 3.3k |
-| 2026-09-01 | 🥉 | [Explain DockLayouts cross-window vessel lifecycles](https://github.com/neomjs/neo/issues/18035) | `neomjs/neo` | ⭐ 3.3k |
-| 2026-09-01 | 🥉 | [Explain DockLayouts panes as ordinary Neo components](https://github.com/neomjs/neo/issues/18034) | `neomjs/neo` | ⭐ 3.3k |
-| 2026-09-01 | 🥉 | [Document the complete DockLayouts feature surface](https://github.com/neomjs/neo/issues/18033) | `neomjs/neo` | ⭐ 3.3k |
-| 2026-09-01 | 🥉 | [Explain DockLayouts state, operations, and persistence](https://github.com/neomjs/neo/issues/18032) | `neomjs/neo` | ⭐ 3.3k |
-| 2026-09-01 | 🥉 | [Explain the DockLayouts gesture and commit mechanics](https://github.com/neomjs/neo/issues/18031) | `neomjs/neo` | ⭐ 3.3k |
-| 2026-09-01 | 🥉 | [[Coquille documentation] Erreur de français sur Icones](https://github.com/GouvernementFR/dsfr/issues/1510) | `GouvernementFR/dsfr` | ⭐ 389 |
-| 2026-09-01 | 🥇 | [(bug) Stepper displayed on question form dock when only one question exists](https://github.com/Agenta-AI/agenta/issues/6456) | `Agenta-AI/agenta` | ⭐ 4.7k |

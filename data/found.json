@@ -1,5 +1,327 @@
 [
   {
+    "key": "lingdojo/kana-dojo#29677",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29677,
+    "title": "[Good First Issue] 🍘 Add new Theme: Sunrise Express - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29677",
+    "comments": 1,
+    "createdAt": "2026-09-03T04:37:28Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-03T04:50:31.937Z"
+  },
+  {
+    "key": "ohcnetwork/care_fe#16769",
+    "tier": 1,
+    "repo": "ohcnetwork/care_fe",
+    "number": 16769,
+    "title": "[daily-playwright] Playwright Test Coverage Tracker",
+    "url": "https://github.com/ohcnetwork/care_fe/issues/16769",
+    "comments": 0,
+    "createdAt": "2026-09-03T04:31:15Z",
+    "labels": [
+      "good first issue",
+      "testing"
+    ],
+    "language": "typescript",
+    "stars": 626,
+    "foundAt": "2026-09-03T04:50:32.152Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29676",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29676,
+    "title": "[Good First Issue] 🍵 Add new Community Note Line #3 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29676",
+    "comments": 1,
+    "createdAt": "2026-09-03T04:01:03Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-03T04:50:32.152Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29675",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29675,
+    "title": "[Good First Issue] 🎑 Add new Wallpaper URL #5 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29675",
+    "comments": 1,
+    "createdAt": "2026-09-03T03:37:31Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-03T04:50:32.366Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29674",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29674,
+    "title": "[Good First Issue] 🪭 Add new Learner Mistake 19 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29674",
+    "comments": 1,
+    "createdAt": "2026-09-03T03:00:59Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-03T04:50:32.366Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29673",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29673,
+    "title": "[Good First Issue] 🪭 Add new Example Sentence 37 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29673",
+    "comments": 1,
+    "createdAt": "2026-09-03T02:37:33Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-03T04:50:32.366Z"
+  },
+  {
+    "key": "openeverest/openeverest#3123",
+    "tier": 1,
+    "repo": "openeverest/openeverest",
+    "number": 3123,
+    "title": "Add generated files change check in CI",
+    "url": "https://github.com/openeverest/openeverest/issues/3123",
+    "comments": 0,
+    "createdAt": "2026-09-03T02:14:09Z",
+    "labels": [
+      "good first issue",
+      "chore",
+      "triage/accepted"
+    ],
+    "language": "typescript",
+    "stars": 906,
+    "foundAt": "2026-09-03T04:50:32.366Z"
+  },
+  {
+    "key": "1lck/Lithe-IDEA#421",
+    "tier": 1,
+    "repo": "1lck/Lithe-IDEA",
+    "number": 421,
+    "title": "[Bug] Windows 端在内置终端使用 Ctrl+V 时被输入为字面量 ^V",
+    "url": "https://github.com/1lck/Lithe-IDEA/issues/421",
+    "comments": 4,
+    "createdAt": "2026-09-03T02:06:41Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "windows"
+    ],
+    "language": "typescript",
+    "stars": 627,
+    "foundAt": "2026-09-03T04:50:32.366Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29672",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29672,
+    "title": "[Good First Issue] 🗻 Add new Etiquette Tip 120 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29672",
+    "comments": 1,
+    "createdAt": "2026-09-03T02:00:59Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-03T04:50:32.366Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29671",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29671,
+    "title": "[Good First Issue] 🦊 Add new False Friend Pair 87 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29671",
+    "comments": 1,
+    "createdAt": "2026-09-03T01:37:38Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-03T04:50:32.366Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29668",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29668,
+    "title": "[Good First Issue] 🍁 Add new Japanese Idiom 71 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29668",
+    "comments": 1,
+    "createdAt": "2026-09-03T00:37:31Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-03T04:50:33.074Z"
+  },
+  {
+    "key": "medusajs/medusa#16701",
+    "tier": 1,
+    "repo": "medusajs/medusa",
+    "number": 16701,
+    "title": "[Bug]: Create Regions form does not warn when Payment Provider is Empty",
+    "url": "https://github.com/medusajs/medusa/issues/16701",
+    "comments": 1,
+    "createdAt": "2026-09-03T00:28:57Z",
+    "labels": [
+      "good first issue",
+      "type: bug",
+      "status: needs triaging",
+      "version: 2.0"
+    ],
+    "language": "typescript",
+    "stars": 36109,
+    "foundAt": "2026-09-03T04:50:33.074Z"
+  },
+  {
+    "key": "maillab/cloud-mail#564",
+    "tier": 2,
+    "repo": "maillab/cloud-mail",
+    "number": 564,
+    "title": "[Help] catch-all那里现在需要email worker，咋办？",
+    "url": "https://github.com/maillab/cloud-mail/issues/564",
+    "comments": 0,
+    "createdAt": "2026-09-03T03:56:11Z",
+    "labels": [
+      "help wanted"
+    ],
+    "language": "javascript",
+    "stars": 13724,
+    "foundAt": "2026-09-03T04:50:34.275Z"
+  },
+  {
+    "key": "maillab/cloud-mail#563",
+    "tier": 2,
+    "repo": "maillab/cloud-mail",
+    "number": 563,
+    "title": "[Help] cloudflare里面的电子邮件路由消失了，咋办？",
+    "url": "https://github.com/maillab/cloud-mail/issues/563",
+    "comments": 2,
+    "createdAt": "2026-09-03T01:40:37Z",
+    "labels": [
+      "help wanted"
+    ],
+    "language": "javascript",
+    "stars": 13724,
+    "foundAt": "2026-09-03T04:50:34.465Z"
+  },
+  {
+    "key": "sveltejs/kit#17028",
+    "tier": 3,
+    "repo": "sveltejs/kit",
+    "number": 17028,
+    "title": "Configuration docs",
+    "url": "https://github.com/sveltejs/kit/issues/17028",
+    "comments": 0,
+    "createdAt": "2026-09-03T03:22:07Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "javascript",
+    "stars": 20777,
+    "foundAt": "2026-09-03T04:50:37.188Z"
+  },
+  {
+    "key": "melonjs/melonJS#1637",
+    "tier": 3,
+    "repo": "melonjs/melonJS",
+    "number": 1637,
+    "title": "Docs: engine internals are published in the API reference and in consumers' autocomplete",
+    "url": "https://github.com/melonjs/melonJS/issues/1637",
+    "comments": 0,
+    "createdAt": "2026-09-03T00:26:03Z",
+    "labels": [
+      "Documentation"
+    ],
+    "language": "javascript",
+    "stars": 6381,
+    "foundAt": "2026-09-03T04:50:38.272Z"
+  },
+  {
     "key": "stdlib-js/stdlib#14920",
     "tier": 1,
     "repo": "stdlib-js/stdlib",
@@ -1532,325 +1854,5 @@
     "language": "typescript",
     "stars": 343,
     "foundAt": "2026-09-01T21:52:13.518Z"
-  },
-  {
-    "key": "verifywise-ai/verifywise#4584",
-    "tier": 1,
-    "repo": "verifywise-ai/verifywise",
-    "number": 4584,
-    "title": "Add suspend / emergency-action status values to AI incidents",
-    "url": "https://github.com/verifywise-ai/verifywise/issues/4584",
-    "comments": 0,
-    "createdAt": "2026-09-01T18:43:36Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "frontend",
-      "backend"
-    ],
-    "language": "typescript",
-    "stars": 343,
-    "foundAt": "2026-09-01T21:52:13.518Z"
-  },
-  {
-    "key": "apmantza/pi-lens#2418",
-    "tier": 3,
-    "repo": "apmantza/pi-lens",
-    "number": 2418,
-    "title": "Stability & versioning policy for public config, facades, and MCP surfaces (gates #2416; foundation for #2415/#2372/#2383/#195)",
-    "url": "https://github.com/apmantza/pi-lens/issues/2418",
-    "comments": 0,
-    "createdAt": "2026-09-01T21:32:15Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "area:observability",
-      "area:tests",
-      "area:config"
-    ],
-    "language": "typescript",
-    "stars": 373,
-    "foundAt": "2026-09-01T21:52:16.137Z"
-  },
-  {
-    "key": "quarto-dev/quarto-cli#14838",
-    "tier": 3,
-    "repo": "quarto-dev/quarto-cli",
-    "number": 14838,
-    "title": "a11y: the floating color-scheme toggle is last in reading and focus order",
-    "url": "https://github.com/quarto-dev/quarto-cli/issues/14838",
-    "comments": 0,
-    "createdAt": "2026-09-01T21:16:47Z",
-    "labels": [
-      "accessibility",
-      "html"
-    ],
-    "language": "javascript",
-    "stars": 5964,
-    "foundAt": "2026-09-01T21:52:16.656Z"
-  },
-  {
-    "key": "verifywise-ai/verifywise#4581",
-    "tier": 1,
-    "repo": "verifywise-ai/verifywise",
-    "number": 4581,
-    "title": "Add AI solution type classification (Traditional ML / GenAI / RAG / Agentic) to model inventory",
-    "url": "https://github.com/verifywise-ai/verifywise/issues/4581",
-    "comments": 0,
-    "createdAt": "2026-09-01T18:23:27Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "frontend",
-      "backend"
-    ],
-    "language": "typescript",
-    "stars": 343,
-    "foundAt": "2026-09-01T18:40:21.975Z"
-  },
-  {
-    "key": "verifywise-ai/verifywise#4580",
-    "tier": 1,
-    "repo": "verifywise-ai/verifywise",
-    "number": 4580,
-    "title": "Add 'Retired' status to model inventory lifecycle",
-    "url": "https://github.com/verifywise-ai/verifywise/issues/4580",
-    "comments": 0,
-    "createdAt": "2026-09-01T18:23:16Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "frontend",
-      "backend"
-    ],
-    "language": "typescript",
-    "stars": 343,
-    "foundAt": "2026-09-01T18:40:21.975Z"
-  },
-  {
-    "key": "openeverest/openeverest#3105",
-    "tier": 1,
-    "repo": "openeverest/openeverest",
-    "number": 3105,
-    "title": "Post-login redirect should return to originally requested page",
-    "url": "https://github.com/openeverest/openeverest/issues/3105",
-    "comments": 4,
-    "createdAt": "2026-09-01T15:11:28Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "ui",
-      "needs-triage",
-      "triage/accepted"
-    ],
-    "language": "typescript",
-    "stars": 906,
-    "foundAt": "2026-09-01T18:40:22.708Z"
-  },
-  {
-    "key": "meshery/meshery#21717",
-    "tier": 2,
-    "repo": "meshery/meshery",
-    "number": 21717,
-    "title": "[Server] Scalability Testing for Meshery Server Against Large Kubernetes Clusters",
-    "url": "https://github.com/meshery/meshery/issues/21717",
-    "comments": 2,
-    "createdAt": "2026-09-01T15:03:14Z",
-    "labels": [
-      "kind/enhancement",
-      "help wanted",
-      "kind/chore"
-    ],
-    "language": "typescript",
-    "stars": 11634,
-    "foundAt": "2026-09-01T18:40:24.659Z"
-  },
-  {
-    "key": "neomjs/neo#18037",
-    "tier": 3,
-    "repo": "neomjs/neo",
-    "number": 18037,
-    "title": "Explain how to test and debug DockLayouts end to end",
-    "url": "https://github.com/neomjs/neo/issues/18037",
-    "comments": 0,
-    "createdAt": "2026-09-01T17:52:16Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "developer-experience",
-      "no auto close",
-      "ai",
-      "testing",
-      "core"
-    ],
-    "language": "javascript",
-    "stars": 3260,
-    "foundAt": "2026-09-01T18:40:28.421Z"
-  },
-  {
-    "key": "neomjs/neo#18036",
-    "tier": 3,
-    "repo": "neomjs/neo",
-    "number": 18036,
-    "title": "Document DockLayouts styling, themes, and action chrome",
-    "url": "https://github.com/neomjs/neo/issues/18036",
-    "comments": 0,
-    "createdAt": "2026-09-01T17:52:12Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "developer-experience",
-      "no auto close",
-      "design",
-      "ai",
-      "core"
-    ],
-    "language": "javascript",
-    "stars": 3260,
-    "foundAt": "2026-09-01T18:40:28.421Z"
-  },
-  {
-    "key": "neomjs/neo#18035",
-    "tier": 3,
-    "repo": "neomjs/neo",
-    "number": 18035,
-    "title": "Explain DockLayouts cross-window vessel lifecycles",
-    "url": "https://github.com/neomjs/neo/issues/18035",
-    "comments": 0,
-    "createdAt": "2026-09-01T17:52:07Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "windows",
-      "developer-experience",
-      "no auto close",
-      "ai",
-      "architecture",
-      "core"
-    ],
-    "language": "javascript",
-    "stars": 3260,
-    "foundAt": "2026-09-01T18:40:28.421Z"
-  },
-  {
-    "key": "neomjs/neo#18034",
-    "tier": 3,
-    "repo": "neomjs/neo",
-    "number": 18034,
-    "title": "Explain DockLayouts panes as ordinary Neo components",
-    "url": "https://github.com/neomjs/neo/issues/18034",
-    "comments": 0,
-    "createdAt": "2026-09-01T17:52:01Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "developer-experience",
-      "no auto close",
-      "ai",
-      "core"
-    ],
-    "language": "javascript",
-    "stars": 3260,
-    "foundAt": "2026-09-01T18:40:28.421Z"
-  },
-  {
-    "key": "neomjs/neo#18033",
-    "tier": 3,
-    "repo": "neomjs/neo",
-    "number": 18033,
-    "title": "Document the complete DockLayouts feature surface",
-    "url": "https://github.com/neomjs/neo/issues/18033",
-    "comments": 0,
-    "createdAt": "2026-09-01T17:51:57Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "developer-experience",
-      "no auto close",
-      "design",
-      "ai",
-      "core"
-    ],
-    "language": "javascript",
-    "stars": 3260,
-    "foundAt": "2026-09-01T18:40:28.421Z"
-  },
-  {
-    "key": "neomjs/neo#18032",
-    "tier": 3,
-    "repo": "neomjs/neo",
-    "number": 18032,
-    "title": "Explain DockLayouts state, operations, and persistence",
-    "url": "https://github.com/neomjs/neo/issues/18032",
-    "comments": 0,
-    "createdAt": "2026-09-01T17:51:53Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "developer-experience",
-      "no auto close",
-      "ai",
-      "architecture",
-      "core"
-    ],
-    "language": "javascript",
-    "stars": 3260,
-    "foundAt": "2026-09-01T18:40:28.421Z"
-  },
-  {
-    "key": "neomjs/neo#18031",
-    "tier": 3,
-    "repo": "neomjs/neo",
-    "number": 18031,
-    "title": "Explain the DockLayouts gesture and commit mechanics",
-    "url": "https://github.com/neomjs/neo/issues/18031",
-    "comments": 0,
-    "createdAt": "2026-09-01T17:51:49Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "developer-experience",
-      "no auto close",
-      "ai",
-      "architecture",
-      "core"
-    ],
-    "language": "javascript",
-    "stars": 3260,
-    "foundAt": "2026-09-01T18:40:28.421Z"
-  },
-  {
-    "key": "GouvernementFR/dsfr#1510",
-    "tier": 3,
-    "repo": "GouvernementFR/dsfr",
-    "number": 1510,
-    "title": "[Coquille documentation] Erreur de français sur Icones",
-    "url": "https://github.com/GouvernementFR/dsfr/issues/1510",
-    "comments": 0,
-    "createdAt": "2026-09-01T16:56:32Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "javascript",
-    "stars": 389,
-    "foundAt": "2026-09-01T18:40:28.921Z"
-  },
-  {
-    "key": "Agenta-AI/agenta#6456",
-    "tier": 1,
-    "repo": "Agenta-AI/agenta",
-    "number": 6456,
-    "title": "(bug) Stepper displayed on question form dock when only one question exists",
-    "url": "https://github.com/Agenta-AI/agenta/issues/6456",
-    "comments": 1,
-    "createdAt": "2026-09-01T13:37:52Z",
-    "labels": [
-      "good first issue",
-      "frontend",
-      "ux bug"
-    ],
-    "language": "typescript",
-    "stars": 4665,
-    "foundAt": "2026-09-01T15:00:11.450Z"
   }
 ]

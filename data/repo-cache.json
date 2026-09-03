@@ -9988,5 +9988,285 @@
     "language": "JavaScript",
     "openIssues": 1,
     "cachedAt": "2026-09-03T00:23:38.559Z"
+  },
+  "ohcnetwork/care_fe": {
+    "fullName": "ohcnetwork/care_fe",
+    "stars": 626,
+    "pushedAt": "2026-09-03T04:31:17Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 288,
+    "cachedAt": "2026-09-03T04:50:32.152Z"
+  },
+  "parcelis/parcelis": {
+    "fullName": "parcelis/parcelis",
+    "stars": 2,
+    "pushedAt": "2026-09-03T03:49:00Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 29,
+    "cachedAt": "2026-09-03T04:50:32.366Z"
+  },
+  "hazzery/codemirror-swimdsl": {
+    "fullName": "hazzery/codemirror-swimdsl",
+    "stars": 0,
+    "pushedAt": "2026-06-22T11:01:04Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 11,
+    "cachedAt": "2026-09-03T04:50:32.597Z"
+  },
+  "openings-dev/web": {
+    "fullName": "openings-dev/web",
+    "stars": 2,
+    "pushedAt": "2026-09-03T01:28:13Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 5,
+    "cachedAt": "2026-09-03T04:50:32.874Z"
+  },
+  "alexfigliolia/galena": {
+    "fullName": "alexfigliolia/galena",
+    "stars": 0,
+    "pushedAt": "2026-09-02T18:46:57Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 1,
+    "cachedAt": "2026-09-03T04:50:33.074Z"
+  },
+  "mughil/CLI_CODE": {
+    "fullName": "mughil/CLI_CODE",
+    "stars": 0,
+    "pushedAt": "2026-09-03T03:25:49Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 5,
+    "cachedAt": "2026-09-03T04:50:33.312Z"
+  },
+  "ApexMCC/WebSite-V4": {
+    "fullName": "ApexMCC/WebSite-V4",
+    "stars": 0,
+    "pushedAt": "2026-09-03T02:12:15Z",
+    "archived": false,
+    "fork": false,
+    "language": "HTML",
+    "openIssues": 5,
+    "cachedAt": "2026-09-03T04:50:33.534Z"
+  },
+  "AnayDhawan/UCIP": {
+    "fullName": "AnayDhawan/UCIP",
+    "stars": 11,
+    "pushedAt": "2026-09-03T04:16:45Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 56,
+    "cachedAt": "2026-09-03T04:50:33.757Z"
+  },
+  "rubickCenter/rubick": {
+    "fullName": "rubickCenter/rubick",
+    "stars": 10013,
+    "pushedAt": "2026-01-14T03:25:16Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 150,
+    "cachedAt": "2026-09-03T04:50:34.030Z"
+  },
+  "imjustafox/publictransit-systems": {
+    "fullName": "imjustafox/publictransit-systems",
+    "stars": 12,
+    "pushedAt": "2026-09-03T04:31:36Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 3,
+    "cachedAt": "2026-09-03T04:50:34.275Z"
+  },
+  "morriss-group/vapi-voice-tuneup": {
+    "fullName": "morriss-group/vapi-voice-tuneup",
+    "stars": 2,
+    "pushedAt": "2026-09-03T03:48:13Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 2,
+    "cachedAt": "2026-09-03T04:50:34.465Z"
+  },
+  "objectstack-ai/hotcrm": {
+    "fullName": "objectstack-ai/hotcrm",
+    "stars": 7,
+    "pushedAt": "2026-09-03T04:46:27Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 83,
+    "cachedAt": "2026-09-03T04:50:34.691Z"
+  },
+  "dimto13/ai-tutor-lab": {
+    "fullName": "dimto13/ai-tutor-lab",
+    "stars": 1,
+    "pushedAt": "2026-09-02T16:33:36Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 55,
+    "cachedAt": "2026-09-03T04:50:34.885Z"
+  },
+  "dangdang-tech/Combo": {
+    "fullName": "dangdang-tech/Combo",
+    "stars": 1,
+    "pushedAt": "2026-09-02T20:07:32Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 33,
+    "cachedAt": "2026-09-03T04:50:35.119Z"
+  },
+  "Integral-Productivity/glassfrog-clipper": {
+    "fullName": "Integral-Productivity/glassfrog-clipper",
+    "stars": 0,
+    "pushedAt": "2026-09-03T04:39:21Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 79,
+    "cachedAt": "2026-09-03T04:50:35.334Z"
+  },
+  "kakanzler/Zukunft": {
+    "fullName": "kakanzler/Zukunft",
+    "stars": 0,
+    "pushedAt": "2026-09-02T15:20:33Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 13,
+    "cachedAt": "2026-09-03T04:50:35.524Z"
+  },
+  "objectstack-ai/objectui": {
+    "fullName": "objectstack-ai/objectui",
+    "stars": 27,
+    "pushedAt": "2026-09-03T04:47:30Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 362,
+    "cachedAt": "2026-09-03T04:50:35.728Z"
+  },
+  "bardic-inspiration/semantic-dungeon-crawler": {
+    "fullName": "bardic-inspiration/semantic-dungeon-crawler",
+    "stars": 0,
+    "pushedAt": "2026-09-03T04:16:02Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 5,
+    "cachedAt": "2026-09-03T04:50:35.951Z"
+  },
+  "ironforgesoftware/junco": {
+    "fullName": "ironforgesoftware/junco",
+    "stars": 1,
+    "pushedAt": "2026-09-03T03:44:10Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 23,
+    "cachedAt": "2026-09-03T04:50:36.205Z"
+  },
+  "GH-900-trainings/GH-900-Sep-2026": {
+    "fullName": "GH-900-trainings/GH-900-Sep-2026",
+    "stars": 0,
+    "pushedAt": "2026-09-03T03:25:34Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 7,
+    "cachedAt": "2026-09-03T04:50:36.429Z"
+  },
+  "unb-Sistemas-de-Machine-learning/challenge_1_os_sem_classe": {
+    "fullName": "unb-Sistemas-de-Machine-learning/challenge_1_os_sem_classe",
+    "stars": 0,
+    "pushedAt": "2026-09-02T02:06:46Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 11,
+    "cachedAt": "2026-09-03T04:50:36.655Z"
+  },
+  "Plimmerton-Labs/homebridge-ups-monitor": {
+    "fullName": "Plimmerton-Labs/homebridge-ups-monitor",
+    "stars": 0,
+    "pushedAt": "2026-09-02T08:52:25Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 9,
+    "cachedAt": "2026-09-03T04:50:36.954Z"
+  },
+  "sveltejs/kit": {
+    "fullName": "sveltejs/kit",
+    "stars": 20777,
+    "pushedAt": "2026-09-03T01:35:59Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 810,
+    "cachedAt": "2026-09-03T04:50:37.188Z"
+  },
+  "jason1105/chrome-show-issue-and-mr-no": {
+    "fullName": "jason1105/chrome-show-issue-and-mr-no",
+    "stars": 0,
+    "pushedAt": "2026-09-02T07:48:20Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 9,
+    "cachedAt": "2026-09-03T04:50:37.408Z"
+  },
+  "JR000270/warframe-web-app": {
+    "fullName": "JR000270/warframe-web-app",
+    "stars": 2,
+    "pushedAt": "2026-08-07T22:17:59Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 1,
+    "cachedAt": "2026-09-03T04:50:37.619Z"
+  },
+  "holeyfield33-art/runtime-firewall-mvp": {
+    "fullName": "holeyfield33-art/runtime-firewall-mvp",
+    "stars": 1,
+    "pushedAt": "2026-09-03T02:17:21Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 3,
+    "cachedAt": "2026-09-03T04:50:37.839Z"
+  },
+  "khthana/Deep-QA": {
+    "fullName": "khthana/Deep-QA",
+    "stars": 0,
+    "pushedAt": "2026-09-03T04:11:12Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 47,
+    "cachedAt": "2026-09-03T04:50:38.025Z"
+  },
+  "melonjs/melonJS": {
+    "fullName": "melonjs/melonJS",
+    "stars": 6381,
+    "pushedAt": "2026-09-03T00:26:30Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 21,
+    "cachedAt": "2026-09-03T04:50:38.272Z"
   }
 }
