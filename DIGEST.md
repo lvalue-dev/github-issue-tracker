@@ -4,6 +4,14 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-04 | 🥇 | [[Good First Issue] 🎑 Add new Trivia Question 15 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29761) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-04 | 🥇 | [Pin LF for every text file in .gitattributes](https://github.com/libredb/libredb-studio/issues/554) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-04 | 🥇 | [[Good First Issue] 🍤 Add new Japanese Haiku 1 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29757) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-04 | 🥇 | [[BUG] Edge Dev 154 上所有用户脚本静默失效：早退守卫未校验 chrome.scripting 注册，scriptcat-scripting 丢](https://github.com/scriptscat/scriptcat/issues/1724) | `scriptscat/scriptcat` | ⭐ 5.3k |
+| 2026-09-04 | 🥈 | [Geist never applies: the app renders in the system font](https://github.com/libredb/libredb-studio/issues/553) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-04 | 🥉 | [The statistics-files reference documents a msg_sent that 5.x does not report](https://github.com/wazuh/wazuh-documentation/issues/10068) | `wazuh/wazuh-documentation` | ⭐ 267 |
+| 2026-09-04 | 🥉 | [GitHub topics still carry the monorepo-era Brain terms — re-topic the engine as ](https://github.com/neomjs/neo/issues/18282) | `neomjs/neo` | ⭐ 3.3k |
+| 2026-09-04 | 🥉 | [release: 3.0.0 (or owner's number) — #627 breaks the multi-cwd usage --json shap](https://github.com/lis186/ccxray/issues/629) | `lis186/ccxray` | ⭐ 292 |
 | 2026-09-04 | 🥇 | [[Good First Issue] 🎋 Add new Etiquette Tip 32 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29747) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-04 | 🥇 | [[Good First Issue] 🍚 Add new False Friend Pair 102 - Beginner-Friendly Open-sou](https://github.com/lingdojo/kana-dojo/issues/29745) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-04 | 🥇 | [[Good First Issue] 🎑 Add new Dialect Entry 93 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29744) | `lingdojo/kana-dojo` | ⭐ 3.3k |
@@ -96,11 +104,3 @@
 | 2026-09-03 | 🥉 | [[Feature] Agent 对话模块：以 ACP 客户端方式接入外部 Agent](https://github.com/1lck/Lithe-IDEA/issues/440) | `1lck/Lithe-IDEA` | ⭐ 627 |
 | 2026-09-03 | 🥇 | [[Good First Issue] 🍘 Add new Theme: Sunrise Express - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29677) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-03 | 🥇 | [[daily-playwright] Playwright Test Coverage Tracker](https://github.com/ohcnetwork/care_fe/issues/16769) | `ohcnetwork/care_fe` | ⭐ 626 |
-| 2026-09-03 | 🥇 | [[Good First Issue] 🍵 Add new Community Note Line #3 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29676) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-03 | 🥇 | [[Good First Issue] 🎑 Add new Wallpaper URL #5 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29675) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-03 | 🥇 | [[Good First Issue] 🪭 Add new Learner Mistake 19 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29674) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-03 | 🥇 | [[Good First Issue] 🪭 Add new Example Sentence 37 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29673) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-03 | 🥇 | [Add generated files change check in CI](https://github.com/openeverest/openeverest/issues/3123) | `openeverest/openeverest` | ⭐ 906 |
-| 2026-09-03 | 🥇 | [[Bug] Windows 端在内置终端使用 Ctrl+V 时被输入为字面量 ^V](https://github.com/1lck/Lithe-IDEA/issues/421) | `1lck/Lithe-IDEA` | ⭐ 627 |
-| 2026-09-03 | 🥇 | [[Good First Issue] 🗻 Add new Etiquette Tip 120 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29672) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-03 | 🥇 | [[Good First Issue] 🦊 Add new False Friend Pair 87 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29671) | `lingdojo/kana-dojo` | ⭐ 3.3k |

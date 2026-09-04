@@ -1,5 +1,158 @@
 [
   {
+    "key": "lingdojo/kana-dojo#29761",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29761,
+    "title": "[Good First Issue] 🎑 Add new Trivia Question 15 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29761",
+    "comments": 1,
+    "createdAt": "2026-09-04T14:00:59Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-04T14:26:27.748Z"
+  },
+  {
+    "key": "libredb/libredb-studio#554",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 554,
+    "title": "Pin LF for every text file in .gitattributes",
+    "url": "https://github.com/libredb/libredb-studio/issues/554",
+    "comments": 0,
+    "createdAt": "2026-09-04T13:39:43Z",
+    "labels": [
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 402,
+    "foundAt": "2026-09-04T14:26:28.432Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29757",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29757,
+    "title": "[Good First Issue] 🍤 Add new Japanese Haiku 1 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29757",
+    "comments": 1,
+    "createdAt": "2026-09-04T13:37:32Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-04T14:26:28.432Z"
+  },
+  {
+    "key": "scriptscat/scriptcat#1724",
+    "tier": 1,
+    "repo": "scriptscat/scriptcat",
+    "number": 1724,
+    "title": "[BUG] Edge Dev 154 上所有用户脚本静默失效：早退守卫未校验 chrome.scripting 注册，scriptcat-scripting 丢失后永不自愈",
+    "url": "https://github.com/scriptscat/scriptcat/issues/1724",
+    "comments": 1,
+    "createdAt": "2026-09-04T10:40:39Z",
+    "labels": [
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 5255,
+    "foundAt": "2026-09-04T14:26:31.026Z"
+  },
+  {
+    "key": "libredb/libredb-studio#553",
+    "tier": 2,
+    "repo": "libredb/libredb-studio",
+    "number": 553,
+    "title": "Geist never applies: the app renders in the system font",
+    "url": "https://github.com/libredb/libredb-studio/issues/553",
+    "comments": 0,
+    "createdAt": "2026-09-04T13:39:41Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 402,
+    "foundAt": "2026-09-04T14:26:35.484Z"
+  },
+  {
+    "key": "wazuh/wazuh-documentation#10068",
+    "tier": 3,
+    "repo": "wazuh/wazuh-documentation",
+    "number": 10068,
+    "title": "The statistics-files reference documents a msg_sent that 5.x does not report",
+    "url": "https://github.com/wazuh/wazuh-documentation/issues/10068",
+    "comments": 0,
+    "createdAt": "2026-09-04T14:15:10Z",
+    "labels": [
+      "user manual",
+      "module/remoted",
+      "documentation",
+      "type/bug",
+      "module/agent",
+      "v5.0"
+    ],
+    "language": "javascript",
+    "stars": 267,
+    "foundAt": "2026-09-04T14:26:41.922Z"
+  },
+  {
+    "key": "neomjs/neo#18282",
+    "tier": 3,
+    "repo": "neomjs/neo",
+    "number": 18282,
+    "title": "GitHub topics still carry the monorepo-era Brain terms — re-topic the engine as the Body",
+    "url": "https://github.com/neomjs/neo/issues/18282",
+    "comments": 0,
+    "createdAt": "2026-09-04T13:53:04Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "ai"
+    ],
+    "language": "javascript",
+    "stars": 3265,
+    "foundAt": "2026-09-04T14:26:43.081Z"
+  },
+  {
+    "key": "lis186/ccxray#629",
+    "tier": 3,
+    "repo": "lis186/ccxray",
+    "number": 629,
+    "title": "release: 3.0.0 (or owner's number) — #627 breaks the multi-cwd usage --json shape",
+    "url": "https://github.com/lis186/ccxray/issues/629",
+    "comments": 0,
+    "createdAt": "2026-09-04T11:36:58Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "javascript",
+    "stars": 292,
+    "foundAt": "2026-09-04T14:26:43.971Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#29747",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1842,181 +1995,5 @@
     "language": "typescript",
     "stars": 626,
     "foundAt": "2026-09-03T04:50:32.152Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29676",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29676,
-    "title": "[Good First Issue] 🍵 Add new Community Note Line #3 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29676",
-    "comments": 1,
-    "createdAt": "2026-09-03T04:01:03Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-03T04:50:32.152Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29675",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29675,
-    "title": "[Good First Issue] 🎑 Add new Wallpaper URL #5 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29675",
-    "comments": 1,
-    "createdAt": "2026-09-03T03:37:31Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-03T04:50:32.366Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29674",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29674,
-    "title": "[Good First Issue] 🪭 Add new Learner Mistake 19 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29674",
-    "comments": 1,
-    "createdAt": "2026-09-03T03:00:59Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-03T04:50:32.366Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29673",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29673,
-    "title": "[Good First Issue] 🪭 Add new Example Sentence 37 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29673",
-    "comments": 1,
-    "createdAt": "2026-09-03T02:37:33Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-03T04:50:32.366Z"
-  },
-  {
-    "key": "openeverest/openeverest#3123",
-    "tier": 1,
-    "repo": "openeverest/openeverest",
-    "number": 3123,
-    "title": "Add generated files change check in CI",
-    "url": "https://github.com/openeverest/openeverest/issues/3123",
-    "comments": 0,
-    "createdAt": "2026-09-03T02:14:09Z",
-    "labels": [
-      "good first issue",
-      "chore",
-      "triage/accepted"
-    ],
-    "language": "typescript",
-    "stars": 906,
-    "foundAt": "2026-09-03T04:50:32.366Z"
-  },
-  {
-    "key": "1lck/Lithe-IDEA#421",
-    "tier": 1,
-    "repo": "1lck/Lithe-IDEA",
-    "number": 421,
-    "title": "[Bug] Windows 端在内置终端使用 Ctrl+V 时被输入为字面量 ^V",
-    "url": "https://github.com/1lck/Lithe-IDEA/issues/421",
-    "comments": 4,
-    "createdAt": "2026-09-03T02:06:41Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "windows"
-    ],
-    "language": "typescript",
-    "stars": 627,
-    "foundAt": "2026-09-03T04:50:32.366Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29672",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29672,
-    "title": "[Good First Issue] 🗻 Add new Etiquette Tip 120 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29672",
-    "comments": 1,
-    "createdAt": "2026-09-03T02:00:59Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-03T04:50:32.366Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29671",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29671,
-    "title": "[Good First Issue] 🦊 Add new False Friend Pair 87 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29671",
-    "comments": 1,
-    "createdAt": "2026-09-03T01:37:38Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-03T04:50:32.366Z"
   }
 ]
