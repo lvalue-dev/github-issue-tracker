@@ -1,5 +1,216 @@
 [
   {
+    "key": "lingdojo/kana-dojo#29747",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29747,
+    "title": "[Good First Issue] 🎋 Add new Etiquette Tip 32 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29747",
+    "comments": 1,
+    "createdAt": "2026-09-04T09:37:39Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-04T09:46:18.779Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29745",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29745,
+    "title": "[Good First Issue] 🍚 Add new False Friend Pair 102 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29745",
+    "comments": 1,
+    "createdAt": "2026-09-04T09:01:06Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-04T09:46:19.028Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29744",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29744,
+    "title": "[Good First Issue] 🎑 Add new Dialect Entry 93 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29744",
+    "comments": 1,
+    "createdAt": "2026-09-04T08:37:33Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-04T09:46:19.028Z"
+  },
+  {
+    "key": "Smaug6739/Alexandrie#758",
+    "tier": 1,
+    "repo": "Smaug6739/Alexandrie",
+    "number": 758,
+    "title": "Preference accent color is not loaded at the startup of PWA",
+    "url": "https://github.com/Smaug6739/Alexandrie/issues/758",
+    "comments": 0,
+    "createdAt": "2026-09-04T08:03:12Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "frontend"
+    ],
+    "language": "vue",
+    "stars": 2705,
+    "foundAt": "2026-09-04T09:46:20.701Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29743",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29743,
+    "title": "[Good First Issue] 🏯 Add new Japanese Idiom 76 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29743",
+    "comments": 1,
+    "createdAt": "2026-09-04T08:01:01Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-04T09:46:19.241Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29742",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29742,
+    "title": "[Good First Issue] 🌋 Add new Video Game Quote 35 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29742",
+    "comments": 1,
+    "createdAt": "2026-09-04T07:37:29Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-04T09:46:19.442Z"
+  },
+  {
+    "key": "refined-github/refined-github#10038",
+    "tier": 2,
+    "repo": "refined-github/refined-github",
+    "number": 10038,
+    "title": "`extensible-nav` duplicate nav when toggling repository settings",
+    "url": "https://github.com/refined-github/refined-github/issues/10038",
+    "comments": 0,
+    "createdAt": "2026-09-04T09:09:33Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "Please! ♥︎"
+    ],
+    "language": "typescript",
+    "stars": 32010,
+    "foundAt": "2026-09-04T09:46:20.701Z"
+  },
+  {
+    "key": "refined-github/refined-github#10037",
+    "tier": 2,
+    "repo": "refined-github/refined-github",
+    "number": 10037,
+    "title": "`extensible-nav` sometime doesn't detect \"limited PRs\" icon",
+    "url": "https://github.com/refined-github/refined-github/issues/10037",
+    "comments": 1,
+    "createdAt": "2026-09-04T09:03:33Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "small",
+      "safari"
+    ],
+    "language": "typescript",
+    "stars": 32010,
+    "foundAt": "2026-09-04T09:46:20.701Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29741",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29741,
+    "title": "[Good First Issue] 🍜 Add new Anime Quote 98 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29741",
+    "comments": 1,
+    "createdAt": "2026-09-04T07:01:05Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-04T09:46:20.701Z"
+  },
+  {
+    "key": "layer5io/layer5#8011",
+    "tier": 2,
+    "repo": "layer5io/layer5",
+    "number": 8011,
+    "title": "[UI/UX] Make SVG illustrations clickable to navigate to their respective sections",
+    "url": "https://github.com/layer5io/layer5/issues/8011",
+    "comments": 2,
+    "createdAt": "2026-09-04T05:43:23Z",
+    "labels": [
+      "kind/bug",
+      "help wanted",
+      "framework/gatsby"
+    ],
+    "language": "javascript",
+    "stars": 1115,
+    "foundAt": "2026-09-04T09:46:20.989Z"
+  },
+  {
     "key": "PipedreamHQ/pipedream#21896",
     "tier": 1,
     "repo": "PipedreamHQ/pipedream",
@@ -1807,189 +2018,5 @@
     "language": "typescript",
     "stars": 3306,
     "foundAt": "2026-09-03T04:50:32.366Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29668",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29668,
-    "title": "[Good First Issue] 🍁 Add new Japanese Idiom 71 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29668",
-    "comments": 1,
-    "createdAt": "2026-09-03T00:37:31Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-03T04:50:33.074Z"
-  },
-  {
-    "key": "medusajs/medusa#16701",
-    "tier": 1,
-    "repo": "medusajs/medusa",
-    "number": 16701,
-    "title": "[Bug]: Create Regions form does not warn when Payment Provider is Empty",
-    "url": "https://github.com/medusajs/medusa/issues/16701",
-    "comments": 1,
-    "createdAt": "2026-09-03T00:28:57Z",
-    "labels": [
-      "good first issue",
-      "type: bug",
-      "status: needs triaging",
-      "version: 2.0"
-    ],
-    "language": "typescript",
-    "stars": 36109,
-    "foundAt": "2026-09-03T04:50:33.074Z"
-  },
-  {
-    "key": "maillab/cloud-mail#564",
-    "tier": 2,
-    "repo": "maillab/cloud-mail",
-    "number": 564,
-    "title": "[Help] catch-all那里现在需要email worker，咋办？",
-    "url": "https://github.com/maillab/cloud-mail/issues/564",
-    "comments": 0,
-    "createdAt": "2026-09-03T03:56:11Z",
-    "labels": [
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 13724,
-    "foundAt": "2026-09-03T04:50:34.275Z"
-  },
-  {
-    "key": "maillab/cloud-mail#563",
-    "tier": 2,
-    "repo": "maillab/cloud-mail",
-    "number": 563,
-    "title": "[Help] cloudflare里面的电子邮件路由消失了，咋办？",
-    "url": "https://github.com/maillab/cloud-mail/issues/563",
-    "comments": 2,
-    "createdAt": "2026-09-03T01:40:37Z",
-    "labels": [
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 13724,
-    "foundAt": "2026-09-03T04:50:34.465Z"
-  },
-  {
-    "key": "sveltejs/kit#17028",
-    "tier": 3,
-    "repo": "sveltejs/kit",
-    "number": 17028,
-    "title": "Configuration docs",
-    "url": "https://github.com/sveltejs/kit/issues/17028",
-    "comments": 0,
-    "createdAt": "2026-09-03T03:22:07Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "javascript",
-    "stars": 20777,
-    "foundAt": "2026-09-03T04:50:37.188Z"
-  },
-  {
-    "key": "melonjs/melonJS#1637",
-    "tier": 3,
-    "repo": "melonjs/melonJS",
-    "number": 1637,
-    "title": "Docs: engine internals are published in the API reference and in consumers' autocomplete",
-    "url": "https://github.com/melonjs/melonJS/issues/1637",
-    "comments": 0,
-    "createdAt": "2026-09-03T00:26:03Z",
-    "labels": [
-      "Documentation"
-    ],
-    "language": "javascript",
-    "stars": 6381,
-    "foundAt": "2026-09-03T04:50:38.272Z"
-  },
-  {
-    "key": "stdlib-js/stdlib#14920",
-    "tier": 1,
-    "repo": "stdlib-js/stdlib",
-    "number": 14920,
-    "title": "Fix JavaScript lint errors",
-    "url": "https://github.com/stdlib-js/stdlib/issues/14920",
-    "comments": 1,
-    "createdAt": "2026-09-03T00:18:23Z",
-    "labels": [
-      "Good First Issue"
-    ],
-    "language": "javascript",
-    "stars": 5944,
-    "foundAt": "2026-09-03T00:23:33.462Z"
-  },
-  {
-    "key": "stdlib-js/stdlib#14919",
-    "tier": 1,
-    "repo": "stdlib-js/stdlib",
-    "number": 14919,
-    "title": "Fix EditorConfig lint errors",
-    "url": "https://github.com/stdlib-js/stdlib/issues/14919",
-    "comments": 1,
-    "createdAt": "2026-09-03T00:05:04Z",
-    "labels": [
-      "Good First Issue"
-    ],
-    "language": "javascript",
-    "stars": 5944,
-    "foundAt": "2026-09-03T00:23:33.462Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29667",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29667,
-    "title": "[Good First Issue] 🍱 Add new Video Game Quote 57 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29667",
-    "comments": 1,
-    "createdAt": "2026-09-03T00:01:08Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-03T00:23:32.885Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29666",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29666,
-    "title": "[Good First Issue] 🌋 Add new Anime Quote 108 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29666",
-    "comments": 1,
-    "createdAt": "2026-09-02T23:37:35Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-03T00:23:32.885Z"
   }
 ]

@@ -4,6 +4,16 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-04 | 🥇 | [[Good First Issue] 🎋 Add new Etiquette Tip 32 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29747) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-04 | 🥇 | [[Good First Issue] 🍚 Add new False Friend Pair 102 - Beginner-Friendly Open-sou](https://github.com/lingdojo/kana-dojo/issues/29745) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-04 | 🥇 | [[Good First Issue] 🎑 Add new Dialect Entry 93 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29744) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-04 | 🥇 | [Preference accent color is not loaded at the startup of PWA](https://github.com/Smaug6739/Alexandrie/issues/758) | `Smaug6739/Alexandrie` | ⭐ 2.7k |
+| 2026-09-04 | 🥇 | [[Good First Issue] 🏯 Add new Japanese Idiom 76 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29743) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-04 | 🥇 | [[Good First Issue] 🌋 Add new Video Game Quote 35 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29742) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-04 | 🥈 | [`extensible-nav` duplicate nav when toggling repository settings](https://github.com/refined-github/refined-github/issues/10038) | `refined-github/refined-github` | ⭐ 32.0k |
+| 2026-09-04 | 🥈 | [`extensible-nav` sometime doesn't detect "limited PRs" icon](https://github.com/refined-github/refined-github/issues/10037) | `refined-github/refined-github` | ⭐ 32.0k |
+| 2026-09-04 | 🥈 | [[Good First Issue] 🍜 Add new Anime Quote 98 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29741) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-04 | 🥈 | [[UI/UX] Make SVG illustrations clickable to navigate to their respective section](https://github.com/layer5io/layer5/issues/8011) | `layer5io/layer5` | ⭐ 1.1k |
 | 2026-09-04 | 🥇 | [eBay Creating/Publishing Listings](https://github.com/PipedreamHQ/pipedream/issues/21896) | `PipedreamHQ/pipedream` | ⭐ 11.7k |
 | 2026-09-04 | 🥇 | [[Good First Issue] 🥟 Add new Community Note Line #1 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29731) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-04 | 🥇 | [[daily-playwright] Playwright Test Coverage Tracker](https://github.com/ohcnetwork/care_fe/issues/16774) | `ohcnetwork/care_fe` | ⭐ 626 |
@@ -94,13 +104,3 @@
 | 2026-09-03 | 🥇 | [[Bug] Windows 端在内置终端使用 Ctrl+V 时被输入为字面量 ^V](https://github.com/1lck/Lithe-IDEA/issues/421) | `1lck/Lithe-IDEA` | ⭐ 627 |
 | 2026-09-03 | 🥇 | [[Good First Issue] 🗻 Add new Etiquette Tip 120 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29672) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-03 | 🥇 | [[Good First Issue] 🦊 Add new False Friend Pair 87 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29671) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-03 | 🥇 | [[Good First Issue] 🍁 Add new Japanese Idiom 71 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29668) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-03 | 🥇 | [[Bug]: Create Regions form does not warn when Payment Provider is Empty](https://github.com/medusajs/medusa/issues/16701) | `medusajs/medusa` | ⭐ 36.1k |
-| 2026-09-03 | 🥈 | [[Help] catch-all那里现在需要email worker，咋办？](https://github.com/maillab/cloud-mail/issues/564) | `maillab/cloud-mail` | ⭐ 13.7k |
-| 2026-09-03 | 🥈 | [[Help] cloudflare里面的电子邮件路由消失了，咋办？](https://github.com/maillab/cloud-mail/issues/563) | `maillab/cloud-mail` | ⭐ 13.7k |
-| 2026-09-03 | 🥉 | [Configuration docs](https://github.com/sveltejs/kit/issues/17028) | `sveltejs/kit` | ⭐ 20.8k |
-| 2026-09-03 | 🥉 | [Docs: engine internals are published in the API reference and in consumers' auto](https://github.com/melonjs/melonJS/issues/1637) | `melonjs/melonJS` | ⭐ 6.4k |
-| 2026-09-03 | 🥇 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/14920) | `stdlib-js/stdlib` | ⭐ 5.9k |
-| 2026-09-03 | 🥇 | [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/14919) | `stdlib-js/stdlib` | ⭐ 5.9k |
-| 2026-09-03 | 🥇 | [[Good First Issue] 🍱 Add new Video Game Quote 57 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29667) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-03 | 🥇 | [[Good First Issue] 🌋 Add new Anime Quote 108 - Beginner-Friendly Open-source Co](https://github.com/lingdojo/kana-dojo/issues/29666) | `lingdojo/kana-dojo` | ⭐ 3.3k |
