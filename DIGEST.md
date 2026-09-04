@@ -4,6 +4,17 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-04 | 🥇 | [eBay Creating/Publishing Listings](https://github.com/PipedreamHQ/pipedream/issues/21896) | `PipedreamHQ/pipedream` | ⭐ 11.7k |
+| 2026-09-04 | 🥇 | [[Good First Issue] 🥟 Add new Community Note Line #1 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29731) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-04 | 🥇 | [[daily-playwright] Playwright Test Coverage Tracker](https://github.com/ohcnetwork/care_fe/issues/16774) | `ohcnetwork/care_fe` | ⭐ 626 |
+| 2026-09-04 | 🥇 | [[Good First Issue] 🍁 Add new Wallpaper URL #3 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29730) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-04 | 🥇 | [[Good First Issue] 🪭 Add new Learner Mistake 81 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29728) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-04 | 🥇 | [[Good First Issue] 🎑 Add new Example Sentence 112 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29727) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-04 | 🥇 | [[Good First Issue] 🍘 Add new False Friend Pair 18 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29724) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-04 | 🥇 | [[Good First Issue] 🐉 Add new Dialect Entry 22 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29723) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-04 | 🥇 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/14949) | `stdlib-js/stdlib` | ⭐ 5.9k |
+| 2026-09-04 | 🥈 | [[💡 Feature]: Add CDN variable for Chrome](https://github.com/webdriverio/webdriverio/issues/15560) | `webdriverio/webdriverio` | ⭐ 9.8k |
+| 2026-09-04 | 🥉 | [docs(credits): record carried work from #3284 (Gemini 3.8 Flash Antigravity supp](https://github.com/lidge-jun/opencodex/issues/3431) | `lidge-jun/opencodex` | ⭐ 13.2k |
 | 2026-09-04 | 🥇 | [[Good First Issue] 🐙 Add new Japanese Idiom 10 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29722) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-04 | 🥇 | [[Good First Issue] 🐉 Add new Video Game Quote 116 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29721) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-04 | 🥇 | [[Good First Issue] 🐙 Add new Anime Quote 48 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29720) | `lingdojo/kana-dojo` | ⭐ 3.3k |
@@ -93,14 +104,3 @@
 | 2026-09-03 | 🥇 | [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/14919) | `stdlib-js/stdlib` | ⭐ 5.9k |
 | 2026-09-03 | 🥇 | [[Good First Issue] 🍱 Add new Video Game Quote 57 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29667) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-03 | 🥇 | [[Good First Issue] 🌋 Add new Anime Quote 108 - Beginner-Friendly Open-source Co](https://github.com/lingdojo/kana-dojo/issues/29666) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-03 | 🥇 | [[Good First Issue] 🐙 Add new Grammar Point 82 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29665) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-03 | 🥇 | [Update Project Profile: Hackforla.org Website Remove Will Gillis](https://github.com/hackforla/website/issues/8774) | `hackforla/website` | ⭐ 364 |
-| 2026-09-03 | 🥇 | [Update Project Profile: Hackforla.org Website Remove Xavier Neal-Carson](https://github.com/hackforla/website/issues/8773) | `hackforla/website` | ⭐ 364 |
-| 2026-09-03 | 🥇 | [Update Project Profile: Hackforla.org Website Remove Kerstin Carson](https://github.com/hackforla/website/issues/8772) | `hackforla/website` | ⭐ 364 |
-| 2026-09-03 | 🥇 | [Update Project Profile: Hackforla.org Website Remove Santiago Vidal](https://github.com/hackforla/website/issues/8771) | `hackforla/website` | ⭐ 364 |
-| 2026-09-03 | 🥇 | [Update Project Profile: Hackforla.org Website Remove Priyanka Jujjavara](https://github.com/hackforla/website/issues/8770) | `hackforla/website` | ⭐ 364 |
-| 2026-09-03 | 🥇 | [Update Project Profile: Hackforla.org Website Remove Amen Divine Ikamba](https://github.com/hackforla/website/issues/8769) | `hackforla/website` | ⭐ 364 |
-| 2026-09-03 | 🥇 | [Update Project Profile: Hackforla.org Website Remove Eleftherios Christou](https://github.com/hackforla/website/issues/8768) | `hackforla/website` | ⭐ 364 |
-| 2026-09-03 | 🥇 | [Update Project Profile: Hackforla.org Website Remove Essence Goff](https://github.com/hackforla/website/issues/8767) | `hackforla/website` | ⭐ 364 |
-| 2026-09-03 | 🥇 | [Close recorded input-family public prop gaps](https://github.com/facebook/astryx/issues/5941) | `facebook/astryx` | ⭐ 12.7k |
-| 2026-09-03 | 🥉 | [Group Settings navigation and establish the shared layout system](https://github.com/BradGroux/veritas-kanban/issues/1320) | `BradGroux/veritas-kanban` | ⭐ 821 |
