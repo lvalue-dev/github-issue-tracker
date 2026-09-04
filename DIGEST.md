@@ -4,6 +4,14 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-04 | 🥇 | [[Good First Issue] 🏯 Add new Learner Mistake 18 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29773) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-04 | 🥇 | [[Good First Issue] 🗾 Add new Example Sentence 20 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29772) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-04 | 🥇 | [[Bug]: duplicate 'web-clone' chip in HOME_HERO_CHIPS — one copy silently opts ou](https://github.com/nexu-io/open-design/issues/7775) | `nexu-io/open-design` | ⭐ 94.1k |
+| 2026-09-04 | 🥇 | [[Good First Issue] 🐉 Add new False Friend Pair 10 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29771) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-04 | 🥇 | [[Good First Issue] 🦊 Add new Dialect Entry 98 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29770) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-04 | 🥇 | [[Good First Issue] 🥢 Add new Japanese Idiom 42 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29769) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-04 | 🥇 | [[Good First Issue] 🌊 Add new Video Game Quote 86 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29768) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-04 | 🥈 | [handle chat](https://github.com/webbrain-one/webbrain/issues/2981) | `webbrain-one/webbrain` | ⭐ 1.0k |
 | 2026-09-04 | 🥇 | [[Good First Issue] 🎑 Add new Trivia Question 15 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29761) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-04 | 🥇 | [Pin LF for every text file in .gitattributes](https://github.com/libredb/libredb-studio/issues/554) | `libredb/libredb-studio` | ⭐ 402 |
 | 2026-09-04 | 🥇 | [[Good First Issue] 🍤 Add new Japanese Haiku 1 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29757) | `lingdojo/kana-dojo` | ⭐ 3.3k |
@@ -96,11 +104,3 @@
 | 2026-09-03 | 🥇 | [[Good First Issue] 🍙 Add new Japanese Idiom 49 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29686) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-03 | 🥇 | [[Good First Issue] 🍱 Add new Video Game Quote 29 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29685) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-03 | 🥇 | [[Good First Issue] 🌋 Add new Anime Quote 116 - Beginner-Friendly Open-source Co](https://github.com/lingdojo/kana-dojo/issues/29684) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-03 | 🥇 | [[Good First Issue] 🎋 Add new Grammar Point 132 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29683) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-03 | 🥇 | [[Good First Issue] 🐉 Add new Trivia Question 86 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29682) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-03 | 🥈 | [`tab-size` broken for code embedded in Issues](https://github.com/refined-github/refined-github/issues/10031) | `refined-github/refined-github` | ⭐ 32.0k |
-| 2026-09-03 | 🥈 | [Remove broken/useless Readme link from repo sidebar](https://github.com/refined-github/refined-github/issues/10030) | `refined-github/refined-github` | ⭐ 32.0k |
-| 2026-09-03 | 🥉 | [Command descriptions are ambiguous and lead to wrong actions (promote vs retired](https://github.com/plur-ai/plur/issues/1116) | `plur-ai/plur` | ⭐ 245 |
-| 2026-09-03 | 🥉 | [[Feature] Agent 对话模块：以 ACP 客户端方式接入外部 Agent](https://github.com/1lck/Lithe-IDEA/issues/440) | `1lck/Lithe-IDEA` | ⭐ 627 |
-| 2026-09-03 | 🥇 | [[Good First Issue] 🍘 Add new Theme: Sunrise Express - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29677) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-03 | 🥇 | [[daily-playwright] Playwright Test Coverage Tracker](https://github.com/ohcnetwork/care_fe/issues/16769) | `ohcnetwork/care_fe` | ⭐ 626 |

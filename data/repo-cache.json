@@ -11538,5 +11538,435 @@
     "language": "MDX",
     "openIssues": 16,
     "cachedAt": "2026-09-04T14:26:44.364Z"
+  },
+  "traPtitech/traQ_S-UI": {
+    "fullName": "traPtitech/traQ_S-UI",
+    "stars": 137,
+    "pushedAt": "2026-09-04T17:55:04Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 320,
+    "cachedAt": "2026-09-04T18:30:50.191Z"
+  },
+  "pinoutlabs/pinout": {
+    "fullName": "pinoutlabs/pinout",
+    "stars": 1,
+    "pushedAt": "2026-09-04T18:03:37Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 8,
+    "cachedAt": "2026-09-04T18:30:50.425Z"
+  },
+  "Parth-Oza/novaforge-sim": {
+    "fullName": "Parth-Oza/novaforge-sim",
+    "stars": 0,
+    "pushedAt": "2026-09-04T18:04:58Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 4,
+    "cachedAt": "2026-09-04T18:30:50.619Z"
+  },
+  "IMisbahk/pinout": {
+    "fullName": "IMisbahk/pinout",
+    "stars": 0,
+    "pushedAt": "2026-09-04T17:56:04Z",
+    "archived": false,
+    "fork": true,
+    "language": "TypeScript",
+    "openIssues": 8,
+    "cachedAt": "2026-09-04T18:30:50.874Z"
+  },
+  "gauthamchandra/kinglet": {
+    "fullName": "gauthamchandra/kinglet",
+    "stars": 2,
+    "pushedAt": "2026-09-04T17:59:49Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 14,
+    "cachedAt": "2026-09-04T18:30:51.036Z"
+  },
+  "Emmanard/ledgerwake": {
+    "fullName": "Emmanard/ledgerwake",
+    "stars": 0,
+    "pushedAt": "2026-09-04T17:37:32Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 2,
+    "cachedAt": "2026-09-04T18:30:51.243Z"
+  },
+  "nexu-io/open-design": {
+    "fullName": "nexu-io/open-design",
+    "stars": 94056,
+    "pushedAt": "2026-09-04T18:06:54Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 937,
+    "cachedAt": "2026-09-04T18:30:51.456Z"
+  },
+  "dgriffith/ide-for-thought": {
+    "fullName": "dgriffith/ide-for-thought",
+    "stars": 8,
+    "pushedAt": "2026-09-04T16:51:20Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 69,
+    "cachedAt": "2026-09-04T18:30:51.673Z"
+  },
+  "craftycodie/Halo3LoadingScreen": {
+    "fullName": "craftycodie/Halo3LoadingScreen",
+    "stars": 3,
+    "pushedAt": "2026-09-04T16:20:50Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 1,
+    "cachedAt": "2026-09-04T18:30:51.852Z"
+  },
+  "foam-foundation/foam3": {
+    "fullName": "foam-foundation/foam3",
+    "stars": 49,
+    "pushedAt": "2026-09-04T18:24:28Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 77,
+    "cachedAt": "2026-09-04T18:30:52.072Z"
+  },
+  "xiaojingfan-11/yangmao-skill": {
+    "fullName": "xiaojingfan-11/yangmao-skill",
+    "stars": 2,
+    "pushedAt": "2026-09-04T18:13:28Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 1,
+    "cachedAt": "2026-09-04T18:30:52.287Z"
+  },
+  "projecthaat/jit-api": {
+    "fullName": "projecthaat/jit-api",
+    "stars": 1,
+    "pushedAt": "2026-09-04T18:14:55Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 2,
+    "cachedAt": "2026-09-04T18:30:52.482Z"
+  },
+  "solvemotive/shipcrew-ai": {
+    "fullName": "solvemotive/shipcrew-ai",
+    "stars": 1,
+    "pushedAt": "2026-09-04T16:36:20Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 3,
+    "cachedAt": "2026-09-04T18:30:52.736Z"
+  },
+  "edgarestebens/claude-tetris": {
+    "fullName": "edgarestebens/claude-tetris",
+    "stars": 0,
+    "pushedAt": "2026-09-04T17:21:43Z",
+    "archived": false,
+    "fork": true,
+    "language": "JavaScript",
+    "openIssues": 2,
+    "cachedAt": "2026-09-04T18:30:52.971Z"
+  },
+  "cardano-foundation/cardano-org": {
+    "fullName": "cardano-foundation/cardano-org",
+    "stars": 101,
+    "pushedAt": "2026-09-04T14:03:21Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 24,
+    "cachedAt": "2026-09-04T18:30:53.198Z"
+  },
+  "GatherPress/gatherpress-org-theme": {
+    "fullName": "GatherPress/gatherpress-org-theme",
+    "stars": 1,
+    "pushedAt": "2026-05-30T14:13:08Z",
+    "archived": false,
+    "fork": false,
+    "language": "HTML",
+    "openIssues": 5,
+    "cachedAt": "2026-09-04T18:30:53.396Z"
+  },
+  "Rytting/nomai-scriptorium": {
+    "fullName": "Rytting/nomai-scriptorium",
+    "stars": 1,
+    "pushedAt": "2026-09-04T17:57:25Z",
+    "archived": false,
+    "fork": false,
+    "language": "HTML",
+    "openIssues": 5,
+    "cachedAt": "2026-09-04T18:30:53.554Z"
+  },
+  "Dagric/dagric-os": {
+    "fullName": "Dagric/dagric-os",
+    "stars": 0,
+    "pushedAt": "2026-09-04T17:31:50Z",
+    "archived": false,
+    "fork": false,
+    "language": "HTML",
+    "openIssues": 10,
+    "cachedAt": "2026-09-04T18:30:54.768Z"
+  },
+  "ytgov/ckanext-yukondesign": {
+    "fullName": "ytgov/ckanext-yukondesign",
+    "stars": 0,
+    "pushedAt": "2026-06-17T22:38:56Z",
+    "archived": false,
+    "fork": false,
+    "language": "HTML",
+    "openIssues": 5,
+    "cachedAt": "2026-09-04T18:30:55.021Z"
+  },
+  "BPIManager/BPIManager2": {
+    "fullName": "BPIManager/BPIManager2",
+    "stars": 3,
+    "pushedAt": "2026-09-04T07:19:11Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 15,
+    "cachedAt": "2026-09-04T18:30:55.247Z"
+  },
+  "VaibhavPatel91/whatsflow-whatsapp-scheduler": {
+    "fullName": "VaibhavPatel91/whatsflow-whatsapp-scheduler",
+    "stars": 0,
+    "pushedAt": "2026-09-04T17:03:05Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 2,
+    "cachedAt": "2026-09-04T18:30:55.451Z"
+  },
+  "webbrain-one/webbrain": {
+    "fullName": "webbrain-one/webbrain",
+    "stars": 1003,
+    "pushedAt": "2026-09-04T17:07:17Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 7,
+    "cachedAt": "2026-09-04T18:30:55.656Z"
+  },
+  "Fchat-Horizon/Solstice": {
+    "fullName": "Fchat-Horizon/Solstice",
+    "stars": 7,
+    "pushedAt": "2026-08-31T23:46:46Z",
+    "archived": false,
+    "fork": true,
+    "language": "Vue",
+    "openIssues": 4,
+    "cachedAt": "2026-09-04T18:30:55.862Z"
+  },
+  "ChelseaKR/family-greenhouse": {
+    "fullName": "ChelseaKR/family-greenhouse",
+    "stars": 1,
+    "pushedAt": "2026-09-04T18:29:07Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 49,
+    "cachedAt": "2026-09-04T18:30:56.067Z"
+  },
+  "ayushhagarwal/markdown-lens": {
+    "fullName": "ayushhagarwal/markdown-lens",
+    "stars": 2,
+    "pushedAt": "2026-09-04T18:28:15Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 1,
+    "cachedAt": "2026-09-04T18:30:56.262Z"
+  },
+  "AInima-Collective/trustgraphs": {
+    "fullName": "AInima-Collective/trustgraphs",
+    "stars": 4,
+    "pushedAt": "2026-09-04T17:26:00Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 27,
+    "cachedAt": "2026-09-04T18:30:56.447Z"
+  },
+  "FactoryGameFan/factorio-blueprint-editor": {
+    "fullName": "FactoryGameFan/factorio-blueprint-editor",
+    "stars": 8,
+    "pushedAt": "2026-09-04T18:15:39Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 48,
+    "cachedAt": "2026-09-04T18:30:56.700Z"
+  },
+  "poveste-dev/poveste": {
+    "fullName": "poveste-dev/poveste",
+    "stars": 2,
+    "pushedAt": "2026-09-04T18:27:27Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 131,
+    "cachedAt": "2026-09-04T18:30:56.881Z"
+  },
+  "caty-ai/x-collector": {
+    "fullName": "caty-ai/x-collector",
+    "stars": 1,
+    "pushedAt": "2026-09-04T18:29:33Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 8,
+    "cachedAt": "2026-09-04T18:30:57.055Z"
+  },
+  "takasek/pfdsl": {
+    "fullName": "takasek/pfdsl",
+    "stars": 0,
+    "pushedAt": "2026-09-04T18:16:56Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 28,
+    "cachedAt": "2026-09-04T18:30:57.239Z"
+  },
+  "TzolkinB/skills": {
+    "fullName": "TzolkinB/skills",
+    "stars": 1,
+    "pushedAt": "2026-09-04T17:59:38Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 14,
+    "cachedAt": "2026-09-04T18:30:57.442Z"
+  },
+  "chocolajs/chocola": {
+    "fullName": "chocolajs/chocola",
+    "stars": 3,
+    "pushedAt": "2026-09-04T17:50:08Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 12,
+    "cachedAt": "2026-09-04T18:30:57.614Z"
+  },
+  "kritama/tama-kit": {
+    "fullName": "kritama/tama-kit",
+    "stars": 0,
+    "pushedAt": "2026-09-04T16:40:42Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 5,
+    "cachedAt": "2026-09-04T18:30:57.800Z"
+  },
+  "unfoldingWord/obs-website": {
+    "fullName": "unfoldingWord/obs-website",
+    "stars": 0,
+    "pushedAt": "2026-09-04T18:24:06Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 18,
+    "cachedAt": "2026-09-04T18:30:58.047Z"
+  },
+  "brandonko/budgetapp": {
+    "fullName": "brandonko/budgetapp",
+    "stars": 0,
+    "pushedAt": "2026-09-04T17:07:21Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 17,
+    "cachedAt": "2026-09-04T18:30:58.243Z"
+  },
+  "bloodf/durindoor": {
+    "fullName": "bloodf/durindoor",
+    "stars": 5,
+    "pushedAt": "2026-09-04T16:07:19Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 31,
+    "cachedAt": "2026-09-04T18:30:58.453Z"
+  },
+  "Anthodev/lapin-fute": {
+    "fullName": "Anthodev/lapin-fute",
+    "stars": 0,
+    "pushedAt": "2026-09-04T16:21:58Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 4,
+    "cachedAt": "2026-09-04T18:30:58.673Z"
+  },
+  "BardiaN/kronk-cli": {
+    "fullName": "BardiaN/kronk-cli",
+    "stars": 3,
+    "pushedAt": "2026-09-04T16:30:38Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 3,
+    "cachedAt": "2026-09-04T18:30:58.860Z"
+  },
+  "bradvin/agentfirst.directory": {
+    "fullName": "bradvin/agentfirst.directory",
+    "stars": 2,
+    "pushedAt": "2026-09-04T14:57:00Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 5,
+    "cachedAt": "2026-09-04T18:30:59.067Z"
+  },
+  "link-foundation/browser-commander": {
+    "fullName": "link-foundation/browser-commander",
+    "stars": 0,
+    "pushedAt": "2026-09-04T18:21:54Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 2,
+    "cachedAt": "2026-09-04T18:30:59.250Z"
+  },
+  "demaru-dev/TrustOS-": {
+    "fullName": "demaru-dev/TrustOS-",
+    "stars": 1,
+    "pushedAt": "2026-09-04T17:00:52Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 3315,
+    "cachedAt": "2026-09-04T18:30:59.434Z"
+  },
+  "HiWay-Media/crowdsim": {
+    "fullName": "HiWay-Media/crowdsim",
+    "stars": 1,
+    "pushedAt": "2026-09-04T15:43:52Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 23,
+    "cachedAt": "2026-09-04T18:30:59.679Z"
+  },
+  "bestagentkits/agentkit-docs": {
+    "fullName": "bestagentkits/agentkit-docs",
+    "stars": 5,
+    "pushedAt": "2026-09-04T18:07:24Z",
+    "archived": false,
+    "fork": false,
+    "language": "MDX",
+    "openIssues": 11,
+    "cachedAt": "2026-09-04T18:30:59.922Z"
   }
 }
