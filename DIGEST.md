@@ -4,6 +4,41 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-04 | 🥇 | [[Good First Issue] 🏯 Add new Japanese Haiku 2 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29779) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-04 | 🥇 | [[Good First Issue] 🍤 Add new Theme: Hanabi Festival - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29776) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-04 | 🥇 | [Bug: Mobile game details sheet auto-focuses notes textarea, opening keyboard](https://github.com/Doezer/Questarr/issues/990) | `Doezer/Questarr` | ⭐ 608 |
+| 2026-09-04 | 🥇 | [[Good First Issue] 🎴 Add new Community Note Line #2 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29775) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-04 | 🥇 | [[Good First Issue] 🐡 Add new Wallpaper URL #4 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29774) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-BACKSTAGEPLUGINAPPBACKEND-8163063]](https://github.com/backstage/backstage/issues/35486) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-BACKSTAGEBACKENDDEFAULTS-15054278]](https://github.com/backstage/backstage/issues/35483) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-BACKSTAGEBACKENDPLUGINAPI-15054291]](https://github.com/backstage/backstage/issues/35485) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-BACKSTAGEBACKENDDEFAULTS-15064476]](https://github.com/backstage/backstage/issues/35484) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-BACKSTAGEBACKENDAPPAPI-6229731]](https://github.com/backstage/backstage/issues/35482) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-04 | 🥈 | [Snyk vulnerability [snyk:lic:npm:rollup-plugin-dts:LGPL-3.0]](https://github.com/backstage/backstage/issues/35480) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-APIDEVTOOLSJSONSCHEMAREFPARSER-17937352]](https://github.com/backstage/backstage/issues/35481) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-04 | 🥈 | [Snyk vulnerability [snyk:lic:npm:eslint-plugin-deprecation:LGPL-3.0]](https://github.com/backstage/backstage/issues/35479) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-04 | 🥈 | [Snyk vulnerability [snyk:lic:npm:axe-core:MPL-2.0]](https://github.com/backstage/backstage/issues/35478) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-WS-17344547]](https://github.com/backstage/backstage/issues/35477) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-WS-16722635]](https://github.com/backstage/backstage/issues/35476) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-18426521]](https://github.com/backstage/backstage/issues/35474) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-UUID-16133035]](https://github.com/backstage/backstage/issues/35475) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-18426065]](https://github.com/backstage/backstage/issues/35472) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-18426067]](https://github.com/backstage/backstage/issues/35473) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-18426063]](https://github.com/backstage/backstage/issues/35471) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-18426061]](https://github.com/backstage/backstage/issues/35470) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-17372758]](https://github.com/backstage/backstage/issues/35469) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-17372752]](https://github.com/backstage/backstage/issues/35467) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-17372754]](https://github.com/backstage/backstage/issues/35468) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-17372667]](https://github.com/backstage/backstage/issues/35465) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-17372697]](https://github.com/backstage/backstage/issues/35466) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-17372609]](https://github.com/backstage/backstage/issues/35463) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-17372658]](https://github.com/backstage/backstage/issues/35464) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-TAR-17909225]](https://github.com/backstage/backstage/issues/35461) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-TAR-18319500]](https://github.com/backstage/backstage/issues/35462) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-TAR-17909152]](https://github.com/backstage/backstage/issues/35460) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-04 | 🥉 | [docs: Free tier shows "Opensource Soon" but lists open-source features as includ](https://github.com/halofyai/halofy/issues/25) | `halofyai/halofy` | ⭐ 422 |
+| 2026-09-04 | 🥉 | [Credit: not in .all-contributorsrc or CONTRIBUTORS.md after 8 merged PRs](https://github.com/career-ops-hq/career-ops/issues/3835) | `career-ops-hq/career-ops` | ⭐ 69.9k |
+| 2026-09-04 | 🥉 | [Governance: the contributor ladder is specified five incompatible ways, and the ](https://github.com/career-ops-hq/career-ops/issues/3832) | `career-ops-hq/career-ops` | ⭐ 69.9k |
 | 2026-09-04 | 🥇 | [[Good First Issue] 🏯 Add new Learner Mistake 18 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29773) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-04 | 🥇 | [[Good First Issue] 🗾 Add new Example Sentence 20 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29772) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-04 | 🥇 | [[Bug]: duplicate 'web-clone' chip in HOME_HERO_CHIPS — one copy silently opts ou](https://github.com/nexu-io/open-design/issues/7775) | `nexu-io/open-design` | ⭐ 94.1k |
@@ -69,38 +104,3 @@
 | 2026-09-04 | 🥉 | [[agent] providers L WP-04: shard e2e four ways using step-level gating](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3215) | `KeepSoftwareSimple/compass-calendar` | ⭐ 229 |
 | 2026-09-04 | 🥉 | [[agent] providers L WP-03: stop running the unit matrix twice per PR push](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3214) | `KeepSoftwareSimple/compass-calendar` | ⭐ 229 |
 | 2026-09-04 | 🥉 | [[agent] providers L WP-02: safe loop concurrency of N with dependency parsing an](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3213) | `KeepSoftwareSimple/compass-calendar` | ⭐ 229 |
-| 2026-09-04 | 🥉 | [[agent] providers L WP-01: generalize booking-loop into a milestone-driven agent](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3212) | `KeepSoftwareSimple/compass-calendar` | ⭐ 229 |
-| 2026-09-03 | 🥇 | [[Good First Issue] 🍘 Add new Japanese Haiku 11 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29717) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-03 | 🥇 | [[Good First Issue] 🐡 Add new Japanese Proverb 100 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29716) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-03 | 🥈 | [[Feature] 机器人卡片支持设置模型](https://github.com/xmanrui/dsh-im/issues/142) | `xmanrui/dsh-im` | ⭐ 977 |
-| 2026-09-03 | 🥉 | [chore(aiwg): preserve maintainer guidance artifacts](https://github.com/elder-plinius/T3MP3ST/issues/208) | `elder-plinius/T3MP3ST` | ⭐ 6.0k |
-| 2026-09-03 | 🥇 | [[Good First Issue] 🐙 Add new Learner Mistake 69 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29710) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-03 | 🥇 | [[Good First Issue] 🍘 Add new Example Sentence 120 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29708) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-03 | 🥇 | [docs: add .github/SUPPORT.md](https://github.com/felladrin/MiniSearch/issues/2528) | `felladrin/MiniSearch` | ⭐ 586 |
-| 2026-09-03 | 🥇 | [test: add unit tests for server/config/modelConfig.ts and server/rerankerService](https://github.com/felladrin/MiniSearch/issues/2527) | `felladrin/MiniSearch` | ⭐ 586 |
-| 2026-09-03 | 🥇 | [docs: fix quick-start.md port confusion (7861 vs 7860)](https://github.com/felladrin/MiniSearch/issues/2526) | `felladrin/MiniSearch` | ⭐ 586 |
-| 2026-09-03 | 🥇 | [community: add good-first-issue labels to appropriate issues](https://github.com/felladrin/MiniSearch/issues/2519) | `felladrin/MiniSearch` | ⭐ 586 |
-| 2026-09-03 | 🥇 | [automation: add stale issue/PR automation](https://github.com/felladrin/MiniSearch/issues/2518) | `felladrin/MiniSearch` | ⭐ 586 |
-| 2026-09-03 | 🥈 | [[Good First Issue] 🌸 Add new Etiquette Tip 86 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29707) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-03 | 🥈 | [[Good First Issue] 🐙 Add new False Friend Pair 112 - Beginner-Friendly Open-sou](https://github.com/lingdojo/kana-dojo/issues/29706) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-03 | 🥈 | [[Good First Issue] 🐡 Add new Dialect Entry 2 - Beginner-Friendly Open-source Co](https://github.com/lingdojo/kana-dojo/issues/29705) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-03 | 🥈 | [[Good First Issue] 🎋 Add new Japanese Idiom 68 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29703) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-03 | 🥈 | [[Good First Issue] 🎏 Add new Video Game Quote 118 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29702) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-03 | 🥈 | [[Good First Issue] 🎍 Add new Anime Quote 68 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29701) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-03 | 🥈 | [[HELP]](https://github.com/remittor/zapret-openwrt/issues/844) | `remittor/zapret-openwrt` | ⭐ 1.4k |
-| 2026-09-03 | 🥇 | [[Good First Issue] 🍣 Add new Grammar Point 63 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29700) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-03 | 🥇 | [[Good First Issue] 🎑 Add new Trivia Question 80 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29699) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-03 | 🥇 | [[Good First Issue] 🍶 Add new Japanese Haiku 6 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29697) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-03 | 🥇 | [[Good First Issue] 🍶 Add new Japanese Proverb 110 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29695) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-03 | 🥇 | [[Good First Issue] 🌋 Add new Japan Fact 235 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29694) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-03 | 🥇 | [[Community] Member Profile: Hiya Chhawchharia](https://github.com/layer5io/layer5/issues/8009) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-03 | 🥇 | [Github quickstart page not rendering url substitituion](https://github.com/taskcluster/taskcluster/issues/9119) | `taskcluster/taskcluster` | ⭐ 430 |
-| 2026-09-03 | 🥇 | [Hidden fields revealing actual data length](https://github.com/bitwarden/clients/issues/22910) | `bitwarden/clients` | ⭐ 13.7k |
-| 2026-09-03 | 🥇 | [🛡️ NDAA (Section 889) compliance field — dataset-wide rollout](https://github.com/ch-bas/cctv-camera-database/issues/348) | `ch-bas/cctv-camera-database` | ⭐ 240 |
-| 2026-09-03 | 🥈 | [[🐛 Bug]: `browser.once('dialog', ...)` does not disable default auto dismiss](https://github.com/webdriverio/webdriverio/issues/15558) | `webdriverio/webdriverio` | ⭐ 9.8k |
-| 2026-09-03 | 🥈 | [[Good First Issue] 🎴 Add new Community Note Line #4 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29692) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-03 | 🥉 | [[EuiToolTip] Tooltip does not dismiss on mouse-out for aria-disabled anchors](https://github.com/elastic/eui/issues/9997) | `elastic/eui` | ⭐ 6.3k |
-| 2026-09-03 | 🥇 | [[Good First Issue] 🐡 Add new False Friend Pair 96 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29687) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-03 | 🥇 | [[Good First Issue] 🍙 Add new Japanese Idiom 49 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29686) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-03 | 🥇 | [[Good First Issue] 🍱 Add new Video Game Quote 29 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29685) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-03 | 🥇 | [[Good First Issue] 🌋 Add new Anime Quote 116 - Beginner-Friendly Open-source Co](https://github.com/lingdojo/kana-dojo/issues/29684) | `lingdojo/kana-dojo` | ⭐ 3.3k |
