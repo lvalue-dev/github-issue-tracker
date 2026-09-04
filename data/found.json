@@ -1,5 +1,547 @@
 [
   {
+    "key": "lingdojo/kana-dojo#29722",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29722,
+    "title": "[Good First Issue] 🐙 Add new Japanese Idiom 10 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29722",
+    "comments": 1,
+    "createdAt": "2026-09-04T00:01:05Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-04T00:12:27.214Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29721",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29721,
+    "title": "[Good First Issue] 🐉 Add new Video Game Quote 116 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29721",
+    "comments": 1,
+    "createdAt": "2026-09-03T23:37:35Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-04T00:12:27.214Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29720",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29720,
+    "title": "[Good First Issue] 🐙 Add new Anime Quote 48 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29720",
+    "comments": 1,
+    "createdAt": "2026-09-03T23:01:00Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-04T00:12:27.461Z"
+  },
+  {
+    "key": "rakanki911/DLSS5-Swapper#55",
+    "tier": 1,
+    "repo": "rakanki911/DLSS5-Swapper",
+    "number": 55,
+    "title": "Wrong API detected, please make API switchable",
+    "url": "https://github.com/rakanki911/DLSS5-Swapper/issues/55",
+    "comments": 1,
+    "createdAt": "2026-09-03T22:43:19Z",
+    "labels": [
+      "good first issue"
+    ],
+    "language": "javascript",
+    "stars": 1076,
+    "foundAt": "2026-09-04T00:12:28.170Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29719",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29719,
+    "title": "[Good First Issue] 🐙 Add new Grammar Point 83 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29719",
+    "comments": 1,
+    "createdAt": "2026-09-03T22:37:32Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-04T00:12:27.711Z"
+  },
+  {
+    "key": "rakanki911/DLSS5-Swapper#54",
+    "tier": 1,
+    "repo": "rakanki911/DLSS5-Swapper",
+    "number": 54,
+    "title": "Resident Evil Requiem incorrectly detected as DirectX 11 and Native DLSS route missing",
+    "url": "https://github.com/rakanki911/DLSS5-Swapper/issues/54",
+    "comments": 0,
+    "createdAt": "2026-09-03T22:35:39Z",
+    "labels": [
+      "good first issue"
+    ],
+    "language": "javascript",
+    "stars": 1076,
+    "foundAt": "2026-09-04T00:12:28.170Z"
+  },
+  {
+    "key": "rakanki911/DLSS5-Swapper#52",
+    "tier": 1,
+    "repo": "rakanki911/DLSS5-Swapper",
+    "number": 52,
+    "title": "Optiscaler RTX50 Only",
+    "url": "https://github.com/rakanki911/DLSS5-Swapper/issues/52",
+    "comments": 0,
+    "createdAt": "2026-09-03T22:07:15Z",
+    "labels": [
+      "good first issue"
+    ],
+    "language": "javascript",
+    "stars": 1076,
+    "foundAt": "2026-09-04T00:12:28.663Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29718",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29718,
+    "title": "[Good First Issue] 🏮 Add new Trivia Question 35 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29718",
+    "comments": 1,
+    "createdAt": "2026-09-03T22:01:09Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-04T00:12:27.711Z"
+  },
+  {
+    "key": "rakanki911/DLSS5-Swapper#51",
+    "tier": 1,
+    "repo": "rakanki911/DLSS5-Swapper",
+    "number": 51,
+    "title": "DLSS Native/Feeder mismatch",
+    "url": "https://github.com/rakanki911/DLSS5-Swapper/issues/51",
+    "comments": 0,
+    "createdAt": "2026-09-03T21:13:03Z",
+    "labels": [
+      "good first issue"
+    ],
+    "language": "javascript",
+    "stars": 1076,
+    "foundAt": "2026-09-04T00:12:28.663Z"
+  },
+  {
+    "key": "rakanki911/DLSS5-Swapper#45",
+    "tier": 1,
+    "repo": "rakanki911/DLSS5-Swapper",
+    "number": 45,
+    "title": "If the game detects both opengl and dx, have it choose dx or give a dropdown.",
+    "url": "https://github.com/rakanki911/DLSS5-Swapper/issues/45",
+    "comments": 1,
+    "createdAt": "2026-09-03T16:32:21Z",
+    "labels": [
+      "good first issue"
+    ],
+    "language": "javascript",
+    "stars": 1076,
+    "foundAt": "2026-09-04T00:12:28.663Z"
+  },
+  {
+    "key": "rakanki911/DLSS5-Swapper#42",
+    "tier": 1,
+    "repo": "rakanki911/DLSS5-Swapper",
+    "number": 42,
+    "title": "DLSS5-Swapper does not recognize DXVK(Vulkan) .dll files.",
+    "url": "https://github.com/rakanki911/DLSS5-Swapper/issues/42",
+    "comments": 1,
+    "createdAt": "2026-09-03T10:47:51Z",
+    "labels": [
+      "good first issue"
+    ],
+    "language": "javascript",
+    "stars": 1076,
+    "foundAt": "2026-09-04T00:12:28.663Z"
+  },
+  {
+    "key": "rakanki911/DLSS5-Swapper#40",
+    "tier": 1,
+    "repo": "rakanki911/DLSS5-Swapper",
+    "number": 40,
+    "title": "API detecter wrong",
+    "url": "https://github.com/rakanki911/DLSS5-Swapper/issues/40",
+    "comments": 2,
+    "createdAt": "2026-09-03T07:43:15Z",
+    "labels": [
+      "good first issue"
+    ],
+    "language": "javascript",
+    "stars": 1076,
+    "foundAt": "2026-09-04T00:12:28.663Z"
+  },
+  {
+    "key": "KeepSoftwareSimple/compass-calendar#3279",
+    "tier": 3,
+    "repo": "KeepSoftwareSimple/compass-calendar",
+    "number": 3279,
+    "title": "[agent] providers C WP-03: docs, README, dashboards and the health snapshot",
+    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3279",
+    "comments": 0,
+    "createdAt": "2026-09-04T00:05:24Z",
+    "labels": [
+      "agent-ready",
+      "providers-closeout",
+      "sync-core",
+      "docs"
+    ],
+    "language": "typescript",
+    "stars": 229,
+    "foundAt": "2026-09-04T00:12:29.660Z"
+  },
+  {
+    "key": "KeepSoftwareSimple/compass-calendar#3276",
+    "tier": 3,
+    "repo": "KeepSoftwareSimple/compass-calendar",
+    "number": 3276,
+    "title": "[agent] providers A WP-12: Apple closeout: docs, e2e, staging soak",
+    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3276",
+    "comments": 0,
+    "createdAt": "2026-09-04T00:05:11Z",
+    "labels": [
+      "agent-ready",
+      "providers-apple",
+      "e2e",
+      "docs"
+    ],
+    "language": "typescript",
+    "stars": 229,
+    "foundAt": "2026-09-04T00:12:29.660Z"
+  },
+  {
+    "key": "KeepSoftwareSimple/compass-calendar#3274",
+    "tier": 3,
+    "repo": "KeepSoftwareSimple/compass-calendar",
+    "number": 3274,
+    "title": "[agent] providers M WP-14: Microsoft closeout: docs, README, staging soak",
+    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3274",
+    "comments": 0,
+    "createdAt": "2026-09-04T00:05:02Z",
+    "labels": [
+      "agent-ready",
+      "providers-microsoft",
+      "docs"
+    ],
+    "language": "typescript",
+    "stars": 229,
+    "foundAt": "2026-09-04T00:12:29.660Z"
+  },
+  {
+    "key": "KeepSoftwareSimple/compass-calendar#3272",
+    "tier": 3,
+    "repo": "KeepSoftwareSimple/compass-calendar",
+    "number": 3272,
+    "title": "[agent] providers L WP-10: nightly live-provider smoke against real test accounts",
+    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3272",
+    "comments": 0,
+    "createdAt": "2026-09-04T00:04:53Z",
+    "labels": [
+      "agent-ready",
+      "providers-loop",
+      "sync-core",
+      "docs"
+    ],
+    "language": "typescript",
+    "stars": 229,
+    "foundAt": "2026-09-04T00:12:29.660Z"
+  },
+  {
+    "key": "KeepSoftwareSimple/compass-calendar#3267",
+    "tier": 3,
+    "repo": "KeepSoftwareSimple/compass-calendar",
+    "number": 3267,
+    "title": "[agent] providers I WP-03: Sign in with Apple",
+    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3267",
+    "comments": 0,
+    "createdAt": "2026-09-04T00:04:31Z",
+    "labels": [
+      "backend",
+      "web",
+      "agent-ready",
+      "providers-identity",
+      "docs"
+    ],
+    "language": "typescript",
+    "stars": 229,
+    "foundAt": "2026-09-04T00:12:29.660Z"
+  },
+  {
+    "key": "KeepSoftwareSimple/compass-calendar#3253",
+    "tier": 3,
+    "repo": "KeepSoftwareSimple/compass-calendar",
+    "number": 3253,
+    "title": "[agent] providers A WP-00: founder setup: iCloud test account and supersede the July decision",
+    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3253",
+    "comments": 0,
+    "createdAt": "2026-09-04T00:03:27Z",
+    "labels": [
+      "agent-ready",
+      "providers-apple",
+      "docs"
+    ],
+    "language": "typescript",
+    "stars": 229,
+    "foundAt": "2026-09-04T00:12:29.930Z"
+  },
+  {
+    "key": "KeepSoftwareSimple/compass-calendar#3239",
+    "tier": 3,
+    "repo": "KeepSoftwareSimple/compass-calendar",
+    "number": 3239,
+    "title": "[agent] providers M WP-00: founder setup: Entra app registration, publisher verification, test accounts",
+    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3239",
+    "comments": 0,
+    "createdAt": "2026-09-04T00:02:23Z",
+    "labels": [
+      "agent-ready",
+      "providers-microsoft",
+      "docs"
+    ],
+    "language": "typescript",
+    "stars": 229,
+    "foundAt": "2026-09-04T00:12:29.930Z"
+  },
+  {
+    "key": "KeepSoftwareSimple/compass-calendar#3238",
+    "tier": 3,
+    "repo": "KeepSoftwareSimple/compass-calendar",
+    "number": 3238,
+    "title": "[agent] providers P0 WP-13: spec and architecture doc closeout for P0",
+    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3238",
+    "comments": 0,
+    "createdAt": "2026-09-04T00:02:18Z",
+    "labels": [
+      "agent-ready",
+      "providers-p0",
+      "docs"
+    ],
+    "language": "typescript",
+    "stars": 229,
+    "foundAt": "2026-09-04T00:12:29.930Z"
+  },
+  {
+    "key": "KeepSoftwareSimple/compass-calendar#3224",
+    "tier": 3,
+    "repo": "KeepSoftwareSimple/compass-calendar",
+    "number": 3224,
+    "title": "[agent] providers P0 WP-02: config schema and deploy plumbing for all three providers",
+    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3224",
+    "comments": 0,
+    "createdAt": "2026-09-04T00:01:15Z",
+    "labels": [
+      "backend",
+      "web",
+      "agent-ready",
+      "providers-p0",
+      "core",
+      "docs"
+    ],
+    "language": "typescript",
+    "stars": 229,
+    "foundAt": "2026-09-04T00:12:30.157Z"
+  },
+  {
+    "key": "KeepSoftwareSimple/compass-calendar#3221",
+    "tier": 3,
+    "repo": "KeepSoftwareSimple/compass-calendar",
+    "number": 3221,
+    "title": "[agent] providers L WP-11: Copilot review only on ready PRs",
+    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3221",
+    "comments": 0,
+    "createdAt": "2026-09-04T00:01:02Z",
+    "labels": [
+      "agent-ready",
+      "providers-loop",
+      "docs"
+    ],
+    "language": "typescript",
+    "stars": 229,
+    "foundAt": "2026-09-04T00:12:30.157Z"
+  },
+  {
+    "key": "KeepSoftwareSimple/compass-calendar#3219",
+    "tier": 3,
+    "repo": "KeepSoftwareSimple/compass-calendar",
+    "number": 3219,
+    "title": "[agent] providers L WP-08: Docker layer cache and consistent Bun pin",
+    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3219",
+    "comments": 0,
+    "createdAt": "2026-09-04T00:00:53Z",
+    "labels": [
+      "agent-ready",
+      "providers-loop",
+      "docs"
+    ],
+    "language": "typescript",
+    "stars": 229,
+    "foundAt": "2026-09-04T00:12:30.157Z"
+  },
+  {
+    "key": "KeepSoftwareSimple/compass-calendar#3218",
+    "tier": 3,
+    "repo": "KeepSoftwareSimple/compass-calendar",
+    "number": 3218,
+    "title": "[agent] providers L WP-07: perf-budget runs on main and nightly, not on every web PR",
+    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3218",
+    "comments": 0,
+    "createdAt": "2026-09-04T00:00:48Z",
+    "labels": [
+      "agent-ready",
+      "providers-loop",
+      "docs"
+    ],
+    "language": "typescript",
+    "stars": 229,
+    "foundAt": "2026-09-04T00:12:30.157Z"
+  },
+  {
+    "key": "KeepSoftwareSimple/compass-calendar#3216",
+    "tier": 3,
+    "repo": "KeepSoftwareSimple/compass-calendar",
+    "number": 3216,
+    "title": "[agent] providers L WP-05: collapse static checks into one job and shard unit (web)",
+    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3216",
+    "comments": 0,
+    "createdAt": "2026-09-04T00:00:39Z",
+    "labels": [
+      "agent-ready",
+      "providers-loop",
+      "scripts",
+      "docs"
+    ],
+    "language": "typescript",
+    "stars": 229,
+    "foundAt": "2026-09-04T00:12:30.157Z"
+  },
+  {
+    "key": "KeepSoftwareSimple/compass-calendar#3215",
+    "tier": 3,
+    "repo": "KeepSoftwareSimple/compass-calendar",
+    "number": 3215,
+    "title": "[agent] providers L WP-04: shard e2e four ways using step-level gating",
+    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3215",
+    "comments": 0,
+    "createdAt": "2026-09-04T00:00:34Z",
+    "labels": [
+      "agent-ready",
+      "providers-loop",
+      "docs"
+    ],
+    "language": "typescript",
+    "stars": 229,
+    "foundAt": "2026-09-04T00:12:30.157Z"
+  },
+  {
+    "key": "KeepSoftwareSimple/compass-calendar#3214",
+    "tier": 3,
+    "repo": "KeepSoftwareSimple/compass-calendar",
+    "number": 3214,
+    "title": "[agent] providers L WP-03: stop running the unit matrix twice per PR push",
+    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3214",
+    "comments": 0,
+    "createdAt": "2026-09-04T00:00:29Z",
+    "labels": [
+      "agent-ready",
+      "providers-loop",
+      "docs"
+    ],
+    "language": "typescript",
+    "stars": 229,
+    "foundAt": "2026-09-04T00:12:30.157Z"
+  },
+  {
+    "key": "KeepSoftwareSimple/compass-calendar#3213",
+    "tier": 3,
+    "repo": "KeepSoftwareSimple/compass-calendar",
+    "number": 3213,
+    "title": "[agent] providers L WP-02: safe loop concurrency of N with dependency parsing and a merge queue",
+    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3213",
+    "comments": 0,
+    "createdAt": "2026-09-04T00:00:25Z",
+    "labels": [
+      "agent-ready",
+      "providers-loop",
+      "docs"
+    ],
+    "language": "typescript",
+    "stars": 229,
+    "foundAt": "2026-09-04T00:12:30.157Z"
+  },
+  {
+    "key": "KeepSoftwareSimple/compass-calendar#3212",
+    "tier": 3,
+    "repo": "KeepSoftwareSimple/compass-calendar",
+    "number": 3212,
+    "title": "[agent] providers L WP-01: generalize booking-loop into a milestone-driven agent loop",
+    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3212",
+    "comments": 0,
+    "createdAt": "2026-09-04T00:00:20Z",
+    "labels": [
+      "agent-ready",
+      "providers-loop",
+      "docs"
+    ],
+    "language": "typescript",
+    "stars": 229,
+    "foundAt": "2026-09-04T00:12:30.157Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#29717",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1456,511 +1998,5 @@
     "language": "typescript",
     "stars": 821,
     "foundAt": "2026-09-03T00:23:35.957Z"
-  },
-  {
-    "key": "NASA-AMMOS/MMGIS#1070",
-    "tier": 1,
-    "repo": "NASA-AMMOS/MMGIS",
-    "number": 1070,
-    "title": "[New Feature] - Identifier Tool - Mousing over should also highlight values in the Legend Tool.",
-    "url": "https://github.com/NASA-AMMOS/MMGIS/issues/1070",
-    "comments": 0,
-    "createdAt": "2026-09-02T20:45:26Z",
-    "labels": [
-      "good first issue",
-      "new feature"
-    ],
-    "language": "javascript",
-    "stars": 229,
-    "foundAt": "2026-09-02T21:54:14.461Z"
-  },
-  {
-    "key": "NASA-AMMOS/MMGIS#1069",
-    "tier": 1,
-    "repo": "NASA-AMMOS/MMGIS",
-    "number": 1069,
-    "title": "[Bug]: Coordinates Tab - Projection Setup: duplicate fields and better description",
-    "url": "https://github.com/NASA-AMMOS/MMGIS/issues/1069",
-    "comments": 0,
-    "createdAt": "2026-09-02T20:40:25Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "documentation"
-    ],
-    "language": "javascript",
-    "stars": 229,
-    "foundAt": "2026-09-02T21:54:14.462Z"
-  },
-  {
-    "key": "NASA-AMMOS/MMGIS#1068",
-    "tier": 1,
-    "repo": "NASA-AMMOS/MMGIS",
-    "number": 1068,
-    "title": "[Documentation]: Docs for Agentic Administrator.",
-    "url": "https://github.com/NASA-AMMOS/MMGIS/issues/1068",
-    "comments": 0,
-    "createdAt": "2026-09-02T20:34:07Z",
-    "labels": [
-      "good first issue",
-      "documentation"
-    ],
-    "language": "javascript",
-    "stars": 229,
-    "foundAt": "2026-09-02T21:54:14.462Z"
-  },
-  {
-    "key": "PokemonWorkshop/PokemonStudio#816",
-    "tier": 1,
-    "repo": "PokemonWorkshop/PokemonStudio",
-    "number": 816,
-    "title": "Update Documentation Links on the Home Page",
-    "url": "https://github.com/PokemonWorkshop/PokemonStudio/issues/816",
-    "comments": 0,
-    "createdAt": "2026-09-02T20:03:38Z",
-    "labels": [
-      "Good first issue",
-      "User story"
-    ],
-    "language": "typescript",
-    "stars": 217,
-    "foundAt": "2026-09-02T21:54:12.138Z"
-  },
-  {
-    "key": "openstory-so/openstory#1463",
-    "tier": 3,
-    "repo": "openstory-so/openstory",
-    "number": 1463,
-    "title": "MCP 7/7: client compatibility pass, docs, and connect skill (Claude.ai, Claude Code, Cursor)",
-    "url": "https://github.com/openstory-so/openstory/issues/1463",
-    "comments": 0,
-    "createdAt": "2026-09-02T21:38:18Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "api"
-    ],
-    "language": "typescript",
-    "stars": 564,
-    "foundAt": "2026-09-02T21:54:15.630Z"
-  },
-  {
-    "key": "medusajs/medusa#16697",
-    "tier": 1,
-    "repo": "medusajs/medusa",
-    "number": 16697,
-    "title": "[Bug]: [workflow-engine-redis] Options type declares top-level redisUrl but loader only reads nested options.redis",
-    "url": "https://github.com/medusajs/medusa/issues/16697",
-    "comments": 2,
-    "createdAt": "2026-09-02T17:41:46Z",
-    "labels": [
-      "good first issue",
-      "type: bug",
-      "status: needs triaging",
-      "version: 2.0"
-    ],
-    "language": "typescript",
-    "stars": 36109,
-    "foundAt": "2026-09-02T18:49:23.136Z"
-  },
-  {
-    "key": "goatplatform/goatdb#56",
-    "tier": 1,
-    "repo": "goatplatform/goatdb",
-    "number": 56,
-    "title": "feat/DB Inspector Web UI",
-    "url": "https://github.com/goatplatform/goatdb/issues/56",
-    "comments": 0,
-    "createdAt": "2026-09-02T16:12:49Z",
-    "labels": [
-      "enhancement",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 572,
-    "foundAt": "2026-09-02T18:49:23.772Z"
-  },
-  {
-    "key": "PipedreamHQ/pipedream#21866",
-    "tier": 1,
-    "repo": "PipedreamHQ/pipedream",
-    "number": 21866,
-    "title": "[ACTION] Freshdesk - List Tickets: add requester_id / email / per_page / updated_since / include filters (For Neople)",
-    "url": "https://github.com/PipedreamHQ/pipedream/issues/21866",
-    "comments": 1,
-    "createdAt": "2026-09-02T15:12:30Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "action"
-    ],
-    "language": "javascript",
-    "stars": 11665,
-    "foundAt": "2026-09-02T18:49:24.744Z"
-  },
-  {
-    "key": "xmanrui/dsh-im#137",
-    "tier": 2,
-    "repo": "xmanrui/dsh-im",
-    "number": 137,
-    "title": "诚邀贡献者协助接入 iMessage 渠道",
-    "url": "https://github.com/xmanrui/dsh-im/issues/137",
-    "comments": 0,
-    "createdAt": "2026-09-02T18:26:59Z",
-    "labels": [
-      "enhancement",
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 977,
-    "foundAt": "2026-09-02T18:49:25.703Z"
-  },
-  {
-    "key": "career-ops-hq/career-ops#3680",
-    "tier": 2,
-    "repo": "career-ops-hq/career-ops",
-    "number": 3680,
-    "title": "feat(pipeline): heuristic pre-score gate before LLM evaluation (spin-out from RFC #494)",
-    "url": "https://github.com/career-ops-hq/career-ops/issues/3680",
-    "comments": 1,
-    "createdAt": "2026-09-02T11:24:39Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "architectural-proposal"
-    ],
-    "language": "javascript",
-    "stars": 69868,
-    "foundAt": "2026-09-02T18:49:25.972Z"
-  },
-  {
-    "key": "griddynamics/rosetta#355",
-    "tier": 3,
-    "repo": "griddynamics/rosetta",
-    "number": 355,
-    "title": "[ROSETTA] Make research source tooling capability-aware",
-    "url": "https://github.com/griddynamics/rosetta/issues/355",
-    "comments": 1,
-    "createdAt": "2026-09-02T18:35:37Z",
-    "labels": [
-      "documentation",
-      "instructions"
-    ],
-    "language": "typescript",
-    "stars": 341,
-    "foundAt": "2026-09-02T18:49:26.317Z"
-  },
-  {
-    "key": "griddynamics/rosetta#349",
-    "tier": 3,
-    "repo": "griddynamics/rosetta",
-    "number": 349,
-    "title": "[ROSETTA] Document MCP timeout and health environment variables",
-    "url": "https://github.com/griddynamics/rosetta/issues/349",
-    "comments": 1,
-    "createdAt": "2026-09-02T18:09:45Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "typescript",
-    "stars": 341,
-    "foundAt": "2026-09-02T18:49:27.447Z"
-  },
-  {
-    "key": "Effect-TS/effect#7653",
-    "tier": 3,
-    "repo": "Effect-TS/effect",
-    "number": 7653,
-    "title": "Effect installation docs gives error",
-    "url": "https://github.com/Effect-TS/effect/issues/7653",
-    "comments": 0,
-    "createdAt": "2026-09-02T18:09:23Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "typescript",
-    "stars": 15765,
-    "foundAt": "2026-09-02T18:49:27.664Z"
-  },
-  {
-    "key": "diegosouzapw/OmniRoute#12501",
-    "tier": 3,
-    "repo": "diegosouzapw/OmniRoute",
-    "number": 12501,
-    "title": "docs(backend): GAMIFICATION.md documents an XP reward table that does not exist in the code",
-    "url": "https://github.com/diegosouzapw/OmniRoute/issues/12501",
-    "comments": 0,
-    "createdAt": "2026-09-02T18:09:09Z",
-    "labels": [
-      "documentation",
-      "backlog",
-      "backend"
-    ],
-    "language": "typescript",
-    "stars": 60289,
-    "foundAt": "2026-09-02T18:49:27.839Z"
-  },
-  {
-    "key": "codex-team/editor.js#3022",
-    "tier": 1,
-    "repo": "codex-team/editor.js",
-    "number": 3022,
-    "title": "Slow rendering of editor blocks due to offsetWidth",
-    "url": "https://github.com/codex-team/editor.js/issues/3022",
-    "comments": 2,
-    "createdAt": "2026-09-02T13:19:09Z",
-    "labels": [
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 31922,
-    "foundAt": "2026-09-02T14:35:30.025Z"
-  },
-  {
-    "key": "langwatch/langwatch#7773",
-    "tier": 1,
-    "repo": "langwatch/langwatch",
-    "number": 7773,
-    "title": "Convention cleanup in the automations filter display: boolean prop prefixes, test helper params, given blocks",
-    "url": "https://github.com/langwatch/langwatch/issues/7773",
-    "comments": 1,
-    "createdAt": "2026-09-02T12:56:02Z",
-    "labels": [
-      "good first issue",
-      "tech-debt"
-    ],
-    "language": "typescript",
-    "stars": 3522,
-    "foundAt": "2026-09-02T14:35:30.511Z"
-  },
-  {
-    "key": "career-ops-hq/career-ops#3675",
-    "tier": 1,
-    "repo": "career-ops-hq/career-ops",
-    "number": 3675,
-    "title": "i18n(ua): re-sync modes/ua/oferta.md (Ukrainian) to the canonical A–H + Risk Summary structure",
-    "url": "https://github.com/career-ops-hq/career-ops/issues/3675",
-    "comments": 0,
-    "createdAt": "2026-09-02T11:11:24Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "i18n"
-    ],
-    "language": "javascript",
-    "stars": 69868,
-    "foundAt": "2026-09-02T14:35:33.047Z"
-  },
-  {
-    "key": "career-ops-hq/career-ops#3674",
-    "tier": 1,
-    "repo": "career-ops-hq/career-ops",
-    "number": 3674,
-    "title": "i18n(ru): re-sync modes/ru/oferta.md (Russian) to the canonical A–H + Risk Summary structure",
-    "url": "https://github.com/career-ops-hq/career-ops/issues/3674",
-    "comments": 0,
-    "createdAt": "2026-09-02T11:11:22Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "i18n"
-    ],
-    "language": "javascript",
-    "stars": 69868,
-    "foundAt": "2026-09-02T14:35:33.047Z"
-  },
-  {
-    "key": "career-ops-hq/career-ops#3673",
-    "tier": 1,
-    "repo": "career-ops-hq/career-ops",
-    "number": 3673,
-    "title": "i18n(pt): re-sync modes/pt/oferta.md (Portuguese) to the canonical A–H + Risk Summary structure",
-    "url": "https://github.com/career-ops-hq/career-ops/issues/3673",
-    "comments": 0,
-    "createdAt": "2026-09-02T11:11:21Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "i18n"
-    ],
-    "language": "javascript",
-    "stars": 69868,
-    "foundAt": "2026-09-02T14:35:33.047Z"
-  },
-  {
-    "key": "career-ops-hq/career-ops#3672",
-    "tier": 1,
-    "repo": "career-ops-hq/career-ops",
-    "number": 3672,
-    "title": "i18n(pl): re-sync modes/pl/oferta.md (Polish) to the canonical A–H + Risk Summary structure",
-    "url": "https://github.com/career-ops-hq/career-ops/issues/3672",
-    "comments": 0,
-    "createdAt": "2026-09-02T11:11:19Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "i18n"
-    ],
-    "language": "javascript",
-    "stars": 69868,
-    "foundAt": "2026-09-02T14:35:33.047Z"
-  },
-  {
-    "key": "career-ops-hq/career-ops#3671",
-    "tier": 1,
-    "repo": "career-ops-hq/career-ops",
-    "number": 3671,
-    "title": "i18n(es): re-sync modes/es/oferta.md (Spanish) to the canonical A–H + Risk Summary structure",
-    "url": "https://github.com/career-ops-hq/career-ops/issues/3671",
-    "comments": 0,
-    "createdAt": "2026-09-02T11:11:17Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "i18n"
-    ],
-    "language": "javascript",
-    "stars": 69868,
-    "foundAt": "2026-09-02T14:35:33.047Z"
-  },
-  {
-    "key": "career-ops-hq/career-ops#3670",
-    "tier": 1,
-    "repo": "career-ops-hq/career-ops",
-    "number": 3670,
-    "title": "i18n(da): re-sync modes/da/oferta.md (Danish) to the canonical A–H + Risk Summary structure",
-    "url": "https://github.com/career-ops-hq/career-ops/issues/3670",
-    "comments": 0,
-    "createdAt": "2026-09-02T11:11:15Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "i18n"
-    ],
-    "language": "javascript",
-    "stars": 69868,
-    "foundAt": "2026-09-02T14:35:33.047Z"
-  },
-  {
-    "key": "career-ops-hq/career-ops#3669",
-    "tier": 2,
-    "repo": "career-ops-hq/career-ops",
-    "number": 3669,
-    "title": "Umbrella: re-sync the six frozen localized oferta.md modes (da/es/pl/pt/ru/ua) to the canonical A–H + Risk Summary structure",
-    "url": "https://github.com/career-ops-hq/career-ops/issues/3669",
-    "comments": 0,
-    "createdAt": "2026-09-02T11:10:52Z",
-    "labels": [
-      "help wanted",
-      "umbrella",
-      "i18n"
-    ],
-    "language": "javascript",
-    "stars": 69868,
-    "foundAt": "2026-09-02T14:35:35.742Z"
-  },
-  {
-    "key": "typescript-eslint/typescript-eslint#12811",
-    "tier": 3,
-    "repo": "typescript-eslint/typescript-eslint",
-    "number": 12811,
-    "title": "Docs: Add a reference to `webpro-nl/remove-unused-vars`",
-    "url": "https://github.com/typescript-eslint/typescript-eslint/issues/12811",
-    "comments": 1,
-    "createdAt": "2026-09-02T14:12:18Z",
-    "labels": [
-      "triage",
-      "documentation"
-    ],
-    "language": "typescript",
-    "stars": 16375,
-    "foundAt": "2026-09-02T14:35:36.974Z"
-  },
-  {
-    "key": "1lck/Lithe-IDEA#404",
-    "tier": 1,
-    "repo": "1lck/Lithe-IDEA",
-    "number": 404,
-    "title": "[Feature] 希望支持项目的显示名自定义",
-    "url": "https://github.com/1lck/Lithe-IDEA/issues/404",
-    "comments": 0,
-    "createdAt": "2026-09-02T06:02:34Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "windows"
-    ],
-    "language": "typescript",
-    "stars": 627,
-    "foundAt": "2026-09-02T09:45:19.209Z"
-  },
-  {
-    "key": "facebook/astryx#5904",
-    "tier": 1,
-    "repo": "facebook/astryx",
-    "number": 5904,
-    "title": "[Bug] Selector Properties preview renders no working component",
-    "url": "https://github.com/facebook/astryx/issues/5904",
-    "comments": 0,
-    "createdAt": "2026-09-02T05:43:19Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 12680,
-    "foundAt": "2026-09-02T09:45:19.397Z"
-  },
-  {
-    "key": "facebook/astryx#5903",
-    "tier": 1,
-    "repo": "facebook/astryx",
-    "number": 5903,
-    "title": "[Bug] MultiSelector Properties preview renders no working component",
-    "url": "https://github.com/facebook/astryx/issues/5903",
-    "comments": 0,
-    "createdAt": "2026-09-02T05:43:04Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 12680,
-    "foundAt": "2026-09-02T09:45:19.397Z"
-  },
-  {
-    "key": "facebook/astryx#5902",
-    "tier": 1,
-    "repo": "facebook/astryx",
-    "number": 5902,
-    "title": "[Bug] PowerSearch Properties preview renders no working component",
-    "url": "https://github.com/facebook/astryx/issues/5902",
-    "comments": 0,
-    "createdAt": "2026-09-02T05:43:02Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 12680,
-    "foundAt": "2026-09-02T09:45:19.397Z"
-  },
-  {
-    "key": "facebook/astryx#5901",
-    "tier": 1,
-    "repo": "facebook/astryx",
-    "number": 5901,
-    "title": "[Bug] SideNavCollapseButton Properties preview renders no working component",
-    "url": "https://github.com/facebook/astryx/issues/5901",
-    "comments": 0,
-    "createdAt": "2026-09-02T05:43:01Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 12680,
-    "foundAt": "2026-09-02T09:45:19.397Z"
   }
 ]
