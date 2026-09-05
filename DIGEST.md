@@ -4,6 +4,42 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-05 | 🥇 | [🐞Backups are not working](https://github.com/code-charity/youtube/issues/4314) | `code-charity/youtube` | ⭐ 4.6k |
+| 2026-09-05 | 🥇 | [[Good First Issue] 🎌 Add new Dialect Entry 86 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29785) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-05 | 🥇 | [[Good First Issue] 🌋 Add new Japanese Idiom 106 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29784) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-05 | 🥇 | [[Good First Issue] 🎋 Add new Video Game Quote 57 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29783) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-05 | 🥇 | [[Good First Issue] 🍱 Add new Anime Quote 30 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29782) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-05 | 🥇 | [update-system.mjs commits the auto-update onto whatever branch you are on, inclu](https://github.com/career-ops-hq/career-ops/issues/3846) | `career-ops-hq/career-ops` | ⭐ 69.9k |
+| 2026-09-05 | 🥈 | [Snyk vulnerability [snyk:lic:npm:version-range:Artistic-2.0]](https://github.com/backstage/backstage/issues/35533) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-05 | 🥈 | [Snyk vulnerability [snyk:lic:npm:editions:Artistic-2.0]](https://github.com/backstage/backstage/issues/35531) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-05 | 🥈 | [Snyk vulnerability [snyk:lic:npm:textextensions:Artistic-2.0]](https://github.com/backstage/backstage/issues/35532) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-05 | 🥈 | [Snyk vulnerability [snyk:lic:npm:binaryextensions:Artistic-2.0]](https://github.com/backstage/backstage/issues/35530) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-ROLLUP-8073097]](https://github.com/backstage/backstage/issues/35529) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-SIGSTORECORE-17817061]](https://github.com/backstage/backstage/issues/35526) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-ROLLUP-15340920]](https://github.com/backstage/backstage/issues/35528) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-SIGSTOREVERIFY-17817052]](https://github.com/backstage/backstage/issues/35527) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-SHELLQUOTE-17457810]](https://github.com/backstage/backstage/issues/35524) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-SIGSTORE-17817054]](https://github.com/backstage/backstage/issues/35525) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-SHELLQUOTE-16799355]](https://github.com/backstage/backstage/issues/35523) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-MINIMATCH-15353389]](https://github.com/backstage/backstage/issues/35522) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-MINIMATCH-15353387]](https://github.com/backstage/backstage/issues/35521) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-LODASH-15869625]](https://github.com/backstage/backstage/issues/35520) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-JSYAML-17900054]](https://github.com/backstage/backstage/issues/35518) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-LODASH-15869619]](https://github.com/backstage/backstage/issues/35519) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-JSYAML-17342520]](https://github.com/backstage/backstage/issues/35517) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-MYSQL2-19512510]](https://github.com/backstage/backstage/issues/35515) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-05 | 🥈 | [Snyk vulnerability [snyk:lic:npm:isomorphic-git:pgp-plugin:LGPL-3.0]](https://github.com/backstage/backstage/issues/35516) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-MULTER-19432136]](https://github.com/backstage/backstage/issues/35514) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-MULTER-19432134]](https://github.com/backstage/backstage/issues/35513) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-MULTER-19432021]](https://github.com/backstage/backstage/issues/35511) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-MULTER-19432131]](https://github.com/backstage/backstage/issues/35512) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-HONONODESERVER-18170326]](https://github.com/backstage/backstage/issues/35508) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-IPADDRESS-18516625]](https://github.com/backstage/backstage/issues/35510) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-IPADDRESS-18343249]](https://github.com/backstage/backstage/issues/35509) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-HONO-19499068]](https://github.com/backstage/backstage/issues/35505) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-HONO-19499091]](https://github.com/backstage/backstage/issues/35506) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-HONO-19499093]](https://github.com/backstage/backstage/issues/35507) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-FORMDATA-17337015]](https://github.com/backstage/backstage/issues/35504) | `backstage/backstage` | ⭐ 34.3k |
 | 2026-09-04 | 🥇 | [[Good First Issue] 🏯 Add new Japanese Haiku 2 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29779) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-04 | 🥇 | [[Good First Issue] 🍤 Add new Theme: Hanabi Festival - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29776) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-04 | 🥇 | [Bug: Mobile game details sheet auto-focuses notes textarea, opening keyboard](https://github.com/Doezer/Questarr/issues/990) | `Doezer/Questarr` | ⭐ 608 |
@@ -68,39 +104,3 @@
 | 2026-09-04 | 🥇 | [eBay Creating/Publishing Listings](https://github.com/PipedreamHQ/pipedream/issues/21896) | `PipedreamHQ/pipedream` | ⭐ 11.7k |
 | 2026-09-04 | 🥇 | [[Good First Issue] 🥟 Add new Community Note Line #1 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29731) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-04 | 🥇 | [[daily-playwright] Playwright Test Coverage Tracker](https://github.com/ohcnetwork/care_fe/issues/16774) | `ohcnetwork/care_fe` | ⭐ 626 |
-| 2026-09-04 | 🥇 | [[Good First Issue] 🍁 Add new Wallpaper URL #3 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29730) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-04 | 🥇 | [[Good First Issue] 🪭 Add new Learner Mistake 81 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29728) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-04 | 🥇 | [[Good First Issue] 🎑 Add new Example Sentence 112 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29727) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-04 | 🥇 | [[Good First Issue] 🍘 Add new False Friend Pair 18 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29724) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-04 | 🥇 | [[Good First Issue] 🐉 Add new Dialect Entry 22 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29723) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-04 | 🥇 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/14949) | `stdlib-js/stdlib` | ⭐ 5.9k |
-| 2026-09-04 | 🥈 | [[💡 Feature]: Add CDN variable for Chrome](https://github.com/webdriverio/webdriverio/issues/15560) | `webdriverio/webdriverio` | ⭐ 9.8k |
-| 2026-09-04 | 🥉 | [docs(credits): record carried work from #3284 (Gemini 3.8 Flash Antigravity supp](https://github.com/lidge-jun/opencodex/issues/3431) | `lidge-jun/opencodex` | ⭐ 13.2k |
-| 2026-09-04 | 🥇 | [[Good First Issue] 🐙 Add new Japanese Idiom 10 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29722) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-04 | 🥇 | [[Good First Issue] 🐉 Add new Video Game Quote 116 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29721) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-04 | 🥇 | [[Good First Issue] 🐙 Add new Anime Quote 48 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29720) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-04 | 🥇 | [Wrong API detected, please make API switchable](https://github.com/rakanki911/DLSS5-Swapper/issues/55) | `rakanki911/DLSS5-Swapper` | ⭐ 1.1k |
-| 2026-09-04 | 🥇 | [[Good First Issue] 🐙 Add new Grammar Point 83 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29719) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-04 | 🥇 | [Resident Evil Requiem incorrectly detected as DirectX 11 and Native DLSS route m](https://github.com/rakanki911/DLSS5-Swapper/issues/54) | `rakanki911/DLSS5-Swapper` | ⭐ 1.1k |
-| 2026-09-04 | 🥇 | [Optiscaler RTX50 Only](https://github.com/rakanki911/DLSS5-Swapper/issues/52) | `rakanki911/DLSS5-Swapper` | ⭐ 1.1k |
-| 2026-09-04 | 🥇 | [[Good First Issue] 🏮 Add new Trivia Question 35 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29718) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-04 | 🥇 | [DLSS Native/Feeder mismatch](https://github.com/rakanki911/DLSS5-Swapper/issues/51) | `rakanki911/DLSS5-Swapper` | ⭐ 1.1k |
-| 2026-09-04 | 🥇 | [If the game detects both opengl and dx, have it choose dx or give a dropdown.](https://github.com/rakanki911/DLSS5-Swapper/issues/45) | `rakanki911/DLSS5-Swapper` | ⭐ 1.1k |
-| 2026-09-04 | 🥇 | [DLSS5-Swapper does not recognize DXVK(Vulkan) .dll files.](https://github.com/rakanki911/DLSS5-Swapper/issues/42) | `rakanki911/DLSS5-Swapper` | ⭐ 1.1k |
-| 2026-09-04 | 🥇 | [API detecter wrong](https://github.com/rakanki911/DLSS5-Swapper/issues/40) | `rakanki911/DLSS5-Swapper` | ⭐ 1.1k |
-| 2026-09-04 | 🥉 | [[agent] providers C WP-03: docs, README, dashboards and the health snapshot](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3279) | `KeepSoftwareSimple/compass-calendar` | ⭐ 229 |
-| 2026-09-04 | 🥉 | [[agent] providers A WP-12: Apple closeout: docs, e2e, staging soak](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3276) | `KeepSoftwareSimple/compass-calendar` | ⭐ 229 |
-| 2026-09-04 | 🥉 | [[agent] providers M WP-14: Microsoft closeout: docs, README, staging soak](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3274) | `KeepSoftwareSimple/compass-calendar` | ⭐ 229 |
-| 2026-09-04 | 🥉 | [[agent] providers L WP-10: nightly live-provider smoke against real test account](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3272) | `KeepSoftwareSimple/compass-calendar` | ⭐ 229 |
-| 2026-09-04 | 🥉 | [[agent] providers I WP-03: Sign in with Apple](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3267) | `KeepSoftwareSimple/compass-calendar` | ⭐ 229 |
-| 2026-09-04 | 🥉 | [[agent] providers A WP-00: founder setup: iCloud test account and supersede the ](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3253) | `KeepSoftwareSimple/compass-calendar` | ⭐ 229 |
-| 2026-09-04 | 🥉 | [[agent] providers M WP-00: founder setup: Entra app registration, publisher veri](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3239) | `KeepSoftwareSimple/compass-calendar` | ⭐ 229 |
-| 2026-09-04 | 🥉 | [[agent] providers P0 WP-13: spec and architecture doc closeout for P0](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3238) | `KeepSoftwareSimple/compass-calendar` | ⭐ 229 |
-| 2026-09-04 | 🥉 | [[agent] providers P0 WP-02: config schema and deploy plumbing for all three prov](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3224) | `KeepSoftwareSimple/compass-calendar` | ⭐ 229 |
-| 2026-09-04 | 🥉 | [[agent] providers L WP-11: Copilot review only on ready PRs](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3221) | `KeepSoftwareSimple/compass-calendar` | ⭐ 229 |
-| 2026-09-04 | 🥉 | [[agent] providers L WP-08: Docker layer cache and consistent Bun pin](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3219) | `KeepSoftwareSimple/compass-calendar` | ⭐ 229 |
-| 2026-09-04 | 🥉 | [[agent] providers L WP-07: perf-budget runs on main and nightly, not on every we](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3218) | `KeepSoftwareSimple/compass-calendar` | ⭐ 229 |
-| 2026-09-04 | 🥉 | [[agent] providers L WP-05: collapse static checks into one job and shard unit (w](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3216) | `KeepSoftwareSimple/compass-calendar` | ⭐ 229 |
-| 2026-09-04 | 🥉 | [[agent] providers L WP-04: shard e2e four ways using step-level gating](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3215) | `KeepSoftwareSimple/compass-calendar` | ⭐ 229 |
-| 2026-09-04 | 🥉 | [[agent] providers L WP-03: stop running the unit matrix twice per PR push](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3214) | `KeepSoftwareSimple/compass-calendar` | ⭐ 229 |
-| 2026-09-04 | 🥉 | [[agent] providers L WP-02: safe loop concurrency of N with dependency parsing an](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3213) | `KeepSoftwareSimple/compass-calendar` | ⭐ 229 |

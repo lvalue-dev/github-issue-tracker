@@ -1,5 +1,644 @@
 [
   {
+    "key": "code-charity/youtube#4314",
+    "tier": 1,
+    "repo": "code-charity/youtube",
+    "number": 4314,
+    "title": "🐞Backups are not working",
+    "url": "https://github.com/code-charity/youtube/issues/4314",
+    "comments": 0,
+    "createdAt": "2026-09-05T00:06:34Z",
+    "labels": [
+      "Bug",
+      "help wanted",
+      "good first issue",
+      "up-for-grabs"
+    ],
+    "language": "javascript",
+    "stars": 4555,
+    "foundAt": "2026-09-05T00:13:16.951Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29785",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29785,
+    "title": "[Good First Issue] 🎌 Add new Dialect Entry 86 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29785",
+    "comments": 1,
+    "createdAt": "2026-09-05T00:01:04Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-05T00:13:16.951Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29784",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29784,
+    "title": "[Good First Issue] 🌋 Add new Japanese Idiom 106 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29784",
+    "comments": 1,
+    "createdAt": "2026-09-04T23:37:32Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-05T00:13:16.951Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29783",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29783,
+    "title": "[Good First Issue] 🎋 Add new Video Game Quote 57 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29783",
+    "comments": 1,
+    "createdAt": "2026-09-04T23:00:56Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-05T00:13:16.951Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29782",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29782,
+    "title": "[Good First Issue] 🍱 Add new Anime Quote 30 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29782",
+    "comments": 1,
+    "createdAt": "2026-09-04T22:37:27Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-05T00:13:16.951Z"
+  },
+  {
+    "key": "career-ops-hq/career-ops#3846",
+    "tier": 1,
+    "repo": "career-ops-hq/career-ops",
+    "number": 3846,
+    "title": "update-system.mjs commits the auto-update onto whatever branch you are on, including a contributor's feature branch",
+    "url": "https://github.com/career-ops-hq/career-ops/issues/3846",
+    "comments": 0,
+    "createdAt": "2026-09-04T22:25:29Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "confirmed"
+    ],
+    "language": "javascript",
+    "stars": 69868,
+    "foundAt": "2026-09-05T00:13:17.414Z"
+  },
+  {
+    "key": "backstage/backstage#35533",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35533,
+    "title": "Snyk vulnerability [snyk:lic:npm:version-range:Artistic-2.0]",
+    "url": "https://github.com/backstage/backstage/issues/35533",
+    "comments": 0,
+    "createdAt": "2026-09-05T00:10:56Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34329,
+    "foundAt": "2026-09-05T00:13:17.414Z"
+  },
+  {
+    "key": "backstage/backstage#35531",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35531,
+    "title": "Snyk vulnerability [snyk:lic:npm:editions:Artistic-2.0]",
+    "url": "https://github.com/backstage/backstage/issues/35531",
+    "comments": 0,
+    "createdAt": "2026-09-05T00:10:55Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34329,
+    "foundAt": "2026-09-05T00:13:17.414Z"
+  },
+  {
+    "key": "backstage/backstage#35532",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35532,
+    "title": "Snyk vulnerability [snyk:lic:npm:textextensions:Artistic-2.0]",
+    "url": "https://github.com/backstage/backstage/issues/35532",
+    "comments": 0,
+    "createdAt": "2026-09-05T00:10:55Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34329,
+    "foundAt": "2026-09-05T00:13:17.414Z"
+  },
+  {
+    "key": "backstage/backstage#35530",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35530,
+    "title": "Snyk vulnerability [snyk:lic:npm:binaryextensions:Artistic-2.0]",
+    "url": "https://github.com/backstage/backstage/issues/35530",
+    "comments": 0,
+    "createdAt": "2026-09-05T00:10:54Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34329,
+    "foundAt": "2026-09-05T00:13:17.414Z"
+  },
+  {
+    "key": "backstage/backstage#35529",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35529,
+    "title": "Snyk vulnerability [SNYK-JS-ROLLUP-8073097]",
+    "url": "https://github.com/backstage/backstage/issues/35529",
+    "comments": 0,
+    "createdAt": "2026-09-05T00:10:54Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34329,
+    "foundAt": "2026-09-05T00:13:17.414Z"
+  },
+  {
+    "key": "backstage/backstage#35526",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35526,
+    "title": "Snyk vulnerability [SNYK-JS-SIGSTORECORE-17817061]",
+    "url": "https://github.com/backstage/backstage/issues/35526",
+    "comments": 0,
+    "createdAt": "2026-09-05T00:10:53Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34329,
+    "foundAt": "2026-09-05T00:13:17.414Z"
+  },
+  {
+    "key": "backstage/backstage#35528",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35528,
+    "title": "Snyk vulnerability [SNYK-JS-ROLLUP-15340920]",
+    "url": "https://github.com/backstage/backstage/issues/35528",
+    "comments": 0,
+    "createdAt": "2026-09-05T00:10:53Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34329,
+    "foundAt": "2026-09-05T00:13:17.414Z"
+  },
+  {
+    "key": "backstage/backstage#35527",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35527,
+    "title": "Snyk vulnerability [SNYK-JS-SIGSTOREVERIFY-17817052]",
+    "url": "https://github.com/backstage/backstage/issues/35527",
+    "comments": 0,
+    "createdAt": "2026-09-05T00:10:53Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34329,
+    "foundAt": "2026-09-05T00:13:17.414Z"
+  },
+  {
+    "key": "backstage/backstage#35524",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35524,
+    "title": "Snyk vulnerability [SNYK-JS-SHELLQUOTE-17457810]",
+    "url": "https://github.com/backstage/backstage/issues/35524",
+    "comments": 0,
+    "createdAt": "2026-09-05T00:10:52Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34329,
+    "foundAt": "2026-09-05T00:13:17.414Z"
+  },
+  {
+    "key": "backstage/backstage#35525",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35525,
+    "title": "Snyk vulnerability [SNYK-JS-SIGSTORE-17817054]",
+    "url": "https://github.com/backstage/backstage/issues/35525",
+    "comments": 0,
+    "createdAt": "2026-09-05T00:10:52Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34329,
+    "foundAt": "2026-09-05T00:13:17.414Z"
+  },
+  {
+    "key": "backstage/backstage#35523",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35523,
+    "title": "Snyk vulnerability [SNYK-JS-SHELLQUOTE-16799355]",
+    "url": "https://github.com/backstage/backstage/issues/35523",
+    "comments": 0,
+    "createdAt": "2026-09-05T00:10:51Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34329,
+    "foundAt": "2026-09-05T00:13:17.414Z"
+  },
+  {
+    "key": "backstage/backstage#35522",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35522,
+    "title": "Snyk vulnerability [SNYK-JS-MINIMATCH-15353389]",
+    "url": "https://github.com/backstage/backstage/issues/35522",
+    "comments": 0,
+    "createdAt": "2026-09-05T00:10:51Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34329,
+    "foundAt": "2026-09-05T00:13:17.414Z"
+  },
+  {
+    "key": "backstage/backstage#35521",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35521,
+    "title": "Snyk vulnerability [SNYK-JS-MINIMATCH-15353387]",
+    "url": "https://github.com/backstage/backstage/issues/35521",
+    "comments": 0,
+    "createdAt": "2026-09-05T00:10:51Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34329,
+    "foundAt": "2026-09-05T00:13:17.414Z"
+  },
+  {
+    "key": "backstage/backstage#35520",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35520,
+    "title": "Snyk vulnerability [SNYK-JS-LODASH-15869625]",
+    "url": "https://github.com/backstage/backstage/issues/35520",
+    "comments": 0,
+    "createdAt": "2026-09-05T00:10:50Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34329,
+    "foundAt": "2026-09-05T00:13:17.414Z"
+  },
+  {
+    "key": "backstage/backstage#35518",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35518,
+    "title": "Snyk vulnerability [SNYK-JS-JSYAML-17900054]",
+    "url": "https://github.com/backstage/backstage/issues/35518",
+    "comments": 0,
+    "createdAt": "2026-09-05T00:10:49Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34329,
+    "foundAt": "2026-09-05T00:13:17.414Z"
+  },
+  {
+    "key": "backstage/backstage#35519",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35519,
+    "title": "Snyk vulnerability [SNYK-JS-LODASH-15869619]",
+    "url": "https://github.com/backstage/backstage/issues/35519",
+    "comments": 0,
+    "createdAt": "2026-09-05T00:10:49Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34329,
+    "foundAt": "2026-09-05T00:13:17.414Z"
+  },
+  {
+    "key": "backstage/backstage#35517",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35517,
+    "title": "Snyk vulnerability [SNYK-JS-JSYAML-17342520]",
+    "url": "https://github.com/backstage/backstage/issues/35517",
+    "comments": 0,
+    "createdAt": "2026-09-05T00:10:49Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34329,
+    "foundAt": "2026-09-05T00:13:17.414Z"
+  },
+  {
+    "key": "backstage/backstage#35515",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35515,
+    "title": "Snyk vulnerability [SNYK-JS-MYSQL2-19512510]",
+    "url": "https://github.com/backstage/backstage/issues/35515",
+    "comments": 0,
+    "createdAt": "2026-09-05T00:10:48Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34329,
+    "foundAt": "2026-09-05T00:13:17.414Z"
+  },
+  {
+    "key": "backstage/backstage#35516",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35516,
+    "title": "Snyk vulnerability [snyk:lic:npm:isomorphic-git:pgp-plugin:LGPL-3.0]",
+    "url": "https://github.com/backstage/backstage/issues/35516",
+    "comments": 0,
+    "createdAt": "2026-09-05T00:10:48Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34329,
+    "foundAt": "2026-09-05T00:13:17.414Z"
+  },
+  {
+    "key": "backstage/backstage#35514",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35514,
+    "title": "Snyk vulnerability [SNYK-JS-MULTER-19432136]",
+    "url": "https://github.com/backstage/backstage/issues/35514",
+    "comments": 0,
+    "createdAt": "2026-09-05T00:10:47Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34329,
+    "foundAt": "2026-09-05T00:13:17.414Z"
+  },
+  {
+    "key": "backstage/backstage#35513",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35513,
+    "title": "Snyk vulnerability [SNYK-JS-MULTER-19432134]",
+    "url": "https://github.com/backstage/backstage/issues/35513",
+    "comments": 0,
+    "createdAt": "2026-09-05T00:10:47Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34329,
+    "foundAt": "2026-09-05T00:13:17.414Z"
+  },
+  {
+    "key": "backstage/backstage#35511",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35511,
+    "title": "Snyk vulnerability [SNYK-JS-MULTER-19432021]",
+    "url": "https://github.com/backstage/backstage/issues/35511",
+    "comments": 0,
+    "createdAt": "2026-09-05T00:10:46Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34329,
+    "foundAt": "2026-09-05T00:13:17.414Z"
+  },
+  {
+    "key": "backstage/backstage#35512",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35512,
+    "title": "Snyk vulnerability [SNYK-JS-MULTER-19432131]",
+    "url": "https://github.com/backstage/backstage/issues/35512",
+    "comments": 0,
+    "createdAt": "2026-09-05T00:10:46Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34329,
+    "foundAt": "2026-09-05T00:13:17.414Z"
+  },
+  {
+    "key": "backstage/backstage#35508",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35508,
+    "title": "Snyk vulnerability [SNYK-JS-HONONODESERVER-18170326]",
+    "url": "https://github.com/backstage/backstage/issues/35508",
+    "comments": 0,
+    "createdAt": "2026-09-05T00:10:45Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34329,
+    "foundAt": "2026-09-05T00:13:17.414Z"
+  },
+  {
+    "key": "backstage/backstage#35510",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35510,
+    "title": "Snyk vulnerability [SNYK-JS-IPADDRESS-18516625]",
+    "url": "https://github.com/backstage/backstage/issues/35510",
+    "comments": 0,
+    "createdAt": "2026-09-05T00:10:45Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34329,
+    "foundAt": "2026-09-05T00:13:17.414Z"
+  },
+  {
+    "key": "backstage/backstage#35509",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35509,
+    "title": "Snyk vulnerability [SNYK-JS-IPADDRESS-18343249]",
+    "url": "https://github.com/backstage/backstage/issues/35509",
+    "comments": 0,
+    "createdAt": "2026-09-05T00:10:45Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34329,
+    "foundAt": "2026-09-05T00:13:17.414Z"
+  },
+  {
+    "key": "backstage/backstage#35505",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35505,
+    "title": "Snyk vulnerability [SNYK-JS-HONO-19499068]",
+    "url": "https://github.com/backstage/backstage/issues/35505",
+    "comments": 0,
+    "createdAt": "2026-09-05T00:10:44Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34329,
+    "foundAt": "2026-09-05T00:13:17.414Z"
+  },
+  {
+    "key": "backstage/backstage#35506",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35506,
+    "title": "Snyk vulnerability [SNYK-JS-HONO-19499091]",
+    "url": "https://github.com/backstage/backstage/issues/35506",
+    "comments": 0,
+    "createdAt": "2026-09-05T00:10:44Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34329,
+    "foundAt": "2026-09-05T00:13:17.414Z"
+  },
+  {
+    "key": "backstage/backstage#35507",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35507,
+    "title": "Snyk vulnerability [SNYK-JS-HONO-19499093]",
+    "url": "https://github.com/backstage/backstage/issues/35507",
+    "comments": 0,
+    "createdAt": "2026-09-05T00:10:44Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34329,
+    "foundAt": "2026-09-05T00:13:17.414Z"
+  },
+  {
+    "key": "backstage/backstage#35504",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35504,
+    "title": "Snyk vulnerability [SNYK-JS-FORMDATA-17337015]",
+    "url": "https://github.com/backstage/backstage/issues/35504",
+    "comments": 0,
+    "createdAt": "2026-09-05T00:10:43Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34329,
+    "foundAt": "2026-09-05T00:13:17.414Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#29779",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1217,695 +1856,5 @@
     "language": "typescript",
     "stars": 626,
     "foundAt": "2026-09-04T04:47:32.703Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29730",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29730,
-    "title": "[Good First Issue] 🍁 Add new Wallpaper URL #3 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29730",
-    "comments": 1,
-    "createdAt": "2026-09-04T03:01:03Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-04T04:47:32.703Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29728",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29728,
-    "title": "[Good First Issue] 🪭 Add new Learner Mistake 81 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29728",
-    "comments": 1,
-    "createdAt": "2026-09-04T02:37:29Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-04T04:47:32.703Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29727",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29727,
-    "title": "[Good First Issue] 🎑 Add new Example Sentence 112 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29727",
-    "comments": 1,
-    "createdAt": "2026-09-04T02:01:01Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-04T04:47:32.703Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29724",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29724,
-    "title": "[Good First Issue] 🍘 Add new False Friend Pair 18 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29724",
-    "comments": 1,
-    "createdAt": "2026-09-04T01:01:03Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-04T04:47:33.140Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29723",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29723,
-    "title": "[Good First Issue] 🐉 Add new Dialect Entry 22 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29723",
-    "comments": 1,
-    "createdAt": "2026-09-04T00:37:33Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-04T04:47:33.364Z"
-  },
-  {
-    "key": "stdlib-js/stdlib#14949",
-    "tier": 1,
-    "repo": "stdlib-js/stdlib",
-    "number": 14949,
-    "title": "Fix JavaScript lint errors",
-    "url": "https://github.com/stdlib-js/stdlib/issues/14949",
-    "comments": 3,
-    "createdAt": "2026-09-04T00:18:50Z",
-    "labels": [
-      "Good First Issue"
-    ],
-    "language": "javascript",
-    "stars": 5944,
-    "foundAt": "2026-09-04T04:47:33.992Z"
-  },
-  {
-    "key": "webdriverio/webdriverio#15560",
-    "tier": 2,
-    "repo": "webdriverio/webdriverio",
-    "number": 15560,
-    "title": "[💡 Feature]: Add CDN variable for Chrome",
-    "url": "https://github.com/webdriverio/webdriverio/issues/15560",
-    "comments": 1,
-    "createdAt": "2026-09-04T02:39:43Z",
-    "labels": [
-      "help wanted",
-      "good first pick",
-      "Idea 💡"
-    ],
-    "language": "typescript",
-    "stars": 9830,
-    "foundAt": "2026-09-04T04:47:34.346Z"
-  },
-  {
-    "key": "lidge-jun/opencodex#3431",
-    "tier": 3,
-    "repo": "lidge-jun/opencodex",
-    "number": 3431,
-    "title": "docs(credits): record carried work from #3284 (Gemini 3.8 Flash Antigravity support) landed via #3286",
-    "url": "https://github.com/lidge-jun/opencodex/issues/3431",
-    "comments": 0,
-    "createdAt": "2026-09-04T04:45:45Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "typescript",
-    "stars": 13210,
-    "foundAt": "2026-09-04T04:47:34.836Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29722",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29722,
-    "title": "[Good First Issue] 🐙 Add new Japanese Idiom 10 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29722",
-    "comments": 1,
-    "createdAt": "2026-09-04T00:01:05Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-04T00:12:27.214Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29721",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29721,
-    "title": "[Good First Issue] 🐉 Add new Video Game Quote 116 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29721",
-    "comments": 1,
-    "createdAt": "2026-09-03T23:37:35Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-04T00:12:27.214Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29720",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29720,
-    "title": "[Good First Issue] 🐙 Add new Anime Quote 48 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29720",
-    "comments": 1,
-    "createdAt": "2026-09-03T23:01:00Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-04T00:12:27.461Z"
-  },
-  {
-    "key": "rakanki911/DLSS5-Swapper#55",
-    "tier": 1,
-    "repo": "rakanki911/DLSS5-Swapper",
-    "number": 55,
-    "title": "Wrong API detected, please make API switchable",
-    "url": "https://github.com/rakanki911/DLSS5-Swapper/issues/55",
-    "comments": 1,
-    "createdAt": "2026-09-03T22:43:19Z",
-    "labels": [
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 1076,
-    "foundAt": "2026-09-04T00:12:28.170Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29719",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29719,
-    "title": "[Good First Issue] 🐙 Add new Grammar Point 83 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29719",
-    "comments": 1,
-    "createdAt": "2026-09-03T22:37:32Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-04T00:12:27.711Z"
-  },
-  {
-    "key": "rakanki911/DLSS5-Swapper#54",
-    "tier": 1,
-    "repo": "rakanki911/DLSS5-Swapper",
-    "number": 54,
-    "title": "Resident Evil Requiem incorrectly detected as DirectX 11 and Native DLSS route missing",
-    "url": "https://github.com/rakanki911/DLSS5-Swapper/issues/54",
-    "comments": 0,
-    "createdAt": "2026-09-03T22:35:39Z",
-    "labels": [
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 1076,
-    "foundAt": "2026-09-04T00:12:28.170Z"
-  },
-  {
-    "key": "rakanki911/DLSS5-Swapper#52",
-    "tier": 1,
-    "repo": "rakanki911/DLSS5-Swapper",
-    "number": 52,
-    "title": "Optiscaler RTX50 Only",
-    "url": "https://github.com/rakanki911/DLSS5-Swapper/issues/52",
-    "comments": 0,
-    "createdAt": "2026-09-03T22:07:15Z",
-    "labels": [
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 1076,
-    "foundAt": "2026-09-04T00:12:28.663Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29718",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29718,
-    "title": "[Good First Issue] 🏮 Add new Trivia Question 35 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29718",
-    "comments": 1,
-    "createdAt": "2026-09-03T22:01:09Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-04T00:12:27.711Z"
-  },
-  {
-    "key": "rakanki911/DLSS5-Swapper#51",
-    "tier": 1,
-    "repo": "rakanki911/DLSS5-Swapper",
-    "number": 51,
-    "title": "DLSS Native/Feeder mismatch",
-    "url": "https://github.com/rakanki911/DLSS5-Swapper/issues/51",
-    "comments": 0,
-    "createdAt": "2026-09-03T21:13:03Z",
-    "labels": [
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 1076,
-    "foundAt": "2026-09-04T00:12:28.663Z"
-  },
-  {
-    "key": "rakanki911/DLSS5-Swapper#45",
-    "tier": 1,
-    "repo": "rakanki911/DLSS5-Swapper",
-    "number": 45,
-    "title": "If the game detects both opengl and dx, have it choose dx or give a dropdown.",
-    "url": "https://github.com/rakanki911/DLSS5-Swapper/issues/45",
-    "comments": 1,
-    "createdAt": "2026-09-03T16:32:21Z",
-    "labels": [
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 1076,
-    "foundAt": "2026-09-04T00:12:28.663Z"
-  },
-  {
-    "key": "rakanki911/DLSS5-Swapper#42",
-    "tier": 1,
-    "repo": "rakanki911/DLSS5-Swapper",
-    "number": 42,
-    "title": "DLSS5-Swapper does not recognize DXVK(Vulkan) .dll files.",
-    "url": "https://github.com/rakanki911/DLSS5-Swapper/issues/42",
-    "comments": 1,
-    "createdAt": "2026-09-03T10:47:51Z",
-    "labels": [
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 1076,
-    "foundAt": "2026-09-04T00:12:28.663Z"
-  },
-  {
-    "key": "rakanki911/DLSS5-Swapper#40",
-    "tier": 1,
-    "repo": "rakanki911/DLSS5-Swapper",
-    "number": 40,
-    "title": "API detecter wrong",
-    "url": "https://github.com/rakanki911/DLSS5-Swapper/issues/40",
-    "comments": 2,
-    "createdAt": "2026-09-03T07:43:15Z",
-    "labels": [
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 1076,
-    "foundAt": "2026-09-04T00:12:28.663Z"
-  },
-  {
-    "key": "KeepSoftwareSimple/compass-calendar#3279",
-    "tier": 3,
-    "repo": "KeepSoftwareSimple/compass-calendar",
-    "number": 3279,
-    "title": "[agent] providers C WP-03: docs, README, dashboards and the health snapshot",
-    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3279",
-    "comments": 0,
-    "createdAt": "2026-09-04T00:05:24Z",
-    "labels": [
-      "agent-ready",
-      "providers-closeout",
-      "sync-core",
-      "docs"
-    ],
-    "language": "typescript",
-    "stars": 229,
-    "foundAt": "2026-09-04T00:12:29.660Z"
-  },
-  {
-    "key": "KeepSoftwareSimple/compass-calendar#3276",
-    "tier": 3,
-    "repo": "KeepSoftwareSimple/compass-calendar",
-    "number": 3276,
-    "title": "[agent] providers A WP-12: Apple closeout: docs, e2e, staging soak",
-    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3276",
-    "comments": 0,
-    "createdAt": "2026-09-04T00:05:11Z",
-    "labels": [
-      "agent-ready",
-      "providers-apple",
-      "e2e",
-      "docs"
-    ],
-    "language": "typescript",
-    "stars": 229,
-    "foundAt": "2026-09-04T00:12:29.660Z"
-  },
-  {
-    "key": "KeepSoftwareSimple/compass-calendar#3274",
-    "tier": 3,
-    "repo": "KeepSoftwareSimple/compass-calendar",
-    "number": 3274,
-    "title": "[agent] providers M WP-14: Microsoft closeout: docs, README, staging soak",
-    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3274",
-    "comments": 0,
-    "createdAt": "2026-09-04T00:05:02Z",
-    "labels": [
-      "agent-ready",
-      "providers-microsoft",
-      "docs"
-    ],
-    "language": "typescript",
-    "stars": 229,
-    "foundAt": "2026-09-04T00:12:29.660Z"
-  },
-  {
-    "key": "KeepSoftwareSimple/compass-calendar#3272",
-    "tier": 3,
-    "repo": "KeepSoftwareSimple/compass-calendar",
-    "number": 3272,
-    "title": "[agent] providers L WP-10: nightly live-provider smoke against real test accounts",
-    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3272",
-    "comments": 0,
-    "createdAt": "2026-09-04T00:04:53Z",
-    "labels": [
-      "agent-ready",
-      "providers-loop",
-      "sync-core",
-      "docs"
-    ],
-    "language": "typescript",
-    "stars": 229,
-    "foundAt": "2026-09-04T00:12:29.660Z"
-  },
-  {
-    "key": "KeepSoftwareSimple/compass-calendar#3267",
-    "tier": 3,
-    "repo": "KeepSoftwareSimple/compass-calendar",
-    "number": 3267,
-    "title": "[agent] providers I WP-03: Sign in with Apple",
-    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3267",
-    "comments": 0,
-    "createdAt": "2026-09-04T00:04:31Z",
-    "labels": [
-      "backend",
-      "web",
-      "agent-ready",
-      "providers-identity",
-      "docs"
-    ],
-    "language": "typescript",
-    "stars": 229,
-    "foundAt": "2026-09-04T00:12:29.660Z"
-  },
-  {
-    "key": "KeepSoftwareSimple/compass-calendar#3253",
-    "tier": 3,
-    "repo": "KeepSoftwareSimple/compass-calendar",
-    "number": 3253,
-    "title": "[agent] providers A WP-00: founder setup: iCloud test account and supersede the July decision",
-    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3253",
-    "comments": 0,
-    "createdAt": "2026-09-04T00:03:27Z",
-    "labels": [
-      "agent-ready",
-      "providers-apple",
-      "docs"
-    ],
-    "language": "typescript",
-    "stars": 229,
-    "foundAt": "2026-09-04T00:12:29.930Z"
-  },
-  {
-    "key": "KeepSoftwareSimple/compass-calendar#3239",
-    "tier": 3,
-    "repo": "KeepSoftwareSimple/compass-calendar",
-    "number": 3239,
-    "title": "[agent] providers M WP-00: founder setup: Entra app registration, publisher verification, test accounts",
-    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3239",
-    "comments": 0,
-    "createdAt": "2026-09-04T00:02:23Z",
-    "labels": [
-      "agent-ready",
-      "providers-microsoft",
-      "docs"
-    ],
-    "language": "typescript",
-    "stars": 229,
-    "foundAt": "2026-09-04T00:12:29.930Z"
-  },
-  {
-    "key": "KeepSoftwareSimple/compass-calendar#3238",
-    "tier": 3,
-    "repo": "KeepSoftwareSimple/compass-calendar",
-    "number": 3238,
-    "title": "[agent] providers P0 WP-13: spec and architecture doc closeout for P0",
-    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3238",
-    "comments": 0,
-    "createdAt": "2026-09-04T00:02:18Z",
-    "labels": [
-      "agent-ready",
-      "providers-p0",
-      "docs"
-    ],
-    "language": "typescript",
-    "stars": 229,
-    "foundAt": "2026-09-04T00:12:29.930Z"
-  },
-  {
-    "key": "KeepSoftwareSimple/compass-calendar#3224",
-    "tier": 3,
-    "repo": "KeepSoftwareSimple/compass-calendar",
-    "number": 3224,
-    "title": "[agent] providers P0 WP-02: config schema and deploy plumbing for all three providers",
-    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3224",
-    "comments": 0,
-    "createdAt": "2026-09-04T00:01:15Z",
-    "labels": [
-      "backend",
-      "web",
-      "agent-ready",
-      "providers-p0",
-      "core",
-      "docs"
-    ],
-    "language": "typescript",
-    "stars": 229,
-    "foundAt": "2026-09-04T00:12:30.157Z"
-  },
-  {
-    "key": "KeepSoftwareSimple/compass-calendar#3221",
-    "tier": 3,
-    "repo": "KeepSoftwareSimple/compass-calendar",
-    "number": 3221,
-    "title": "[agent] providers L WP-11: Copilot review only on ready PRs",
-    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3221",
-    "comments": 0,
-    "createdAt": "2026-09-04T00:01:02Z",
-    "labels": [
-      "agent-ready",
-      "providers-loop",
-      "docs"
-    ],
-    "language": "typescript",
-    "stars": 229,
-    "foundAt": "2026-09-04T00:12:30.157Z"
-  },
-  {
-    "key": "KeepSoftwareSimple/compass-calendar#3219",
-    "tier": 3,
-    "repo": "KeepSoftwareSimple/compass-calendar",
-    "number": 3219,
-    "title": "[agent] providers L WP-08: Docker layer cache and consistent Bun pin",
-    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3219",
-    "comments": 0,
-    "createdAt": "2026-09-04T00:00:53Z",
-    "labels": [
-      "agent-ready",
-      "providers-loop",
-      "docs"
-    ],
-    "language": "typescript",
-    "stars": 229,
-    "foundAt": "2026-09-04T00:12:30.157Z"
-  },
-  {
-    "key": "KeepSoftwareSimple/compass-calendar#3218",
-    "tier": 3,
-    "repo": "KeepSoftwareSimple/compass-calendar",
-    "number": 3218,
-    "title": "[agent] providers L WP-07: perf-budget runs on main and nightly, not on every web PR",
-    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3218",
-    "comments": 0,
-    "createdAt": "2026-09-04T00:00:48Z",
-    "labels": [
-      "agent-ready",
-      "providers-loop",
-      "docs"
-    ],
-    "language": "typescript",
-    "stars": 229,
-    "foundAt": "2026-09-04T00:12:30.157Z"
-  },
-  {
-    "key": "KeepSoftwareSimple/compass-calendar#3216",
-    "tier": 3,
-    "repo": "KeepSoftwareSimple/compass-calendar",
-    "number": 3216,
-    "title": "[agent] providers L WP-05: collapse static checks into one job and shard unit (web)",
-    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3216",
-    "comments": 0,
-    "createdAt": "2026-09-04T00:00:39Z",
-    "labels": [
-      "agent-ready",
-      "providers-loop",
-      "scripts",
-      "docs"
-    ],
-    "language": "typescript",
-    "stars": 229,
-    "foundAt": "2026-09-04T00:12:30.157Z"
-  },
-  {
-    "key": "KeepSoftwareSimple/compass-calendar#3215",
-    "tier": 3,
-    "repo": "KeepSoftwareSimple/compass-calendar",
-    "number": 3215,
-    "title": "[agent] providers L WP-04: shard e2e four ways using step-level gating",
-    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3215",
-    "comments": 0,
-    "createdAt": "2026-09-04T00:00:34Z",
-    "labels": [
-      "agent-ready",
-      "providers-loop",
-      "docs"
-    ],
-    "language": "typescript",
-    "stars": 229,
-    "foundAt": "2026-09-04T00:12:30.157Z"
-  },
-  {
-    "key": "KeepSoftwareSimple/compass-calendar#3214",
-    "tier": 3,
-    "repo": "KeepSoftwareSimple/compass-calendar",
-    "number": 3214,
-    "title": "[agent] providers L WP-03: stop running the unit matrix twice per PR push",
-    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3214",
-    "comments": 0,
-    "createdAt": "2026-09-04T00:00:29Z",
-    "labels": [
-      "agent-ready",
-      "providers-loop",
-      "docs"
-    ],
-    "language": "typescript",
-    "stars": 229,
-    "foundAt": "2026-09-04T00:12:30.157Z"
-  },
-  {
-    "key": "KeepSoftwareSimple/compass-calendar#3213",
-    "tier": 3,
-    "repo": "KeepSoftwareSimple/compass-calendar",
-    "number": 3213,
-    "title": "[agent] providers L WP-02: safe loop concurrency of N with dependency parsing and a merge queue",
-    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3213",
-    "comments": 0,
-    "createdAt": "2026-09-04T00:00:25Z",
-    "labels": [
-      "agent-ready",
-      "providers-loop",
-      "docs"
-    ],
-    "language": "typescript",
-    "stars": 229,
-    "foundAt": "2026-09-04T00:12:30.157Z"
   }
 ]
