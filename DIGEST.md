@@ -4,6 +4,17 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-05 | 🥇 | [[Good First Issue] 🪭 Add new Trivia Question 103 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29796) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-05 | 🥇 | [set-status.mjs: the JSON result must be the last thing on stdout, and nothing pi](https://github.com/career-ops-hq/career-ops/issues/3855) | `career-ops-hq/career-ops` | ⭐ 69.9k |
+| 2026-09-05 | 🥇 | [[Good First Issue] 🐙 Add new Japanese Proverb 148 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29793) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-05 | 🥇 | [[Good First Issue] 🧧 Add new Japan Fact 61 - Beginner-Friendly Open-source Cont](https://github.com/lingdojo/kana-dojo/issues/29792) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-05 | 🥇 | [[Good First Issue] 🍥 Add new Theme: Kintsugi Gold - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29791) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-05 | 🥇 | [[Good First Issue] 🏯 Add new Community Note Line #3 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29790) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-05 | 🥇 | [[Good First Issue] 🥟 Add new Wallpaper URL #3 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29789) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-05 | 🥇 | [[Good First Issue] 🗻 Add new Learner Mistake 105 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29788) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-05 | 🥇 | [[Good First Issue] 🌺 Add new Example Sentence 43 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29787) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-05 | 🥇 | [[Good First Issue] 🌋 Add new False Friend Pair 50 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29786) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-05 | 🥉 | [[Workstream F] PR 19 of 19: Align scoring, context-budget and PRM configuration ](https://github.com/ZaxbyHub/opencode-swarm/issues/2583) | `ZaxbyHub/opencode-swarm` | ⭐ 464 |
 | 2026-09-05 | 🥇 | [🐞Backups are not working](https://github.com/code-charity/youtube/issues/4314) | `code-charity/youtube` | ⭐ 4.6k |
 | 2026-09-05 | 🥇 | [[Good First Issue] 🎌 Add new Dialect Entry 86 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29785) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-05 | 🥇 | [[Good First Issue] 🌋 Add new Japanese Idiom 106 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29784) | `lingdojo/kana-dojo` | ⭐ 3.3k |
@@ -93,14 +104,3 @@
 | 2026-09-04 | 🥉 | [release: 3.0.0 (or owner's number) — #627 breaks the multi-cwd usage --json shap](https://github.com/lis186/ccxray/issues/629) | `lis186/ccxray` | ⭐ 292 |
 | 2026-09-04 | 🥇 | [[Good First Issue] 🎋 Add new Etiquette Tip 32 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29747) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-04 | 🥇 | [[Good First Issue] 🍚 Add new False Friend Pair 102 - Beginner-Friendly Open-sou](https://github.com/lingdojo/kana-dojo/issues/29745) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-04 | 🥇 | [[Good First Issue] 🎑 Add new Dialect Entry 93 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29744) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-04 | 🥇 | [Preference accent color is not loaded at the startup of PWA](https://github.com/Smaug6739/Alexandrie/issues/758) | `Smaug6739/Alexandrie` | ⭐ 2.7k |
-| 2026-09-04 | 🥇 | [[Good First Issue] 🏯 Add new Japanese Idiom 76 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29743) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-04 | 🥇 | [[Good First Issue] 🌋 Add new Video Game Quote 35 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29742) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-04 | 🥈 | [`extensible-nav` duplicate nav when toggling repository settings](https://github.com/refined-github/refined-github/issues/10038) | `refined-github/refined-github` | ⭐ 32.0k |
-| 2026-09-04 | 🥈 | [`extensible-nav` sometime doesn't detect "limited PRs" icon](https://github.com/refined-github/refined-github/issues/10037) | `refined-github/refined-github` | ⭐ 32.0k |
-| 2026-09-04 | 🥈 | [[Good First Issue] 🍜 Add new Anime Quote 98 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29741) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-04 | 🥈 | [[UI/UX] Make SVG illustrations clickable to navigate to their respective section](https://github.com/layer5io/layer5/issues/8011) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-04 | 🥇 | [eBay Creating/Publishing Listings](https://github.com/PipedreamHQ/pipedream/issues/21896) | `PipedreamHQ/pipedream` | ⭐ 11.7k |
-| 2026-09-04 | 🥇 | [[Good First Issue] 🥟 Add new Community Note Line #1 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29731) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-04 | 🥇 | [[daily-playwright] Playwright Test Coverage Tracker](https://github.com/ohcnetwork/care_fe/issues/16774) | `ohcnetwork/care_fe` | ⭐ 626 |
