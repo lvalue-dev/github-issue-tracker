@@ -1,5 +1,97 @@
 [
   {
+    "key": "lingdojo/kana-dojo#29843",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29843,
+    "title": "[Good First Issue] 🍘 Add new Learner Mistake 27 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29843",
+    "comments": 1,
+    "createdAt": "2026-09-05T23:00:56Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-05T23:07:21.966Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29842",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29842,
+    "title": "[Good First Issue] 🎍 Add new Example Sentence 89 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29842",
+    "comments": 1,
+    "createdAt": "2026-09-05T22:37:32Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-05T23:07:21.967Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29841",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29841,
+    "title": "[Good First Issue] 🍣 Add new Etiquette Tip 80 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29841",
+    "comments": 1,
+    "createdAt": "2026-09-05T22:01:03Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-05T23:07:22.503Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29840",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29840,
+    "title": "[Good First Issue] 🏮 Add new False Friend Pair 103 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29840",
+    "comments": 1,
+    "createdAt": "2026-09-05T21:37:29Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-05T23:07:22.917Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#29839",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1836,74 +1928,6 @@
     "url": "https://github.com/backstage/backstage/issues/35512",
     "comments": 0,
     "createdAt": "2026-09-05T00:10:46Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-05T00:13:17.414Z"
-  },
-  {
-    "key": "backstage/backstage#35508",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35508,
-    "title": "Snyk vulnerability [SNYK-JS-HONONODESERVER-18170326]",
-    "url": "https://github.com/backstage/backstage/issues/35508",
-    "comments": 0,
-    "createdAt": "2026-09-05T00:10:45Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-05T00:13:17.414Z"
-  },
-  {
-    "key": "backstage/backstage#35510",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35510,
-    "title": "Snyk vulnerability [SNYK-JS-IPADDRESS-18516625]",
-    "url": "https://github.com/backstage/backstage/issues/35510",
-    "comments": 0,
-    "createdAt": "2026-09-05T00:10:45Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-05T00:13:17.414Z"
-  },
-  {
-    "key": "backstage/backstage#35509",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35509,
-    "title": "Snyk vulnerability [SNYK-JS-IPADDRESS-18343249]",
-    "url": "https://github.com/backstage/backstage/issues/35509",
-    "comments": 0,
-    "createdAt": "2026-09-05T00:10:45Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-05T00:13:17.414Z"
-  },
-  {
-    "key": "backstage/backstage#35505",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35505,
-    "title": "Snyk vulnerability [SNYK-JS-HONO-19499068]",
-    "url": "https://github.com/backstage/backstage/issues/35505",
-    "comments": 0,
-    "createdAt": "2026-09-05T00:10:44Z",
     "labels": [
       "snyk-vulnerability",
       "help wanted"

@@ -4,6 +4,10 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-05 | 🥇 | [[Good First Issue] 🍘 Add new Learner Mistake 27 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29843) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-05 | 🥇 | [[Good First Issue] 🎍 Add new Example Sentence 89 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29842) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-05 | 🥇 | [[Good First Issue] 🍣 Add new Etiquette Tip 80 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29841) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-05 | 🥇 | [[Good First Issue] 🏮 Add new False Friend Pair 103 - Beginner-Friendly Open-sou](https://github.com/lingdojo/kana-dojo/issues/29840) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-05 | 🥇 | [[Good First Issue] 🍱 Add new Dialect Entry 49 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29839) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-05 | 🥇 | [[Good First Issue] 🍶 Add new Japanese Idiom 35 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29838) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-05 | 🥇 | [test: add coverage for the config subcommand (show, set, unset)](https://github.com/OWASP/cve-lite-cli/issues/1090) | `OWASP/cve-lite-cli` | ⭐ 681 |
@@ -100,7 +104,3 @@
 | 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-MULTER-19432134]](https://github.com/backstage/backstage/issues/35513) | `backstage/backstage` | ⭐ 34.3k |
 | 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-MULTER-19432021]](https://github.com/backstage/backstage/issues/35511) | `backstage/backstage` | ⭐ 34.3k |
 | 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-MULTER-19432131]](https://github.com/backstage/backstage/issues/35512) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-HONONODESERVER-18170326]](https://github.com/backstage/backstage/issues/35508) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-IPADDRESS-18516625]](https://github.com/backstage/backstage/issues/35510) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-IPADDRESS-18343249]](https://github.com/backstage/backstage/issues/35509) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-HONO-19499068]](https://github.com/backstage/backstage/issues/35505) | `backstage/backstage` | ⭐ 34.3k |
