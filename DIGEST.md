@@ -4,6 +4,14 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-05 | 🥇 | [CONTRIBUTING prerequisites omit Helm, which 166 tests in bun run test need](https://github.com/libredb/libredb-studio/issues/570) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-05 | 🥇 | [feat/Support native addons (.node files) in Node.js SEA binaries](https://github.com/goatplatform/goatdb/issues/57) | `goatplatform/goatdb` | ⭐ 572 |
+| 2026-09-05 | 🥇 | [Published resources displayed as documents instead of preview](https://github.com/Smaug6739/Alexandrie/issues/763) | `Smaug6739/Alexandrie` | ⭐ 2.7k |
+| 2026-09-05 | 🥇 | [[Good First Issue] 🎍 Add new Anime Quote 132 - Beginner-Friendly Open-source Co](https://github.com/lingdojo/kana-dojo/issues/29817) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-05 | 🥇 | [Maintenance: scope `test:unit` to `tests/unit` and normalise package scripts](https://github.com/aws-powertools/powertools-lambda-typescript/issues/5643) | `aws-powertools/powertools-lambda-typescript` | ⭐ 1.8k |
+| 2026-09-05 | 🥇 | [Maintenance: align `cached-node-modules` pins and remove a stale migration comme](https://github.com/aws-powertools/powertools-lambda-typescript/issues/5642) | `aws-powertools/powertools-lambda-typescript` | ⭐ 1.8k |
+| 2026-09-05 | 🥇 | [[Good First Issue] 🍚 Add new Grammar Point 53 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29816) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-05 | 🥉 | [Email Service overview shows unsupported `"email": [{"name":"EMAIL_HANDLER"}]` W](https://github.com/cloudflare/cloudflare-docs/issues/33252) | `cloudflare/cloudflare-docs` | ⭐ 5.2k |
 | 2026-09-05 | 🥇 | [[Good First Issue] 🗻 Add new Wallpaper URL #1 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29807) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-05 | 🥈 | [[Performance] Reduce Homepage Bundle Size from Inactive Rotational Banners](https://github.com/layer5io/layer5/issues/8020) | `layer5io/layer5` | ⭐ 1.1k |
 | 2026-09-05 | 🥈 | [[Performance] Reduce Homepage Total Blocking Time from Unnecessary Search Indexi](https://github.com/layer5io/layer5/issues/8019) | `layer5io/layer5` | ⭐ 1.1k |
@@ -96,11 +104,3 @@
 | 2026-09-04 | 🥇 | [[Good First Issue] 🗾 Add new Example Sentence 20 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29772) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-04 | 🥇 | [[Bug]: duplicate 'web-clone' chip in HOME_HERO_CHIPS — one copy silently opts ou](https://github.com/nexu-io/open-design/issues/7775) | `nexu-io/open-design` | ⭐ 94.1k |
 | 2026-09-04 | 🥇 | [[Good First Issue] 🐉 Add new False Friend Pair 10 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29771) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-04 | 🥇 | [[Good First Issue] 🦊 Add new Dialect Entry 98 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29770) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-04 | 🥇 | [[Good First Issue] 🥢 Add new Japanese Idiom 42 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29769) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-04 | 🥇 | [[Good First Issue] 🌊 Add new Video Game Quote 86 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29768) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-04 | 🥈 | [handle chat](https://github.com/webbrain-one/webbrain/issues/2981) | `webbrain-one/webbrain` | ⭐ 1.0k |
-| 2026-09-04 | 🥇 | [[Good First Issue] 🎑 Add new Trivia Question 15 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29761) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-04 | 🥇 | [Pin LF for every text file in .gitattributes](https://github.com/libredb/libredb-studio/issues/554) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-04 | 🥇 | [[Good First Issue] 🍤 Add new Japanese Haiku 1 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29757) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-04 | 🥇 | [[BUG] Edge Dev 154 上所有用户脚本静默失效：早退守卫未校验 chrome.scripting 注册，scriptcat-scripting 丢](https://github.com/scriptscat/scriptcat/issues/1724) | `scriptscat/scriptcat` | ⭐ 5.3k |

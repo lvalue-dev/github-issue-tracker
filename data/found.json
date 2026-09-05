@@ -1,5 +1,157 @@
 [
   {
+    "key": "libredb/libredb-studio#570",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 570,
+    "title": "CONTRIBUTING prerequisites omit Helm, which 166 tests in bun run test need",
+    "url": "https://github.com/libredb/libredb-studio/issues/570",
+    "comments": 0,
+    "createdAt": "2026-09-05T12:49:11Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 402,
+    "foundAt": "2026-09-05T12:52:23.232Z"
+  },
+  {
+    "key": "goatplatform/goatdb#57",
+    "tier": 1,
+    "repo": "goatplatform/goatdb",
+    "number": 57,
+    "title": "feat/Support native addons (.node files) in Node.js SEA binaries",
+    "url": "https://github.com/goatplatform/goatdb/issues/57",
+    "comments": 0,
+    "createdAt": "2026-09-05T12:48:46Z",
+    "labels": [
+      "enhancement",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 572,
+    "foundAt": "2026-09-05T12:52:23.232Z"
+  },
+  {
+    "key": "Smaug6739/Alexandrie#763",
+    "tier": 1,
+    "repo": "Smaug6739/Alexandrie",
+    "number": 763,
+    "title": "Published resources displayed as documents instead of preview",
+    "url": "https://github.com/Smaug6739/Alexandrie/issues/763",
+    "comments": 0,
+    "createdAt": "2026-09-05T12:41:35Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "frontend",
+      "interface"
+    ],
+    "language": "vue",
+    "stars": 2705,
+    "foundAt": "2026-09-05T12:52:25.751Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29817",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29817,
+    "title": "[Good First Issue] 🎍 Add new Anime Quote 132 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29817",
+    "comments": 1,
+    "createdAt": "2026-09-05T12:37:34Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-05T12:52:23.232Z"
+  },
+  {
+    "key": "aws-powertools/powertools-lambda-typescript#5643",
+    "tier": 1,
+    "repo": "aws-powertools/powertools-lambda-typescript",
+    "number": 5643,
+    "title": "Maintenance: scope `test:unit` to `tests/unit` and normalise package scripts",
+    "url": "https://github.com/aws-powertools/powertools-lambda-typescript/issues/5643",
+    "comments": 0,
+    "createdAt": "2026-09-05T12:31:45Z",
+    "labels": [
+      "good-first-issue",
+      "internal"
+    ],
+    "language": "typescript",
+    "stars": 1789,
+    "foundAt": "2026-09-05T12:52:23.563Z"
+  },
+  {
+    "key": "aws-powertools/powertools-lambda-typescript#5642",
+    "tier": 1,
+    "repo": "aws-powertools/powertools-lambda-typescript",
+    "number": 5642,
+    "title": "Maintenance: align `cached-node-modules` pins and remove a stale migration comment in CI",
+    "url": "https://github.com/aws-powertools/powertools-lambda-typescript/issues/5642",
+    "comments": 0,
+    "createdAt": "2026-09-05T12:31:38Z",
+    "labels": [
+      "good-first-issue",
+      "internal"
+    ],
+    "language": "typescript",
+    "stars": 1789,
+    "foundAt": "2026-09-05T12:52:23.563Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29816",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29816,
+    "title": "[Good First Issue] 🍚 Add new Grammar Point 53 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29816",
+    "comments": 1,
+    "createdAt": "2026-09-05T12:01:01Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-05T12:52:25.026Z"
+  },
+  {
+    "key": "cloudflare/cloudflare-docs#33252",
+    "tier": 3,
+    "repo": "cloudflare/cloudflare-docs",
+    "number": 33252,
+    "title": "Email Service overview shows unsupported `\"email\": [{\"name\":\"EMAIL_HANDLER\"}]` Wrangler config",
+    "url": "https://github.com/cloudflare/cloudflare-docs/issues/33252",
+    "comments": 0,
+    "createdAt": "2026-09-05T12:48:27Z",
+    "labels": [
+      "documentation",
+      "content:edit",
+      "product:email-service"
+    ],
+    "language": "mdx",
+    "stars": 5186,
+    "foundAt": "2026-09-05T12:52:29.647Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#29807",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1698,171 +1850,5 @@
     "language": "typescript",
     "stars": 3306,
     "foundAt": "2026-09-04T18:30:51.673Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29770",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29770,
-    "title": "[Good First Issue] 🦊 Add new Dialect Entry 98 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29770",
-    "comments": 1,
-    "createdAt": "2026-09-04T16:37:28Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-04T18:30:51.673Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29769",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29769,
-    "title": "[Good First Issue] 🥢 Add new Japanese Idiom 42 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29769",
-    "comments": 1,
-    "createdAt": "2026-09-04T16:01:03Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-04T18:30:51.852Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29768",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29768,
-    "title": "[Good First Issue] 🌊 Add new Video Game Quote 86 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29768",
-    "comments": 1,
-    "createdAt": "2026-09-04T15:37:35Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-04T18:30:51.852Z"
-  },
-  {
-    "key": "webbrain-one/webbrain#2981",
-    "tier": 2,
-    "repo": "webbrain-one/webbrain",
-    "number": 2981,
-    "title": "handle chat",
-    "url": "https://github.com/webbrain-one/webbrain/issues/2981",
-    "comments": 0,
-    "createdAt": "2026-09-04T16:48:16Z",
-    "labels": [
-      "enhancement",
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 1003,
-    "foundAt": "2026-09-04T18:30:55.656Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29761",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29761,
-    "title": "[Good First Issue] 🎑 Add new Trivia Question 15 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29761",
-    "comments": 1,
-    "createdAt": "2026-09-04T14:00:59Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-04T14:26:27.748Z"
-  },
-  {
-    "key": "libredb/libredb-studio#554",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 554,
-    "title": "Pin LF for every text file in .gitattributes",
-    "url": "https://github.com/libredb/libredb-studio/issues/554",
-    "comments": 0,
-    "createdAt": "2026-09-04T13:39:43Z",
-    "labels": [
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 402,
-    "foundAt": "2026-09-04T14:26:28.432Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29757",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29757,
-    "title": "[Good First Issue] 🍤 Add new Japanese Haiku 1 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29757",
-    "comments": 1,
-    "createdAt": "2026-09-04T13:37:32Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-04T14:26:28.432Z"
-  },
-  {
-    "key": "scriptscat/scriptcat#1724",
-    "tier": 1,
-    "repo": "scriptscat/scriptcat",
-    "number": 1724,
-    "title": "[BUG] Edge Dev 154 上所有用户脚本静默失效：早退守卫未校验 chrome.scripting 注册，scriptcat-scripting 丢失后永不自愈",
-    "url": "https://github.com/scriptscat/scriptcat/issues/1724",
-    "comments": 1,
-    "createdAt": "2026-09-04T10:40:39Z",
-    "labels": [
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 5255,
-    "foundAt": "2026-09-04T14:26:31.026Z"
   }
 ]
