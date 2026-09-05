@@ -4,6 +4,18 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-05 | 🥇 | [[Good First Issue] 🎎 Add new Japan Fact 134 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29832) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-05 | 🥇 | [[Good First Issue] 🎍 Add new Theme: Inkstone - Beginner-Friendly Open-source Co](https://github.com/lingdojo/kana-dojo/issues/29831) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-05 | 🥈 | [[Discussion]: Why was the global memory feature from 1.9.x removed in version 2.](https://github.com/CherryHQ/cherry-studio/issues/20081) | `CherryHQ/cherry-studio` | ⭐ 51.5k |
+| 2026-09-05 | 🥈 | [[Discussion]: Why was the global memory feature from 1.9.x removed in version 2.](https://github.com/CherryHQ/cherry-studio/issues/20080) | `CherryHQ/cherry-studio` | ⭐ 51.5k |
+| 2026-09-05 | 🥈 | [refactor(lock): retry backoff is clamped at three call sites instead of inside t](https://github.com/career-ops-hq/career-ops/issues/3895) | `career-ops-hq/career-ops` | ⭐ 69.9k |
+| 2026-09-05 | 🥈 | [bug(verify-cv-facts): a missing config/cv-facts.json disables the fact gate sile](https://github.com/career-ops-hq/career-ops/issues/3894) | `career-ops-hq/career-ops` | ⭐ 69.9k |
+| 2026-09-05 | 🥈 | [bug(sync-pdf-flags): a PDF flag can never be cleared and manifest rows outlive t](https://github.com/career-ops-hq/career-ops/issues/3893) | `career-ops-hq/career-ops` | ⭐ 69.9k |
+| 2026-09-05 | 🥈 | [bug(tracker): a control byte in a tracker cell is invisible in every view and co](https://github.com/career-ops-hq/career-ops/issues/3892) | `career-ops-hq/career-ops` | ⭐ 69.9k |
+| 2026-09-05 | 🥈 | [bug(liveness): check-liveness computes an expired verdict and discards it, so a ](https://github.com/career-ops-hq/career-ops/issues/3891) | `career-ops-hq/career-ops` | ⭐ 69.9k |
+| 2026-09-05 | 🥈 | [test(guards): the repo-scanning guards still narrow silently, the way the syntax](https://github.com/career-ops-hq/career-ops/issues/3890) | `career-ops-hq/career-ops` | ⭐ 69.9k |
+| 2026-09-05 | 🥈 | [[BUG] Split-checkout data-root violations: set-status.mjs can't resolve the trac](https://github.com/career-ops-hq/career-ops/issues/3867) | `career-ops-hq/career-ops` | ⭐ 69.9k |
+| 2026-09-05 | 🥈 | [workday.mjs: Workday multi-location postings are silently dropped by location_fi](https://github.com/career-ops-hq/career-ops/issues/3860) | `career-ops-hq/career-ops` | ⭐ 69.9k |
 | 2026-09-05 | 🥇 | [[Good First Issue] 🦑 Add new Learner Mistake 73 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29826) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-05 | 🥇 | [docs(budget): document the per-session evaluation cap (about ten roles) in RUNNI](https://github.com/career-ops-hq/career-ops/issues/3881) | `career-ops-hq/career-ops` | ⭐ 69.9k |
 | 2026-09-05 | 🥇 | [[Good First Issue] 🎍 Add new Example Sentence 3 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29825) | `lingdojo/kana-dojo` | ⭐ 3.3k |
@@ -92,15 +104,3 @@
 | 2026-09-04 | 🥇 | [[Good First Issue] 🐡 Add new Wallpaper URL #4 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29774) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-BACKSTAGEPLUGINAPPBACKEND-8163063]](https://github.com/backstage/backstage/issues/35486) | `backstage/backstage` | ⭐ 34.3k |
 | 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-BACKSTAGEBACKENDDEFAULTS-15054278]](https://github.com/backstage/backstage/issues/35483) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-BACKSTAGEBACKENDPLUGINAPI-15054291]](https://github.com/backstage/backstage/issues/35485) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-BACKSTAGEBACKENDDEFAULTS-15064476]](https://github.com/backstage/backstage/issues/35484) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-BACKSTAGEBACKENDAPPAPI-6229731]](https://github.com/backstage/backstage/issues/35482) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-04 | 🥈 | [Snyk vulnerability [snyk:lic:npm:rollup-plugin-dts:LGPL-3.0]](https://github.com/backstage/backstage/issues/35480) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-APIDEVTOOLSJSONSCHEMAREFPARSER-17937352]](https://github.com/backstage/backstage/issues/35481) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-04 | 🥈 | [Snyk vulnerability [snyk:lic:npm:eslint-plugin-deprecation:LGPL-3.0]](https://github.com/backstage/backstage/issues/35479) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-04 | 🥈 | [Snyk vulnerability [snyk:lic:npm:axe-core:MPL-2.0]](https://github.com/backstage/backstage/issues/35478) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-WS-17344547]](https://github.com/backstage/backstage/issues/35477) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-WS-16722635]](https://github.com/backstage/backstage/issues/35476) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-18426521]](https://github.com/backstage/backstage/issues/35474) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-UUID-16133035]](https://github.com/backstage/backstage/issues/35475) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-18426065]](https://github.com/backstage/backstage/issues/35472) | `backstage/backstage` | ⭐ 34.3k |

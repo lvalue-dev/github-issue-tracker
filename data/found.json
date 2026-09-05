@@ -1,5 +1,235 @@
 [
   {
+    "key": "lingdojo/kana-dojo#29832",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29832,
+    "title": "[Good First Issue] 🎎 Add new Japan Fact 134 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29832",
+    "comments": 1,
+    "createdAt": "2026-09-05T18:01:01Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-05T18:26:44.864Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29831",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29831,
+    "title": "[Good First Issue] 🎍 Add new Theme: Inkstone - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29831",
+    "comments": 1,
+    "createdAt": "2026-09-05T17:37:31Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-05T18:26:44.864Z"
+  },
+  {
+    "key": "CherryHQ/cherry-studio#20081",
+    "tier": 2,
+    "repo": "CherryHQ/cherry-studio",
+    "number": 20081,
+    "title": "[Discussion]: Why was the global memory feature from 1.9.x removed in version 2.0.09? Hope for restoration or alternative solution",
+    "url": "https://github.com/CherryHQ/cherry-studio/issues/20081",
+    "comments": 0,
+    "createdAt": "2026-09-05T18:01:33Z",
+    "labels": [
+      "help wanted",
+      "discussion"
+    ],
+    "language": "typescript",
+    "stars": 51475,
+    "foundAt": "2026-09-05T18:26:46.049Z"
+  },
+  {
+    "key": "CherryHQ/cherry-studio#20080",
+    "tier": 2,
+    "repo": "CherryHQ/cherry-studio",
+    "number": 20080,
+    "title": "[Discussion]: Why was the global memory feature from 1.9.x removed in version 2.0.09? Hope for restoration or alternative solution",
+    "url": "https://github.com/CherryHQ/cherry-studio/issues/20080",
+    "comments": 0,
+    "createdAt": "2026-09-05T18:00:29Z",
+    "labels": [
+      "help wanted",
+      "discussion"
+    ],
+    "language": "typescript",
+    "stars": 51475,
+    "foundAt": "2026-09-05T18:26:46.049Z"
+  },
+  {
+    "key": "career-ops-hq/career-ops#3895",
+    "tier": 2,
+    "repo": "career-ops-hq/career-ops",
+    "number": 3895,
+    "title": "refactor(lock): retry backoff is clamped at three call sites instead of inside the policy that owns it",
+    "url": "https://github.com/career-ops-hq/career-ops/issues/3895",
+    "comments": 1,
+    "createdAt": "2026-09-05T17:56:10Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "🔧 scripts"
+    ],
+    "language": "javascript",
+    "stars": 69868,
+    "foundAt": "2026-09-05T18:26:46.049Z"
+  },
+  {
+    "key": "career-ops-hq/career-ops#3894",
+    "tier": 2,
+    "repo": "career-ops-hq/career-ops",
+    "number": 3894,
+    "title": "bug(verify-cv-facts): a missing config/cv-facts.json disables the fact gate silently and reads as a clean pass",
+    "url": "https://github.com/career-ops-hq/career-ops/issues/3894",
+    "comments": 1,
+    "createdAt": "2026-09-05T17:56:09Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "🔧 scripts",
+      "confirmed"
+    ],
+    "language": "javascript",
+    "stars": 69868,
+    "foundAt": "2026-09-05T18:26:46.049Z"
+  },
+  {
+    "key": "career-ops-hq/career-ops#3893",
+    "tier": 2,
+    "repo": "career-ops-hq/career-ops",
+    "number": 3893,
+    "title": "bug(sync-pdf-flags): a PDF flag can never be cleared and manifest rows outlive the files they name, so a correction does not stick",
+    "url": "https://github.com/career-ops-hq/career-ops/issues/3893",
+    "comments": 1,
+    "createdAt": "2026-09-05T17:56:08Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "🔧 scripts",
+      "confirmed"
+    ],
+    "language": "javascript",
+    "stars": 69868,
+    "foundAt": "2026-09-05T18:26:46.049Z"
+  },
+  {
+    "key": "career-ops-hq/career-ops#3892",
+    "tier": 2,
+    "repo": "career-ops-hq/career-ops",
+    "number": 3892,
+    "title": "bug(tracker): a control byte in a tracker cell is invisible in every view and corrupts every positional parse downstream",
+    "url": "https://github.com/career-ops-hq/career-ops/issues/3892",
+    "comments": 1,
+    "createdAt": "2026-09-05T17:55:58Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "🔧 scripts",
+      "confirmed"
+    ],
+    "language": "javascript",
+    "stars": 69868,
+    "foundAt": "2026-09-05T18:26:46.049Z"
+  },
+  {
+    "key": "career-ops-hq/career-ops#3891",
+    "tier": 2,
+    "repo": "career-ops-hq/career-ops",
+    "number": 3891,
+    "title": "bug(liveness): check-liveness computes an expired verdict and discards it, so a dead posting resurfaces as a fresh match",
+    "url": "https://github.com/career-ops-hq/career-ops/issues/3891",
+    "comments": 1,
+    "createdAt": "2026-09-05T17:55:57Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "🔧 scripts",
+      "confirmed"
+    ],
+    "language": "javascript",
+    "stars": 69868,
+    "foundAt": "2026-09-05T18:26:46.049Z"
+  },
+  {
+    "key": "career-ops-hq/career-ops#3890",
+    "tier": 2,
+    "repo": "career-ops-hq/career-ops",
+    "number": 3890,
+    "title": "test(guards): the repo-scanning guards still narrow silently, the way the syntax gate did before #3419",
+    "url": "https://github.com/career-ops-hq/career-ops/issues/3890",
+    "comments": 1,
+    "createdAt": "2026-09-05T17:55:46Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "🔧 scripts"
+    ],
+    "language": "javascript",
+    "stars": 69868,
+    "foundAt": "2026-09-05T18:26:46.049Z"
+  },
+  {
+    "key": "career-ops-hq/career-ops#3867",
+    "tier": 2,
+    "repo": "career-ops-hq/career-ops",
+    "number": 3867,
+    "title": "[BUG] Split-checkout data-root violations: set-status.mjs can't resolve the tracker, merge-tracker.mjs spawns system scripts from the data root, plugins.mjs config path + .env gate order",
+    "url": "https://github.com/career-ops-hq/career-ops/issues/3867",
+    "comments": 2,
+    "createdAt": "2026-09-05T08:23:24Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "🔧 scripts",
+      "confirmed"
+    ],
+    "language": "javascript",
+    "stars": 69868,
+    "foundAt": "2026-09-05T18:26:46.049Z"
+  },
+  {
+    "key": "career-ops-hq/career-ops#3860",
+    "tier": 2,
+    "repo": "career-ops-hq/career-ops",
+    "number": 3860,
+    "title": "workday.mjs: Workday multi-location postings are silently dropped by location_filter",
+    "url": "https://github.com/career-ops-hq/career-ops/issues/3860",
+    "comments": 2,
+    "createdAt": "2026-09-05T06:46:19Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "🔧 scripts",
+      "confirmed"
+    ],
+    "language": "javascript",
+    "stars": 69868,
+    "foundAt": "2026-09-05T18:26:46.049Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#29826",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1667,210 +1897,6 @@
     "url": "https://github.com/backstage/backstage/issues/35483",
     "comments": 0,
     "createdAt": "2026-09-04T20:07:19Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-04T21:36:12.067Z"
-  },
-  {
-    "key": "backstage/backstage#35485",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35485,
-    "title": "Snyk vulnerability [SNYK-JS-BACKSTAGEBACKENDPLUGINAPI-15054291]",
-    "url": "https://github.com/backstage/backstage/issues/35485",
-    "comments": 0,
-    "createdAt": "2026-09-04T20:07:19Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-04T21:36:12.067Z"
-  },
-  {
-    "key": "backstage/backstage#35484",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35484,
-    "title": "Snyk vulnerability [SNYK-JS-BACKSTAGEBACKENDDEFAULTS-15064476]",
-    "url": "https://github.com/backstage/backstage/issues/35484",
-    "comments": 0,
-    "createdAt": "2026-09-04T20:07:19Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-04T21:36:12.067Z"
-  },
-  {
-    "key": "backstage/backstage#35482",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35482,
-    "title": "Snyk vulnerability [SNYK-JS-BACKSTAGEBACKENDAPPAPI-6229731]",
-    "url": "https://github.com/backstage/backstage/issues/35482",
-    "comments": 0,
-    "createdAt": "2026-09-04T20:07:18Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-04T21:36:12.067Z"
-  },
-  {
-    "key": "backstage/backstage#35480",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35480,
-    "title": "Snyk vulnerability [snyk:lic:npm:rollup-plugin-dts:LGPL-3.0]",
-    "url": "https://github.com/backstage/backstage/issues/35480",
-    "comments": 0,
-    "createdAt": "2026-09-04T20:07:17Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-04T21:36:12.067Z"
-  },
-  {
-    "key": "backstage/backstage#35481",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35481,
-    "title": "Snyk vulnerability [SNYK-JS-APIDEVTOOLSJSONSCHEMAREFPARSER-17937352]",
-    "url": "https://github.com/backstage/backstage/issues/35481",
-    "comments": 0,
-    "createdAt": "2026-09-04T20:07:17Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-04T21:36:12.067Z"
-  },
-  {
-    "key": "backstage/backstage#35479",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35479,
-    "title": "Snyk vulnerability [snyk:lic:npm:eslint-plugin-deprecation:LGPL-3.0]",
-    "url": "https://github.com/backstage/backstage/issues/35479",
-    "comments": 0,
-    "createdAt": "2026-09-04T20:07:16Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-04T21:36:12.067Z"
-  },
-  {
-    "key": "backstage/backstage#35478",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35478,
-    "title": "Snyk vulnerability [snyk:lic:npm:axe-core:MPL-2.0]",
-    "url": "https://github.com/backstage/backstage/issues/35478",
-    "comments": 0,
-    "createdAt": "2026-09-04T20:07:16Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-04T21:36:12.067Z"
-  },
-  {
-    "key": "backstage/backstage#35477",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35477,
-    "title": "Snyk vulnerability [SNYK-JS-WS-17344547]",
-    "url": "https://github.com/backstage/backstage/issues/35477",
-    "comments": 0,
-    "createdAt": "2026-09-04T20:07:16Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-04T21:36:12.067Z"
-  },
-  {
-    "key": "backstage/backstage#35476",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35476,
-    "title": "Snyk vulnerability [SNYK-JS-WS-16722635]",
-    "url": "https://github.com/backstage/backstage/issues/35476",
-    "comments": 0,
-    "createdAt": "2026-09-04T20:07:15Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-04T21:36:12.067Z"
-  },
-  {
-    "key": "backstage/backstage#35474",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35474,
-    "title": "Snyk vulnerability [SNYK-JS-UNDICI-18426521]",
-    "url": "https://github.com/backstage/backstage/issues/35474",
-    "comments": 0,
-    "createdAt": "2026-09-04T20:07:14Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-04T21:36:12.067Z"
-  },
-  {
-    "key": "backstage/backstage#35475",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35475,
-    "title": "Snyk vulnerability [SNYK-JS-UUID-16133035]",
-    "url": "https://github.com/backstage/backstage/issues/35475",
-    "comments": 0,
-    "createdAt": "2026-09-04T20:07:14Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-04T21:36:12.067Z"
-  },
-  {
-    "key": "backstage/backstage#35472",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35472,
-    "title": "Snyk vulnerability [SNYK-JS-UNDICI-18426065]",
-    "url": "https://github.com/backstage/backstage/issues/35472",
-    "comments": 0,
-    "createdAt": "2026-09-04T20:07:13Z",
     "labels": [
       "snyk-vulnerability",
       "help wanted"

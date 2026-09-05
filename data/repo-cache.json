@@ -12308,5 +12308,175 @@
     "language": "MDX",
     "openIssues": 15,
     "cachedAt": "2026-09-05T16:09:05.505Z"
+  },
+  "aknakshay/agent-tarmac": {
+    "fullName": "aknakshay/agent-tarmac",
+    "stars": 0,
+    "pushedAt": "2026-09-05T18:25:22Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 15,
+    "cachedAt": "2026-09-05T18:26:44.648Z"
+  },
+  "ajithakdev/meterx-server": {
+    "fullName": "ajithakdev/meterx-server",
+    "stars": 0,
+    "pushedAt": "2026-05-28T12:07:29Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 53,
+    "cachedAt": "2026-09-05T18:26:44.864Z"
+  },
+  "yigitbozyaka/ContextResume": {
+    "fullName": "yigitbozyaka/ContextResume",
+    "stars": 0,
+    "pushedAt": "2026-09-05T17:10:26Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 9,
+    "cachedAt": "2026-09-05T18:26:45.084Z"
+  },
+  "alexdermohr/vibe-coding-kurs-starter": {
+    "fullName": "alexdermohr/vibe-coding-kurs-starter",
+    "stars": 0,
+    "pushedAt": "2026-09-05T16:39:49Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 1,
+    "cachedAt": "2026-09-05T18:26:45.327Z"
+  },
+  "Fmarzochi/EGC": {
+    "fullName": "Fmarzochi/EGC",
+    "stars": 48,
+    "pushedAt": "2026-09-05T15:33:23Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 7,
+    "cachedAt": "2026-09-05T18:26:45.513Z"
+  },
+  "virtual-hugs/virtual-hugs": {
+    "fullName": "virtual-hugs/virtual-hugs",
+    "stars": 2,
+    "pushedAt": "2026-08-28T20:48:16Z",
+    "archived": false,
+    "fork": false,
+    "language": "HTML",
+    "openIssues": 13,
+    "cachedAt": "2026-09-05T18:26:45.799Z"
+  },
+  "CherryHQ/cherry-studio": {
+    "fullName": "CherryHQ/cherry-studio",
+    "stars": 51475,
+    "pushedAt": "2026-09-05T18:17:47Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 1496,
+    "cachedAt": "2026-09-05T18:26:46.049Z"
+  },
+  "drakulavich/oura-cli": {
+    "fullName": "drakulavich/oura-cli",
+    "stars": 5,
+    "pushedAt": "2026-09-05T17:58:40Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 12,
+    "cachedAt": "2026-09-05T18:26:46.304Z"
+  },
+  "deveshsangwan/html-inbox": {
+    "fullName": "deveshsangwan/html-inbox",
+    "stars": 0,
+    "pushedAt": "2026-08-06T10:43:29Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 18,
+    "cachedAt": "2026-09-05T18:26:46.556Z"
+  },
+  "sirimongkol0/CS361_G650-15": {
+    "fullName": "sirimongkol0/CS361_G650-15",
+    "stars": 0,
+    "pushedAt": "2026-09-03T04:19:56Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 6,
+    "cachedAt": "2026-09-05T18:26:46.816Z"
+  },
+  "ResonantOS/2.0.0-alpha": {
+    "fullName": "ResonantOS/2.0.0-alpha",
+    "stars": 13,
+    "pushedAt": "2026-09-05T18:13:25Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 75,
+    "cachedAt": "2026-09-05T18:26:47.115Z"
+  },
+  "indextrown/Swift-KR": {
+    "fullName": "indextrown/Swift-KR",
+    "stars": 0,
+    "pushedAt": "2026-09-05T18:25:47Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 2,
+    "cachedAt": "2026-09-05T18:26:47.303Z"
+  },
+  "stonematt/mcp-obsidian-cli": {
+    "fullName": "stonematt/mcp-obsidian-cli",
+    "stars": 2,
+    "pushedAt": "2026-09-05T18:15:33Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 11,
+    "cachedAt": "2026-09-05T18:26:47.495Z"
+  },
+  "b-gleb/Inforgiy_Web": {
+    "fullName": "b-gleb/Inforgiy_Web",
+    "stars": 0,
+    "pushedAt": "2026-09-05T17:32:15Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 28,
+    "cachedAt": "2026-09-05T18:26:47.678Z"
+  },
+  "katogaming88/WGA-Raid-Hub": {
+    "fullName": "katogaming88/WGA-Raid-Hub",
+    "stars": 0,
+    "pushedAt": "2026-09-05T17:57:49Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 86,
+    "cachedAt": "2026-09-05T18:26:47.871Z"
+  },
+  "markcapelle/Lighthouse": {
+    "fullName": "markcapelle/Lighthouse",
+    "stars": 0,
+    "pushedAt": "2026-09-04T21:16:53Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 15,
+    "cachedAt": "2026-09-05T18:26:48.093Z"
+  },
+  "Aznatkoiny/skill-asset-protocol": {
+    "fullName": "Aznatkoiny/skill-asset-protocol",
+    "stars": 1,
+    "pushedAt": "2026-09-05T17:39:18Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 8,
+    "cachedAt": "2026-09-05T18:26:48.353Z"
   }
 }
