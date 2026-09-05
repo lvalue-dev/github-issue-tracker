@@ -4,6 +4,26 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-05 | 🥇 | [[Good First Issue] 🦑 Add new Learner Mistake 73 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29826) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-05 | 🥇 | [docs(budget): document the per-session evaluation cap (about ten roles) in RUNNI](https://github.com/career-ops-hq/career-ops/issues/3881) | `career-ops-hq/career-ops` | ⭐ 69.9k |
+| 2026-09-05 | 🥇 | [[Good First Issue] 🎍 Add new Example Sentence 3 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29825) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-05 | 🥇 | [chore(lint): pay down the size and complexity baseline](https://github.com/xberg-io/html-to-markdown/issues/465) | `xberg-io/html-to-markdown` | ⭐ 863 |
+| 2026-09-05 | 🥇 | [[Good First Issue] 🍵 Add new Etiquette Tip 39 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29824) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-05 | 🥇 | [[Feature/UX] Show in-player notification/toast when fetching Ytdlp videos instea](https://github.com/YusufB5/ASCILINE/issues/62) | `YusufB5/ASCILINE` | ⭐ 2.7k |
+| 2026-09-05 | 🥇 | [[Good First Issue] 🍚 Add new False Friend Pair 74 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29823) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-05 | 🥇 | [Nix CLI discovery misses Home Manager's /etc/profiles/per-user/$USER/bin (follow](https://github.com/nexu-io/open-design/issues/7790) | `nexu-io/open-design` | ⭐ 94.1k |
+| 2026-09-05 | 🥇 | [[Good First Issue] 🐉 Add new Dialect Entry 65 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29822) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-05 | 🥇 | [Schema validation errors are not logged for IPC event handlers](https://github.com/clusterio/clusterio/issues/986) | `clusterio/clusterio` | ⭐ 379 |
+| 2026-09-05 | 🥇 | [[BUG]](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/89223) | `SAPTARSHI-coder/EaseMotion-css` | ⭐ 255 |
+| 2026-09-05 | 🥈 | [application-answers: parseDraftAnswersBlockH() finds the draft block in 5 of 19 ](https://github.com/career-ops-hq/career-ops/issues/3884) | `career-ops-hq/career-ops` | ⭐ 69.9k |
+| 2026-09-05 | 🥈 | [update-system: show the short commit SHA next to VERSION wherever an install rep](https://github.com/career-ops-hq/career-ops/issues/3883) | `career-ops-hq/career-ops` | ⭐ 69.9k |
+| 2026-09-05 | 🥈 | [workdayDedupKey: a hyphenated requisition base skips the trailing -N strip (resi](https://github.com/career-ops-hq/career-ops/issues/3882) | `career-ops-hq/career-ops` | ⭐ 69.9k |
+| 2026-09-05 | 🥈 | [CI: refuse to merge while a PR named under a "Depends on" heading is still open](https://github.com/career-ops-hq/career-ops/issues/3880) | `career-ops-hq/career-ops` | ⭐ 69.9k |
+| 2026-09-05 | 🥈 | [[Help] 为什么？迁移会登录六位密码会报错](https://github.com/maillab/cloud-mail/issues/566) | `maillab/cloud-mail` | ⭐ 14.0k |
+| 2026-09-05 | 🥉 | [Follow up PR #929: preserve supported GPT-5 temperatures and verify request beha](https://github.com/srbhr/Resume-Matcher/issues/975) | `srbhr/Resume-Matcher` | ⭐ 28.3k |
+| 2026-09-05 | 🥉 | [[Docs] 建议修改docs/mcp-vision-integration.md中的错别字](https://github.com/xinnan-tech/xiaozhi-esp32-server/issues/3354) | `xinnan-tech/xiaozhi-esp32-server` | ⭐ 10.5k |
+| 2026-09-05 | 🥉 | [[Docs]: Align storage, retry and validation documentation with current behavior](https://github.com/srbhr/Resume-Matcher/issues/974) | `srbhr/Resume-Matcher` | ⭐ 28.3k |
+| 2026-09-05 | 🥉 | [docs(WORKAROUND_CATALOG): add durable-snapshot + touch-refresh workaround stack ](https://github.com/cnighswonger/claude-code-cache-fix/issues/364) | `cnighswonger/claude-code-cache-fix` | ⭐ 429 |
 | 2026-09-05 | 🥇 | [CONTRIBUTING prerequisites omit Helm, which 166 tests in bun run test need](https://github.com/libredb/libredb-studio/issues/570) | `libredb/libredb-studio` | ⭐ 402 |
 | 2026-09-05 | 🥇 | [feat/Support native addons (.node files) in Node.js SEA binaries](https://github.com/goatplatform/goatdb/issues/57) | `goatplatform/goatdb` | ⭐ 572 |
 | 2026-09-05 | 🥇 | [Published resources displayed as documents instead of preview](https://github.com/Smaug6739/Alexandrie/issues/763) | `Smaug6739/Alexandrie` | ⭐ 2.7k |
@@ -84,23 +104,3 @@
 | 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-18426521]](https://github.com/backstage/backstage/issues/35474) | `backstage/backstage` | ⭐ 34.3k |
 | 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-UUID-16133035]](https://github.com/backstage/backstage/issues/35475) | `backstage/backstage` | ⭐ 34.3k |
 | 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-18426065]](https://github.com/backstage/backstage/issues/35472) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-18426067]](https://github.com/backstage/backstage/issues/35473) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-18426063]](https://github.com/backstage/backstage/issues/35471) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-18426061]](https://github.com/backstage/backstage/issues/35470) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-17372758]](https://github.com/backstage/backstage/issues/35469) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-17372752]](https://github.com/backstage/backstage/issues/35467) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-17372754]](https://github.com/backstage/backstage/issues/35468) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-17372667]](https://github.com/backstage/backstage/issues/35465) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-17372697]](https://github.com/backstage/backstage/issues/35466) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-17372609]](https://github.com/backstage/backstage/issues/35463) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-17372658]](https://github.com/backstage/backstage/issues/35464) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-TAR-17909225]](https://github.com/backstage/backstage/issues/35461) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-TAR-18319500]](https://github.com/backstage/backstage/issues/35462) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-TAR-17909152]](https://github.com/backstage/backstage/issues/35460) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-04 | 🥉 | [docs: Free tier shows "Opensource Soon" but lists open-source features as includ](https://github.com/halofyai/halofy/issues/25) | `halofyai/halofy` | ⭐ 422 |
-| 2026-09-04 | 🥉 | [Credit: not in .all-contributorsrc or CONTRIBUTORS.md after 8 merged PRs](https://github.com/career-ops-hq/career-ops/issues/3835) | `career-ops-hq/career-ops` | ⭐ 69.9k |
-| 2026-09-04 | 🥉 | [Governance: the contributor ladder is specified five incompatible ways, and the ](https://github.com/career-ops-hq/career-ops/issues/3832) | `career-ops-hq/career-ops` | ⭐ 69.9k |
-| 2026-09-04 | 🥇 | [[Good First Issue] 🏯 Add new Learner Mistake 18 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29773) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-04 | 🥇 | [[Good First Issue] 🗾 Add new Example Sentence 20 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29772) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-04 | 🥇 | [[Bug]: duplicate 'web-clone' chip in HOME_HERO_CHIPS — one copy silently opts ou](https://github.com/nexu-io/open-design/issues/7775) | `nexu-io/open-design` | ⭐ 94.1k |
-| 2026-09-04 | 🥇 | [[Good First Issue] 🐉 Add new False Friend Pair 10 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29771) | `lingdojo/kana-dojo` | ⭐ 3.3k |

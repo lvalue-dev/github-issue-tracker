@@ -1,5 +1,389 @@
 [
   {
+    "key": "lingdojo/kana-dojo#29826",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29826,
+    "title": "[Good First Issue] 🦑 Add new Learner Mistake 73 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29826",
+    "comments": 1,
+    "createdAt": "2026-09-05T16:01:03Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-05T16:08:57.394Z"
+  },
+  {
+    "key": "career-ops-hq/career-ops#3881",
+    "tier": 1,
+    "repo": "career-ops-hq/career-ops",
+    "number": 3881,
+    "title": "docs(budget): document the per-session evaluation cap (about ten roles) in RUNNING_ON_A_BUDGET.md",
+    "url": "https://github.com/career-ops-hq/career-ops/issues/3881",
+    "comments": 0,
+    "createdAt": "2026-09-05T15:40:45Z",
+    "labels": [
+      "documentation",
+      "good first issue"
+    ],
+    "language": "javascript",
+    "stars": 69868,
+    "foundAt": "2026-09-05T16:08:57.825Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29825",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29825,
+    "title": "[Good First Issue] 🎍 Add new Example Sentence 3 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29825",
+    "comments": 1,
+    "createdAt": "2026-09-05T15:37:26Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-05T16:08:57.394Z"
+  },
+  {
+    "key": "xberg-io/html-to-markdown#465",
+    "tier": 1,
+    "repo": "xberg-io/html-to-markdown",
+    "number": 465,
+    "title": "chore(lint): pay down the size and complexity baseline",
+    "url": "https://github.com/xberg-io/html-to-markdown/issues/465",
+    "comments": 0,
+    "createdAt": "2026-09-05T15:12:06Z",
+    "labels": [
+      "help wanted",
+      "good first issue"
+    ],
+    "language": "html",
+    "stars": 863,
+    "foundAt": "2026-09-05T16:08:58.838Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29824",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29824,
+    "title": "[Good First Issue] 🍵 Add new Etiquette Tip 39 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29824",
+    "comments": 1,
+    "createdAt": "2026-09-05T15:00:54Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-05T16:08:57.394Z"
+  },
+  {
+    "key": "YusufB5/ASCILINE#62",
+    "tier": 1,
+    "repo": "YusufB5/ASCILINE",
+    "number": 62,
+    "title": "[Feature/UX] Show in-player notification/toast when fetching Ytdlp videos instead of generic \"Buffering\"",
+    "url": "https://github.com/YusufB5/ASCILINE/issues/62",
+    "comments": 0,
+    "createdAt": "2026-09-05T14:56:39Z",
+    "labels": [
+      "enhancement",
+      "good first issue"
+    ],
+    "language": "javascript",
+    "stars": 2712,
+    "foundAt": "2026-09-05T16:08:58.245Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29823",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29823,
+    "title": "[Good First Issue] 🍚 Add new False Friend Pair 74 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29823",
+    "comments": 1,
+    "createdAt": "2026-09-05T14:37:29Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-05T16:08:57.394Z"
+  },
+  {
+    "key": "nexu-io/open-design#7790",
+    "tier": 1,
+    "repo": "nexu-io/open-design",
+    "number": 7790,
+    "title": "Nix CLI discovery misses Home Manager's /etc/profiles/per-user/$USER/bin (follow-up to #6121)",
+    "url": "https://github.com/nexu-io/open-design/issues/7790",
+    "comments": 3,
+    "createdAt": "2026-09-05T14:33:02Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 94056,
+    "foundAt": "2026-09-05T16:08:57.620Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29822",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29822,
+    "title": "[Good First Issue] 🐉 Add new Dialect Entry 65 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29822",
+    "comments": 1,
+    "createdAt": "2026-09-05T14:01:00Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-05T16:08:57.825Z"
+  },
+  {
+    "key": "clusterio/clusterio#986",
+    "tier": 1,
+    "repo": "clusterio/clusterio",
+    "number": 986,
+    "title": "Schema validation errors are not logged for IPC event handlers",
+    "url": "https://github.com/clusterio/clusterio/issues/986",
+    "comments": 1,
+    "createdAt": "2026-09-05T13:58:19Z",
+    "labels": [
+      "Good First Issue",
+      "Impact: 3-Minor",
+      "Scope: Core"
+    ],
+    "language": "typescript",
+    "stars": 379,
+    "foundAt": "2026-09-05T16:08:57.825Z"
+  },
+  {
+    "key": "SAPTARSHI-coder/EaseMotion-css#89223",
+    "tier": 1,
+    "repo": "SAPTARSHI-coder/EaseMotion-css",
+    "number": 89223,
+    "title": "[BUG]",
+    "url": "https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/89223",
+    "comments": 3,
+    "createdAt": "2026-09-04T12:56:54Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "good first issue",
+      "GSSoC-26",
+      "gssoc:approved",
+      "level:intermediate",
+      "type:feature"
+    ],
+    "language": "css",
+    "stars": 255,
+    "foundAt": "2026-09-05T16:08:58.628Z"
+  },
+  {
+    "key": "career-ops-hq/career-ops#3884",
+    "tier": 2,
+    "repo": "career-ops-hq/career-ops",
+    "number": 3884,
+    "title": "application-answers: parseDraftAnswersBlockH() finds the draft block in 5 of 19 evaluation modes (letter and name are locale-specific)",
+    "url": "https://github.com/career-ops-hq/career-ops/issues/3884",
+    "comments": 0,
+    "createdAt": "2026-09-05T15:53:22Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "🔧 scripts",
+      "confirmed"
+    ],
+    "language": "javascript",
+    "stars": 69868,
+    "foundAt": "2026-09-05T16:08:59.791Z"
+  },
+  {
+    "key": "career-ops-hq/career-ops#3883",
+    "tier": 2,
+    "repo": "career-ops-hq/career-ops",
+    "number": 3883,
+    "title": "update-system: show the short commit SHA next to VERSION wherever an install reports itself",
+    "url": "https://github.com/career-ops-hq/career-ops/issues/3883",
+    "comments": 0,
+    "createdAt": "2026-09-05T15:40:48Z",
+    "labels": [
+      "help wanted",
+      "🔧 scripts"
+    ],
+    "language": "javascript",
+    "stars": 69868,
+    "foundAt": "2026-09-05T16:08:59.791Z"
+  },
+  {
+    "key": "career-ops-hq/career-ops#3882",
+    "tier": 2,
+    "repo": "career-ops-hq/career-ops",
+    "number": 3882,
+    "title": "workdayDedupKey: a hyphenated requisition base skips the trailing -N strip (residual of the tenant-site dedup fix)",
+    "url": "https://github.com/career-ops-hq/career-ops/issues/3882",
+    "comments": 0,
+    "createdAt": "2026-09-05T15:40:46Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "🔧 scripts"
+    ],
+    "language": "javascript",
+    "stars": 69868,
+    "foundAt": "2026-09-05T16:08:59.791Z"
+  },
+  {
+    "key": "career-ops-hq/career-ops#3880",
+    "tier": 2,
+    "repo": "career-ops-hq/career-ops",
+    "number": 3880,
+    "title": "CI: refuse to merge while a PR named under a \"Depends on\" heading is still open",
+    "url": "https://github.com/career-ops-hq/career-ops/issues/3880",
+    "comments": 0,
+    "createdAt": "2026-09-05T15:40:43Z",
+    "labels": [
+      "help wanted",
+      "⚙️ ci"
+    ],
+    "language": "javascript",
+    "stars": 69868,
+    "foundAt": "2026-09-05T16:08:59.791Z"
+  },
+  {
+    "key": "maillab/cloud-mail#566",
+    "tier": 2,
+    "repo": "maillab/cloud-mail",
+    "number": 566,
+    "title": "[Help] 为什么？迁移会登录六位密码会报错",
+    "url": "https://github.com/maillab/cloud-mail/issues/566",
+    "comments": 0,
+    "createdAt": "2026-09-05T13:22:51Z",
+    "labels": [
+      "help wanted"
+    ],
+    "language": "javascript",
+    "stars": 13972,
+    "foundAt": "2026-09-05T16:08:59.972Z"
+  },
+  {
+    "key": "srbhr/Resume-Matcher#975",
+    "tier": 3,
+    "repo": "srbhr/Resume-Matcher",
+    "number": 975,
+    "title": "Follow up PR #929: preserve supported GPT-5 temperatures and verify request behavior",
+    "url": "https://github.com/srbhr/Resume-Matcher/issues/975",
+    "comments": 1,
+    "createdAt": "2026-09-05T16:08:04Z",
+    "labels": [
+      "bug",
+      "documentation",
+      "backend",
+      "ai",
+      "needs-triage"
+    ],
+    "language": "typescript",
+    "stars": 28334,
+    "foundAt": "2026-09-05T16:09:00.342Z"
+  },
+  {
+    "key": "xinnan-tech/xiaozhi-esp32-server#3354",
+    "tier": 3,
+    "repo": "xinnan-tech/xiaozhi-esp32-server",
+    "number": 3354,
+    "title": "[Docs] 建议修改docs/mcp-vision-integration.md中的错别字",
+    "url": "https://github.com/xinnan-tech/xiaozhi-esp32-server/issues/3354",
+    "comments": 0,
+    "createdAt": "2026-09-05T15:39:58Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "javascript",
+    "stars": 10514,
+    "foundAt": "2026-09-05T16:09:03.706Z"
+  },
+  {
+    "key": "srbhr/Resume-Matcher#974",
+    "tier": 3,
+    "repo": "srbhr/Resume-Matcher",
+    "number": 974,
+    "title": "[Docs]: Align storage, retry and validation documentation with current behavior",
+    "url": "https://github.com/srbhr/Resume-Matcher/issues/974",
+    "comments": 1,
+    "createdAt": "2026-09-05T15:05:22Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "tooling",
+      "needs-triage"
+    ],
+    "language": "typescript",
+    "stars": 28334,
+    "foundAt": "2026-09-05T16:09:02.517Z"
+  },
+  {
+    "key": "cnighswonger/claude-code-cache-fix#364",
+    "tier": 3,
+    "repo": "cnighswonger/claude-code-cache-fix",
+    "number": 364,
+    "title": "docs(WORKAROUND_CATALOG): add durable-snapshot + touch-refresh workaround stack for CC#41458 (session-JSONL loss)",
+    "url": "https://github.com/cnighswonger/claude-code-cache-fix/issues/364",
+    "comments": 0,
+    "createdAt": "2026-09-05T14:46:53Z",
+    "labels": [
+      "documentation",
+      "P2",
+      "plan-approved"
+    ],
+    "language": "javascript",
+    "stars": 429,
+    "foundAt": "2026-09-05T16:09:04.511Z"
+  },
+  {
     "key": "libredb/libredb-studio#570",
     "tier": 1,
     "repo": "libredb/libredb-studio",
@@ -1494,361 +1878,5 @@
     "language": "typescript",
     "stars": 34329,
     "foundAt": "2026-09-04T21:36:12.067Z"
-  },
-  {
-    "key": "backstage/backstage#35473",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35473,
-    "title": "Snyk vulnerability [SNYK-JS-UNDICI-18426067]",
-    "url": "https://github.com/backstage/backstage/issues/35473",
-    "comments": 0,
-    "createdAt": "2026-09-04T20:07:13Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-04T21:36:12.067Z"
-  },
-  {
-    "key": "backstage/backstage#35471",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35471,
-    "title": "Snyk vulnerability [SNYK-JS-UNDICI-18426063]",
-    "url": "https://github.com/backstage/backstage/issues/35471",
-    "comments": 0,
-    "createdAt": "2026-09-04T20:07:12Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-04T21:36:12.067Z"
-  },
-  {
-    "key": "backstage/backstage#35470",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35470,
-    "title": "Snyk vulnerability [SNYK-JS-UNDICI-18426061]",
-    "url": "https://github.com/backstage/backstage/issues/35470",
-    "comments": 0,
-    "createdAt": "2026-09-04T20:07:12Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-04T21:36:12.067Z"
-  },
-  {
-    "key": "backstage/backstage#35469",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35469,
-    "title": "Snyk vulnerability [SNYK-JS-UNDICI-17372758]",
-    "url": "https://github.com/backstage/backstage/issues/35469",
-    "comments": 0,
-    "createdAt": "2026-09-04T20:07:11Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-04T21:36:12.067Z"
-  },
-  {
-    "key": "backstage/backstage#35467",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35467,
-    "title": "Snyk vulnerability [SNYK-JS-UNDICI-17372752]",
-    "url": "https://github.com/backstage/backstage/issues/35467",
-    "comments": 0,
-    "createdAt": "2026-09-04T20:07:10Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-04T21:36:12.067Z"
-  },
-  {
-    "key": "backstage/backstage#35468",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35468,
-    "title": "Snyk vulnerability [SNYK-JS-UNDICI-17372754]",
-    "url": "https://github.com/backstage/backstage/issues/35468",
-    "comments": 0,
-    "createdAt": "2026-09-04T20:07:10Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-04T21:36:12.067Z"
-  },
-  {
-    "key": "backstage/backstage#35465",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35465,
-    "title": "Snyk vulnerability [SNYK-JS-UNDICI-17372667]",
-    "url": "https://github.com/backstage/backstage/issues/35465",
-    "comments": 0,
-    "createdAt": "2026-09-04T20:07:09Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-04T21:36:12.067Z"
-  },
-  {
-    "key": "backstage/backstage#35466",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35466,
-    "title": "Snyk vulnerability [SNYK-JS-UNDICI-17372697]",
-    "url": "https://github.com/backstage/backstage/issues/35466",
-    "comments": 0,
-    "createdAt": "2026-09-04T20:07:09Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-04T21:36:12.067Z"
-  },
-  {
-    "key": "backstage/backstage#35463",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35463,
-    "title": "Snyk vulnerability [SNYK-JS-UNDICI-17372609]",
-    "url": "https://github.com/backstage/backstage/issues/35463",
-    "comments": 0,
-    "createdAt": "2026-09-04T20:07:08Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-04T21:36:12.067Z"
-  },
-  {
-    "key": "backstage/backstage#35464",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35464,
-    "title": "Snyk vulnerability [SNYK-JS-UNDICI-17372658]",
-    "url": "https://github.com/backstage/backstage/issues/35464",
-    "comments": 0,
-    "createdAt": "2026-09-04T20:07:08Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-04T21:36:12.067Z"
-  },
-  {
-    "key": "backstage/backstage#35461",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35461,
-    "title": "Snyk vulnerability [SNYK-JS-TAR-17909225]",
-    "url": "https://github.com/backstage/backstage/issues/35461",
-    "comments": 0,
-    "createdAt": "2026-09-04T20:07:07Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-04T21:36:12.067Z"
-  },
-  {
-    "key": "backstage/backstage#35462",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35462,
-    "title": "Snyk vulnerability [SNYK-JS-TAR-18319500]",
-    "url": "https://github.com/backstage/backstage/issues/35462",
-    "comments": 0,
-    "createdAt": "2026-09-04T20:07:07Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-04T21:36:12.067Z"
-  },
-  {
-    "key": "backstage/backstage#35460",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35460,
-    "title": "Snyk vulnerability [SNYK-JS-TAR-17909152]",
-    "url": "https://github.com/backstage/backstage/issues/35460",
-    "comments": 0,
-    "createdAt": "2026-09-04T20:07:06Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-04T21:36:12.067Z"
-  },
-  {
-    "key": "halofyai/halofy#25",
-    "tier": 3,
-    "repo": "halofyai/halofy",
-    "number": 25,
-    "title": "docs: Free tier shows \"Opensource Soon\" but lists open-source features as included",
-    "url": "https://github.com/halofyai/halofy/issues/25",
-    "comments": 0,
-    "createdAt": "2026-09-04T20:50:40Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "typescript",
-    "stars": 422,
-    "foundAt": "2026-09-04T21:36:15.658Z"
-  },
-  {
-    "key": "career-ops-hq/career-ops#3835",
-    "tier": 3,
-    "repo": "career-ops-hq/career-ops",
-    "number": 3835,
-    "title": "Credit: not in .all-contributorsrc or CONTRIBUTORS.md after 8 merged PRs",
-    "url": "https://github.com/career-ops-hq/career-ops/issues/3835",
-    "comments": 0,
-    "createdAt": "2026-09-04T18:31:30Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "javascript",
-    "stars": 69868,
-    "foundAt": "2026-09-04T21:36:17.054Z"
-  },
-  {
-    "key": "career-ops-hq/career-ops#3832",
-    "tier": 3,
-    "repo": "career-ops-hq/career-ops",
-    "number": 3832,
-    "title": "Governance: the contributor ladder is specified five incompatible ways, and the file the org announcement points at matches none of them",
-    "url": "https://github.com/career-ops-hq/career-ops/issues/3832",
-    "comments": 0,
-    "createdAt": "2026-09-04T18:19:41Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "javascript",
-    "stars": 69868,
-    "foundAt": "2026-09-04T21:36:17.054Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29773",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29773,
-    "title": "[Good First Issue] 🏯 Add new Learner Mistake 18 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29773",
-    "comments": 1,
-    "createdAt": "2026-09-04T18:01:00Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-04T18:30:50.619Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29772",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29772,
-    "title": "[Good First Issue] 🗾 Add new Example Sentence 20 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29772",
-    "comments": 1,
-    "createdAt": "2026-09-04T17:37:32Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-04T18:30:50.874Z"
-  },
-  {
-    "key": "nexu-io/open-design#7775",
-    "tier": 1,
-    "repo": "nexu-io/open-design",
-    "number": 7775,
-    "title": "[Bug]: duplicate 'web-clone' chip in HOME_HERO_CHIPS — one copy silently opts out of automatic-default binding",
-    "url": "https://github.com/nexu-io/open-design/issues/7775",
-    "comments": 4,
-    "createdAt": "2026-09-04T17:23:26Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 94056,
-    "foundAt": "2026-09-04T18:30:51.456Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29771",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29771,
-    "title": "[Good First Issue] 🐉 Add new False Friend Pair 10 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29771",
-    "comments": 1,
-    "createdAt": "2026-09-04T17:01:01Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-04T18:30:51.673Z"
   }
 ]
