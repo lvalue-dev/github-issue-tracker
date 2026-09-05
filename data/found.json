@@ -1,5 +1,114 @@
 [
   {
+    "key": "lingdojo/kana-dojo#29807",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29807,
+    "title": "[Good First Issue] 🗻 Add new Wallpaper URL #1 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29807",
+    "comments": 1,
+    "createdAt": "2026-09-05T09:00:58Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-05T09:11:09.648Z"
+  },
+  {
+    "key": "layer5io/layer5#8020",
+    "tier": 2,
+    "repo": "layer5io/layer5",
+    "number": 8020,
+    "title": "[Performance] Reduce Homepage Bundle Size from Inactive Rotational Banners",
+    "url": "https://github.com/layer5io/layer5/issues/8020",
+    "comments": 0,
+    "createdAt": "2026-09-05T09:02:48Z",
+    "labels": [
+      "help wanted",
+      "kind/chore"
+    ],
+    "language": "javascript",
+    "stars": 1115,
+    "foundAt": "2026-09-05T09:11:10.565Z"
+  },
+  {
+    "key": "layer5io/layer5#8019",
+    "tier": 2,
+    "repo": "layer5io/layer5",
+    "number": 8019,
+    "title": "[Performance] Reduce Homepage Total Blocking Time from Unnecessary Search Indexing in IntegrationsGrid",
+    "url": "https://github.com/layer5io/layer5/issues/8019",
+    "comments": 0,
+    "createdAt": "2026-09-05T08:52:22Z",
+    "labels": [
+      "help wanted",
+      "kind/chore"
+    ],
+    "language": "javascript",
+    "stars": 1115,
+    "foundAt": "2026-09-05T09:11:10.565Z"
+  },
+  {
+    "key": "layer5io/layer5#8018",
+    "tier": 2,
+    "repo": "layer5io/layer5",
+    "number": 8018,
+    "title": "[Performance] Eliminate Cumulative Layout Shifts from Partners Carousel and Features SVGs",
+    "url": "https://github.com/layer5io/layer5/issues/8018",
+    "comments": 0,
+    "createdAt": "2026-09-05T08:45:52Z",
+    "labels": [
+      "help wanted",
+      "kind/chore"
+    ],
+    "language": "javascript",
+    "stars": 1115,
+    "foundAt": "2026-09-05T09:11:10.565Z"
+  },
+  {
+    "key": "layer5io/layer5#8017",
+    "tier": 2,
+    "repo": "layer5io/layer5",
+    "number": 8017,
+    "title": "[Performance] Eliminate Desktop LCP Delay by Pre-rendering Hero Video Thumbnail in SSR",
+    "url": "https://github.com/layer5io/layer5/issues/8017",
+    "comments": 1,
+    "createdAt": "2026-09-05T07:49:59Z",
+    "labels": [
+      "help wanted",
+      "kind/chore"
+    ],
+    "language": "javascript",
+    "stars": 1115,
+    "foundAt": "2026-09-05T09:11:10.565Z"
+  },
+  {
+    "key": "cpinitiative/usaco-guide#6581",
+    "tier": 3,
+    "repo": "cpinitiative/usaco-guide",
+    "number": 6581,
+    "title": "Contact Form Submission - Request - Missing Section or Solution (Platinum - Range Queries with Sweep Line)",
+    "url": "https://github.com/cpinitiative/usaco-guide/issues/6581",
+    "comments": 0,
+    "createdAt": "2026-09-05T08:33:41Z",
+    "labels": [
+      "good first issue",
+      "content"
+    ],
+    "language": "mdx",
+    "stars": 1843,
+    "foundAt": "2026-09-05T09:11:13.698Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#29796",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1755,124 +1864,5 @@
     "language": "typescript",
     "stars": 5255,
     "foundAt": "2026-09-04T14:26:31.026Z"
-  },
-  {
-    "key": "libredb/libredb-studio#553",
-    "tier": 2,
-    "repo": "libredb/libredb-studio",
-    "number": 553,
-    "title": "Geist never applies: the app renders in the system font",
-    "url": "https://github.com/libredb/libredb-studio/issues/553",
-    "comments": 0,
-    "createdAt": "2026-09-04T13:39:41Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 402,
-    "foundAt": "2026-09-04T14:26:35.484Z"
-  },
-  {
-    "key": "wazuh/wazuh-documentation#10068",
-    "tier": 3,
-    "repo": "wazuh/wazuh-documentation",
-    "number": 10068,
-    "title": "The statistics-files reference documents a msg_sent that 5.x does not report",
-    "url": "https://github.com/wazuh/wazuh-documentation/issues/10068",
-    "comments": 0,
-    "createdAt": "2026-09-04T14:15:10Z",
-    "labels": [
-      "user manual",
-      "module/remoted",
-      "documentation",
-      "type/bug",
-      "module/agent",
-      "v5.0"
-    ],
-    "language": "javascript",
-    "stars": 267,
-    "foundAt": "2026-09-04T14:26:41.922Z"
-  },
-  {
-    "key": "neomjs/neo#18282",
-    "tier": 3,
-    "repo": "neomjs/neo",
-    "number": 18282,
-    "title": "GitHub topics still carry the monorepo-era Brain terms — re-topic the engine as the Body",
-    "url": "https://github.com/neomjs/neo/issues/18282",
-    "comments": 0,
-    "createdAt": "2026-09-04T13:53:04Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "ai"
-    ],
-    "language": "javascript",
-    "stars": 3265,
-    "foundAt": "2026-09-04T14:26:43.081Z"
-  },
-  {
-    "key": "lis186/ccxray#629",
-    "tier": 3,
-    "repo": "lis186/ccxray",
-    "number": 629,
-    "title": "release: 3.0.0 (or owner's number) — #627 breaks the multi-cwd usage --json shape",
-    "url": "https://github.com/lis186/ccxray/issues/629",
-    "comments": 0,
-    "createdAt": "2026-09-04T11:36:58Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "javascript",
-    "stars": 292,
-    "foundAt": "2026-09-04T14:26:43.971Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29747",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29747,
-    "title": "[Good First Issue] 🎋 Add new Etiquette Tip 32 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29747",
-    "comments": 1,
-    "createdAt": "2026-09-04T09:37:39Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-04T09:46:18.779Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29745",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29745,
-    "title": "[Good First Issue] 🍚 Add new False Friend Pair 102 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29745",
-    "comments": 1,
-    "createdAt": "2026-09-04T09:01:06Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-04T09:46:19.028Z"
   }
 ]

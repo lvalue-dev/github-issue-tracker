@@ -4,6 +4,12 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-05 | 🥇 | [[Good First Issue] 🗻 Add new Wallpaper URL #1 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29807) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-05 | 🥈 | [[Performance] Reduce Homepage Bundle Size from Inactive Rotational Banners](https://github.com/layer5io/layer5/issues/8020) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-05 | 🥈 | [[Performance] Reduce Homepage Total Blocking Time from Unnecessary Search Indexi](https://github.com/layer5io/layer5/issues/8019) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-05 | 🥈 | [[Performance] Eliminate Cumulative Layout Shifts from Partners Carousel and Feat](https://github.com/layer5io/layer5/issues/8018) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-05 | 🥈 | [[Performance] Eliminate Desktop LCP Delay by Pre-rendering Hero Video Thumbnail ](https://github.com/layer5io/layer5/issues/8017) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-05 | 🥉 | [Contact Form Submission - Request - Missing Section or Solution (Platinum - Rang](https://github.com/cpinitiative/usaco-guide/issues/6581) | `cpinitiative/usaco-guide` | ⭐ 1.8k |
 | 2026-09-05 | 🥇 | [[Good First Issue] 🪭 Add new Trivia Question 103 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29796) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-05 | 🥇 | [set-status.mjs: the JSON result must be the last thing on stdout, and nothing pi](https://github.com/career-ops-hq/career-ops/issues/3855) | `career-ops-hq/career-ops` | ⭐ 69.9k |
 | 2026-09-05 | 🥇 | [[Good First Issue] 🐙 Add new Japanese Proverb 148 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29793) | `lingdojo/kana-dojo` | ⭐ 3.3k |
@@ -98,9 +104,3 @@
 | 2026-09-04 | 🥇 | [Pin LF for every text file in .gitattributes](https://github.com/libredb/libredb-studio/issues/554) | `libredb/libredb-studio` | ⭐ 402 |
 | 2026-09-04 | 🥇 | [[Good First Issue] 🍤 Add new Japanese Haiku 1 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29757) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-04 | 🥇 | [[BUG] Edge Dev 154 上所有用户脚本静默失效：早退守卫未校验 chrome.scripting 注册，scriptcat-scripting 丢](https://github.com/scriptscat/scriptcat/issues/1724) | `scriptscat/scriptcat` | ⭐ 5.3k |
-| 2026-09-04 | 🥈 | [Geist never applies: the app renders in the system font](https://github.com/libredb/libredb-studio/issues/553) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-04 | 🥉 | [The statistics-files reference documents a msg_sent that 5.x does not report](https://github.com/wazuh/wazuh-documentation/issues/10068) | `wazuh/wazuh-documentation` | ⭐ 267 |
-| 2026-09-04 | 🥉 | [GitHub topics still carry the monorepo-era Brain terms — re-topic the engine as ](https://github.com/neomjs/neo/issues/18282) | `neomjs/neo` | ⭐ 3.3k |
-| 2026-09-04 | 🥉 | [release: 3.0.0 (or owner's number) — #627 breaks the multi-cwd usage --json shap](https://github.com/lis186/ccxray/issues/629) | `lis186/ccxray` | ⭐ 292 |
-| 2026-09-04 | 🥇 | [[Good First Issue] 🎋 Add new Etiquette Tip 32 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29747) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-04 | 🥇 | [[Good First Issue] 🍚 Add new False Friend Pair 102 - Beginner-Friendly Open-sou](https://github.com/lingdojo/kana-dojo/issues/29745) | `lingdojo/kana-dojo` | ⭐ 3.3k |
