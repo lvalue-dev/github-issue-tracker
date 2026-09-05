@@ -1,5 +1,211 @@
 [
   {
+    "key": "lingdojo/kana-dojo#29839",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29839,
+    "title": "[Good First Issue] 🍱 Add new Dialect Entry 49 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29839",
+    "comments": 1,
+    "createdAt": "2026-09-05T21:00:58Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-05T21:24:46.874Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29838",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29838,
+    "title": "[Good First Issue] 🍶 Add new Japanese Idiom 35 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29838",
+    "comments": 1,
+    "createdAt": "2026-09-05T20:37:31Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-05T21:24:46.874Z"
+  },
+  {
+    "key": "OWASP/cve-lite-cli#1090",
+    "tier": 1,
+    "repo": "OWASP/cve-lite-cli",
+    "number": 1090,
+    "title": "test: add coverage for the config subcommand (show, set, unset)",
+    "url": "https://github.com/OWASP/cve-lite-cli/issues/1090",
+    "comments": 0,
+    "createdAt": "2026-09-05T20:17:06Z",
+    "labels": [
+      "help wanted",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 681,
+    "foundAt": "2026-09-05T21:24:47.045Z"
+  },
+  {
+    "key": "OWASP/cve-lite-cli#1088",
+    "tier": 1,
+    "repo": "OWASP/cve-lite-cli",
+    "number": 1088,
+    "title": "test: add coverage for phantom-utils (getDeclaredPackages and installCmd)",
+    "url": "https://github.com/OWASP/cve-lite-cli/issues/1088",
+    "comments": 0,
+    "createdAt": "2026-09-05T20:16:37Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 681,
+    "foundAt": "2026-09-05T21:24:47.045Z"
+  },
+  {
+    "key": "OWASP/cve-lite-cli#1087",
+    "tier": 1,
+    "repo": "OWASP/cve-lite-cli",
+    "number": 1087,
+    "title": "test: pin semver build-metadata handling and exercise the real versionMatchesRange path",
+    "url": "https://github.com/OWASP/cve-lite-cli/issues/1087",
+    "comments": 2,
+    "createdAt": "2026-09-05T20:01:33Z",
+    "labels": [
+      "help wanted",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 681,
+    "foundAt": "2026-09-05T21:24:47.045Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29837",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29837,
+    "title": "[Good First Issue] 🪭 Add new Video Game Quote 89 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29837",
+    "comments": 1,
+    "createdAt": "2026-09-05T20:01:00Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-05T21:24:47.045Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29836",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29836,
+    "title": "[Good First Issue] 🍥 Add new Anime Quote 17 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29836",
+    "comments": 1,
+    "createdAt": "2026-09-05T19:37:36Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-05T21:24:47.687Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29835",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29835,
+    "title": "[Good First Issue] 🏮 Add new Grammar Point 52 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29835",
+    "comments": 1,
+    "createdAt": "2026-09-05T19:00:59Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-05T21:24:47.687Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29834",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29834,
+    "title": "[Good First Issue] 🌸 Add new Trivia Question 18 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29834",
+    "comments": 1,
+    "createdAt": "2026-09-05T18:37:34Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-05T21:24:47.889Z"
+  },
+  {
+    "key": "maillab/cloud-mail#567",
+    "tier": 2,
+    "repo": "maillab/cloud-mail",
+    "number": 567,
+    "title": "[Help] worker配置了admin，但部署登录后，admin是普通用户，没有系统设置！",
+    "url": "https://github.com/maillab/cloud-mail/issues/567",
+    "comments": 0,
+    "createdAt": "2026-09-05T19:02:10Z",
+    "labels": [
+      "help wanted"
+    ],
+    "language": "javascript",
+    "stars": 13972,
+    "foundAt": "2026-09-05T21:24:48.986Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#29832",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1705,204 +1911,5 @@
     "language": "typescript",
     "stars": 34329,
     "foundAt": "2026-09-05T00:13:17.414Z"
-  },
-  {
-    "key": "backstage/backstage#35506",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35506,
-    "title": "Snyk vulnerability [SNYK-JS-HONO-19499091]",
-    "url": "https://github.com/backstage/backstage/issues/35506",
-    "comments": 0,
-    "createdAt": "2026-09-05T00:10:44Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-05T00:13:17.414Z"
-  },
-  {
-    "key": "backstage/backstage#35507",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35507,
-    "title": "Snyk vulnerability [SNYK-JS-HONO-19499093]",
-    "url": "https://github.com/backstage/backstage/issues/35507",
-    "comments": 0,
-    "createdAt": "2026-09-05T00:10:44Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-05T00:13:17.414Z"
-  },
-  {
-    "key": "backstage/backstage#35504",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35504,
-    "title": "Snyk vulnerability [SNYK-JS-FORMDATA-17337015]",
-    "url": "https://github.com/backstage/backstage/issues/35504",
-    "comments": 0,
-    "createdAt": "2026-09-05T00:10:43Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-05T00:13:17.414Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29779",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29779,
-    "title": "[Good First Issue] 🏯 Add new Japanese Haiku 2 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29779",
-    "comments": 1,
-    "createdAt": "2026-09-04T21:00:59Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-04T21:36:09.714Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29776",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29776,
-    "title": "[Good First Issue] 🍤 Add new Theme: Hanabi Festival - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29776",
-    "comments": 1,
-    "createdAt": "2026-09-04T19:37:31Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-04T21:36:10.558Z"
-  },
-  {
-    "key": "Doezer/Questarr#990",
-    "tier": 1,
-    "repo": "Doezer/Questarr",
-    "number": 990,
-    "title": "Bug: Mobile game details sheet auto-focuses notes textarea, opening keyboard",
-    "url": "https://github.com/Doezer/Questarr/issues/990",
-    "comments": 1,
-    "createdAt": "2026-09-04T19:13:03Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "priority:low",
-      "area:ui",
-      "platform:ios"
-    ],
-    "language": "typescript",
-    "stars": 608,
-    "foundAt": "2026-09-04T21:36:11.132Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29775",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29775,
-    "title": "[Good First Issue] 🎴 Add new Community Note Line #2 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29775",
-    "comments": 1,
-    "createdAt": "2026-09-04T19:01:02Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-04T21:36:11.424Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29774",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29774,
-    "title": "[Good First Issue] 🐡 Add new Wallpaper URL #4 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29774",
-    "comments": 1,
-    "createdAt": "2026-09-04T18:37:32Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-04T21:36:11.424Z"
-  },
-  {
-    "key": "backstage/backstage#35486",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35486,
-    "title": "Snyk vulnerability [SNYK-JS-BACKSTAGEPLUGINAPPBACKEND-8163063]",
-    "url": "https://github.com/backstage/backstage/issues/35486",
-    "comments": 0,
-    "createdAt": "2026-09-04T20:07:20Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-04T21:36:12.067Z"
-  },
-  {
-    "key": "backstage/backstage#35483",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35483,
-    "title": "Snyk vulnerability [SNYK-JS-BACKSTAGEBACKENDDEFAULTS-15054278]",
-    "url": "https://github.com/backstage/backstage/issues/35483",
-    "comments": 0,
-    "createdAt": "2026-09-04T20:07:19Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-04T21:36:12.067Z"
   }
 ]

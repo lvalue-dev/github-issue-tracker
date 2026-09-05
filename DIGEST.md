@@ -4,6 +4,16 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-05 | 🥇 | [[Good First Issue] 🍱 Add new Dialect Entry 49 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29839) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-05 | 🥇 | [[Good First Issue] 🍶 Add new Japanese Idiom 35 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29838) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-05 | 🥇 | [test: add coverage for the config subcommand (show, set, unset)](https://github.com/OWASP/cve-lite-cli/issues/1090) | `OWASP/cve-lite-cli` | ⭐ 681 |
+| 2026-09-05 | 🥇 | [test: add coverage for phantom-utils (getDeclaredPackages and installCmd)](https://github.com/OWASP/cve-lite-cli/issues/1088) | `OWASP/cve-lite-cli` | ⭐ 681 |
+| 2026-09-05 | 🥇 | [test: pin semver build-metadata handling and exercise the real versionMatchesRan](https://github.com/OWASP/cve-lite-cli/issues/1087) | `OWASP/cve-lite-cli` | ⭐ 681 |
+| 2026-09-05 | 🥇 | [[Good First Issue] 🪭 Add new Video Game Quote 89 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29837) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-05 | 🥇 | [[Good First Issue] 🍥 Add new Anime Quote 17 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29836) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-05 | 🥇 | [[Good First Issue] 🏮 Add new Grammar Point 52 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29835) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-05 | 🥇 | [[Good First Issue] 🌸 Add new Trivia Question 18 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29834) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-05 | 🥈 | [[Help] worker配置了admin，但部署登录后，admin是普通用户，没有系统设置！](https://github.com/maillab/cloud-mail/issues/567) | `maillab/cloud-mail` | ⭐ 14.0k |
 | 2026-09-05 | 🥇 | [[Good First Issue] 🎎 Add new Japan Fact 134 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29832) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-05 | 🥇 | [[Good First Issue] 🎍 Add new Theme: Inkstone - Beginner-Friendly Open-source Co](https://github.com/lingdojo/kana-dojo/issues/29831) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-05 | 🥈 | [[Discussion]: Why was the global memory feature from 1.9.x removed in version 2.](https://github.com/CherryHQ/cherry-studio/issues/20081) | `CherryHQ/cherry-studio` | ⭐ 51.5k |
@@ -94,13 +104,3 @@
 | 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-IPADDRESS-18516625]](https://github.com/backstage/backstage/issues/35510) | `backstage/backstage` | ⭐ 34.3k |
 | 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-IPADDRESS-18343249]](https://github.com/backstage/backstage/issues/35509) | `backstage/backstage` | ⭐ 34.3k |
 | 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-HONO-19499068]](https://github.com/backstage/backstage/issues/35505) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-HONO-19499091]](https://github.com/backstage/backstage/issues/35506) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-HONO-19499093]](https://github.com/backstage/backstage/issues/35507) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-FORMDATA-17337015]](https://github.com/backstage/backstage/issues/35504) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-04 | 🥇 | [[Good First Issue] 🏯 Add new Japanese Haiku 2 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29779) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-04 | 🥇 | [[Good First Issue] 🍤 Add new Theme: Hanabi Festival - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29776) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-04 | 🥇 | [Bug: Mobile game details sheet auto-focuses notes textarea, opening keyboard](https://github.com/Doezer/Questarr/issues/990) | `Doezer/Questarr` | ⭐ 608 |
-| 2026-09-04 | 🥇 | [[Good First Issue] 🎴 Add new Community Note Line #2 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29775) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-04 | 🥇 | [[Good First Issue] 🐡 Add new Wallpaper URL #4 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29774) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-BACKSTAGEPLUGINAPPBACKEND-8163063]](https://github.com/backstage/backstage/issues/35486) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-04 | 🥈 | [Snyk vulnerability [SNYK-JS-BACKSTAGEBACKENDDEFAULTS-15054278]](https://github.com/backstage/backstage/issues/35483) | `backstage/backstage` | ⭐ 34.3k |
