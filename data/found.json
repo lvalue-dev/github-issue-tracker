@@ -1,5 +1,99 @@
 [
   {
+    "key": "lingdojo/kana-dojo#29847",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29847,
+    "title": "[Good First Issue] 🍣 Add new Japan Fact 56 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29847",
+    "comments": 1,
+    "createdAt": "2026-09-06T01:00:57Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-06T01:07:37.210Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29846",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29846,
+    "title": "[Good First Issue] 🎏 Add new Theme: Poppy Udon - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29846",
+    "comments": 1,
+    "createdAt": "2026-09-06T00:37:32Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-06T01:07:37.636Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29845",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29845,
+    "title": "[Good First Issue] 🍛 Add new Community Note Line #5 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29845",
+    "comments": 1,
+    "createdAt": "2026-09-06T00:01:05Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-06T01:07:37.637Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29844",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29844,
+    "title": "[Good First Issue] 🥢 Add new Wallpaper URL #2 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29844",
+    "comments": 1,
+    "createdAt": "2026-09-05T23:37:33Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-06T01:07:37.637Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#29843",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1860,74 +1954,6 @@
     "url": "https://github.com/backstage/backstage/issues/35516",
     "comments": 0,
     "createdAt": "2026-09-05T00:10:48Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-05T00:13:17.414Z"
-  },
-  {
-    "key": "backstage/backstage#35514",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35514,
-    "title": "Snyk vulnerability [SNYK-JS-MULTER-19432136]",
-    "url": "https://github.com/backstage/backstage/issues/35514",
-    "comments": 0,
-    "createdAt": "2026-09-05T00:10:47Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-05T00:13:17.414Z"
-  },
-  {
-    "key": "backstage/backstage#35513",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35513,
-    "title": "Snyk vulnerability [SNYK-JS-MULTER-19432134]",
-    "url": "https://github.com/backstage/backstage/issues/35513",
-    "comments": 0,
-    "createdAt": "2026-09-05T00:10:47Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-05T00:13:17.414Z"
-  },
-  {
-    "key": "backstage/backstage#35511",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35511,
-    "title": "Snyk vulnerability [SNYK-JS-MULTER-19432021]",
-    "url": "https://github.com/backstage/backstage/issues/35511",
-    "comments": 0,
-    "createdAt": "2026-09-05T00:10:46Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-05T00:13:17.414Z"
-  },
-  {
-    "key": "backstage/backstage#35512",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35512,
-    "title": "Snyk vulnerability [SNYK-JS-MULTER-19432131]",
-    "url": "https://github.com/backstage/backstage/issues/35512",
-    "comments": 0,
-    "createdAt": "2026-09-05T00:10:46Z",
     "labels": [
       "snyk-vulnerability",
       "help wanted"
