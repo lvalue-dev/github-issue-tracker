@@ -4,6 +4,18 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-06 | 🥇 | [[Good First Issue] 🌋 Add new False Friend Pair 42 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29883) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-06 | 🥇 | [[Good First Issue] ⛩️ Add new Dialect Entry 103 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29881) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-06 | 🥇 | [[Good First Issue] 🀄 Add new Video Game Quote 38 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29878) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-06 | 🥇 | [Add theme and language controls as right justified elements to the page breadcru](https://github.com/activist-org/activist/issues/2386) | `activist-org/activist` | ⭐ 741 |
+| 2026-09-06 | 🥇 | [[Good First Issue] 🍢 Add new Anime Quote 20 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29877) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-06 | 🥇 | [[Good First Issue] 🍡 Add new Grammar Point 120 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29876) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-06 | 🥈 | [feat(fallback): CLI 限额后自动 @ 备用 Bot 接手](https://github.com/deepcoldy/botmux/issues/1282) | `deepcoldy/botmux` | ⭐ 1.4k |
+| 2026-09-06 | 🥈 | [LaTeX 编辑器：命令/环境补全 + 项目文献 \cite 补全](https://github.com/1692775560/dsh-Mimir-Academic-research/issues/154) | `1692775560/dsh-Mimir-Academic-research` | ⭐ 212 |
+| 2026-09-06 | 🥈 | [阅读→写作管线：引用卡片到 related work 草稿](https://github.com/1692775560/dsh-Mimir-Academic-research/issues/153) | `1692775560/dsh-Mimir-Academic-research` | ⭐ 212 |
+| 2026-09-06 | 🥈 | [实验自动收录（第一阶段）：盯服务器训练任务，指标落进实验记录](https://github.com/1692775560/dsh-Mimir-Academic-research/issues/152) | `1692775560/dsh-Mimir-Academic-research` | ⭐ 212 |
+| 2026-09-06 | 🥈 | [Zotero 双向同步：把 Mimir 整理的合集推回 Zotero](https://github.com/1692775560/dsh-Mimir-Academic-research/issues/151) | `1692775560/dsh-Mimir-Academic-research` | ⭐ 212 |
+| 2026-09-06 | 🥈 | [test-all: a leftover .tmp-script-test-* scratch copy turns the next local run re](https://github.com/career-ops-hq/career-ops/issues/3940) | `career-ops-hq/career-ops` | ⭐ 69.9k |
 | 2026-09-06 | 🥇 | [[Good First Issue] 🎍 Add new Trivia Question 56 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29875) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-06 | 🥇 | [[Good First Issue] 🗾 Add new Japanese Haiku 11 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29874) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-06 | 🥇 | [[Good First Issue] 🍡 Add new Japanese Proverb 180 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29873) | `lingdojo/kana-dojo` | ⭐ 3.3k |
@@ -92,15 +104,3 @@
 | 2026-09-05 | 🥇 | [[Good First Issue] 🍘 Add new Learner Mistake 27 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29843) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-05 | 🥇 | [[Good First Issue] 🎍 Add new Example Sentence 89 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29842) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-05 | 🥇 | [[Good First Issue] 🍣 Add new Etiquette Tip 80 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29841) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-05 | 🥇 | [[Good First Issue] 🏮 Add new False Friend Pair 103 - Beginner-Friendly Open-sou](https://github.com/lingdojo/kana-dojo/issues/29840) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-05 | 🥇 | [[Good First Issue] 🍱 Add new Dialect Entry 49 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29839) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-05 | 🥇 | [[Good First Issue] 🍶 Add new Japanese Idiom 35 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29838) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-05 | 🥇 | [test: add coverage for the config subcommand (show, set, unset)](https://github.com/OWASP/cve-lite-cli/issues/1090) | `OWASP/cve-lite-cli` | ⭐ 681 |
-| 2026-09-05 | 🥇 | [test: add coverage for phantom-utils (getDeclaredPackages and installCmd)](https://github.com/OWASP/cve-lite-cli/issues/1088) | `OWASP/cve-lite-cli` | ⭐ 681 |
-| 2026-09-05 | 🥇 | [test: pin semver build-metadata handling and exercise the real versionMatchesRan](https://github.com/OWASP/cve-lite-cli/issues/1087) | `OWASP/cve-lite-cli` | ⭐ 681 |
-| 2026-09-05 | 🥇 | [[Good First Issue] 🪭 Add new Video Game Quote 89 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29837) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-05 | 🥇 | [[Good First Issue] 🍥 Add new Anime Quote 17 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29836) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-05 | 🥇 | [[Good First Issue] 🏮 Add new Grammar Point 52 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29835) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-05 | 🥇 | [[Good First Issue] 🌸 Add new Trivia Question 18 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29834) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-05 | 🥈 | [[Help] worker配置了admin，但部署登录后，admin是普通用户，没有系统设置！](https://github.com/maillab/cloud-mail/issues/567) | `maillab/cloud-mail` | ⭐ 14.0k |
-| 2026-09-05 | 🥇 | [[Good First Issue] 🎎 Add new Japan Fact 134 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29832) | `lingdojo/kana-dojo` | ⭐ 3.3k |
