@@ -4,6 +4,12 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-06 | 🥇 | [[Good First Issue] 🥟 Add new Wallpaper URL #2 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29887) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-06 | 🥇 | [[Good First Issue] 🍤 Add new Learner Mistake 19 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29886) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-06 | 🥇 | [[Good First Issue] 🍁 Add new Example Sentence 62 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29885) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-06 | 🥇 | [[Good First Issue] 🌸 Add new Etiquette Tip 82 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29884) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-06 | 🥇 | [There is no actual eval runner](https://github.com/WordPress/agent-skills/issues/101) | `WordPress/agent-skills` | ⭐ 2.1k |
+| 2026-09-06 | 🥈 | [[HELP]](https://github.com/remittor/zapret-openwrt/issues/845) | `remittor/zapret-openwrt` | ⭐ 1.4k |
 | 2026-09-06 | 🥇 | [[Good First Issue] 🌋 Add new False Friend Pair 42 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29883) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-06 | 🥇 | [[Good First Issue] ⛩️ Add new Dialect Entry 103 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29881) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-06 | 🥇 | [[Good First Issue] 🀄 Add new Video Game Quote 38 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29878) | `lingdojo/kana-dojo` | ⭐ 3.3k |
@@ -98,9 +104,3 @@
 | 2026-09-06 | 🥈 | [Workspace trust: detect repo-borne execution sinks before an agent opens the fol](https://github.com/asamassekou10/ship-safe/issues/203) | `asamassekou10/ship-safe` | ⭐ 830 |
 | 2026-09-06 | 🥈 | [Ship Safe 11.0 — Untrusted Inputs](https://github.com/asamassekou10/ship-safe/issues/202) | `asamassekou10/ship-safe` | ⭐ 830 |
 | 2026-09-06 | 🥇 | [[Good First Issue] 🍣 Add new Japan Fact 56 - Beginner-Friendly Open-source Cont](https://github.com/lingdojo/kana-dojo/issues/29847) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-06 | 🥇 | [[Good First Issue] 🎏 Add new Theme: Poppy Udon - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29846) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-06 | 🥇 | [[Good First Issue] 🍛 Add new Community Note Line #5 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29845) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-06 | 🥇 | [[Good First Issue] 🥢 Add new Wallpaper URL #2 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29844) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-05 | 🥇 | [[Good First Issue] 🍘 Add new Learner Mistake 27 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29843) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-05 | 🥇 | [[Good First Issue] 🎍 Add new Example Sentence 89 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29842) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-05 | 🥇 | [[Good First Issue] 🍣 Add new Etiquette Tip 80 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29841) | `lingdojo/kana-dojo` | ⭐ 3.3k |

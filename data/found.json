@@ -1,5 +1,131 @@
 [
   {
+    "key": "lingdojo/kana-dojo#29887",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29887,
+    "title": "[Good First Issue] 🥟 Add new Wallpaper URL #2 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29887",
+    "comments": 1,
+    "createdAt": "2026-09-06T19:01:00Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-06T19:20:17.031Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29886",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29886,
+    "title": "[Good First Issue] 🍤 Add new Learner Mistake 19 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29886",
+    "comments": 1,
+    "createdAt": "2026-09-06T18:37:32Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-06T19:20:17.031Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29885",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29885,
+    "title": "[Good First Issue] 🍁 Add new Example Sentence 62 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29885",
+    "comments": 1,
+    "createdAt": "2026-09-06T18:01:02Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-06T19:20:17.760Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29884",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29884,
+    "title": "[Good First Issue] 🌸 Add new Etiquette Tip 82 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29884",
+    "comments": 1,
+    "createdAt": "2026-09-06T17:37:32Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-06T19:20:17.975Z"
+  },
+  {
+    "key": "WordPress/agent-skills#101",
+    "tier": 1,
+    "repo": "WordPress/agent-skills",
+    "number": 101,
+    "title": "There is no actual eval runner",
+    "url": "https://github.com/WordPress/agent-skills/issues/101",
+    "comments": 0,
+    "createdAt": "2026-09-06T17:18:30Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "javascript",
+    "stars": 2103,
+    "foundAt": "2026-09-06T19:20:18.276Z"
+  },
+  {
+    "key": "remittor/zapret-openwrt#845",
+    "tier": 2,
+    "repo": "remittor/zapret-openwrt",
+    "number": 845,
+    "title": "[HELP]",
+    "url": "https://github.com/remittor/zapret-openwrt/issues/845",
+    "comments": 1,
+    "createdAt": "2026-09-06T17:24:03Z",
+    "labels": [
+      "help wanted"
+    ],
+    "language": "javascript",
+    "stars": 1365,
+    "foundAt": "2026-09-06T19:20:18.713Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#29883",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1819,145 +1945,5 @@
     "language": "typescript",
     "stars": 3306,
     "foundAt": "2026-09-06T01:07:37.210Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29846",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29846,
-    "title": "[Good First Issue] 🎏 Add new Theme: Poppy Udon - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29846",
-    "comments": 1,
-    "createdAt": "2026-09-06T00:37:32Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-06T01:07:37.636Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29845",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29845,
-    "title": "[Good First Issue] 🍛 Add new Community Note Line #5 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29845",
-    "comments": 1,
-    "createdAt": "2026-09-06T00:01:05Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-06T01:07:37.637Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29844",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29844,
-    "title": "[Good First Issue] 🥢 Add new Wallpaper URL #2 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29844",
-    "comments": 1,
-    "createdAt": "2026-09-05T23:37:33Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-06T01:07:37.637Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29843",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29843,
-    "title": "[Good First Issue] 🍘 Add new Learner Mistake 27 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29843",
-    "comments": 1,
-    "createdAt": "2026-09-05T23:00:56Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-05T23:07:21.966Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29842",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29842,
-    "title": "[Good First Issue] 🎍 Add new Example Sentence 89 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29842",
-    "comments": 1,
-    "createdAt": "2026-09-05T22:37:32Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-05T23:07:21.967Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29841",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29841,
-    "title": "[Good First Issue] 🍣 Add new Etiquette Tip 80 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29841",
-    "comments": 1,
-    "createdAt": "2026-09-05T22:01:03Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-05T23:07:22.503Z"
   }
 ]
