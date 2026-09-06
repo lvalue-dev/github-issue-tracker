@@ -4,6 +4,23 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-06 | 🥇 | [[Good First Issue] 🌋 Add new Community Note Line #3 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29857) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-06 | 🥇 | [[Good First Issue] 🍤 Add new Learner Mistake 36 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29856) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-06 | 🥇 | [[Good First Issue] 🌋 Add new Example Sentence 70 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29855) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-06 | 🥇 | [The "Remove" button for the "Bulk delete videos by watch progress" often fails t](https://github.com/code-charity/youtube/issues/4318) | `code-charity/youtube` | ⭐ 4.6k |
+| 2026-09-06 | 🥇 | [[Good First Issue] 🐙 Add new Etiquette Tip 116 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29854) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-06 | 🥇 | [[Good First Issue] 🌋 Add new Dialect Entry 11 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29853) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-06 | 🥇 | [[Good First Issue] 🥢 Add new Japanese Idiom 11 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29852) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-06 | 🥇 | [[Good First Issue] 🐡 Add new Video Game Quote 1 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29851) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-06 | 🥇 | [[Good First Issue] 🍙 Add new Anime Quote 79 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29850) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-06 | 🥇 | [[Good First Issue] 🍣 Add new Trivia Question 129 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29849) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-06 | 🥇 | [[Good First Issue] 🧧 Add new Japanese Proverb 152 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29848) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-06 | 🥇 | [Photo Shot List Planner](https://github.com/thinkswell/javascript-mini-projects/issues/1245) | `thinkswell/javascript-mini-projects` | ⭐ 1.5k |
+| 2026-09-06 | 🥈 | [Capability graph: add repository-origin and A2A-delegation nodes](https://github.com/asamassekou10/ship-safe/issues/206) | `asamassekou10/ship-safe` | ⭐ 830 |
+| 2026-09-06 | 🥈 | [Baseline drift: reviewable workflow for tracking upstream Hermes releases](https://github.com/asamassekou10/ship-safe/issues/205) | `asamassekou10/ship-safe` | ⭐ 830 |
+| 2026-09-06 | 🥈 | [Pinned advisory table: map agent versions to documented execution sinks](https://github.com/asamassekou10/ship-safe/issues/204) | `asamassekou10/ship-safe` | ⭐ 830 |
+| 2026-09-06 | 🥈 | [Workspace trust: detect repo-borne execution sinks before an agent opens the fol](https://github.com/asamassekou10/ship-safe/issues/203) | `asamassekou10/ship-safe` | ⭐ 830 |
+| 2026-09-06 | 🥈 | [Ship Safe 11.0 — Untrusted Inputs](https://github.com/asamassekou10/ship-safe/issues/202) | `asamassekou10/ship-safe` | ⭐ 830 |
 | 2026-09-06 | 🥇 | [[Good First Issue] 🍣 Add new Japan Fact 56 - Beginner-Friendly Open-source Cont](https://github.com/lingdojo/kana-dojo/issues/29847) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-06 | 🥇 | [[Good First Issue] 🎏 Add new Theme: Poppy Udon - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29846) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-06 | 🥇 | [[Good First Issue] 🍛 Add new Community Note Line #5 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29845) | `lingdojo/kana-dojo` | ⭐ 3.3k |
@@ -87,20 +104,3 @@
 | 2026-09-05 | 🥇 | [update-system.mjs commits the auto-update onto whatever branch you are on, inclu](https://github.com/career-ops-hq/career-ops/issues/3846) | `career-ops-hq/career-ops` | ⭐ 69.9k |
 | 2026-09-05 | 🥈 | [Snyk vulnerability [snyk:lic:npm:version-range:Artistic-2.0]](https://github.com/backstage/backstage/issues/35533) | `backstage/backstage` | ⭐ 34.3k |
 | 2026-09-05 | 🥈 | [Snyk vulnerability [snyk:lic:npm:editions:Artistic-2.0]](https://github.com/backstage/backstage/issues/35531) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-05 | 🥈 | [Snyk vulnerability [snyk:lic:npm:textextensions:Artistic-2.0]](https://github.com/backstage/backstage/issues/35532) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-05 | 🥈 | [Snyk vulnerability [snyk:lic:npm:binaryextensions:Artistic-2.0]](https://github.com/backstage/backstage/issues/35530) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-ROLLUP-8073097]](https://github.com/backstage/backstage/issues/35529) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-SIGSTORECORE-17817061]](https://github.com/backstage/backstage/issues/35526) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-ROLLUP-15340920]](https://github.com/backstage/backstage/issues/35528) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-SIGSTOREVERIFY-17817052]](https://github.com/backstage/backstage/issues/35527) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-SHELLQUOTE-17457810]](https://github.com/backstage/backstage/issues/35524) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-SIGSTORE-17817054]](https://github.com/backstage/backstage/issues/35525) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-SHELLQUOTE-16799355]](https://github.com/backstage/backstage/issues/35523) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-MINIMATCH-15353389]](https://github.com/backstage/backstage/issues/35522) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-MINIMATCH-15353387]](https://github.com/backstage/backstage/issues/35521) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-LODASH-15869625]](https://github.com/backstage/backstage/issues/35520) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-JSYAML-17900054]](https://github.com/backstage/backstage/issues/35518) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-LODASH-15869619]](https://github.com/backstage/backstage/issues/35519) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-JSYAML-17342520]](https://github.com/backstage/backstage/issues/35517) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-05 | 🥈 | [Snyk vulnerability [SNYK-JS-MYSQL2-19512510]](https://github.com/backstage/backstage/issues/35515) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-05 | 🥈 | [Snyk vulnerability [snyk:lic:npm:isomorphic-git:pgp-plugin:LGPL-3.0]](https://github.com/backstage/backstage/issues/35516) | `backstage/backstage` | ⭐ 34.3k |
