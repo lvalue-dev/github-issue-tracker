@@ -4,6 +4,50 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-06 | 🥇 | [[Good First Issue] 🎋 Add new Wallpaper URL #2 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29869) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-06 | 🥇 | [[agent] Streamlit has no served HTML template, so the script-tag setup does not ](https://github.com/reticlehq/reticle/issues/814) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-06 | 🥇 | [[agent] serve hides the daemon's startup cause in the log, and status then blame](https://github.com/reticlehq/reticle/issues/809) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-06 | 🥇 | [[agent] The Vite plugin injects the HUD into Vitest browser-mode iframes, where ](https://github.com/reticlehq/reticle/issues/803) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-06 | 🥇 | [[agent] The ambiguous-target error appends the "may be a defect in Reticle" nudg](https://github.com/reticlehq/reticle/issues/795) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-06 | 🥇 | [[agent] The split-text hint suggests { scope, self: true }, which the text predi](https://github.com/reticlehq/reticle/issues/794) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-06 | 🥇 | [Add a Korean README (README_ko.md), covered by the localized-README drift guard](https://github.com/libredb/libredb-studio/issues/596) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-06 | 🥇 | [Add a Hindi README (README_hi.md), covered by the localized-README drift guard](https://github.com/libredb/libredb-studio/issues/595) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-06 | 🥇 | [Add a Brazilian Portuguese README (README_pt.md), covered by the localized-READM](https://github.com/libredb/libredb-studio/issues/594) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-06 | 🥇 | [Add a Spanish README (README_es.md), covered by the localized-README drift guard](https://github.com/libredb/libredb-studio/issues/593) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-06 | 🥇 | [[Good First Issue] 🌊 Add new Example Sentence 102 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29868) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-06 | 🥇 | [Four top-level docs cite code by line number, and every checkable one is stale](https://github.com/libredb/libredb-studio/issues/592) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-06 | 🥇 | [docs/providers/couchbase.md: replace 30 stale line-number citations with named c](https://github.com/libredb/libredb-studio/issues/591) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-06 | 🥇 | [docs/providers/druid.md: replace 18 stale line-number citations with named citat](https://github.com/libredb/libredb-studio/issues/590) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-06 | 🥇 | [docs/providers/postgres.md: replace 18 stale line-number citations with named ci](https://github.com/libredb/libredb-studio/issues/589) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-06 | 🥇 | [docs/providers/clickhouse.md: replace 17 stale line-number citations with named ](https://github.com/libredb/libredb-studio/issues/588) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-06 | 🥇 | [docs/providers/sqlite.md: replace 7 stale line-number citations with named citat](https://github.com/libredb/libredb-studio/issues/587) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-06 | 🥇 | [docs/providers/redis.md: replace 13 stale line-number citations with named citat](https://github.com/libredb/libredb-studio/issues/586) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-06 | 🥇 | [MSSQL and Oracle getOverview() still fold a missing size row into a measured zer](https://github.com/libredb/libredb-studio/issues/585) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-06 | 🥇 | [[Good First Issue] 🐡 Add new False Friend Pair 41 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29867) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-06 | 🥇 | [[Good First Issue] 🥢 Add new Dialect Entry 63 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29866) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-06 | 🥇 | [[Good First Issue] 🍤 Add new Japanese Idiom 21 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29864) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-06 | 🥇 | [[Good First Issue] 🦊 Add new Anime Quote 13 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29862) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-06 | 🥇 | [Open new source to check Webhook [TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/21912) | `PipedreamHQ/pipedream` | ⭐ 11.7k |
+| 2026-09-06 | 🥈 | [[agent] Leaving the instrumented origin returns observation_lost, so an OAuth ha](https://github.com/reticlehq/reticle/issues/813) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-06 | 🥈 | [[agent] Version skew produces dispatched:true / settled:true on clicks that chan](https://github.com/reticlehq/reticle/issues/812) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-06 | 🥈 | [[agent] reticle_annotate has no text success-state, so an app whose only observa](https://github.com/reticlehq/reticle/issues/811) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-06 | 🥈 | [[agent] There is no computed-style predicate, so a CSS design-system change cann](https://github.com/reticlehq/reticle/issues/810) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-06 | 🥈 | [[agent] A route that 500s tears down the page, so there is no verdict at all — o](https://github.com/reticlehq/reticle/issues/808) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-06 | 🥈 | [[agent] A server-rendered MPA's reconnect on every page load is treated as a fat](https://github.com/reticlehq/reticle/issues/807) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-06 | 🥈 | [[agent] init exits 1 on a Django project after printing a snippet, instead of wi](https://github.com/reticlehq/reticle/issues/806) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-06 | 🥈 | [[agent] A native download or document navigation is invisible to reticle_network](https://github.com/reticlehq/reticle/issues/805) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-06 | 🥈 | [[agent] reticle_viewport needs CDP, so mobile-only UI is unreachable on an SDK-o](https://github.com/reticlehq/reticle/issues/804) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-06 | 🥈 | [[agent] init runs a bare npm install on a repo that needs --legacy-peer-deps, an](https://github.com/reticlehq/reticle/issues/802) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-06 | 🥈 | [[agent] The captureNetworkBodies remedy is printed without checking whether the ](https://github.com/reticlehq/reticle/issues/801) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-06 | 🥈 | [[agent] Capture the response body of a failed request by default: the 74 bytes t](https://github.com/reticlehq/reticle/issues/800) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-06 | 🥈 | [[agent] The 8KB body cap makes negative bodyContains assertions permanently unde](https://github.com/reticlehq/reticle/issues/799) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-06 | 🥈 | [[agent] There is no way to assert on a request body, so "the UI actually sent th](https://github.com/reticlehq/reticle/issues/798) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-06 | 🥈 | [[agent] Presence predicates match hidden and always-present container nodes, so ](https://github.com/reticlehq/reticle/issues/797) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-06 | 🥈 | [[agent] An absence check that found matching elements returns unknown on a throt](https://github.com/reticlehq/reticle/issues/796) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-06 | 🥈 | [[Help] cloudflare提交部署应该有问题](https://github.com/maillab/cloud-mail/issues/568) | `maillab/cloud-mail` | ⭐ 14.0k |
+| 2026-09-06 | 🥈 | [UI tests are flaky in 01_io.js](https://github.com/gchq/CyberChef/issues/2774) | `gchq/CyberChef` | ⭐ 35.8k |
+| 2026-09-06 | 🥉 | [[DOCS]: Incorrect path is mentioned under "Windows Installation"](https://github.com/Mintplex-Labs/anything-llm/issues/6304) | `Mintplex-Labs/anything-llm` | ⭐ 65.7k |
+| 2026-09-06 | 🥉 | [[Showcase]:  I made an extension](https://github.com/tt-a1i/archify/issues/326) | `tt-a1i/archify` | ⭐ 50.1k |
 | 2026-09-06 | 🥇 | [[Good First Issue] 🌋 Add new Community Note Line #3 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29857) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-06 | 🥇 | [[Good First Issue] 🍤 Add new Learner Mistake 36 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29856) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-06 | 🥇 | [[Good First Issue] 🌋 Add new Example Sentence 70 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29855) | `lingdojo/kana-dojo` | ⭐ 3.3k |
@@ -60,47 +104,3 @@
 | 2026-09-05 | 🥇 | [[Good First Issue] 🍚 Add new False Friend Pair 74 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29823) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-05 | 🥇 | [Nix CLI discovery misses Home Manager's /etc/profiles/per-user/$USER/bin (follow](https://github.com/nexu-io/open-design/issues/7790) | `nexu-io/open-design` | ⭐ 94.1k |
 | 2026-09-05 | 🥇 | [[Good First Issue] 🐉 Add new Dialect Entry 65 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29822) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-05 | 🥇 | [Schema validation errors are not logged for IPC event handlers](https://github.com/clusterio/clusterio/issues/986) | `clusterio/clusterio` | ⭐ 379 |
-| 2026-09-05 | 🥇 | [[BUG]](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/89223) | `SAPTARSHI-coder/EaseMotion-css` | ⭐ 255 |
-| 2026-09-05 | 🥈 | [application-answers: parseDraftAnswersBlockH() finds the draft block in 5 of 19 ](https://github.com/career-ops-hq/career-ops/issues/3884) | `career-ops-hq/career-ops` | ⭐ 69.9k |
-| 2026-09-05 | 🥈 | [update-system: show the short commit SHA next to VERSION wherever an install rep](https://github.com/career-ops-hq/career-ops/issues/3883) | `career-ops-hq/career-ops` | ⭐ 69.9k |
-| 2026-09-05 | 🥈 | [workdayDedupKey: a hyphenated requisition base skips the trailing -N strip (resi](https://github.com/career-ops-hq/career-ops/issues/3882) | `career-ops-hq/career-ops` | ⭐ 69.9k |
-| 2026-09-05 | 🥈 | [CI: refuse to merge while a PR named under a "Depends on" heading is still open](https://github.com/career-ops-hq/career-ops/issues/3880) | `career-ops-hq/career-ops` | ⭐ 69.9k |
-| 2026-09-05 | 🥈 | [[Help] 为什么？迁移会登录六位密码会报错](https://github.com/maillab/cloud-mail/issues/566) | `maillab/cloud-mail` | ⭐ 14.0k |
-| 2026-09-05 | 🥉 | [Follow up PR #929: preserve supported GPT-5 temperatures and verify request beha](https://github.com/srbhr/Resume-Matcher/issues/975) | `srbhr/Resume-Matcher` | ⭐ 28.3k |
-| 2026-09-05 | 🥉 | [[Docs] 建议修改docs/mcp-vision-integration.md中的错别字](https://github.com/xinnan-tech/xiaozhi-esp32-server/issues/3354) | `xinnan-tech/xiaozhi-esp32-server` | ⭐ 10.5k |
-| 2026-09-05 | 🥉 | [[Docs]: Align storage, retry and validation documentation with current behavior](https://github.com/srbhr/Resume-Matcher/issues/974) | `srbhr/Resume-Matcher` | ⭐ 28.3k |
-| 2026-09-05 | 🥉 | [docs(WORKAROUND_CATALOG): add durable-snapshot + touch-refresh workaround stack ](https://github.com/cnighswonger/claude-code-cache-fix/issues/364) | `cnighswonger/claude-code-cache-fix` | ⭐ 429 |
-| 2026-09-05 | 🥇 | [CONTRIBUTING prerequisites omit Helm, which 166 tests in bun run test need](https://github.com/libredb/libredb-studio/issues/570) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-05 | 🥇 | [feat/Support native addons (.node files) in Node.js SEA binaries](https://github.com/goatplatform/goatdb/issues/57) | `goatplatform/goatdb` | ⭐ 572 |
-| 2026-09-05 | 🥇 | [Published resources displayed as documents instead of preview](https://github.com/Smaug6739/Alexandrie/issues/763) | `Smaug6739/Alexandrie` | ⭐ 2.7k |
-| 2026-09-05 | 🥇 | [[Good First Issue] 🎍 Add new Anime Quote 132 - Beginner-Friendly Open-source Co](https://github.com/lingdojo/kana-dojo/issues/29817) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-05 | 🥇 | [Maintenance: scope `test:unit` to `tests/unit` and normalise package scripts](https://github.com/aws-powertools/powertools-lambda-typescript/issues/5643) | `aws-powertools/powertools-lambda-typescript` | ⭐ 1.8k |
-| 2026-09-05 | 🥇 | [Maintenance: align `cached-node-modules` pins and remove a stale migration comme](https://github.com/aws-powertools/powertools-lambda-typescript/issues/5642) | `aws-powertools/powertools-lambda-typescript` | ⭐ 1.8k |
-| 2026-09-05 | 🥇 | [[Good First Issue] 🍚 Add new Grammar Point 53 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29816) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-05 | 🥉 | [Email Service overview shows unsupported `"email": [{"name":"EMAIL_HANDLER"}]` W](https://github.com/cloudflare/cloudflare-docs/issues/33252) | `cloudflare/cloudflare-docs` | ⭐ 5.2k |
-| 2026-09-05 | 🥇 | [[Good First Issue] 🗻 Add new Wallpaper URL #1 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29807) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-05 | 🥈 | [[Performance] Reduce Homepage Bundle Size from Inactive Rotational Banners](https://github.com/layer5io/layer5/issues/8020) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-05 | 🥈 | [[Performance] Reduce Homepage Total Blocking Time from Unnecessary Search Indexi](https://github.com/layer5io/layer5/issues/8019) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-05 | 🥈 | [[Performance] Eliminate Cumulative Layout Shifts from Partners Carousel and Feat](https://github.com/layer5io/layer5/issues/8018) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-05 | 🥈 | [[Performance] Eliminate Desktop LCP Delay by Pre-rendering Hero Video Thumbnail ](https://github.com/layer5io/layer5/issues/8017) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-05 | 🥉 | [Contact Form Submission - Request - Missing Section or Solution (Platinum - Rang](https://github.com/cpinitiative/usaco-guide/issues/6581) | `cpinitiative/usaco-guide` | ⭐ 1.8k |
-| 2026-09-05 | 🥇 | [[Good First Issue] 🪭 Add new Trivia Question 103 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29796) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-05 | 🥇 | [set-status.mjs: the JSON result must be the last thing on stdout, and nothing pi](https://github.com/career-ops-hq/career-ops/issues/3855) | `career-ops-hq/career-ops` | ⭐ 69.9k |
-| 2026-09-05 | 🥇 | [[Good First Issue] 🐙 Add new Japanese Proverb 148 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29793) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-05 | 🥇 | [[Good First Issue] 🧧 Add new Japan Fact 61 - Beginner-Friendly Open-source Cont](https://github.com/lingdojo/kana-dojo/issues/29792) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-05 | 🥇 | [[Good First Issue] 🍥 Add new Theme: Kintsugi Gold - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29791) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-05 | 🥇 | [[Good First Issue] 🏯 Add new Community Note Line #3 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29790) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-05 | 🥇 | [[Good First Issue] 🥟 Add new Wallpaper URL #3 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29789) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-05 | 🥇 | [[Good First Issue] 🗻 Add new Learner Mistake 105 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29788) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-05 | 🥇 | [[Good First Issue] 🌺 Add new Example Sentence 43 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29787) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-05 | 🥇 | [[Good First Issue] 🌋 Add new False Friend Pair 50 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29786) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-05 | 🥉 | [[Workstream F] PR 19 of 19: Align scoring, context-budget and PRM configuration ](https://github.com/ZaxbyHub/opencode-swarm/issues/2583) | `ZaxbyHub/opencode-swarm` | ⭐ 464 |
-| 2026-09-05 | 🥇 | [🐞Backups are not working](https://github.com/code-charity/youtube/issues/4314) | `code-charity/youtube` | ⭐ 4.6k |
-| 2026-09-05 | 🥇 | [[Good First Issue] 🎌 Add new Dialect Entry 86 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29785) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-05 | 🥇 | [[Good First Issue] 🌋 Add new Japanese Idiom 106 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29784) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-05 | 🥇 | [[Good First Issue] 🎋 Add new Video Game Quote 57 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29783) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-05 | 🥇 | [[Good First Issue] 🍱 Add new Anime Quote 30 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29782) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-05 | 🥇 | [update-system.mjs commits the auto-update onto whatever branch you are on, inclu](https://github.com/career-ops-hq/career-ops/issues/3846) | `career-ops-hq/career-ops` | ⭐ 69.9k |
-| 2026-09-05 | 🥈 | [Snyk vulnerability [snyk:lic:npm:version-range:Artistic-2.0]](https://github.com/backstage/backstage/issues/35533) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-05 | 🥈 | [Snyk vulnerability [snyk:lic:npm:editions:Artistic-2.0]](https://github.com/backstage/backstage/issues/35531) | `backstage/backstage` | ⭐ 34.3k |
