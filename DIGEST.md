@@ -4,6 +4,26 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-06 | 🥇 | [[Good First Issue] 🎍 Add new Trivia Question 56 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29875) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-06 | 🥇 | [[Good First Issue] 🗾 Add new Japanese Haiku 11 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29874) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-06 | 🥇 | [[Good First Issue] 🍡 Add new Japanese Proverb 180 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29873) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-06 | 🥇 | [[Good First Issue] 🌺 Add new Japan Fact 145 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29872) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-06 | 🥇 | [[Good First Issue] 🐙 Add new Theme: Robot Anime - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29871) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-06 | 🥇 | [[Good First Issue] 🐙 Add new Community Note Line #5 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29870) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-06 | 🥈 | [[help]](https://github.com/XCQ0607/lxserver/issues/340) | `XCQ0607/lxserver` | ⭐ 793 |
+| 2026-09-06 | 🥈 | [Test run on a P1S: capture a sliced file together with what the printer reports ](https://github.com/Rdiger-36/bambulab-ams-spoolman-filamentstatus/issues/146) | `Rdiger-36/bambulab-ams-spoolman-filamentstatus` | ⭐ 236 |
+| 2026-09-06 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-19635226]](https://github.com/backstage/backstage/issues/35553) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-06 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-19635218]](https://github.com/backstage/backstage/issues/35550) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-06 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-19635222]](https://github.com/backstage/backstage/issues/35552) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-06 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-19635220]](https://github.com/backstage/backstage/issues/35551) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-06 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-19635216]](https://github.com/backstage/backstage/issues/35549) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-06 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-19635212]](https://github.com/backstage/backstage/issues/35547) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-06 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-19635214]](https://github.com/backstage/backstage/issues/35548) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-06 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-19635206]](https://github.com/backstage/backstage/issues/35544) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-06 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-19635208]](https://github.com/backstage/backstage/issues/35545) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-06 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-19635210]](https://github.com/backstage/backstage/issues/35546) | `backstage/backstage` | ⭐ 34.3k |
+| 2026-09-06 | 🥉 | [Egress follow-ups after #561: the walkthrough's primary transport, the webhook's](https://github.com/SirAllap/agentglass/issues/562) | `SirAllap/agentglass` | ⭐ 292 |
+| 2026-09-06 | 🥉 | [Evaluate and document parser-safe compact JSDoc formatting](https://github.com/neomjs/neo/issues/18384) | `neomjs/neo` | ⭐ 3.3k |
 | 2026-09-06 | 🥇 | [[Good First Issue] 🎋 Add new Wallpaper URL #2 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29869) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-06 | 🥇 | [[agent] Streamlit has no served HTML template, so the script-tag setup does not ](https://github.com/reticlehq/reticle/issues/814) | `reticlehq/reticle` | ⭐ 443 |
 | 2026-09-06 | 🥇 | [[agent] serve hides the daemon's startup cause in the log, and status then blame](https://github.com/reticlehq/reticle/issues/809) | `reticlehq/reticle` | ⭐ 443 |
@@ -84,23 +104,3 @@
 | 2026-09-05 | 🥇 | [[Good First Issue] 🌸 Add new Trivia Question 18 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29834) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-05 | 🥈 | [[Help] worker配置了admin，但部署登录后，admin是普通用户，没有系统设置！](https://github.com/maillab/cloud-mail/issues/567) | `maillab/cloud-mail` | ⭐ 14.0k |
 | 2026-09-05 | 🥇 | [[Good First Issue] 🎎 Add new Japan Fact 134 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29832) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-05 | 🥇 | [[Good First Issue] 🎍 Add new Theme: Inkstone - Beginner-Friendly Open-source Co](https://github.com/lingdojo/kana-dojo/issues/29831) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-05 | 🥈 | [[Discussion]: Why was the global memory feature from 1.9.x removed in version 2.](https://github.com/CherryHQ/cherry-studio/issues/20081) | `CherryHQ/cherry-studio` | ⭐ 51.5k |
-| 2026-09-05 | 🥈 | [[Discussion]: Why was the global memory feature from 1.9.x removed in version 2.](https://github.com/CherryHQ/cherry-studio/issues/20080) | `CherryHQ/cherry-studio` | ⭐ 51.5k |
-| 2026-09-05 | 🥈 | [refactor(lock): retry backoff is clamped at three call sites instead of inside t](https://github.com/career-ops-hq/career-ops/issues/3895) | `career-ops-hq/career-ops` | ⭐ 69.9k |
-| 2026-09-05 | 🥈 | [bug(verify-cv-facts): a missing config/cv-facts.json disables the fact gate sile](https://github.com/career-ops-hq/career-ops/issues/3894) | `career-ops-hq/career-ops` | ⭐ 69.9k |
-| 2026-09-05 | 🥈 | [bug(sync-pdf-flags): a PDF flag can never be cleared and manifest rows outlive t](https://github.com/career-ops-hq/career-ops/issues/3893) | `career-ops-hq/career-ops` | ⭐ 69.9k |
-| 2026-09-05 | 🥈 | [bug(tracker): a control byte in a tracker cell is invisible in every view and co](https://github.com/career-ops-hq/career-ops/issues/3892) | `career-ops-hq/career-ops` | ⭐ 69.9k |
-| 2026-09-05 | 🥈 | [bug(liveness): check-liveness computes an expired verdict and discards it, so a ](https://github.com/career-ops-hq/career-ops/issues/3891) | `career-ops-hq/career-ops` | ⭐ 69.9k |
-| 2026-09-05 | 🥈 | [test(guards): the repo-scanning guards still narrow silently, the way the syntax](https://github.com/career-ops-hq/career-ops/issues/3890) | `career-ops-hq/career-ops` | ⭐ 69.9k |
-| 2026-09-05 | 🥈 | [[BUG] Split-checkout data-root violations: set-status.mjs can't resolve the trac](https://github.com/career-ops-hq/career-ops/issues/3867) | `career-ops-hq/career-ops` | ⭐ 69.9k |
-| 2026-09-05 | 🥈 | [workday.mjs: Workday multi-location postings are silently dropped by location_fi](https://github.com/career-ops-hq/career-ops/issues/3860) | `career-ops-hq/career-ops` | ⭐ 69.9k |
-| 2026-09-05 | 🥇 | [[Good First Issue] 🦑 Add new Learner Mistake 73 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29826) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-05 | 🥇 | [docs(budget): document the per-session evaluation cap (about ten roles) in RUNNI](https://github.com/career-ops-hq/career-ops/issues/3881) | `career-ops-hq/career-ops` | ⭐ 69.9k |
-| 2026-09-05 | 🥇 | [[Good First Issue] 🎍 Add new Example Sentence 3 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29825) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-05 | 🥇 | [chore(lint): pay down the size and complexity baseline](https://github.com/xberg-io/html-to-markdown/issues/465) | `xberg-io/html-to-markdown` | ⭐ 863 |
-| 2026-09-05 | 🥇 | [[Good First Issue] 🍵 Add new Etiquette Tip 39 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29824) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-05 | 🥇 | [[Feature/UX] Show in-player notification/toast when fetching Ytdlp videos instea](https://github.com/YusufB5/ASCILINE/issues/62) | `YusufB5/ASCILINE` | ⭐ 2.7k |
-| 2026-09-05 | 🥇 | [[Good First Issue] 🍚 Add new False Friend Pair 74 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29823) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-05 | 🥇 | [Nix CLI discovery misses Home Manager's /etc/profiles/per-user/$USER/bin (follow](https://github.com/nexu-io/open-design/issues/7790) | `nexu-io/open-design` | ⭐ 94.1k |
-| 2026-09-05 | 🥇 | [[Good First Issue] 🐉 Add new Dialect Entry 65 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29822) | `lingdojo/kana-dojo` | ⭐ 3.3k |
