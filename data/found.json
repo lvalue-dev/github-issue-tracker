@@ -1,5 +1,123 @@
 [
   {
+    "key": "libredb/libredb-studio#610",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 610,
+    "title": "Add a Russian README (README_ru.md), covered by the localized-README drift guard",
+    "url": "https://github.com/libredb/libredb-studio/issues/610",
+    "comments": 0,
+    "createdAt": "2026-09-06T21:22:31Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 402,
+    "foundAt": "2026-09-06T21:29:31.112Z"
+  },
+  {
+    "key": "libredb/libredb-studio#609",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 609,
+    "title": "The env-documentation guard sees 40 of 62 variables, and 16 of the missing 22 are statically resolvable",
+    "url": "https://github.com/libredb/libredb-studio/issues/609",
+    "comments": 0,
+    "createdAt": "2026-09-06T21:15:42Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 402,
+    "foundAt": "2026-09-06T21:29:31.112Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29895",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29895,
+    "title": "[Good First Issue] 🍢 Add new Japanese Proverb 118 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29895",
+    "comments": 1,
+    "createdAt": "2026-09-06T21:01:03Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-06T21:29:31.623Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29888",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29888,
+    "title": "[Good First Issue] 🎴 Add new Community Note Line #3 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29888",
+    "comments": 1,
+    "createdAt": "2026-09-06T19:37:28Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-06T21:29:31.871Z"
+  },
+  {
+    "key": "meshery/meshery#21834",
+    "tier": 2,
+    "repo": "meshery/meshery",
+    "number": 21834,
+    "title": "[CI] Go test workflows (go-testing-ci.yml, server-integration-tests.yml) do not trigger on go.mod / go.sum updates",
+    "url": "https://github.com/meshery/meshery/issues/21834",
+    "comments": 1,
+    "createdAt": "2026-09-06T20:42:16Z",
+    "labels": [
+      "help wanted",
+      "area/ci",
+      "area/devops"
+    ],
+    "language": "typescript",
+    "stars": 11634,
+    "foundAt": "2026-09-06T21:29:32.175Z"
+  },
+  {
+    "key": "expo/expo#49794",
+    "tier": 3,
+    "repo": "expo/expo",
+    "number": 49794,
+    "title": "[docs] [expo-router] Question about `dismissTo`",
+    "url": "https://github.com/expo/expo/issues/49794",
+    "comments": 0,
+    "createdAt": "2026-09-06T20:54:29Z",
+    "labels": [
+      "docs",
+      "contributor: external"
+    ],
+    "language": "typescript",
+    "stars": 52074,
+    "foundAt": "2026-09-06T21:29:34.164Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#29887",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1831,119 +1949,5 @@
     "language": "javascript",
     "stars": 1520,
     "foundAt": "2026-09-06T06:07:11.893Z"
-  },
-  {
-    "key": "asamassekou10/ship-safe#206",
-    "tier": 2,
-    "repo": "asamassekou10/ship-safe",
-    "number": 206,
-    "title": "Capability graph: add repository-origin and A2A-delegation nodes",
-    "url": "https://github.com/asamassekou10/ship-safe/issues/206",
-    "comments": 0,
-    "createdAt": "2026-09-06T02:54:47Z",
-    "labels": [
-      "help wanted",
-      "cli"
-    ],
-    "language": "javascript",
-    "stars": 830,
-    "foundAt": "2026-09-06T06:07:13.076Z"
-  },
-  {
-    "key": "asamassekou10/ship-safe#205",
-    "tier": 2,
-    "repo": "asamassekou10/ship-safe",
-    "number": 205,
-    "title": "Baseline drift: reviewable workflow for tracking upstream Hermes releases",
-    "url": "https://github.com/asamassekou10/ship-safe/issues/205",
-    "comments": 0,
-    "createdAt": "2026-09-06T02:54:35Z",
-    "labels": [
-      "help wanted",
-      "docs",
-      "hermes"
-    ],
-    "language": "javascript",
-    "stars": 830,
-    "foundAt": "2026-09-06T06:07:13.076Z"
-  },
-  {
-    "key": "asamassekou10/ship-safe#204",
-    "tier": 2,
-    "repo": "asamassekou10/ship-safe",
-    "number": 204,
-    "title": "Pinned advisory table: map agent versions to documented execution sinks",
-    "url": "https://github.com/asamassekou10/ship-safe/issues/204",
-    "comments": 0,
-    "createdAt": "2026-09-06T02:54:24Z",
-    "labels": [
-      "help wanted",
-      "security rule",
-      "docs"
-    ],
-    "language": "javascript",
-    "stars": 830,
-    "foundAt": "2026-09-06T06:07:13.076Z"
-  },
-  {
-    "key": "asamassekou10/ship-safe#203",
-    "tier": 2,
-    "repo": "asamassekou10/ship-safe",
-    "number": 203,
-    "title": "Workspace trust: detect repo-borne execution sinks before an agent opens the folder",
-    "url": "https://github.com/asamassekou10/ship-safe/issues/203",
-    "comments": 0,
-    "createdAt": "2026-09-06T02:54:13Z",
-    "labels": [
-      "help wanted",
-      "agent",
-      "security rule",
-      "tests",
-      "cli"
-    ],
-    "language": "javascript",
-    "stars": 830,
-    "foundAt": "2026-09-06T06:07:13.076Z"
-  },
-  {
-    "key": "asamassekou10/ship-safe#202",
-    "tier": 2,
-    "repo": "asamassekou10/ship-safe",
-    "number": 202,
-    "title": "Ship Safe 11.0 — Untrusted Inputs",
-    "url": "https://github.com/asamassekou10/ship-safe/issues/202",
-    "comments": 0,
-    "createdAt": "2026-09-06T02:53:55Z",
-    "labels": [
-      "help wanted",
-      "security rule",
-      "cli"
-    ],
-    "language": "javascript",
-    "stars": 830,
-    "foundAt": "2026-09-06T06:07:13.076Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29847",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29847,
-    "title": "[Good First Issue] 🍣 Add new Japan Fact 56 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29847",
-    "comments": 1,
-    "createdAt": "2026-09-06T01:00:57Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-06T01:07:37.210Z"
   }
 ]

@@ -4,6 +4,12 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-06 | 🥇 | [Add a Russian README (README_ru.md), covered by the localized-README drift guard](https://github.com/libredb/libredb-studio/issues/610) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-06 | 🥇 | [The env-documentation guard sees 40 of 62 variables, and 16 of the missing 22 ar](https://github.com/libredb/libredb-studio/issues/609) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-06 | 🥇 | [[Good First Issue] 🍢 Add new Japanese Proverb 118 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29895) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-06 | 🥇 | [[Good First Issue] 🎴 Add new Community Note Line #3 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29888) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-06 | 🥈 | [[CI] Go test workflows (go-testing-ci.yml, server-integration-tests.yml) do not ](https://github.com/meshery/meshery/issues/21834) | `meshery/meshery` | ⭐ 11.6k |
+| 2026-09-06 | 🥉 | [[docs] [expo-router] Question about `dismissTo`](https://github.com/expo/expo/issues/49794) | `expo/expo` | ⭐ 52.1k |
 | 2026-09-06 | 🥇 | [[Good First Issue] 🥟 Add new Wallpaper URL #2 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29887) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-06 | 🥇 | [[Good First Issue] 🍤 Add new Learner Mistake 19 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29886) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-06 | 🥇 | [[Good First Issue] 🍁 Add new Example Sentence 62 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29885) | `lingdojo/kana-dojo` | ⭐ 3.3k |
@@ -98,9 +104,3 @@
 | 2026-09-06 | 🥇 | [[Good First Issue] 🍣 Add new Trivia Question 129 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29849) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-06 | 🥇 | [[Good First Issue] 🧧 Add new Japanese Proverb 152 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29848) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-06 | 🥇 | [Photo Shot List Planner](https://github.com/thinkswell/javascript-mini-projects/issues/1245) | `thinkswell/javascript-mini-projects` | ⭐ 1.5k |
-| 2026-09-06 | 🥈 | [Capability graph: add repository-origin and A2A-delegation nodes](https://github.com/asamassekou10/ship-safe/issues/206) | `asamassekou10/ship-safe` | ⭐ 830 |
-| 2026-09-06 | 🥈 | [Baseline drift: reviewable workflow for tracking upstream Hermes releases](https://github.com/asamassekou10/ship-safe/issues/205) | `asamassekou10/ship-safe` | ⭐ 830 |
-| 2026-09-06 | 🥈 | [Pinned advisory table: map agent versions to documented execution sinks](https://github.com/asamassekou10/ship-safe/issues/204) | `asamassekou10/ship-safe` | ⭐ 830 |
-| 2026-09-06 | 🥈 | [Workspace trust: detect repo-borne execution sinks before an agent opens the fol](https://github.com/asamassekou10/ship-safe/issues/203) | `asamassekou10/ship-safe` | ⭐ 830 |
-| 2026-09-06 | 🥈 | [Ship Safe 11.0 — Untrusted Inputs](https://github.com/asamassekou10/ship-safe/issues/202) | `asamassekou10/ship-safe` | ⭐ 830 |
-| 2026-09-06 | 🥇 | [[Good First Issue] 🍣 Add new Japan Fact 56 - Beginner-Friendly Open-source Cont](https://github.com/lingdojo/kana-dojo/issues/29847) | `lingdojo/kana-dojo` | ⭐ 3.3k |
