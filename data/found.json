@@ -1,5 +1,51 @@
 [
   {
+    "key": "lingdojo/kana-dojo#29958",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29958,
+    "title": "[Good First Issue] 🍣 Add new Etiquette Tip 36 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29958",
+    "comments": 1,
+    "createdAt": "2026-09-07T23:01:10Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-07T23:37:00.867Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29957",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29957,
+    "title": "[Good First Issue] 🎌 Add new False Friend Pair 105 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29957",
+    "comments": 1,
+    "createdAt": "2026-09-07T22:57:34Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-07T23:37:00.867Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#29952",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1993,42 +2039,5 @@
     "language": "typescript",
     "stars": 34329,
     "foundAt": "2026-09-06T14:16:17.679Z"
-  },
-  {
-    "key": "backstage/backstage#35546",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35546,
-    "title": "Snyk vulnerability [SNYK-JS-UNDICI-19635210]",
-    "url": "https://github.com/backstage/backstage/issues/35546",
-    "comments": 0,
-    "createdAt": "2026-09-06T12:07:25Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-06T14:16:17.679Z"
-  },
-  {
-    "key": "SirAllap/agentglass#562",
-    "tier": 3,
-    "repo": "SirAllap/agentglass",
-    "number": 562,
-    "title": "Egress follow-ups after #561: the walkthrough's primary transport, the webhook's trusted hosts, and SECURITY.md",
-    "url": "https://github.com/SirAllap/agentglass/issues/562",
-    "comments": 0,
-    "createdAt": "2026-09-06T14:12:03Z",
-    "labels": [
-      "documentation",
-      "priority: medium",
-      "size: S",
-      "server",
-      "security"
-    ],
-    "language": "typescript",
-    "stars": 292,
-    "foundAt": "2026-09-06T14:16:18.697Z"
   }
 ]

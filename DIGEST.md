@@ -4,6 +4,8 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-07 | 🥇 | [[Good First Issue] 🍣 Add new Etiquette Tip 36 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29958) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-07 | 🥇 | [[Good First Issue] 🎌 Add new False Friend Pair 105 - Beginner-Friendly Open-sou](https://github.com/lingdojo/kana-dojo/issues/29957) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-07 | 🥇 | [[Good First Issue] 🧧 Add new Japanese Proverb 85 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29952) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-07 | 🥇 | [[Good First Issue] 🏮 Add new Japan Fact 21 - Beginner-Friendly Open-source Cont](https://github.com/lingdojo/kana-dojo/issues/29951) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-07 | 🥇 | [Add an Urdu README (README_ur.md), covered by the localized-README drift guard](https://github.com/libredb/libredb-studio/issues/637) | `libredb/libredb-studio` | ⭐ 402 |
@@ -102,5 +104,3 @@
 | 2026-09-06 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-19635214]](https://github.com/backstage/backstage/issues/35548) | `backstage/backstage` | ⭐ 34.3k |
 | 2026-09-06 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-19635206]](https://github.com/backstage/backstage/issues/35544) | `backstage/backstage` | ⭐ 34.3k |
 | 2026-09-06 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-19635208]](https://github.com/backstage/backstage/issues/35545) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-06 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-19635210]](https://github.com/backstage/backstage/issues/35546) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-06 | 🥉 | [Egress follow-ups after #561: the walkthrough's primary transport, the webhook's](https://github.com/SirAllap/agentglass/issues/562) | `SirAllap/agentglass` | ⭐ 292 |
