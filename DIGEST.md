@@ -4,6 +4,13 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-07 | 🥇 | [[Good First Issue] 🦊 Add new Japanese Idiom 85 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29901) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-07 | 🥇 | [[Good First Issue] 🥢 Add new Video Game Quote 67 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29900) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-07 | 🥇 | [[Good First Issue] 🎴 Add new Anime Quote 59 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29899) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-07 | 🥇 | [[Good First Issue] 🗾 Add new Grammar Point 118 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29898) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-07 | 🥇 | [[Good First Issue] 🌊 Add new Trivia Question 82 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29897) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-07 | 🥇 | [[Good First Issue] 🗾 Add new Japanese Haiku 5 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29896) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-07 | 🥈 | [Bug report: build fails with webpack >= 5.110.0](https://github.com/gchq/CyberChef/issues/2778) | `gchq/CyberChef` | ⭐ 35.8k |
 | 2026-09-06 | 🥇 | [Add a Russian README (README_ru.md), covered by the localized-README drift guard](https://github.com/libredb/libredb-studio/issues/610) | `libredb/libredb-studio` | ⭐ 402 |
 | 2026-09-06 | 🥇 | [The env-documentation guard sees 40 of 62 variables, and 16 of the missing 22 ar](https://github.com/libredb/libredb-studio/issues/609) | `libredb/libredb-studio` | ⭐ 402 |
 | 2026-09-06 | 🥇 | [[Good First Issue] 🍢 Add new Japanese Proverb 118 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29895) | `lingdojo/kana-dojo` | ⭐ 3.3k |
@@ -97,10 +104,3 @@
 | 2026-09-06 | 🥇 | [[Good First Issue] 🌋 Add new Example Sentence 70 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29855) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-06 | 🥇 | [The "Remove" button for the "Bulk delete videos by watch progress" often fails t](https://github.com/code-charity/youtube/issues/4318) | `code-charity/youtube` | ⭐ 4.6k |
 | 2026-09-06 | 🥇 | [[Good First Issue] 🐙 Add new Etiquette Tip 116 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29854) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-06 | 🥇 | [[Good First Issue] 🌋 Add new Dialect Entry 11 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29853) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-06 | 🥇 | [[Good First Issue] 🥢 Add new Japanese Idiom 11 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29852) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-06 | 🥇 | [[Good First Issue] 🐡 Add new Video Game Quote 1 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29851) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-06 | 🥇 | [[Good First Issue] 🍙 Add new Anime Quote 79 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29850) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-06 | 🥇 | [[Good First Issue] 🍣 Add new Trivia Question 129 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29849) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-06 | 🥇 | [[Good First Issue] 🧧 Add new Japanese Proverb 152 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29848) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-06 | 🥇 | [Photo Shot List Planner](https://github.com/thinkswell/javascript-mini-projects/issues/1245) | `thinkswell/javascript-mini-projects` | ⭐ 1.5k |
