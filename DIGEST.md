@@ -4,6 +4,17 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-07 | 🥇 | [[Good First Issue] 🌸 Add new Japan Fact 133 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29913) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-07 | 🥇 | [[Good First Issue] 🏯 Add new Theme: Citrus Shrine - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29912) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-07 | 🥇 | [[Good First Issue] 🌊 Add new Community Note Line #4 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29911) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-07 | 🥇 | [[Good First Issue] 🌋 Add new Wallpaper URL #2 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29910) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-07 | 🥇 | [[Good First Issue] 🍘 Add new Learner Mistake 96 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29908) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-07 | 🥇 | [💡Full video buffer](https://github.com/code-charity/youtube/issues/4321) | `code-charity/youtube` | ⭐ 4.6k |
+| 2026-09-07 | 🥈 | [[Discussion]: gpt6 astra cannot select thinking intensity, please fix as soon as](https://github.com/CherryHQ/cherry-studio/issues/20144) | `CherryHQ/cherry-studio` | ⭐ 51.5k |
+| 2026-09-07 | 🥈 | [[Good First Issue] 🎐 Add new Etiquette Tip 65 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29904) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-07 | 🥈 | [[Good First Issue] 🎏 Add new False Friend Pair 35 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29903) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-07 | 🥈 | [A IA não pode dizer que a mensagem veio vazia quando ela tem texto (do PR #601, ](https://github.com/melgarafael/DeskcommCRM/issues/617) | `melgarafael/DeskcommCRM` | ⭐ 828 |
+| 2026-09-07 | 🥈 | [[Good First Issue] 🍤 Add new Dialect Entry 74 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29902) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-07 | 🥇 | [[Good First Issue] 🦊 Add new Japanese Idiom 85 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29901) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-07 | 🥇 | [[Good First Issue] 🥢 Add new Video Game Quote 67 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29900) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-07 | 🥇 | [[Good First Issue] 🎴 Add new Anime Quote 59 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29899) | `lingdojo/kana-dojo` | ⭐ 3.3k |
@@ -93,14 +104,3 @@
 | 2026-09-06 | 🥈 | [[agent] Capture the response body of a failed request by default: the 74 bytes t](https://github.com/reticlehq/reticle/issues/800) | `reticlehq/reticle` | ⭐ 443 |
 | 2026-09-06 | 🥈 | [[agent] The 8KB body cap makes negative bodyContains assertions permanently unde](https://github.com/reticlehq/reticle/issues/799) | `reticlehq/reticle` | ⭐ 443 |
 | 2026-09-06 | 🥈 | [[agent] There is no way to assert on a request body, so "the UI actually sent th](https://github.com/reticlehq/reticle/issues/798) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-06 | 🥈 | [[agent] Presence predicates match hidden and always-present container nodes, so ](https://github.com/reticlehq/reticle/issues/797) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-06 | 🥈 | [[agent] An absence check that found matching elements returns unknown on a throt](https://github.com/reticlehq/reticle/issues/796) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-06 | 🥈 | [[Help] cloudflare提交部署应该有问题](https://github.com/maillab/cloud-mail/issues/568) | `maillab/cloud-mail` | ⭐ 14.0k |
-| 2026-09-06 | 🥈 | [UI tests are flaky in 01_io.js](https://github.com/gchq/CyberChef/issues/2774) | `gchq/CyberChef` | ⭐ 35.8k |
-| 2026-09-06 | 🥉 | [[DOCS]: Incorrect path is mentioned under "Windows Installation"](https://github.com/Mintplex-Labs/anything-llm/issues/6304) | `Mintplex-Labs/anything-llm` | ⭐ 65.7k |
-| 2026-09-06 | 🥉 | [[Showcase]:  I made an extension](https://github.com/tt-a1i/archify/issues/326) | `tt-a1i/archify` | ⭐ 50.1k |
-| 2026-09-06 | 🥇 | [[Good First Issue] 🌋 Add new Community Note Line #3 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29857) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-06 | 🥇 | [[Good First Issue] 🍤 Add new Learner Mistake 36 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29856) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-06 | 🥇 | [[Good First Issue] 🌋 Add new Example Sentence 70 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29855) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-06 | 🥇 | [The "Remove" button for the "Bulk delete videos by watch progress" often fails t](https://github.com/code-charity/youtube/issues/4318) | `code-charity/youtube` | ⭐ 4.6k |
-| 2026-09-06 | 🥇 | [[Good First Issue] 🐙 Add new Etiquette Tip 116 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29854) | `lingdojo/kana-dojo` | ⭐ 3.3k |
