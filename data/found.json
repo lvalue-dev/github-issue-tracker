@@ -1,5 +1,371 @@
 [
   {
+    "key": "lingdojo/kana-dojo#29952",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29952,
+    "title": "[Good First Issue] 🧧 Add new Japanese Proverb 85 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29952",
+    "comments": 1,
+    "createdAt": "2026-09-07T20:01:07Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-07T20:40:49.759Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29951",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29951,
+    "title": "[Good First Issue] 🏮 Add new Japan Fact 21 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29951",
+    "comments": 1,
+    "createdAt": "2026-09-07T19:57:31Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-07T20:40:49.759Z"
+  },
+  {
+    "key": "libredb/libredb-studio#637",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 637,
+    "title": "Add an Urdu README (README_ur.md), covered by the localized-README drift guard",
+    "url": "https://github.com/libredb/libredb-studio/issues/637",
+    "comments": 0,
+    "createdAt": "2026-09-07T19:34:53Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 402,
+    "foundAt": "2026-09-07T20:40:49.759Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29950",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29950,
+    "title": "[Good First Issue] 🀄 Add new Theme: Street Lantern - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29950",
+    "comments": 1,
+    "createdAt": "2026-09-07T19:01:06Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-07T20:40:50.007Z"
+  },
+  {
+    "key": "code-charity/youtube#4322",
+    "tier": 1,
+    "repo": "code-charity/youtube",
+    "number": 4322,
+    "title": "🐞 Disable Auto play not working when using incognito",
+    "url": "https://github.com/code-charity/youtube/issues/4322",
+    "comments": 0,
+    "createdAt": "2026-09-07T18:58:41Z",
+    "labels": [
+      "Bug",
+      "help wanted",
+      "good first issue",
+      "up-for-grabs"
+    ],
+    "language": "javascript",
+    "stars": 4566,
+    "foundAt": "2026-09-07T20:40:51.895Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29949",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29949,
+    "title": "[Good First Issue] 🍢 Add new Community Note Line #3 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29949",
+    "comments": 1,
+    "createdAt": "2026-09-07T18:57:31Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-07T20:40:50.007Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29948",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29948,
+    "title": "[Good First Issue] 🐡 Add new Wallpaper URL #3 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29948",
+    "comments": 1,
+    "createdAt": "2026-09-07T18:01:09Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-07T20:40:50.255Z"
+  },
+  {
+    "key": "reticlehq/reticle#852",
+    "tier": 1,
+    "repo": "reticlehq/reticle",
+    "number": 852,
+    "title": "A disabled build should ship no SDK code at all, not merely go unused",
+    "url": "https://github.com/reticlehq/reticle/issues/852",
+    "comments": 1,
+    "createdAt": "2026-09-07T17:58:55Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 443,
+    "foundAt": "2026-09-07T20:40:50.255Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29947",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29947,
+    "title": "[Good First Issue] 🌊 Add new Learner Mistake 88 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29947",
+    "comments": 1,
+    "createdAt": "2026-09-07T17:57:32Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-07T20:40:50.255Z"
+  },
+  {
+    "key": "software-mansion/TypeGPU#2990",
+    "tier": 1,
+    "repo": "software-mansion/TypeGPU",
+    "number": 2990,
+    "title": "impr: Validate `dpdx`, `dpdy`, `inverseSqrt` signatures in codeden mode",
+    "url": "https://github.com/software-mansion/TypeGPU/issues/2990",
+    "comments": 1,
+    "createdAt": "2026-09-07T17:11:55Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "good first human issue"
+    ],
+    "language": "typescript",
+    "stars": 3178,
+    "foundAt": "2026-09-07T20:40:50.839Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29945",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29945,
+    "title": "[Good First Issue] 🎌 Add new Example Sentence 17 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29945",
+    "comments": 1,
+    "createdAt": "2026-09-07T17:01:05Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-07T20:40:51.285Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29944",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29944,
+    "title": "[Good First Issue] 🪭 Add new Etiquette Tip 80 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29944",
+    "comments": 1,
+    "createdAt": "2026-09-07T16:57:32Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-07T20:40:51.285Z"
+  },
+  {
+    "key": "layer5io/layer5#8028",
+    "tier": 2,
+    "repo": "layer5io/layer5",
+    "number": 8028,
+    "title": "[UI]: She Code Africa logo is off-center on mobile view",
+    "url": "https://github.com/layer5io/layer5/issues/8028",
+    "comments": 0,
+    "createdAt": "2026-09-07T19:13:46Z",
+    "labels": [
+      "kind/bug",
+      "help wanted",
+      "framework/gatsby"
+    ],
+    "language": "javascript",
+    "stars": 1115,
+    "foundAt": "2026-09-07T20:40:53.470Z"
+  },
+  {
+    "key": "gflohr/e-invoice-eu#600",
+    "tier": 2,
+    "repo": "gflohr/e-invoice-eu",
+    "number": 600,
+    "title": "Support for Italian FatturaPA",
+    "url": "https://github.com/gflohr/e-invoice-eu/issues/600",
+    "comments": 2,
+    "createdAt": "2026-09-07T18:45:01Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "ubl"
+    ],
+    "language": "typescript",
+    "stars": 305,
+    "foundAt": "2026-09-07T20:40:53.068Z"
+  },
+  {
+    "key": "reticlehq/reticle#853",
+    "tier": 2,
+    "repo": "reticlehq/reticle",
+    "number": 853,
+    "title": "Two small ergonomics borrows: a @reticle-ignore comment, and co-located component docs",
+    "url": "https://github.com/reticlehq/reticle/issues/853",
+    "comments": 0,
+    "createdAt": "2026-09-07T17:59:17Z",
+    "labels": [
+      "enhancement",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 443,
+    "foundAt": "2026-09-07T20:40:53.068Z"
+  },
+  {
+    "key": "reticlehq/reticle#851",
+    "tier": 2,
+    "repo": "reticlehq/reticle",
+    "number": 851,
+    "title": "A tool that traces where a runtime value came from (state path ← action ← request)",
+    "url": "https://github.com/reticlehq/reticle/issues/851",
+    "comments": 0,
+    "createdAt": "2026-09-07T17:58:33Z",
+    "labels": [
+      "enhancement",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 443,
+    "foundAt": "2026-09-07T20:40:53.068Z"
+  },
+  {
+    "key": "apache/maka#4998",
+    "tier": 2,
+    "repo": "apache/maka",
+    "number": 4998,
+    "title": "fix(core): a persisted shape's accepted key set can shrink without anything noticing",
+    "url": "https://github.com/apache/maka/issues/4998",
+    "comments": 0,
+    "createdAt": "2026-09-07T17:25:06Z",
+    "labels": [
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 4920,
+    "foundAt": "2026-09-07T20:40:53.275Z"
+  },
+  {
+    "key": "mcp-use/mcp-use#2472",
+    "tier": 3,
+    "repo": "mcp-use/mcp-use",
+    "number": 2472,
+    "title": "docs: correct outdated TypeScript test commands in CONTRIBUTING.md",
+    "url": "https://github.com/mcp-use/mcp-use/issues/2472",
+    "comments": 0,
+    "createdAt": "2026-09-07T20:31:11Z",
+    "labels": [
+      "documentation",
+      "TypeScript",
+      "agent",
+      "server",
+      "v2",
+      "mcp-use/mcp-use"
+    ],
+    "language": "typescript",
+    "stars": 10588,
+    "foundAt": "2026-09-07T20:40:54.485Z"
+  },
+  {
     "key": "nhost/nhost#4967",
     "tier": 1,
     "repo": "nhost/nhost",
@@ -1664,347 +2030,5 @@
     "language": "typescript",
     "stars": 292,
     "foundAt": "2026-09-06T14:16:18.697Z"
-  },
-  {
-    "key": "neomjs/neo#18384",
-    "tier": 3,
-    "repo": "neomjs/neo",
-    "number": 18384,
-    "title": "Evaluate and document parser-safe compact JSDoc formatting",
-    "url": "https://github.com/neomjs/neo/issues/18384",
-    "comments": 0,
-    "createdAt": "2026-09-06T13:04:30Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "ai",
-      "testing",
-      "build"
-    ],
-    "language": "javascript",
-    "stars": 3265,
-    "foundAt": "2026-09-06T14:16:19.794Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29869",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29869,
-    "title": "[Good First Issue] 🎋 Add new Wallpaper URL #2 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29869",
-    "comments": 1,
-    "createdAt": "2026-09-06T11:00:57Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-06T11:08:58.210Z"
-  },
-  {
-    "key": "reticlehq/reticle#814",
-    "tier": 1,
-    "repo": "reticlehq/reticle",
-    "number": 814,
-    "title": "[agent] Streamlit has no served HTML template, so the script-tag setup does not map and nothing says so",
-    "url": "https://github.com/reticlehq/reticle/issues/814",
-    "comments": 0,
-    "createdAt": "2026-09-06T10:51:01Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 443,
-    "foundAt": "2026-09-06T11:08:58.453Z"
-  },
-  {
-    "key": "reticlehq/reticle#809",
-    "tier": 1,
-    "repo": "reticlehq/reticle",
-    "number": 809,
-    "title": "[agent] serve hides the daemon's startup cause in the log, and status then blames instrumentation instead",
-    "url": "https://github.com/reticlehq/reticle/issues/809",
-    "comments": 0,
-    "createdAt": "2026-09-06T10:50:46Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 443,
-    "foundAt": "2026-09-06T11:08:58.453Z"
-  },
-  {
-    "key": "reticlehq/reticle#803",
-    "tier": 1,
-    "repo": "reticlehq/reticle",
-    "number": 803,
-    "title": "[agent] The Vite plugin injects the HUD into Vitest browser-mode iframes, where it intercepts pointer events",
-    "url": "https://github.com/reticlehq/reticle/issues/803",
-    "comments": 0,
-    "createdAt": "2026-09-06T10:50:30Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 443,
-    "foundAt": "2026-09-06T11:08:58.453Z"
-  },
-  {
-    "key": "reticlehq/reticle#795",
-    "tier": 1,
-    "repo": "reticlehq/reticle",
-    "number": 795,
-    "title": "[agent] The ambiguous-target error appends the \"may be a defect in Reticle\" nudge to a correctly-classified caller error",
-    "url": "https://github.com/reticlehq/reticle/issues/795",
-    "comments": 0,
-    "createdAt": "2026-09-06T10:50:09Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 443,
-    "foundAt": "2026-09-06T11:08:58.453Z"
-  },
-  {
-    "key": "reticlehq/reticle#794",
-    "tier": 1,
-    "repo": "reticlehq/reticle",
-    "number": 794,
-    "title": "[agent] The split-text hint suggests { scope, self: true }, which the text predicate's schema rejects",
-    "url": "https://github.com/reticlehq/reticle/issues/794",
-    "comments": 1,
-    "createdAt": "2026-09-06T10:50:07Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 443,
-    "foundAt": "2026-09-06T11:08:58.453Z"
-  },
-  {
-    "key": "libredb/libredb-studio#596",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 596,
-    "title": "Add a Korean README (README_ko.md), covered by the localized-README drift guard",
-    "url": "https://github.com/libredb/libredb-studio/issues/596",
-    "comments": 0,
-    "createdAt": "2026-09-06T10:37:50Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 402,
-    "foundAt": "2026-09-06T11:08:58.453Z"
-  },
-  {
-    "key": "libredb/libredb-studio#595",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 595,
-    "title": "Add a Hindi README (README_hi.md), covered by the localized-README drift guard",
-    "url": "https://github.com/libredb/libredb-studio/issues/595",
-    "comments": 0,
-    "createdAt": "2026-09-06T10:37:48Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 402,
-    "foundAt": "2026-09-06T11:08:58.453Z"
-  },
-  {
-    "key": "libredb/libredb-studio#594",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 594,
-    "title": "Add a Brazilian Portuguese README (README_pt.md), covered by the localized-README drift guard",
-    "url": "https://github.com/libredb/libredb-studio/issues/594",
-    "comments": 0,
-    "createdAt": "2026-09-06T10:37:47Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 402,
-    "foundAt": "2026-09-06T11:08:58.453Z"
-  },
-  {
-    "key": "libredb/libredb-studio#593",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 593,
-    "title": "Add a Spanish README (README_es.md), covered by the localized-README drift guard",
-    "url": "https://github.com/libredb/libredb-studio/issues/593",
-    "comments": 0,
-    "createdAt": "2026-09-06T10:37:45Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 402,
-    "foundAt": "2026-09-06T11:08:58.454Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29868",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29868,
-    "title": "[Good First Issue] 🌊 Add new Example Sentence 102 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29868",
-    "comments": 1,
-    "createdAt": "2026-09-06T10:37:32Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-06T11:08:58.454Z"
-  },
-  {
-    "key": "libredb/libredb-studio#592",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 592,
-    "title": "Four top-level docs cite code by line number, and every checkable one is stale",
-    "url": "https://github.com/libredb/libredb-studio/issues/592",
-    "comments": 0,
-    "createdAt": "2026-09-06T10:33:00Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 402,
-    "foundAt": "2026-09-06T11:08:58.454Z"
-  },
-  {
-    "key": "libredb/libredb-studio#591",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 591,
-    "title": "docs/providers/couchbase.md: replace 30 stale line-number citations with named citations",
-    "url": "https://github.com/libredb/libredb-studio/issues/591",
-    "comments": 0,
-    "createdAt": "2026-09-06T10:31:06Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 402,
-    "foundAt": "2026-09-06T11:08:58.454Z"
-  },
-  {
-    "key": "libredb/libredb-studio#590",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 590,
-    "title": "docs/providers/druid.md: replace 18 stale line-number citations with named citations",
-    "url": "https://github.com/libredb/libredb-studio/issues/590",
-    "comments": 0,
-    "createdAt": "2026-09-06T10:31:05Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 402,
-    "foundAt": "2026-09-06T11:08:58.454Z"
-  },
-  {
-    "key": "libredb/libredb-studio#589",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 589,
-    "title": "docs/providers/postgres.md: replace 18 stale line-number citations with named citations",
-    "url": "https://github.com/libredb/libredb-studio/issues/589",
-    "comments": 0,
-    "createdAt": "2026-09-06T10:31:03Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 402,
-    "foundAt": "2026-09-06T11:08:58.454Z"
-  },
-  {
-    "key": "libredb/libredb-studio#588",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 588,
-    "title": "docs/providers/clickhouse.md: replace 17 stale line-number citations with named citations",
-    "url": "https://github.com/libredb/libredb-studio/issues/588",
-    "comments": 0,
-    "createdAt": "2026-09-06T10:31:02Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 402,
-    "foundAt": "2026-09-06T11:08:58.454Z"
-  },
-  {
-    "key": "libredb/libredb-studio#587",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 587,
-    "title": "docs/providers/sqlite.md: replace 7 stale line-number citations with named citations",
-    "url": "https://github.com/libredb/libredb-studio/issues/587",
-    "comments": 0,
-    "createdAt": "2026-09-06T10:31:00Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 402,
-    "foundAt": "2026-09-06T11:08:58.454Z"
   }
 ]

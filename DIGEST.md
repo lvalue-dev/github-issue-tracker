@@ -4,6 +4,24 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-07 | 🥇 | [[Good First Issue] 🧧 Add new Japanese Proverb 85 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29952) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-07 | 🥇 | [[Good First Issue] 🏮 Add new Japan Fact 21 - Beginner-Friendly Open-source Cont](https://github.com/lingdojo/kana-dojo/issues/29951) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-07 | 🥇 | [Add an Urdu README (README_ur.md), covered by the localized-README drift guard](https://github.com/libredb/libredb-studio/issues/637) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-07 | 🥇 | [[Good First Issue] 🀄 Add new Theme: Street Lantern - Beginner-Friendly Open-sou](https://github.com/lingdojo/kana-dojo/issues/29950) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-07 | 🥇 | [🐞 Disable Auto play not working when using incognito](https://github.com/code-charity/youtube/issues/4322) | `code-charity/youtube` | ⭐ 4.6k |
+| 2026-09-07 | 🥇 | [[Good First Issue] 🍢 Add new Community Note Line #3 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29949) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-07 | 🥇 | [[Good First Issue] 🐡 Add new Wallpaper URL #3 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29948) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-07 | 🥇 | [A disabled build should ship no SDK code at all, not merely go unused](https://github.com/reticlehq/reticle/issues/852) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-07 | 🥇 | [[Good First Issue] 🌊 Add new Learner Mistake 88 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29947) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-07 | 🥇 | [impr: Validate `dpdx`, `dpdy`, `inverseSqrt` signatures in codeden mode](https://github.com/software-mansion/TypeGPU/issues/2990) | `software-mansion/TypeGPU` | ⭐ 3.2k |
+| 2026-09-07 | 🥇 | [[Good First Issue] 🎌 Add new Example Sentence 17 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29945) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-07 | 🥇 | [[Good First Issue] 🪭 Add new Etiquette Tip 80 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29944) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-07 | 🥈 | [[UI]: She Code Africa logo is off-center on mobile view](https://github.com/layer5io/layer5/issues/8028) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-07 | 🥈 | [Support for Italian FatturaPA](https://github.com/gflohr/e-invoice-eu/issues/600) | `gflohr/e-invoice-eu` | ⭐ 305 |
+| 2026-09-07 | 🥈 | [Two small ergonomics borrows: a @reticle-ignore comment, and co-located componen](https://github.com/reticlehq/reticle/issues/853) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-07 | 🥈 | [A tool that traces where a runtime value came from (state path ← action ← reques](https://github.com/reticlehq/reticle/issues/851) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-07 | 🥈 | [fix(core): a persisted shape's accepted key set can shrink without anything noti](https://github.com/apache/maka/issues/4998) | `apache/maka` | ⭐ 4.9k |
+| 2026-09-07 | 🥉 | [docs: correct outdated TypeScript test commands in CONTRIBUTING.md](https://github.com/mcp-use/mcp-use/issues/2472) | `mcp-use/mcp-use` | ⭐ 10.6k |
 | 2026-09-07 | 🥇 | [docs style: link inside cards is smaller than the card](https://github.com/nhost/nhost/issues/4967) | `nhost/nhost` | ⭐ 9.3k |
 | 2026-09-07 | 🥇 | [[Good First Issue] 🥟 Add new False Friend Pair 45 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29942) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-07 | 🥇 | [Text align "justified" writes an invalid CSS value](https://github.com/silexlabs/Silex/issues/1850) | `silexlabs/Silex` | ⭐ 3.0k |
@@ -86,21 +104,3 @@
 | 2026-09-06 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-19635208]](https://github.com/backstage/backstage/issues/35545) | `backstage/backstage` | ⭐ 34.3k |
 | 2026-09-06 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-19635210]](https://github.com/backstage/backstage/issues/35546) | `backstage/backstage` | ⭐ 34.3k |
 | 2026-09-06 | 🥉 | [Egress follow-ups after #561: the walkthrough's primary transport, the webhook's](https://github.com/SirAllap/agentglass/issues/562) | `SirAllap/agentglass` | ⭐ 292 |
-| 2026-09-06 | 🥉 | [Evaluate and document parser-safe compact JSDoc formatting](https://github.com/neomjs/neo/issues/18384) | `neomjs/neo` | ⭐ 3.3k |
-| 2026-09-06 | 🥇 | [[Good First Issue] 🎋 Add new Wallpaper URL #2 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29869) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-06 | 🥇 | [[agent] Streamlit has no served HTML template, so the script-tag setup does not ](https://github.com/reticlehq/reticle/issues/814) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-06 | 🥇 | [[agent] serve hides the daemon's startup cause in the log, and status then blame](https://github.com/reticlehq/reticle/issues/809) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-06 | 🥇 | [[agent] The Vite plugin injects the HUD into Vitest browser-mode iframes, where ](https://github.com/reticlehq/reticle/issues/803) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-06 | 🥇 | [[agent] The ambiguous-target error appends the "may be a defect in Reticle" nudg](https://github.com/reticlehq/reticle/issues/795) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-06 | 🥇 | [[agent] The split-text hint suggests { scope, self: true }, which the text predi](https://github.com/reticlehq/reticle/issues/794) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-06 | 🥇 | [Add a Korean README (README_ko.md), covered by the localized-README drift guard](https://github.com/libredb/libredb-studio/issues/596) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-06 | 🥇 | [Add a Hindi README (README_hi.md), covered by the localized-README drift guard](https://github.com/libredb/libredb-studio/issues/595) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-06 | 🥇 | [Add a Brazilian Portuguese README (README_pt.md), covered by the localized-READM](https://github.com/libredb/libredb-studio/issues/594) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-06 | 🥇 | [Add a Spanish README (README_es.md), covered by the localized-README drift guard](https://github.com/libredb/libredb-studio/issues/593) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-06 | 🥇 | [[Good First Issue] 🌊 Add new Example Sentence 102 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29868) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-06 | 🥇 | [Four top-level docs cite code by line number, and every checkable one is stale](https://github.com/libredb/libredb-studio/issues/592) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-06 | 🥇 | [docs/providers/couchbase.md: replace 30 stale line-number citations with named c](https://github.com/libredb/libredb-studio/issues/591) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-06 | 🥇 | [docs/providers/druid.md: replace 18 stale line-number citations with named citat](https://github.com/libredb/libredb-studio/issues/590) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-06 | 🥇 | [docs/providers/postgres.md: replace 18 stale line-number citations with named ci](https://github.com/libredb/libredb-studio/issues/589) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-06 | 🥇 | [docs/providers/clickhouse.md: replace 17 stale line-number citations with named ](https://github.com/libredb/libredb-studio/issues/588) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-06 | 🥇 | [docs/providers/sqlite.md: replace 7 stale line-number citations with named citat](https://github.com/libredb/libredb-studio/issues/587) | `libredb/libredb-studio` | ⭐ 402 |
