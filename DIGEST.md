@@ -4,6 +4,14 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-07 | 🥇 | [docs style: link inside cards is smaller than the card](https://github.com/nhost/nhost/issues/4967) | `nhost/nhost` | ⭐ 9.3k |
+| 2026-09-07 | 🥇 | [[Good First Issue] 🥟 Add new False Friend Pair 45 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29942) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-07 | 🥇 | [Text align "justified" writes an invalid CSS value](https://github.com/silexlabs/Silex/issues/1850) | `silexlabs/Silex` | ⭐ 3.0k |
+| 2026-09-07 | 🥇 | [[Feature] 希望附件转为链接形式](https://github.com/dreamhunter2333/cloudflare_temp_email/issues/1142) | `dreamhunter2333/cloudflare_temp_email` | ⭐ 11.7k |
+| 2026-09-07 | 🥇 | [[Good First Issue] 🦊 Add new Video Game Quote 109 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29940) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-07 | 🥇 | [[Good First Issue] 🐉 Add new Anime Quote 59 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29939) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-07 | 🥇 | [[Good First Issue] 🍣 Add new Grammar Point 95 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29938) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-07 | 🥈 | [[404] Broken Link Found](https://github.com/layer5io/layer5/issues/8027) | `layer5io/layer5` | ⭐ 1.1k |
 | 2026-09-07 | 🥇 | [[Good First Issue] 🌊 Add new Example Sentence 59 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29927) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-07 | 🥇 | [[Good First Issue] 🍘 Add new Etiquette Tip 18 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29926) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-07 | 🥇 | [[Good First Issue] 🍢 Add new False Friend Pair 118 - Beginner-Friendly Open-sou](https://github.com/lingdojo/kana-dojo/issues/29925) | `lingdojo/kana-dojo` | ⭐ 3.3k |
@@ -96,11 +104,3 @@
 | 2026-09-06 | 🥇 | [docs/providers/postgres.md: replace 18 stale line-number citations with named ci](https://github.com/libredb/libredb-studio/issues/589) | `libredb/libredb-studio` | ⭐ 402 |
 | 2026-09-06 | 🥇 | [docs/providers/clickhouse.md: replace 17 stale line-number citations with named ](https://github.com/libredb/libredb-studio/issues/588) | `libredb/libredb-studio` | ⭐ 402 |
 | 2026-09-06 | 🥇 | [docs/providers/sqlite.md: replace 7 stale line-number citations with named citat](https://github.com/libredb/libredb-studio/issues/587) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-06 | 🥇 | [docs/providers/redis.md: replace 13 stale line-number citations with named citat](https://github.com/libredb/libredb-studio/issues/586) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-06 | 🥇 | [MSSQL and Oracle getOverview() still fold a missing size row into a measured zer](https://github.com/libredb/libredb-studio/issues/585) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-06 | 🥇 | [[Good First Issue] 🐡 Add new False Friend Pair 41 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29867) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-06 | 🥇 | [[Good First Issue] 🥢 Add new Dialect Entry 63 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29866) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-06 | 🥇 | [[Good First Issue] 🍤 Add new Japanese Idiom 21 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29864) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-06 | 🥇 | [[Good First Issue] 🦊 Add new Anime Quote 13 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29862) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-06 | 🥇 | [Open new source to check Webhook [TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/21912) | `PipedreamHQ/pipedream` | ⭐ 11.7k |
-| 2026-09-06 | 🥈 | [[agent] Leaving the instrumented origin returns observation_lost, so an OAuth ha](https://github.com/reticlehq/reticle/issues/813) | `reticlehq/reticle` | ⭐ 443 |

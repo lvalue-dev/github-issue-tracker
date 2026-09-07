@@ -1,5 +1,167 @@
 [
   {
+    "key": "nhost/nhost#4967",
+    "tier": 1,
+    "repo": "nhost/nhost",
+    "number": 4967,
+    "title": "docs style: link inside cards is smaller than the card",
+    "url": "https://github.com/nhost/nhost/issues/4967",
+    "comments": 0,
+    "createdAt": "2026-09-07T16:11:17Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 9287,
+    "foundAt": "2026-09-07T16:34:26.905Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29942",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29942,
+    "title": "[Good First Issue] 🥟 Add new False Friend Pair 45 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29942",
+    "comments": 1,
+    "createdAt": "2026-09-07T16:01:10Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-07T16:34:27.337Z"
+  },
+  {
+    "key": "silexlabs/Silex#1850",
+    "tier": 1,
+    "repo": "silexlabs/Silex",
+    "number": 1850,
+    "title": "Text align \"justified\" writes an invalid CSS value",
+    "url": "https://github.com/silexlabs/Silex/issues/1850",
+    "comments": 1,
+    "createdAt": "2026-09-07T15:23:38Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 2953,
+    "foundAt": "2026-09-07T16:34:27.773Z"
+  },
+  {
+    "key": "dreamhunter2333/cloudflare_temp_email#1142",
+    "tier": 1,
+    "repo": "dreamhunter2333/cloudflare_temp_email",
+    "number": 1142,
+    "title": "[Feature] 希望附件转为链接形式",
+    "url": "https://github.com/dreamhunter2333/cloudflare_temp_email/issues/1142",
+    "comments": 3,
+    "createdAt": "2026-09-07T15:03:31Z",
+    "labels": [
+      "enhancement",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 11679,
+    "foundAt": "2026-09-07T16:34:27.988Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29940",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29940,
+    "title": "[Good First Issue] 🦊 Add new Video Game Quote 109 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29940",
+    "comments": 1,
+    "createdAt": "2026-09-07T15:01:28Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-07T16:34:27.988Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29939",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29939,
+    "title": "[Good First Issue] 🐉 Add new Anime Quote 59 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29939",
+    "comments": 1,
+    "createdAt": "2026-09-07T14:57:31Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-07T16:34:27.988Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29938",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29938,
+    "title": "[Good First Issue] 🍣 Add new Grammar Point 95 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29938",
+    "comments": 1,
+    "createdAt": "2026-09-07T14:37:32Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-07T16:34:28.344Z"
+  },
+  {
+    "key": "layer5io/layer5#8027",
+    "tier": 2,
+    "repo": "layer5io/layer5",
+    "number": 8027,
+    "title": "[404] Broken Link Found",
+    "url": "https://github.com/layer5io/layer5/issues/8027",
+    "comments": 0,
+    "createdAt": "2026-09-07T14:36:19Z",
+    "labels": [
+      "kind/bug",
+      "help wanted",
+      "framework/gatsby"
+    ],
+    "language": "javascript",
+    "stars": 1115,
+    "foundAt": "2026-09-07T16:34:30.159Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#29927",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1844,170 +2006,5 @@
     "language": "typescript",
     "stars": 402,
     "foundAt": "2026-09-06T11:08:58.454Z"
-  },
-  {
-    "key": "libredb/libredb-studio#586",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 586,
-    "title": "docs/providers/redis.md: replace 13 stale line-number citations with named citations",
-    "url": "https://github.com/libredb/libredb-studio/issues/586",
-    "comments": 0,
-    "createdAt": "2026-09-06T10:30:58Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 402,
-    "foundAt": "2026-09-06T11:08:58.454Z"
-  },
-  {
-    "key": "libredb/libredb-studio#585",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 585,
-    "title": "MSSQL and Oracle getOverview() still fold a missing size row into a measured zero",
-    "url": "https://github.com/libredb/libredb-studio/issues/585",
-    "comments": 0,
-    "createdAt": "2026-09-06T10:22:54Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 402,
-    "foundAt": "2026-09-06T11:08:58.454Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29867",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29867,
-    "title": "[Good First Issue] 🐡 Add new False Friend Pair 41 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29867",
-    "comments": 1,
-    "createdAt": "2026-09-06T10:00:59Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-06T11:08:58.454Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29866",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29866,
-    "title": "[Good First Issue] 🥢 Add new Dialect Entry 63 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29866",
-    "comments": 1,
-    "createdAt": "2026-09-06T09:37:30Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-06T11:08:58.644Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29864",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29864,
-    "title": "[Good First Issue] 🍤 Add new Japanese Idiom 21 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29864",
-    "comments": 1,
-    "createdAt": "2026-09-06T09:00:57Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-06T11:08:58.854Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29862",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29862,
-    "title": "[Good First Issue] 🦊 Add new Anime Quote 13 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29862",
-    "comments": 1,
-    "createdAt": "2026-09-06T08:37:29Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-06T11:08:58.854Z"
-  },
-  {
-    "key": "PipedreamHQ/pipedream#21912",
-    "tier": 1,
-    "repo": "PipedreamHQ/pipedream",
-    "number": 21912,
-    "title": "Open new source to check Webhook [TRIGGER]",
-    "url": "https://github.com/PipedreamHQ/pipedream/issues/21912",
-    "comments": 0,
-    "createdAt": "2026-09-06T07:42:24Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "trigger / source"
-    ],
-    "language": "javascript",
-    "stars": 11665,
-    "foundAt": "2026-09-06T11:08:59.698Z"
-  },
-  {
-    "key": "reticlehq/reticle#813",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 813,
-    "title": "[agent] Leaving the instrumented origin returns observation_lost, so an OAuth handoff cannot be verified even as a handoff",
-    "url": "https://github.com/reticlehq/reticle/issues/813",
-    "comments": 0,
-    "createdAt": "2026-09-06T10:50:59Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 443,
-    "foundAt": "2026-09-06T11:09:00.396Z"
   }
 ]
