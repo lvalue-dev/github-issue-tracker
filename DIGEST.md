@@ -4,6 +4,19 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-07 | 🥇 | [[Good First Issue] 🌊 Add new Example Sentence 59 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29927) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-07 | 🥇 | [[Good First Issue] 🍘 Add new Etiquette Tip 18 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29926) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-07 | 🥇 | [[Good First Issue] 🍢 Add new False Friend Pair 118 - Beginner-Friendly Open-sou](https://github.com/lingdojo/kana-dojo/issues/29925) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-07 | 🥇 | [docs: nothing pins measuredNullableAggregate(), and neither doc that names it sa](https://github.com/libredb/libredb-studio/issues/622) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-07 | 🥇 | [fix(mysql,postgres): an unmeasured database size is still published as 0 bytes](https://github.com/libredb/libredb-studio/issues/621) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-07 | 🥇 | [tests: the factory-citation guard can go vacuous, and 7 provider docs still cite](https://github.com/libredb/libredb-studio/issues/620) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-07 | 🥇 | [[Good First Issue] 🎐 Add new Dialect Entry 71 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29924) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-07 | 🥇 | [[Good First Issue] 🐡 Add new Japanese Idiom 113 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29922) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-07 | 🥇 | [[Good First Issue] 🎑 Add new Video Game Quote 40 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29921) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-07 | 🥇 | [chore(bench): the calibrated baseline is stale for gh-190/plusblog.html](https://github.com/xberg-io/html-to-markdown/issues/473) | `xberg-io/html-to-markdown` | ⭐ 863 |
+| 2026-09-07 | 🥇 | [[Good First Issue] 🍚 Add new Grammar Point 96 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29917) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-07 | 🥈 | [[Bug]: apps/desktop pptx-layered-background pixel bounds are Ubuntu-calibrated; ](https://github.com/nexu-io/open-design/issues/7841) | `nexu-io/open-design` | ⭐ 94.1k |
+| 2026-09-07 | 🥈 | [[Bug]: Typo "Kuberentes" instead of "Kubernetes" in Kubectl Plugin extension](https://github.com/meshery/meshery.io/issues/2939) | `meshery/meshery.io` | ⭐ 854 |
 | 2026-09-07 | 🥇 | [[Good First Issue] 🌸 Add new Japan Fact 133 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29913) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-07 | 🥇 | [[Good First Issue] 🏯 Add new Theme: Citrus Shrine - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29912) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-07 | 🥇 | [[Good First Issue] 🌊 Add new Community Note Line #4 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29911) | `lingdojo/kana-dojo` | ⭐ 3.3k |
@@ -91,16 +104,3 @@
 | 2026-09-06 | 🥇 | [[Good First Issue] 🦊 Add new Anime Quote 13 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29862) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-06 | 🥇 | [Open new source to check Webhook [TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/21912) | `PipedreamHQ/pipedream` | ⭐ 11.7k |
 | 2026-09-06 | 🥈 | [[agent] Leaving the instrumented origin returns observation_lost, so an OAuth ha](https://github.com/reticlehq/reticle/issues/813) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-06 | 🥈 | [[agent] Version skew produces dispatched:true / settled:true on clicks that chan](https://github.com/reticlehq/reticle/issues/812) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-06 | 🥈 | [[agent] reticle_annotate has no text success-state, so an app whose only observa](https://github.com/reticlehq/reticle/issues/811) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-06 | 🥈 | [[agent] There is no computed-style predicate, so a CSS design-system change cann](https://github.com/reticlehq/reticle/issues/810) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-06 | 🥈 | [[agent] A route that 500s tears down the page, so there is no verdict at all — o](https://github.com/reticlehq/reticle/issues/808) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-06 | 🥈 | [[agent] A server-rendered MPA's reconnect on every page load is treated as a fat](https://github.com/reticlehq/reticle/issues/807) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-06 | 🥈 | [[agent] init exits 1 on a Django project after printing a snippet, instead of wi](https://github.com/reticlehq/reticle/issues/806) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-06 | 🥈 | [[agent] A native download or document navigation is invisible to reticle_network](https://github.com/reticlehq/reticle/issues/805) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-06 | 🥈 | [[agent] reticle_viewport needs CDP, so mobile-only UI is unreachable on an SDK-o](https://github.com/reticlehq/reticle/issues/804) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-06 | 🥈 | [[agent] init runs a bare npm install on a repo that needs --legacy-peer-deps, an](https://github.com/reticlehq/reticle/issues/802) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-06 | 🥈 | [[agent] The captureNetworkBodies remedy is printed without checking whether the ](https://github.com/reticlehq/reticle/issues/801) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-06 | 🥈 | [[agent] Capture the response body of a failed request by default: the 74 bytes t](https://github.com/reticlehq/reticle/issues/800) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-06 | 🥈 | [[agent] The 8KB body cap makes negative bodyContains assertions permanently unde](https://github.com/reticlehq/reticle/issues/799) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-06 | 🥈 | [[agent] There is no way to assert on a request body, so "the UI actually sent th](https://github.com/reticlehq/reticle/issues/798) | `reticlehq/reticle` | ⭐ 443 |

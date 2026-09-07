@@ -1,5 +1,271 @@
 [
   {
+    "key": "lingdojo/kana-dojo#29927",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29927,
+    "title": "[Good First Issue] 🌊 Add new Example Sentence 59 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29927",
+    "comments": 1,
+    "createdAt": "2026-09-07T10:01:02Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-07T10:32:15.770Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29926",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29926,
+    "title": "[Good First Issue] 🍘 Add new Etiquette Tip 18 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29926",
+    "comments": 1,
+    "createdAt": "2026-09-07T09:37:33Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-07T10:32:15.770Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29925",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29925,
+    "title": "[Good First Issue] 🍢 Add new False Friend Pair 118 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29925",
+    "comments": 1,
+    "createdAt": "2026-09-07T09:00:58Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-07T10:32:16.266Z"
+  },
+  {
+    "key": "libredb/libredb-studio#622",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 622,
+    "title": "docs: nothing pins measuredNullableAggregate(), and neither doc that names it says where it lives",
+    "url": "https://github.com/libredb/libredb-studio/issues/622",
+    "comments": 0,
+    "createdAt": "2026-09-07T08:46:28Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 402,
+    "foundAt": "2026-09-07T10:32:16.266Z"
+  },
+  {
+    "key": "libredb/libredb-studio#621",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 621,
+    "title": "fix(mysql,postgres): an unmeasured database size is still published as 0 bytes",
+    "url": "https://github.com/libredb/libredb-studio/issues/621",
+    "comments": 0,
+    "createdAt": "2026-09-07T08:46:09Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 402,
+    "foundAt": "2026-09-07T10:32:16.266Z"
+  },
+  {
+    "key": "libredb/libredb-studio#620",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 620,
+    "title": "tests: the factory-citation guard can go vacuous, and 7 provider docs still cite a line inside factory.ts",
+    "url": "https://github.com/libredb/libredb-studio/issues/620",
+    "comments": 0,
+    "createdAt": "2026-09-07T08:38:36Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 402,
+    "foundAt": "2026-09-07T10:32:16.266Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29924",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29924,
+    "title": "[Good First Issue] 🎐 Add new Dialect Entry 71 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29924",
+    "comments": 1,
+    "createdAt": "2026-09-07T08:37:28Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-07T10:32:16.266Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29922",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29922,
+    "title": "[Good First Issue] 🐡 Add new Japanese Idiom 113 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29922",
+    "comments": 1,
+    "createdAt": "2026-09-07T08:01:02Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-07T10:32:16.465Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29921",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29921,
+    "title": "[Good First Issue] 🎑 Add new Video Game Quote 40 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29921",
+    "comments": 1,
+    "createdAt": "2026-09-07T07:37:30Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-07T10:32:16.934Z"
+  },
+  {
+    "key": "xberg-io/html-to-markdown#473",
+    "tier": 1,
+    "repo": "xberg-io/html-to-markdown",
+    "number": 473,
+    "title": "chore(bench): the calibrated baseline is stale for gh-190/plusblog.html",
+    "url": "https://github.com/xberg-io/html-to-markdown/issues/473",
+    "comments": 0,
+    "createdAt": "2026-09-07T06:59:21Z",
+    "labels": [
+      "help wanted",
+      "good first issue"
+    ],
+    "language": "html",
+    "stars": 863,
+    "foundAt": "2026-09-07T10:32:19.159Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29917",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29917,
+    "title": "[Good First Issue] 🍚 Add new Grammar Point 96 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29917",
+    "comments": 1,
+    "createdAt": "2026-09-07T06:37:30Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-07T10:32:17.429Z"
+  },
+  {
+    "key": "nexu-io/open-design#7841",
+    "tier": 2,
+    "repo": "nexu-io/open-design",
+    "number": 7841,
+    "title": "[Bug]: apps/desktop pptx-layered-background pixel bounds are Ubuntu-calibrated; 6 tests fail on Debian",
+    "url": "https://github.com/nexu-io/open-design/issues/7841",
+    "comments": 2,
+    "createdAt": "2026-09-07T09:25:33Z",
+    "labels": [
+      "bug",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 94056,
+    "foundAt": "2026-09-07T10:32:19.471Z"
+  },
+  {
+    "key": "meshery/meshery.io#2939",
+    "tier": 2,
+    "repo": "meshery/meshery.io",
+    "number": 2939,
+    "title": "[Bug]: Typo \"Kuberentes\" instead of \"Kubernetes\" in Kubectl Plugin extension",
+    "url": "https://github.com/meshery/meshery.io/issues/2939",
+    "comments": 2,
+    "createdAt": "2026-09-07T06:11:20Z",
+    "labels": [
+      "kind/bug",
+      "help wanted"
+    ],
+    "language": "javascript",
+    "stars": 854,
+    "foundAt": "2026-09-07T10:32:19.783Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#29913",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1735,240 +2001,6 @@
     "url": "https://github.com/reticlehq/reticle/issues/813",
     "comments": 0,
     "createdAt": "2026-09-06T10:50:59Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 443,
-    "foundAt": "2026-09-06T11:09:00.396Z"
-  },
-  {
-    "key": "reticlehq/reticle#812",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 812,
-    "title": "[agent] Version skew produces dispatched:true / settled:true on clicks that changed nothing, and the skew banner is not on the verdict",
-    "url": "https://github.com/reticlehq/reticle/issues/812",
-    "comments": 0,
-    "createdAt": "2026-09-06T10:50:57Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 443,
-    "foundAt": "2026-09-06T11:09:00.396Z"
-  },
-  {
-    "key": "reticlehq/reticle#811",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 811,
-    "title": "[agent] reticle_annotate has no text success-state, so an app whose only observable is rendered text cannot save an asserted flow",
-    "url": "https://github.com/reticlehq/reticle/issues/811",
-    "comments": 0,
-    "createdAt": "2026-09-06T10:50:55Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 443,
-    "foundAt": "2026-09-06T11:09:00.396Z"
-  },
-  {
-    "key": "reticlehq/reticle#810",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 810,
-    "title": "[agent] There is no computed-style predicate, so a CSS design-system change cannot produce a verdict",
-    "url": "https://github.com/reticlehq/reticle/issues/810",
-    "comments": 0,
-    "createdAt": "2026-09-06T10:50:54Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 443,
-    "foundAt": "2026-09-06T11:09:00.396Z"
-  },
-  {
-    "key": "reticlehq/reticle#808",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 808,
-    "title": "[agent] A route that 500s tears down the page, so there is no verdict at all — only an empty session list",
-    "url": "https://github.com/reticlehq/reticle/issues/808",
-    "comments": 0,
-    "createdAt": "2026-09-06T10:50:45Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 443,
-    "foundAt": "2026-09-06T11:09:00.396Z"
-  },
-  {
-    "key": "reticlehq/reticle#807",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 807,
-    "title": "[agent] A server-rendered MPA's reconnect on every page load is treated as a fatal session replace, so crawl cannot walk past the first link",
-    "url": "https://github.com/reticlehq/reticle/issues/807",
-    "comments": 0,
-    "createdAt": "2026-09-06T10:50:43Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 443,
-    "foundAt": "2026-09-06T11:09:00.396Z"
-  },
-  {
-    "key": "reticlehq/reticle#806",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 806,
-    "title": "[agent] init exits 1 on a Django project after printing a snippet, instead of wiring DEBUG-only middleware and driving to a verdict",
-    "url": "https://github.com/reticlehq/reticle/issues/806",
-    "comments": 0,
-    "createdAt": "2026-09-06T10:50:41Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 443,
-    "foundAt": "2026-09-06T11:09:00.396Z"
-  },
-  {
-    "key": "reticlehq/reticle#805",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 805,
-    "title": "[agent] A native download or document navigation is invisible to reticle_network, so an export reads as a 404",
-    "url": "https://github.com/reticlehq/reticle/issues/805",
-    "comments": 0,
-    "createdAt": "2026-09-06T10:50:39Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 443,
-    "foundAt": "2026-09-06T11:09:00.396Z"
-  },
-  {
-    "key": "reticlehq/reticle#804",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 804,
-    "title": "[agent] reticle_viewport needs CDP, so mobile-only UI is unreachable on an SDK-only install",
-    "url": "https://github.com/reticlehq/reticle/issues/804",
-    "comments": 0,
-    "createdAt": "2026-09-06T10:50:31Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 443,
-    "foundAt": "2026-09-06T11:09:00.396Z"
-  },
-  {
-    "key": "reticlehq/reticle#802",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 802,
-    "title": "[agent] init runs a bare npm install on a repo that needs --legacy-peer-deps, and the failed install silently skips the wiring",
-    "url": "https://github.com/reticlehq/reticle/issues/802",
-    "comments": 0,
-    "createdAt": "2026-09-06T10:50:28Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 443,
-    "foundAt": "2026-09-06T11:09:00.396Z"
-  },
-  {
-    "key": "reticlehq/reticle#801",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 801,
-    "title": "[agent] The captureNetworkBodies remedy is printed without checking whether the connected SDK can follow it",
-    "url": "https://github.com/reticlehq/reticle/issues/801",
-    "comments": 0,
-    "createdAt": "2026-09-06T10:50:26Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 443,
-    "foundAt": "2026-09-06T11:09:00.396Z"
-  },
-  {
-    "key": "reticlehq/reticle#800",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 800,
-    "title": "[agent] Capture the response body of a failed request by default: the 74 bytes that say why are the ones we drop",
-    "url": "https://github.com/reticlehq/reticle/issues/800",
-    "comments": 0,
-    "createdAt": "2026-09-06T10:50:25Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 443,
-    "foundAt": "2026-09-06T11:09:00.396Z"
-  },
-  {
-    "key": "reticlehq/reticle#799",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 799,
-    "title": "[agent] The 8KB body cap makes negative bodyContains assertions permanently undecidable, and nothing says where the cap lives",
-    "url": "https://github.com/reticlehq/reticle/issues/799",
-    "comments": 0,
-    "createdAt": "2026-09-06T10:50:23Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "agent-reported"
-    ],
-    "language": "typescript",
-    "stars": 443,
-    "foundAt": "2026-09-06T11:09:00.396Z"
-  },
-  {
-    "key": "reticlehq/reticle#798",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 798,
-    "title": "[agent] There is no way to assert on a request body, so \"the UI actually sent the filter\" has no verdict",
-    "url": "https://github.com/reticlehq/reticle/issues/798",
-    "comments": 0,
-    "createdAt": "2026-09-06T10:50:15Z",
     "labels": [
       "enhancement",
       "help wanted",
