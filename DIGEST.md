@@ -4,6 +4,10 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-08 | 🥇 | [💡Favorites](https://github.com/code-charity/youtube/issues/4326) | `code-charity/youtube` | ⭐ 4.6k |
+| 2026-09-08 | 🥈 | [Create-table form emits PostgreSQL DDL for every engine (dbType prop is unused)](https://github.com/libredb/libredb-studio/issues/648) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-08 | 🥈 | [[Good First Issue] 🐙 Add new Grammar Point 37 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29986) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-08 | 🥈 | [[Good First Issue] 🎏 Add new Trivia Question 118 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29985) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-08 | 🥇 | [[Good First Issue] 🍁 Add new Dialect Entry 51 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29968) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-08 | 🥇 | [[Good First Issue] 🦊 Add new Japanese Idiom 19 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29967) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-08 | 🥇 | [[Good First Issue] 🎎 Add new Anime Quote 81 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29966) | `lingdojo/kana-dojo` | ⭐ 3.3k |
@@ -100,7 +104,3 @@
 | 2026-09-06 | 🥈 | [阅读→写作管线：引用卡片到 related work 草稿](https://github.com/1692775560/dsh-Mimir-Academic-research/issues/153) | `1692775560/dsh-Mimir-Academic-research` | ⭐ 212 |
 | 2026-09-06 | 🥈 | [实验自动收录（第一阶段）：盯服务器训练任务，指标落进实验记录](https://github.com/1692775560/dsh-Mimir-Academic-research/issues/152) | `1692775560/dsh-Mimir-Academic-research` | ⭐ 212 |
 | 2026-09-06 | 🥈 | [Zotero 双向同步：把 Mimir 整理的合集推回 Zotero](https://github.com/1692775560/dsh-Mimir-Academic-research/issues/151) | `1692775560/dsh-Mimir-Academic-research` | ⭐ 212 |
-| 2026-09-06 | 🥈 | [test-all: a leftover .tmp-script-test-* scratch copy turns the next local run re](https://github.com/career-ops-hq/career-ops/issues/3940) | `career-ops-hq/career-ops` | ⭐ 69.9k |
-| 2026-09-06 | 🥇 | [[Good First Issue] 🎍 Add new Trivia Question 56 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29875) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-06 | 🥇 | [[Good First Issue] 🗾 Add new Japanese Haiku 11 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29874) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-06 | 🥇 | [[Good First Issue] 🍡 Add new Japanese Proverb 180 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29873) | `lingdojo/kana-dojo` | ⭐ 3.3k |

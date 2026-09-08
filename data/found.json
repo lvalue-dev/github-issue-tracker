@@ -1,5 +1,88 @@
 [
   {
+    "key": "code-charity/youtube#4326",
+    "tier": 1,
+    "repo": "code-charity/youtube",
+    "number": 4326,
+    "title": "💡Favorites",
+    "url": "https://github.com/code-charity/youtube/issues/4326",
+    "comments": 1,
+    "createdAt": "2026-09-08T08:48:30Z",
+    "labels": [
+      "Feature request",
+      "help wanted",
+      "good first issue",
+      "up-for-grabs"
+    ],
+    "language": "javascript",
+    "stars": 4566,
+    "foundAt": "2026-09-08T09:53:06.374Z"
+  },
+  {
+    "key": "libredb/libredb-studio#648",
+    "tier": 2,
+    "repo": "libredb/libredb-studio",
+    "number": 648,
+    "title": "Create-table form emits PostgreSQL DDL for every engine (dbType prop is unused)",
+    "url": "https://github.com/libredb/libredb-studio/issues/648",
+    "comments": 0,
+    "createdAt": "2026-09-08T09:12:57Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "security"
+    ],
+    "language": "typescript",
+    "stars": 402,
+    "foundAt": "2026-09-08T09:53:08.159Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29986",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29986,
+    "title": "[Good First Issue] 🐙 Add new Grammar Point 37 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29986",
+    "comments": 1,
+    "createdAt": "2026-09-08T09:01:02Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-08T09:53:09.693Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29985",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29985,
+    "title": "[Good First Issue] 🎏 Add new Trivia Question 118 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29985",
+    "comments": 1,
+    "createdAt": "2026-09-08T08:57:30Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-08T09:53:09.693Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#29968",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1995,93 +2078,5 @@
     "language": "typescript",
     "stars": 212,
     "foundAt": "2026-09-06T17:10:49.618Z"
-  },
-  {
-    "key": "career-ops-hq/career-ops#3940",
-    "tier": 2,
-    "repo": "career-ops-hq/career-ops",
-    "number": 3940,
-    "title": "test-all: a leftover .tmp-script-test-* scratch copy turns the next local run red (264 failures in the layout guard)",
-    "url": "https://github.com/career-ops-hq/career-ops/issues/3940",
-    "comments": 0,
-    "createdAt": "2026-09-06T14:19:05Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "🔧 scripts",
-      "confirmed"
-    ],
-    "language": "javascript",
-    "stars": 69868,
-    "foundAt": "2026-09-06T17:10:50.052Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29875",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29875,
-    "title": "[Good First Issue] 🎍 Add new Trivia Question 56 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29875",
-    "comments": 1,
-    "createdAt": "2026-09-06T14:00:58Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-06T14:16:16.413Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29874",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29874,
-    "title": "[Good First Issue] 🗾 Add new Japanese Haiku 11 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29874",
-    "comments": 1,
-    "createdAt": "2026-09-06T13:37:31Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-06T14:16:16.414Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29873",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29873,
-    "title": "[Good First Issue] 🍡 Add new Japanese Proverb 180 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29873",
-    "comments": 1,
-    "createdAt": "2026-09-06T13:01:14Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-06T14:16:16.599Z"
   }
 ]
