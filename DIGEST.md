@@ -4,6 +4,12 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-08 | 🥇 | [[Good First Issue] 🎏 Add new Community Note Line #5 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30019) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-08 | 🥇 | [[Good First Issue] 🍡 Add new Wallpaper URL #5 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30018) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-08 | 🥇 | [[Good First Issue] 🎑 Add new Learner Mistake 99 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30017) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-08 | 🥇 | [[Good First Issue] 🍛 Add new Example Sentence 34 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30016) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-08 | 🥇 | [Change `all` tab in batches to `active`](https://github.com/frappe/lms/issues/2711) | `frappe/lms` | ⭐ 3.2k |
+| 2026-09-08 | 🥈 | [[404] Broken Link Found](https://github.com/layer5io/layer5/issues/8033) | `layer5io/layer5` | ⭐ 1.1k |
 | 2026-09-08 | 🥇 | [Nothing reaps idle reticle mcp process pairs when an editor session ends](https://github.com/reticlehq/reticle/issues/892) | `reticlehq/reticle` | ⭐ 443 |
 | 2026-09-08 | 🥇 | [[agent] crawl blames the clicked link for a crash whose own stack names the page](https://github.com/reticlehq/reticle/issues/890) | `reticlehq/reticle` | ⭐ 443 |
 | 2026-09-08 | 🥇 | [[agent] A text predicate matched hidden dialog content and returned already_true](https://github.com/reticlehq/reticle/issues/889) | `reticlehq/reticle` | ⭐ 443 |
@@ -98,9 +104,3 @@
 | 2026-09-07 | 🥇 | [Text align "justified" writes an invalid CSS value](https://github.com/silexlabs/Silex/issues/1850) | `silexlabs/Silex` | ⭐ 3.0k |
 | 2026-09-07 | 🥇 | [[Feature] 希望附件转为链接形式](https://github.com/dreamhunter2333/cloudflare_temp_email/issues/1142) | `dreamhunter2333/cloudflare_temp_email` | ⭐ 11.7k |
 | 2026-09-07 | 🥇 | [[Good First Issue] 🦊 Add new Video Game Quote 109 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29940) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-07 | 🥇 | [[Good First Issue] 🐉 Add new Anime Quote 59 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29939) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-07 | 🥇 | [[Good First Issue] 🍣 Add new Grammar Point 95 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29938) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-07 | 🥈 | [[404] Broken Link Found](https://github.com/layer5io/layer5/issues/8027) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-07 | 🥇 | [[Good First Issue] 🌊 Add new Example Sentence 59 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29927) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-07 | 🥇 | [[Good First Issue] 🍘 Add new Etiquette Tip 18 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29926) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-07 | 🥇 | [[Good First Issue] 🍢 Add new False Friend Pair 118 - Beginner-Friendly Open-sou](https://github.com/lingdojo/kana-dojo/issues/29925) | `lingdojo/kana-dojo` | ⭐ 3.3k |
