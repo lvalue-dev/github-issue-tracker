@@ -1,5 +1,681 @@
 [
   {
+    "key": "reticlehq/reticle#892",
+    "tier": 1,
+    "repo": "reticlehq/reticle",
+    "number": 892,
+    "title": "Nothing reaps idle reticle mcp process pairs when an editor session ends",
+    "url": "https://github.com/reticlehq/reticle/issues/892",
+    "comments": 0,
+    "createdAt": "2026-09-08T18:32:05Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "agent-reported",
+      "2.14.0"
+    ],
+    "language": "typescript",
+    "stars": 443,
+    "foundAt": "2026-09-08T18:50:50.572Z"
+  },
+  {
+    "key": "reticlehq/reticle#890",
+    "tier": 1,
+    "repo": "reticlehq/reticle",
+    "number": 890,
+    "title": "[agent] crawl blames the clicked link for a crash whose own stack names the page that threw",
+    "url": "https://github.com/reticlehq/reticle/issues/890",
+    "comments": 0,
+    "createdAt": "2026-09-08T18:31:30Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "agent-reported",
+      "2.14.0"
+    ],
+    "language": "typescript",
+    "stars": 443,
+    "foundAt": "2026-09-08T18:50:50.572Z"
+  },
+  {
+    "key": "reticlehq/reticle#889",
+    "tier": 1,
+    "repo": "reticlehq/reticle",
+    "number": 889,
+    "title": "[agent] A text predicate matched hidden dialog content and returned already_true, proving nothing",
+    "url": "https://github.com/reticlehq/reticle/issues/889",
+    "comments": 0,
+    "createdAt": "2026-09-08T18:31:28Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "agent-reported",
+      "2.14.0"
+    ],
+    "language": "typescript",
+    "stars": 443,
+    "foundAt": "2026-09-08T18:50:50.572Z"
+  },
+  {
+    "key": "reticlehq/reticle#887",
+    "tier": 1,
+    "repo": "reticlehq/reticle",
+    "number": 887,
+    "title": "[agent] Escape needs an element ref it should not need, so dismissing a dialog costs a snapshot",
+    "url": "https://github.com/reticlehq/reticle/issues/887",
+    "comments": 0,
+    "createdAt": "2026-09-08T18:30:54Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "agent-reported",
+      "2.14.0"
+    ],
+    "language": "typescript",
+    "stars": 443,
+    "foundAt": "2026-09-08T18:50:50.572Z"
+  },
+  {
+    "key": "reticlehq/reticle#886",
+    "tier": 1,
+    "repo": "reticlehq/reticle",
+    "number": 886,
+    "title": "[agent] An ambiguous target refuses without ranking the candidates it already enumerated",
+    "url": "https://github.com/reticlehq/reticle/issues/886",
+    "comments": 0,
+    "createdAt": "2026-09-08T18:30:52Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "agent-reported",
+      "2.14.0"
+    ],
+    "language": "typescript",
+    "stars": 443,
+    "foundAt": "2026-09-08T18:50:50.572Z"
+  },
+  {
+    "key": "reticlehq/reticle#885",
+    "tier": 1,
+    "repo": "reticlehq/reticle",
+    "number": 885,
+    "title": "[agent] init starts a second dev server beside the running one, leaving three sessions and no way to pick",
+    "url": "https://github.com/reticlehq/reticle/issues/885",
+    "comments": 0,
+    "createdAt": "2026-09-08T18:30:49Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "agent-reported",
+      "2.14.0"
+    ],
+    "language": "typescript",
+    "stars": 443,
+    "foundAt": "2026-09-08T18:50:50.572Z"
+  },
+  {
+    "key": "reticlehq/reticle#884",
+    "tier": 1,
+    "repo": "reticlehq/reticle",
+    "number": 884,
+    "title": "[agent] init hangs forever against a dev server bound to IPv6-only loopback, and says nothing while it does",
+    "url": "https://github.com/reticlehq/reticle/issues/884",
+    "comments": 0,
+    "createdAt": "2026-09-08T18:30:20Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "agent-reported",
+      "2.14.0"
+    ],
+    "language": "typescript",
+    "stars": 443,
+    "foundAt": "2026-09-08T18:50:50.572Z"
+  },
+  {
+    "key": "reticlehq/reticle#883",
+    "tier": 1,
+    "repo": "reticlehq/reticle",
+    "number": 883,
+    "title": "[agent] A plain Svelte + Vite SPA is detected as SvelteKit, and init writes a bootstrap file nothing can import",
+    "url": "https://github.com/reticlehq/reticle/issues/883",
+    "comments": 0,
+    "createdAt": "2026-09-08T18:30:18Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "agent-reported",
+      "2.14.0"
+    ],
+    "language": "typescript",
+    "stars": 443,
+    "foundAt": "2026-09-08T18:50:50.572Z"
+  },
+  {
+    "key": "reticlehq/reticle#882",
+    "tier": 1,
+    "repo": "reticlehq/reticle",
+    "number": 882,
+    "title": "[agent] init does not verify its own wiring landed: the plugin was never added to vite.config and nothing said so",
+    "url": "https://github.com/reticlehq/reticle/issues/882",
+    "comments": 0,
+    "createdAt": "2026-09-08T18:29:52Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "agent-reported",
+      "2.14.0"
+    ],
+    "language": "typescript",
+    "stars": 443,
+    "foundAt": "2026-09-08T18:50:50.573Z"
+  },
+  {
+    "key": "reticlehq/reticle#881",
+    "tier": 1,
+    "repo": "reticlehq/reticle",
+    "number": 881,
+    "title": "[agent] Vite serves a stale instrumented module after a source edit, so a drive verifies code that no longer exists",
+    "url": "https://github.com/reticlehq/reticle/issues/881",
+    "comments": 0,
+    "createdAt": "2026-09-08T18:29:50Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "agent-reported",
+      "2.14.0"
+    ],
+    "language": "typescript",
+    "stars": 443,
+    "foundAt": "2026-09-08T18:50:50.573Z"
+  },
+  {
+    "key": "reticlehq/reticle#880",
+    "tier": 1,
+    "repo": "reticlehq/reticle",
+    "number": 880,
+    "title": "[agent] A WebGL canvas is a blank rectangle to Reticle, and nothing tells an adopting team that",
+    "url": "https://github.com/reticlehq/reticle/issues/880",
+    "comments": 0,
+    "createdAt": "2026-09-08T18:29:24Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "agent-reported",
+      "2.14.0"
+    ],
+    "language": "typescript",
+    "stars": 443,
+    "foundAt": "2026-09-08T18:50:50.573Z"
+  },
+  {
+    "key": "reticlehq/reticle#878",
+    "tier": 1,
+    "repo": "reticlehq/reticle",
+    "number": 878,
+    "title": "[agent] Upload is sandboxed to the project root, which pushes third-party binaries into people's repositories",
+    "url": "https://github.com/reticlehq/reticle/issues/878",
+    "comments": 0,
+    "createdAt": "2026-09-08T18:28:34Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "agent-reported",
+      "2.14.0"
+    ],
+    "language": "typescript",
+    "stars": 443,
+    "foundAt": "2026-09-08T18:50:50.573Z"
+  },
+  {
+    "key": "reticlehq/reticle#877",
+    "tier": 1,
+    "repo": "reticlehq/reticle",
+    "number": 877,
+    "title": "[agent] The predicate grammar can only be learned by provoking a parse error",
+    "url": "https://github.com/reticlehq/reticle/issues/877",
+    "comments": 0,
+    "createdAt": "2026-09-08T18:28:32Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "agent-reported",
+      "2.14.0"
+    ],
+    "language": "typescript",
+    "stars": 443,
+    "foundAt": "2026-09-08T18:50:50.573Z"
+  },
+  {
+    "key": "reticlehq/reticle#876",
+    "tier": 1,
+    "repo": "reticlehq/reticle",
+    "number": 876,
+    "title": "[agent] The tool directory is not reachable the way the server instructions say, so the whole flows workflow is undiscoverable",
+    "url": "https://github.com/reticlehq/reticle/issues/876",
+    "comments": 0,
+    "createdAt": "2026-09-08T18:28:09Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "agent-reported",
+      "2.14.0"
+    ],
+    "language": "typescript",
+    "stars": 443,
+    "foundAt": "2026-09-08T18:50:50.573Z"
+  },
+  {
+    "key": "reticlehq/reticle#875",
+    "tier": 1,
+    "repo": "reticlehq/reticle",
+    "number": 875,
+    "title": "[agent] Name matching is exact-only, so a button called \"2 Mesh\" is invisible to a query for \"Mesh\"",
+    "url": "https://github.com/reticlehq/reticle/issues/875",
+    "comments": 0,
+    "createdAt": "2026-09-08T18:27:54Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "agent-reported",
+      "2.14.0"
+    ],
+    "language": "typescript",
+    "stars": 443,
+    "foundAt": "2026-09-08T18:50:50.573Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30013",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30013,
+    "title": "[Good First Issue] 🍵 Add new Dialect Entry 32 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30013",
+    "comments": 1,
+    "createdAt": "2026-09-08T18:01:02Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-08T18:50:50.855Z"
+  },
+  {
+    "key": "libredb/libredb-studio#696",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 696,
+    "title": "Add a Turkish README (README_tr.md), covered by the localized-README drift guard",
+    "url": "https://github.com/libredb/libredb-studio/issues/696",
+    "comments": 0,
+    "createdAt": "2026-09-08T17:58:12Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 402,
+    "foundAt": "2026-09-08T18:50:50.855Z"
+  },
+  {
+    "key": "libredb/libredb-studio#695",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 695,
+    "title": "Results grid has no context menu to copy a cell or a row",
+    "url": "https://github.com/libredb/libredb-studio/issues/695",
+    "comments": 0,
+    "createdAt": "2026-09-08T17:58:07Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 402,
+    "foundAt": "2026-09-08T18:50:50.856Z"
+  },
+  {
+    "key": "libredb/libredb-studio#694",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 694,
+    "title": "No way to mark a connection as a favorite",
+    "url": "https://github.com/libredb/libredb-studio/issues/694",
+    "comments": 0,
+    "createdAt": "2026-09-08T17:58:03Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 402,
+    "foundAt": "2026-09-08T18:50:50.856Z"
+  },
+  {
+    "key": "libredb/libredb-studio#693",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 693,
+    "title": "Deleting a connection has no confirmation step",
+    "url": "https://github.com/libredb/libredb-studio/issues/693",
+    "comments": 0,
+    "createdAt": "2026-09-08T17:57:36Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 402,
+    "foundAt": "2026-09-08T18:50:50.856Z"
+  },
+  {
+    "key": "libredb/libredb-studio#692",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 692,
+    "title": "No duplicate or clone action for a saved connection",
+    "url": "https://github.com/libredb/libredb-studio/issues/692",
+    "comments": 0,
+    "createdAt": "2026-09-08T17:57:32Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 402,
+    "foundAt": "2026-09-08T18:50:50.856Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30012",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30012,
+    "title": "[Good First Issue] 🍥 Add new Japanese Idiom 94 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30012",
+    "comments": 1,
+    "createdAt": "2026-09-08T17:57:31Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-08T18:50:50.856Z"
+  },
+  {
+    "key": "libredb/libredb-studio#691",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 691,
+    "title": "Admin Audit tab has no export",
+    "url": "https://github.com/libredb/libredb-studio/issues/691",
+    "comments": 0,
+    "createdAt": "2026-09-08T17:57:28Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 402,
+    "foundAt": "2026-09-08T18:50:50.856Z"
+  },
+  {
+    "key": "libredb/libredb-studio#690",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 690,
+    "title": "Saved Queries has no export or import",
+    "url": "https://github.com/libredb/libredb-studio/issues/690",
+    "comments": 0,
+    "createdAt": "2026-09-08T17:57:03Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 402,
+    "foundAt": "2026-09-08T18:50:50.856Z"
+  },
+  {
+    "key": "libredb/libredb-studio#689",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 689,
+    "title": "CSV import always treats the first row as a header",
+    "url": "https://github.com/libredb/libredb-studio/issues/689",
+    "comments": 0,
+    "createdAt": "2026-09-08T17:56:59Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 402,
+    "foundAt": "2026-09-08T18:50:50.856Z"
+  },
+  {
+    "key": "libredb/libredb-studio#688",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 688,
+    "title": "CSV import and export both hardcode the comma delimiter",
+    "url": "https://github.com/libredb/libredb-studio/issues/688",
+    "comments": 0,
+    "createdAt": "2026-09-08T17:56:54Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 402,
+    "foundAt": "2026-09-08T18:50:50.856Z"
+  },
+  {
+    "key": "libredb/libredb-studio#687",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 687,
+    "title": "Command palette's saved-query preview always appends \"...\" even when the text is short",
+    "url": "https://github.com/libredb/libredb-studio/issues/687",
+    "comments": 0,
+    "createdAt": "2026-09-08T17:56:28Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 402,
+    "foundAt": "2026-09-08T18:50:50.856Z"
+  },
+  {
+    "key": "libredb/libredb-studio#686",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 686,
+    "title": "Six icon-only buttons across the app carry no accessible name",
+    "url": "https://github.com/libredb/libredb-studio/issues/686",
+    "comments": 0,
+    "createdAt": "2026-09-08T17:56:24Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 402,
+    "foundAt": "2026-09-08T18:50:50.856Z"
+  },
+  {
+    "key": "SAPTARSHI-coder/EaseMotion-css#89269",
+    "tier": 1,
+    "repo": "SAPTARSHI-coder/EaseMotion-css",
+    "number": 89269,
+    "title": "feat(components): add animated accordion component",
+    "url": "https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/89269",
+    "comments": 2,
+    "createdAt": "2026-09-07T16:46:13Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "animation",
+      "GSSoC-26",
+      "gssoc:approved",
+      "level:intermediate",
+      "type:feature"
+    ],
+    "language": "css",
+    "stars": 255,
+    "foundAt": "2026-09-08T18:50:52.131Z"
+  },
+  {
+    "key": "reticlehq/reticle#891",
+    "tier": 2,
+    "repo": "reticlehq/reticle",
+    "number": 891,
+    "title": "A corpus of deliberately awkward apps in CI — every blocking defect in the last field export would have been caught by one",
+    "url": "https://github.com/reticlehq/reticle/issues/891",
+    "comments": 0,
+    "createdAt": "2026-09-08T18:32:03Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "agent-reported",
+      "2.14.0"
+    ],
+    "language": "typescript",
+    "stars": 443,
+    "foundAt": "2026-09-08T18:50:52.789Z"
+  },
+  {
+    "key": "reticlehq/reticle#888",
+    "tier": 2,
+    "repo": "reticlehq/reticle",
+    "number": 888,
+    "title": "[agent] reticle_network_mock reports no-cdp-provider in every reachable configuration, including after reticle drive",
+    "url": "https://github.com/reticlehq/reticle/issues/888",
+    "comments": 0,
+    "createdAt": "2026-09-08T18:31:25Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "agent-reported",
+      "2.14.0"
+    ],
+    "language": "typescript",
+    "stars": 443,
+    "foundAt": "2026-09-08T18:50:52.789Z"
+  },
+  {
+    "key": "reticlehq/reticle#879",
+    "tier": 2,
+    "repo": "reticlehq/reticle",
+    "number": 879,
+    "title": "[agent] The only verdict-producing tools have no body volume control, and re-echo the same payload every call",
+    "url": "https://github.com/reticlehq/reticle/issues/879",
+    "comments": 0,
+    "createdAt": "2026-09-08T18:29:21Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "agent-reported",
+      "2.14.0"
+    ],
+    "language": "typescript",
+    "stars": 443,
+    "foundAt": "2026-09-08T18:50:52.789Z"
+  },
+  {
+    "key": "activist-org/activist#2391",
+    "tier": 2,
+    "repo": "activist-org/activist",
+    "number": 2391,
+    "title": "activist a is shown in light and dark mode on page load",
+    "url": "https://github.com/activist-org/activist/issues/2391",
+    "comments": 1,
+    "createdAt": "2026-09-08T18:26:02Z",
+    "labels": [
+      "help wanted",
+      "-priority-"
+    ],
+    "language": "typescript",
+    "stars": 741,
+    "foundAt": "2026-09-08T18:50:52.789Z"
+  },
+  {
+    "key": "cloudflare/cloudflare-docs#33311",
+    "tier": 3,
+    "repo": "cloudflare/cloudflare-docs",
+    "number": 33311,
+    "title": "Incorrect documentation for the certificate posture check",
+    "url": "https://github.com/cloudflare/cloudflare-docs/issues/33311",
+    "comments": 0,
+    "createdAt": "2026-09-08T17:38:48Z",
+    "labels": [
+      "documentation",
+      "product:cloudflare-one",
+      "content:edit"
+    ],
+    "language": "mdx",
+    "stars": 5186,
+    "foundAt": "2026-09-08T18:50:57.643Z"
+  },
+  {
+    "key": "quarto-dev/quarto-cli#14868",
+    "tier": 3,
+    "repo": "quarto-dev/quarto-cli",
+    "number": 14868,
+    "title": "a11y: narrow-viewport sidebar toolbar is a nav landmark with no links",
+    "url": "https://github.com/quarto-dev/quarto-cli/issues/14868",
+    "comments": 0,
+    "createdAt": "2026-09-08T15:54:28Z",
+    "labels": [
+      "bug",
+      "accessibility",
+      "themes"
+    ],
+    "language": "javascript",
+    "stars": 5987,
+    "foundAt": "2026-09-08T18:50:56.962Z"
+  },
+  {
     "key": "Weiss-UltimateSavior/Tyranor-Next#78",
     "tier": 1,
     "repo": "Weiss-UltimateSavior/Tyranor-Next",
@@ -1328,738 +2004,5 @@
     "language": "typescript",
     "stars": 3306,
     "foundAt": "2026-09-07T10:32:16.266Z"
-  },
-  {
-    "key": "libredb/libredb-studio#622",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 622,
-    "title": "docs: nothing pins measuredNullableAggregate(), and neither doc that names it says where it lives",
-    "url": "https://github.com/libredb/libredb-studio/issues/622",
-    "comments": 0,
-    "createdAt": "2026-09-07T08:46:28Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 402,
-    "foundAt": "2026-09-07T10:32:16.266Z"
-  },
-  {
-    "key": "libredb/libredb-studio#621",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 621,
-    "title": "fix(mysql,postgres): an unmeasured database size is still published as 0 bytes",
-    "url": "https://github.com/libredb/libredb-studio/issues/621",
-    "comments": 0,
-    "createdAt": "2026-09-07T08:46:09Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 402,
-    "foundAt": "2026-09-07T10:32:16.266Z"
-  },
-  {
-    "key": "libredb/libredb-studio#620",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 620,
-    "title": "tests: the factory-citation guard can go vacuous, and 7 provider docs still cite a line inside factory.ts",
-    "url": "https://github.com/libredb/libredb-studio/issues/620",
-    "comments": 0,
-    "createdAt": "2026-09-07T08:38:36Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 402,
-    "foundAt": "2026-09-07T10:32:16.266Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29924",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29924,
-    "title": "[Good First Issue] 🎐 Add new Dialect Entry 71 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29924",
-    "comments": 1,
-    "createdAt": "2026-09-07T08:37:28Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-07T10:32:16.266Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29922",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29922,
-    "title": "[Good First Issue] 🐡 Add new Japanese Idiom 113 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29922",
-    "comments": 1,
-    "createdAt": "2026-09-07T08:01:02Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-07T10:32:16.465Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29921",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29921,
-    "title": "[Good First Issue] 🎑 Add new Video Game Quote 40 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29921",
-    "comments": 1,
-    "createdAt": "2026-09-07T07:37:30Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-07T10:32:16.934Z"
-  },
-  {
-    "key": "xberg-io/html-to-markdown#473",
-    "tier": 1,
-    "repo": "xberg-io/html-to-markdown",
-    "number": 473,
-    "title": "chore(bench): the calibrated baseline is stale for gh-190/plusblog.html",
-    "url": "https://github.com/xberg-io/html-to-markdown/issues/473",
-    "comments": 0,
-    "createdAt": "2026-09-07T06:59:21Z",
-    "labels": [
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "html",
-    "stars": 863,
-    "foundAt": "2026-09-07T10:32:19.159Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29917",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29917,
-    "title": "[Good First Issue] 🍚 Add new Grammar Point 96 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29917",
-    "comments": 1,
-    "createdAt": "2026-09-07T06:37:30Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-07T10:32:17.429Z"
-  },
-  {
-    "key": "nexu-io/open-design#7841",
-    "tier": 2,
-    "repo": "nexu-io/open-design",
-    "number": 7841,
-    "title": "[Bug]: apps/desktop pptx-layered-background pixel bounds are Ubuntu-calibrated; 6 tests fail on Debian",
-    "url": "https://github.com/nexu-io/open-design/issues/7841",
-    "comments": 2,
-    "createdAt": "2026-09-07T09:25:33Z",
-    "labels": [
-      "bug",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 94056,
-    "foundAt": "2026-09-07T10:32:19.471Z"
-  },
-  {
-    "key": "meshery/meshery.io#2939",
-    "tier": 2,
-    "repo": "meshery/meshery.io",
-    "number": 2939,
-    "title": "[Bug]: Typo \"Kuberentes\" instead of \"Kubernetes\" in Kubectl Plugin extension",
-    "url": "https://github.com/meshery/meshery.io/issues/2939",
-    "comments": 2,
-    "createdAt": "2026-09-07T06:11:20Z",
-    "labels": [
-      "kind/bug",
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 854,
-    "foundAt": "2026-09-07T10:32:19.783Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29913",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29913,
-    "title": "[Good First Issue] 🌸 Add new Japan Fact 133 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29913",
-    "comments": 1,
-    "createdAt": "2026-09-07T04:37:31Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-07T04:58:11.557Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29912",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29912,
-    "title": "[Good First Issue] 🏯 Add new Theme: Citrus Shrine - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29912",
-    "comments": 1,
-    "createdAt": "2026-09-07T04:01:05Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-07T04:58:11.963Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29911",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29911,
-    "title": "[Good First Issue] 🌊 Add new Community Note Line #4 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29911",
-    "comments": 1,
-    "createdAt": "2026-09-07T03:37:32Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-07T04:58:12.129Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29910",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29910,
-    "title": "[Good First Issue] 🌋 Add new Wallpaper URL #2 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29910",
-    "comments": 1,
-    "createdAt": "2026-09-07T03:00:58Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-07T04:58:12.129Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29908",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29908,
-    "title": "[Good First Issue] 🍘 Add new Learner Mistake 96 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29908",
-    "comments": 1,
-    "createdAt": "2026-09-07T02:37:31Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-07T04:58:12.550Z"
-  },
-  {
-    "key": "code-charity/youtube#4321",
-    "tier": 1,
-    "repo": "code-charity/youtube",
-    "number": 4321,
-    "title": "💡Full video buffer",
-    "url": "https://github.com/code-charity/youtube/issues/4321",
-    "comments": 0,
-    "createdAt": "2026-09-07T00:24:54Z",
-    "labels": [
-      "Feature request",
-      "help wanted",
-      "good first issue",
-      "up-for-grabs"
-    ],
-    "language": "javascript",
-    "stars": 4566,
-    "foundAt": "2026-09-07T04:58:12.784Z"
-  },
-  {
-    "key": "CherryHQ/cherry-studio#20144",
-    "tier": 2,
-    "repo": "CherryHQ/cherry-studio",
-    "number": 20144,
-    "title": "[Discussion]: gpt6 astra cannot select thinking intensity, please fix as soon as possible",
-    "url": "https://github.com/CherryHQ/cherry-studio/issues/20144",
-    "comments": 0,
-    "createdAt": "2026-09-07T02:57:49Z",
-    "labels": [
-      "help wanted",
-      "discussion"
-    ],
-    "language": "typescript",
-    "stars": 51475,
-    "foundAt": "2026-09-07T04:58:13.159Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29904",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29904,
-    "title": "[Good First Issue] 🎐 Add new Etiquette Tip 65 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29904",
-    "comments": 1,
-    "createdAt": "2026-09-07T01:37:31Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-07T04:58:13.159Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29903",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29903,
-    "title": "[Good First Issue] 🎏 Add new False Friend Pair 35 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29903",
-    "comments": 1,
-    "createdAt": "2026-09-07T01:01:00Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-07T04:58:13.159Z"
-  },
-  {
-    "key": "melgarafael/DeskcommCRM#617",
-    "tier": 2,
-    "repo": "melgarafael/DeskcommCRM",
-    "number": 617,
-    "title": "A IA não pode dizer que a mensagem veio vazia quando ela tem texto (do PR #601, @CristianoFF43)",
-    "url": "https://github.com/melgarafael/DeskcommCRM/issues/617",
-    "comments": 0,
-    "createdAt": "2026-09-07T00:57:14Z",
-    "labels": [
-      "bug",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 828,
-    "foundAt": "2026-09-07T04:58:13.373Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29902",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29902,
-    "title": "[Good First Issue] 🍤 Add new Dialect Entry 74 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29902",
-    "comments": 1,
-    "createdAt": "2026-09-07T00:37:27Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-07T04:58:13.373Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29901",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29901,
-    "title": "[Good First Issue] 🦊 Add new Japanese Idiom 85 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29901",
-    "comments": 1,
-    "createdAt": "2026-09-07T00:01:04Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-07T00:05:35.781Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29900",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29900,
-    "title": "[Good First Issue] 🥢 Add new Video Game Quote 67 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29900",
-    "comments": 1,
-    "createdAt": "2026-09-06T23:37:28Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-07T00:05:35.781Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29899",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29899,
-    "title": "[Good First Issue] 🎴 Add new Anime Quote 59 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29899",
-    "comments": 1,
-    "createdAt": "2026-09-06T23:00:54Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-07T00:05:36.032Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29898",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29898,
-    "title": "[Good First Issue] 🗾 Add new Grammar Point 118 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29898",
-    "comments": 1,
-    "createdAt": "2026-09-06T22:37:31Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-07T00:05:36.032Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29897",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29897,
-    "title": "[Good First Issue] 🌊 Add new Trivia Question 82 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29897",
-    "comments": 1,
-    "createdAt": "2026-09-06T22:01:04Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-07T00:05:36.237Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29896",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29896,
-    "title": "[Good First Issue] 🗾 Add new Japanese Haiku 5 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29896",
-    "comments": 1,
-    "createdAt": "2026-09-06T21:37:32Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-07T00:05:36.484Z"
-  },
-  {
-    "key": "gchq/CyberChef#2778",
-    "tier": 2,
-    "repo": "gchq/CyberChef",
-    "number": 2778,
-    "title": "Bug report: build fails with webpack >= 5.110.0",
-    "url": "https://github.com/gchq/CyberChef/issues/2778",
-    "comments": 0,
-    "createdAt": "2026-09-06T22:10:55Z",
-    "labels": [
-      "bug",
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 35757,
-    "foundAt": "2026-09-07T00:05:37.191Z"
-  },
-  {
-    "key": "libredb/libredb-studio#610",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 610,
-    "title": "Add a Russian README (README_ru.md), covered by the localized-README drift guard",
-    "url": "https://github.com/libredb/libredb-studio/issues/610",
-    "comments": 0,
-    "createdAt": "2026-09-06T21:22:31Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 402,
-    "foundAt": "2026-09-06T21:29:31.112Z"
-  },
-  {
-    "key": "libredb/libredb-studio#609",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 609,
-    "title": "The env-documentation guard sees 40 of 62 variables, and 16 of the missing 22 are statically resolvable",
-    "url": "https://github.com/libredb/libredb-studio/issues/609",
-    "comments": 0,
-    "createdAt": "2026-09-06T21:15:42Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 402,
-    "foundAt": "2026-09-06T21:29:31.112Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29895",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29895,
-    "title": "[Good First Issue] 🍢 Add new Japanese Proverb 118 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29895",
-    "comments": 1,
-    "createdAt": "2026-09-06T21:01:03Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-06T21:29:31.623Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29888",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29888,
-    "title": "[Good First Issue] 🎴 Add new Community Note Line #3 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29888",
-    "comments": 1,
-    "createdAt": "2026-09-06T19:37:28Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-06T21:29:31.871Z"
-  },
-  {
-    "key": "meshery/meshery#21834",
-    "tier": 2,
-    "repo": "meshery/meshery",
-    "number": 21834,
-    "title": "[CI] Go test workflows (go-testing-ci.yml, server-integration-tests.yml) do not trigger on go.mod / go.sum updates",
-    "url": "https://github.com/meshery/meshery/issues/21834",
-    "comments": 1,
-    "createdAt": "2026-09-06T20:42:16Z",
-    "labels": [
-      "help wanted",
-      "area/ci",
-      "area/devops"
-    ],
-    "language": "typescript",
-    "stars": 11634,
-    "foundAt": "2026-09-06T21:29:32.175Z"
-  },
-  {
-    "key": "expo/expo#49794",
-    "tier": 3,
-    "repo": "expo/expo",
-    "number": 49794,
-    "title": "[docs] [expo-router] Question about `dismissTo`",
-    "url": "https://github.com/expo/expo/issues/49794",
-    "comments": 0,
-    "createdAt": "2026-09-06T20:54:29Z",
-    "labels": [
-      "docs",
-      "contributor: external"
-    ],
-    "language": "typescript",
-    "stars": 52074,
-    "foundAt": "2026-09-06T21:29:34.164Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29887",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29887,
-    "title": "[Good First Issue] 🥟 Add new Wallpaper URL #2 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29887",
-    "comments": 1,
-    "createdAt": "2026-09-06T19:01:00Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-06T19:20:17.031Z"
   }
 ]

@@ -4,6 +4,41 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-08 | 🥇 | [Nothing reaps idle reticle mcp process pairs when an editor session ends](https://github.com/reticlehq/reticle/issues/892) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-08 | 🥇 | [[agent] crawl blames the clicked link for a crash whose own stack names the page](https://github.com/reticlehq/reticle/issues/890) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-08 | 🥇 | [[agent] A text predicate matched hidden dialog content and returned already_true](https://github.com/reticlehq/reticle/issues/889) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-08 | 🥇 | [[agent] Escape needs an element ref it should not need, so dismissing a dialog c](https://github.com/reticlehq/reticle/issues/887) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-08 | 🥇 | [[agent] An ambiguous target refuses without ranking the candidates it already en](https://github.com/reticlehq/reticle/issues/886) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-08 | 🥇 | [[agent] init starts a second dev server beside the running one, leaving three se](https://github.com/reticlehq/reticle/issues/885) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-08 | 🥇 | [[agent] init hangs forever against a dev server bound to IPv6-only loopback, and](https://github.com/reticlehq/reticle/issues/884) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-08 | 🥇 | [[agent] A plain Svelte + Vite SPA is detected as SvelteKit, and init writes a bo](https://github.com/reticlehq/reticle/issues/883) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-08 | 🥇 | [[agent] init does not verify its own wiring landed: the plugin was never added t](https://github.com/reticlehq/reticle/issues/882) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-08 | 🥇 | [[agent] Vite serves a stale instrumented module after a source edit, so a drive ](https://github.com/reticlehq/reticle/issues/881) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-08 | 🥇 | [[agent] A WebGL canvas is a blank rectangle to Reticle, and nothing tells an ado](https://github.com/reticlehq/reticle/issues/880) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-08 | 🥇 | [[agent] Upload is sandboxed to the project root, which pushes third-party binari](https://github.com/reticlehq/reticle/issues/878) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-08 | 🥇 | [[agent] The predicate grammar can only be learned by provoking a parse error](https://github.com/reticlehq/reticle/issues/877) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-08 | 🥇 | [[agent] The tool directory is not reachable the way the server instructions say,](https://github.com/reticlehq/reticle/issues/876) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-08 | 🥇 | [[agent] Name matching is exact-only, so a button called "2 Mesh" is invisible to](https://github.com/reticlehq/reticle/issues/875) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-08 | 🥇 | [[Good First Issue] 🍵 Add new Dialect Entry 32 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30013) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-08 | 🥇 | [Add a Turkish README (README_tr.md), covered by the localized-README drift guard](https://github.com/libredb/libredb-studio/issues/696) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-08 | 🥇 | [Results grid has no context menu to copy a cell or a row](https://github.com/libredb/libredb-studio/issues/695) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-08 | 🥇 | [No way to mark a connection as a favorite](https://github.com/libredb/libredb-studio/issues/694) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-08 | 🥇 | [Deleting a connection has no confirmation step](https://github.com/libredb/libredb-studio/issues/693) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-08 | 🥇 | [No duplicate or clone action for a saved connection](https://github.com/libredb/libredb-studio/issues/692) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-08 | 🥇 | [[Good First Issue] 🍥 Add new Japanese Idiom 94 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30012) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-08 | 🥇 | [Admin Audit tab has no export](https://github.com/libredb/libredb-studio/issues/691) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-08 | 🥇 | [Saved Queries has no export or import](https://github.com/libredb/libredb-studio/issues/690) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-08 | 🥇 | [CSV import always treats the first row as a header](https://github.com/libredb/libredb-studio/issues/689) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-08 | 🥇 | [CSV import and export both hardcode the comma delimiter](https://github.com/libredb/libredb-studio/issues/688) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-08 | 🥇 | [Command palette's saved-query preview always appends "..." even when the text is](https://github.com/libredb/libredb-studio/issues/687) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-08 | 🥇 | [Six icon-only buttons across the app carry no accessible name](https://github.com/libredb/libredb-studio/issues/686) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-08 | 🥇 | [feat(components): add animated accordion component](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/89269) | `SAPTARSHI-coder/EaseMotion-css` | ⭐ 255 |
+| 2026-09-08 | 🥈 | [A corpus of deliberately awkward apps in CI — every blocking defect in the last ](https://github.com/reticlehq/reticle/issues/891) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-08 | 🥈 | [[agent] reticle_network_mock reports no-cdp-provider in every reachable configur](https://github.com/reticlehq/reticle/issues/888) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-08 | 🥈 | [[agent] The only verdict-producing tools have no body volume control, and re-ech](https://github.com/reticlehq/reticle/issues/879) | `reticlehq/reticle` | ⭐ 443 |
+| 2026-09-08 | 🥈 | [activist a is shown in light and dark mode on page load](https://github.com/activist-org/activist/issues/2391) | `activist-org/activist` | ⭐ 741 |
+| 2026-09-08 | 🥉 | [Incorrect documentation for the certificate posture check](https://github.com/cloudflare/cloudflare-docs/issues/33311) | `cloudflare/cloudflare-docs` | ⭐ 5.2k |
+| 2026-09-08 | 🥉 | [a11y: narrow-viewport sidebar toolbar is a nav landmark with no links](https://github.com/quarto-dev/quarto-cli/issues/14868) | `quarto-dev/quarto-cli` | ⭐ 6.0k |
 | 2026-09-08 | 🥇 | [功能增强：Artemis引擎对BC 7格式素材支持](https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues/78) | `Weiss-UltimateSavior/Tyranor-Next` | ⭐ 303 |
 | 2026-09-08 | 🥇 | [功能增强：RPG Maker XP/VX/VX Ace/mkxp-z](https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues/77) | `Weiss-UltimateSavior/Tyranor-Next` | ⭐ 303 |
 | 2026-09-08 | 🥇 | [[Good First Issue] 🥢 Add new Japan Fact 139 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29999) | `lingdojo/kana-dojo` | ⭐ 3.3k |
@@ -69,38 +104,3 @@
 | 2026-09-07 | 🥇 | [[Good First Issue] 🌊 Add new Example Sentence 59 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29927) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-07 | 🥇 | [[Good First Issue] 🍘 Add new Etiquette Tip 18 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29926) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-07 | 🥇 | [[Good First Issue] 🍢 Add new False Friend Pair 118 - Beginner-Friendly Open-sou](https://github.com/lingdojo/kana-dojo/issues/29925) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-07 | 🥇 | [docs: nothing pins measuredNullableAggregate(), and neither doc that names it sa](https://github.com/libredb/libredb-studio/issues/622) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-07 | 🥇 | [fix(mysql,postgres): an unmeasured database size is still published as 0 bytes](https://github.com/libredb/libredb-studio/issues/621) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-07 | 🥇 | [tests: the factory-citation guard can go vacuous, and 7 provider docs still cite](https://github.com/libredb/libredb-studio/issues/620) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-07 | 🥇 | [[Good First Issue] 🎐 Add new Dialect Entry 71 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29924) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-07 | 🥇 | [[Good First Issue] 🐡 Add new Japanese Idiom 113 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29922) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-07 | 🥇 | [[Good First Issue] 🎑 Add new Video Game Quote 40 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29921) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-07 | 🥇 | [chore(bench): the calibrated baseline is stale for gh-190/plusblog.html](https://github.com/xberg-io/html-to-markdown/issues/473) | `xberg-io/html-to-markdown` | ⭐ 863 |
-| 2026-09-07 | 🥇 | [[Good First Issue] 🍚 Add new Grammar Point 96 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29917) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-07 | 🥈 | [[Bug]: apps/desktop pptx-layered-background pixel bounds are Ubuntu-calibrated; ](https://github.com/nexu-io/open-design/issues/7841) | `nexu-io/open-design` | ⭐ 94.1k |
-| 2026-09-07 | 🥈 | [[Bug]: Typo "Kuberentes" instead of "Kubernetes" in Kubectl Plugin extension](https://github.com/meshery/meshery.io/issues/2939) | `meshery/meshery.io` | ⭐ 854 |
-| 2026-09-07 | 🥇 | [[Good First Issue] 🌸 Add new Japan Fact 133 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29913) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-07 | 🥇 | [[Good First Issue] 🏯 Add new Theme: Citrus Shrine - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29912) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-07 | 🥇 | [[Good First Issue] 🌊 Add new Community Note Line #4 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29911) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-07 | 🥇 | [[Good First Issue] 🌋 Add new Wallpaper URL #2 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29910) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-07 | 🥇 | [[Good First Issue] 🍘 Add new Learner Mistake 96 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29908) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-07 | 🥇 | [💡Full video buffer](https://github.com/code-charity/youtube/issues/4321) | `code-charity/youtube` | ⭐ 4.6k |
-| 2026-09-07 | 🥈 | [[Discussion]: gpt6 astra cannot select thinking intensity, please fix as soon as](https://github.com/CherryHQ/cherry-studio/issues/20144) | `CherryHQ/cherry-studio` | ⭐ 51.5k |
-| 2026-09-07 | 🥈 | [[Good First Issue] 🎐 Add new Etiquette Tip 65 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29904) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-07 | 🥈 | [[Good First Issue] 🎏 Add new False Friend Pair 35 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29903) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-07 | 🥈 | [A IA não pode dizer que a mensagem veio vazia quando ela tem texto (do PR #601, ](https://github.com/melgarafael/DeskcommCRM/issues/617) | `melgarafael/DeskcommCRM` | ⭐ 828 |
-| 2026-09-07 | 🥈 | [[Good First Issue] 🍤 Add new Dialect Entry 74 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29902) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-07 | 🥇 | [[Good First Issue] 🦊 Add new Japanese Idiom 85 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29901) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-07 | 🥇 | [[Good First Issue] 🥢 Add new Video Game Quote 67 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29900) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-07 | 🥇 | [[Good First Issue] 🎴 Add new Anime Quote 59 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29899) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-07 | 🥇 | [[Good First Issue] 🗾 Add new Grammar Point 118 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29898) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-07 | 🥇 | [[Good First Issue] 🌊 Add new Trivia Question 82 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29897) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-07 | 🥇 | [[Good First Issue] 🗾 Add new Japanese Haiku 5 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29896) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-07 | 🥈 | [Bug report: build fails with webpack >= 5.110.0](https://github.com/gchq/CyberChef/issues/2778) | `gchq/CyberChef` | ⭐ 35.8k |
-| 2026-09-06 | 🥇 | [Add a Russian README (README_ru.md), covered by the localized-README drift guard](https://github.com/libredb/libredb-studio/issues/610) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-06 | 🥇 | [The env-documentation guard sees 40 of 62 variables, and 16 of the missing 22 ar](https://github.com/libredb/libredb-studio/issues/609) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-06 | 🥇 | [[Good First Issue] 🍢 Add new Japanese Proverb 118 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29895) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-06 | 🥇 | [[Good First Issue] 🎴 Add new Community Note Line #3 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29888) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-06 | 🥈 | [[CI] Go test workflows (go-testing-ci.yml, server-integration-tests.yml) do not ](https://github.com/meshery/meshery/issues/21834) | `meshery/meshery` | ⭐ 11.6k |
-| 2026-09-06 | 🥉 | [[docs] [expo-router] Question about `dismissTo`](https://github.com/expo/expo/issues/49794) | `expo/expo` | ⭐ 52.1k |
-| 2026-09-06 | 🥇 | [[Good First Issue] 🥟 Add new Wallpaper URL #2 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29887) | `lingdojo/kana-dojo` | ⭐ 3.3k |
