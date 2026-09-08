@@ -4,6 +4,22 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-08 | 🥇 | [功能增强：Artemis引擎对BC 7格式素材支持](https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues/78) | `Weiss-UltimateSavior/Tyranor-Next` | ⭐ 303 |
+| 2026-09-08 | 🥇 | [功能增强：RPG Maker XP/VX/VX Ace/mkxp-z](https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues/77) | `Weiss-UltimateSavior/Tyranor-Next` | ⭐ 303 |
+| 2026-09-08 | 🥇 | [[Good First Issue] 🥢 Add new Japan Fact 139 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29999) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-08 | 🥇 | [[Good First Issue] 🀄 Add new Theme: Vaporwave Shrine - Beginner-Friendly Open-s](https://github.com/lingdojo/kana-dojo/issues/29998) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-08 | 🥇 | [Panels: draw only some border sides](https://github.com/profullstack/hqtui/issues/59) | `profullstack/hqtui` | ⭐ 235 |
+| 2026-09-08 | 🥇 | [Layout: justify/flex distribution for leftover space](https://github.com/profullstack/hqtui/issues/58) | `profullstack/hqtui` | ⭐ 235 |
+| 2026-09-08 | 🥇 | [Improve Mobile Responsiveness](https://github.com/Syknapse/Contribute-To-This-Project/issues/4750) | `Syknapse/Contribute-To-This-Project` | ⭐ 2.6k |
+| 2026-09-08 | 🥇 | [update language referring to ARIA 1.2](https://github.com/w3c/aria/issues/2893) | `w3c/aria` | ⭐ 751 |
+| 2026-09-08 | 🥈 | [[Good First Issue] 🪭 Add new Wallpaper URL #5 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29995) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-08 | 🥈 | [【功能请求】在管理审核照片界面添加转移猫照选项/添加批量转移功能](https://github.com/sysucats/zhongdamaopu/issues/144) | `sysucats/zhongdamaopu` | ⭐ 335 |
+| 2026-09-08 | 🥈 | [[Good First Issue] 🧧 Add new Learner Mistake 80 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29993) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-08 | 🥉 | [09.08---官方已经继续升级修复](https://github.com/Popukok/smg_live/issues/25) | `Popukok/smg_live` | ⭐ 550 |
+| 2026-09-08 | 🥉 | [Explain declarative DockLayouts adoption in real applications](https://github.com/neomjs/neo/issues/18479) | `neomjs/neo` | ⭐ 3.3k |
+| 2026-09-08 | 🥉 | [Write the first declarative DockLayouts tutorial](https://github.com/neomjs/neo/issues/18478) | `neomjs/neo` | ⭐ 3.3k |
+| 2026-09-08 | 🥉 | [File chooser dialog needs better screenreader support](https://github.com/cockpit-project/cockpit/issues/23705) | `cockpit-project/cockpit` | ⭐ 15.0k |
+| 2026-09-08 | 🥉 | [File chooser component lacks keyboard navigation support](https://github.com/cockpit-project/cockpit/issues/23704) | `cockpit-project/cockpit` | ⭐ 15.0k |
 | 2026-09-08 | 🥇 | [💡Favorites](https://github.com/code-charity/youtube/issues/4326) | `code-charity/youtube` | ⭐ 4.6k |
 | 2026-09-08 | 🥈 | [Create-table form emits PostgreSQL DDL for every engine (dbType prop is unused)](https://github.com/libredb/libredb-studio/issues/648) | `libredb/libredb-studio` | ⭐ 402 |
 | 2026-09-08 | 🥈 | [[Good First Issue] 🐙 Add new Grammar Point 37 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29986) | `lingdojo/kana-dojo` | ⭐ 3.3k |
@@ -88,19 +104,3 @@
 | 2026-09-06 | 🥈 | [[CI] Go test workflows (go-testing-ci.yml, server-integration-tests.yml) do not ](https://github.com/meshery/meshery/issues/21834) | `meshery/meshery` | ⭐ 11.6k |
 | 2026-09-06 | 🥉 | [[docs] [expo-router] Question about `dismissTo`](https://github.com/expo/expo/issues/49794) | `expo/expo` | ⭐ 52.1k |
 | 2026-09-06 | 🥇 | [[Good First Issue] 🥟 Add new Wallpaper URL #2 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29887) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-06 | 🥇 | [[Good First Issue] 🍤 Add new Learner Mistake 19 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29886) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-06 | 🥇 | [[Good First Issue] 🍁 Add new Example Sentence 62 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29885) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-06 | 🥇 | [[Good First Issue] 🌸 Add new Etiquette Tip 82 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29884) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-06 | 🥇 | [There is no actual eval runner](https://github.com/WordPress/agent-skills/issues/101) | `WordPress/agent-skills` | ⭐ 2.1k |
-| 2026-09-06 | 🥈 | [[HELP]](https://github.com/remittor/zapret-openwrt/issues/845) | `remittor/zapret-openwrt` | ⭐ 1.4k |
-| 2026-09-06 | 🥇 | [[Good First Issue] 🌋 Add new False Friend Pair 42 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29883) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-06 | 🥇 | [[Good First Issue] ⛩️ Add new Dialect Entry 103 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29881) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-06 | 🥇 | [[Good First Issue] 🀄 Add new Video Game Quote 38 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29878) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-06 | 🥇 | [Add theme and language controls as right justified elements to the page breadcru](https://github.com/activist-org/activist/issues/2386) | `activist-org/activist` | ⭐ 741 |
-| 2026-09-06 | 🥇 | [[Good First Issue] 🍢 Add new Anime Quote 20 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29877) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-06 | 🥇 | [[Good First Issue] 🍡 Add new Grammar Point 120 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29876) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-06 | 🥈 | [feat(fallback): CLI 限额后自动 @ 备用 Bot 接手](https://github.com/deepcoldy/botmux/issues/1282) | `deepcoldy/botmux` | ⭐ 1.4k |
-| 2026-09-06 | 🥈 | [LaTeX 编辑器：命令/环境补全 + 项目文献 \cite 补全](https://github.com/1692775560/dsh-Mimir-Academic-research/issues/154) | `1692775560/dsh-Mimir-Academic-research` | ⭐ 212 |
-| 2026-09-06 | 🥈 | [阅读→写作管线：引用卡片到 related work 草稿](https://github.com/1692775560/dsh-Mimir-Academic-research/issues/153) | `1692775560/dsh-Mimir-Academic-research` | ⭐ 212 |
-| 2026-09-06 | 🥈 | [实验自动收录（第一阶段）：盯服务器训练任务，指标落进实验记录](https://github.com/1692775560/dsh-Mimir-Academic-research/issues/152) | `1692775560/dsh-Mimir-Academic-research` | ⭐ 212 |
-| 2026-09-06 | 🥈 | [Zotero 双向同步：把 Mimir 整理的合集推回 Zotero](https://github.com/1692775560/dsh-Mimir-Academic-research/issues/151) | `1692775560/dsh-Mimir-Academic-research` | ⭐ 212 |
