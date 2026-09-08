@@ -4,6 +4,20 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-08 | 🥇 | [[Good First Issue] 🍁 Add new Dialect Entry 51 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29968) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-08 | 🥇 | [[Good First Issue] 🦊 Add new Japanese Idiom 19 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29967) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-08 | 🥇 | [[Good First Issue] 🎎 Add new Anime Quote 81 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29966) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-08 | 🥇 | [[Good First Issue] 🎎 Add new Grammar Point 97 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29965) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-08 | 🥇 | [[Good First Issue] 🐡 Add new Trivia Question 138 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29964) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-08 | 🥇 | [[Good First Issue] 🐙 Add new Japanese Haiku 3 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29963) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-08 | 🥇 | [[Good First Issue] ⛩️ Add new Japanese Proverb 102 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29962) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-08 | 🥇 | [[Good First Issue] 🍶 Add new Japan Fact 295 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29961) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-08 | 🥇 | [Seven of eight NAMED_CITATIONS entries are hand-picked subsets, so a doc can add](https://github.com/libredb/libredb-studio/issues/641) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-08 | 🥇 | [docs(providers): five docs cite getPlaceholder(), a method deleted in #304](https://github.com/libredb/libredb-studio/issues/640) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-08 | 🥇 | [[Good First Issue] 🦑 Add new Theme: Festival Gold - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29960) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-08 | 🥇 | [[Good First Issue] 🍚 Add new Example Sentence 30 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29959) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-08 | 🥈 | [[Discussion]: Why doesn’t Cherry Studio support some of Poe’s latest models?](https://github.com/CherryHQ/cherry-studio/issues/20203) | `CherryHQ/cherry-studio` | ⭐ 51.5k |
+| 2026-09-08 | 🥉 | [Contact Form Submission - Request - Missing Section or Solution (Bronze - Ad Hoc](https://github.com/cpinitiative/usaco-guide/issues/6613) | `cpinitiative/usaco-guide` | ⭐ 1.8k |
 | 2026-09-07 | 🥇 | [[Good First Issue] 🍣 Add new Etiquette Tip 36 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29958) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-07 | 🥇 | [[Good First Issue] 🎌 Add new False Friend Pair 105 - Beginner-Friendly Open-sou](https://github.com/lingdojo/kana-dojo/issues/29957) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-07 | 🥇 | [[Good First Issue] 🧧 Add new Japanese Proverb 85 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29952) | `lingdojo/kana-dojo` | ⭐ 3.3k |
@@ -90,17 +104,3 @@
 | 2026-09-06 | 🥇 | [[Good First Issue] 🎍 Add new Trivia Question 56 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29875) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-06 | 🥇 | [[Good First Issue] 🗾 Add new Japanese Haiku 11 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29874) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-06 | 🥇 | [[Good First Issue] 🍡 Add new Japanese Proverb 180 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29873) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-06 | 🥇 | [[Good First Issue] 🌺 Add new Japan Fact 145 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29872) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-06 | 🥇 | [[Good First Issue] 🐙 Add new Theme: Robot Anime - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29871) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-06 | 🥇 | [[Good First Issue] 🐙 Add new Community Note Line #5 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29870) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-06 | 🥈 | [[help]](https://github.com/XCQ0607/lxserver/issues/340) | `XCQ0607/lxserver` | ⭐ 793 |
-| 2026-09-06 | 🥈 | [Test run on a P1S: capture a sliced file together with what the printer reports ](https://github.com/Rdiger-36/bambulab-ams-spoolman-filamentstatus/issues/146) | `Rdiger-36/bambulab-ams-spoolman-filamentstatus` | ⭐ 236 |
-| 2026-09-06 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-19635226]](https://github.com/backstage/backstage/issues/35553) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-06 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-19635218]](https://github.com/backstage/backstage/issues/35550) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-06 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-19635222]](https://github.com/backstage/backstage/issues/35552) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-06 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-19635220]](https://github.com/backstage/backstage/issues/35551) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-06 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-19635216]](https://github.com/backstage/backstage/issues/35549) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-06 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-19635212]](https://github.com/backstage/backstage/issues/35547) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-06 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-19635214]](https://github.com/backstage/backstage/issues/35548) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-06 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-19635206]](https://github.com/backstage/backstage/issues/35544) | `backstage/backstage` | ⭐ 34.3k |
-| 2026-09-06 | 🥈 | [Snyk vulnerability [SNYK-JS-UNDICI-19635208]](https://github.com/backstage/backstage/issues/35545) | `backstage/backstage` | ⭐ 34.3k |

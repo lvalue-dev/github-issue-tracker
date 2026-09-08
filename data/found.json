@@ -1,5 +1,305 @@
 [
   {
+    "key": "lingdojo/kana-dojo#29968",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29968,
+    "title": "[Good First Issue] 🍁 Add new Dialect Entry 51 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29968",
+    "comments": 1,
+    "createdAt": "2026-09-08T04:01:06Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-08T04:54:00.903Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29967",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29967,
+    "title": "[Good First Issue] 🦊 Add new Japanese Idiom 19 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29967",
+    "comments": 1,
+    "createdAt": "2026-09-08T03:57:32Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-08T04:54:00.903Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29966",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29966,
+    "title": "[Good First Issue] 🎎 Add new Anime Quote 81 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29966",
+    "comments": 1,
+    "createdAt": "2026-09-08T03:01:02Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-08T04:54:01.186Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29965",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29965,
+    "title": "[Good First Issue] 🎎 Add new Grammar Point 97 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29965",
+    "comments": 1,
+    "createdAt": "2026-09-08T02:57:31Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-08T04:54:01.186Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29964",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29964,
+    "title": "[Good First Issue] 🐡 Add new Trivia Question 138 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29964",
+    "comments": 1,
+    "createdAt": "2026-09-08T02:00:55Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-08T04:54:01.457Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29963",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29963,
+    "title": "[Good First Issue] 🐙 Add new Japanese Haiku 3 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29963",
+    "comments": 1,
+    "createdAt": "2026-09-08T01:57:29Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-08T04:54:01.457Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29962",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29962,
+    "title": "[Good First Issue] ⛩️ Add new Japanese Proverb 102 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29962",
+    "comments": 1,
+    "createdAt": "2026-09-08T01:01:00Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-08T04:54:01.674Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29961",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29961,
+    "title": "[Good First Issue] 🍶 Add new Japan Fact 295 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29961",
+    "comments": 1,
+    "createdAt": "2026-09-08T00:57:30Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-08T04:54:01.674Z"
+  },
+  {
+    "key": "libredb/libredb-studio#641",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 641,
+    "title": "Seven of eight NAMED_CITATIONS entries are hand-picked subsets, so a doc can add a citation nothing measures",
+    "url": "https://github.com/libredb/libredb-studio/issues/641",
+    "comments": 0,
+    "createdAt": "2026-09-08T00:38:38Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 402,
+    "foundAt": "2026-09-08T04:54:01.871Z"
+  },
+  {
+    "key": "libredb/libredb-studio#640",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 640,
+    "title": "docs(providers): five docs cite getPlaceholder(), a method deleted in #304",
+    "url": "https://github.com/libredb/libredb-studio/issues/640",
+    "comments": 1,
+    "createdAt": "2026-09-08T00:38:36Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 402,
+    "foundAt": "2026-09-08T04:54:01.871Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29960",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29960,
+    "title": "[Good First Issue] 🦑 Add new Theme: Festival Gold - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29960",
+    "comments": 1,
+    "createdAt": "2026-09-08T00:01:14Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-08T04:54:01.871Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#29959",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 29959,
+    "title": "[Good First Issue] 🍚 Add new Example Sentence 30 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/29959",
+    "comments": 1,
+    "createdAt": "2026-09-07T23:57:32Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-08T04:54:01.871Z"
+  },
+  {
+    "key": "CherryHQ/cherry-studio#20203",
+    "tier": 2,
+    "repo": "CherryHQ/cherry-studio",
+    "number": 20203,
+    "title": "[Discussion]: Why doesn’t Cherry Studio support some of Poe’s latest models?",
+    "url": "https://github.com/CherryHQ/cherry-studio/issues/20203",
+    "comments": 0,
+    "createdAt": "2026-09-08T03:35:30Z",
+    "labels": [
+      "help wanted",
+      "discussion"
+    ],
+    "language": "typescript",
+    "stars": 51475,
+    "foundAt": "2026-09-08T04:54:02.196Z"
+  },
+  {
+    "key": "cpinitiative/usaco-guide#6613",
+    "tier": 3,
+    "repo": "cpinitiative/usaco-guide",
+    "number": 6613,
+    "title": "Contact Form Submission - Request - Missing Section or Solution (Bronze - Ad Hoc Problems)",
+    "url": "https://github.com/cpinitiative/usaco-guide/issues/6613",
+    "comments": 0,
+    "createdAt": "2026-09-08T00:31:24Z",
+    "labels": [
+      "good first issue",
+      "content"
+    ],
+    "language": "mdx",
+    "stars": 1843,
+    "foundAt": "2026-09-08T04:54:05.777Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#29958",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1783,261 +2083,5 @@
     "language": "typescript",
     "stars": 3306,
     "foundAt": "2026-09-06T14:16:16.599Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29872",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29872,
-    "title": "[Good First Issue] 🌺 Add new Japan Fact 145 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29872",
-    "comments": 1,
-    "createdAt": "2026-09-06T12:37:30Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-06T14:16:16.599Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29871",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29871,
-    "title": "[Good First Issue] 🐙 Add new Theme: Robot Anime - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29871",
-    "comments": 1,
-    "createdAt": "2026-09-06T12:00:59Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-06T14:16:16.757Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29870",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29870,
-    "title": "[Good First Issue] 🐙 Add new Community Note Line #5 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29870",
-    "comments": 1,
-    "createdAt": "2026-09-06T11:37:33Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-06T14:16:16.939Z"
-  },
-  {
-    "key": "XCQ0607/lxserver#340",
-    "tier": 2,
-    "repo": "XCQ0607/lxserver",
-    "number": 340,
-    "title": "[help]",
-    "url": "https://github.com/XCQ0607/lxserver/issues/340",
-    "comments": 0,
-    "createdAt": "2026-09-06T14:10:41Z",
-    "labels": [
-      "help wanted",
-      "question"
-    ],
-    "language": "javascript",
-    "stars": 793,
-    "foundAt": "2026-09-06T14:16:17.834Z"
-  },
-  {
-    "key": "Rdiger-36/bambulab-ams-spoolman-filamentstatus#146",
-    "tier": 2,
-    "repo": "Rdiger-36/bambulab-ams-spoolman-filamentstatus",
-    "number": 146,
-    "title": "Test run on a P1S: capture a sliced file together with what the printer reports about its slots",
-    "url": "https://github.com/Rdiger-36/bambulab-ams-spoolman-filamentstatus/issues/146",
-    "comments": 1,
-    "createdAt": "2026-09-06T12:29:31Z",
-    "labels": [
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 236,
-    "foundAt": "2026-09-06T14:16:18.211Z"
-  },
-  {
-    "key": "backstage/backstage#35553",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35553,
-    "title": "Snyk vulnerability [SNYK-JS-UNDICI-19635226]",
-    "url": "https://github.com/backstage/backstage/issues/35553",
-    "comments": 0,
-    "createdAt": "2026-09-06T12:07:28Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-06T14:16:17.679Z"
-  },
-  {
-    "key": "backstage/backstage#35550",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35550,
-    "title": "Snyk vulnerability [SNYK-JS-UNDICI-19635218]",
-    "url": "https://github.com/backstage/backstage/issues/35550",
-    "comments": 0,
-    "createdAt": "2026-09-06T12:07:27Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-06T14:16:17.679Z"
-  },
-  {
-    "key": "backstage/backstage#35552",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35552,
-    "title": "Snyk vulnerability [SNYK-JS-UNDICI-19635222]",
-    "url": "https://github.com/backstage/backstage/issues/35552",
-    "comments": 0,
-    "createdAt": "2026-09-06T12:07:27Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-06T14:16:17.679Z"
-  },
-  {
-    "key": "backstage/backstage#35551",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35551,
-    "title": "Snyk vulnerability [SNYK-JS-UNDICI-19635220]",
-    "url": "https://github.com/backstage/backstage/issues/35551",
-    "comments": 0,
-    "createdAt": "2026-09-06T12:07:27Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-06T14:16:17.679Z"
-  },
-  {
-    "key": "backstage/backstage#35549",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35549,
-    "title": "Snyk vulnerability [SNYK-JS-UNDICI-19635216]",
-    "url": "https://github.com/backstage/backstage/issues/35549",
-    "comments": 0,
-    "createdAt": "2026-09-06T12:07:26Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-06T14:16:17.679Z"
-  },
-  {
-    "key": "backstage/backstage#35547",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35547,
-    "title": "Snyk vulnerability [SNYK-JS-UNDICI-19635212]",
-    "url": "https://github.com/backstage/backstage/issues/35547",
-    "comments": 0,
-    "createdAt": "2026-09-06T12:07:26Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-06T14:16:17.679Z"
-  },
-  {
-    "key": "backstage/backstage#35548",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35548,
-    "title": "Snyk vulnerability [SNYK-JS-UNDICI-19635214]",
-    "url": "https://github.com/backstage/backstage/issues/35548",
-    "comments": 0,
-    "createdAt": "2026-09-06T12:07:26Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-06T14:16:17.679Z"
-  },
-  {
-    "key": "backstage/backstage#35544",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35544,
-    "title": "Snyk vulnerability [SNYK-JS-UNDICI-19635206]",
-    "url": "https://github.com/backstage/backstage/issues/35544",
-    "comments": 0,
-    "createdAt": "2026-09-06T12:07:25Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-06T14:16:17.679Z"
-  },
-  {
-    "key": "backstage/backstage#35545",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35545,
-    "title": "Snyk vulnerability [SNYK-JS-UNDICI-19635208]",
-    "url": "https://github.com/backstage/backstage/issues/35545",
-    "comments": 0,
-    "createdAt": "2026-09-06T12:07:25Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34329,
-    "foundAt": "2026-09-06T14:16:17.679Z"
   }
 ]
