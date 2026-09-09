@@ -1,5 +1,243 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30034",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30034,
+    "title": "[Good First Issue] 🎑 Add new Learner Mistake 21 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30034",
+    "comments": 1,
+    "createdAt": "2026-09-09T04:01:08Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-09T04:57:29.278Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30033",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30033,
+    "title": "[Good First Issue] 🎑 Add new Example Sentence 94 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30033",
+    "comments": 1,
+    "createdAt": "2026-09-09T03:57:32Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-09T04:57:29.278Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30032",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30032,
+    "title": "[Good First Issue] 🍛 Add new Etiquette Tip 78 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30032",
+    "comments": 1,
+    "createdAt": "2026-09-09T03:01:00Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-09T04:57:29.521Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30031",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30031,
+    "title": "[Good First Issue] 🍙 Add new False Friend Pair 62 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30031",
+    "comments": 1,
+    "createdAt": "2026-09-09T02:57:27Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-09T04:57:29.521Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30029",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30029,
+    "title": "[Good First Issue] ⛩️ Add new Dialect Entry 52 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30029",
+    "comments": 1,
+    "createdAt": "2026-09-09T02:01:06Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-09T04:57:29.745Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30028",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30028,
+    "title": "[Good First Issue] 🌊 Add new Japanese Idiom 120 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30028",
+    "comments": 1,
+    "createdAt": "2026-09-09T01:57:34Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-09T04:57:29.745Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30027",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30027,
+    "title": "[Good First Issue] 🎴 Add new Video Game Quote 116 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30027",
+    "comments": 1,
+    "createdAt": "2026-09-09T01:01:01Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-09T04:57:29.745Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30026",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30026,
+    "title": "[Good First Issue] 🏯 Add new Anime Quote 131 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30026",
+    "comments": 1,
+    "createdAt": "2026-09-09T00:58:08Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-09T04:57:29.745Z"
+  },
+  {
+    "key": "layer5io/layer5#8034",
+    "tier": 2,
+    "repo": "layer5io/layer5",
+    "number": 8034,
+    "title": "[UI]: Truncated command and unbalanced layout in Single Step Installation section",
+    "url": "https://github.com/layer5io/layer5/issues/8034",
+    "comments": 1,
+    "createdAt": "2026-09-09T04:45:12Z",
+    "labels": [
+      "kind/bug",
+      "help wanted",
+      "framework/gatsby"
+    ],
+    "language": "javascript",
+    "stars": 1115,
+    "foundAt": "2026-09-09T04:57:31.450Z"
+  },
+  {
+    "key": "mattgodbolt/jsbeeb#1102",
+    "tier": 3,
+    "repo": "mattgodbolt/jsbeeb",
+    "number": 1102,
+    "title": "Media window: Alt+M, Alt+Shift+M and Alt+C do nothing while focus is inside the window",
+    "url": "https://github.com/mattgodbolt/jsbeeb/issues/1102",
+    "comments": 0,
+    "createdAt": "2026-09-09T04:19:25Z",
+    "labels": [
+      "ui",
+      "input",
+      "accessibility"
+    ],
+    "language": "javascript",
+    "stars": 392,
+    "foundAt": "2026-09-09T04:57:34.688Z"
+  },
+  {
+    "key": "highcharts/highcharts#25320",
+    "tier": 3,
+    "repo": "highcharts/highcharts",
+    "number": 25320,
+    "title": "[Bug] Accessibility module's forced markers make the legend symbol transparent on redraw",
+    "url": "https://github.com/highcharts/highcharts/issues/25320",
+    "comments": 0,
+    "createdAt": "2026-09-09T03:50:49Z",
+    "labels": [
+      "Type: Bug",
+      "Product: Highcharts",
+      "a11y"
+    ],
+    "language": "typescript",
+    "stars": 12488,
+    "foundAt": "2026-09-09T04:57:33.998Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30025",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1795,228 +2033,5 @@
     "language": "javascript",
     "stars": 4566,
     "foundAt": "2026-09-07T20:40:51.895Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29949",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29949,
-    "title": "[Good First Issue] 🍢 Add new Community Note Line #3 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29949",
-    "comments": 1,
-    "createdAt": "2026-09-07T18:57:31Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-07T20:40:50.007Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29948",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29948,
-    "title": "[Good First Issue] 🐡 Add new Wallpaper URL #3 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29948",
-    "comments": 1,
-    "createdAt": "2026-09-07T18:01:09Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-07T20:40:50.255Z"
-  },
-  {
-    "key": "reticlehq/reticle#852",
-    "tier": 1,
-    "repo": "reticlehq/reticle",
-    "number": 852,
-    "title": "A disabled build should ship no SDK code at all, not merely go unused",
-    "url": "https://github.com/reticlehq/reticle/issues/852",
-    "comments": 1,
-    "createdAt": "2026-09-07T17:58:55Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 443,
-    "foundAt": "2026-09-07T20:40:50.255Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29947",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29947,
-    "title": "[Good First Issue] 🌊 Add new Learner Mistake 88 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29947",
-    "comments": 1,
-    "createdAt": "2026-09-07T17:57:32Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-07T20:40:50.255Z"
-  },
-  {
-    "key": "software-mansion/TypeGPU#2990",
-    "tier": 1,
-    "repo": "software-mansion/TypeGPU",
-    "number": 2990,
-    "title": "impr: Validate `dpdx`, `dpdy`, `inverseSqrt` signatures in codeden mode",
-    "url": "https://github.com/software-mansion/TypeGPU/issues/2990",
-    "comments": 1,
-    "createdAt": "2026-09-07T17:11:55Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "good first human issue"
-    ],
-    "language": "typescript",
-    "stars": 3178,
-    "foundAt": "2026-09-07T20:40:50.839Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29945",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29945,
-    "title": "[Good First Issue] 🎌 Add new Example Sentence 17 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29945",
-    "comments": 1,
-    "createdAt": "2026-09-07T17:01:05Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-07T20:40:51.285Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29944",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29944,
-    "title": "[Good First Issue] 🪭 Add new Etiquette Tip 80 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29944",
-    "comments": 1,
-    "createdAt": "2026-09-07T16:57:32Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-07T20:40:51.285Z"
-  },
-  {
-    "key": "layer5io/layer5#8028",
-    "tier": 2,
-    "repo": "layer5io/layer5",
-    "number": 8028,
-    "title": "[UI]: She Code Africa logo is off-center on mobile view",
-    "url": "https://github.com/layer5io/layer5/issues/8028",
-    "comments": 0,
-    "createdAt": "2026-09-07T19:13:46Z",
-    "labels": [
-      "kind/bug",
-      "help wanted",
-      "framework/gatsby"
-    ],
-    "language": "javascript",
-    "stars": 1115,
-    "foundAt": "2026-09-07T20:40:53.470Z"
-  },
-  {
-    "key": "gflohr/e-invoice-eu#600",
-    "tier": 2,
-    "repo": "gflohr/e-invoice-eu",
-    "number": 600,
-    "title": "Support for Italian FatturaPA",
-    "url": "https://github.com/gflohr/e-invoice-eu/issues/600",
-    "comments": 2,
-    "createdAt": "2026-09-07T18:45:01Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "ubl"
-    ],
-    "language": "typescript",
-    "stars": 305,
-    "foundAt": "2026-09-07T20:40:53.068Z"
-  },
-  {
-    "key": "reticlehq/reticle#853",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 853,
-    "title": "Two small ergonomics borrows: a @reticle-ignore comment, and co-located component docs",
-    "url": "https://github.com/reticlehq/reticle/issues/853",
-    "comments": 0,
-    "createdAt": "2026-09-07T17:59:17Z",
-    "labels": [
-      "enhancement",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 443,
-    "foundAt": "2026-09-07T20:40:53.068Z"
-  },
-  {
-    "key": "reticlehq/reticle#851",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 851,
-    "title": "A tool that traces where a runtime value came from (state path ← action ← request)",
-    "url": "https://github.com/reticlehq/reticle/issues/851",
-    "comments": 0,
-    "createdAt": "2026-09-07T17:58:33Z",
-    "labels": [
-      "enhancement",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 443,
-    "foundAt": "2026-09-07T20:40:53.068Z"
   }
 ]

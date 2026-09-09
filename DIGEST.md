@@ -4,6 +4,17 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-09 | 🥇 | [[Good First Issue] 🎑 Add new Learner Mistake 21 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30034) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥇 | [[Good First Issue] 🎑 Add new Example Sentence 94 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30033) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥇 | [[Good First Issue] 🍛 Add new Etiquette Tip 78 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30032) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥇 | [[Good First Issue] 🍙 Add new False Friend Pair 62 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30031) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥇 | [[Good First Issue] ⛩️ Add new Dialect Entry 52 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30029) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥇 | [[Good First Issue] 🌊 Add new Japanese Idiom 120 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30028) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥇 | [[Good First Issue] 🎴 Add new Video Game Quote 116 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30027) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥇 | [[Good First Issue] 🏯 Add new Anime Quote 131 - Beginner-Friendly Open-source Co](https://github.com/lingdojo/kana-dojo/issues/30026) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥈 | [[UI]: Truncated command and unbalanced layout in Single Step Installation sectio](https://github.com/layer5io/layer5/issues/8034) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-09 | 🥉 | [Media window: Alt+M, Alt+Shift+M and Alt+C do nothing while focus is inside the ](https://github.com/mattgodbolt/jsbeeb/issues/1102) | `mattgodbolt/jsbeeb` | ⭐ 392 |
+| 2026-09-09 | 🥉 | [[Bug] Accessibility module's forced markers make the legend symbol transparent o](https://github.com/highcharts/highcharts/issues/25320) | `highcharts/highcharts` | ⭐ 12.5k |
 | 2026-09-09 | 🥇 | [[Good First Issue] 🏮 Add new Grammar Point 50 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30025) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-09 | 🥇 | [[Good First Issue] 🌺 Add new Trivia Question 127 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30024) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-09 | 🥇 | [[Good First Issue] 🎴 Add new Japanese Haiku 10 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30023) | `lingdojo/kana-dojo` | ⭐ 3.3k |
@@ -93,14 +104,3 @@
 | 2026-09-07 | 🥇 | [Add an Urdu README (README_ur.md), covered by the localized-README drift guard](https://github.com/libredb/libredb-studio/issues/637) | `libredb/libredb-studio` | ⭐ 402 |
 | 2026-09-07 | 🥇 | [[Good First Issue] 🀄 Add new Theme: Street Lantern - Beginner-Friendly Open-sou](https://github.com/lingdojo/kana-dojo/issues/29950) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-07 | 🥇 | [🐞 Disable Auto play not working when using incognito](https://github.com/code-charity/youtube/issues/4322) | `code-charity/youtube` | ⭐ 4.6k |
-| 2026-09-07 | 🥇 | [[Good First Issue] 🍢 Add new Community Note Line #3 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/29949) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-07 | 🥇 | [[Good First Issue] 🐡 Add new Wallpaper URL #3 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29948) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-07 | 🥇 | [A disabled build should ship no SDK code at all, not merely go unused](https://github.com/reticlehq/reticle/issues/852) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-07 | 🥇 | [[Good First Issue] 🌊 Add new Learner Mistake 88 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29947) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-07 | 🥇 | [impr: Validate `dpdx`, `dpdy`, `inverseSqrt` signatures in codeden mode](https://github.com/software-mansion/TypeGPU/issues/2990) | `software-mansion/TypeGPU` | ⭐ 3.2k |
-| 2026-09-07 | 🥇 | [[Good First Issue] 🎌 Add new Example Sentence 17 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29945) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-07 | 🥇 | [[Good First Issue] 🪭 Add new Etiquette Tip 80 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29944) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-07 | 🥈 | [[UI]: She Code Africa logo is off-center on mobile view](https://github.com/layer5io/layer5/issues/8028) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-07 | 🥈 | [Support for Italian FatturaPA](https://github.com/gflohr/e-invoice-eu/issues/600) | `gflohr/e-invoice-eu` | ⭐ 305 |
-| 2026-09-07 | 🥈 | [Two small ergonomics borrows: a @reticle-ignore comment, and co-located componen](https://github.com/reticlehq/reticle/issues/853) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-07 | 🥈 | [A tool that traces where a runtime value came from (state path ← action ← reques](https://github.com/reticlehq/reticle/issues/851) | `reticlehq/reticle` | ⭐ 443 |
