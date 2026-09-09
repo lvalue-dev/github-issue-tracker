@@ -4,6 +4,13 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-09 | 🥇 | [[Good First Issue] 🏮 Add new Grammar Point 50 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30025) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥇 | [[Good First Issue] 🌺 Add new Trivia Question 127 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30024) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥇 | [[Good First Issue] 🎴 Add new Japanese Haiku 10 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30023) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥇 | [[Good First Issue] 🗻 Add new Japanese Proverb 78 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30022) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥇 | [[Good First Issue] 🏯 Add new Japan Fact 255 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30021) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥈 | [[Good First Issue] 🎍 Add new Theme: Tsukimi Moon - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30020) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥉 | [2026.831.1: scope of hot-restart/drain controls before the first maintenance shu](https://github.com/paperclipai/paperclip/issues/13065) | `paperclipai/paperclip` | ⭐ 80.3k |
 | 2026-09-08 | 🥇 | [[Good First Issue] 🎏 Add new Community Note Line #5 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30019) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-08 | 🥇 | [[Good First Issue] 🍡 Add new Wallpaper URL #5 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30018) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-08 | 🥇 | [[Good First Issue] 🎑 Add new Learner Mistake 99 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30017) | `lingdojo/kana-dojo` | ⭐ 3.3k |
@@ -97,10 +104,3 @@
 | 2026-09-07 | 🥈 | [Support for Italian FatturaPA](https://github.com/gflohr/e-invoice-eu/issues/600) | `gflohr/e-invoice-eu` | ⭐ 305 |
 | 2026-09-07 | 🥈 | [Two small ergonomics borrows: a @reticle-ignore comment, and co-located componen](https://github.com/reticlehq/reticle/issues/853) | `reticlehq/reticle` | ⭐ 443 |
 | 2026-09-07 | 🥈 | [A tool that traces where a runtime value came from (state path ← action ← reques](https://github.com/reticlehq/reticle/issues/851) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-07 | 🥈 | [fix(core): a persisted shape's accepted key set can shrink without anything noti](https://github.com/apache/maka/issues/4998) | `apache/maka` | ⭐ 4.9k |
-| 2026-09-07 | 🥉 | [docs: correct outdated TypeScript test commands in CONTRIBUTING.md](https://github.com/mcp-use/mcp-use/issues/2472) | `mcp-use/mcp-use` | ⭐ 10.6k |
-| 2026-09-07 | 🥇 | [docs style: link inside cards is smaller than the card](https://github.com/nhost/nhost/issues/4967) | `nhost/nhost` | ⭐ 9.3k |
-| 2026-09-07 | 🥇 | [[Good First Issue] 🥟 Add new False Friend Pair 45 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29942) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-07 | 🥇 | [Text align "justified" writes an invalid CSS value](https://github.com/silexlabs/Silex/issues/1850) | `silexlabs/Silex` | ⭐ 3.0k |
-| 2026-09-07 | 🥇 | [[Feature] 希望附件转为链接形式](https://github.com/dreamhunter2333/cloudflare_temp_email/issues/1142) | `dreamhunter2333/cloudflare_temp_email` | ⭐ 11.7k |
-| 2026-09-07 | 🥇 | [[Good First Issue] 🦊 Add new Video Game Quote 109 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29940) | `lingdojo/kana-dojo` | ⭐ 3.3k |

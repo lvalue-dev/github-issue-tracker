@@ -1,5 +1,159 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30025",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30025,
+    "title": "[Good First Issue] 🏮 Add new Grammar Point 50 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30025",
+    "comments": 1,
+    "createdAt": "2026-09-09T00:01:10Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-09T00:22:47.482Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30024",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30024,
+    "title": "[Good First Issue] 🌺 Add new Trivia Question 127 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30024",
+    "comments": 1,
+    "createdAt": "2026-09-08T23:57:30Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-09T00:22:47.482Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30023",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30023,
+    "title": "[Good First Issue] 🎴 Add new Japanese Haiku 10 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30023",
+    "comments": 1,
+    "createdAt": "2026-09-08T23:01:01Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-09T00:22:47.689Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30022",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30022,
+    "title": "[Good First Issue] 🗻 Add new Japanese Proverb 78 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30022",
+    "comments": 1,
+    "createdAt": "2026-09-08T22:57:34Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-09T00:22:47.870Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30021",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30021,
+    "title": "[Good First Issue] 🏯 Add new Japan Fact 255 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30021",
+    "comments": 1,
+    "createdAt": "2026-09-08T22:01:04Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-09T00:22:47.870Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30020",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30020,
+    "title": "[Good First Issue] 🎍 Add new Theme: Tsukimi Moon - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30020",
+    "comments": 1,
+    "createdAt": "2026-09-08T21:57:31Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-09T00:22:49.348Z"
+  },
+  {
+    "key": "paperclipai/paperclip#13065",
+    "tier": 3,
+    "repo": "paperclipai/paperclip",
+    "number": 13065,
+    "title": "2026.831.1: scope of hot-restart/drain controls before the first maintenance shutdown",
+    "url": "https://github.com/paperclipai/paperclip/issues/13065",
+    "comments": 0,
+    "createdAt": "2026-09-08T23:54:16Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "typescript",
+    "stars": 80266,
+    "foundAt": "2026-09-09T00:22:49.690Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30019",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1864,140 +2018,5 @@
     "language": "typescript",
     "stars": 443,
     "foundAt": "2026-09-07T20:40:53.068Z"
-  },
-  {
-    "key": "apache/maka#4998",
-    "tier": 2,
-    "repo": "apache/maka",
-    "number": 4998,
-    "title": "fix(core): a persisted shape's accepted key set can shrink without anything noticing",
-    "url": "https://github.com/apache/maka/issues/4998",
-    "comments": 0,
-    "createdAt": "2026-09-07T17:25:06Z",
-    "labels": [
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 4920,
-    "foundAt": "2026-09-07T20:40:53.275Z"
-  },
-  {
-    "key": "mcp-use/mcp-use#2472",
-    "tier": 3,
-    "repo": "mcp-use/mcp-use",
-    "number": 2472,
-    "title": "docs: correct outdated TypeScript test commands in CONTRIBUTING.md",
-    "url": "https://github.com/mcp-use/mcp-use/issues/2472",
-    "comments": 0,
-    "createdAt": "2026-09-07T20:31:11Z",
-    "labels": [
-      "documentation",
-      "TypeScript",
-      "agent",
-      "server",
-      "v2",
-      "mcp-use/mcp-use"
-    ],
-    "language": "typescript",
-    "stars": 10588,
-    "foundAt": "2026-09-07T20:40:54.485Z"
-  },
-  {
-    "key": "nhost/nhost#4967",
-    "tier": 1,
-    "repo": "nhost/nhost",
-    "number": 4967,
-    "title": "docs style: link inside cards is smaller than the card",
-    "url": "https://github.com/nhost/nhost/issues/4967",
-    "comments": 0,
-    "createdAt": "2026-09-07T16:11:17Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 9287,
-    "foundAt": "2026-09-07T16:34:26.905Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29942",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29942,
-    "title": "[Good First Issue] 🥟 Add new False Friend Pair 45 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29942",
-    "comments": 1,
-    "createdAt": "2026-09-07T16:01:10Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-07T16:34:27.337Z"
-  },
-  {
-    "key": "silexlabs/Silex#1850",
-    "tier": 1,
-    "repo": "silexlabs/Silex",
-    "number": 1850,
-    "title": "Text align \"justified\" writes an invalid CSS value",
-    "url": "https://github.com/silexlabs/Silex/issues/1850",
-    "comments": 1,
-    "createdAt": "2026-09-07T15:23:38Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 2953,
-    "foundAt": "2026-09-07T16:34:27.773Z"
-  },
-  {
-    "key": "dreamhunter2333/cloudflare_temp_email#1142",
-    "tier": 1,
-    "repo": "dreamhunter2333/cloudflare_temp_email",
-    "number": 1142,
-    "title": "[Feature] 希望附件转为链接形式",
-    "url": "https://github.com/dreamhunter2333/cloudflare_temp_email/issues/1142",
-    "comments": 3,
-    "createdAt": "2026-09-07T15:03:31Z",
-    "labels": [
-      "enhancement",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 11679,
-    "foundAt": "2026-09-07T16:34:27.988Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29940",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29940,
-    "title": "[Good First Issue] 🦊 Add new Video Game Quote 109 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29940",
-    "comments": 1,
-    "createdAt": "2026-09-07T15:01:28Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-07T16:34:27.988Z"
   }
 ]
