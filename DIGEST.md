@@ -4,6 +4,18 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-09 | 🥇 | [[Good First Issue] 🍡 Add new Video Game Quote 48 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30047) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥇 | [[Good First Issue] 🍜 Add new Anime Quote 28 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30046) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥇 | [[Good First Issue] 🐙 Add new Grammar Point 13 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30044) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥇 | [[Good First Issue] 🍜 Add new Trivia Question 73 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30043) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥇 | [[Good First Issue] 🍣 Add new Japanese Haiku 12 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30042) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥇 | [[Good First Issue] 🗻 Add new Japanese Proverb 169 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30041) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥇 | [[Good First Issue] 🍣 Add new Japan Fact 188 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30039) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥇 | [[Good First Issue] 🗻 Add new Theme: Holographic Idol - Beginner-Friendly Open-s](https://github.com/lingdojo/kana-dojo/issues/30038) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥇 | [[Good First Issue] 🍛 Add new Wallpaper URL #3 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30036) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥈 | [Improve the type def for `Labels`](https://github.com/meriyah/meriyah/issues/650) | `meriyah/meriyah` | ⭐ 1.2k |
+| 2026-09-09 | 🥉 | [The DockLayouts panes guide teaches component code with no live previews, unlike](https://github.com/neomjs/neo/issues/18530) | `neomjs/neo` | ⭐ 3.3k |
+| 2026-09-09 | 🥉 | [Hackathon 25.3: A Chart ignores the theme until styled mode is turned on, and th](https://github.com/vaadin/web-components/issues/12700) | `vaadin/web-components` | ⭐ 581 |
 | 2026-09-09 | 🥇 | [[Good First Issue] 🎑 Add new Learner Mistake 21 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30034) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-09 | 🥇 | [[Good First Issue] 🎑 Add new Example Sentence 94 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30033) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-09 | 🥇 | [[Good First Issue] 🍛 Add new Etiquette Tip 78 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30032) | `lingdojo/kana-dojo` | ⭐ 3.3k |
@@ -92,15 +104,3 @@
 | 2026-09-08 | 🥇 | [[Good First Issue] ⛩️ Add new Japanese Proverb 102 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29962) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-08 | 🥇 | [[Good First Issue] 🍶 Add new Japan Fact 295 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29961) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-08 | 🥇 | [Seven of eight NAMED_CITATIONS entries are hand-picked subsets, so a doc can add](https://github.com/libredb/libredb-studio/issues/641) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-08 | 🥇 | [docs(providers): five docs cite getPlaceholder(), a method deleted in #304](https://github.com/libredb/libredb-studio/issues/640) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-08 | 🥇 | [[Good First Issue] 🦑 Add new Theme: Festival Gold - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29960) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-08 | 🥇 | [[Good First Issue] 🍚 Add new Example Sentence 30 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29959) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-08 | 🥈 | [[Discussion]: Why doesn’t Cherry Studio support some of Poe’s latest models?](https://github.com/CherryHQ/cherry-studio/issues/20203) | `CherryHQ/cherry-studio` | ⭐ 51.5k |
-| 2026-09-08 | 🥉 | [Contact Form Submission - Request - Missing Section or Solution (Bronze - Ad Hoc](https://github.com/cpinitiative/usaco-guide/issues/6613) | `cpinitiative/usaco-guide` | ⭐ 1.8k |
-| 2026-09-07 | 🥇 | [[Good First Issue] 🍣 Add new Etiquette Tip 36 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29958) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-07 | 🥇 | [[Good First Issue] 🎌 Add new False Friend Pair 105 - Beginner-Friendly Open-sou](https://github.com/lingdojo/kana-dojo/issues/29957) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-07 | 🥇 | [[Good First Issue] 🧧 Add new Japanese Proverb 85 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29952) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-07 | 🥇 | [[Good First Issue] 🏮 Add new Japan Fact 21 - Beginner-Friendly Open-source Cont](https://github.com/lingdojo/kana-dojo/issues/29951) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-07 | 🥇 | [Add an Urdu README (README_ur.md), covered by the localized-README drift guard](https://github.com/libredb/libredb-studio/issues/637) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-07 | 🥇 | [[Good First Issue] 🀄 Add new Theme: Street Lantern - Beginner-Friendly Open-sou](https://github.com/lingdojo/kana-dojo/issues/29950) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-07 | 🥇 | [🐞 Disable Auto play not working when using incognito](https://github.com/code-charity/youtube/issues/4322) | `code-charity/youtube` | ⭐ 4.6k |
