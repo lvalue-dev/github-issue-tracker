@@ -4,6 +4,31 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-09 | 🥇 | [Add configurable workflow outcome sounds to the Herdr integration](https://github.com/bastani-inc/atomic/issues/2957) | `bastani-inc/atomic` | ⭐ 784 |
+| 2026-09-09 | 🥇 | [fdc3-conformance: pre-existing TypeScript type errors are hidden because the bui](https://github.com/finos/FDC3/issues/2194) | `finos/FDC3` | ⭐ 269 |
+| 2026-09-09 | 🥇 | [[Good First Issue] 🐉 Add new Learner Mistake 26 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30070) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥇 | [[Good First Issue] 🀄 Add new Example Sentence 54 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30069) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥇 | [Data Profiler has no export](https://github.com/libredb/libredb-studio/issues/750) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-09 | 🥇 | [Pivot Table has no export](https://github.com/libredb/libredb-studio/issues/749) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-09 | 🥇 | [No way to reorder saved connections](https://github.com/libredb/libredb-studio/issues/748) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-09 | 🥇 | [Closing a tab loses its query with no way to undo it](https://github.com/libredb/libredb-studio/issues/747) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-09 | 🥇 | [No panel lists the app's keyboard shortcuts](https://github.com/libredb/libredb-studio/issues/746) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-09 | 🥇 | [No keyboard shortcut opens a new query tab](https://github.com/libredb/libredb-studio/issues/745) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-09 | 🥇 | [The results grid has no way to wrap a long cell's text](https://github.com/libredb/libredb-studio/issues/744) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-09 | 🥇 | [[Good First Issue] 🎋 Add new Etiquette Tip 72 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30068) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥇 | [[Good First Issue] 🦊 Add new False Friend Pair 76 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30067) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥇 | [[Good First Issue] 🍘 Add new Japanese Idiom 39 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30064) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥇 | [[FEATURE] asm get: clone full skill directory to temp location instead of only r](https://github.com/luongnv89/asm/issues/654) | `luongnv89/asm` | ⭐ 916 |
+| 2026-09-09 | 🥇 | [🐞Не работает чёрный список](https://github.com/code-charity/youtube/issues/4327) | `code-charity/youtube` | ⭐ 4.6k |
+| 2026-09-09 | 🥈 | [Classic Search: Feature broken in non-new-tab mode](https://github.com/AprilSylph/XKit-Rewritten/issues/2386) | `AprilSylph/XKit-Rewritten` | ⭐ 375 |
+| 2026-09-09 | 🥈 | [Support opencode2 (OpenCode V2) MCP config: nested mcp.servers + ~/.config/openc](https://github.com/nexu-io/open-design/issues/7968) | `nexu-io/open-design` | ⭐ 94.1k |
+| 2026-09-09 | 🥈 | [🐛 Fix : duplicate closing </h3> tag in popular discussions template](https://github.com/meshery/meshery.io/issues/2955) | `meshery/meshery.io` | ⭐ 854 |
+| 2026-09-09 | 🥈 | [[Discussion]: 关于技能存放位置与目录联接的想法](https://github.com/CherryHQ/cherry-studio/issues/20298) | `CherryHQ/cherry-studio` | ⭐ 51.5k |
+| 2026-09-09 | 🥈 | [[Good First Issue] 🥟 Add new Anime Quote 139 - Beginner-Friendly Open-source Co](https://github.com/lingdojo/kana-dojo/issues/30062) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥈 | [[Good First Issue] 🍜 Add new Japan Fact 148 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30059) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥈 | [[Good First Issue] 🍛 Add new Theme: Moss Temple - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30058) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥉 | [argent-metro-debugger docs: source-maps.md's Babel config fails to build on Expo](https://github.com/software-mansion/argent/issues/1135) | `software-mansion/argent` | ⭐ 2.7k |
+| 2026-09-09 | 🥉 | [Make augmentation props and functions more self-documenting](https://github.com/bitburner-official/bitburner-src/issues/3091) | `bitburner-official/bitburner-src` | ⭐ 1.6k |
 | 2026-09-09 | 🥇 | [Remove stale author and HubSpot form leftovers from the docs app](https://github.com/tldraw/tldraw/issues/10710) | `tldraw/tldraw` | ⭐ 50.2k |
 | 2026-09-09 | 🥇 | [[Good First Issue] 🌺 Add new Grammar Point 105 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30061) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-09 | 🥇 | [[Good First Issue] 🍜 Add new Japanese Proverb 111 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30060) | `lingdojo/kana-dojo` | ⭐ 3.3k |
@@ -79,28 +104,3 @@
 | 2026-09-08 | 🥉 | [Incorrect documentation for the certificate posture check](https://github.com/cloudflare/cloudflare-docs/issues/33311) | `cloudflare/cloudflare-docs` | ⭐ 5.2k |
 | 2026-09-08 | 🥉 | [a11y: narrow-viewport sidebar toolbar is a nav landmark with no links](https://github.com/quarto-dev/quarto-cli/issues/14868) | `quarto-dev/quarto-cli` | ⭐ 6.0k |
 | 2026-09-08 | 🥇 | [功能增强：Artemis引擎对BC 7格式素材支持](https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues/78) | `Weiss-UltimateSavior/Tyranor-Next` | ⭐ 303 |
-| 2026-09-08 | 🥇 | [功能增强：RPG Maker XP/VX/VX Ace/mkxp-z](https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues/77) | `Weiss-UltimateSavior/Tyranor-Next` | ⭐ 303 |
-| 2026-09-08 | 🥇 | [[Good First Issue] 🥢 Add new Japan Fact 139 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29999) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-08 | 🥇 | [[Good First Issue] 🀄 Add new Theme: Vaporwave Shrine - Beginner-Friendly Open-s](https://github.com/lingdojo/kana-dojo/issues/29998) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-08 | 🥇 | [Panels: draw only some border sides](https://github.com/profullstack/hqtui/issues/59) | `profullstack/hqtui` | ⭐ 235 |
-| 2026-09-08 | 🥇 | [Layout: justify/flex distribution for leftover space](https://github.com/profullstack/hqtui/issues/58) | `profullstack/hqtui` | ⭐ 235 |
-| 2026-09-08 | 🥇 | [Improve Mobile Responsiveness](https://github.com/Syknapse/Contribute-To-This-Project/issues/4750) | `Syknapse/Contribute-To-This-Project` | ⭐ 2.6k |
-| 2026-09-08 | 🥇 | [update language referring to ARIA 1.2](https://github.com/w3c/aria/issues/2893) | `w3c/aria` | ⭐ 751 |
-| 2026-09-08 | 🥈 | [[Good First Issue] 🪭 Add new Wallpaper URL #5 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29995) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-08 | 🥈 | [【功能请求】在管理审核照片界面添加转移猫照选项/添加批量转移功能](https://github.com/sysucats/zhongdamaopu/issues/144) | `sysucats/zhongdamaopu` | ⭐ 335 |
-| 2026-09-08 | 🥈 | [[Good First Issue] 🧧 Add new Learner Mistake 80 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/29993) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-08 | 🥉 | [09.08---官方已经继续升级修复](https://github.com/Popukok/smg_live/issues/25) | `Popukok/smg_live` | ⭐ 550 |
-| 2026-09-08 | 🥉 | [Explain declarative DockLayouts adoption in real applications](https://github.com/neomjs/neo/issues/18479) | `neomjs/neo` | ⭐ 3.3k |
-| 2026-09-08 | 🥉 | [Write the first declarative DockLayouts tutorial](https://github.com/neomjs/neo/issues/18478) | `neomjs/neo` | ⭐ 3.3k |
-| 2026-09-08 | 🥉 | [File chooser dialog needs better screenreader support](https://github.com/cockpit-project/cockpit/issues/23705) | `cockpit-project/cockpit` | ⭐ 15.0k |
-| 2026-09-08 | 🥉 | [File chooser component lacks keyboard navigation support](https://github.com/cockpit-project/cockpit/issues/23704) | `cockpit-project/cockpit` | ⭐ 15.0k |
-| 2026-09-08 | 🥇 | [💡Favorites](https://github.com/code-charity/youtube/issues/4326) | `code-charity/youtube` | ⭐ 4.6k |
-| 2026-09-08 | 🥈 | [Create-table form emits PostgreSQL DDL for every engine (dbType prop is unused)](https://github.com/libredb/libredb-studio/issues/648) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-08 | 🥈 | [[Good First Issue] 🐙 Add new Grammar Point 37 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29986) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-08 | 🥈 | [[Good First Issue] 🎏 Add new Trivia Question 118 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29985) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-08 | 🥇 | [[Good First Issue] 🍁 Add new Dialect Entry 51 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29968) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-08 | 🥇 | [[Good First Issue] 🦊 Add new Japanese Idiom 19 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/29967) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-08 | 🥇 | [[Good First Issue] 🎎 Add new Anime Quote 81 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29966) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-08 | 🥇 | [[Good First Issue] 🎎 Add new Grammar Point 97 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29965) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-08 | 🥇 | [[Good First Issue] 🐡 Add new Trivia Question 138 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29964) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-08 | 🥇 | [[Good First Issue] 🐙 Add new Japanese Haiku 3 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29963) | `lingdojo/kana-dojo` | ⭐ 3.3k |
