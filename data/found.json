@@ -1,5 +1,176 @@
 [
   {
+    "key": "taskcluster/taskcluster#9142",
+    "tier": 1,
+    "repo": "taskcluster/taskcluster",
+    "number": 9142,
+    "title": "Dependencies / Dependents list should have identical maximum height and indication if they are scrollable",
+    "url": "https://github.com/taskcluster/taskcluster/issues/9142",
+    "comments": 1,
+    "createdAt": "2026-09-09T20:59:06Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "ui"
+    ],
+    "language": "javascript",
+    "stars": 430,
+    "foundAt": "2026-09-09T21:47:39.997Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30076",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30076,
+    "title": "[Good First Issue] 🎑 Add new Japanese Proverb 26 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30076",
+    "comments": 1,
+    "createdAt": "2026-09-09T20:57:35Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-09T21:47:38.623Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30074",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30074,
+    "title": "[Good First Issue] 🐉 Add new Japan Fact 241 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30074",
+    "comments": 1,
+    "createdAt": "2026-09-09T20:01:06Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-09T21:47:39.171Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30073",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30073,
+    "title": "[Good First Issue] 🥟 Add new Theme: Yakuza Tattoo - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30073",
+    "comments": 1,
+    "createdAt": "2026-09-09T19:57:32Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-09T21:47:39.171Z"
+  },
+  {
+    "key": "aymericzip/intlayer#508",
+    "tier": 1,
+    "repo": "aymericzip/intlayer",
+    "number": 508,
+    "title": "Implement 'Last used' indicator on landing page",
+    "url": "https://github.com/aymericzip/intlayer/issues/508",
+    "comments": 0,
+    "createdAt": "2026-09-09T19:41:30Z",
+    "labels": [
+      "javascript",
+      "good first issue",
+      "backend",
+      "app"
+    ],
+    "language": "typescript",
+    "stars": 822,
+    "foundAt": "2026-09-09T21:47:39.394Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30072",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30072,
+    "title": "[Good First Issue] 🍛 Add new Community Note Line #5 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30072",
+    "comments": 1,
+    "createdAt": "2026-09-09T19:01:04Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-09T21:47:39.394Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30071",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30071,
+    "title": "[Good First Issue] 🐡 Add new Wallpaper URL #5 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30071",
+    "comments": 1,
+    "createdAt": "2026-09-09T18:57:29Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-09T21:47:39.394Z"
+  },
+  {
+    "key": "super-productivity/super-productivity#10003",
+    "tier": 2,
+    "repo": "super-productivity/super-productivity",
+    "number": 10003,
+    "title": "Restores can rotate the pre-loss recovery point out of the 3-slot ring",
+    "url": "https://github.com/super-productivity/super-productivity/issues/10003",
+    "comments": 0,
+    "createdAt": "2026-09-09T19:16:56Z",
+    "labels": [
+      "bug",
+      "easy"
+    ],
+    "language": "typescript",
+    "stars": 21917,
+    "foundAt": "2026-09-09T21:47:41.613Z"
+  },
+  {
     "key": "bastani-inc/atomic#2957",
     "tier": 1,
     "repo": "bastani-inc/atomic",
@@ -1871,155 +2042,5 @@
     "language": "typescript",
     "stars": 402,
     "foundAt": "2026-09-08T18:50:50.856Z"
-  },
-  {
-    "key": "SAPTARSHI-coder/EaseMotion-css#89269",
-    "tier": 1,
-    "repo": "SAPTARSHI-coder/EaseMotion-css",
-    "number": 89269,
-    "title": "feat(components): add animated accordion component",
-    "url": "https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/89269",
-    "comments": 2,
-    "createdAt": "2026-09-07T16:46:13Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "animation",
-      "GSSoC-26",
-      "gssoc:approved",
-      "level:intermediate",
-      "type:feature"
-    ],
-    "language": "css",
-    "stars": 255,
-    "foundAt": "2026-09-08T18:50:52.131Z"
-  },
-  {
-    "key": "reticlehq/reticle#891",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 891,
-    "title": "A corpus of deliberately awkward apps in CI — every blocking defect in the last field export would have been caught by one",
-    "url": "https://github.com/reticlehq/reticle/issues/891",
-    "comments": 0,
-    "createdAt": "2026-09-08T18:32:03Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "agent-reported",
-      "2.14.0"
-    ],
-    "language": "typescript",
-    "stars": 443,
-    "foundAt": "2026-09-08T18:50:52.789Z"
-  },
-  {
-    "key": "reticlehq/reticle#888",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 888,
-    "title": "[agent] reticle_network_mock reports no-cdp-provider in every reachable configuration, including after reticle drive",
-    "url": "https://github.com/reticlehq/reticle/issues/888",
-    "comments": 0,
-    "createdAt": "2026-09-08T18:31:25Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "agent-reported",
-      "2.14.0"
-    ],
-    "language": "typescript",
-    "stars": 443,
-    "foundAt": "2026-09-08T18:50:52.789Z"
-  },
-  {
-    "key": "reticlehq/reticle#879",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 879,
-    "title": "[agent] The only verdict-producing tools have no body volume control, and re-echo the same payload every call",
-    "url": "https://github.com/reticlehq/reticle/issues/879",
-    "comments": 0,
-    "createdAt": "2026-09-08T18:29:21Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "agent-reported",
-      "2.14.0"
-    ],
-    "language": "typescript",
-    "stars": 443,
-    "foundAt": "2026-09-08T18:50:52.789Z"
-  },
-  {
-    "key": "activist-org/activist#2391",
-    "tier": 2,
-    "repo": "activist-org/activist",
-    "number": 2391,
-    "title": "activist a is shown in light and dark mode on page load",
-    "url": "https://github.com/activist-org/activist/issues/2391",
-    "comments": 1,
-    "createdAt": "2026-09-08T18:26:02Z",
-    "labels": [
-      "help wanted",
-      "-priority-"
-    ],
-    "language": "typescript",
-    "stars": 741,
-    "foundAt": "2026-09-08T18:50:52.789Z"
-  },
-  {
-    "key": "cloudflare/cloudflare-docs#33311",
-    "tier": 3,
-    "repo": "cloudflare/cloudflare-docs",
-    "number": 33311,
-    "title": "Incorrect documentation for the certificate posture check",
-    "url": "https://github.com/cloudflare/cloudflare-docs/issues/33311",
-    "comments": 0,
-    "createdAt": "2026-09-08T17:38:48Z",
-    "labels": [
-      "documentation",
-      "product:cloudflare-one",
-      "content:edit"
-    ],
-    "language": "mdx",
-    "stars": 5186,
-    "foundAt": "2026-09-08T18:50:57.643Z"
-  },
-  {
-    "key": "quarto-dev/quarto-cli#14868",
-    "tier": 3,
-    "repo": "quarto-dev/quarto-cli",
-    "number": 14868,
-    "title": "a11y: narrow-viewport sidebar toolbar is a nav landmark with no links",
-    "url": "https://github.com/quarto-dev/quarto-cli/issues/14868",
-    "comments": 0,
-    "createdAt": "2026-09-08T15:54:28Z",
-    "labels": [
-      "bug",
-      "accessibility",
-      "themes"
-    ],
-    "language": "javascript",
-    "stars": 5987,
-    "foundAt": "2026-09-08T18:50:56.962Z"
-  },
-  {
-    "key": "Weiss-UltimateSavior/Tyranor-Next#78",
-    "tier": 1,
-    "repo": "Weiss-UltimateSavior/Tyranor-Next",
-    "number": 78,
-    "title": "功能增强：Artemis引擎对BC 7格式素材支持",
-    "url": "https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues/78",
-    "comments": 0,
-    "createdAt": "2026-09-08T14:23:07Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 303,
-    "foundAt": "2026-09-08T14:40:01.349Z"
   }
 ]

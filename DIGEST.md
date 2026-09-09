@@ -4,6 +4,14 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-09 | 🥇 | [Dependencies / Dependents list should have identical maximum height and indicati](https://github.com/taskcluster/taskcluster/issues/9142) | `taskcluster/taskcluster` | ⭐ 430 |
+| 2026-09-09 | 🥇 | [[Good First Issue] 🎑 Add new Japanese Proverb 26 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30076) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥇 | [[Good First Issue] 🐉 Add new Japan Fact 241 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30074) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥇 | [[Good First Issue] 🥟 Add new Theme: Yakuza Tattoo - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30073) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥇 | [Implement 'Last used' indicator on landing page](https://github.com/aymericzip/intlayer/issues/508) | `aymericzip/intlayer` | ⭐ 822 |
+| 2026-09-09 | 🥇 | [[Good First Issue] 🍛 Add new Community Note Line #5 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30072) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥇 | [[Good First Issue] 🐡 Add new Wallpaper URL #5 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30071) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥈 | [Restores can rotate the pre-loss recovery point out of the 3-slot ring](https://github.com/super-productivity/super-productivity/issues/10003) | `super-productivity/super-productivity` | ⭐ 21.9k |
 | 2026-09-09 | 🥇 | [Add configurable workflow outcome sounds to the Herdr integration](https://github.com/bastani-inc/atomic/issues/2957) | `bastani-inc/atomic` | ⭐ 784 |
 | 2026-09-09 | 🥇 | [fdc3-conformance: pre-existing TypeScript type errors are hidden because the bui](https://github.com/finos/FDC3/issues/2194) | `finos/FDC3` | ⭐ 269 |
 | 2026-09-09 | 🥇 | [[Good First Issue] 🐉 Add new Learner Mistake 26 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30070) | `lingdojo/kana-dojo` | ⭐ 3.3k |
@@ -96,11 +104,3 @@
 | 2026-09-08 | 🥇 | [CSV import and export both hardcode the comma delimiter](https://github.com/libredb/libredb-studio/issues/688) | `libredb/libredb-studio` | ⭐ 402 |
 | 2026-09-08 | 🥇 | [Command palette's saved-query preview always appends "..." even when the text is](https://github.com/libredb/libredb-studio/issues/687) | `libredb/libredb-studio` | ⭐ 402 |
 | 2026-09-08 | 🥇 | [Six icon-only buttons across the app carry no accessible name](https://github.com/libredb/libredb-studio/issues/686) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-08 | 🥇 | [feat(components): add animated accordion component](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/89269) | `SAPTARSHI-coder/EaseMotion-css` | ⭐ 255 |
-| 2026-09-08 | 🥈 | [A corpus of deliberately awkward apps in CI — every blocking defect in the last ](https://github.com/reticlehq/reticle/issues/891) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-08 | 🥈 | [[agent] reticle_network_mock reports no-cdp-provider in every reachable configur](https://github.com/reticlehq/reticle/issues/888) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-08 | 🥈 | [[agent] The only verdict-producing tools have no body volume control, and re-ech](https://github.com/reticlehq/reticle/issues/879) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-08 | 🥈 | [activist a is shown in light and dark mode on page load](https://github.com/activist-org/activist/issues/2391) | `activist-org/activist` | ⭐ 741 |
-| 2026-09-08 | 🥉 | [Incorrect documentation for the certificate posture check](https://github.com/cloudflare/cloudflare-docs/issues/33311) | `cloudflare/cloudflare-docs` | ⭐ 5.2k |
-| 2026-09-08 | 🥉 | [a11y: narrow-viewport sidebar toolbar is a nav landmark with no links](https://github.com/quarto-dev/quarto-cli/issues/14868) | `quarto-dev/quarto-cli` | ⭐ 6.0k |
-| 2026-09-08 | 🥇 | [功能增强：Artemis引擎对BC 7格式素材支持](https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues/78) | `Weiss-UltimateSavior/Tyranor-Next` | ⭐ 303 |
