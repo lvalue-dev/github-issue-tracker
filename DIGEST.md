@@ -4,6 +4,9 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-09 | 🥇 | [Remove stale author and HubSpot form leftovers from the docs app](https://github.com/tldraw/tldraw/issues/10710) | `tldraw/tldraw` | ⭐ 50.2k |
+| 2026-09-09 | 🥇 | [[Good First Issue] 🌺 Add new Grammar Point 105 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30061) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-09 | 🥇 | [[Good First Issue] 🍜 Add new Japanese Proverb 111 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30060) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-09 | 🥇 | [[Good First Issue] 🍡 Add new Video Game Quote 48 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30047) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-09 | 🥇 | [[Good First Issue] 🍜 Add new Anime Quote 28 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30046) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-09 | 🥇 | [[Good First Issue] 🐙 Add new Grammar Point 13 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30044) | `lingdojo/kana-dojo` | ⭐ 3.3k |
@@ -101,6 +104,3 @@
 | 2026-09-08 | 🥇 | [[Good First Issue] 🎎 Add new Grammar Point 97 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29965) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-08 | 🥇 | [[Good First Issue] 🐡 Add new Trivia Question 138 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/29964) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-08 | 🥇 | [[Good First Issue] 🐙 Add new Japanese Haiku 3 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/29963) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-08 | 🥇 | [[Good First Issue] ⛩️ Add new Japanese Proverb 102 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/29962) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-08 | 🥇 | [[Good First Issue] 🍶 Add new Japan Fact 295 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/29961) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-08 | 🥇 | [Seven of eight NAMED_CITATIONS entries are hand-picked subsets, so a doc can add](https://github.com/libredb/libredb-studio/issues/641) | `libredb/libredb-studio` | ⭐ 402 |

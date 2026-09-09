@@ -1,5 +1,68 @@
 [
   {
+    "key": "tldraw/tldraw#10710",
+    "tier": 1,
+    "repo": "tldraw/tldraw",
+    "number": 10710,
+    "title": "Remove stale author and HubSpot form leftovers from the docs app",
+    "url": "https://github.com/tldraw/tldraw/issues/10710",
+    "comments": 0,
+    "createdAt": "2026-09-09T14:40:38Z",
+    "labels": [
+      "docs",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 50223,
+    "foundAt": "2026-09-09T14:41:11.463Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30061",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30061,
+    "title": "[Good First Issue] 🌺 Add new Grammar Point 105 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30061",
+    "comments": 1,
+    "createdAt": "2026-09-09T14:01:05Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-09T14:41:11.463Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30060",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30060,
+    "title": "[Good First Issue] 🍜 Add new Japanese Proverb 111 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30060",
+    "comments": 1,
+    "createdAt": "2026-09-09T13:57:34Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-09T14:41:11.769Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30047",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1979,69 +2042,5 @@
     "language": "typescript",
     "stars": 3306,
     "foundAt": "2026-09-08T04:54:01.457Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29962",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29962,
-    "title": "[Good First Issue] ⛩️ Add new Japanese Proverb 102 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29962",
-    "comments": 1,
-    "createdAt": "2026-09-08T01:01:00Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-08T04:54:01.674Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#29961",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 29961,
-    "title": "[Good First Issue] 🍶 Add new Japan Fact 295 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/29961",
-    "comments": 1,
-    "createdAt": "2026-09-08T00:57:30Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-08T04:54:01.674Z"
-  },
-  {
-    "key": "libredb/libredb-studio#641",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 641,
-    "title": "Seven of eight NAMED_CITATIONS entries are hand-picked subsets, so a doc can add a citation nothing measures",
-    "url": "https://github.com/libredb/libredb-studio/issues/641",
-    "comments": 0,
-    "createdAt": "2026-09-08T00:38:38Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 402,
-    "foundAt": "2026-09-08T04:54:01.871Z"
   }
 ]
