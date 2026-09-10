@@ -4,6 +4,23 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-10 | 🥇 | [Extract the hardcoded 'jwt' localStorage key into a named constant](https://github.com/OpsiMate/OpsiMate/issues/913) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-10 | 🥇 | [Duplicated getContrastColor helper using deprecated String.prototype.substr](https://github.com/OpsiMate/OpsiMate/issues/912) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-10 | 🥇 | [Remove the orphaned AlertsHeatmap folder (constants/types/utils with no componen](https://github.com/OpsiMate/OpsiMate/issues/911) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-10 | 🥇 | [Replace "user(s)" / "row(s)" copy with real pluralization](https://github.com/OpsiMate/OpsiMate/issues/910) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-10 | 🥇 | [Icon-only buttons in alert details and dashboard rows have no aria-label](https://github.com/OpsiMate/OpsiMate/issues/909) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-10 | 🥇 | [bcrypt cost factor is a magic 10 repeated four times](https://github.com/OpsiMate/OpsiMate/issues/908) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-10 | 🥇 | [Secrets controller logs under the wrong module name](https://github.com/OpsiMate/OpsiMate/issues/907) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-10 | 🥇 | [Fix Thumbnail.src hardcoded jpeg MIME type](https://github.com/xyz-tools/gcode-preview/issues/504) | `xyz-tools/gcode-preview` | ⭐ 202 |
+| 2026-09-10 | 🥇 | [[Good First Issue] 🎏 Add new Grammar Point 15 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30139) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-10 | 🥇 | [[Good First Issue] 🏮 Add new Trivia Question 71 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30138) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-10 | 🥇 | [[Good First Issue] 🌸 Add new Japanese Proverb 112 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30136) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-10 | 🥇 | [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/21956) | `PipedreamHQ/pipedream` | ⭐ 11.7k |
+| 2026-09-10 | 🥈 | [Remove duplicate and empty meta descriptions from production pages](https://github.com/meshery/meshery.io/issues/2964) | `meshery/meshery.io` | ⭐ 854 |
+| 2026-09-10 | 🥈 | [[Docs] Prev/Next navigation button text becomes invisible on hover in light mode](https://github.com/meshery/meshery/issues/21902) | `meshery/meshery` | ⭐ 11.7k |
+| 2026-09-10 | 🥈 | [[Good First Issue] 🐡 Add new Japan Fact 96 - Beginner-Friendly Open-source Cont](https://github.com/lingdojo/kana-dojo/issues/30135) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-10 | 🥈 | [`restore-file` broken for binaries on Firefox](https://github.com/refined-github/refined-github/issues/10070) | `refined-github/refined-github` | ⭐ 32.1k |
+| 2026-09-10 | 🥉 | [README streaming snippet silently renders nothing](https://github.com/xyz-tools/gcode-preview/issues/506) | `xyz-tools/gcode-preview` | ⭐ 202 |
 | 2026-09-10 | 🥇 | [[Good First Issue] 🐙 Add new Learner Mistake 20 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30129) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-10 | 🥇 | [[Good First Issue] 🌺 Add new Example Sentence 64 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30128) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-10 | 🥇 | [[Good First Issue] 🍶 Add new Etiquette Tip 44 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30127) | `lingdojo/kana-dojo` | ⭐ 3.4k |
@@ -87,20 +104,3 @@
 | 2026-09-09 | 🥈 | [[Good First Issue] 🍜 Add new Japan Fact 148 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30059) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-09 | 🥈 | [[Good First Issue] 🍛 Add new Theme: Moss Temple - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30058) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-09 | 🥉 | [argent-metro-debugger docs: source-maps.md's Babel config fails to build on Expo](https://github.com/software-mansion/argent/issues/1135) | `software-mansion/argent` | ⭐ 2.7k |
-| 2026-09-09 | 🥉 | [Make augmentation props and functions more self-documenting](https://github.com/bitburner-official/bitburner-src/issues/3091) | `bitburner-official/bitburner-src` | ⭐ 1.6k |
-| 2026-09-09 | 🥇 | [Remove stale author and HubSpot form leftovers from the docs app](https://github.com/tldraw/tldraw/issues/10710) | `tldraw/tldraw` | ⭐ 50.2k |
-| 2026-09-09 | 🥇 | [[Good First Issue] 🌺 Add new Grammar Point 105 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30061) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥇 | [[Good First Issue] 🍜 Add new Japanese Proverb 111 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30060) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥇 | [[Good First Issue] 🍡 Add new Video Game Quote 48 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30047) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥇 | [[Good First Issue] 🍜 Add new Anime Quote 28 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30046) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥇 | [[Good First Issue] 🐙 Add new Grammar Point 13 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30044) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥇 | [[Good First Issue] 🍜 Add new Trivia Question 73 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30043) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥇 | [[Good First Issue] 🍣 Add new Japanese Haiku 12 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30042) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥇 | [[Good First Issue] 🗻 Add new Japanese Proverb 169 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30041) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥇 | [[Good First Issue] 🍣 Add new Japan Fact 188 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30039) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥇 | [[Good First Issue] 🗻 Add new Theme: Holographic Idol - Beginner-Friendly Open-s](https://github.com/lingdojo/kana-dojo/issues/30038) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥇 | [[Good First Issue] 🍛 Add new Wallpaper URL #3 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30036) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥈 | [Improve the type def for `Labels`](https://github.com/meriyah/meriyah/issues/650) | `meriyah/meriyah` | ⭐ 1.2k |
-| 2026-09-09 | 🥉 | [The DockLayouts panes guide teaches component code with no live previews, unlike](https://github.com/neomjs/neo/issues/18530) | `neomjs/neo` | ⭐ 3.3k |
-| 2026-09-09 | 🥉 | [Hackathon 25.3: A Chart ignores the theme until styled mode is turned on, and th](https://github.com/vaadin/web-components/issues/12700) | `vaadin/web-components` | ⭐ 581 |
-| 2026-09-09 | 🥇 | [[Good First Issue] 🎑 Add new Learner Mistake 21 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30034) | `lingdojo/kana-dojo` | ⭐ 3.3k |
