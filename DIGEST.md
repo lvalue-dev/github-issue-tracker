@@ -4,6 +4,13 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-10 | 🥇 | [[Good First Issue] ⛩️ Add new Dialect Entry 45 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30083) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-10 | 🥇 | [[Good First Issue] 🎌 Add new Japanese Idiom 61 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30082) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-10 | 🥇 | [[Good First Issue] 🐡 Add new Video Game Quote 113 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30081) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-10 | 🥇 | [[Good First Issue] 🌋 Add new Anime Quote 63 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30080) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-10 | 🥇 | [[Good First Issue] 🧧 Add new Grammar Point 61 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30079) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-10 | 🥇 | [[Good First Issue] 🗻 Add new Trivia Question 79 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30078) | `lingdojo/kana-dojo` | ⭐ 3.3k |
+| 2026-09-10 | 🥉 | [Documentation: dead external links](https://github.com/NuSkooler/enigma-bbs/issues/806) | `NuSkooler/enigma-bbs` | ⭐ 665 |
 | 2026-09-09 | 🥇 | [Dependencies / Dependents list should have identical maximum height and indicati](https://github.com/taskcluster/taskcluster/issues/9142) | `taskcluster/taskcluster` | ⭐ 430 |
 | 2026-09-09 | 🥇 | [[Good First Issue] 🎑 Add new Japanese Proverb 26 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30076) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-09 | 🥇 | [[Good First Issue] 🐉 Add new Japan Fact 241 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30074) | `lingdojo/kana-dojo` | ⭐ 3.3k |
@@ -97,10 +104,3 @@
 | 2026-09-08 | 🥇 | [No way to mark a connection as a favorite](https://github.com/libredb/libredb-studio/issues/694) | `libredb/libredb-studio` | ⭐ 402 |
 | 2026-09-08 | 🥇 | [Deleting a connection has no confirmation step](https://github.com/libredb/libredb-studio/issues/693) | `libredb/libredb-studio` | ⭐ 402 |
 | 2026-09-08 | 🥇 | [No duplicate or clone action for a saved connection](https://github.com/libredb/libredb-studio/issues/692) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-08 | 🥇 | [[Good First Issue] 🍥 Add new Japanese Idiom 94 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30012) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-08 | 🥇 | [Admin Audit tab has no export](https://github.com/libredb/libredb-studio/issues/691) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-08 | 🥇 | [Saved Queries has no export or import](https://github.com/libredb/libredb-studio/issues/690) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-08 | 🥇 | [CSV import always treats the first row as a header](https://github.com/libredb/libredb-studio/issues/689) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-08 | 🥇 | [CSV import and export both hardcode the comma delimiter](https://github.com/libredb/libredb-studio/issues/688) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-08 | 🥇 | [Command palette's saved-query preview always appends "..." even when the text is](https://github.com/libredb/libredb-studio/issues/687) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-08 | 🥇 | [Six icon-only buttons across the app carry no accessible name](https://github.com/libredb/libredb-studio/issues/686) | `libredb/libredb-studio` | ⭐ 402 |

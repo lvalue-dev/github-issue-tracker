@@ -1,5 +1,159 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30083",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30083,
+    "title": "[Good First Issue] ⛩️ Add new Dialect Entry 45 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30083",
+    "comments": 1,
+    "createdAt": "2026-09-10T00:01:13Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-10T00:21:04.611Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30082",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30082,
+    "title": "[Good First Issue] 🎌 Add new Japanese Idiom 61 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30082",
+    "comments": 1,
+    "createdAt": "2026-09-09T23:57:30Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-10T00:21:04.611Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30081",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30081,
+    "title": "[Good First Issue] 🐡 Add new Video Game Quote 113 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30081",
+    "comments": 1,
+    "createdAt": "2026-09-09T23:01:01Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-10T00:21:04.611Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30080",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30080,
+    "title": "[Good First Issue] 🌋 Add new Anime Quote 63 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30080",
+    "comments": 1,
+    "createdAt": "2026-09-09T22:57:34Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-10T00:21:04.611Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30079",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30079,
+    "title": "[Good First Issue] 🧧 Add new Grammar Point 61 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30079",
+    "comments": 1,
+    "createdAt": "2026-09-09T22:01:07Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-10T00:21:04.611Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30078",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30078,
+    "title": "[Good First Issue] 🗻 Add new Trivia Question 79 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30078",
+    "comments": 1,
+    "createdAt": "2026-09-09T21:57:34Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3306,
+    "foundAt": "2026-09-10T00:21:04.612Z"
+  },
+  {
+    "key": "NuSkooler/enigma-bbs#806",
+    "tier": 3,
+    "repo": "NuSkooler/enigma-bbs",
+    "number": 806,
+    "title": "Documentation: dead external links",
+    "url": "https://github.com/NuSkooler/enigma-bbs/issues/806",
+    "comments": 0,
+    "createdAt": "2026-09-10T00:02:49Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "javascript",
+    "stars": 665,
+    "foundAt": "2026-09-10T00:21:08.668Z"
+  },
+  {
     "key": "taskcluster/taskcluster#9142",
     "tier": 1,
     "repo": "taskcluster/taskcluster",
@@ -1905,137 +2059,6 @@
     "createdAt": "2026-09-08T17:57:32Z",
     "labels": [
       "enhancement",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 402,
-    "foundAt": "2026-09-08T18:50:50.856Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30012",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30012,
-    "title": "[Good First Issue] 🍥 Add new Japanese Idiom 94 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30012",
-    "comments": 1,
-    "createdAt": "2026-09-08T17:57:31Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-08T18:50:50.856Z"
-  },
-  {
-    "key": "libredb/libredb-studio#691",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 691,
-    "title": "Admin Audit tab has no export",
-    "url": "https://github.com/libredb/libredb-studio/issues/691",
-    "comments": 0,
-    "createdAt": "2026-09-08T17:57:28Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 402,
-    "foundAt": "2026-09-08T18:50:50.856Z"
-  },
-  {
-    "key": "libredb/libredb-studio#690",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 690,
-    "title": "Saved Queries has no export or import",
-    "url": "https://github.com/libredb/libredb-studio/issues/690",
-    "comments": 0,
-    "createdAt": "2026-09-08T17:57:03Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 402,
-    "foundAt": "2026-09-08T18:50:50.856Z"
-  },
-  {
-    "key": "libredb/libredb-studio#689",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 689,
-    "title": "CSV import always treats the first row as a header",
-    "url": "https://github.com/libredb/libredb-studio/issues/689",
-    "comments": 0,
-    "createdAt": "2026-09-08T17:56:59Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 402,
-    "foundAt": "2026-09-08T18:50:50.856Z"
-  },
-  {
-    "key": "libredb/libredb-studio#688",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 688,
-    "title": "CSV import and export both hardcode the comma delimiter",
-    "url": "https://github.com/libredb/libredb-studio/issues/688",
-    "comments": 0,
-    "createdAt": "2026-09-08T17:56:54Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 402,
-    "foundAt": "2026-09-08T18:50:50.856Z"
-  },
-  {
-    "key": "libredb/libredb-studio#687",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 687,
-    "title": "Command palette's saved-query preview always appends \"...\" even when the text is short",
-    "url": "https://github.com/libredb/libredb-studio/issues/687",
-    "comments": 0,
-    "createdAt": "2026-09-08T17:56:28Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 402,
-    "foundAt": "2026-09-08T18:50:50.856Z"
-  },
-  {
-    "key": "libredb/libredb-studio#686",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 686,
-    "title": "Six icon-only buttons across the app carry no accessible name",
-    "url": "https://github.com/libredb/libredb-studio/issues/686",
-    "comments": 0,
-    "createdAt": "2026-09-08T17:56:24Z",
-    "labels": [
-      "bug",
       "good first issue",
       "hacktoberfest"
     ],
