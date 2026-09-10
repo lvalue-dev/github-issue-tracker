@@ -4,6 +4,21 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-10 | 🥇 | [[Good First Issue] 🦑 Add new Japan Fact 243 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30097) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-10 | 🥇 | [[Good First Issue] 🀄 Add new Theme: Shrine Stone - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30096) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-10 | 🥇 | [[Good First Issue] 🎏 Add new Community Note Line #3 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30093) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-10 | 🥇 | [[Good First Issue] 🍣 Add new Wallpaper URL #5 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30092) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-10 | 🥇 | [feat(strobi): Improve Strobi mascot suggestions in the editor and integrate with](https://github.com/Igorcbraz/GitAscii/issues/200) | `Igorcbraz/GitAscii` | ⭐ 258 |
+| 2026-09-10 | 🥇 | [[Good First Issue] 🥟 Add new Learner Mistake 88 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30091) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-10 | 🥇 | [[Good First Issue] ⛩️ Add new Example Sentence 69 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30090) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-10 | 🥇 | [[Good First Issue] 🗻 Add new Etiquette Tip 109 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30086) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-10 | 🥇 | [[Good First Issue] 🍁 Add new False Friend Pair 110 - Beginner-Friendly Open-sou](https://github.com/lingdojo/kana-dojo/issues/30085) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-10 | 🥈 | [[Good First Issue] 🍡 Add new Japanese Proverb 41 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30098) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-10 | 🥈 | [[bug] 似乎codebuddy的mcp信息的落点有问题](https://github.com/Tencent/teamai-cli/issues/474) | `Tencent/teamai-cli` | ⭐ 3.2k |
+| 2026-09-10 | 🥉 | [Helm README: observability verification curl to /api/den/openapi.json hits a 307](https://github.com/different-ai/openwork/issues/4755) | `different-ai/openwork` | ⭐ 23.4k |
+| 2026-09-10 | 🥉 | [den-db: sslmode=require is strict (rejectUnauthorized) but docs say it does not ](https://github.com/different-ai/openwork/issues/4754) | `different-ai/openwork` | ⭐ 23.4k |
+| 2026-09-10 | 🥉 | [Helm: migration hook activeDeadlineSeconds (600s) includes image pull; cold firs](https://github.com/different-ai/openwork/issues/4753) | `different-ai/openwork` | ⭐ 23.4k |
+| 2026-09-10 | 🥉 | [Helm: published chart defaults image.tag to latest; self-host docs imply --versi](https://github.com/different-ai/openwork/issues/4752) | `different-ai/openwork` | ⭐ 23.4k |
 | 2026-09-10 | 🥇 | [[Good First Issue] ⛩️ Add new Dialect Entry 45 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30083) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-10 | 🥇 | [[Good First Issue] 🎌 Add new Japanese Idiom 61 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30082) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-10 | 🥇 | [[Good First Issue] 🐡 Add new Video Game Quote 113 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30081) | `lingdojo/kana-dojo` | ⭐ 3.3k |
@@ -89,18 +104,3 @@
 | 2026-09-08 | 🥇 | [[agent] Escape needs an element ref it should not need, so dismissing a dialog c](https://github.com/reticlehq/reticle/issues/887) | `reticlehq/reticle` | ⭐ 443 |
 | 2026-09-08 | 🥇 | [[agent] An ambiguous target refuses without ranking the candidates it already en](https://github.com/reticlehq/reticle/issues/886) | `reticlehq/reticle` | ⭐ 443 |
 | 2026-09-08 | 🥇 | [[agent] init starts a second dev server beside the running one, leaving three se](https://github.com/reticlehq/reticle/issues/885) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-08 | 🥇 | [[agent] init hangs forever against a dev server bound to IPv6-only loopback, and](https://github.com/reticlehq/reticle/issues/884) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-08 | 🥇 | [[agent] A plain Svelte + Vite SPA is detected as SvelteKit, and init writes a bo](https://github.com/reticlehq/reticle/issues/883) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-08 | 🥇 | [[agent] init does not verify its own wiring landed: the plugin was never added t](https://github.com/reticlehq/reticle/issues/882) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-08 | 🥇 | [[agent] Vite serves a stale instrumented module after a source edit, so a drive ](https://github.com/reticlehq/reticle/issues/881) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-08 | 🥇 | [[agent] A WebGL canvas is a blank rectangle to Reticle, and nothing tells an ado](https://github.com/reticlehq/reticle/issues/880) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-08 | 🥇 | [[agent] Upload is sandboxed to the project root, which pushes third-party binari](https://github.com/reticlehq/reticle/issues/878) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-08 | 🥇 | [[agent] The predicate grammar can only be learned by provoking a parse error](https://github.com/reticlehq/reticle/issues/877) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-08 | 🥇 | [[agent] The tool directory is not reachable the way the server instructions say,](https://github.com/reticlehq/reticle/issues/876) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-08 | 🥇 | [[agent] Name matching is exact-only, so a button called "2 Mesh" is invisible to](https://github.com/reticlehq/reticle/issues/875) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-08 | 🥇 | [[Good First Issue] 🍵 Add new Dialect Entry 32 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30013) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-08 | 🥇 | [Add a Turkish README (README_tr.md), covered by the localized-README drift guard](https://github.com/libredb/libredb-studio/issues/696) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-08 | 🥇 | [Results grid has no context menu to copy a cell or a row](https://github.com/libredb/libredb-studio/issues/695) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-08 | 🥇 | [No way to mark a connection as a favorite](https://github.com/libredb/libredb-studio/issues/694) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-08 | 🥇 | [Deleting a connection has no confirmation step](https://github.com/libredb/libredb-studio/issues/693) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-08 | 🥇 | [No duplicate or clone action for a saved connection](https://github.com/libredb/libredb-studio/issues/692) | `libredb/libredb-studio` | ⭐ 402 |
