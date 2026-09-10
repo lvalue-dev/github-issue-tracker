@@ -4,6 +4,9 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-10 | 🥇 | [[Good First Issue] 🏯 Add new Anime Quote 1 - Beginner-Friendly Open-source Cont](https://github.com/lingdojo/kana-dojo/issues/30120) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-10 | 🥇 | [[Good First Issue] 🍢 Add new Grammar Point 54 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30119) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-10 | 🥈 | [Example: runnable app on the self-managed path (no Node runtime)](https://github.com/CopilotKit/CopilotKit/issues/7015) | `CopilotKit/CopilotKit` | ⭐ 37.3k |
 | 2026-09-10 | 🥇 | [Sort packages in "dependency size" list consistently with chart](https://github.com/npmx-dev/npmx.dev/issues/3239) | `npmx-dev/npmx.dev` | ⭐ 3.6k |
 | 2026-09-10 | 🥇 | [[Good First Issue] 🎴 Add new Etiquette Tip 26 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30108) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-10 | 🥇 | [[Good First Issue] 🍣 Add new False Friend Pair 95 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30107) | `lingdojo/kana-dojo` | ⭐ 3.4k |
@@ -101,6 +104,3 @@
 | 2026-09-09 | 🥇 | [[Good First Issue] 🗻 Add new Japanese Proverb 78 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30022) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-09 | 🥇 | [[Good First Issue] 🏯 Add new Japan Fact 255 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30021) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-09 | 🥈 | [[Good First Issue] 🎍 Add new Theme: Tsukimi Moon - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30020) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥉 | [2026.831.1: scope of hot-restart/drain controls before the first maintenance shu](https://github.com/paperclipai/paperclip/issues/13065) | `paperclipai/paperclip` | ⭐ 80.3k |
-| 2026-09-08 | 🥇 | [[Good First Issue] 🎏 Add new Community Note Line #5 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30019) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-08 | 🥇 | [[Good First Issue] 🍡 Add new Wallpaper URL #5 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30018) | `lingdojo/kana-dojo` | ⭐ 3.3k |

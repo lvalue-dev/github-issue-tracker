@@ -1,5 +1,68 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30120",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30120,
+    "title": "[Good First Issue] 🏯 Add new Anime Quote 1 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30120",
+    "comments": 1,
+    "createdAt": "2026-09-10T14:01:06Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-10T14:32:15.298Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30119",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30119,
+    "title": "[Good First Issue] 🍢 Add new Grammar Point 54 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30119",
+    "comments": 1,
+    "createdAt": "2026-09-10T13:57:32Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-10T14:32:15.298Z"
+  },
+  {
+    "key": "CopilotKit/CopilotKit#7015",
+    "tier": 2,
+    "repo": "CopilotKit/CopilotKit",
+    "number": 7015,
+    "title": "Example: runnable app on the self-managed path (no Node runtime)",
+    "url": "https://github.com/CopilotKit/CopilotKit/issues/7015",
+    "comments": 1,
+    "createdAt": "2026-09-10T13:54:43Z",
+    "labels": [
+      "feature request",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 37282,
+    "foundAt": "2026-09-10T14:32:18.379Z"
+  },
+  {
     "key": "npmx-dev/npmx.dev#3239",
     "tier": 1,
     "repo": "npmx-dev/npmx.dev",
@@ -2035,69 +2098,5 @@
     "language": "typescript",
     "stars": 3306,
     "foundAt": "2026-09-09T00:22:49.348Z"
-  },
-  {
-    "key": "paperclipai/paperclip#13065",
-    "tier": 3,
-    "repo": "paperclipai/paperclip",
-    "number": 13065,
-    "title": "2026.831.1: scope of hot-restart/drain controls before the first maintenance shutdown",
-    "url": "https://github.com/paperclipai/paperclip/issues/13065",
-    "comments": 0,
-    "createdAt": "2026-09-08T23:54:16Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "typescript",
-    "stars": 80266,
-    "foundAt": "2026-09-09T00:22:49.690Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30019",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30019,
-    "title": "[Good First Issue] 🎏 Add new Community Note Line #5 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30019",
-    "comments": 1,
-    "createdAt": "2026-09-08T21:01:05Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-08T21:56:32.813Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30018",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30018,
-    "title": "[Good First Issue] 🍡 Add new Wallpaper URL #5 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30018",
-    "comments": 1,
-    "createdAt": "2026-09-08T20:57:31Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-08T21:56:32.813Z"
   }
 ]
