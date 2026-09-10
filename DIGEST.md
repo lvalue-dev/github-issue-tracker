@@ -4,6 +4,22 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-10 | 🥇 | [[Good First Issue] 🐙 Add new Learner Mistake 20 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30129) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-10 | 🥇 | [[Good First Issue] 🌺 Add new Example Sentence 64 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30128) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-10 | 🥇 | [[Good First Issue] 🍶 Add new Etiquette Tip 44 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30127) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-10 | 🥇 | [[UI Migration] Loader](https://github.com/ONEARMY/community-platform/issues/4886) | `ONEARMY/community-platform` | ⭐ 1.4k |
+| 2026-09-10 | 🥇 | [[UI Migration] Alert](https://github.com/ONEARMY/community-platform/issues/4885) | `ONEARMY/community-platform` | ⭐ 1.4k |
+| 2026-09-10 | 🥇 | [[UI Migration] ElWithBeforeIcon](https://github.com/ONEARMY/community-platform/issues/4884) | `ONEARMY/community-platform` | ⭐ 1.4k |
+| 2026-09-10 | 🥇 | [[Good First Issue] 🎏 Add new False Friend Pair 16 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30126) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-10 | 🥇 | [[Good First Issue] 🎏 Add new Dialect Entry 90 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30125) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-10 | 🥇 | [Add Animated Banking Dashboard example](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/89286) | `SAPTARSHI-coder/EaseMotion-css` | ⭐ 255 |
+| 2026-09-10 | 🥈 | [Allow schemas.path to be a file when schemas.mode is single](https://github.com/orval-labs/orval/issues/4072) | `orval-labs/orval` | ⭐ 6.4k |
+| 2026-09-10 | 🥈 | [[UI Migration] SiteFooter](https://github.com/ONEARMY/community-platform/issues/4883) | `ONEARMY/community-platform` | ⭐ 1.4k |
+| 2026-09-10 | 🥈 | [[UI Migration] MoreContainer](https://github.com/ONEARMY/community-platform/issues/4882) | `ONEARMY/community-platform` | ⭐ 1.4k |
+| 2026-09-10 | 🥈 | [[Good First Issue] 🌸 Add new Japanese Idiom 11 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30122) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-10 | 🥈 | [[Good First Issue] 🎏 Add new Video Game Quote 44 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30121) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-10 | 🥉 | [Add a section for about:logging in our user docs](https://github.com/firefox-devtools/profiler/issues/6310) | `firefox-devtools/profiler` | ⭐ 1.5k |
+| 2026-09-10 | 🥉 | [[bug/docs] `block add invoice` fails – "invoice" block not found in registry](https://github.com/akii09/pdfx/issues/189) | `akii09/pdfx` | ⭐ 1.2k |
 | 2026-09-10 | 🥇 | [[Good First Issue] 🏯 Add new Anime Quote 1 - Beginner-Friendly Open-source Cont](https://github.com/lingdojo/kana-dojo/issues/30120) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-10 | 🥇 | [[Good First Issue] 🍢 Add new Grammar Point 54 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30119) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-10 | 🥈 | [Example: runnable app on the self-managed path (no Node runtime)](https://github.com/CopilotKit/CopilotKit/issues/7015) | `CopilotKit/CopilotKit` | ⭐ 37.3k |
@@ -88,19 +104,3 @@
 | 2026-09-09 | 🥉 | [The DockLayouts panes guide teaches component code with no live previews, unlike](https://github.com/neomjs/neo/issues/18530) | `neomjs/neo` | ⭐ 3.3k |
 | 2026-09-09 | 🥉 | [Hackathon 25.3: A Chart ignores the theme until styled mode is turned on, and th](https://github.com/vaadin/web-components/issues/12700) | `vaadin/web-components` | ⭐ 581 |
 | 2026-09-09 | 🥇 | [[Good First Issue] 🎑 Add new Learner Mistake 21 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30034) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥇 | [[Good First Issue] 🎑 Add new Example Sentence 94 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30033) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥇 | [[Good First Issue] 🍛 Add new Etiquette Tip 78 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30032) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥇 | [[Good First Issue] 🍙 Add new False Friend Pair 62 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30031) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥇 | [[Good First Issue] ⛩️ Add new Dialect Entry 52 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30029) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥇 | [[Good First Issue] 🌊 Add new Japanese Idiom 120 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30028) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥇 | [[Good First Issue] 🎴 Add new Video Game Quote 116 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30027) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥇 | [[Good First Issue] 🏯 Add new Anime Quote 131 - Beginner-Friendly Open-source Co](https://github.com/lingdojo/kana-dojo/issues/30026) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥈 | [[UI]: Truncated command and unbalanced layout in Single Step Installation sectio](https://github.com/layer5io/layer5/issues/8034) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-09 | 🥉 | [Media window: Alt+M, Alt+Shift+M and Alt+C do nothing while focus is inside the ](https://github.com/mattgodbolt/jsbeeb/issues/1102) | `mattgodbolt/jsbeeb` | ⭐ 392 |
-| 2026-09-09 | 🥉 | [[Bug] Accessibility module's forced markers make the legend symbol transparent o](https://github.com/highcharts/highcharts/issues/25320) | `highcharts/highcharts` | ⭐ 12.5k |
-| 2026-09-09 | 🥇 | [[Good First Issue] 🏮 Add new Grammar Point 50 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30025) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥇 | [[Good First Issue] 🌺 Add new Trivia Question 127 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30024) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥇 | [[Good First Issue] 🎴 Add new Japanese Haiku 10 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30023) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥇 | [[Good First Issue] 🗻 Add new Japanese Proverb 78 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30022) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥇 | [[Good First Issue] 🏯 Add new Japan Fact 255 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30021) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥈 | [[Good First Issue] 🎍 Add new Theme: Tsukimi Moon - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30020) | `lingdojo/kana-dojo` | ⭐ 3.3k |
