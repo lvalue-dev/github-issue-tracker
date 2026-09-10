@@ -1,5 +1,223 @@
 [
   {
+    "key": "npmx-dev/npmx.dev#3239",
+    "tier": 1,
+    "repo": "npmx-dev/npmx.dev",
+    "number": 3239,
+    "title": "Sort packages in \"dependency size\" list consistently with chart",
+    "url": "https://github.com/npmx-dev/npmx.dev/issues/3239",
+    "comments": 0,
+    "createdAt": "2026-09-10T09:29:50Z",
+    "labels": [
+      "good first issue",
+      "front"
+    ],
+    "language": "typescript",
+    "stars": 3620,
+    "foundAt": "2026-09-10T09:53:18.852Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30108",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30108,
+    "title": "[Good First Issue] 🎴 Add new Etiquette Tip 26 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30108",
+    "comments": 1,
+    "createdAt": "2026-09-10T09:01:07Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-10T09:53:19.423Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30107",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30107,
+    "title": "[Good First Issue] 🍣 Add new False Friend Pair 95 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30107",
+    "comments": 1,
+    "createdAt": "2026-09-10T08:57:32Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-10T09:53:19.423Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30106",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30106,
+    "title": "[Good First Issue] 🍢 Add new Dialect Entry 81 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30106",
+    "comments": 1,
+    "createdAt": "2026-09-10T08:01:07Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-10T09:53:19.777Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30105",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30105,
+    "title": "[Good First Issue] 🍚 Add new Japanese Idiom 28 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30105",
+    "comments": 1,
+    "createdAt": "2026-09-10T07:57:31Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-10T09:53:19.777Z"
+  },
+  {
+    "key": "Tencent/teamai-cli#487",
+    "tier": 2,
+    "repo": "Tencent/teamai-cli",
+    "number": 487,
+    "title": "Call for testing: multi-project (projects) before 0.24.0",
+    "url": "https://github.com/Tencent/teamai-cli/issues/487",
+    "comments": 0,
+    "createdAt": "2026-09-10T08:29:39Z",
+    "labels": [
+      "documentation",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 3206,
+    "foundAt": "2026-09-10T09:53:21.434Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30104",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30104,
+    "title": "[Good First Issue] 🍢 Add new Video Game Quote 23 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30104",
+    "comments": 1,
+    "createdAt": "2026-09-10T07:01:04Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-10T09:53:21.434Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30103",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30103,
+    "title": "[Good First Issue] 🌺 Add new Anime Quote 28 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30103",
+    "comments": 1,
+    "createdAt": "2026-09-10T06:57:30Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-10T09:53:21.434Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30101",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30101,
+    "title": "[Good First Issue] 🍁 Add new Grammar Point 126 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30101",
+    "comments": 1,
+    "createdAt": "2026-09-10T06:01:00Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-10T09:53:21.434Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30100",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30100,
+    "title": "[Good First Issue] 🍁 Add new Trivia Question 79 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30100",
+    "comments": 1,
+    "createdAt": "2026-09-10T05:57:30Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-10T09:53:21.645Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30097",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1881,205 +2099,5 @@
     "language": "typescript",
     "stars": 3306,
     "foundAt": "2026-09-08T21:56:32.813Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30017",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30017,
-    "title": "[Good First Issue] 🎑 Add new Learner Mistake 99 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30017",
-    "comments": 1,
-    "createdAt": "2026-09-08T20:01:06Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-08T21:56:33.054Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30016",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30016,
-    "title": "[Good First Issue] 🍛 Add new Example Sentence 34 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30016",
-    "comments": 1,
-    "createdAt": "2026-09-08T19:57:37Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-08T21:56:33.054Z"
-  },
-  {
-    "key": "frappe/lms#2711",
-    "tier": 1,
-    "repo": "frappe/lms",
-    "number": 2711,
-    "title": "Change `all` tab in batches to `active`",
-    "url": "https://github.com/frappe/lms/issues/2711",
-    "comments": 0,
-    "createdAt": "2026-09-08T19:23:22Z",
-    "labels": [
-      "good first issue"
-    ],
-    "language": "vue",
-    "stars": 3202,
-    "foundAt": "2026-09-08T21:56:35.515Z"
-  },
-  {
-    "key": "layer5io/layer5#8033",
-    "tier": 2,
-    "repo": "layer5io/layer5",
-    "number": 8033,
-    "title": "[404] Broken Link Found",
-    "url": "https://github.com/layer5io/layer5/issues/8033",
-    "comments": 0,
-    "createdAt": "2026-09-08T20:55:17Z",
-    "labels": [
-      "kind/bug",
-      "help wanted",
-      "framework/gatsby"
-    ],
-    "language": "javascript",
-    "stars": 1115,
-    "foundAt": "2026-09-08T21:56:36.030Z"
-  },
-  {
-    "key": "reticlehq/reticle#892",
-    "tier": 1,
-    "repo": "reticlehq/reticle",
-    "number": 892,
-    "title": "Nothing reaps idle reticle mcp process pairs when an editor session ends",
-    "url": "https://github.com/reticlehq/reticle/issues/892",
-    "comments": 0,
-    "createdAt": "2026-09-08T18:32:05Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted",
-      "agent-reported",
-      "2.14.0"
-    ],
-    "language": "typescript",
-    "stars": 443,
-    "foundAt": "2026-09-08T18:50:50.572Z"
-  },
-  {
-    "key": "reticlehq/reticle#890",
-    "tier": 1,
-    "repo": "reticlehq/reticle",
-    "number": 890,
-    "title": "[agent] crawl blames the clicked link for a crash whose own stack names the page that threw",
-    "url": "https://github.com/reticlehq/reticle/issues/890",
-    "comments": 0,
-    "createdAt": "2026-09-08T18:31:30Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "help wanted",
-      "agent-reported",
-      "2.14.0"
-    ],
-    "language": "typescript",
-    "stars": 443,
-    "foundAt": "2026-09-08T18:50:50.572Z"
-  },
-  {
-    "key": "reticlehq/reticle#889",
-    "tier": 1,
-    "repo": "reticlehq/reticle",
-    "number": 889,
-    "title": "[agent] A text predicate matched hidden dialog content and returned already_true, proving nothing",
-    "url": "https://github.com/reticlehq/reticle/issues/889",
-    "comments": 0,
-    "createdAt": "2026-09-08T18:31:28Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "help wanted",
-      "agent-reported",
-      "2.14.0"
-    ],
-    "language": "typescript",
-    "stars": 443,
-    "foundAt": "2026-09-08T18:50:50.572Z"
-  },
-  {
-    "key": "reticlehq/reticle#887",
-    "tier": 1,
-    "repo": "reticlehq/reticle",
-    "number": 887,
-    "title": "[agent] Escape needs an element ref it should not need, so dismissing a dialog costs a snapshot",
-    "url": "https://github.com/reticlehq/reticle/issues/887",
-    "comments": 0,
-    "createdAt": "2026-09-08T18:30:54Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted",
-      "agent-reported",
-      "2.14.0"
-    ],
-    "language": "typescript",
-    "stars": 443,
-    "foundAt": "2026-09-08T18:50:50.572Z"
-  },
-  {
-    "key": "reticlehq/reticle#886",
-    "tier": 1,
-    "repo": "reticlehq/reticle",
-    "number": 886,
-    "title": "[agent] An ambiguous target refuses without ranking the candidates it already enumerated",
-    "url": "https://github.com/reticlehq/reticle/issues/886",
-    "comments": 0,
-    "createdAt": "2026-09-08T18:30:52Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted",
-      "agent-reported",
-      "2.14.0"
-    ],
-    "language": "typescript",
-    "stars": 443,
-    "foundAt": "2026-09-08T18:50:50.572Z"
-  },
-  {
-    "key": "reticlehq/reticle#885",
-    "tier": 1,
-    "repo": "reticlehq/reticle",
-    "number": 885,
-    "title": "[agent] init starts a second dev server beside the running one, leaving three sessions and no way to pick",
-    "url": "https://github.com/reticlehq/reticle/issues/885",
-    "comments": 0,
-    "createdAt": "2026-09-08T18:30:49Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted",
-      "agent-reported",
-      "2.14.0"
-    ],
-    "language": "typescript",
-    "stars": 443,
-    "foundAt": "2026-09-08T18:50:50.572Z"
   }
 ]

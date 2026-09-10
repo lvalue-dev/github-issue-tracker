@@ -4,6 +4,16 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-10 | 🥇 | [Sort packages in "dependency size" list consistently with chart](https://github.com/npmx-dev/npmx.dev/issues/3239) | `npmx-dev/npmx.dev` | ⭐ 3.6k |
+| 2026-09-10 | 🥇 | [[Good First Issue] 🎴 Add new Etiquette Tip 26 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30108) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-10 | 🥇 | [[Good First Issue] 🍣 Add new False Friend Pair 95 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30107) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-10 | 🥇 | [[Good First Issue] 🍢 Add new Dialect Entry 81 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30106) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-10 | 🥇 | [[Good First Issue] 🍚 Add new Japanese Idiom 28 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30105) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-10 | 🥈 | [Call for testing: multi-project (projects) before 0.24.0](https://github.com/Tencent/teamai-cli/issues/487) | `Tencent/teamai-cli` | ⭐ 3.2k |
+| 2026-09-10 | 🥈 | [[Good First Issue] 🍢 Add new Video Game Quote 23 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30104) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-10 | 🥈 | [[Good First Issue] 🌺 Add new Anime Quote 28 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30103) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-10 | 🥈 | [[Good First Issue] 🍁 Add new Grammar Point 126 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30101) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-10 | 🥈 | [[Good First Issue] 🍁 Add new Trivia Question 79 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30100) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-10 | 🥇 | [[Good First Issue] 🦑 Add new Japan Fact 243 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30097) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-10 | 🥇 | [[Good First Issue] 🀄 Add new Theme: Shrine Stone - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30096) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-10 | 🥇 | [[Good First Issue] 🎏 Add new Community Note Line #3 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30093) | `lingdojo/kana-dojo` | ⭐ 3.4k |
@@ -94,13 +104,3 @@
 | 2026-09-09 | 🥉 | [2026.831.1: scope of hot-restart/drain controls before the first maintenance shu](https://github.com/paperclipai/paperclip/issues/13065) | `paperclipai/paperclip` | ⭐ 80.3k |
 | 2026-09-08 | 🥇 | [[Good First Issue] 🎏 Add new Community Note Line #5 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30019) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-08 | 🥇 | [[Good First Issue] 🍡 Add new Wallpaper URL #5 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30018) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-08 | 🥇 | [[Good First Issue] 🎑 Add new Learner Mistake 99 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30017) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-08 | 🥇 | [[Good First Issue] 🍛 Add new Example Sentence 34 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30016) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-08 | 🥇 | [Change `all` tab in batches to `active`](https://github.com/frappe/lms/issues/2711) | `frappe/lms` | ⭐ 3.2k |
-| 2026-09-08 | 🥈 | [[404] Broken Link Found](https://github.com/layer5io/layer5/issues/8033) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-08 | 🥇 | [Nothing reaps idle reticle mcp process pairs when an editor session ends](https://github.com/reticlehq/reticle/issues/892) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-08 | 🥇 | [[agent] crawl blames the clicked link for a crash whose own stack names the page](https://github.com/reticlehq/reticle/issues/890) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-08 | 🥇 | [[agent] A text predicate matched hidden dialog content and returned already_true](https://github.com/reticlehq/reticle/issues/889) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-08 | 🥇 | [[agent] Escape needs an element ref it should not need, so dismissing a dialog c](https://github.com/reticlehq/reticle/issues/887) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-08 | 🥇 | [[agent] An ambiguous target refuses without ranking the candidates it already en](https://github.com/reticlehq/reticle/issues/886) | `reticlehq/reticle` | ⭐ 443 |
-| 2026-09-08 | 🥇 | [[agent] init starts a second dev server beside the running one, leaving three se](https://github.com/reticlehq/reticle/issues/885) | `reticlehq/reticle` | ⭐ 443 |
