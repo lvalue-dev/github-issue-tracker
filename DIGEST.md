@@ -4,6 +4,8 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-11 | 🥇 | [[Good First Issue] 🎑 Add new Learner Mistake 76 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30167) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-11 | 🥇 | [[Good First Issue] 🌸 Add new Example Sentence 95 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30166) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-11 | 🥇 | [[Good First Issue] 🍙 Add new Japanese Haiku 12 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30156) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-11 | 🥇 | [[Good First Issue] 🏮 Add new Japanese Proverb 145 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30155) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-11 | 🥇 | [💡Ability to Disable/Choose No Theme](https://github.com/code-charity/youtube/issues/4329) | `code-charity/youtube` | ⭐ 4.6k |
@@ -102,5 +104,3 @@
 | 2026-09-09 | 🥇 | [Data Profiler has no export](https://github.com/libredb/libredb-studio/issues/750) | `libredb/libredb-studio` | ⭐ 402 |
 | 2026-09-09 | 🥇 | [Pivot Table has no export](https://github.com/libredb/libredb-studio/issues/749) | `libredb/libredb-studio` | ⭐ 402 |
 | 2026-09-09 | 🥇 | [No way to reorder saved connections](https://github.com/libredb/libredb-studio/issues/748) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-09 | 🥇 | [Closing a tab loses its query with no way to undo it](https://github.com/libredb/libredb-studio/issues/747) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-09 | 🥇 | [No panel lists the app's keyboard shortcuts](https://github.com/libredb/libredb-studio/issues/746) | `libredb/libredb-studio` | ⭐ 402 |

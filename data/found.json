@@ -1,5 +1,51 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30167",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30167,
+    "title": "[Good First Issue] 🎑 Add new Learner Mistake 76 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30167",
+    "comments": 1,
+    "createdAt": "2026-09-11T09:01:02Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-11T09:52:21.744Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30166",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30166,
+    "title": "[Good First Issue] 🌸 Add new Example Sentence 95 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30166",
+    "comments": 1,
+    "createdAt": "2026-09-11T08:57:33Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-11T09:52:21.744Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30156",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -2015,42 +2061,6 @@
     "url": "https://github.com/libredb/libredb-studio/issues/748",
     "comments": 0,
     "createdAt": "2026-09-09T17:20:15Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 402,
-    "foundAt": "2026-09-09T18:44:54.176Z"
-  },
-  {
-    "key": "libredb/libredb-studio#747",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 747,
-    "title": "Closing a tab loses its query with no way to undo it",
-    "url": "https://github.com/libredb/libredb-studio/issues/747",
-    "comments": 0,
-    "createdAt": "2026-09-09T17:20:07Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 402,
-    "foundAt": "2026-09-09T18:44:54.176Z"
-  },
-  {
-    "key": "libredb/libredb-studio#746",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 746,
-    "title": "No panel lists the app's keyboard shortcuts",
-    "url": "https://github.com/libredb/libredb-studio/issues/746",
-    "comments": 0,
-    "createdAt": "2026-09-09T17:20:00Z",
     "labels": [
       "enhancement",
       "good first issue",
