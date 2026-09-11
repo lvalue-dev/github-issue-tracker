@@ -4,6 +4,13 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-11 | 🥇 | [[Good First Issue] 🏮 Add new Etiquette Tip 16 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30145) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-11 | 🥇 | [[Good First Issue] 🎋 Add new False Friend Pair 16 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30144) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-11 | 🥇 | [[Good First Issue] 🍶 Add new Dialect Entry 120 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30143) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-11 | 🥇 | [[Good First Issue] 🌺 Add new Japanese Idiom 50 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30142) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-11 | 🥇 | [[Bug]: Inventory item measurements attributes do not allow floating point values](https://github.com/medusajs/medusa/issues/16784) | `medusajs/medusa` | ⭐ 36.2k |
+| 2026-09-11 | 🥇 | [[Good First Issue] 🎍 Add new Video Game Quote 102 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30141) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-11 | 🥇 | [[Good First Issue] ⛩️ Add new Anime Quote 135 - Beginner-Friendly Open-source Co](https://github.com/lingdojo/kana-dojo/issues/30140) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-10 | 🥇 | [Extract the hardcoded 'jwt' localStorage key into a named constant](https://github.com/OpsiMate/OpsiMate/issues/913) | `OpsiMate/OpsiMate` | ⭐ 211 |
 | 2026-09-10 | 🥇 | [Duplicated getContrastColor helper using deprecated String.prototype.substr](https://github.com/OpsiMate/OpsiMate/issues/912) | `OpsiMate/OpsiMate` | ⭐ 211 |
 | 2026-09-10 | 🥇 | [Remove the orphaned AlertsHeatmap folder (constants/types/utils with no componen](https://github.com/OpsiMate/OpsiMate/issues/911) | `OpsiMate/OpsiMate` | ⭐ 211 |
@@ -97,10 +104,3 @@
 | 2026-09-09 | 🥇 | [[FEATURE] asm get: clone full skill directory to temp location instead of only r](https://github.com/luongnv89/asm/issues/654) | `luongnv89/asm` | ⭐ 916 |
 | 2026-09-09 | 🥇 | [🐞Не работает чёрный список](https://github.com/code-charity/youtube/issues/4327) | `code-charity/youtube` | ⭐ 4.6k |
 | 2026-09-09 | 🥈 | [Classic Search: Feature broken in non-new-tab mode](https://github.com/AprilSylph/XKit-Rewritten/issues/2386) | `AprilSylph/XKit-Rewritten` | ⭐ 375 |
-| 2026-09-09 | 🥈 | [Support opencode2 (OpenCode V2) MCP config: nested mcp.servers + ~/.config/openc](https://github.com/nexu-io/open-design/issues/7968) | `nexu-io/open-design` | ⭐ 94.1k |
-| 2026-09-09 | 🥈 | [🐛 Fix : duplicate closing </h3> tag in popular discussions template](https://github.com/meshery/meshery.io/issues/2955) | `meshery/meshery.io` | ⭐ 854 |
-| 2026-09-09 | 🥈 | [[Discussion]: 关于技能存放位置与目录联接的想法](https://github.com/CherryHQ/cherry-studio/issues/20298) | `CherryHQ/cherry-studio` | ⭐ 51.5k |
-| 2026-09-09 | 🥈 | [[Good First Issue] 🥟 Add new Anime Quote 139 - Beginner-Friendly Open-source Co](https://github.com/lingdojo/kana-dojo/issues/30062) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥈 | [[Good First Issue] 🍜 Add new Japan Fact 148 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30059) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥈 | [[Good First Issue] 🍛 Add new Theme: Moss Temple - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30058) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥉 | [argent-metro-debugger docs: source-maps.md's Babel config fails to build on Expo](https://github.com/software-mansion/argent/issues/1135) | `software-mansion/argent` | ⭐ 2.7k |

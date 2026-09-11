@@ -1,5 +1,162 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30145",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30145,
+    "title": "[Good First Issue] 🏮 Add new Etiquette Tip 16 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30145",
+    "comments": 1,
+    "createdAt": "2026-09-11T00:01:03Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-11T00:16:49.873Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30144",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30144,
+    "title": "[Good First Issue] 🎋 Add new False Friend Pair 16 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30144",
+    "comments": 1,
+    "createdAt": "2026-09-10T23:57:28Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-11T00:16:50.125Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30143",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30143,
+    "title": "[Good First Issue] 🍶 Add new Dialect Entry 120 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30143",
+    "comments": 1,
+    "createdAt": "2026-09-10T23:01:04Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-11T00:16:50.125Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30142",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30142,
+    "title": "[Good First Issue] 🌺 Add new Japanese Idiom 50 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30142",
+    "comments": 1,
+    "createdAt": "2026-09-10T22:57:32Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-11T00:16:50.363Z"
+  },
+  {
+    "key": "medusajs/medusa#16784",
+    "tier": 1,
+    "repo": "medusajs/medusa",
+    "number": 16784,
+    "title": "[Bug]: Inventory item measurements attributes do not allow floating point values",
+    "url": "https://github.com/medusajs/medusa/issues/16784",
+    "comments": 2,
+    "createdAt": "2026-09-10T22:36:30Z",
+    "labels": [
+      "good first issue",
+      "type: bug",
+      "status: needs triaging",
+      "version: 2.0"
+    ],
+    "language": "typescript",
+    "stars": 36246,
+    "foundAt": "2026-09-11T00:16:50.622Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30141",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30141,
+    "title": "[Good First Issue] 🎍 Add new Video Game Quote 102 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30141",
+    "comments": 1,
+    "createdAt": "2026-09-10T22:01:06Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-11T00:16:51.177Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30140",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30140,
+    "title": "[Good First Issue] ⛩️ Add new Anime Quote 135 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30140",
+    "comments": 1,
+    "createdAt": "2026-09-10T21:57:28Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-11T00:16:51.177Z"
+  },
+  {
     "key": "OpsiMate/OpsiMate#913",
     "tier": 1,
     "repo": "OpsiMate/OpsiMate",
@@ -1906,143 +2063,5 @@
     "language": "javascript",
     "stars": 375,
     "foundAt": "2026-09-09T18:44:58.978Z"
-  },
-  {
-    "key": "nexu-io/open-design#7968",
-    "tier": 2,
-    "repo": "nexu-io/open-design",
-    "number": 7968,
-    "title": "Support opencode2 (OpenCode V2) MCP config: nested mcp.servers + ~/.config/opencode2 path",
-    "url": "https://github.com/nexu-io/open-design/issues/7968",
-    "comments": 2,
-    "createdAt": "2026-09-09T17:34:00Z",
-    "labels": [
-      "bug",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 94056,
-    "foundAt": "2026-09-09T18:44:58.517Z"
-  },
-  {
-    "key": "meshery/meshery.io#2955",
-    "tier": 2,
-    "repo": "meshery/meshery.io",
-    "number": 2955,
-    "title": "🐛 Fix : duplicate closing </h3> tag in popular discussions template",
-    "url": "https://github.com/meshery/meshery.io/issues/2955",
-    "comments": 1,
-    "createdAt": "2026-09-09T17:14:18Z",
-    "labels": [
-      "kind/bug",
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 854,
-    "foundAt": "2026-09-09T18:44:58.978Z"
-  },
-  {
-    "key": "CherryHQ/cherry-studio#20298",
-    "tier": 2,
-    "repo": "CherryHQ/cherry-studio",
-    "number": 20298,
-    "title": "[Discussion]: 关于技能存放位置与目录联接的想法",
-    "url": "https://github.com/CherryHQ/cherry-studio/issues/20298",
-    "comments": 0,
-    "createdAt": "2026-09-09T16:41:41Z",
-    "labels": [
-      "help wanted",
-      "discussion"
-    ],
-    "language": "typescript",
-    "stars": 51475,
-    "foundAt": "2026-09-09T18:44:58.739Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30062",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30062,
-    "title": "[Good First Issue] 🥟 Add new Anime Quote 139 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30062",
-    "comments": 1,
-    "createdAt": "2026-09-09T14:57:36Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-09T18:44:58.739Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30059",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30059,
-    "title": "[Good First Issue] 🍜 Add new Japan Fact 148 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30059",
-    "comments": 1,
-    "createdAt": "2026-09-09T13:01:09Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-09T18:44:58.739Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30058",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30058,
-    "title": "[Good First Issue] 🍛 Add new Theme: Moss Temple - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30058",
-    "comments": 1,
-    "createdAt": "2026-09-09T12:57:32Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-09T18:44:58.739Z"
-  },
-  {
-    "key": "software-mansion/argent#1135",
-    "tier": 3,
-    "repo": "software-mansion/argent",
-    "number": 1135,
-    "title": "argent-metro-debugger docs: source-maps.md's Babel config fails to build on Expo, plus three SKILL.md inaccuracies",
-    "url": "https://github.com/software-mansion/argent/issues/1135",
-    "comments": 0,
-    "createdAt": "2026-09-09T18:27:59Z",
-    "labels": [
-      "bug",
-      "documentation",
-      "b:minor"
-    ],
-    "language": "typescript",
-    "stars": 2724,
-    "foundAt": "2026-09-09T18:45:00.329Z"
   }
 ]
