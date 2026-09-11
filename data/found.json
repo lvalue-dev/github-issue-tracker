@@ -1,5 +1,159 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30156",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30156,
+    "title": "[Good First Issue] 🍙 Add new Japanese Haiku 12 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30156",
+    "comments": 1,
+    "createdAt": "2026-09-11T04:01:02Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-11T04:53:54.246Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30155",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30155,
+    "title": "[Good First Issue] 🏮 Add new Japanese Proverb 145 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30155",
+    "comments": 1,
+    "createdAt": "2026-09-11T03:57:31Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-11T04:53:54.246Z"
+  },
+  {
+    "key": "code-charity/youtube#4329",
+    "tier": 1,
+    "repo": "code-charity/youtube",
+    "number": 4329,
+    "title": "💡Ability to Disable/Choose No Theme",
+    "url": "https://github.com/code-charity/youtube/issues/4329",
+    "comments": 0,
+    "createdAt": "2026-09-11T03:01:08Z",
+    "labels": [
+      "Feature request",
+      "help wanted",
+      "good first issue",
+      "up-for-grabs"
+    ],
+    "language": "javascript",
+    "stars": 4566,
+    "foundAt": "2026-09-11T04:53:56.073Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30152",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30152,
+    "title": "[Good First Issue] 🥟 Add new Japan Fact 190 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30152",
+    "comments": 1,
+    "createdAt": "2026-09-11T03:01:06Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-11T04:53:55.128Z"
+  },
+  {
+    "key": "libredb/libredb-studio#790",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 790,
+    "title": "Two source comments cite a git-ignored design document path",
+    "url": "https://github.com/libredb/libredb-studio/issues/790",
+    "comments": 1,
+    "createdAt": "2026-09-11T02:39:49Z",
+    "labels": [
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 402,
+    "foundAt": "2026-09-11T04:53:55.128Z"
+  },
+  {
+    "key": "pagefaultgames/pokerogue#7672",
+    "tier": 1,
+    "repo": "pagefaultgames/pokerogue",
+    "number": 7672,
+    "title": "[Balance] Update No Retreat to match Champions change",
+    "url": "https://github.com/pagefaultgames/pokerogue/issues/7672",
+    "comments": 0,
+    "createdAt": "2026-09-11T01:26:00Z",
+    "labels": [
+      "Game Balance",
+      "Good First Issue"
+    ],
+    "language": "typescript",
+    "stars": 5835,
+    "foundAt": "2026-09-11T04:53:55.811Z"
+  },
+  {
+    "key": "stdlib-js/stdlib#15154",
+    "tier": 1,
+    "repo": "stdlib-js/stdlib",
+    "number": 15154,
+    "title": "Fix JavaScript lint errors",
+    "url": "https://github.com/stdlib-js/stdlib/issues/15154",
+    "comments": 1,
+    "createdAt": "2026-09-11T00:21:02Z",
+    "labels": [
+      "Good First Issue"
+    ],
+    "language": "javascript",
+    "stars": 5957,
+    "foundAt": "2026-09-11T04:53:56.296Z"
+  },
+  {
+    "key": "prettier/prettier#20026",
+    "tier": 2,
+    "repo": "prettier/prettier",
+    "number": 20026,
+    "title": "Missing parens around `throw` expression",
+    "url": "https://github.com/prettier/prettier/issues/20026",
+    "comments": 0,
+    "createdAt": "2026-09-11T00:28:32Z",
+    "labels": [
+      "help wanted",
+      "lang:javascript"
+    ],
+    "language": "javascript",
+    "stars": 52242,
+    "foundAt": "2026-09-11T04:53:56.667Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30145",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1905,163 +2059,5 @@
     "language": "typescript",
     "stars": 402,
     "foundAt": "2026-09-09T18:44:54.176Z"
-  },
-  {
-    "key": "libredb/libredb-studio#745",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 745,
-    "title": "No keyboard shortcut opens a new query tab",
-    "url": "https://github.com/libredb/libredb-studio/issues/745",
-    "comments": 0,
-    "createdAt": "2026-09-09T17:19:53Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 402,
-    "foundAt": "2026-09-09T18:44:54.176Z"
-  },
-  {
-    "key": "libredb/libredb-studio#744",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 744,
-    "title": "The results grid has no way to wrap a long cell's text",
-    "url": "https://github.com/libredb/libredb-studio/issues/744",
-    "comments": 0,
-    "createdAt": "2026-09-09T17:19:47Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 402,
-    "foundAt": "2026-09-09T18:44:54.176Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30068",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30068,
-    "title": "[Good First Issue] 🎋 Add new Etiquette Tip 72 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30068",
-    "comments": 1,
-    "createdAt": "2026-09-09T17:01:04Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-09T18:44:54.663Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30067",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30067,
-    "title": "[Good First Issue] 🦊 Add new False Friend Pair 76 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30067",
-    "comments": 1,
-    "createdAt": "2026-09-09T16:57:29Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-09T18:44:54.663Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30064",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30064,
-    "title": "[Good First Issue] 🍘 Add new Japanese Idiom 39 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30064",
-    "comments": 1,
-    "createdAt": "2026-09-09T15:57:32Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-09T18:44:55.829Z"
-  },
-  {
-    "key": "luongnv89/asm#654",
-    "tier": 1,
-    "repo": "luongnv89/asm",
-    "number": 654,
-    "title": "[FEATURE] asm get: clone full skill directory to temp location instead of only reading SKILL.md",
-    "url": "https://github.com/luongnv89/asm/issues/654",
-    "comments": 0,
-    "createdAt": "2026-09-09T15:51:53Z",
-    "labels": [
-      "enhancement",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 916,
-    "foundAt": "2026-09-09T18:44:56.043Z"
-  },
-  {
-    "key": "code-charity/youtube#4327",
-    "tier": 1,
-    "repo": "code-charity/youtube",
-    "number": 4327,
-    "title": "🐞Не работает чёрный список",
-    "url": "https://github.com/code-charity/youtube/issues/4327",
-    "comments": 0,
-    "createdAt": "2026-09-09T11:26:54Z",
-    "labels": [
-      "Bug",
-      "help wanted",
-      "good first issue",
-      "up-for-grabs"
-    ],
-    "language": "javascript",
-    "stars": 4566,
-    "foundAt": "2026-09-09T18:44:57.784Z"
-  },
-  {
-    "key": "AprilSylph/XKit-Rewritten#2386",
-    "tier": 2,
-    "repo": "AprilSylph/XKit-Rewritten",
-    "number": 2386,
-    "title": "Classic Search: Feature broken in non-new-tab mode",
-    "url": "https://github.com/AprilSylph/XKit-Rewritten/issues/2386",
-    "comments": 0,
-    "createdAt": "2026-09-09T17:45:21Z",
-    "labels": [
-      "bug",
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 375,
-    "foundAt": "2026-09-09T18:44:58.978Z"
   }
 ]

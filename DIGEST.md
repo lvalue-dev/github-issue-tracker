@@ -4,6 +4,14 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-11 | 🥇 | [[Good First Issue] 🍙 Add new Japanese Haiku 12 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30156) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-11 | 🥇 | [[Good First Issue] 🏮 Add new Japanese Proverb 145 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30155) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-11 | 🥇 | [💡Ability to Disable/Choose No Theme](https://github.com/code-charity/youtube/issues/4329) | `code-charity/youtube` | ⭐ 4.6k |
+| 2026-09-11 | 🥇 | [[Good First Issue] 🥟 Add new Japan Fact 190 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30152) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-11 | 🥇 | [Two source comments cite a git-ignored design document path](https://github.com/libredb/libredb-studio/issues/790) | `libredb/libredb-studio` | ⭐ 402 |
+| 2026-09-11 | 🥇 | [[Balance] Update No Retreat to match Champions change](https://github.com/pagefaultgames/pokerogue/issues/7672) | `pagefaultgames/pokerogue` | ⭐ 5.8k |
+| 2026-09-11 | 🥇 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15154) | `stdlib-js/stdlib` | ⭐ 6.0k |
+| 2026-09-11 | 🥈 | [Missing parens around `throw` expression](https://github.com/prettier/prettier/issues/20026) | `prettier/prettier` | ⭐ 52.2k |
 | 2026-09-11 | 🥇 | [[Good First Issue] 🏮 Add new Etiquette Tip 16 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30145) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-11 | 🥇 | [[Good First Issue] 🎋 Add new False Friend Pair 16 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30144) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-11 | 🥇 | [[Good First Issue] 🍶 Add new Dialect Entry 120 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30143) | `lingdojo/kana-dojo` | ⭐ 3.4k |
@@ -96,11 +104,3 @@
 | 2026-09-09 | 🥇 | [No way to reorder saved connections](https://github.com/libredb/libredb-studio/issues/748) | `libredb/libredb-studio` | ⭐ 402 |
 | 2026-09-09 | 🥇 | [Closing a tab loses its query with no way to undo it](https://github.com/libredb/libredb-studio/issues/747) | `libredb/libredb-studio` | ⭐ 402 |
 | 2026-09-09 | 🥇 | [No panel lists the app's keyboard shortcuts](https://github.com/libredb/libredb-studio/issues/746) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-09 | 🥇 | [No keyboard shortcut opens a new query tab](https://github.com/libredb/libredb-studio/issues/745) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-09 | 🥇 | [The results grid has no way to wrap a long cell's text](https://github.com/libredb/libredb-studio/issues/744) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-09 | 🥇 | [[Good First Issue] 🎋 Add new Etiquette Tip 72 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30068) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥇 | [[Good First Issue] 🦊 Add new False Friend Pair 76 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30067) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥇 | [[Good First Issue] 🍘 Add new Japanese Idiom 39 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30064) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥇 | [[FEATURE] asm get: clone full skill directory to temp location instead of only r](https://github.com/luongnv89/asm/issues/654) | `luongnv89/asm` | ⭐ 916 |
-| 2026-09-09 | 🥇 | [🐞Не работает чёрный список](https://github.com/code-charity/youtube/issues/4327) | `code-charity/youtube` | ⭐ 4.6k |
-| 2026-09-09 | 🥈 | [Classic Search: Feature broken in non-new-tab mode](https://github.com/AprilSylph/XKit-Rewritten/issues/2386) | `AprilSylph/XKit-Rewritten` | ⭐ 375 |
