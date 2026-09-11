@@ -4,6 +4,20 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-11 | 🥇 | [[Good First Issue] 🥢 Add new Grammar Point 59 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30202) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-11 | 🥇 | [[Good First Issue] 🏮 Add new Trivia Question 66 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30201) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-11 | 🥇 | [Align contextMode comments and category docs with runtime behavior](https://github.com/conorbronsdon/avoid-ai-writing/issues/173) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-11 | 🥇 | [Correct the v3.22 corpus label and weight attribution](https://github.com/conorbronsdon/avoid-ai-writing/issues/171) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-11 | 🥇 | [Document required pattern-count updates for rule changes](https://github.com/conorbronsdon/avoid-ai-writing/issues/170) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-11 | 🥇 | [Name references/patterns.md in pattern-count checks](https://github.com/conorbronsdon/avoid-ai-writing/issues/169) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-11 | 🥇 | [Refresh the PROOF self-scan snapshot and file attribution](https://github.com/conorbronsdon/avoid-ai-writing/issues/167) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-11 | 🥈 | [[blog] Announce mesheryctl-axi: the agent-friendly Meshery CLI](https://github.com/meshery/meshery.io/issues/2971) | `meshery/meshery.io` | ⭐ 854 |
+| 2026-09-11 | 🥈 | [[Good First Issue] 🍡 Add new Japanese Haiku 2 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30199) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-11 | 🥈 | [[Good First Issue] 🏮 Add new Japanese Proverb 83 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30198) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-11 | 🥈 | [[Good First Issue] 🦊 Add new Japan Fact 275 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30195) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-11 | 🥈 | [[Good First Issue] 🗾 Add new Theme: Peach Mochi - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30194) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-11 | 🥉 | [docs(tests): tests/README.md says root *.test.mjs files are run; a required chec](https://github.com/career-ops-hq/career-ops/issues/4097) | `career-ops-hq/career-ops` | ⭐ 71.3k |
+| 2026-09-11 | 🥉 | [docs: the test-naming rule describes 19% of tests/ and 54% of web/tests/](https://github.com/career-ops-hq/career-ops/issues/4091) | `career-ops-hq/career-ops` | ⭐ 71.3k |
 | 2026-09-11 | 🥇 | [[Good First Issue] 🏮 Add new Community Note Line #4 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30192) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-11 | 🥇 | [[Good First Issue] 🍵 Add new Wallpaper URL #3 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30191) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-11 | 🥇 | [Add a read-only detector CLI for files and stdin](https://github.com/conorbronsdon/avoid-ai-writing/issues/158) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
@@ -90,17 +104,3 @@
 | 2026-09-10 | 🥉 | [[bug/docs] `block add invoice` fails – "invoice" block not found in registry](https://github.com/akii09/pdfx/issues/189) | `akii09/pdfx` | ⭐ 1.2k |
 | 2026-09-10 | 🥇 | [[Good First Issue] 🏯 Add new Anime Quote 1 - Beginner-Friendly Open-source Cont](https://github.com/lingdojo/kana-dojo/issues/30120) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-10 | 🥇 | [[Good First Issue] 🍢 Add new Grammar Point 54 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30119) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-10 | 🥈 | [Example: runnable app on the self-managed path (no Node runtime)](https://github.com/CopilotKit/CopilotKit/issues/7015) | `CopilotKit/CopilotKit` | ⭐ 37.3k |
-| 2026-09-10 | 🥇 | [Sort packages in "dependency size" list consistently with chart](https://github.com/npmx-dev/npmx.dev/issues/3239) | `npmx-dev/npmx.dev` | ⭐ 3.6k |
-| 2026-09-10 | 🥇 | [[Good First Issue] 🎴 Add new Etiquette Tip 26 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30108) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-10 | 🥇 | [[Good First Issue] 🍣 Add new False Friend Pair 95 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30107) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-10 | 🥇 | [[Good First Issue] 🍢 Add new Dialect Entry 81 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30106) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-10 | 🥇 | [[Good First Issue] 🍚 Add new Japanese Idiom 28 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30105) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-10 | 🥈 | [Call for testing: multi-project (projects) before 0.24.0](https://github.com/Tencent/teamai-cli/issues/487) | `Tencent/teamai-cli` | ⭐ 3.2k |
-| 2026-09-10 | 🥈 | [[Good First Issue] 🍢 Add new Video Game Quote 23 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30104) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-10 | 🥈 | [[Good First Issue] 🌺 Add new Anime Quote 28 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30103) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-10 | 🥈 | [[Good First Issue] 🍁 Add new Grammar Point 126 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30101) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-10 | 🥈 | [[Good First Issue] 🍁 Add new Trivia Question 79 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30100) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-10 | 🥇 | [[Good First Issue] 🦑 Add new Japan Fact 243 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30097) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-10 | 🥇 | [[Good First Issue] 🀄 Add new Theme: Shrine Stone - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30096) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-10 | 🥇 | [[Good First Issue] 🎏 Add new Community Note Line #3 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30093) | `lingdojo/kana-dojo` | ⭐ 3.4k |
