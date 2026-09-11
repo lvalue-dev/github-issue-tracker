@@ -1,5 +1,244 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30181",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30181,
+    "title": "[Good First Issue] 🍱 Add new Video Game Quote 26 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30181",
+    "comments": 1,
+    "createdAt": "2026-09-11T14:01:44Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-11T14:31:22.296Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30180",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30180,
+    "title": "[Good First Issue] 🍚 Add new Anime Quote 14 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30180",
+    "comments": 1,
+    "createdAt": "2026-09-11T13:57:32Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-11T14:31:22.296Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30178",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30178,
+    "title": "[Good First Issue] 🥢 Add new Grammar Point 136 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30178",
+    "comments": 1,
+    "createdAt": "2026-09-11T13:01:03Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-11T14:31:23.180Z"
+  },
+  {
+    "key": "nexu-io/open-design#8048",
+    "tier": 1,
+    "repo": "nexu-io/open-design",
+    "number": 8048,
+    "title": "Three max-tokens defaults exceed MAX_MAX_TOKENS and cannot be restored after an override",
+    "url": "https://github.com/nexu-io/open-design/issues/8048",
+    "comments": 2,
+    "createdAt": "2026-09-11T12:17:44Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 94056,
+    "foundAt": "2026-09-11T14:31:23.180Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30174",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30174,
+    "title": "[Good First Issue] 🎎 Add new Japanese Haiku 10 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30174",
+    "comments": 1,
+    "createdAt": "2026-09-11T12:01:07Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-11T14:31:23.370Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30173",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30173,
+    "title": "[Good First Issue] 🥟 Add new Japanese Proverb 10 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30173",
+    "comments": 1,
+    "createdAt": "2026-09-11T11:57:32Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-11T14:31:23.583Z"
+  },
+  {
+    "key": "super-productivity/super-productivity#10058",
+    "tier": 2,
+    "repo": "super-productivity/super-productivity",
+    "number": 10058,
+    "title": "Window size/position silently reset by electron-window-state (hidden-window bounds + out-of-bounds wipe)",
+    "url": "https://github.com/super-productivity/super-productivity/issues/10058",
+    "comments": 0,
+    "createdAt": "2026-09-11T13:15:55Z",
+    "labels": [
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 21917,
+    "foundAt": "2026-09-11T14:31:25.223Z"
+  },
+  {
+    "key": "meshery/meshery.io#2967",
+    "tier": 2,
+    "repo": "meshery/meshery.io",
+    "number": 2967,
+    "title": "[Website] pages missing meta descriptions",
+    "url": "https://github.com/meshery/meshery.io/issues/2967",
+    "comments": 2,
+    "createdAt": "2026-09-11T10:15:07Z",
+    "labels": [
+      "help wanted",
+      "language/javascript",
+      "framework/jekyll",
+      "language/markdown",
+      "area/website",
+      "language/css"
+    ],
+    "language": "javascript",
+    "stars": 854,
+    "foundAt": "2026-09-11T14:31:26.110Z"
+  },
+  {
+    "key": "layer5io/layer5#8042",
+    "tier": 2,
+    "repo": "layer5io/layer5",
+    "number": 8042,
+    "title": "[UI] Fix responsive layout issue on iPad Air viewport",
+    "url": "https://github.com/layer5io/layer5/issues/8042",
+    "comments": 1,
+    "createdAt": "2026-09-11T10:10:34Z",
+    "labels": [
+      "kind/bug",
+      "help wanted",
+      "framework/gatsby"
+    ],
+    "language": "javascript",
+    "stars": 1121,
+    "foundAt": "2026-09-11T14:31:26.376Z"
+  },
+  {
+    "key": "layer5io/layer5#8041",
+    "tier": 2,
+    "repo": "layer5io/layer5",
+    "number": 8041,
+    "title": "[Website] Performance tests run metric is displayed as 0 on Meshery page",
+    "url": "https://github.com/layer5io/layer5/issues/8041",
+    "comments": 1,
+    "createdAt": "2026-09-11T09:59:51Z",
+    "labels": [
+      "kind/bug",
+      "help wanted",
+      "framework/gatsby"
+    ],
+    "language": "javascript",
+    "stars": 1121,
+    "foundAt": "2026-09-11T14:31:26.376Z"
+  },
+  {
+    "key": "posit-dev/positron#16051",
+    "tier": 3,
+    "repo": "posit-dev/positron",
+    "number": 16051,
+    "title": "AI: update provider notices text in product and docs",
+    "url": "https://github.com/posit-dev/positron/issues/16051",
+    "comments": 0,
+    "createdAt": "2026-09-11T14:12:26Z",
+    "labels": [
+      "documentation",
+      "area: assistant"
+    ],
+    "language": "typescript",
+    "stars": 4258,
+    "foundAt": "2026-09-11T14:31:27.475Z"
+  },
+  {
+    "key": "srg-kostyrko/obsidian-journal#397",
+    "tier": 3,
+    "repo": "srg-kostyrko/obsidian-journal",
+    "number": 397,
+    "title": "Docs: split the user manual out of the README, and decide whether it gets a site",
+    "url": "https://github.com/srg-kostyrko/obsidian-journal/issues/397",
+    "comments": 0,
+    "createdAt": "2026-09-11T14:06:18Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "typescript",
+    "stars": 390,
+    "foundAt": "2026-09-11T14:31:28.066Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30167",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1825,249 +2064,5 @@
     "language": "typescript",
     "stars": 3306,
     "foundAt": "2026-09-09T21:47:39.171Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30073",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30073,
-    "title": "[Good First Issue] 🥟 Add new Theme: Yakuza Tattoo - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30073",
-    "comments": 1,
-    "createdAt": "2026-09-09T19:57:32Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-09T21:47:39.171Z"
-  },
-  {
-    "key": "aymericzip/intlayer#508",
-    "tier": 1,
-    "repo": "aymericzip/intlayer",
-    "number": 508,
-    "title": "Implement 'Last used' indicator on landing page",
-    "url": "https://github.com/aymericzip/intlayer/issues/508",
-    "comments": 0,
-    "createdAt": "2026-09-09T19:41:30Z",
-    "labels": [
-      "javascript",
-      "good first issue",
-      "backend",
-      "app"
-    ],
-    "language": "typescript",
-    "stars": 822,
-    "foundAt": "2026-09-09T21:47:39.394Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30072",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30072,
-    "title": "[Good First Issue] 🍛 Add new Community Note Line #5 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30072",
-    "comments": 1,
-    "createdAt": "2026-09-09T19:01:04Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-09T21:47:39.394Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30071",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30071,
-    "title": "[Good First Issue] 🐡 Add new Wallpaper URL #5 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30071",
-    "comments": 1,
-    "createdAt": "2026-09-09T18:57:29Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-09T21:47:39.394Z"
-  },
-  {
-    "key": "super-productivity/super-productivity#10003",
-    "tier": 2,
-    "repo": "super-productivity/super-productivity",
-    "number": 10003,
-    "title": "Restores can rotate the pre-loss recovery point out of the 3-slot ring",
-    "url": "https://github.com/super-productivity/super-productivity/issues/10003",
-    "comments": 0,
-    "createdAt": "2026-09-09T19:16:56Z",
-    "labels": [
-      "bug",
-      "easy"
-    ],
-    "language": "typescript",
-    "stars": 21917,
-    "foundAt": "2026-09-09T21:47:41.613Z"
-  },
-  {
-    "key": "bastani-inc/atomic#2957",
-    "tier": 1,
-    "repo": "bastani-inc/atomic",
-    "number": 2957,
-    "title": "Add configurable workflow outcome sounds to the Herdr integration",
-    "url": "https://github.com/bastani-inc/atomic/issues/2957",
-    "comments": 0,
-    "createdAt": "2026-09-09T18:21:48Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 784,
-    "foundAt": "2026-09-09T18:44:53.638Z"
-  },
-  {
-    "key": "finos/FDC3#2194",
-    "tier": 1,
-    "repo": "finos/FDC3",
-    "number": 2194,
-    "title": "fdc3-conformance: pre-existing TypeScript type errors are hidden because the build uses esbuild (no typecheck)",
-    "url": "https://github.com/finos/FDC3/issues/2194",
-    "comments": 1,
-    "createdAt": "2026-09-09T18:10:52Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "javascript",
-      "conformance"
-    ],
-    "language": "typescript",
-    "stars": 269,
-    "foundAt": "2026-09-09T18:44:53.910Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30070",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30070,
-    "title": "[Good First Issue] 🐉 Add new Learner Mistake 26 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30070",
-    "comments": 1,
-    "createdAt": "2026-09-09T18:01:08Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-09T18:44:53.910Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30069",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30069,
-    "title": "[Good First Issue] 🀄 Add new Example Sentence 54 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30069",
-    "comments": 1,
-    "createdAt": "2026-09-09T17:57:34Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3306,
-    "foundAt": "2026-09-09T18:44:53.910Z"
-  },
-  {
-    "key": "libredb/libredb-studio#750",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 750,
-    "title": "Data Profiler has no export",
-    "url": "https://github.com/libredb/libredb-studio/issues/750",
-    "comments": 0,
-    "createdAt": "2026-09-09T17:20:29Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 402,
-    "foundAt": "2026-09-09T18:44:54.176Z"
-  },
-  {
-    "key": "libredb/libredb-studio#749",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 749,
-    "title": "Pivot Table has no export",
-    "url": "https://github.com/libredb/libredb-studio/issues/749",
-    "comments": 0,
-    "createdAt": "2026-09-09T17:20:22Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 402,
-    "foundAt": "2026-09-09T18:44:54.176Z"
-  },
-  {
-    "key": "libredb/libredb-studio#748",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 748,
-    "title": "No way to reorder saved connections",
-    "url": "https://github.com/libredb/libredb-studio/issues/748",
-    "comments": 0,
-    "createdAt": "2026-09-09T17:20:15Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 402,
-    "foundAt": "2026-09-09T18:44:54.176Z"
   }
 ]

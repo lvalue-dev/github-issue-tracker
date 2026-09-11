@@ -4,6 +4,18 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-11 | 🥇 | [[Good First Issue] 🍱 Add new Video Game Quote 26 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30181) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-11 | 🥇 | [[Good First Issue] 🍚 Add new Anime Quote 14 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30180) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-11 | 🥇 | [[Good First Issue] 🥢 Add new Grammar Point 136 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30178) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-11 | 🥇 | [Three max-tokens defaults exceed MAX_MAX_TOKENS and cannot be restored after an ](https://github.com/nexu-io/open-design/issues/8048) | `nexu-io/open-design` | ⭐ 94.1k |
+| 2026-09-11 | 🥇 | [[Good First Issue] 🎎 Add new Japanese Haiku 10 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30174) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-11 | 🥇 | [[Good First Issue] 🥟 Add new Japanese Proverb 10 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30173) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-11 | 🥈 | [Window size/position silently reset by electron-window-state (hidden-window boun](https://github.com/super-productivity/super-productivity/issues/10058) | `super-productivity/super-productivity` | ⭐ 21.9k |
+| 2026-09-11 | 🥈 | [[Website] pages missing meta descriptions](https://github.com/meshery/meshery.io/issues/2967) | `meshery/meshery.io` | ⭐ 854 |
+| 2026-09-11 | 🥈 | [[UI] Fix responsive layout issue on iPad Air viewport](https://github.com/layer5io/layer5/issues/8042) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-11 | 🥈 | [[Website] Performance tests run metric is displayed as 0 on Meshery page](https://github.com/layer5io/layer5/issues/8041) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-11 | 🥉 | [AI: update provider notices text in product and docs](https://github.com/posit-dev/positron/issues/16051) | `posit-dev/positron` | ⭐ 4.3k |
+| 2026-09-11 | 🥉 | [Docs: split the user manual out of the README, and decide whether it gets a site](https://github.com/srg-kostyrko/obsidian-journal/issues/397) | `srg-kostyrko/obsidian-journal` | ⭐ 390 |
 | 2026-09-11 | 🥇 | [[Good First Issue] 🎑 Add new Learner Mistake 76 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30167) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-11 | 🥇 | [[Good First Issue] 🌸 Add new Example Sentence 95 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30166) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-11 | 🥇 | [[Good First Issue] 🍙 Add new Japanese Haiku 12 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30156) | `lingdojo/kana-dojo` | ⭐ 3.4k |
@@ -92,15 +104,3 @@
 | 2026-09-09 | 🥇 | [Dependencies / Dependents list should have identical maximum height and indicati](https://github.com/taskcluster/taskcluster/issues/9142) | `taskcluster/taskcluster` | ⭐ 430 |
 | 2026-09-09 | 🥇 | [[Good First Issue] 🎑 Add new Japanese Proverb 26 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30076) | `lingdojo/kana-dojo` | ⭐ 3.3k |
 | 2026-09-09 | 🥇 | [[Good First Issue] 🐉 Add new Japan Fact 241 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30074) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥇 | [[Good First Issue] 🥟 Add new Theme: Yakuza Tattoo - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30073) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥇 | [Implement 'Last used' indicator on landing page](https://github.com/aymericzip/intlayer/issues/508) | `aymericzip/intlayer` | ⭐ 822 |
-| 2026-09-09 | 🥇 | [[Good First Issue] 🍛 Add new Community Note Line #5 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30072) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥇 | [[Good First Issue] 🐡 Add new Wallpaper URL #5 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30071) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥈 | [Restores can rotate the pre-loss recovery point out of the 3-slot ring](https://github.com/super-productivity/super-productivity/issues/10003) | `super-productivity/super-productivity` | ⭐ 21.9k |
-| 2026-09-09 | 🥇 | [Add configurable workflow outcome sounds to the Herdr integration](https://github.com/bastani-inc/atomic/issues/2957) | `bastani-inc/atomic` | ⭐ 784 |
-| 2026-09-09 | 🥇 | [fdc3-conformance: pre-existing TypeScript type errors are hidden because the bui](https://github.com/finos/FDC3/issues/2194) | `finos/FDC3` | ⭐ 269 |
-| 2026-09-09 | 🥇 | [[Good First Issue] 🐉 Add new Learner Mistake 26 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30070) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥇 | [[Good First Issue] 🀄 Add new Example Sentence 54 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30069) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥇 | [Data Profiler has no export](https://github.com/libredb/libredb-studio/issues/750) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-09 | 🥇 | [Pivot Table has no export](https://github.com/libredb/libredb-studio/issues/749) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-09 | 🥇 | [No way to reorder saved connections](https://github.com/libredb/libredb-studio/issues/748) | `libredb/libredb-studio` | ⭐ 402 |
