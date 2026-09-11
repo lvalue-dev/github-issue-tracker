@@ -4,6 +4,28 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-11 | 🥇 | [[Good First Issue] 🏮 Add new Community Note Line #4 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30192) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-11 | 🥇 | [[Good First Issue] 🍵 Add new Wallpaper URL #3 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30191) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-11 | 🥇 | [Add a read-only detector CLI for files and stdin](https://github.com/conorbronsdon/avoid-ai-writing/issues/158) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-11 | 🥇 | [Add a structured issue form for proposing a writing pattern](https://github.com/conorbronsdon/avoid-ai-writing/issues/157) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-11 | 🥇 | [Docs: show how to install and import the published npm package](https://github.com/conorbronsdon/avoid-ai-writing/issues/156) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-11 | 🥇 | [Add unit tests for lib/permissions (role × permission matrix)](https://github.com/OpsiMate/OpsiMate/issues/927) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-11 | 🥇 | [Add unit tests for the useFilterPanel hook](https://github.com/OpsiMate/OpsiMate/issues/926) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-11 | 🥇 | [Add unit tests for IntegrationAvatar.utils (source resolution fallback chain)](https://github.com/OpsiMate/OpsiMate/issues/925) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-11 | 🥇 | [Add unit tests for lib/errorMapper](https://github.com/OpsiMate/OpsiMate/issues/924) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-11 | 🥇 | [Add unit tests for Dashboards.utils (storage, favourites, sort, filter)](https://github.com/OpsiMate/OpsiMate/issues/923) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-11 | 🥇 | [Add unit tests for profile.utils (getInitials, formatDate)](https://github.com/OpsiMate/OpsiMate/issues/922) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-11 | 🥇 | [Add unit tests for the TagKey column-id helpers](https://github.com/OpsiMate/OpsiMate/issues/921) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-11 | 🥇 | [Search banner text overlaps the alerts toolbar](https://github.com/OpsiMate/OpsiMate/issues/920) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-11 | 🥇 | [Alerts auto-refresh interval is a magic 5000](https://github.com/OpsiMate/OpsiMate/issues/919) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-11 | 🥇 | [Extract the copy-pasted clipboard handler into a useCopyToClipboard hook](https://github.com/OpsiMate/OpsiMate/issues/918) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-11 | 🥇 | [Role enum is declared three times — standardize on the shared export](https://github.com/OpsiMate/OpsiMate/issues/917) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-11 | 🥇 | [Page titles, category names, and Site Goals totals show HTML entity codes in the](https://github.com/google/site-kit-wp/issues/13537) | `google/site-kit-wp` | ⭐ 1.4k |
+| 2026-09-11 | 🥈 | [[Good First Issue] 🍣 Add new Learner Mistake 115 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30190) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-11 | 🥈 | [[Good First Issue] 🎴 Add new Example Sentence 42 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30188) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-11 | 🥈 | [Blog search results render post metadata as raw HTML, allowing XSS](https://github.com/meshery/meshery.io/issues/2968) | `meshery/meshery.io` | ⭐ 854 |
+| 2026-09-11 | 🥈 | [Templates are not available with the FTP connector, nor on local file storage](https://github.com/silexlabs/Silex/issues/1856) | `silexlabs/Silex` | ⭐ 3.0k |
+| 2026-09-11 | 🥈 | [Opening a template fails when the user is connected to another GitLab instance](https://github.com/silexlabs/Silex/issues/1855) | `silexlabs/Silex` | ⭐ 3.0k |
 | 2026-09-11 | 🥇 | [[Good First Issue] 🍱 Add new Video Game Quote 26 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30181) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-11 | 🥇 | [[Good First Issue] 🍚 Add new Anime Quote 14 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30180) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-11 | 🥇 | [[Good First Issue] 🥢 Add new Grammar Point 136 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30178) | `lingdojo/kana-dojo` | ⭐ 3.4k |
@@ -82,25 +104,3 @@
 | 2026-09-10 | 🥇 | [[Good First Issue] 🦑 Add new Japan Fact 243 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30097) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-10 | 🥇 | [[Good First Issue] 🀄 Add new Theme: Shrine Stone - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30096) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-10 | 🥇 | [[Good First Issue] 🎏 Add new Community Note Line #3 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30093) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-10 | 🥇 | [[Good First Issue] 🍣 Add new Wallpaper URL #5 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30092) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-10 | 🥇 | [feat(strobi): Improve Strobi mascot suggestions in the editor and integrate with](https://github.com/Igorcbraz/GitAscii/issues/200) | `Igorcbraz/GitAscii` | ⭐ 258 |
-| 2026-09-10 | 🥇 | [[Good First Issue] 🥟 Add new Learner Mistake 88 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30091) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-10 | 🥇 | [[Good First Issue] ⛩️ Add new Example Sentence 69 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30090) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-10 | 🥇 | [[Good First Issue] 🗻 Add new Etiquette Tip 109 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30086) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-10 | 🥇 | [[Good First Issue] 🍁 Add new False Friend Pair 110 - Beginner-Friendly Open-sou](https://github.com/lingdojo/kana-dojo/issues/30085) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-10 | 🥈 | [[Good First Issue] 🍡 Add new Japanese Proverb 41 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30098) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-10 | 🥈 | [[bug] 似乎codebuddy的mcp信息的落点有问题](https://github.com/Tencent/teamai-cli/issues/474) | `Tencent/teamai-cli` | ⭐ 3.2k |
-| 2026-09-10 | 🥉 | [Helm README: observability verification curl to /api/den/openapi.json hits a 307](https://github.com/different-ai/openwork/issues/4755) | `different-ai/openwork` | ⭐ 23.4k |
-| 2026-09-10 | 🥉 | [den-db: sslmode=require is strict (rejectUnauthorized) but docs say it does not ](https://github.com/different-ai/openwork/issues/4754) | `different-ai/openwork` | ⭐ 23.4k |
-| 2026-09-10 | 🥉 | [Helm: migration hook activeDeadlineSeconds (600s) includes image pull; cold firs](https://github.com/different-ai/openwork/issues/4753) | `different-ai/openwork` | ⭐ 23.4k |
-| 2026-09-10 | 🥉 | [Helm: published chart defaults image.tag to latest; self-host docs imply --versi](https://github.com/different-ai/openwork/issues/4752) | `different-ai/openwork` | ⭐ 23.4k |
-| 2026-09-10 | 🥇 | [[Good First Issue] ⛩️ Add new Dialect Entry 45 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30083) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-10 | 🥇 | [[Good First Issue] 🎌 Add new Japanese Idiom 61 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30082) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-10 | 🥇 | [[Good First Issue] 🐡 Add new Video Game Quote 113 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30081) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-10 | 🥇 | [[Good First Issue] 🌋 Add new Anime Quote 63 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30080) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-10 | 🥇 | [[Good First Issue] 🧧 Add new Grammar Point 61 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30079) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-10 | 🥇 | [[Good First Issue] 🗻 Add new Trivia Question 79 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30078) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-10 | 🥉 | [Documentation: dead external links](https://github.com/NuSkooler/enigma-bbs/issues/806) | `NuSkooler/enigma-bbs` | ⭐ 665 |
-| 2026-09-09 | 🥇 | [Dependencies / Dependents list should have identical maximum height and indicati](https://github.com/taskcluster/taskcluster/issues/9142) | `taskcluster/taskcluster` | ⭐ 430 |
-| 2026-09-09 | 🥇 | [[Good First Issue] 🎑 Add new Japanese Proverb 26 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30076) | `lingdojo/kana-dojo` | ⭐ 3.3k |
-| 2026-09-09 | 🥇 | [[Good First Issue] 🐉 Add new Japan Fact 241 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30074) | `lingdojo/kana-dojo` | ⭐ 3.3k |
