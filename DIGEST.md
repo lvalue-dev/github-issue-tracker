@@ -4,6 +4,54 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-12 | 🥇 | [[Good First Issue] 🗻 Add new Japanese Haiku 11 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30260) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-12 | 🥇 | [[Good First Issue] 🍵 Add new Japanese Proverb 17 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30259) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-12 | 🥇 | [Return a consistent result shape for unscored labels and reject non-string input](https://github.com/conorbronsdon/avoid-ai-writing/issues/234) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥇 | [Mark generated copies as linguist-generated in .gitattributes](https://github.com/conorbronsdon/avoid-ai-writing/issues/233) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥇 | [Test on Node 18 and a current LTS in the detector workflow](https://github.com/conorbronsdon/avoid-ai-writing/issues/232) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥇 | [Pin actions by SHA and add timeouts and concurrency to every workflow](https://github.com/conorbronsdon/avoid-ai-writing/issues/231) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥇 | [Check the package.json version in sync-plugin-skill.sh and drop its unused varia](https://github.com/conorbronsdon/avoid-ai-writing/issues/230) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥇 | [Add keywords, homepage, bugs, and author to package.json](https://github.com/conorbronsdon/avoid-ai-writing/issues/229) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥇 | [Say in the README which documented scripts need a clone rather than the npm pack](https://github.com/conorbronsdon/avoid-ai-writing/issues/228) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥇 | [Add development-setup and release-checklist sections to CONTRIBUTING.md](https://github.com/conorbronsdon/avoid-ai-writing/issues/227) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥇 | [Add a table of contents and live status badges to the README](https://github.com/conorbronsdon/avoid-ai-writing/issues/226) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥇 | [Document the --iterate convergence mode in the README](https://github.com/conorbronsdon/avoid-ai-writing/issues/225) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥇 | [Remove stale comments that name a missing npm script and a missing roadmap file](https://github.com/conorbronsdon/avoid-ai-writing/issues/224) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥇 | [Add PR-template checklist items for the sync scripts, self-scan, and SSOT gates](https://github.com/conorbronsdon/avoid-ai-writing/issues/223) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥇 | [Add an issue-template config.yml and refresh the stale version placeholder](https://github.com/conorbronsdon/avoid-ai-writing/issues/222) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥇 | [Add a check-style round-trip test for examples/prose.json](https://github.com/conorbronsdon/avoid-ai-writing/issues/221) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥇 | [Document the severity-to-P-tier mapping, including the undocumented P3](https://github.com/conorbronsdon/avoid-ai-writing/issues/220) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥇 | [State size limits for the paste-install targets in the README](https://github.com/conorbronsdon/avoid-ai-writing/issues/219) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥇 | [Finish the marks-pass rewrite in the generated Cursor and paste artifacts](https://github.com/conorbronsdon/avoid-ai-writing/issues/218) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥇 | [List the three unmapped catalog rules in CATEGORIES.md](https://github.com/conorbronsdon/avoid-ai-writing/issues/217) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥇 | [Align the Tier 3 density rule in patterns.md with the per-word engine threshold](https://github.com/conorbronsdon/avoid-ai-writing/issues/216) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥇 | [Give every word-table row a concrete alternative](https://github.com/conorbronsdon/avoid-ai-writing/issues/215) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥇 | [[Good First Issue] 🎌 Add new Theme: Shinto Portal - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30256) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-12 | 🥈 | [Add a glossary of the project's terms](https://github.com/conorbronsdon/avoid-ai-writing/issues/256) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥈 | [Add SECURITY.md, a code of conduct, and CODEOWNERS](https://github.com/conorbronsdon/avoid-ai-writing/issues/255) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥈 | [Add a scheduled check that the human-control corpus is still fetchable and uncha](https://github.com/conorbronsdon/avoid-ai-writing/issues/254) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥈 | [Give corpus fetch per-document progress and a bounded timeout](https://github.com/conorbronsdon/avoid-ai-writing/issues/253) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥈 | [Add machine-readable output to the gate CLI and the GitHub Action](https://github.com/conorbronsdon/avoid-ai-writing/issues/252) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥈 | [Make npm test run every suite and report a combined result](https://github.com/conorbronsdon/avoid-ai-writing/issues/251) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥈 | [Document how to contribute a non-English language adaptation](https://github.com/conorbronsdon/avoid-ai-writing/issues/250) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥈 | [Audit uncited "AI writes X / humans write Y" claims in the catalog](https://github.com/conorbronsdon/avoid-ai-writing/issues/249) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥈 | [Document the mapping between skill context profiles and detector contextMode](https://github.com/conorbronsdon/avoid-ai-writing/issues/248) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥈 | [Check every catalog heading against CATEGORIES.md in CI](https://github.com/conorbronsdon/avoid-ai-writing/issues/247) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥈 | [Stamp and validate a version in the six sub-skill frontmatters](https://github.com/conorbronsdon/avoid-ai-writing/issues/246) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥈 | [Resolve GUARD: documented as a typed edge, rejected by the connection validator](https://github.com/conorbronsdon/avoid-ai-writing/issues/245) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥈 | [Add --source-mode to the bundled ChatGPT/Codex detector script](https://github.com/conorbronsdon/avoid-ai-writing/issues/244) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥈 | [Pre-commit hook crashes whenever a project overrides options via args](https://github.com/conorbronsdon/avoid-ai-writing/issues/243) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥈 | [Add fixtures for the stylometric detector types and enforce fixture coverage in ](https://github.com/conorbronsdon/avoid-ai-writing/issues/242) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥈 | [Report unsegmented-script documents instead of scoring them "Too short"](https://github.com/conorbronsdon/avoid-ai-writing/issues/241) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥈 | [title-case-header misses headings that contain an acronym or a one-letter word](https://github.com/conorbronsdon/avoid-ai-writing/issues/240) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥈 | [Narrow or retire acknowledgment-loop: it fires on ordinary question framing](https://github.com/conorbronsdon/avoid-ai-writing/issues/239) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥈 | [Make the self-reference escape hatch executable: exempt quoted material from sco](https://github.com/conorbronsdon/avoid-ai-writing/issues/238) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥈 | [Honor the technical-blog word exceptions in contextMode technical](https://github.com/conorbronsdon/avoid-ai-writing/issues/237) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥈 | [Stop a ~~~ line inside a backtick fence from ending code protection in the valid](https://github.com/conorbronsdon/avoid-ai-writing/issues/236) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥈 | [[Bug]: IME composition breaks on macOS: first character bypasses composition and](https://github.com/nexu-io/open-design/issues/8083) | `nexu-io/open-design` | ⭐ 95.8k |
+| 2026-09-12 | 🥉 | [CHANGELOG.md sits at 35 of its 40-point self-scan budget because of three unquot](https://github.com/conorbronsdon/avoid-ai-writing/issues/258) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥉 | [Decide whether OPENAI_PLUGIN.md's "published 3.29.0" line is current or historic](https://github.com/conorbronsdon/avoid-ai-writing/issues/257) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥉 | [docs(fips): the MinIO FIPS images link points to the removed Docker Hub reposito](https://github.com/OpenCTI-Platform/opencti/issues/18242) | `OpenCTI-Platform/opencti` | ⭐ 10.0k |
 | 2026-09-12 | 🥇 | [[Good First Issue] 🍙 Add new Etiquette Tip 104 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30247) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-12 | 🥇 | [[Good First Issue] 🥢 Add new False Friend Pair 68 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30246) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-12 | 🥇 | [[Good First Issue] 🐙 Add new Anime Quote 80 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30239) | `lingdojo/kana-dojo` | ⭐ 3.4k |
@@ -56,51 +104,3 @@
 | 2026-09-11 | 🥇 | [Name references/patterns.md in pattern-count checks](https://github.com/conorbronsdon/avoid-ai-writing/issues/169) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
 | 2026-09-11 | 🥇 | [Refresh the PROOF self-scan snapshot and file attribution](https://github.com/conorbronsdon/avoid-ai-writing/issues/167) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
 | 2026-09-11 | 🥈 | [[blog] Announce mesheryctl-axi: the agent-friendly Meshery CLI](https://github.com/meshery/meshery.io/issues/2971) | `meshery/meshery.io` | ⭐ 854 |
-| 2026-09-11 | 🥈 | [[Good First Issue] 🍡 Add new Japanese Haiku 2 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30199) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-11 | 🥈 | [[Good First Issue] 🏮 Add new Japanese Proverb 83 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30198) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-11 | 🥈 | [[Good First Issue] 🦊 Add new Japan Fact 275 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30195) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-11 | 🥈 | [[Good First Issue] 🗾 Add new Theme: Peach Mochi - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30194) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-11 | 🥉 | [docs(tests): tests/README.md says root *.test.mjs files are run; a required chec](https://github.com/career-ops-hq/career-ops/issues/4097) | `career-ops-hq/career-ops` | ⭐ 71.3k |
-| 2026-09-11 | 🥉 | [docs: the test-naming rule describes 19% of tests/ and 54% of web/tests/](https://github.com/career-ops-hq/career-ops/issues/4091) | `career-ops-hq/career-ops` | ⭐ 71.3k |
-| 2026-09-11 | 🥇 | [[Good First Issue] 🏮 Add new Community Note Line #4 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30192) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-11 | 🥇 | [[Good First Issue] 🍵 Add new Wallpaper URL #3 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30191) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-11 | 🥇 | [Add a read-only detector CLI for files and stdin](https://github.com/conorbronsdon/avoid-ai-writing/issues/158) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-11 | 🥇 | [Add a structured issue form for proposing a writing pattern](https://github.com/conorbronsdon/avoid-ai-writing/issues/157) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-11 | 🥇 | [Docs: show how to install and import the published npm package](https://github.com/conorbronsdon/avoid-ai-writing/issues/156) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-11 | 🥇 | [Add unit tests for lib/permissions (role × permission matrix)](https://github.com/OpsiMate/OpsiMate/issues/927) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-11 | 🥇 | [Add unit tests for the useFilterPanel hook](https://github.com/OpsiMate/OpsiMate/issues/926) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-11 | 🥇 | [Add unit tests for IntegrationAvatar.utils (source resolution fallback chain)](https://github.com/OpsiMate/OpsiMate/issues/925) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-11 | 🥇 | [Add unit tests for lib/errorMapper](https://github.com/OpsiMate/OpsiMate/issues/924) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-11 | 🥇 | [Add unit tests for Dashboards.utils (storage, favourites, sort, filter)](https://github.com/OpsiMate/OpsiMate/issues/923) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-11 | 🥇 | [Add unit tests for profile.utils (getInitials, formatDate)](https://github.com/OpsiMate/OpsiMate/issues/922) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-11 | 🥇 | [Add unit tests for the TagKey column-id helpers](https://github.com/OpsiMate/OpsiMate/issues/921) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-11 | 🥇 | [Search banner text overlaps the alerts toolbar](https://github.com/OpsiMate/OpsiMate/issues/920) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-11 | 🥇 | [Alerts auto-refresh interval is a magic 5000](https://github.com/OpsiMate/OpsiMate/issues/919) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-11 | 🥇 | [Extract the copy-pasted clipboard handler into a useCopyToClipboard hook](https://github.com/OpsiMate/OpsiMate/issues/918) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-11 | 🥇 | [Role enum is declared three times — standardize on the shared export](https://github.com/OpsiMate/OpsiMate/issues/917) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-11 | 🥇 | [Page titles, category names, and Site Goals totals show HTML entity codes in the](https://github.com/google/site-kit-wp/issues/13537) | `google/site-kit-wp` | ⭐ 1.4k |
-| 2026-09-11 | 🥈 | [[Good First Issue] 🍣 Add new Learner Mistake 115 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30190) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-11 | 🥈 | [[Good First Issue] 🎴 Add new Example Sentence 42 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30188) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-11 | 🥈 | [Blog search results render post metadata as raw HTML, allowing XSS](https://github.com/meshery/meshery.io/issues/2968) | `meshery/meshery.io` | ⭐ 854 |
-| 2026-09-11 | 🥈 | [Templates are not available with the FTP connector, nor on local file storage](https://github.com/silexlabs/Silex/issues/1856) | `silexlabs/Silex` | ⭐ 3.0k |
-| 2026-09-11 | 🥈 | [Opening a template fails when the user is connected to another GitLab instance](https://github.com/silexlabs/Silex/issues/1855) | `silexlabs/Silex` | ⭐ 3.0k |
-| 2026-09-11 | 🥇 | [[Good First Issue] 🍱 Add new Video Game Quote 26 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30181) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-11 | 🥇 | [[Good First Issue] 🍚 Add new Anime Quote 14 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30180) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-11 | 🥇 | [[Good First Issue] 🥢 Add new Grammar Point 136 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30178) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-11 | 🥇 | [Three max-tokens defaults exceed MAX_MAX_TOKENS and cannot be restored after an ](https://github.com/nexu-io/open-design/issues/8048) | `nexu-io/open-design` | ⭐ 94.1k |
-| 2026-09-11 | 🥇 | [[Good First Issue] 🎎 Add new Japanese Haiku 10 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30174) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-11 | 🥇 | [[Good First Issue] 🥟 Add new Japanese Proverb 10 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30173) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-11 | 🥈 | [Window size/position silently reset by electron-window-state (hidden-window boun](https://github.com/super-productivity/super-productivity/issues/10058) | `super-productivity/super-productivity` | ⭐ 21.9k |
-| 2026-09-11 | 🥈 | [[Website] pages missing meta descriptions](https://github.com/meshery/meshery.io/issues/2967) | `meshery/meshery.io` | ⭐ 854 |
-| 2026-09-11 | 🥈 | [[UI] Fix responsive layout issue on iPad Air viewport](https://github.com/layer5io/layer5/issues/8042) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-11 | 🥈 | [[Website] Performance tests run metric is displayed as 0 on Meshery page](https://github.com/layer5io/layer5/issues/8041) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-11 | 🥉 | [AI: update provider notices text in product and docs](https://github.com/posit-dev/positron/issues/16051) | `posit-dev/positron` | ⭐ 4.3k |
-| 2026-09-11 | 🥉 | [Docs: split the user manual out of the README, and decide whether it gets a site](https://github.com/srg-kostyrko/obsidian-journal/issues/397) | `srg-kostyrko/obsidian-journal` | ⭐ 390 |
-| 2026-09-11 | 🥇 | [[Good First Issue] 🎑 Add new Learner Mistake 76 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30167) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-11 | 🥇 | [[Good First Issue] 🌸 Add new Example Sentence 95 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30166) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-11 | 🥇 | [[Good First Issue] 🍙 Add new Japanese Haiku 12 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30156) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-11 | 🥇 | [[Good First Issue] 🏮 Add new Japanese Proverb 145 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30155) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-11 | 🥇 | [💡Ability to Disable/Choose No Theme](https://github.com/code-charity/youtube/issues/4329) | `code-charity/youtube` | ⭐ 4.6k |
-| 2026-09-11 | 🥇 | [[Good First Issue] 🥟 Add new Japan Fact 190 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30152) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-11 | 🥇 | [Two source comments cite a git-ignored design document path](https://github.com/libredb/libredb-studio/issues/790) | `libredb/libredb-studio` | ⭐ 402 |
-| 2026-09-11 | 🥇 | [[Balance] Update No Retreat to match Champions change](https://github.com/pagefaultgames/pokerogue/issues/7672) | `pagefaultgames/pokerogue` | ⭐ 5.8k |
