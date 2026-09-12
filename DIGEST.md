@@ -4,6 +4,22 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-12 | 🥇 | [[Good First Issue] 🍤 Add new Japanese Haiku 10 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30231) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-12 | 🥇 | [[Good First Issue] 🍥 Add new Japanese Proverb 13 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30230) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-12 | 🥇 | [[Good First Issue] 🎌 Add new Theme: Cedar Moss - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30228) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-12 | 🥇 | [[Good First Issue] 🦊 Add new Community Note Line #3 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30226) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-12 | 🥇 | [[Good First Issue] 🍱 Add new Learner Mistake 81 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30224) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-12 | 🥇 | [[Good First Issue] 🐉 Add new Etiquette Tip 86 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30223) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-12 | 🥇 | [Store cart accepts fractional line-item quantity: 0.1 is stored as 0 and makes t](https://github.com/medusajs/medusa/issues/16802) | `medusajs/medusa` | ⭐ 36.2k |
+| 2026-09-12 | 🥇 | [[Good First Issue] 🍜 Add new False Friend Pair 46 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30222) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-12 | 🥇 | [[Good First Issue] 🍁 Add new Dialect Entry 6 - Beginner-Friendly Open-source Co](https://github.com/lingdojo/kana-dojo/issues/30221) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-12 | 🥇 | [Centre Loading Spinner in Loading Button](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/89330) | `SAPTARSHI-coder/EaseMotion-css` | ⭐ 255 |
+| 2026-09-12 | 🥈 | [`mark-pinned` broken?](https://github.com/refined-github/refined-github/issues/10081) | `refined-github/refined-github` | ⭐ 32.1k |
+| 2026-09-12 | 🥈 | [[Website] Fix inconsistent alignment of Project Mailing Lists cards](https://github.com/meshery/meshery.io/issues/2972) | `meshery/meshery.io` | ⭐ 854 |
+| 2026-09-12 | 🥈 | [createTrigger: support column-specific triggers (`UPDATE OF column, …`) with quo](https://github.com/salsita/node-pg-migrate/issues/1736) | `salsita/node-pg-migrate` | ⭐ 1.5k |
+| 2026-09-12 | 🥈 | [fix(ui): uneven heights and layout overflow in testimonial cards on `/pricing`](https://github.com/layer5io/layer5/issues/8045) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-12 | 🥉 | [Standardize Wi-Fi in prose and check name casing in review](https://github.com/meshtastic/meshtastic/issues/2687) | `meshtastic/meshtastic` | ⭐ 2.2k |
+| 2026-09-12 | 🥉 | [Contributor documentation section is out of date with the site](https://github.com/meshtastic/meshtastic/issues/2686) | `meshtastic/meshtastic` | ⭐ 2.2k |
 | 2026-09-12 | 🥇 | [feat: "jpg to ico" finds nothing even though the favicon tool makes ICO](https://github.com/snapotter-hq/SnapOtter/issues/1100) | `snapotter-hq/SnapOtter` | ⭐ 2.6k |
 | 2026-09-12 | 🥇 | [feat(audio): fill the conversion preset matrix; opus-to-* is missing entirely an](https://github.com/snapotter-hq/SnapOtter/issues/1099) | `snapotter-hq/SnapOtter` | ⭐ 2.6k |
 | 2026-09-12 | 🥇 | [Add a structured bug-report issue form](https://github.com/conorbronsdon/avoid-ai-writing/issues/188) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
@@ -88,19 +104,3 @@
 | 2026-09-11 | 🥇 | [[Good First Issue] 🎋 Add new False Friend Pair 16 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30144) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-11 | 🥇 | [[Good First Issue] 🍶 Add new Dialect Entry 120 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30143) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-11 | 🥇 | [[Good First Issue] 🌺 Add new Japanese Idiom 50 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30142) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-11 | 🥇 | [[Bug]: Inventory item measurements attributes do not allow floating point values](https://github.com/medusajs/medusa/issues/16784) | `medusajs/medusa` | ⭐ 36.2k |
-| 2026-09-11 | 🥇 | [[Good First Issue] 🎍 Add new Video Game Quote 102 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30141) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-11 | 🥇 | [[Good First Issue] ⛩️ Add new Anime Quote 135 - Beginner-Friendly Open-source Co](https://github.com/lingdojo/kana-dojo/issues/30140) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-10 | 🥇 | [Extract the hardcoded 'jwt' localStorage key into a named constant](https://github.com/OpsiMate/OpsiMate/issues/913) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-10 | 🥇 | [Duplicated getContrastColor helper using deprecated String.prototype.substr](https://github.com/OpsiMate/OpsiMate/issues/912) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-10 | 🥇 | [Remove the orphaned AlertsHeatmap folder (constants/types/utils with no componen](https://github.com/OpsiMate/OpsiMate/issues/911) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-10 | 🥇 | [Replace "user(s)" / "row(s)" copy with real pluralization](https://github.com/OpsiMate/OpsiMate/issues/910) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-10 | 🥇 | [Icon-only buttons in alert details and dashboard rows have no aria-label](https://github.com/OpsiMate/OpsiMate/issues/909) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-10 | 🥇 | [bcrypt cost factor is a magic 10 repeated four times](https://github.com/OpsiMate/OpsiMate/issues/908) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-10 | 🥇 | [Secrets controller logs under the wrong module name](https://github.com/OpsiMate/OpsiMate/issues/907) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-10 | 🥇 | [Fix Thumbnail.src hardcoded jpeg MIME type](https://github.com/xyz-tools/gcode-preview/issues/504) | `xyz-tools/gcode-preview` | ⭐ 202 |
-| 2026-09-10 | 🥇 | [[Good First Issue] 🎏 Add new Grammar Point 15 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30139) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-10 | 🥇 | [[Good First Issue] 🏮 Add new Trivia Question 71 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30138) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-10 | 🥇 | [[Good First Issue] 🌸 Add new Japanese Proverb 112 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30136) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-10 | 🥇 | [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/21956) | `PipedreamHQ/pipedream` | ⭐ 11.7k |
-| 2026-09-10 | 🥈 | [Remove duplicate and empty meta descriptions from production pages](https://github.com/meshery/meshery.io/issues/2964) | `meshery/meshery.io` | ⭐ 854 |

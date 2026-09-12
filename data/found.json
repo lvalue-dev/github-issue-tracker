@@ -1,5 +1,336 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30231",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30231,
+    "title": "[Good First Issue] 🍤 Add new Japanese Haiku 10 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30231",
+    "comments": 1,
+    "createdAt": "2026-09-12T09:01:06Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-12T09:28:40.205Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30230",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30230,
+    "title": "[Good First Issue] 🍥 Add new Japanese Proverb 13 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30230",
+    "comments": 1,
+    "createdAt": "2026-09-12T08:57:32Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-12T09:28:40.205Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30228",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30228,
+    "title": "[Good First Issue] 🎌 Add new Theme: Cedar Moss - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30228",
+    "comments": 1,
+    "createdAt": "2026-09-12T07:57:28Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-12T09:28:40.414Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30226",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30226,
+    "title": "[Good First Issue] 🦊 Add new Community Note Line #3 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30226",
+    "comments": 1,
+    "createdAt": "2026-09-12T07:01:03Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-12T09:28:40.576Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30224",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30224,
+    "title": "[Good First Issue] 🍱 Add new Learner Mistake 81 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30224",
+    "comments": 1,
+    "createdAt": "2026-09-12T06:01:10Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-12T09:28:40.931Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30223",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30223,
+    "title": "[Good First Issue] 🐉 Add new Etiquette Tip 86 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30223",
+    "comments": 1,
+    "createdAt": "2026-09-12T05:58:03Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-12T09:28:40.931Z"
+  },
+  {
+    "key": "medusajs/medusa#16802",
+    "tier": 1,
+    "repo": "medusajs/medusa",
+    "number": 16802,
+    "title": "Store cart accepts fractional line-item quantity: 0.1 is stored as 0 and makes the cart uncompletable",
+    "url": "https://github.com/medusajs/medusa/issues/16802",
+    "comments": 1,
+    "createdAt": "2026-09-12T05:15:48Z",
+    "labels": [
+      "good first issue",
+      "type: bug"
+    ],
+    "language": "typescript",
+    "stars": 36246,
+    "foundAt": "2026-09-12T09:28:41.083Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30222",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30222,
+    "title": "[Good First Issue] 🍜 Add new False Friend Pair 46 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30222",
+    "comments": 1,
+    "createdAt": "2026-09-12T05:01:02Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-12T09:28:41.083Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30221",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30221,
+    "title": "[Good First Issue] 🍁 Add new Dialect Entry 6 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30221",
+    "comments": 1,
+    "createdAt": "2026-09-12T04:57:33Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-12T09:28:41.083Z"
+  },
+  {
+    "key": "SAPTARSHI-coder/EaseMotion-css#89330",
+    "tier": 1,
+    "repo": "SAPTARSHI-coder/EaseMotion-css",
+    "number": 89330,
+    "title": "Centre Loading Spinner in Loading Button",
+    "url": "https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/89330",
+    "comments": 3,
+    "createdAt": "2026-09-11T06:05:06Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "good first issue",
+      "GSSoC-26",
+      "gssoc:approved",
+      "level:intermediate"
+    ],
+    "language": "css",
+    "stars": 255,
+    "foundAt": "2026-09-12T09:28:41.436Z"
+  },
+  {
+    "key": "refined-github/refined-github#10081",
+    "tier": 2,
+    "repo": "refined-github/refined-github",
+    "number": 10081,
+    "title": "`mark-pinned` broken?",
+    "url": "https://github.com/refined-github/refined-github/issues/10081",
+    "comments": 0,
+    "createdAt": "2026-09-12T09:18:17Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "small"
+    ],
+    "language": "typescript",
+    "stars": 32112,
+    "foundAt": "2026-09-12T09:28:41.597Z"
+  },
+  {
+    "key": "meshery/meshery.io#2972",
+    "tier": 2,
+    "repo": "meshery/meshery.io",
+    "number": 2972,
+    "title": "[Website] Fix inconsistent alignment of Project Mailing Lists cards",
+    "url": "https://github.com/meshery/meshery.io/issues/2972",
+    "comments": 1,
+    "createdAt": "2026-09-12T08:58:38Z",
+    "labels": [
+      "help wanted",
+      "language/javascript",
+      "framework/jekyll",
+      "language/markdown",
+      "area/website",
+      "language/css"
+    ],
+    "language": "javascript",
+    "stars": 854,
+    "foundAt": "2026-09-12T09:28:42.155Z"
+  },
+  {
+    "key": "salsita/node-pg-migrate#1736",
+    "tier": 2,
+    "repo": "salsita/node-pg-migrate",
+    "number": 1736,
+    "title": "createTrigger: support column-specific triggers (`UPDATE OF column, …`) with quoted column names",
+    "url": "https://github.com/salsita/node-pg-migrate/issues/1736",
+    "comments": 0,
+    "createdAt": "2026-09-12T08:35:27Z",
+    "labels": [
+      "c: feature",
+      "has workaround",
+      "help wanted",
+      "p: 1-normal"
+    ],
+    "language": "typescript",
+    "stars": 1482,
+    "foundAt": "2026-09-12T09:28:41.806Z"
+  },
+  {
+    "key": "layer5io/layer5#8045",
+    "tier": 2,
+    "repo": "layer5io/layer5",
+    "number": 8045,
+    "title": "fix(ui): uneven heights and layout overflow in testimonial cards on `/pricing`",
+    "url": "https://github.com/layer5io/layer5/issues/8045",
+    "comments": 1,
+    "createdAt": "2026-09-12T07:45:58Z",
+    "labels": [
+      "kind/bug",
+      "help wanted",
+      "framework/gatsby"
+    ],
+    "language": "javascript",
+    "stars": 1121,
+    "foundAt": "2026-09-12T09:28:42.155Z"
+  },
+  {
+    "key": "meshtastic/meshtastic#2687",
+    "tier": 3,
+    "repo": "meshtastic/meshtastic",
+    "number": 2687,
+    "title": "Standardize Wi-Fi in prose and check name casing in review",
+    "url": "https://github.com/meshtastic/meshtastic/issues/2687",
+    "comments": 0,
+    "createdAt": "2026-09-12T06:21:22Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "mdx",
+    "stars": 2163,
+    "foundAt": "2026-09-12T09:28:45.842Z"
+  },
+  {
+    "key": "meshtastic/meshtastic#2686",
+    "tier": 3,
+    "repo": "meshtastic/meshtastic",
+    "number": 2686,
+    "title": "Contributor documentation section is out of date with the site",
+    "url": "https://github.com/meshtastic/meshtastic/issues/2686",
+    "comments": 0,
+    "createdAt": "2026-09-12T06:21:21Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "mdx",
+    "stars": 2163,
+    "foundAt": "2026-09-12T09:28:45.842Z"
+  },
+  {
     "key": "snapotter-hq/SnapOtter#1100",
     "tier": 1,
     "repo": "snapotter-hq/SnapOtter",
@@ -1668,321 +1999,5 @@
     "language": "typescript",
     "stars": 3350,
     "foundAt": "2026-09-11T00:16:50.363Z"
-  },
-  {
-    "key": "medusajs/medusa#16784",
-    "tier": 1,
-    "repo": "medusajs/medusa",
-    "number": 16784,
-    "title": "[Bug]: Inventory item measurements attributes do not allow floating point values",
-    "url": "https://github.com/medusajs/medusa/issues/16784",
-    "comments": 2,
-    "createdAt": "2026-09-10T22:36:30Z",
-    "labels": [
-      "good first issue",
-      "type: bug",
-      "status: needs triaging",
-      "version: 2.0"
-    ],
-    "language": "typescript",
-    "stars": 36246,
-    "foundAt": "2026-09-11T00:16:50.622Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30141",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30141,
-    "title": "[Good First Issue] 🎍 Add new Video Game Quote 102 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30141",
-    "comments": 1,
-    "createdAt": "2026-09-10T22:01:06Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-11T00:16:51.177Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30140",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30140,
-    "title": "[Good First Issue] ⛩️ Add new Anime Quote 135 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30140",
-    "comments": 1,
-    "createdAt": "2026-09-10T21:57:28Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-11T00:16:51.177Z"
-  },
-  {
-    "key": "OpsiMate/OpsiMate#913",
-    "tier": 1,
-    "repo": "OpsiMate/OpsiMate",
-    "number": 913,
-    "title": "Extract the hardcoded 'jwt' localStorage key into a named constant",
-    "url": "https://github.com/OpsiMate/OpsiMate/issues/913",
-    "comments": 0,
-    "createdAt": "2026-09-10T21:25:15Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "UI",
-      "Server"
-    ],
-    "language": "typescript",
-    "stars": 211,
-    "foundAt": "2026-09-10T21:43:17.019Z"
-  },
-  {
-    "key": "OpsiMate/OpsiMate#912",
-    "tier": 1,
-    "repo": "OpsiMate/OpsiMate",
-    "number": 912,
-    "title": "Duplicated getContrastColor helper using deprecated String.prototype.substr",
-    "url": "https://github.com/OpsiMate/OpsiMate/issues/912",
-    "comments": 0,
-    "createdAt": "2026-09-10T21:25:14Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "UI"
-    ],
-    "language": "typescript",
-    "stars": 211,
-    "foundAt": "2026-09-10T21:43:17.019Z"
-  },
-  {
-    "key": "OpsiMate/OpsiMate#911",
-    "tier": 1,
-    "repo": "OpsiMate/OpsiMate",
-    "number": 911,
-    "title": "Remove the orphaned AlertsHeatmap folder (constants/types/utils with no component)",
-    "url": "https://github.com/OpsiMate/OpsiMate/issues/911",
-    "comments": 0,
-    "createdAt": "2026-09-10T21:25:12Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "UI"
-    ],
-    "language": "typescript",
-    "stars": 211,
-    "foundAt": "2026-09-10T21:43:17.019Z"
-  },
-  {
-    "key": "OpsiMate/OpsiMate#910",
-    "tier": 1,
-    "repo": "OpsiMate/OpsiMate",
-    "number": 910,
-    "title": "Replace \"user(s)\" / \"row(s)\" copy with real pluralization",
-    "url": "https://github.com/OpsiMate/OpsiMate/issues/910",
-    "comments": 0,
-    "createdAt": "2026-09-10T21:24:51Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "UI"
-    ],
-    "language": "typescript",
-    "stars": 211,
-    "foundAt": "2026-09-10T21:43:17.019Z"
-  },
-  {
-    "key": "OpsiMate/OpsiMate#909",
-    "tier": 1,
-    "repo": "OpsiMate/OpsiMate",
-    "number": 909,
-    "title": "Icon-only buttons in alert details and dashboard rows have no aria-label",
-    "url": "https://github.com/OpsiMate/OpsiMate/issues/909",
-    "comments": 0,
-    "createdAt": "2026-09-10T21:24:50Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "UI"
-    ],
-    "language": "typescript",
-    "stars": 211,
-    "foundAt": "2026-09-10T21:43:17.019Z"
-  },
-  {
-    "key": "OpsiMate/OpsiMate#908",
-    "tier": 1,
-    "repo": "OpsiMate/OpsiMate",
-    "number": 908,
-    "title": "bcrypt cost factor is a magic 10 repeated four times",
-    "url": "https://github.com/OpsiMate/OpsiMate/issues/908",
-    "comments": 0,
-    "createdAt": "2026-09-10T21:24:48Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "Server"
-    ],
-    "language": "typescript",
-    "stars": 211,
-    "foundAt": "2026-09-10T21:43:17.019Z"
-  },
-  {
-    "key": "OpsiMate/OpsiMate#907",
-    "tier": 1,
-    "repo": "OpsiMate/OpsiMate",
-    "number": 907,
-    "title": "Secrets controller logs under the wrong module name",
-    "url": "https://github.com/OpsiMate/OpsiMate/issues/907",
-    "comments": 0,
-    "createdAt": "2026-09-10T21:24:47Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "Server"
-    ],
-    "language": "typescript",
-    "stars": 211,
-    "foundAt": "2026-09-10T21:43:17.019Z"
-  },
-  {
-    "key": "xyz-tools/gcode-preview#504",
-    "tier": 1,
-    "repo": "xyz-tools/gcode-preview",
-    "number": 504,
-    "title": "Fix Thumbnail.src hardcoded jpeg MIME type",
-    "url": "https://github.com/xyz-tools/gcode-preview/issues/504",
-    "comments": 0,
-    "createdAt": "2026-09-10T21:02:20Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "3.1+",
-      "parser"
-    ],
-    "language": "typescript",
-    "stars": 202,
-    "foundAt": "2026-09-10T21:43:17.837Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30139",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30139,
-    "title": "[Good First Issue] 🎏 Add new Grammar Point 15 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30139",
-    "comments": 1,
-    "createdAt": "2026-09-10T21:01:02Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-10T21:43:17.837Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30138",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30138,
-    "title": "[Good First Issue] 🏮 Add new Trivia Question 71 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30138",
-    "comments": 1,
-    "createdAt": "2026-09-10T20:57:34Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-10T21:43:17.837Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30136",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30136,
-    "title": "[Good First Issue] 🌸 Add new Japanese Proverb 112 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30136",
-    "comments": 1,
-    "createdAt": "2026-09-10T20:01:07Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-10T21:43:17.837Z"
-  },
-  {
-    "key": "PipedreamHQ/pipedream#21956",
-    "tier": 1,
-    "repo": "PipedreamHQ/pipedream",
-    "number": 21956,
-    "title": "[TRIGGER]",
-    "url": "https://github.com/PipedreamHQ/pipedream/issues/21956",
-    "comments": 1,
-    "createdAt": "2026-09-10T19:23:07Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "trigger / source"
-    ],
-    "language": "javascript",
-    "stars": 11684,
-    "foundAt": "2026-09-10T21:43:18.879Z"
-  },
-  {
-    "key": "meshery/meshery.io#2964",
-    "tier": 2,
-    "repo": "meshery/meshery.io",
-    "number": 2964,
-    "title": "Remove duplicate and empty meta descriptions from production pages",
-    "url": "https://github.com/meshery/meshery.io/issues/2964",
-    "comments": 1,
-    "createdAt": "2026-09-10T21:09:14Z",
-    "labels": [
-      "kind/bug",
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 854,
-    "foundAt": "2026-09-10T21:43:20.318Z"
   }
 ]
