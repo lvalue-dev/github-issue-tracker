@@ -1,5 +1,170 @@
 [
   {
+    "key": "traceroot-ai/traceroot#2175",
+    "tier": 1,
+    "repo": "traceroot-ai/traceroot",
+    "number": 2175,
+    "title": "BYOK model dropdowns offer models the provider has retired",
+    "url": "https://github.com/traceroot-ai/traceroot/issues/2175",
+    "comments": 0,
+    "createdAt": "2026-09-12T22:06:54Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 765,
+    "foundAt": "2026-09-12T22:25:06.019Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30274",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30274,
+    "title": "[Good First Issue] 🍘 Add new Learner Mistake 112 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30274",
+    "comments": 1,
+    "createdAt": "2026-09-12T22:01:05Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-12T22:25:06.185Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30272",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30272,
+    "title": "[Good First Issue] 🐉 Add new Example Sentence 58 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30272",
+    "comments": 1,
+    "createdAt": "2026-09-12T21:57:32Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-12T22:25:06.185Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30270",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30270,
+    "title": "[Good First Issue] 🥟 Add new False Friend Pair 43 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30270",
+    "comments": 1,
+    "createdAt": "2026-09-12T20:57:31Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-12T22:25:06.729Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30267",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30267,
+    "title": "[Good First Issue] 🦊 Add new Dialect Entry 6 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30267",
+    "comments": 1,
+    "createdAt": "2026-09-12T20:01:01Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-12T22:25:06.729Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30266",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30266,
+    "title": "[Good First Issue] 🎴 Add new Japanese Idiom 98 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30266",
+    "comments": 1,
+    "createdAt": "2026-09-12T19:57:31Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-12T22:25:06.729Z"
+  },
+  {
+    "key": "stumpapp/stump#1414",
+    "tier": 3,
+    "repo": "stumpapp/stump",
+    "number": 1414,
+    "title": "[FEATURE] Generate a config JSON schema with releases",
+    "url": "https://github.com/stumpapp/stump/issues/1414",
+    "comments": 0,
+    "createdAt": "2026-09-12T22:24:29Z",
+    "labels": [
+      "documentation",
+      "enhancement"
+    ],
+    "language": "typescript",
+    "stars": 2692,
+    "foundAt": "2026-09-12T22:25:08.493Z"
+  },
+  {
+    "key": "career-ops-hq/career-ops#4124",
+    "tier": 3,
+    "repo": "career-ops-hq/career-ops",
+    "number": 4124,
+    "title": "docs(modes): the Hired Wall ask is documented only in AGENTS.md — modes/outcome.md, the doc for the moment a hire is recorded, never points at it",
+    "url": "https://github.com/career-ops-hq/career-ops/issues/4124",
+    "comments": 0,
+    "createdAt": "2026-09-12T21:34:48Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "javascript",
+    "stars": 71286,
+    "foundAt": "2026-09-12T22:25:10.775Z"
+  },
+  {
     "key": "conorbronsdon/avoid-ai-writing#270",
     "tier": 1,
     "repo": "conorbronsdon/avoid-ai-writing",
@@ -1768,164 +1933,5 @@
     "language": "javascript",
     "stars": 471,
     "foundAt": "2026-09-12T04:51:55.438Z"
-  },
-  {
-    "key": "stdlib-js/stdlib#15176",
-    "tier": 1,
-    "repo": "stdlib-js/stdlib",
-    "number": 15176,
-    "title": "Fix JavaScript lint errors",
-    "url": "https://github.com/stdlib-js/stdlib/issues/15176",
-    "comments": 1,
-    "createdAt": "2026-09-12T00:15:07Z",
-    "labels": [
-      "Good First Issue"
-    ],
-    "language": "javascript",
-    "stars": 5957,
-    "foundAt": "2026-09-12T00:24:22.363Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30211",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30211,
-    "title": "[Good First Issue] 🐉 Add new Learner Mistake 111 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30211",
-    "comments": 1,
-    "createdAt": "2026-09-12T00:01:42Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-12T00:24:19.631Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30210",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30210,
-    "title": "[Good First Issue] 🧧 Add new Example Sentence 71 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30210",
-    "comments": 1,
-    "createdAt": "2026-09-11T23:57:35Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-12T00:24:19.631Z"
-  },
-  {
-    "key": "MarSeventh/CloudFlare-ImgBed#718",
-    "tier": 2,
-    "repo": "MarSeventh/CloudFlare-ImgBed",
-    "number": 718,
-    "title": "[Help Wanted]怎么修改telegram的上传大小呢？默认10MB",
-    "url": "https://github.com/MarSeventh/CloudFlare-ImgBed/issues/718",
-    "comments": 0,
-    "createdAt": "2026-09-11T22:36:51Z",
-    "labels": [
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 6462,
-    "foundAt": "2026-09-12T00:24:23.620Z"
-  },
-  {
-    "key": "KeepSoftwareSimple/compass-calendar#3664",
-    "tier": 3,
-    "repo": "KeepSoftwareSimple/compass-calendar",
-    "number": 3664,
-    "title": "live-provider-smoke is green when every provider is skipped",
-    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3664",
-    "comments": 0,
-    "createdAt": "2026-09-11T23:32:53Z",
-    "labels": [
-      "scripts",
-      "docs"
-    ],
-    "language": "typescript",
-    "stars": 228,
-    "foundAt": "2026-09-12T00:24:24.725Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30202",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30202,
-    "title": "[Good First Issue] 🥢 Add new Grammar Point 59 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30202",
-    "comments": 1,
-    "createdAt": "2026-09-11T21:01:01Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-11T21:48:15.768Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30201",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30201,
-    "title": "[Good First Issue] 🏮 Add new Trivia Question 66 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30201",
-    "comments": 1,
-    "createdAt": "2026-09-11T20:57:34Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-11T21:48:15.768Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#173",
-    "tier": 1,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 173,
-    "title": "Align contextMode comments and category docs with runtime behavior",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/173",
-    "comments": 0,
-    "createdAt": "2026-09-11T20:02:38Z",
-    "labels": [
-      "documentation",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-11T21:48:16.370Z"
   }
 ]

@@ -4,6 +4,14 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-12 | 🥇 | [BYOK model dropdowns offer models the provider has retired](https://github.com/traceroot-ai/traceroot/issues/2175) | `traceroot-ai/traceroot` | ⭐ 765 |
+| 2026-09-12 | 🥇 | [[Good First Issue] 🍘 Add new Learner Mistake 112 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30274) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-12 | 🥇 | [[Good First Issue] 🐉 Add new Example Sentence 58 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30272) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-12 | 🥇 | [[Good First Issue] 🥟 Add new False Friend Pair 43 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30270) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-12 | 🥇 | [[Good First Issue] 🦊 Add new Dialect Entry 6 - Beginner-Friendly Open-source Co](https://github.com/lingdojo/kana-dojo/issues/30267) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-12 | 🥇 | [[Good First Issue] 🎴 Add new Japanese Idiom 98 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30266) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-12 | 🥉 | [[FEATURE] Generate a config JSON schema with releases](https://github.com/stumpapp/stump/issues/1414) | `stumpapp/stump` | ⭐ 2.7k |
+| 2026-09-12 | 🥉 | [docs(modes): the Hired Wall ask is documented only in AGENTS.md — modes/outcome.](https://github.com/career-ops-hq/career-ops/issues/4124) | `career-ops-hq/career-ops` | ⭐ 71.3k |
 | 2026-09-12 | 🥇 | [Flaky: #260 punctuation-prefix scaling test measures below timer noise](https://github.com/conorbronsdon/avoid-ai-writing/issues/270) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
 | 2026-09-12 | 🥇 | [[Good First Issue] 🎏 Add new Video Game Quote 60 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30265) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-12 | 🥇 | [[Good First Issue] 🏯 Add new Anime Quote 90 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30264) | `lingdojo/kana-dojo` | ⭐ 3.4k |
@@ -96,11 +104,3 @@
 | 2026-09-12 | 🥈 | [[Good First Issue] 🌺 Add new Community Note Line #2 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30212) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-12 | 🥉 | [fix: 17 of the 23 supported camera RAW formats can't be selected in the UI, incl](https://github.com/snapotter-hq/SnapOtter/issues/1095) | `snapotter-hq/SnapOtter` | ⭐ 2.6k |
 | 2026-09-12 | 🥉 | [[Refactor, Composite] Modernize the stack, migrate to adamant-api v3, drop Lisk,](https://github.com/Adamant-im/adamant-exchangebot/issues/55) | `Adamant-im/adamant-exchangebot` | ⭐ 471 |
-| 2026-09-12 | 🥇 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15176) | `stdlib-js/stdlib` | ⭐ 6.0k |
-| 2026-09-12 | 🥇 | [[Good First Issue] 🐉 Add new Learner Mistake 111 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30211) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-12 | 🥇 | [[Good First Issue] 🧧 Add new Example Sentence 71 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30210) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-12 | 🥈 | [[Help Wanted]怎么修改telegram的上传大小呢？默认10MB](https://github.com/MarSeventh/CloudFlare-ImgBed/issues/718) | `MarSeventh/CloudFlare-ImgBed` | ⭐ 6.5k |
-| 2026-09-12 | 🥉 | [live-provider-smoke is green when every provider is skipped](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3664) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
-| 2026-09-11 | 🥇 | [[Good First Issue] 🥢 Add new Grammar Point 59 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30202) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-11 | 🥇 | [[Good First Issue] 🏮 Add new Trivia Question 66 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30201) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-11 | 🥇 | [Align contextMode comments and category docs with runtime behavior](https://github.com/conorbronsdon/avoid-ai-writing/issues/173) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
