@@ -4,6 +4,11 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-12 | 🥇 | [Flaky: #260 punctuation-prefix scaling test measures below timer noise](https://github.com/conorbronsdon/avoid-ai-writing/issues/270) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥇 | [[Good First Issue] 🎏 Add new Video Game Quote 60 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30265) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-12 | 🥇 | [[Good First Issue] 🏯 Add new Anime Quote 90 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30264) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-12 | 🥇 | [Report top detection categories for chunked self-scan files](https://github.com/conorbronsdon/avoid-ai-writing/issues/264) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥈 | [feat: Clicking a relative file path in agent output should open it in the change](https://github.com/ColeMurray/background-agents/issues/1875) | `ColeMurray/background-agents` | ⭐ 3.0k |
 | 2026-09-12 | 🥇 | [[Good First Issue] 🗻 Add new Japanese Haiku 11 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30260) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-12 | 🥇 | [[Good First Issue] 🍵 Add new Japanese Proverb 17 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30259) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-12 | 🥇 | [Return a consistent result shape for unscored labels and reject non-string input](https://github.com/conorbronsdon/avoid-ai-writing/issues/234) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
@@ -99,8 +104,3 @@
 | 2026-09-11 | 🥇 | [[Good First Issue] 🥢 Add new Grammar Point 59 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30202) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-11 | 🥇 | [[Good First Issue] 🏮 Add new Trivia Question 66 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30201) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-11 | 🥇 | [Align contextMode comments and category docs with runtime behavior](https://github.com/conorbronsdon/avoid-ai-writing/issues/173) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-11 | 🥇 | [Correct the v3.22 corpus label and weight attribution](https://github.com/conorbronsdon/avoid-ai-writing/issues/171) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-11 | 🥇 | [Document required pattern-count updates for rule changes](https://github.com/conorbronsdon/avoid-ai-writing/issues/170) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-11 | 🥇 | [Name references/patterns.md in pattern-count checks](https://github.com/conorbronsdon/avoid-ai-writing/issues/169) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-11 | 🥇 | [Refresh the PROOF self-scan snapshot and file attribution](https://github.com/conorbronsdon/avoid-ai-writing/issues/167) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-11 | 🥈 | [[blog] Announce mesheryctl-axi: the agent-friendly Meshery CLI](https://github.com/meshery/meshery.io/issues/2971) | `meshery/meshery.io` | ⭐ 854 |

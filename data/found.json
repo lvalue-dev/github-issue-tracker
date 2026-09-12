@@ -1,5 +1,105 @@
 [
   {
+    "key": "conorbronsdon/avoid-ai-writing#270",
+    "tier": 1,
+    "repo": "conorbronsdon/avoid-ai-writing",
+    "number": 270,
+    "title": "Flaky: #260 punctuation-prefix scaling test measures below timer noise",
+    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/270",
+    "comments": 0,
+    "createdAt": "2026-09-12T19:23:26Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "good first issue"
+    ],
+    "language": "javascript",
+    "stars": 4304,
+    "foundAt": "2026-09-12T19:29:47.470Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30265",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30265,
+    "title": "[Good First Issue] 🎏 Add new Video Game Quote 60 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30265",
+    "comments": 1,
+    "createdAt": "2026-09-12T19:01:02Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-12T19:29:47.269Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30264",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30264,
+    "title": "[Good First Issue] 🏯 Add new Anime Quote 90 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30264",
+    "comments": 1,
+    "createdAt": "2026-09-12T18:57:24Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-12T19:29:47.270Z"
+  },
+  {
+    "key": "conorbronsdon/avoid-ai-writing#264",
+    "tier": 1,
+    "repo": "conorbronsdon/avoid-ai-writing",
+    "number": 264,
+    "title": "Report top detection categories for chunked self-scan files",
+    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/264",
+    "comments": 0,
+    "createdAt": "2026-09-12T17:52:33Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "good first issue"
+    ],
+    "language": "javascript",
+    "stars": 4304,
+    "foundAt": "2026-09-12T19:29:47.470Z"
+  },
+  {
+    "key": "ColeMurray/background-agents#1875",
+    "tier": 2,
+    "repo": "ColeMurray/background-agents",
+    "number": 1875,
+    "title": "feat: Clicking a relative file path in agent output should open it in the changes panel",
+    "url": "https://github.com/ColeMurray/background-agents/issues/1875",
+    "comments": 0,
+    "createdAt": "2026-09-12T17:52:05Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 2971,
+    "foundAt": "2026-09-12T19:29:49.153Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30260",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1827,94 +1927,5 @@
     "language": "javascript",
     "stars": 4304,
     "foundAt": "2026-09-11T21:48:16.370Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#171",
-    "tier": 1,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 171,
-    "title": "Correct the v3.22 corpus label and weight attribution",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/171",
-    "comments": 0,
-    "createdAt": "2026-09-11T20:02:25Z",
-    "labels": [
-      "documentation",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-11T21:48:16.371Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#170",
-    "tier": 1,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 170,
-    "title": "Document required pattern-count updates for rule changes",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/170",
-    "comments": 0,
-    "createdAt": "2026-09-11T20:02:20Z",
-    "labels": [
-      "documentation",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-11T21:48:16.371Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#169",
-    "tier": 1,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 169,
-    "title": "Name references/patterns.md in pattern-count checks",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/169",
-    "comments": 0,
-    "createdAt": "2026-09-11T20:02:14Z",
-    "labels": [
-      "documentation",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-11T21:48:16.371Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#167",
-    "tier": 1,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 167,
-    "title": "Refresh the PROOF self-scan snapshot and file attribution",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/167",
-    "comments": 0,
-    "createdAt": "2026-09-11T20:02:03Z",
-    "labels": [
-      "documentation",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-11T21:48:16.371Z"
-  },
-  {
-    "key": "meshery/meshery.io#2971",
-    "tier": 2,
-    "repo": "meshery/meshery.io",
-    "number": 2971,
-    "title": "[blog] Announce mesheryctl-axi: the agent-friendly Meshery CLI",
-    "url": "https://github.com/meshery/meshery.io/issues/2971",
-    "comments": 0,
-    "createdAt": "2026-09-11T21:47:06Z",
-    "labels": [
-      "help wanted",
-      "area/blog"
-    ],
-    "language": "javascript",
-    "stars": 854,
-    "foundAt": "2026-09-11T21:48:17.375Z"
   }
 ]
