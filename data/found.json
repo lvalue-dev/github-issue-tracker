@@ -1,5 +1,100 @@
 [
   {
+    "key": "stdlib-js/stdlib#15176",
+    "tier": 1,
+    "repo": "stdlib-js/stdlib",
+    "number": 15176,
+    "title": "Fix JavaScript lint errors",
+    "url": "https://github.com/stdlib-js/stdlib/issues/15176",
+    "comments": 1,
+    "createdAt": "2026-09-12T00:15:07Z",
+    "labels": [
+      "Good First Issue"
+    ],
+    "language": "javascript",
+    "stars": 5957,
+    "foundAt": "2026-09-12T00:24:22.363Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30211",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30211,
+    "title": "[Good First Issue] 🐉 Add new Learner Mistake 111 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30211",
+    "comments": 1,
+    "createdAt": "2026-09-12T00:01:42Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-12T00:24:19.631Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30210",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30210,
+    "title": "[Good First Issue] 🧧 Add new Example Sentence 71 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30210",
+    "comments": 1,
+    "createdAt": "2026-09-11T23:57:35Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-12T00:24:19.631Z"
+  },
+  {
+    "key": "MarSeventh/CloudFlare-ImgBed#718",
+    "tier": 2,
+    "repo": "MarSeventh/CloudFlare-ImgBed",
+    "number": 718,
+    "title": "[Help Wanted]怎么修改telegram的上传大小呢？默认10MB",
+    "url": "https://github.com/MarSeventh/CloudFlare-ImgBed/issues/718",
+    "comments": 0,
+    "createdAt": "2026-09-11T22:36:51Z",
+    "labels": [
+      "help wanted"
+    ],
+    "language": "javascript",
+    "stars": 6462,
+    "foundAt": "2026-09-12T00:24:23.620Z"
+  },
+  {
+    "key": "KeepSoftwareSimple/compass-calendar#3664",
+    "tier": 3,
+    "repo": "KeepSoftwareSimple/compass-calendar",
+    "number": 3664,
+    "title": "live-provider-smoke is green when every provider is skipped",
+    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3664",
+    "comments": 0,
+    "createdAt": "2026-09-11T23:32:53Z",
+    "labels": [
+      "scripts",
+      "docs"
+    ],
+    "language": "typescript",
+    "stars": 228,
+    "foundAt": "2026-09-12T00:24:24.725Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30202",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1895,110 +1990,5 @@
     "language": "typescript",
     "stars": 3350,
     "foundAt": "2026-09-10T18:35:22.961Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30121",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30121,
-    "title": "[Good First Issue] 🎏 Add new Video Game Quote 44 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30121",
-    "comments": 1,
-    "createdAt": "2026-09-10T14:57:34Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-10T18:35:22.961Z"
-  },
-  {
-    "key": "firefox-devtools/profiler#6310",
-    "tier": 3,
-    "repo": "firefox-devtools/profiler",
-    "number": 6310,
-    "title": "Add a section for about:logging in our user docs",
-    "url": "https://github.com/firefox-devtools/profiler/issues/6310",
-    "comments": 0,
-    "createdAt": "2026-09-10T18:09:29Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "typescript",
-    "stars": 1529,
-    "foundAt": "2026-09-10T18:35:26.553Z"
-  },
-  {
-    "key": "akii09/pdfx#189",
-    "tier": 3,
-    "repo": "akii09/pdfx",
-    "number": 189,
-    "title": "[bug/docs] `block add invoice` fails – \"invoice\" block not found in registry",
-    "url": "https://github.com/akii09/pdfx/issues/189",
-    "comments": 0,
-    "createdAt": "2026-09-10T17:51:22Z",
-    "labels": [
-      "bug",
-      "documentation",
-      "cli",
-      "registry",
-      "blocks"
-    ],
-    "language": "typescript",
-    "stars": 1178,
-    "foundAt": "2026-09-10T18:35:27.834Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30120",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30120,
-    "title": "[Good First Issue] 🏯 Add new Anime Quote 1 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30120",
-    "comments": 1,
-    "createdAt": "2026-09-10T14:01:06Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-10T14:32:15.298Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30119",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30119,
-    "title": "[Good First Issue] 🍢 Add new Grammar Point 54 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30119",
-    "comments": 1,
-    "createdAt": "2026-09-10T13:57:32Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-10T14:32:15.298Z"
   }
 ]

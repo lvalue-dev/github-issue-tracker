@@ -4,6 +4,11 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-12 | 🥇 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15176) | `stdlib-js/stdlib` | ⭐ 6.0k |
+| 2026-09-12 | 🥇 | [[Good First Issue] 🐉 Add new Learner Mistake 111 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30211) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-12 | 🥇 | [[Good First Issue] 🧧 Add new Example Sentence 71 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30210) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-12 | 🥈 | [[Help Wanted]怎么修改telegram的上传大小呢？默认10MB](https://github.com/MarSeventh/CloudFlare-ImgBed/issues/718) | `MarSeventh/CloudFlare-ImgBed` | ⭐ 6.5k |
+| 2026-09-12 | 🥉 | [live-provider-smoke is green when every provider is skipped](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3664) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
 | 2026-09-11 | 🥇 | [[Good First Issue] 🥢 Add new Grammar Point 59 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30202) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-11 | 🥇 | [[Good First Issue] 🏮 Add new Trivia Question 66 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30201) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-11 | 🥇 | [Align contextMode comments and category docs with runtime behavior](https://github.com/conorbronsdon/avoid-ai-writing/issues/173) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
@@ -99,8 +104,3 @@
 | 2026-09-10 | 🥈 | [[UI Migration] SiteFooter](https://github.com/ONEARMY/community-platform/issues/4883) | `ONEARMY/community-platform` | ⭐ 1.4k |
 | 2026-09-10 | 🥈 | [[UI Migration] MoreContainer](https://github.com/ONEARMY/community-platform/issues/4882) | `ONEARMY/community-platform` | ⭐ 1.4k |
 | 2026-09-10 | 🥈 | [[Good First Issue] 🌸 Add new Japanese Idiom 11 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30122) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-10 | 🥈 | [[Good First Issue] 🎏 Add new Video Game Quote 44 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30121) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-10 | 🥉 | [Add a section for about:logging in our user docs](https://github.com/firefox-devtools/profiler/issues/6310) | `firefox-devtools/profiler` | ⭐ 1.5k |
-| 2026-09-10 | 🥉 | [[bug/docs] `block add invoice` fails – "invoice" block not found in registry](https://github.com/akii09/pdfx/issues/189) | `akii09/pdfx` | ⭐ 1.2k |
-| 2026-09-10 | 🥇 | [[Good First Issue] 🏯 Add new Anime Quote 1 - Beginner-Friendly Open-source Cont](https://github.com/lingdojo/kana-dojo/issues/30120) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-10 | 🥇 | [[Good First Issue] 🍢 Add new Grammar Point 54 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30119) | `lingdojo/kana-dojo` | ⭐ 3.4k |
