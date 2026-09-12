@@ -1,5 +1,125 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30247",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30247,
+    "title": "[Good First Issue] 🍙 Add new Etiquette Tip 104 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30247",
+    "comments": 1,
+    "createdAt": "2026-09-12T13:01:03Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-12T13:39:55.924Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30246",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30246,
+    "title": "[Good First Issue] 🥢 Add new False Friend Pair 68 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30246",
+    "comments": 1,
+    "createdAt": "2026-09-12T12:57:28Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-12T13:39:55.924Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30239",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30239,
+    "title": "[Good First Issue] 🐙 Add new Anime Quote 80 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30239",
+    "comments": 1,
+    "createdAt": "2026-09-12T10:57:25Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-12T13:39:56.528Z"
+  },
+  {
+    "key": "YosemiteCrew/Yosemite-Crew#3193",
+    "tier": 3,
+    "repo": "YosemiteCrew/Yosemite-Crew",
+    "number": 3193,
+    "title": "fix(dev-docs): let documentation search recover after an index load failure",
+    "url": "https://github.com/YosemiteCrew/Yosemite-Crew/issues/3193",
+    "comments": 0,
+    "createdAt": "2026-09-12T13:33:37Z",
+    "labels": [
+      "bug",
+      "documentation"
+    ],
+    "language": "typescript",
+    "stars": 2020,
+    "foundAt": "2026-09-12T13:39:58.654Z"
+  },
+  {
+    "key": "YosemiteCrew/Yosemite-Crew#3192",
+    "tier": 3,
+    "repo": "YosemiteCrew/Yosemite-Crew",
+    "number": 3192,
+    "title": "fix(dev-docs): make Skip to main content reach the documentation article",
+    "url": "https://github.com/YosemiteCrew/Yosemite-Crew/issues/3192",
+    "comments": 0,
+    "createdAt": "2026-09-12T13:33:36Z",
+    "labels": [
+      "bug",
+      "documentation"
+    ],
+    "language": "typescript",
+    "stars": 2020,
+    "foundAt": "2026-09-12T13:39:58.654Z"
+  },
+  {
+    "key": "YosemiteCrew/Yosemite-Crew#3191",
+    "tier": 3,
+    "repo": "YosemiteCrew/Yosemite-Crew",
+    "number": 3191,
+    "title": "fix(dev-docs): support keyboard result selection in documentation search",
+    "url": "https://github.com/YosemiteCrew/Yosemite-Crew/issues/3191",
+    "comments": 0,
+    "createdAt": "2026-09-12T13:33:34Z",
+    "labels": [
+      "bug",
+      "documentation"
+    ],
+    "language": "typescript",
+    "stars": 2020,
+    "foundAt": "2026-09-12T13:39:58.654Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30231",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1874,130 +1994,5 @@
     "language": "typescript",
     "stars": 5835,
     "foundAt": "2026-09-11T04:53:55.811Z"
-  },
-  {
-    "key": "stdlib-js/stdlib#15154",
-    "tier": 1,
-    "repo": "stdlib-js/stdlib",
-    "number": 15154,
-    "title": "Fix JavaScript lint errors",
-    "url": "https://github.com/stdlib-js/stdlib/issues/15154",
-    "comments": 1,
-    "createdAt": "2026-09-11T00:21:02Z",
-    "labels": [
-      "Good First Issue"
-    ],
-    "language": "javascript",
-    "stars": 5957,
-    "foundAt": "2026-09-11T04:53:56.296Z"
-  },
-  {
-    "key": "prettier/prettier#20026",
-    "tier": 2,
-    "repo": "prettier/prettier",
-    "number": 20026,
-    "title": "Missing parens around `throw` expression",
-    "url": "https://github.com/prettier/prettier/issues/20026",
-    "comments": 0,
-    "createdAt": "2026-09-11T00:28:32Z",
-    "labels": [
-      "help wanted",
-      "lang:javascript"
-    ],
-    "language": "javascript",
-    "stars": 52242,
-    "foundAt": "2026-09-11T04:53:56.667Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30145",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30145,
-    "title": "[Good First Issue] 🏮 Add new Etiquette Tip 16 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30145",
-    "comments": 1,
-    "createdAt": "2026-09-11T00:01:03Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-11T00:16:49.873Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30144",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30144,
-    "title": "[Good First Issue] 🎋 Add new False Friend Pair 16 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30144",
-    "comments": 1,
-    "createdAt": "2026-09-10T23:57:28Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-11T00:16:50.125Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30143",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30143,
-    "title": "[Good First Issue] 🍶 Add new Dialect Entry 120 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30143",
-    "comments": 1,
-    "createdAt": "2026-09-10T23:01:04Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-11T00:16:50.125Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30142",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30142,
-    "title": "[Good First Issue] 🌺 Add new Japanese Idiom 50 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30142",
-    "comments": 1,
-    "createdAt": "2026-09-10T22:57:32Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-11T00:16:50.363Z"
   }
 ]

@@ -4,6 +4,12 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-12 | 🥇 | [[Good First Issue] 🍙 Add new Etiquette Tip 104 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30247) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-12 | 🥇 | [[Good First Issue] 🥢 Add new False Friend Pair 68 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30246) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-12 | 🥇 | [[Good First Issue] 🐙 Add new Anime Quote 80 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30239) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-12 | 🥉 | [fix(dev-docs): let documentation search recover after an index load failure](https://github.com/YosemiteCrew/Yosemite-Crew/issues/3193) | `YosemiteCrew/Yosemite-Crew` | ⭐ 2.0k |
+| 2026-09-12 | 🥉 | [fix(dev-docs): make Skip to main content reach the documentation article](https://github.com/YosemiteCrew/Yosemite-Crew/issues/3192) | `YosemiteCrew/Yosemite-Crew` | ⭐ 2.0k |
+| 2026-09-12 | 🥉 | [fix(dev-docs): support keyboard result selection in documentation search](https://github.com/YosemiteCrew/Yosemite-Crew/issues/3191) | `YosemiteCrew/Yosemite-Crew` | ⭐ 2.0k |
 | 2026-09-12 | 🥇 | [[Good First Issue] 🍤 Add new Japanese Haiku 10 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30231) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-12 | 🥇 | [[Good First Issue] 🍥 Add new Japanese Proverb 13 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30230) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-12 | 🥇 | [[Good First Issue] 🎌 Add new Theme: Cedar Moss - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30228) | `lingdojo/kana-dojo` | ⭐ 3.4k |
@@ -98,9 +104,3 @@
 | 2026-09-11 | 🥇 | [[Good First Issue] 🥟 Add new Japan Fact 190 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30152) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-11 | 🥇 | [Two source comments cite a git-ignored design document path](https://github.com/libredb/libredb-studio/issues/790) | `libredb/libredb-studio` | ⭐ 402 |
 | 2026-09-11 | 🥇 | [[Balance] Update No Retreat to match Champions change](https://github.com/pagefaultgames/pokerogue/issues/7672) | `pagefaultgames/pokerogue` | ⭐ 5.8k |
-| 2026-09-11 | 🥇 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15154) | `stdlib-js/stdlib` | ⭐ 6.0k |
-| 2026-09-11 | 🥈 | [Missing parens around `throw` expression](https://github.com/prettier/prettier/issues/20026) | `prettier/prettier` | ⭐ 52.2k |
-| 2026-09-11 | 🥇 | [[Good First Issue] 🏮 Add new Etiquette Tip 16 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30145) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-11 | 🥇 | [[Good First Issue] 🎋 Add new False Friend Pair 16 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30144) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-11 | 🥇 | [[Good First Issue] 🍶 Add new Dialect Entry 120 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30143) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-11 | 🥇 | [[Good First Issue] 🌺 Add new Japanese Idiom 50 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30142) | `lingdojo/kana-dojo` | ⭐ 3.4k |
