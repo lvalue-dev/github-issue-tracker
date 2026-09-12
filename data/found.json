@@ -1,5 +1,351 @@
 [
   {
+    "key": "snapotter-hq/SnapOtter#1100",
+    "tier": 1,
+    "repo": "snapotter-hq/SnapOtter",
+    "number": 1100,
+    "title": "feat: \"jpg to ico\" finds nothing even though the favicon tool makes ICO",
+    "url": "https://github.com/snapotter-hq/SnapOtter/issues/1100",
+    "comments": 0,
+    "createdAt": "2026-09-12T04:46:30Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "area: frontend",
+      "community-request"
+    ],
+    "language": "typescript",
+    "stars": 2636,
+    "foundAt": "2026-09-12T04:51:52.359Z"
+  },
+  {
+    "key": "snapotter-hq/SnapOtter#1099",
+    "tier": 1,
+    "repo": "snapotter-hq/SnapOtter",
+    "number": 1099,
+    "title": "feat(audio): fill the conversion preset matrix; opus-to-* is missing entirely and mp3 only converts to wav",
+    "url": "https://github.com/snapotter-hq/SnapOtter/issues/1099",
+    "comments": 0,
+    "createdAt": "2026-09-12T04:46:12Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "area: backend",
+      "community-request"
+    ],
+    "language": "typescript",
+    "stars": 2636,
+    "foundAt": "2026-09-12T04:51:52.359Z"
+  },
+  {
+    "key": "conorbronsdon/avoid-ai-writing#188",
+    "tier": 1,
+    "repo": "conorbronsdon/avoid-ai-writing",
+    "number": 188,
+    "title": "Add a structured bug-report issue form",
+    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/188",
+    "comments": 1,
+    "createdAt": "2026-09-12T04:33:15Z",
+    "labels": [
+      "documentation",
+      "help wanted",
+      "good first issue"
+    ],
+    "language": "javascript",
+    "stars": 4304,
+    "foundAt": "2026-09-12T04:51:52.847Z"
+  },
+  {
+    "key": "conorbronsdon/avoid-ai-writing#187",
+    "tier": 1,
+    "repo": "conorbronsdon/avoid-ai-writing",
+    "number": 187,
+    "title": "Run detector CI for CLI and automation-surface changes",
+    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/187",
+    "comments": 0,
+    "createdAt": "2026-09-12T04:33:10Z",
+    "labels": [
+      "help wanted",
+      "good first issue"
+    ],
+    "language": "javascript",
+    "stars": 4304,
+    "foundAt": "2026-09-12T04:51:52.847Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30219",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30219,
+    "title": "[Good First Issue] 🍜 Add new Japanese Idiom 55 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30219",
+    "comments": 1,
+    "createdAt": "2026-09-12T04:01:02Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-12T04:51:52.359Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30218",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30218,
+    "title": "[Good First Issue] ⛩️ Add new Video Game Quote 32 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30218",
+    "comments": 1,
+    "createdAt": "2026-09-12T03:57:30Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-12T04:51:52.359Z"
+  },
+  {
+    "key": "snapotter-hq/SnapOtter#1059",
+    "tier": 1,
+    "repo": "snapotter-hq/SnapOtter",
+    "number": 1059,
+    "title": "[Bug] Polygonal lasso only closes on double-click, with no hint saying so",
+    "url": "https://github.com/snapotter-hq/SnapOtter/issues/1059",
+    "comments": 0,
+    "createdAt": "2026-09-12T03:06:14Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "area: frontend",
+      "community-request"
+    ],
+    "language": "typescript",
+    "stars": 2636,
+    "foundAt": "2026-09-12T04:51:52.359Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30216",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30216,
+    "title": "[Good First Issue] 🎍 Add new Trivia Question 41 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30216",
+    "comments": 1,
+    "createdAt": "2026-09-12T02:57:32Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-12T04:51:52.359Z"
+  },
+  {
+    "key": "conorbronsdon/avoid-ai-writing#191",
+    "tier": 2,
+    "repo": "conorbronsdon/avoid-ai-writing",
+    "number": 191,
+    "title": "Reject release version drift before creating a tag or GitHub release",
+    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/191",
+    "comments": 0,
+    "createdAt": "2026-09-12T04:36:25Z",
+    "labels": [
+      "bug",
+      "help wanted"
+    ],
+    "language": "javascript",
+    "stars": 4304,
+    "foundAt": "2026-09-12T04:51:53.488Z"
+  },
+  {
+    "key": "conorbronsdon/avoid-ai-writing#190",
+    "tier": 2,
+    "repo": "conorbronsdon/avoid-ai-writing",
+    "number": 190,
+    "title": "Make rendered-Markdown HTML comment masking linear",
+    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/190",
+    "comments": 0,
+    "createdAt": "2026-09-12T04:36:19Z",
+    "labels": [
+      "bug",
+      "help wanted"
+    ],
+    "language": "javascript",
+    "stars": 4304,
+    "foundAt": "2026-09-12T04:51:53.488Z"
+  },
+  {
+    "key": "conorbronsdon/avoid-ai-writing#189",
+    "tier": 2,
+    "repo": "conorbronsdon/avoid-ai-writing",
+    "number": 189,
+    "title": "Preserve source offsets through detector preprocessing",
+    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/189",
+    "comments": 0,
+    "createdAt": "2026-09-12T04:36:13Z",
+    "labels": [
+      "bug",
+      "help wanted"
+    ],
+    "language": "javascript",
+    "stars": 4304,
+    "foundAt": "2026-09-12T04:51:53.488Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30215",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30215,
+    "title": "[Good First Issue] 🧧 Add new Japanese Proverb 172 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30215",
+    "comments": 1,
+    "createdAt": "2026-09-12T02:01:10Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-12T04:51:53.488Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30214",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30214,
+    "title": "[Good First Issue] 🗾 Add new Japan Fact 200 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30214",
+    "comments": 1,
+    "createdAt": "2026-09-12T01:57:29Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-12T04:51:53.488Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30213",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30213,
+    "title": "[Good First Issue] 🎴 Add new Theme: Onsen Steam - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30213",
+    "comments": 1,
+    "createdAt": "2026-09-12T01:01:06Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-12T04:51:53.488Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30212",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30212,
+    "title": "[Good First Issue] 🌺 Add new Community Note Line #2 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30212",
+    "comments": 1,
+    "createdAt": "2026-09-12T00:57:31Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-12T04:51:53.488Z"
+  },
+  {
+    "key": "snapotter-hq/SnapOtter#1095",
+    "tier": 3,
+    "repo": "snapotter-hq/SnapOtter",
+    "number": 1095,
+    "title": "fix: 17 of the 23 supported camera RAW formats can't be selected in the UI, including Canon CR3",
+    "url": "https://github.com/snapotter-hq/SnapOtter/issues/1095",
+    "comments": 0,
+    "createdAt": "2026-09-12T04:40:31Z",
+    "labels": [
+      "bug",
+      "documentation",
+      "area: frontend",
+      "priority: high",
+      "community-request"
+    ],
+    "language": "typescript",
+    "stars": 2636,
+    "foundAt": "2026-09-12T04:51:54.026Z"
+  },
+  {
+    "key": "Adamant-im/adamant-exchangebot#55",
+    "tier": 3,
+    "repo": "Adamant-im/adamant-exchangebot",
+    "number": 55,
+    "title": "[Refactor, Composite] Modernize the stack, migrate to adamant-api v3, drop Lisk, and cover the bot with tests",
+    "url": "https://github.com/Adamant-im/adamant-exchangebot/issues/55",
+    "comments": 0,
+    "createdAt": "2026-09-12T04:27:57Z",
+    "labels": [
+      "APIs",
+      "Composite task",
+      "Task",
+      "documentation",
+      "NodeJS",
+      "Security"
+    ],
+    "language": "javascript",
+    "stars": 471,
+    "foundAt": "2026-09-12T04:51:55.438Z"
+  },
+  {
     "key": "stdlib-js/stdlib#15176",
     "tier": 1,
     "repo": "stdlib-js/stdlib",
@@ -1638,357 +1984,5 @@
     "language": "javascript",
     "stars": 854,
     "foundAt": "2026-09-10T21:43:20.318Z"
-  },
-  {
-    "key": "meshery/meshery#21902",
-    "tier": 2,
-    "repo": "meshery/meshery",
-    "number": 21902,
-    "title": "[Docs] Prev/Next navigation button text becomes invisible on hover in light mode",
-    "url": "https://github.com/meshery/meshery/issues/21902",
-    "comments": 1,
-    "createdAt": "2026-09-10T20:19:04Z",
-    "labels": [
-      "help wanted",
-      "area/docs",
-      "language/markdown",
-      "framework/hugo"
-    ],
-    "language": "typescript",
-    "stars": 11744,
-    "foundAt": "2026-09-10T21:43:19.304Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30135",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30135,
-    "title": "[Good First Issue] 🐡 Add new Japan Fact 96 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30135",
-    "comments": 1,
-    "createdAt": "2026-09-10T19:57:28Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-10T21:43:19.705Z"
-  },
-  {
-    "key": "refined-github/refined-github#10070",
-    "tier": 2,
-    "repo": "refined-github/refined-github",
-    "number": 10070,
-    "title": "`restore-file` broken for binaries on Firefox",
-    "url": "https://github.com/refined-github/refined-github/issues/10070",
-    "comments": 2,
-    "createdAt": "2026-09-10T18:43:44Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "firefox"
-    ],
-    "language": "typescript",
-    "stars": 32112,
-    "foundAt": "2026-09-10T21:43:20.318Z"
-  },
-  {
-    "key": "xyz-tools/gcode-preview#506",
-    "tier": 3,
-    "repo": "xyz-tools/gcode-preview",
-    "number": 506,
-    "title": "README streaming snippet silently renders nothing",
-    "url": "https://github.com/xyz-tools/gcode-preview/issues/506",
-    "comments": 0,
-    "createdAt": "2026-09-10T21:41:55Z",
-    "labels": [
-      "bug",
-      "docs"
-    ],
-    "language": "typescript",
-    "stars": 202,
-    "foundAt": "2026-09-10T21:43:20.698Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30129",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30129,
-    "title": "[Good First Issue] 🐙 Add new Learner Mistake 20 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30129",
-    "comments": 1,
-    "createdAt": "2026-09-10T17:57:38Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-10T18:35:17.487Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30128",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30128,
-    "title": "[Good First Issue] 🌺 Add new Example Sentence 64 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30128",
-    "comments": 1,
-    "createdAt": "2026-09-10T17:01:05Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-10T18:35:18.154Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30127",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30127,
-    "title": "[Good First Issue] 🍶 Add new Etiquette Tip 44 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30127",
-    "comments": 1,
-    "createdAt": "2026-09-10T16:57:32Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-10T18:35:18.154Z"
-  },
-  {
-    "key": "ONEARMY/community-platform#4886",
-    "tier": 1,
-    "repo": "ONEARMY/community-platform",
-    "number": 4886,
-    "title": "[UI Migration] Loader",
-    "url": "https://github.com/ONEARMY/community-platform/issues/4886",
-    "comments": 0,
-    "createdAt": "2026-09-10T16:42:42Z",
-    "labels": [
-      "Good first issue",
-      "Help wanted",
-      "UI/UX",
-      "Difficulty: Easy",
-      "UI Migration"
-    ],
-    "language": "typescript",
-    "stars": 1401,
-    "foundAt": "2026-09-10T18:35:18.453Z"
-  },
-  {
-    "key": "ONEARMY/community-platform#4885",
-    "tier": 1,
-    "repo": "ONEARMY/community-platform",
-    "number": 4885,
-    "title": "[UI Migration] Alert",
-    "url": "https://github.com/ONEARMY/community-platform/issues/4885",
-    "comments": 0,
-    "createdAt": "2026-09-10T16:39:23Z",
-    "labels": [
-      "Good first issue",
-      "Help wanted",
-      "UI/UX",
-      "Difficulty: Easy",
-      "UI Migration"
-    ],
-    "language": "typescript",
-    "stars": 1401,
-    "foundAt": "2026-09-10T18:35:18.453Z"
-  },
-  {
-    "key": "ONEARMY/community-platform#4884",
-    "tier": 1,
-    "repo": "ONEARMY/community-platform",
-    "number": 4884,
-    "title": "[UI Migration] ElWithBeforeIcon",
-    "url": "https://github.com/ONEARMY/community-platform/issues/4884",
-    "comments": 0,
-    "createdAt": "2026-09-10T16:37:31Z",
-    "labels": [
-      "Good first issue",
-      "Help wanted",
-      "UI/UX",
-      "Difficulty: Easy",
-      "UI Migration"
-    ],
-    "language": "typescript",
-    "stars": 1401,
-    "foundAt": "2026-09-10T18:35:18.453Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30126",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30126,
-    "title": "[Good First Issue] 🎏 Add new False Friend Pair 16 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30126",
-    "comments": 1,
-    "createdAt": "2026-09-10T16:01:10Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-10T18:35:18.453Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30125",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30125,
-    "title": "[Good First Issue] 🎏 Add new Dialect Entry 90 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30125",
-    "comments": 1,
-    "createdAt": "2026-09-10T15:57:36Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-10T18:35:18.805Z"
-  },
-  {
-    "key": "SAPTARSHI-coder/EaseMotion-css#89286",
-    "tier": 1,
-    "repo": "SAPTARSHI-coder/EaseMotion-css",
-    "number": 89286,
-    "title": "Add Animated Banking Dashboard example",
-    "url": "https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/89286",
-    "comments": 3,
-    "createdAt": "2026-09-09T15:22:11Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "animation",
-      "GSSoC-26",
-      "gssoc:approved",
-      "level:beginner",
-      "type:feature"
-    ],
-    "language": "css",
-    "stars": 255,
-    "foundAt": "2026-09-10T18:35:21.304Z"
-  },
-  {
-    "key": "orval-labs/orval#4072",
-    "tier": 2,
-    "repo": "orval-labs/orval",
-    "number": 4072,
-    "title": "Allow schemas.path to be a file when schemas.mode is single",
-    "url": "https://github.com/orval-labs/orval/issues/4072",
-    "comments": 0,
-    "createdAt": "2026-09-10T16:57:30Z",
-    "labels": [
-      "help wanted",
-      "zod"
-    ],
-    "language": "typescript",
-    "stars": 6449,
-    "foundAt": "2026-09-10T18:35:22.961Z"
-  },
-  {
-    "key": "ONEARMY/community-platform#4883",
-    "tier": 2,
-    "repo": "ONEARMY/community-platform",
-    "number": 4883,
-    "title": "[UI Migration] SiteFooter",
-    "url": "https://github.com/ONEARMY/community-platform/issues/4883",
-    "comments": 0,
-    "createdAt": "2026-09-10T16:32:17Z",
-    "labels": [
-      "Help wanted",
-      "UI/UX",
-      "Difficulty: Easy",
-      "UI Migration"
-    ],
-    "language": "typescript",
-    "stars": 1401,
-    "foundAt": "2026-09-10T18:35:22.961Z"
-  },
-  {
-    "key": "ONEARMY/community-platform#4882",
-    "tier": 2,
-    "repo": "ONEARMY/community-platform",
-    "number": 4882,
-    "title": "[UI Migration] MoreContainer",
-    "url": "https://github.com/ONEARMY/community-platform/issues/4882",
-    "comments": 0,
-    "createdAt": "2026-09-10T16:28:09Z",
-    "labels": [
-      "Help wanted",
-      "UI/UX",
-      "Difficulty: Easy",
-      "UI Migration"
-    ],
-    "language": "typescript",
-    "stars": 1401,
-    "foundAt": "2026-09-10T18:35:22.961Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30122",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30122,
-    "title": "[Good First Issue] 🌸 Add new Japanese Idiom 11 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30122",
-    "comments": 1,
-    "createdAt": "2026-09-10T15:01:21Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-10T18:35:22.961Z"
   }
 ]

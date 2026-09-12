@@ -4,6 +4,23 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-12 | 🥇 | [feat: "jpg to ico" finds nothing even though the favicon tool makes ICO](https://github.com/snapotter-hq/SnapOtter/issues/1100) | `snapotter-hq/SnapOtter` | ⭐ 2.6k |
+| 2026-09-12 | 🥇 | [feat(audio): fill the conversion preset matrix; opus-to-* is missing entirely an](https://github.com/snapotter-hq/SnapOtter/issues/1099) | `snapotter-hq/SnapOtter` | ⭐ 2.6k |
+| 2026-09-12 | 🥇 | [Add a structured bug-report issue form](https://github.com/conorbronsdon/avoid-ai-writing/issues/188) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥇 | [Run detector CI for CLI and automation-surface changes](https://github.com/conorbronsdon/avoid-ai-writing/issues/187) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥇 | [[Good First Issue] 🍜 Add new Japanese Idiom 55 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30219) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-12 | 🥇 | [[Good First Issue] ⛩️ Add new Video Game Quote 32 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30218) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-12 | 🥇 | [[Bug] Polygonal lasso only closes on double-click, with no hint saying so](https://github.com/snapotter-hq/SnapOtter/issues/1059) | `snapotter-hq/SnapOtter` | ⭐ 2.6k |
+| 2026-09-12 | 🥇 | [[Good First Issue] 🎍 Add new Trivia Question 41 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30216) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-12 | 🥈 | [Reject release version drift before creating a tag or GitHub release](https://github.com/conorbronsdon/avoid-ai-writing/issues/191) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥈 | [Make rendered-Markdown HTML comment masking linear](https://github.com/conorbronsdon/avoid-ai-writing/issues/190) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥈 | [Preserve source offsets through detector preprocessing](https://github.com/conorbronsdon/avoid-ai-writing/issues/189) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-12 | 🥈 | [[Good First Issue] 🧧 Add new Japanese Proverb 172 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30215) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-12 | 🥈 | [[Good First Issue] 🗾 Add new Japan Fact 200 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30214) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-12 | 🥈 | [[Good First Issue] 🎴 Add new Theme: Onsen Steam - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30213) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-12 | 🥈 | [[Good First Issue] 🌺 Add new Community Note Line #2 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30212) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-12 | 🥉 | [fix: 17 of the 23 supported camera RAW formats can't be selected in the UI, incl](https://github.com/snapotter-hq/SnapOtter/issues/1095) | `snapotter-hq/SnapOtter` | ⭐ 2.6k |
+| 2026-09-12 | 🥉 | [[Refactor, Composite] Modernize the stack, migrate to adamant-api v3, drop Lisk,](https://github.com/Adamant-im/adamant-exchangebot/issues/55) | `Adamant-im/adamant-exchangebot` | ⭐ 471 |
 | 2026-09-12 | 🥇 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15176) | `stdlib-js/stdlib` | ⭐ 6.0k |
 | 2026-09-12 | 🥇 | [[Good First Issue] 🐉 Add new Learner Mistake 111 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30211) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-12 | 🥇 | [[Good First Issue] 🧧 Add new Example Sentence 71 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30210) | `lingdojo/kana-dojo` | ⭐ 3.4k |
@@ -87,20 +104,3 @@
 | 2026-09-10 | 🥇 | [[Good First Issue] 🌸 Add new Japanese Proverb 112 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30136) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-10 | 🥇 | [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/21956) | `PipedreamHQ/pipedream` | ⭐ 11.7k |
 | 2026-09-10 | 🥈 | [Remove duplicate and empty meta descriptions from production pages](https://github.com/meshery/meshery.io/issues/2964) | `meshery/meshery.io` | ⭐ 854 |
-| 2026-09-10 | 🥈 | [[Docs] Prev/Next navigation button text becomes invisible on hover in light mode](https://github.com/meshery/meshery/issues/21902) | `meshery/meshery` | ⭐ 11.7k |
-| 2026-09-10 | 🥈 | [[Good First Issue] 🐡 Add new Japan Fact 96 - Beginner-Friendly Open-source Cont](https://github.com/lingdojo/kana-dojo/issues/30135) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-10 | 🥈 | [`restore-file` broken for binaries on Firefox](https://github.com/refined-github/refined-github/issues/10070) | `refined-github/refined-github` | ⭐ 32.1k |
-| 2026-09-10 | 🥉 | [README streaming snippet silently renders nothing](https://github.com/xyz-tools/gcode-preview/issues/506) | `xyz-tools/gcode-preview` | ⭐ 202 |
-| 2026-09-10 | 🥇 | [[Good First Issue] 🐙 Add new Learner Mistake 20 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30129) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-10 | 🥇 | [[Good First Issue] 🌺 Add new Example Sentence 64 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30128) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-10 | 🥇 | [[Good First Issue] 🍶 Add new Etiquette Tip 44 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30127) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-10 | 🥇 | [[UI Migration] Loader](https://github.com/ONEARMY/community-platform/issues/4886) | `ONEARMY/community-platform` | ⭐ 1.4k |
-| 2026-09-10 | 🥇 | [[UI Migration] Alert](https://github.com/ONEARMY/community-platform/issues/4885) | `ONEARMY/community-platform` | ⭐ 1.4k |
-| 2026-09-10 | 🥇 | [[UI Migration] ElWithBeforeIcon](https://github.com/ONEARMY/community-platform/issues/4884) | `ONEARMY/community-platform` | ⭐ 1.4k |
-| 2026-09-10 | 🥇 | [[Good First Issue] 🎏 Add new False Friend Pair 16 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30126) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-10 | 🥇 | [[Good First Issue] 🎏 Add new Dialect Entry 90 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30125) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-10 | 🥇 | [Add Animated Banking Dashboard example](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/89286) | `SAPTARSHI-coder/EaseMotion-css` | ⭐ 255 |
-| 2026-09-10 | 🥈 | [Allow schemas.path to be a file when schemas.mode is single](https://github.com/orval-labs/orval/issues/4072) | `orval-labs/orval` | ⭐ 6.4k |
-| 2026-09-10 | 🥈 | [[UI Migration] SiteFooter](https://github.com/ONEARMY/community-platform/issues/4883) | `ONEARMY/community-platform` | ⭐ 1.4k |
-| 2026-09-10 | 🥈 | [[UI Migration] MoreContainer](https://github.com/ONEARMY/community-platform/issues/4882) | `ONEARMY/community-platform` | ⭐ 1.4k |
-| 2026-09-10 | 🥈 | [[Good First Issue] 🌸 Add new Japanese Idiom 11 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30122) | `lingdojo/kana-dojo` | ⭐ 3.4k |
