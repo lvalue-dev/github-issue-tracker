@@ -1,5 +1,112 @@
 [
   {
+    "key": "bastani-inc/atomic#3025",
+    "tier": 1,
+    "repo": "bastani-inc/atomic",
+    "number": 3025,
+    "title": "Support background shells in subagents and show them in the parent session's /tasks",
+    "url": "https://github.com/bastani-inc/atomic/issues/3025",
+    "comments": 0,
+    "createdAt": "2026-09-13T08:32:09Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 784,
+    "foundAt": "2026-09-13T10:24:46.998Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30297",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30297,
+    "title": "[Good First Issue] 🎏 Add new Japan Fact 192 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30297",
+    "comments": 1,
+    "createdAt": "2026-09-13T06:57:29Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-13T10:24:47.784Z"
+  },
+  {
+    "key": "layer5io/layer5#8050",
+    "tier": 2,
+    "repo": "layer5io/layer5",
+    "number": 8050,
+    "title": "[Bug] Hacktoberfest program card navigates to /programs/null instead of valid slug",
+    "url": "https://github.com/layer5io/layer5/issues/8050",
+    "comments": 1,
+    "createdAt": "2026-09-13T09:48:10Z",
+    "labels": [
+      "kind/bug",
+      "help wanted",
+      "framework/gatsby"
+    ],
+    "language": "javascript",
+    "stars": 1121,
+    "foundAt": "2026-09-13T10:24:49.710Z"
+  },
+  {
+    "key": "yonatangross/orchestkit#4082",
+    "tier": 3,
+    "repo": "yonatangross/orchestkit",
+    "number": 4082,
+    "title": "docs: doctor load-diagnosis note sorts the process view by CPU; rsync dialect header overstates what CI proved",
+    "url": "https://github.com/yonatangross/orchestkit/issues/4082",
+    "comments": 0,
+    "createdAt": "2026-09-13T10:11:26Z",
+    "labels": [
+      "docs"
+    ],
+    "language": "typescript",
+    "stars": 267,
+    "foundAt": "2026-09-13T10:24:50.799Z"
+  },
+  {
+    "key": "srg-kostyrko/obsidian-journal#420",
+    "tier": 3,
+    "repo": "srg-kostyrko/obsidian-journal",
+    "number": 420,
+    "title": "Docs: audit the manual on release, and link to it from the plugin",
+    "url": "https://github.com/srg-kostyrko/obsidian-journal/issues/420",
+    "comments": 0,
+    "createdAt": "2026-09-13T09:17:48Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "typescript",
+    "stars": 390,
+    "foundAt": "2026-09-13T10:24:51.794Z"
+  },
+  {
+    "key": "srg-kostyrko/obsidian-journal#419",
+    "tier": 3,
+    "repo": "srg-kostyrko/obsidian-journal",
+    "number": 419,
+    "title": "Docs: deepen the user manual, page by page",
+    "url": "https://github.com/srg-kostyrko/obsidian-journal/issues/419",
+    "comments": 0,
+    "createdAt": "2026-09-13T09:17:26Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "typescript",
+    "stars": 390,
+    "foundAt": "2026-09-13T10:24:51.794Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30287",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1849,125 +1956,5 @@
     "language": "typescript",
     "stars": 3350,
     "foundAt": "2026-09-12T09:28:41.083Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30221",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30221,
-    "title": "[Good First Issue] 🍁 Add new Dialect Entry 6 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30221",
-    "comments": 1,
-    "createdAt": "2026-09-12T04:57:33Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-12T09:28:41.083Z"
-  },
-  {
-    "key": "SAPTARSHI-coder/EaseMotion-css#89330",
-    "tier": 1,
-    "repo": "SAPTARSHI-coder/EaseMotion-css",
-    "number": 89330,
-    "title": "Centre Loading Spinner in Loading Button",
-    "url": "https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/89330",
-    "comments": 3,
-    "createdAt": "2026-09-11T06:05:06Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "good first issue",
-      "GSSoC-26",
-      "gssoc:approved",
-      "level:intermediate"
-    ],
-    "language": "css",
-    "stars": 255,
-    "foundAt": "2026-09-12T09:28:41.436Z"
-  },
-  {
-    "key": "refined-github/refined-github#10081",
-    "tier": 2,
-    "repo": "refined-github/refined-github",
-    "number": 10081,
-    "title": "`mark-pinned` broken?",
-    "url": "https://github.com/refined-github/refined-github/issues/10081",
-    "comments": 0,
-    "createdAt": "2026-09-12T09:18:17Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "small"
-    ],
-    "language": "typescript",
-    "stars": 32112,
-    "foundAt": "2026-09-12T09:28:41.597Z"
-  },
-  {
-    "key": "meshery/meshery.io#2972",
-    "tier": 2,
-    "repo": "meshery/meshery.io",
-    "number": 2972,
-    "title": "[Website] Fix inconsistent alignment of Project Mailing Lists cards",
-    "url": "https://github.com/meshery/meshery.io/issues/2972",
-    "comments": 1,
-    "createdAt": "2026-09-12T08:58:38Z",
-    "labels": [
-      "help wanted",
-      "language/javascript",
-      "framework/jekyll",
-      "language/markdown",
-      "area/website",
-      "language/css"
-    ],
-    "language": "javascript",
-    "stars": 854,
-    "foundAt": "2026-09-12T09:28:42.155Z"
-  },
-  {
-    "key": "salsita/node-pg-migrate#1736",
-    "tier": 2,
-    "repo": "salsita/node-pg-migrate",
-    "number": 1736,
-    "title": "createTrigger: support column-specific triggers (`UPDATE OF column, …`) with quoted column names",
-    "url": "https://github.com/salsita/node-pg-migrate/issues/1736",
-    "comments": 0,
-    "createdAt": "2026-09-12T08:35:27Z",
-    "labels": [
-      "c: feature",
-      "has workaround",
-      "help wanted",
-      "p: 1-normal"
-    ],
-    "language": "typescript",
-    "stars": 1482,
-    "foundAt": "2026-09-12T09:28:41.806Z"
-  },
-  {
-    "key": "layer5io/layer5#8045",
-    "tier": 2,
-    "repo": "layer5io/layer5",
-    "number": 8045,
-    "title": "fix(ui): uneven heights and layout overflow in testimonial cards on `/pricing`",
-    "url": "https://github.com/layer5io/layer5/issues/8045",
-    "comments": 1,
-    "createdAt": "2026-09-12T07:45:58Z",
-    "labels": [
-      "kind/bug",
-      "help wanted",
-      "framework/gatsby"
-    ],
-    "language": "javascript",
-    "stars": 1121,
-    "foundAt": "2026-09-12T09:28:42.155Z"
   }
 ]

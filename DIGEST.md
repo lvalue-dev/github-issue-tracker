@@ -4,6 +4,12 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-13 | 🥇 | [Support background shells in subagents and show them in the parent session's /ta](https://github.com/bastani-inc/atomic/issues/3025) | `bastani-inc/atomic` | ⭐ 784 |
+| 2026-09-13 | 🥇 | [[Good First Issue] 🎏 Add new Japan Fact 192 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30297) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-13 | 🥈 | [[Bug] Hacktoberfest program card navigates to /programs/null instead of valid sl](https://github.com/layer5io/layer5/issues/8050) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-13 | 🥉 | [docs: doctor load-diagnosis note sorts the process view by CPU; rsync dialect he](https://github.com/yonatangross/orchestkit/issues/4082) | `yonatangross/orchestkit` | ⭐ 267 |
+| 2026-09-13 | 🥉 | [Docs: audit the manual on release, and link to it from the plugin](https://github.com/srg-kostyrko/obsidian-journal/issues/420) | `srg-kostyrko/obsidian-journal` | ⭐ 390 |
+| 2026-09-13 | 🥉 | [Docs: deepen the user manual, page by page](https://github.com/srg-kostyrko/obsidian-journal/issues/419) | `srg-kostyrko/obsidian-journal` | ⭐ 390 |
 | 2026-09-13 | 🥇 | [[Good First Issue] 🐉 Add new Etiquette Tip 107 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30287) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-13 | 🥇 | [[Good First Issue] 🌊 Add new False Friend Pair 28 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30286) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-13 | 🥇 | [[Good First Issue] 🌊 Add new Dialect Entry 73 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30285) | `lingdojo/kana-dojo` | ⭐ 3.4k |
@@ -98,9 +104,3 @@
 | 2026-09-12 | 🥇 | [[Good First Issue] 🐉 Add new Etiquette Tip 86 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30223) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-12 | 🥇 | [Store cart accepts fractional line-item quantity: 0.1 is stored as 0 and makes t](https://github.com/medusajs/medusa/issues/16802) | `medusajs/medusa` | ⭐ 36.2k |
 | 2026-09-12 | 🥇 | [[Good First Issue] 🍜 Add new False Friend Pair 46 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30222) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-12 | 🥇 | [[Good First Issue] 🍁 Add new Dialect Entry 6 - Beginner-Friendly Open-source Co](https://github.com/lingdojo/kana-dojo/issues/30221) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-12 | 🥇 | [Centre Loading Spinner in Loading Button](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/89330) | `SAPTARSHI-coder/EaseMotion-css` | ⭐ 255 |
-| 2026-09-12 | 🥈 | [`mark-pinned` broken?](https://github.com/refined-github/refined-github/issues/10081) | `refined-github/refined-github` | ⭐ 32.1k |
-| 2026-09-12 | 🥈 | [[Website] Fix inconsistent alignment of Project Mailing Lists cards](https://github.com/meshery/meshery.io/issues/2972) | `meshery/meshery.io` | ⭐ 854 |
-| 2026-09-12 | 🥈 | [createTrigger: support column-specific triggers (`UPDATE OF column, …`) with quo](https://github.com/salsita/node-pg-migrate/issues/1736) | `salsita/node-pg-migrate` | ⭐ 1.5k |
-| 2026-09-12 | 🥈 | [fix(ui): uneven heights and layout overflow in testimonial cards on `/pricing`](https://github.com/layer5io/layer5/issues/8045) | `layer5io/layer5` | ⭐ 1.1k |
