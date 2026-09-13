@@ -4,6 +4,19 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-13 | 🥇 | [[Good First Issue] 🍚 Add new Japanese Idiom 77 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30337) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-13 | 🥇 | [AI search keeps the previous time window when the new query has no time phrase](https://github.com/OpsiMate/OpsiMate/issues/962) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-13 | 🥇 | [Add unit tests for shared normalizeAlertSeverity](https://github.com/OpsiMate/OpsiMate/issues/961) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-13 | 🥇 | [Add unit tests for groupAlerts / flattenGroups (status rollup and collapsed grou](https://github.com/OpsiMate/OpsiMate/issues/960) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-13 | 🥇 | [Add unit tests for DashboardContext.utils time-range serialization and storage h](https://github.com/OpsiMate/OpsiMate/issues/959) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-13 | 🥇 | [Add unit tests for alertHistory.utils range filtering and the synthesized-update](https://github.com/OpsiMate/OpsiMate/issues/958) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-13 | 🥇 | [Add unit tests for the useFormErrors hook](https://github.com/OpsiMate/OpsiMate/issues/957) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-13 | 🥇 | [[Good First Issue] 🀄 Add new Video Game Quote 97 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30336) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-13 | 🥇 | [[Good First Issue] 🌋 Add new Anime Quote 122 - Beginner-Friendly Open-source Co](https://github.com/lingdojo/kana-dojo/issues/30334) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-13 | 🥇 | [[Good First Issue] 🌊 Add new Grammar Point 85 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30332) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-13 | 🥇 | [[Good First Issue] 🍶 Add new Trivia Question 86 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30331) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-13 | 🥇 | [[Good First Issue] 🏮 Add new Japan Fact 72 - Beginner-Friendly Open-source Cont](https://github.com/lingdojo/kana-dojo/issues/30328) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-13 | 🥈 | [[SEO] Incorrect metadata on the Performance Management solution page](https://github.com/layer5io/layer5/issues/8051) | `layer5io/layer5` | ⭐ 1.1k |
 | 2026-09-13 | 🥇 | [[Good First Issue] 🥢 Add new Community Note Line #4 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30320) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-13 | 🥇 | [[Good First Issue] 🌸 Add new Wallpaper URL #4 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30319) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-13 | 🥇 | [[Good First Issue] 🎏 Add new Learner Mistake 79 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30317) | `lingdojo/kana-dojo` | ⭐ 3.4k |
@@ -91,16 +104,3 @@
 | 2026-09-12 | 🥈 | [title-case-header misses headings that contain an acronym or a one-letter word](https://github.com/conorbronsdon/avoid-ai-writing/issues/240) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
 | 2026-09-12 | 🥈 | [Narrow or retire acknowledgment-loop: it fires on ordinary question framing](https://github.com/conorbronsdon/avoid-ai-writing/issues/239) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
 | 2026-09-12 | 🥈 | [Make the self-reference escape hatch executable: exempt quoted material from sco](https://github.com/conorbronsdon/avoid-ai-writing/issues/238) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥈 | [Honor the technical-blog word exceptions in contextMode technical](https://github.com/conorbronsdon/avoid-ai-writing/issues/237) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥈 | [Stop a ~~~ line inside a backtick fence from ending code protection in the valid](https://github.com/conorbronsdon/avoid-ai-writing/issues/236) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥈 | [[Bug]: IME composition breaks on macOS: first character bypasses composition and](https://github.com/nexu-io/open-design/issues/8083) | `nexu-io/open-design` | ⭐ 95.8k |
-| 2026-09-12 | 🥉 | [CHANGELOG.md sits at 35 of its 40-point self-scan budget because of three unquot](https://github.com/conorbronsdon/avoid-ai-writing/issues/258) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥉 | [Decide whether OPENAI_PLUGIN.md's "published 3.29.0" line is current or historic](https://github.com/conorbronsdon/avoid-ai-writing/issues/257) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥉 | [docs(fips): the MinIO FIPS images link points to the removed Docker Hub reposito](https://github.com/OpenCTI-Platform/opencti/issues/18242) | `OpenCTI-Platform/opencti` | ⭐ 10.0k |
-| 2026-09-12 | 🥇 | [[Good First Issue] 🍙 Add new Etiquette Tip 104 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30247) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-12 | 🥇 | [[Good First Issue] 🥢 Add new False Friend Pair 68 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30246) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-12 | 🥇 | [[Good First Issue] 🐙 Add new Anime Quote 80 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30239) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-12 | 🥉 | [fix(dev-docs): let documentation search recover after an index load failure](https://github.com/YosemiteCrew/Yosemite-Crew/issues/3193) | `YosemiteCrew/Yosemite-Crew` | ⭐ 2.0k |
-| 2026-09-12 | 🥉 | [fix(dev-docs): make Skip to main content reach the documentation article](https://github.com/YosemiteCrew/Yosemite-Crew/issues/3192) | `YosemiteCrew/Yosemite-Crew` | ⭐ 2.0k |
-| 2026-09-12 | 🥉 | [fix(dev-docs): support keyboard result selection in documentation search](https://github.com/YosemiteCrew/Yosemite-Crew/issues/3191) | `YosemiteCrew/Yosemite-Crew` | ⭐ 2.0k |
-| 2026-09-12 | 🥇 | [[Good First Issue] 🍤 Add new Japanese Haiku 10 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30231) | `lingdojo/kana-dojo` | ⭐ 3.4k |

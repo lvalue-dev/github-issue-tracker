@@ -1,5 +1,273 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30337",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30337,
+    "title": "[Good First Issue] 🍚 Add new Japanese Idiom 77 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30337",
+    "comments": 1,
+    "createdAt": "2026-09-13T18:01:04Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-13T18:15:46.026Z"
+  },
+  {
+    "key": "OpsiMate/OpsiMate#962",
+    "tier": 1,
+    "repo": "OpsiMate/OpsiMate",
+    "number": 962,
+    "title": "AI search keeps the previous time window when the new query has no time phrase",
+    "url": "https://github.com/OpsiMate/OpsiMate/issues/962",
+    "comments": 0,
+    "createdAt": "2026-09-13T18:00:13Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "UI",
+      "Server"
+    ],
+    "language": "typescript",
+    "stars": 211,
+    "foundAt": "2026-09-13T18:15:46.026Z"
+  },
+  {
+    "key": "OpsiMate/OpsiMate#961",
+    "tier": 1,
+    "repo": "OpsiMate/OpsiMate",
+    "number": 961,
+    "title": "Add unit tests for shared normalizeAlertSeverity",
+    "url": "https://github.com/OpsiMate/OpsiMate/issues/961",
+    "comments": 0,
+    "createdAt": "2026-09-13T18:00:11Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "Server",
+      "Test"
+    ],
+    "language": "typescript",
+    "stars": 211,
+    "foundAt": "2026-09-13T18:15:46.026Z"
+  },
+  {
+    "key": "OpsiMate/OpsiMate#960",
+    "tier": 1,
+    "repo": "OpsiMate/OpsiMate",
+    "number": 960,
+    "title": "Add unit tests for groupAlerts / flattenGroups (status rollup and collapsed groups)",
+    "url": "https://github.com/OpsiMate/OpsiMate/issues/960",
+    "comments": 0,
+    "createdAt": "2026-09-13T18:00:10Z",
+    "labels": [
+      "good first issue",
+      "UI",
+      "Server",
+      "Test"
+    ],
+    "language": "typescript",
+    "stars": 211,
+    "foundAt": "2026-09-13T18:15:46.026Z"
+  },
+  {
+    "key": "OpsiMate/OpsiMate#959",
+    "tier": 1,
+    "repo": "OpsiMate/OpsiMate",
+    "number": 959,
+    "title": "Add unit tests for DashboardContext.utils time-range serialization and storage helpers",
+    "url": "https://github.com/OpsiMate/OpsiMate/issues/959",
+    "comments": 0,
+    "createdAt": "2026-09-13T18:00:09Z",
+    "labels": [
+      "good first issue",
+      "UI",
+      "Test"
+    ],
+    "language": "typescript",
+    "stars": 211,
+    "foundAt": "2026-09-13T18:15:46.026Z"
+  },
+  {
+    "key": "OpsiMate/OpsiMate#958",
+    "tier": 1,
+    "repo": "OpsiMate/OpsiMate",
+    "number": 958,
+    "title": "Add unit tests for alertHistory.utils range filtering and the synthesized-update fallback",
+    "url": "https://github.com/OpsiMate/OpsiMate/issues/958",
+    "comments": 0,
+    "createdAt": "2026-09-13T18:00:07Z",
+    "labels": [
+      "good first issue",
+      "UI",
+      "Test"
+    ],
+    "language": "typescript",
+    "stars": 211,
+    "foundAt": "2026-09-13T18:15:46.026Z"
+  },
+  {
+    "key": "OpsiMate/OpsiMate#957",
+    "tier": 1,
+    "repo": "OpsiMate/OpsiMate",
+    "number": 957,
+    "title": "Add unit tests for the useFormErrors hook",
+    "url": "https://github.com/OpsiMate/OpsiMate/issues/957",
+    "comments": 0,
+    "createdAt": "2026-09-13T18:00:05Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "UI",
+      "Test"
+    ],
+    "language": "typescript",
+    "stars": 211,
+    "foundAt": "2026-09-13T18:15:46.026Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30336",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30336,
+    "title": "[Good First Issue] 🀄 Add new Video Game Quote 97 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30336",
+    "comments": 1,
+    "createdAt": "2026-09-13T17:34:32Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-13T18:15:46.026Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30334",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30334,
+    "title": "[Good First Issue] 🌋 Add new Anime Quote 122 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30334",
+    "comments": 1,
+    "createdAt": "2026-09-13T17:01:02Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-13T18:15:46.267Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30332",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30332,
+    "title": "[Good First Issue] 🌊 Add new Grammar Point 85 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30332",
+    "comments": 1,
+    "createdAt": "2026-09-13T16:34:30Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-13T18:15:46.267Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30331",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30331,
+    "title": "[Good First Issue] 🍶 Add new Trivia Question 86 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30331",
+    "comments": 1,
+    "createdAt": "2026-09-13T16:01:05Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-13T18:15:46.267Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30328",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30328,
+    "title": "[Good First Issue] 🏮 Add new Japan Fact 72 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30328",
+    "comments": 1,
+    "createdAt": "2026-09-13T15:01:07Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-13T18:15:46.267Z"
+  },
+  {
+    "key": "layer5io/layer5#8051",
+    "tier": 2,
+    "repo": "layer5io/layer5",
+    "number": 8051,
+    "title": "[SEO] Incorrect metadata on the Performance Management solution page",
+    "url": "https://github.com/layer5io/layer5/issues/8051",
+    "comments": 1,
+    "createdAt": "2026-09-13T16:21:08Z",
+    "labels": [
+      "kind/bug",
+      "help wanted",
+      "framework/gatsby"
+    ],
+    "language": "javascript",
+    "stars": 1121,
+    "foundAt": "2026-09-13T18:15:47.611Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30320",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1704,251 +1972,5 @@
     "language": "javascript",
     "stars": 4304,
     "foundAt": "2026-09-12T17:18:17.135Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#237",
-    "tier": 2,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 237,
-    "title": "Honor the technical-blog word exceptions in contextMode technical",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/237",
-    "comments": 0,
-    "createdAt": "2026-09-12T16:37:18Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "false-positive"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-12T17:18:17.135Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#236",
-    "tier": 2,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 236,
-    "title": "Stop a ~~~ line inside a backtick fence from ending code protection in the validator",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/236",
-    "comments": 0,
-    "createdAt": "2026-09-12T16:37:08Z",
-    "labels": [
-      "bug",
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-12T17:18:17.135Z"
-  },
-  {
-    "key": "nexu-io/open-design#8083",
-    "tier": 2,
-    "repo": "nexu-io/open-design",
-    "number": 8083,
-    "title": "[Bug]: IME composition breaks on macOS: first character bypasses composition and commits immediately",
-    "url": "https://github.com/nexu-io/open-design/issues/8083",
-    "comments": 2,
-    "createdAt": "2026-09-12T15:34:29Z",
-    "labels": [
-      "bug",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 95756,
-    "foundAt": "2026-09-12T17:18:16.933Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#258",
-    "tier": 3,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 258,
-    "title": "CHANGELOG.md sits at 35 of its 40-point self-scan budget because of three unquoted vocabulary lists",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/258",
-    "comments": 0,
-    "createdAt": "2026-09-12T16:40:09Z",
-    "labels": [
-      "documentation",
-      "question"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-12T17:18:20.042Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#257",
-    "tier": 3,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 257,
-    "title": "Decide whether OPENAI_PLUGIN.md's \"published 3.29.0\" line is current or historical",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/257",
-    "comments": 0,
-    "createdAt": "2026-09-12T16:40:01Z",
-    "labels": [
-      "documentation",
-      "question"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-12T17:18:20.042Z"
-  },
-  {
-    "key": "OpenCTI-Platform/opencti#18242",
-    "tier": 3,
-    "repo": "OpenCTI-Platform/opencti",
-    "number": 18242,
-    "title": "docs(fips): the MinIO FIPS images link points to the removed Docker Hub repository",
-    "url": "https://github.com/OpenCTI-Platform/opencti/issues/18242",
-    "comments": 0,
-    "createdAt": "2026-09-12T16:31:53Z",
-    "labels": [
-      "filigran team",
-      "documentation"
-    ],
-    "language": "typescript",
-    "stars": 9962,
-    "foundAt": "2026-09-12T17:18:18.416Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30247",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30247,
-    "title": "[Good First Issue] 🍙 Add new Etiquette Tip 104 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30247",
-    "comments": 1,
-    "createdAt": "2026-09-12T13:01:03Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-12T13:39:55.924Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30246",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30246,
-    "title": "[Good First Issue] 🥢 Add new False Friend Pair 68 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30246",
-    "comments": 1,
-    "createdAt": "2026-09-12T12:57:28Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-12T13:39:55.924Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30239",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30239,
-    "title": "[Good First Issue] 🐙 Add new Anime Quote 80 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30239",
-    "comments": 1,
-    "createdAt": "2026-09-12T10:57:25Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-12T13:39:56.528Z"
-  },
-  {
-    "key": "YosemiteCrew/Yosemite-Crew#3193",
-    "tier": 3,
-    "repo": "YosemiteCrew/Yosemite-Crew",
-    "number": 3193,
-    "title": "fix(dev-docs): let documentation search recover after an index load failure",
-    "url": "https://github.com/YosemiteCrew/Yosemite-Crew/issues/3193",
-    "comments": 0,
-    "createdAt": "2026-09-12T13:33:37Z",
-    "labels": [
-      "bug",
-      "documentation"
-    ],
-    "language": "typescript",
-    "stars": 2020,
-    "foundAt": "2026-09-12T13:39:58.654Z"
-  },
-  {
-    "key": "YosemiteCrew/Yosemite-Crew#3192",
-    "tier": 3,
-    "repo": "YosemiteCrew/Yosemite-Crew",
-    "number": 3192,
-    "title": "fix(dev-docs): make Skip to main content reach the documentation article",
-    "url": "https://github.com/YosemiteCrew/Yosemite-Crew/issues/3192",
-    "comments": 0,
-    "createdAt": "2026-09-12T13:33:36Z",
-    "labels": [
-      "bug",
-      "documentation"
-    ],
-    "language": "typescript",
-    "stars": 2020,
-    "foundAt": "2026-09-12T13:39:58.654Z"
-  },
-  {
-    "key": "YosemiteCrew/Yosemite-Crew#3191",
-    "tier": 3,
-    "repo": "YosemiteCrew/Yosemite-Crew",
-    "number": 3191,
-    "title": "fix(dev-docs): support keyboard result selection in documentation search",
-    "url": "https://github.com/YosemiteCrew/Yosemite-Crew/issues/3191",
-    "comments": 0,
-    "createdAt": "2026-09-12T13:33:34Z",
-    "labels": [
-      "bug",
-      "documentation"
-    ],
-    "language": "typescript",
-    "stars": 2020,
-    "foundAt": "2026-09-12T13:39:58.654Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30231",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30231,
-    "title": "[Good First Issue] 🍤 Add new Japanese Haiku 10 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30231",
-    "comments": 1,
-    "createdAt": "2026-09-12T09:01:06Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-12T09:28:40.205Z"
   }
 ]
