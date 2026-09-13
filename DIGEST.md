@@ -4,6 +4,16 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-13 | 🥇 | [[Good First Issue] 🍘 Add new Learner Mistake 105 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30344) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-13 | 🥇 | [feat: Add pdfme as a third rendering base using @pdfme/jsx](https://github.com/shadcn-labs/pdfcn/issues/13) | `shadcn-labs/pdfcn` | ⭐ 1.7k |
+| 2026-09-13 | 🥇 | [[Good First Issue] 🍥 Add new Example Sentence 53 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30343) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-13 | 🥇 | [[Good First Issue] 🍵 Add new Etiquette Tip 114 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30342) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-13 | 🥇 | [[Good First Issue] 🍜 Add new False Friend Pair 92 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30341) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-13 | 🥇 | [[Good First Issue] 🎴 Add new Dialect Entry 90 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30338) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-13 | 🥇 | [Add tools to Yahoo Sports](https://github.com/PipedreamHQ/pipedream/issues/21979) | `PipedreamHQ/pipedream` | ⭐ 11.7k |
+| 2026-09-13 | 🥈 | [CSS: custom property with only \!important\ as value is not idempotent — extra s](https://github.com/prettier/prettier/issues/20052) | `prettier/prettier` | ⭐ 52.2k |
+| 2026-09-13 | 🥉 | [v3(lib): documentation site on GitHub Pages](https://github.com/sveltekit-i18n/lib/issues/253) | `sveltekit-i18n/lib` | ⭐ 576 |
+| 2026-09-13 | 🥉 | [Proposal: interactive source-map failure investigation lab](https://github.com/getsentry/sentry-docs/issues/19388) | `getsentry/sentry-docs` | ⭐ 445 |
 | 2026-09-13 | 🥇 | [[Good First Issue] 🍚 Add new Japanese Idiom 77 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30337) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-13 | 🥇 | [AI search keeps the previous time window when the new query has no time phrase](https://github.com/OpsiMate/OpsiMate/issues/962) | `OpsiMate/OpsiMate` | ⭐ 211 |
 | 2026-09-13 | 🥇 | [Add unit tests for shared normalizeAlertSeverity](https://github.com/OpsiMate/OpsiMate/issues/961) | `OpsiMate/OpsiMate` | ⭐ 211 |
@@ -94,13 +104,3 @@
 | 2026-09-12 | 🥈 | [Document how to contribute a non-English language adaptation](https://github.com/conorbronsdon/avoid-ai-writing/issues/250) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
 | 2026-09-12 | 🥈 | [Audit uncited "AI writes X / humans write Y" claims in the catalog](https://github.com/conorbronsdon/avoid-ai-writing/issues/249) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
 | 2026-09-12 | 🥈 | [Document the mapping between skill context profiles and detector contextMode](https://github.com/conorbronsdon/avoid-ai-writing/issues/248) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥈 | [Check every catalog heading against CATEGORIES.md in CI](https://github.com/conorbronsdon/avoid-ai-writing/issues/247) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥈 | [Stamp and validate a version in the six sub-skill frontmatters](https://github.com/conorbronsdon/avoid-ai-writing/issues/246) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥈 | [Resolve GUARD: documented as a typed edge, rejected by the connection validator](https://github.com/conorbronsdon/avoid-ai-writing/issues/245) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥈 | [Add --source-mode to the bundled ChatGPT/Codex detector script](https://github.com/conorbronsdon/avoid-ai-writing/issues/244) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥈 | [Pre-commit hook crashes whenever a project overrides options via args](https://github.com/conorbronsdon/avoid-ai-writing/issues/243) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥈 | [Add fixtures for the stylometric detector types and enforce fixture coverage in ](https://github.com/conorbronsdon/avoid-ai-writing/issues/242) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥈 | [Report unsegmented-script documents instead of scoring them "Too short"](https://github.com/conorbronsdon/avoid-ai-writing/issues/241) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥈 | [title-case-header misses headings that contain an acronym or a one-letter word](https://github.com/conorbronsdon/avoid-ai-writing/issues/240) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥈 | [Narrow or retire acknowledgment-loop: it fires on ordinary question framing](https://github.com/conorbronsdon/avoid-ai-writing/issues/239) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥈 | [Make the self-reference escape hatch executable: exempt quoted material from sco](https://github.com/conorbronsdon/avoid-ai-writing/issues/238) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
