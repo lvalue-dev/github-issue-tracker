@@ -1,5 +1,155 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30320",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30320,
+    "title": "[Good First Issue] 🥢 Add new Community Note Line #4 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30320",
+    "comments": 1,
+    "createdAt": "2026-09-13T14:01:01Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-13T14:33:23.787Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30319",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30319,
+    "title": "[Good First Issue] 🌸 Add new Wallpaper URL #4 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30319",
+    "comments": 1,
+    "createdAt": "2026-09-13T13:57:27Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-13T14:33:23.787Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30317",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30317,
+    "title": "[Good First Issue] 🎏 Add new Learner Mistake 79 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30317",
+    "comments": 1,
+    "createdAt": "2026-09-13T13:01:07Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-13T14:33:23.960Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30316",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30316,
+    "title": "[Good First Issue] 🎎 Add new Example Sentence 32 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30316",
+    "comments": 1,
+    "createdAt": "2026-09-13T12:57:29Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-13T14:33:23.960Z"
+  },
+  {
+    "key": "Smaug6739/Alexandrie#772",
+    "tier": 1,
+    "repo": "Smaug6739/Alexandrie",
+    "number": 772,
+    "title": "Kanban is selectable in All workspaces but falls back to a DEBUG message when no parent is selected",
+    "url": "https://github.com/Smaug6739/Alexandrie/issues/772",
+    "comments": 0,
+    "createdAt": "2026-09-13T06:23:01Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "frontend",
+      "P0"
+    ],
+    "language": "vue",
+    "stars": 2734,
+    "foundAt": "2026-09-13T14:33:25.613Z"
+  },
+  {
+    "key": "processing/p5.js#9171",
+    "tier": 2,
+    "repo": "processing/p5.js",
+    "number": 9171,
+    "title": "[p5.js 2.0+ Bug Report]: Minor issues in the creating libraries contributor doc",
+    "url": "https://github.com/processing/p5.js/issues/9171",
+    "comments": 0,
+    "createdAt": "2026-09-13T14:30:33Z",
+    "labels": [
+      "Documentation",
+      "Help Wanted",
+      "p5.js 2.0+"
+    ],
+    "language": "javascript",
+    "stars": 23988,
+    "foundAt": "2026-09-13T14:33:26.213Z"
+  },
+  {
+    "key": "meshery/meshery#21951",
+    "tier": 2,
+    "repo": "meshery/meshery",
+    "number": 21951,
+    "title": "[Docs] Add a troubleshooting note for Meshery Server startup failures",
+    "url": "https://github.com/meshery/meshery/issues/21951",
+    "comments": 1,
+    "createdAt": "2026-09-13T14:01:13Z",
+    "labels": [
+      "help wanted",
+      "area/docs",
+      "language/markdown",
+      "framework/hugo"
+    ],
+    "language": "typescript",
+    "stars": 11744,
+    "foundAt": "2026-09-13T14:33:26.023Z"
+  },
+  {
     "key": "bastani-inc/atomic#3025",
     "tier": 1,
     "repo": "bastani-inc/atomic",
@@ -1800,161 +1950,5 @@
     "language": "typescript",
     "stars": 3350,
     "foundAt": "2026-09-12T09:28:40.205Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30230",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30230,
-    "title": "[Good First Issue] 🍥 Add new Japanese Proverb 13 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30230",
-    "comments": 1,
-    "createdAt": "2026-09-12T08:57:32Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-12T09:28:40.205Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30228",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30228,
-    "title": "[Good First Issue] 🎌 Add new Theme: Cedar Moss - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30228",
-    "comments": 1,
-    "createdAt": "2026-09-12T07:57:28Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-12T09:28:40.414Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30226",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30226,
-    "title": "[Good First Issue] 🦊 Add new Community Note Line #3 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30226",
-    "comments": 1,
-    "createdAt": "2026-09-12T07:01:03Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-12T09:28:40.576Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30224",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30224,
-    "title": "[Good First Issue] 🍱 Add new Learner Mistake 81 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30224",
-    "comments": 1,
-    "createdAt": "2026-09-12T06:01:10Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-12T09:28:40.931Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30223",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30223,
-    "title": "[Good First Issue] 🐉 Add new Etiquette Tip 86 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30223",
-    "comments": 1,
-    "createdAt": "2026-09-12T05:58:03Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-12T09:28:40.931Z"
-  },
-  {
-    "key": "medusajs/medusa#16802",
-    "tier": 1,
-    "repo": "medusajs/medusa",
-    "number": 16802,
-    "title": "Store cart accepts fractional line-item quantity: 0.1 is stored as 0 and makes the cart uncompletable",
-    "url": "https://github.com/medusajs/medusa/issues/16802",
-    "comments": 1,
-    "createdAt": "2026-09-12T05:15:48Z",
-    "labels": [
-      "good first issue",
-      "type: bug"
-    ],
-    "language": "typescript",
-    "stars": 36246,
-    "foundAt": "2026-09-12T09:28:41.083Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30222",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30222,
-    "title": "[Good First Issue] 🍜 Add new False Friend Pair 46 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30222",
-    "comments": 1,
-    "createdAt": "2026-09-12T05:01:02Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-12T09:28:41.083Z"
   }
 ]

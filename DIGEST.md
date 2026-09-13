@@ -4,6 +4,13 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-13 | 🥇 | [[Good First Issue] 🥢 Add new Community Note Line #4 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30320) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-13 | 🥇 | [[Good First Issue] 🌸 Add new Wallpaper URL #4 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30319) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-13 | 🥇 | [[Good First Issue] 🎏 Add new Learner Mistake 79 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30317) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-13 | 🥇 | [[Good First Issue] 🎎 Add new Example Sentence 32 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30316) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-13 | 🥇 | [Kanban is selectable in All workspaces but falls back to a DEBUG message when no](https://github.com/Smaug6739/Alexandrie/issues/772) | `Smaug6739/Alexandrie` | ⭐ 2.7k |
+| 2026-09-13 | 🥈 | [[p5.js 2.0+ Bug Report]: Minor issues in the creating libraries contributor doc](https://github.com/processing/p5.js/issues/9171) | `processing/p5.js` | ⭐ 24.0k |
+| 2026-09-13 | 🥈 | [[Docs] Add a troubleshooting note for Meshery Server startup failures](https://github.com/meshery/meshery/issues/21951) | `meshery/meshery` | ⭐ 11.7k |
 | 2026-09-13 | 🥇 | [Support background shells in subagents and show them in the parent session's /ta](https://github.com/bastani-inc/atomic/issues/3025) | `bastani-inc/atomic` | ⭐ 784 |
 | 2026-09-13 | 🥇 | [[Good First Issue] 🎏 Add new Japan Fact 192 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30297) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-13 | 🥈 | [[Bug] Hacktoberfest program card navigates to /programs/null instead of valid sl](https://github.com/layer5io/layer5/issues/8050) | `layer5io/layer5` | ⭐ 1.1k |
@@ -97,10 +104,3 @@
 | 2026-09-12 | 🥉 | [fix(dev-docs): make Skip to main content reach the documentation article](https://github.com/YosemiteCrew/Yosemite-Crew/issues/3192) | `YosemiteCrew/Yosemite-Crew` | ⭐ 2.0k |
 | 2026-09-12 | 🥉 | [fix(dev-docs): support keyboard result selection in documentation search](https://github.com/YosemiteCrew/Yosemite-Crew/issues/3191) | `YosemiteCrew/Yosemite-Crew` | ⭐ 2.0k |
 | 2026-09-12 | 🥇 | [[Good First Issue] 🍤 Add new Japanese Haiku 10 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30231) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-12 | 🥇 | [[Good First Issue] 🍥 Add new Japanese Proverb 13 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30230) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-12 | 🥇 | [[Good First Issue] 🎌 Add new Theme: Cedar Moss - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30228) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-12 | 🥇 | [[Good First Issue] 🦊 Add new Community Note Line #3 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30226) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-12 | 🥇 | [[Good First Issue] 🍱 Add new Learner Mistake 81 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30224) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-12 | 🥇 | [[Good First Issue] 🐉 Add new Etiquette Tip 86 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30223) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-12 | 🥇 | [Store cart accepts fractional line-item quantity: 0.1 is stored as 0 and makes t](https://github.com/medusajs/medusa/issues/16802) | `medusajs/medusa` | ⭐ 36.2k |
-| 2026-09-12 | 🥇 | [[Good First Issue] 🍜 Add new False Friend Pair 46 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30222) | `lingdojo/kana-dojo` | ⭐ 3.4k |
