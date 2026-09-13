@@ -1,5 +1,116 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30278",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30278,
+    "title": "[Good First Issue] 🐙 Add new Japan Fact 244 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30278",
+    "comments": 1,
+    "createdAt": "2026-09-13T00:01:11Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-13T00:08:26.418Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30277",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30277,
+    "title": "[Good First Issue] 🍤 Add new Theme: Digital Oni - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30277",
+    "comments": 1,
+    "createdAt": "2026-09-12T23:57:32Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-13T00:08:26.418Z"
+  },
+  {
+    "key": "NuSkooler/enigma-bbs#824",
+    "tier": 1,
+    "repo": "NuSkooler/enigma-bbs",
+    "number": 824,
+    "title": "Drop files: the call time is written in 12-hour format, and \"Time of Last Call\" is given this call's time",
+    "url": "https://github.com/NuSkooler/enigma-bbs/issues/824",
+    "comments": 0,
+    "createdAt": "2026-09-12T23:31:29Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "javascript",
+    "stars": 665,
+    "foundAt": "2026-09-13T00:08:27.635Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30276",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30276,
+    "title": "[Good First Issue] 🎌 Add new Community Note Line #3 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30276",
+    "comments": 1,
+    "createdAt": "2026-09-12T23:01:07Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-13T00:08:26.899Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30275",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30275,
+    "title": "[Good First Issue] 🍜 Add new Wallpaper URL #3 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30275",
+    "comments": 1,
+    "createdAt": "2026-09-12T22:57:30Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-13T00:08:26.899Z"
+  },
+  {
     "key": "traceroot-ai/traceroot#2175",
     "tier": 1,
     "repo": "traceroot-ai/traceroot",
@@ -1822,116 +1933,5 @@
     "language": "typescript",
     "stars": 3350,
     "foundAt": "2026-09-12T04:51:53.488Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30214",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30214,
-    "title": "[Good First Issue] 🗾 Add new Japan Fact 200 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30214",
-    "comments": 1,
-    "createdAt": "2026-09-12T01:57:29Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-12T04:51:53.488Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30213",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30213,
-    "title": "[Good First Issue] 🎴 Add new Theme: Onsen Steam - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30213",
-    "comments": 1,
-    "createdAt": "2026-09-12T01:01:06Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-12T04:51:53.488Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30212",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30212,
-    "title": "[Good First Issue] 🌺 Add new Community Note Line #2 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30212",
-    "comments": 1,
-    "createdAt": "2026-09-12T00:57:31Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-12T04:51:53.488Z"
-  },
-  {
-    "key": "snapotter-hq/SnapOtter#1095",
-    "tier": 3,
-    "repo": "snapotter-hq/SnapOtter",
-    "number": 1095,
-    "title": "fix: 17 of the 23 supported camera RAW formats can't be selected in the UI, including Canon CR3",
-    "url": "https://github.com/snapotter-hq/SnapOtter/issues/1095",
-    "comments": 0,
-    "createdAt": "2026-09-12T04:40:31Z",
-    "labels": [
-      "bug",
-      "documentation",
-      "area: frontend",
-      "priority: high",
-      "community-request"
-    ],
-    "language": "typescript",
-    "stars": 2636,
-    "foundAt": "2026-09-12T04:51:54.026Z"
-  },
-  {
-    "key": "Adamant-im/adamant-exchangebot#55",
-    "tier": 3,
-    "repo": "Adamant-im/adamant-exchangebot",
-    "number": 55,
-    "title": "[Refactor, Composite] Modernize the stack, migrate to adamant-api v3, drop Lisk, and cover the bot with tests",
-    "url": "https://github.com/Adamant-im/adamant-exchangebot/issues/55",
-    "comments": 0,
-    "createdAt": "2026-09-12T04:27:57Z",
-    "labels": [
-      "APIs",
-      "Composite task",
-      "Task",
-      "documentation",
-      "NodeJS",
-      "Security"
-    ],
-    "language": "javascript",
-    "stars": 471,
-    "foundAt": "2026-09-12T04:51:55.438Z"
   }
 ]

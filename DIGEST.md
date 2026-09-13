@@ -4,6 +4,11 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-13 | 🥇 | [[Good First Issue] 🐙 Add new Japan Fact 244 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30278) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-13 | 🥇 | [[Good First Issue] 🍤 Add new Theme: Digital Oni - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30277) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-13 | 🥇 | [Drop files: the call time is written in 12-hour format, and "Time of Last Call" ](https://github.com/NuSkooler/enigma-bbs/issues/824) | `NuSkooler/enigma-bbs` | ⭐ 665 |
+| 2026-09-13 | 🥇 | [[Good First Issue] 🎌 Add new Community Note Line #3 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30276) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-13 | 🥇 | [[Good First Issue] 🍜 Add new Wallpaper URL #3 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30275) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-12 | 🥇 | [BYOK model dropdowns offer models the provider has retired](https://github.com/traceroot-ai/traceroot/issues/2175) | `traceroot-ai/traceroot` | ⭐ 765 |
 | 2026-09-12 | 🥇 | [[Good First Issue] 🍘 Add new Learner Mistake 112 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30274) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-12 | 🥇 | [[Good First Issue] 🐉 Add new Example Sentence 58 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30272) | `lingdojo/kana-dojo` | ⭐ 3.4k |
@@ -99,8 +104,3 @@
 | 2026-09-12 | 🥈 | [Make rendered-Markdown HTML comment masking linear](https://github.com/conorbronsdon/avoid-ai-writing/issues/190) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
 | 2026-09-12 | 🥈 | [Preserve source offsets through detector preprocessing](https://github.com/conorbronsdon/avoid-ai-writing/issues/189) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
 | 2026-09-12 | 🥈 | [[Good First Issue] 🧧 Add new Japanese Proverb 172 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30215) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-12 | 🥈 | [[Good First Issue] 🗾 Add new Japan Fact 200 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30214) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-12 | 🥈 | [[Good First Issue] 🎴 Add new Theme: Onsen Steam - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30213) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-12 | 🥈 | [[Good First Issue] 🌺 Add new Community Note Line #2 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30212) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-12 | 🥉 | [fix: 17 of the 23 supported camera RAW formats can't be selected in the UI, incl](https://github.com/snapotter-hq/SnapOtter/issues/1095) | `snapotter-hq/SnapOtter` | ⭐ 2.6k |
-| 2026-09-12 | 🥉 | [[Refactor, Composite] Modernize the stack, migrate to adamant-api v3, drop Lisk,](https://github.com/Adamant-im/adamant-exchangebot/issues/55) | `Adamant-im/adamant-exchangebot` | ⭐ 471 |
