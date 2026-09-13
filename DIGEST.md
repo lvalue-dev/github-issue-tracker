@@ -4,6 +4,20 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-13 | 🥇 | [[Good First Issue] 🐉 Add new Etiquette Tip 107 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30287) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-13 | 🥇 | [[Good First Issue] 🌊 Add new False Friend Pair 28 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30286) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-13 | 🥇 | [[Good First Issue] 🌊 Add new Dialect Entry 73 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30285) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-13 | 🥇 | [[Good First Issue] ⛩️ Add new Japanese Idiom 51 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30284) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-13 | 🥇 | [[Good First Issue] 🍛 Add new Video Game Quote 62 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30283) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-13 | 🥇 | [[Good First Issue] 🌺 Add new Anime Quote 16 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30282) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-13 | 🥇 | [[Good First Issue] 🪭 Add new Trivia Question 33 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30281) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-13 | 🥇 | [Duplicate description meta tags are included in pages that extend `templates/pag](https://github.com/matrix-org/matrix.org/issues/3633) | `matrix-org/matrix.org` | ⭐ 616 |
+| 2026-09-13 | 🥇 | [[Good First Issue] 🌊 Add new Japanese Haiku 2 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30280) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-13 | 🥇 | [[Good First Issue] 🍤 Add new Japanese Proverb 81 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30279) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-13 | 🥇 | ["Show time remaining with reference to playback speed" -option stopped working🐞](https://github.com/code-charity/youtube/issues/4340) | `code-charity/youtube` | ⭐ 4.6k |
+| 2026-09-13 | 🥈 | [[Good First Issue] 🎌 Add new Example Sentence 106 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30288) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-13 | 🥈 | [Feature Request: Introduce structured intent field for deterministic Ask-to-Act ](https://github.com/webbrain-one/webbrain/issues/3029) | `webbrain-one/webbrain` | ⭐ 1.0k |
+| 2026-09-13 | 🥈 | [[Docs] Fix broken relative image paths in mesheryctl command reference and contr](https://github.com/meshery/meshery/issues/21949) | `meshery/meshery` | ⭐ 11.7k |
 | 2026-09-13 | 🥇 | [[Good First Issue] 🐙 Add new Japan Fact 244 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30278) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-13 | 🥇 | [[Good First Issue] 🍤 Add new Theme: Digital Oni - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30277) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-13 | 🥇 | [Drop files: the call time is written in 12-hour format, and "Time of Last Call" ](https://github.com/NuSkooler/enigma-bbs/issues/824) | `NuSkooler/enigma-bbs` | ⭐ 665 |
@@ -90,17 +104,3 @@
 | 2026-09-12 | 🥈 | [[Website] Fix inconsistent alignment of Project Mailing Lists cards](https://github.com/meshery/meshery.io/issues/2972) | `meshery/meshery.io` | ⭐ 854 |
 | 2026-09-12 | 🥈 | [createTrigger: support column-specific triggers (`UPDATE OF column, …`) with quo](https://github.com/salsita/node-pg-migrate/issues/1736) | `salsita/node-pg-migrate` | ⭐ 1.5k |
 | 2026-09-12 | 🥈 | [fix(ui): uneven heights and layout overflow in testimonial cards on `/pricing`](https://github.com/layer5io/layer5/issues/8045) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-12 | 🥉 | [Standardize Wi-Fi in prose and check name casing in review](https://github.com/meshtastic/meshtastic/issues/2687) | `meshtastic/meshtastic` | ⭐ 2.2k |
-| 2026-09-12 | 🥉 | [Contributor documentation section is out of date with the site](https://github.com/meshtastic/meshtastic/issues/2686) | `meshtastic/meshtastic` | ⭐ 2.2k |
-| 2026-09-12 | 🥇 | [feat: "jpg to ico" finds nothing even though the favicon tool makes ICO](https://github.com/snapotter-hq/SnapOtter/issues/1100) | `snapotter-hq/SnapOtter` | ⭐ 2.6k |
-| 2026-09-12 | 🥇 | [feat(audio): fill the conversion preset matrix; opus-to-* is missing entirely an](https://github.com/snapotter-hq/SnapOtter/issues/1099) | `snapotter-hq/SnapOtter` | ⭐ 2.6k |
-| 2026-09-12 | 🥇 | [Add a structured bug-report issue form](https://github.com/conorbronsdon/avoid-ai-writing/issues/188) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥇 | [Run detector CI for CLI and automation-surface changes](https://github.com/conorbronsdon/avoid-ai-writing/issues/187) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥇 | [[Good First Issue] 🍜 Add new Japanese Idiom 55 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30219) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-12 | 🥇 | [[Good First Issue] ⛩️ Add new Video Game Quote 32 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30218) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-12 | 🥇 | [[Bug] Polygonal lasso only closes on double-click, with no hint saying so](https://github.com/snapotter-hq/SnapOtter/issues/1059) | `snapotter-hq/SnapOtter` | ⭐ 2.6k |
-| 2026-09-12 | 🥇 | [[Good First Issue] 🎍 Add new Trivia Question 41 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30216) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-12 | 🥈 | [Reject release version drift before creating a tag or GitHub release](https://github.com/conorbronsdon/avoid-ai-writing/issues/191) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥈 | [Make rendered-Markdown HTML comment masking linear](https://github.com/conorbronsdon/avoid-ai-writing/issues/190) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥈 | [Preserve source offsets through detector preprocessing](https://github.com/conorbronsdon/avoid-ai-writing/issues/189) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥈 | [[Good First Issue] 🧧 Add new Japanese Proverb 172 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30215) | `lingdojo/kana-dojo` | ⭐ 3.4k |
