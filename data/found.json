@@ -1,5 +1,517 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30353",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30353,
+    "title": "[Good First Issue] 🌋 Add new Japanese Proverb 124 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30353",
+    "comments": 1,
+    "createdAt": "2026-09-13T23:01:06Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-13T23:15:50.257Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30351",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30351,
+    "title": "[Good First Issue] 🎏 Add new Japan Fact 147 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30351",
+    "comments": 1,
+    "createdAt": "2026-09-13T22:34:31Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-13T23:15:50.463Z"
+  },
+  {
+    "key": "shadcn-labs/pdfcn#26",
+    "tier": 1,
+    "repo": "shadcn-labs/pdfcn",
+    "number": 26,
+    "title": "block: Medical Intake Form",
+    "url": "https://github.com/shadcn-labs/pdfcn/issues/26",
+    "comments": 0,
+    "createdAt": "2026-09-13T22:04:40Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 1727,
+    "foundAt": "2026-09-13T23:15:50.463Z"
+  },
+  {
+    "key": "shadcn-labs/pdfcn#24",
+    "tier": 1,
+    "repo": "shadcn-labs/pdfcn",
+    "number": 24,
+    "title": "block: Shipping Label",
+    "url": "https://github.com/shadcn-labs/pdfcn/issues/24",
+    "comments": 0,
+    "createdAt": "2026-09-13T22:04:40Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 1727,
+    "foundAt": "2026-09-13T23:15:50.463Z"
+  },
+  {
+    "key": "shadcn-labs/pdfcn#27",
+    "tier": 1,
+    "repo": "shadcn-labs/pdfcn",
+    "number": 27,
+    "title": "block: Work Order",
+    "url": "https://github.com/shadcn-labs/pdfcn/issues/27",
+    "comments": 0,
+    "createdAt": "2026-09-13T22:04:40Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 1727,
+    "foundAt": "2026-09-13T23:15:50.463Z"
+  },
+  {
+    "key": "shadcn-labs/pdfcn#25",
+    "tier": 1,
+    "repo": "shadcn-labs/pdfcn",
+    "number": 25,
+    "title": "block: Gift Certificate",
+    "url": "https://github.com/shadcn-labs/pdfcn/issues/25",
+    "comments": 0,
+    "createdAt": "2026-09-13T22:04:40Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 1727,
+    "foundAt": "2026-09-13T23:15:50.463Z"
+  },
+  {
+    "key": "shadcn-labs/pdfcn#23",
+    "tier": 1,
+    "repo": "shadcn-labs/pdfcn",
+    "number": 23,
+    "title": "block: Event Agenda",
+    "url": "https://github.com/shadcn-labs/pdfcn/issues/23",
+    "comments": 0,
+    "createdAt": "2026-09-13T22:04:39Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 1727,
+    "foundAt": "2026-09-13T23:15:50.463Z"
+  },
+  {
+    "key": "shadcn-labs/pdfcn#22",
+    "tier": 1,
+    "repo": "shadcn-labs/pdfcn",
+    "number": 22,
+    "title": "block: Meeting Minutes",
+    "url": "https://github.com/shadcn-labs/pdfcn/issues/22",
+    "comments": 0,
+    "createdAt": "2026-09-13T22:04:39Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 1727,
+    "foundAt": "2026-09-13T23:15:50.463Z"
+  },
+  {
+    "key": "shadcn-labs/pdfcn#19",
+    "tier": 1,
+    "repo": "shadcn-labs/pdfcn",
+    "number": 19,
+    "title": "block: Packing Slip",
+    "url": "https://github.com/shadcn-labs/pdfcn/issues/19",
+    "comments": 0,
+    "createdAt": "2026-09-13T22:04:38Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 1727,
+    "foundAt": "2026-09-13T23:15:50.463Z"
+  },
+  {
+    "key": "shadcn-labs/pdfcn#21",
+    "tier": 1,
+    "repo": "shadcn-labs/pdfcn",
+    "number": 21,
+    "title": "block: Press Release",
+    "url": "https://github.com/shadcn-labs/pdfcn/issues/21",
+    "comments": 0,
+    "createdAt": "2026-09-13T22:04:38Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 1727,
+    "foundAt": "2026-09-13T23:15:50.464Z"
+  },
+  {
+    "key": "shadcn-labs/pdfcn#20",
+    "tier": 1,
+    "repo": "shadcn-labs/pdfcn",
+    "number": 20,
+    "title": "block: Lesson Plan",
+    "url": "https://github.com/shadcn-labs/pdfcn/issues/20",
+    "comments": 0,
+    "createdAt": "2026-09-13T22:04:38Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 1727,
+    "foundAt": "2026-09-13T23:15:50.464Z"
+  },
+  {
+    "key": "shadcn-labs/pdfcn#18",
+    "tier": 1,
+    "repo": "shadcn-labs/pdfcn",
+    "number": 18,
+    "title": "block: Event Ticket",
+    "url": "https://github.com/shadcn-labs/pdfcn/issues/18",
+    "comments": 0,
+    "createdAt": "2026-09-13T22:04:37Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 1727,
+    "foundAt": "2026-09-13T23:15:50.464Z"
+  },
+  {
+    "key": "shadcn-labs/pdfcn#17",
+    "tier": 1,
+    "repo": "shadcn-labs/pdfcn",
+    "number": 17,
+    "title": "block: Event Ticket",
+    "url": "https://github.com/shadcn-labs/pdfcn/issues/17",
+    "comments": 0,
+    "createdAt": "2026-09-13T22:03:45Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 1727,
+    "foundAt": "2026-09-13T23:15:50.464Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30348",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30348,
+    "title": "[Good First Issue] 🧧 Add new Theme: Plaza Snow - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30348",
+    "comments": 1,
+    "createdAt": "2026-09-13T22:01:03Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-13T23:15:50.464Z"
+  },
+  {
+    "key": "shadcn-labs/pdfcn#16",
+    "tier": 1,
+    "repo": "shadcn-labs/pdfcn",
+    "number": 16,
+    "title": "feat: Add community page for sharing and browsing PDF templates",
+    "url": "https://github.com/shadcn-labs/pdfcn/issues/16",
+    "comments": 0,
+    "createdAt": "2026-09-13T22:00:01Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 1727,
+    "foundAt": "2026-09-13T23:15:50.464Z"
+  },
+  {
+    "key": "shadcn-labs/pdfcn#15",
+    "tier": 1,
+    "repo": "shadcn-labs/pdfcn",
+    "number": 15,
+    "title": "feat: Build an official pdfcn agent skill for AI coding assistants",
+    "url": "https://github.com/shadcn-labs/pdfcn/issues/15",
+    "comments": 0,
+    "createdAt": "2026-09-13T21:56:27Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 1727,
+    "foundAt": "2026-09-13T23:15:50.464Z"
+  },
+  {
+    "key": "shadcn-labs/pdfcn#14",
+    "tier": 1,
+    "repo": "shadcn-labs/pdfcn",
+    "number": 14,
+    "title": "feat: Add Unlayer Elements as a fourth rendering base for PDF generation",
+    "url": "https://github.com/shadcn-labs/pdfcn/issues/14",
+    "comments": 0,
+    "createdAt": "2026-09-13T21:45:16Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 1727,
+    "foundAt": "2026-09-13T23:15:50.464Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30347",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30347,
+    "title": "[Good First Issue] 🌺 Add new Community Note Line #4 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30347",
+    "comments": 1,
+    "createdAt": "2026-09-13T21:34:33Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-13T23:15:50.464Z"
+  },
+  {
+    "key": "conorbronsdon/avoid-ai-writing#291",
+    "tier": 1,
+    "repo": "conorbronsdon/avoid-ai-writing",
+    "number": 291,
+    "title": "Keep title-case header matches within one physical line",
+    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/291",
+    "comments": 0,
+    "createdAt": "2026-09-13T21:04:44Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "javascript",
+    "stars": 4304,
+    "foundAt": "2026-09-13T23:15:50.842Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30345",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30345,
+    "title": "[Good First Issue] 🍥 Add new Wallpaper URL #4 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30345",
+    "comments": 1,
+    "createdAt": "2026-09-13T21:01:00Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-13T23:15:50.464Z"
+  },
+  {
+    "key": "KeepSoftwareSimple/compass-calendar#3720",
+    "tier": 3,
+    "repo": "KeepSoftwareSimple/compass-calendar",
+    "number": 3720,
+    "title": "[agent] meeting readiness WP-14: run a privacy-safe Meeting feedback and continuous improvement loop",
+    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3720",
+    "comments": 0,
+    "createdAt": "2026-09-13T22:26:25Z",
+    "labels": [
+      "web",
+      "docs",
+      "meeting-readiness",
+      "priority:p2",
+      "post-launch"
+    ],
+    "language": "typescript",
+    "stars": 228,
+    "foundAt": "2026-09-13T23:15:52.372Z"
+  },
+  {
+    "key": "KeepSoftwareSimple/compass-calendar#3719",
+    "tier": 3,
+    "repo": "KeepSoftwareSimple/compass-calendar",
+    "number": 3719,
+    "title": "[human] meeting readiness WP-13: verify live provider flows and record the production release decision",
+    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3719",
+    "comments": 0,
+    "createdAt": "2026-09-13T22:26:24Z",
+    "labels": [
+      "e2e",
+      "docs",
+      "agent-loop-needs-human",
+      "meeting-readiness",
+      "priority:p2",
+      "launch-essential"
+    ],
+    "language": "typescript",
+    "stars": 228,
+    "foundAt": "2026-09-13T23:15:52.372Z"
+  },
+  {
+    "key": "KeepSoftwareSimple/compass-calendar#3718",
+    "tier": 3,
+    "repo": "KeepSoftwareSimple/compass-calendar",
+    "number": 3718,
+    "title": "[agent] meeting readiness WP-12: publish Meeting dashboards and actionable release monitoring rules",
+    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3718",
+    "comments": 0,
+    "createdAt": "2026-09-13T22:26:23Z",
+    "labels": [
+      "scripts",
+      "docs",
+      "meeting-readiness",
+      "priority:p2",
+      "launch-essential"
+    ],
+    "language": "typescript",
+    "stars": 228,
+    "foundAt": "2026-09-13T23:15:52.372Z"
+  },
+  {
+    "key": "KeepSoftwareSimple/compass-calendar#3717",
+    "tier": 3,
+    "repo": "KeepSoftwareSimple/compass-calendar",
+    "number": 3717,
+    "title": "[agent] meeting readiness WP-11: emit authoritative booking lifecycle and recovery health signals",
+    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3717",
+    "comments": 0,
+    "createdAt": "2026-09-13T22:26:23Z",
+    "labels": [
+      "backend",
+      "sync-core",
+      "core",
+      "docs",
+      "meeting-readiness",
+      "priority:p2",
+      "launch-essential"
+    ],
+    "language": "typescript",
+    "stars": 228,
+    "foundAt": "2026-09-13T23:15:52.372Z"
+  },
+  {
+    "key": "KeepSoftwareSimple/compass-calendar#3716",
+    "tier": 3,
+    "repo": "KeepSoftwareSimple/compass-calendar",
+    "number": 3716,
+    "title": "[agent] meeting readiness WP-10: complete the host setup and guest conversion funnels in PostHog",
+    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3716",
+    "comments": 0,
+    "createdAt": "2026-09-13T22:26:22Z",
+    "labels": [
+      "web",
+      "core",
+      "docs",
+      "meeting-readiness",
+      "priority:p2",
+      "launch-essential"
+    ],
+    "language": "typescript",
+    "stars": 228,
+    "foundAt": "2026-09-13T23:15:52.372Z"
+  },
+  {
+    "key": "KeepSoftwareSimple/compass-calendar#3715",
+    "tier": 3,
+    "repo": "KeepSoftwareSimple/compass-calendar",
+    "number": 3715,
+    "title": "[agent] meeting readiness WP-09: enforce a deployment-wide public booking abuse budget",
+    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3715",
+    "comments": 0,
+    "createdAt": "2026-09-13T22:26:21Z",
+    "labels": [
+      "backend",
+      "agent-ready",
+      "scripts",
+      "docs",
+      "meeting-readiness",
+      "priority:p2",
+      "launch-essential"
+    ],
+    "language": "typescript",
+    "stars": 228,
+    "foundAt": "2026-09-13T23:15:52.372Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30344",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1527,478 +2039,5 @@
     "language": "javascript",
     "stars": 4304,
     "foundAt": "2026-09-12T17:18:15.980Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#230",
-    "tier": 1,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 230,
-    "title": "Check the package.json version in sync-plugin-skill.sh and drop its unused variable",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/230",
-    "comments": 0,
-    "createdAt": "2026-09-12T16:36:09Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-12T17:18:15.980Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#229",
-    "tier": 1,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 229,
-    "title": "Add keywords, homepage, bugs, and author to package.json",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/229",
-    "comments": 0,
-    "createdAt": "2026-09-12T16:36:00Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-12T17:18:15.980Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#228",
-    "tier": 1,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 228,
-    "title": "Say in the README which documented scripts need a clone rather than the npm package",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/228",
-    "comments": 0,
-    "createdAt": "2026-09-12T16:35:54Z",
-    "labels": [
-      "bug",
-      "documentation",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-12T17:18:15.980Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#227",
-    "tier": 1,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 227,
-    "title": "Add development-setup and release-checklist sections to CONTRIBUTING.md",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/227",
-    "comments": 0,
-    "createdAt": "2026-09-12T16:35:46Z",
-    "labels": [
-      "documentation",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-12T17:18:15.980Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#226",
-    "tier": 1,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 226,
-    "title": "Add a table of contents and live status badges to the README",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/226",
-    "comments": 0,
-    "createdAt": "2026-09-12T16:35:37Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-12T17:18:15.980Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#225",
-    "tier": 1,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 225,
-    "title": "Document the --iterate convergence mode in the README",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/225",
-    "comments": 2,
-    "createdAt": "2026-09-12T16:35:30Z",
-    "labels": [
-      "documentation",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-12T17:18:15.980Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#224",
-    "tier": 1,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 224,
-    "title": "Remove stale comments that name a missing npm script and a missing roadmap file",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/224",
-    "comments": 0,
-    "createdAt": "2026-09-12T16:35:24Z",
-    "labels": [
-      "documentation",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-12T17:18:15.980Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#223",
-    "tier": 1,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 223,
-    "title": "Add PR-template checklist items for the sync scripts, self-scan, and SSOT gates",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/223",
-    "comments": 0,
-    "createdAt": "2026-09-12T16:35:16Z",
-    "labels": [
-      "documentation",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-12T17:18:15.980Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#222",
-    "tier": 1,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 222,
-    "title": "Add an issue-template config.yml and refresh the stale version placeholder",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/222",
-    "comments": 0,
-    "createdAt": "2026-09-12T16:35:05Z",
-    "labels": [
-      "documentation",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-12T17:18:15.980Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#221",
-    "tier": 1,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 221,
-    "title": "Add a check-style round-trip test for examples/prose.json",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/221",
-    "comments": 0,
-    "createdAt": "2026-09-12T16:34:58Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-12T17:18:15.980Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#220",
-    "tier": 1,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 220,
-    "title": "Document the severity-to-P-tier mapping, including the undocumented P3",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/220",
-    "comments": 0,
-    "createdAt": "2026-09-12T16:34:49Z",
-    "labels": [
-      "documentation",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-12T17:18:15.980Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#219",
-    "tier": 1,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 219,
-    "title": "State size limits for the paste-install targets in the README",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/219",
-    "comments": 0,
-    "createdAt": "2026-09-12T16:34:42Z",
-    "labels": [
-      "documentation",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-12T17:18:15.980Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#218",
-    "tier": 1,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 218,
-    "title": "Finish the marks-pass rewrite in the generated Cursor and paste artifacts",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/218",
-    "comments": 0,
-    "createdAt": "2026-09-12T16:34:34Z",
-    "labels": [
-      "bug",
-      "documentation",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-12T17:18:15.980Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#217",
-    "tier": 1,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 217,
-    "title": "List the three unmapped catalog rules in CATEGORIES.md",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/217",
-    "comments": 0,
-    "createdAt": "2026-09-12T16:34:26Z",
-    "labels": [
-      "documentation",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-12T17:18:15.980Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#216",
-    "tier": 1,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 216,
-    "title": "Align the Tier 3 density rule in patterns.md with the per-word engine threshold",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/216",
-    "comments": 0,
-    "createdAt": "2026-09-12T16:34:17Z",
-    "labels": [
-      "bug",
-      "documentation",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-12T17:18:15.980Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#215",
-    "tier": 1,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 215,
-    "title": "Give every word-table row a concrete alternative",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/215",
-    "comments": 0,
-    "createdAt": "2026-09-12T16:34:10Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-12T17:18:15.980Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30256",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30256,
-    "title": "[Good First Issue] 🎌 Add new Theme: Shinto Portal - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30256",
-    "comments": 1,
-    "createdAt": "2026-09-12T15:57:29Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-12T17:18:15.020Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#256",
-    "tier": 2,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 256,
-    "title": "Add a glossary of the project's terms",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/256",
-    "comments": 0,
-    "createdAt": "2026-09-12T16:39:55Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-12T17:18:16.933Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#255",
-    "tier": 2,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 255,
-    "title": "Add SECURITY.md, a code of conduct, and CODEOWNERS",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/255",
-    "comments": 0,
-    "createdAt": "2026-09-12T16:39:48Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-12T17:18:16.933Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#254",
-    "tier": 2,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 254,
-    "title": "Add a scheduled check that the human-control corpus is still fetchable and unchanged",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/254",
-    "comments": 0,
-    "createdAt": "2026-09-12T16:39:41Z",
-    "labels": [
-      "enhancement",
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-12T17:18:16.933Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#253",
-    "tier": 2,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 253,
-    "title": "Give corpus fetch per-document progress and a bounded timeout",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/253",
-    "comments": 0,
-    "createdAt": "2026-09-12T16:39:34Z",
-    "labels": [
-      "enhancement",
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-12T17:18:16.933Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#252",
-    "tier": 2,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 252,
-    "title": "Add machine-readable output to the gate CLI and the GitHub Action",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/252",
-    "comments": 0,
-    "createdAt": "2026-09-12T16:39:26Z",
-    "labels": [
-      "enhancement",
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-12T17:18:16.933Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#251",
-    "tier": 2,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 251,
-    "title": "Make npm test run every suite and report a combined result",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/251",
-    "comments": 0,
-    "createdAt": "2026-09-12T16:39:19Z",
-    "labels": [
-      "enhancement",
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-12T17:18:16.933Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#250",
-    "tier": 2,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 250,
-    "title": "Document how to contribute a non-English language adaptation",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/250",
-    "comments": 0,
-    "createdAt": "2026-09-12T16:39:12Z",
-    "labels": [
-      "documentation",
-      "help wanted",
-      "question"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-12T17:18:16.933Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#249",
-    "tier": 2,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 249,
-    "title": "Audit uncited \"AI writes X / humans write Y\" claims in the catalog",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/249",
-    "comments": 0,
-    "createdAt": "2026-09-12T16:39:05Z",
-    "labels": [
-      "documentation",
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-12T17:18:16.933Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#248",
-    "tier": 2,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 248,
-    "title": "Document the mapping between skill context profiles and detector contextMode",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/248",
-    "comments": 0,
-    "createdAt": "2026-09-12T16:38:56Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-12T17:18:16.933Z"
   }
 ]

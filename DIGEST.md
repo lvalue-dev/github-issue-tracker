@@ -4,6 +4,32 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-13 | 🥇 | [[Good First Issue] 🌋 Add new Japanese Proverb 124 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30353) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-13 | 🥇 | [[Good First Issue] 🎏 Add new Japan Fact 147 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30351) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-13 | 🥇 | [block: Medical Intake Form](https://github.com/shadcn-labs/pdfcn/issues/26) | `shadcn-labs/pdfcn` | ⭐ 1.7k |
+| 2026-09-13 | 🥇 | [block: Shipping Label](https://github.com/shadcn-labs/pdfcn/issues/24) | `shadcn-labs/pdfcn` | ⭐ 1.7k |
+| 2026-09-13 | 🥇 | [block: Work Order](https://github.com/shadcn-labs/pdfcn/issues/27) | `shadcn-labs/pdfcn` | ⭐ 1.7k |
+| 2026-09-13 | 🥇 | [block: Gift Certificate](https://github.com/shadcn-labs/pdfcn/issues/25) | `shadcn-labs/pdfcn` | ⭐ 1.7k |
+| 2026-09-13 | 🥇 | [block: Event Agenda](https://github.com/shadcn-labs/pdfcn/issues/23) | `shadcn-labs/pdfcn` | ⭐ 1.7k |
+| 2026-09-13 | 🥇 | [block: Meeting Minutes](https://github.com/shadcn-labs/pdfcn/issues/22) | `shadcn-labs/pdfcn` | ⭐ 1.7k |
+| 2026-09-13 | 🥇 | [block: Packing Slip](https://github.com/shadcn-labs/pdfcn/issues/19) | `shadcn-labs/pdfcn` | ⭐ 1.7k |
+| 2026-09-13 | 🥇 | [block: Press Release](https://github.com/shadcn-labs/pdfcn/issues/21) | `shadcn-labs/pdfcn` | ⭐ 1.7k |
+| 2026-09-13 | 🥇 | [block: Lesson Plan](https://github.com/shadcn-labs/pdfcn/issues/20) | `shadcn-labs/pdfcn` | ⭐ 1.7k |
+| 2026-09-13 | 🥇 | [block: Event Ticket](https://github.com/shadcn-labs/pdfcn/issues/18) | `shadcn-labs/pdfcn` | ⭐ 1.7k |
+| 2026-09-13 | 🥇 | [block: Event Ticket](https://github.com/shadcn-labs/pdfcn/issues/17) | `shadcn-labs/pdfcn` | ⭐ 1.7k |
+| 2026-09-13 | 🥇 | [[Good First Issue] 🧧 Add new Theme: Plaza Snow - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30348) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-13 | 🥇 | [feat: Add community page for sharing and browsing PDF templates](https://github.com/shadcn-labs/pdfcn/issues/16) | `shadcn-labs/pdfcn` | ⭐ 1.7k |
+| 2026-09-13 | 🥇 | [feat: Build an official pdfcn agent skill for AI coding assistants](https://github.com/shadcn-labs/pdfcn/issues/15) | `shadcn-labs/pdfcn` | ⭐ 1.7k |
+| 2026-09-13 | 🥇 | [feat: Add Unlayer Elements as a fourth rendering base for PDF generation](https://github.com/shadcn-labs/pdfcn/issues/14) | `shadcn-labs/pdfcn` | ⭐ 1.7k |
+| 2026-09-13 | 🥇 | [[Good First Issue] 🌺 Add new Community Note Line #4 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30347) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-13 | 🥇 | [Keep title-case header matches within one physical line](https://github.com/conorbronsdon/avoid-ai-writing/issues/291) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
+| 2026-09-13 | 🥇 | [[Good First Issue] 🍥 Add new Wallpaper URL #4 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30345) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-13 | 🥉 | [[agent] meeting readiness WP-14: run a privacy-safe Meeting feedback and continu](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3720) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
+| 2026-09-13 | 🥉 | [[human] meeting readiness WP-13: verify live provider flows and record the produ](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3719) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
+| 2026-09-13 | 🥉 | [[agent] meeting readiness WP-12: publish Meeting dashboards and actionable relea](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3718) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
+| 2026-09-13 | 🥉 | [[agent] meeting readiness WP-11: emit authoritative booking lifecycle and recove](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3717) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
+| 2026-09-13 | 🥉 | [[agent] meeting readiness WP-10: complete the host setup and guest conversion fu](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3716) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
+| 2026-09-13 | 🥉 | [[agent] meeting readiness WP-09: enforce a deployment-wide public booking abuse ](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3715) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
 | 2026-09-13 | 🥇 | [[Good First Issue] 🍘 Add new Learner Mistake 105 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30344) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-13 | 🥇 | [feat: Add pdfme as a third rendering base using @pdfme/jsx](https://github.com/shadcn-labs/pdfcn/issues/13) | `shadcn-labs/pdfcn` | ⭐ 1.7k |
 | 2026-09-13 | 🥇 | [[Good First Issue] 🍥 Add new Example Sentence 53 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30343) | `lingdojo/kana-dojo` | ⭐ 3.4k |
@@ -78,29 +104,3 @@
 | 2026-09-12 | 🥇 | [Mark generated copies as linguist-generated in .gitattributes](https://github.com/conorbronsdon/avoid-ai-writing/issues/233) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
 | 2026-09-12 | 🥇 | [Test on Node 18 and a current LTS in the detector workflow](https://github.com/conorbronsdon/avoid-ai-writing/issues/232) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
 | 2026-09-12 | 🥇 | [Pin actions by SHA and add timeouts and concurrency to every workflow](https://github.com/conorbronsdon/avoid-ai-writing/issues/231) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥇 | [Check the package.json version in sync-plugin-skill.sh and drop its unused varia](https://github.com/conorbronsdon/avoid-ai-writing/issues/230) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥇 | [Add keywords, homepage, bugs, and author to package.json](https://github.com/conorbronsdon/avoid-ai-writing/issues/229) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥇 | [Say in the README which documented scripts need a clone rather than the npm pack](https://github.com/conorbronsdon/avoid-ai-writing/issues/228) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥇 | [Add development-setup and release-checklist sections to CONTRIBUTING.md](https://github.com/conorbronsdon/avoid-ai-writing/issues/227) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥇 | [Add a table of contents and live status badges to the README](https://github.com/conorbronsdon/avoid-ai-writing/issues/226) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥇 | [Document the --iterate convergence mode in the README](https://github.com/conorbronsdon/avoid-ai-writing/issues/225) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥇 | [Remove stale comments that name a missing npm script and a missing roadmap file](https://github.com/conorbronsdon/avoid-ai-writing/issues/224) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥇 | [Add PR-template checklist items for the sync scripts, self-scan, and SSOT gates](https://github.com/conorbronsdon/avoid-ai-writing/issues/223) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥇 | [Add an issue-template config.yml and refresh the stale version placeholder](https://github.com/conorbronsdon/avoid-ai-writing/issues/222) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥇 | [Add a check-style round-trip test for examples/prose.json](https://github.com/conorbronsdon/avoid-ai-writing/issues/221) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥇 | [Document the severity-to-P-tier mapping, including the undocumented P3](https://github.com/conorbronsdon/avoid-ai-writing/issues/220) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥇 | [State size limits for the paste-install targets in the README](https://github.com/conorbronsdon/avoid-ai-writing/issues/219) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥇 | [Finish the marks-pass rewrite in the generated Cursor and paste artifacts](https://github.com/conorbronsdon/avoid-ai-writing/issues/218) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥇 | [List the three unmapped catalog rules in CATEGORIES.md](https://github.com/conorbronsdon/avoid-ai-writing/issues/217) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥇 | [Align the Tier 3 density rule in patterns.md with the per-word engine threshold](https://github.com/conorbronsdon/avoid-ai-writing/issues/216) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥇 | [Give every word-table row a concrete alternative](https://github.com/conorbronsdon/avoid-ai-writing/issues/215) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥇 | [[Good First Issue] 🎌 Add new Theme: Shinto Portal - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30256) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-12 | 🥈 | [Add a glossary of the project's terms](https://github.com/conorbronsdon/avoid-ai-writing/issues/256) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥈 | [Add SECURITY.md, a code of conduct, and CODEOWNERS](https://github.com/conorbronsdon/avoid-ai-writing/issues/255) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥈 | [Add a scheduled check that the human-control corpus is still fetchable and uncha](https://github.com/conorbronsdon/avoid-ai-writing/issues/254) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥈 | [Give corpus fetch per-document progress and a bounded timeout](https://github.com/conorbronsdon/avoid-ai-writing/issues/253) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥈 | [Add machine-readable output to the gate CLI and the GitHub Action](https://github.com/conorbronsdon/avoid-ai-writing/issues/252) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥈 | [Make npm test run every suite and report a combined result](https://github.com/conorbronsdon/avoid-ai-writing/issues/251) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥈 | [Document how to contribute a non-English language adaptation](https://github.com/conorbronsdon/avoid-ai-writing/issues/250) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥈 | [Audit uncited "AI writes X / humans write Y" claims in the catalog](https://github.com/conorbronsdon/avoid-ai-writing/issues/249) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥈 | [Document the mapping between skill context profiles and detector contextMode](https://github.com/conorbronsdon/avoid-ai-writing/issues/248) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
