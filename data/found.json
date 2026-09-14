@@ -1,5 +1,422 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30403",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30403,
+    "title": "[Good First Issue] 🏯 Add new Grammar Point 115 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30403",
+    "comments": 1,
+    "createdAt": "2026-09-14T14:01:09Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-14T14:16:50.850Z"
+  },
+  {
+    "key": "HelpCode-ai/anythingmcp#602",
+    "tier": 1,
+    "repo": "HelpCode-ai/anythingmcp",
+    "number": 602,
+    "title": "ADOPTERS.md",
+    "url": "https://github.com/HelpCode-ai/anythingmcp/issues/602",
+    "comments": 0,
+    "createdAt": "2026-09-14T13:47:15Z",
+    "labels": [
+      "good first issue",
+      "help wanted",
+      "roadmap"
+    ],
+    "language": "typescript",
+    "stars": 202,
+    "foundAt": "2026-09-14T14:16:51.113Z"
+  },
+  {
+    "key": "HelpCode-ai/anythingmcp#600",
+    "tier": 1,
+    "repo": "HelpCode-ai/anythingmcp",
+    "number": 600,
+    "title": "Multi-language README (de, zh, ja)",
+    "url": "https://github.com/HelpCode-ai/anythingmcp/issues/600",
+    "comments": 0,
+    "createdAt": "2026-09-14T13:47:02Z",
+    "labels": [
+      "good first issue",
+      "help wanted",
+      "hacktoberfest",
+      "roadmap"
+    ],
+    "language": "typescript",
+    "stars": 202,
+    "foundAt": "2026-09-14T14:16:51.113Z"
+  },
+  {
+    "key": "HelpCode-ai/anythingmcp#599",
+    "tier": 1,
+    "repo": "HelpCode-ai/anythingmcp",
+    "number": 599,
+    "title": "Show the catalog's own numbers as live badges",
+    "url": "https://github.com/HelpCode-ai/anythingmcp/issues/599",
+    "comments": 0,
+    "createdAt": "2026-09-14T13:46:55Z",
+    "labels": [
+      "good first issue",
+      "help wanted",
+      "hacktoberfest",
+      "roadmap"
+    ],
+    "language": "typescript",
+    "stars": 202,
+    "foundAt": "2026-09-14T14:16:51.113Z"
+  },
+  {
+    "key": "HelpCode-ai/anythingmcp#586",
+    "tier": 1,
+    "repo": "HelpCode-ai/anythingmcp",
+    "number": 586,
+    "title": "Adapter validation: say what to do, not just what is wrong",
+    "url": "https://github.com/HelpCode-ai/anythingmcp/issues/586",
+    "comments": 0,
+    "createdAt": "2026-09-14T13:45:29Z",
+    "labels": [
+      "good first issue",
+      "help wanted",
+      "hacktoberfest",
+      "roadmap"
+    ],
+    "language": "typescript",
+    "stars": 202,
+    "foundAt": "2026-09-14T14:16:51.113Z"
+  },
+  {
+    "key": "HelpCode-ai/anythingmcp#585",
+    "tier": 1,
+    "repo": "HelpCode-ai/anythingmcp",
+    "number": 585,
+    "title": "Scaffolding CLI: `npm run adapter:new <slug>`",
+    "url": "https://github.com/HelpCode-ai/anythingmcp/issues/585",
+    "comments": 0,
+    "createdAt": "2026-09-14T13:45:23Z",
+    "labels": [
+      "good first issue",
+      "help wanted",
+      "hacktoberfest",
+      "roadmap"
+    ],
+    "language": "typescript",
+    "stars": 202,
+    "foundAt": "2026-09-14T14:16:51.113Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30402",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30402,
+    "title": "[Good First Issue] 🪭 Add new Trivia Question 129 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30402",
+    "comments": 1,
+    "createdAt": "2026-09-14T13:34:33Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-14T14:16:51.113Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30399",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30399,
+    "title": "[Good First Issue] 🧧 Add new Japanese Haiku 1 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30399",
+    "comments": 1,
+    "createdAt": "2026-09-14T13:01:04Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-14T14:16:51.299Z"
+  },
+  {
+    "key": "code-charity/youtube#4343",
+    "tier": 1,
+    "repo": "code-charity/youtube",
+    "number": 4343,
+    "title": "💡Clarify intended direction for playback speed button A/B implementations",
+    "url": "https://github.com/code-charity/youtube/issues/4343",
+    "comments": 0,
+    "createdAt": "2026-09-14T12:52:14Z",
+    "labels": [
+      "Feature request",
+      "help wanted",
+      "good first issue",
+      "up-for-grabs"
+    ],
+    "language": "javascript",
+    "stars": 4583,
+    "foundAt": "2026-09-14T14:16:52.321Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30398",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30398,
+    "title": "[Good First Issue] 🍣 Add new Japanese Proverb 178 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30398",
+    "comments": 1,
+    "createdAt": "2026-09-14T12:34:33Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-14T14:16:51.718Z"
+  },
+  {
+    "key": "devswha/patina#822",
+    "tier": 1,
+    "repo": "devswha/patina",
+    "number": 822,
+    "title": "docs: labelled starter path and pattern-of-the-week #1",
+    "url": "https://github.com/devswha/patina/issues/822",
+    "comments": 1,
+    "createdAt": "2026-09-14T09:45:42Z",
+    "labels": [
+      "good first issue",
+      "patterns",
+      "docs"
+    ],
+    "language": "javascript",
+    "stars": 356,
+    "foundAt": "2026-09-14T14:16:53.105Z"
+  },
+  {
+    "key": "dwyl/technology-stack#179",
+    "tier": 2,
+    "repo": "dwyl/technology-stack",
+    "number": 179,
+    "title": "Chore: Untrusted Dev Machine (`Node.js` Sandbox)",
+    "url": "https://github.com/dwyl/technology-stack/issues/179",
+    "comments": 0,
+    "createdAt": "2026-09-14T13:49:42Z",
+    "labels": [
+      "help wanted",
+      "priority-1",
+      "discuss",
+      "chore",
+      "technical",
+      "tech-debt",
+      "T25m"
+    ],
+    "language": "javascript",
+    "stars": 291,
+    "foundAt": "2026-09-14T14:16:55.182Z"
+  },
+  {
+    "key": "HelpCode-ai/anythingmcp#598",
+    "tier": 2,
+    "repo": "HelpCode-ai/anythingmcp",
+    "number": 598,
+    "title": "OpenAI-compatible endpoint for the AI features",
+    "url": "https://github.com/HelpCode-ai/anythingmcp/issues/598",
+    "comments": 0,
+    "createdAt": "2026-09-14T13:46:48Z",
+    "labels": [
+      "help wanted",
+      "roadmap"
+    ],
+    "language": "typescript",
+    "stars": 202,
+    "foundAt": "2026-09-14T14:16:54.560Z"
+  },
+  {
+    "key": "HelpCode-ai/anythingmcp#597",
+    "tier": 2,
+    "repo": "HelpCode-ai/anythingmcp",
+    "number": 597,
+    "title": "Cloud <-> self-host export and import",
+    "url": "https://github.com/HelpCode-ai/anythingmcp/issues/597",
+    "comments": 0,
+    "createdAt": "2026-09-14T13:46:42Z",
+    "labels": [
+      "help wanted",
+      "roadmap"
+    ],
+    "language": "typescript",
+    "stars": 202,
+    "foundAt": "2026-09-14T14:16:54.560Z"
+  },
+  {
+    "key": "HelpCode-ai/anythingmcp#595",
+    "tier": 2,
+    "repo": "HelpCode-ai/anythingmcp",
+    "number": 595,
+    "title": "OpenTelemetry exporter for traces and metrics",
+    "url": "https://github.com/HelpCode-ai/anythingmcp/issues/595",
+    "comments": 0,
+    "createdAt": "2026-09-14T13:46:28Z",
+    "labels": [
+      "help wanted",
+      "roadmap"
+    ],
+    "language": "typescript",
+    "stars": 202,
+    "foundAt": "2026-09-14T14:16:54.560Z"
+  },
+  {
+    "key": "HelpCode-ai/anythingmcp#593",
+    "tier": 2,
+    "repo": "HelpCode-ai/anythingmcp",
+    "number": 593,
+    "title": "Native MCP elicitation and resources",
+    "url": "https://github.com/HelpCode-ai/anythingmcp/issues/593",
+    "comments": 0,
+    "createdAt": "2026-09-14T13:46:16Z",
+    "labels": [
+      "help wanted",
+      "roadmap"
+    ],
+    "language": "typescript",
+    "stars": 202,
+    "foundAt": "2026-09-14T14:16:54.560Z"
+  },
+  {
+    "key": "HelpCode-ai/anythingmcp#591",
+    "tier": 2,
+    "repo": "HelpCode-ai/anythingmcp",
+    "number": 591,
+    "title": "gRPC connector type",
+    "url": "https://github.com/HelpCode-ai/anythingmcp/issues/591",
+    "comments": 0,
+    "createdAt": "2026-09-14T13:46:02Z",
+    "labels": [
+      "help wanted",
+      "roadmap"
+    ],
+    "language": "typescript",
+    "stars": 202,
+    "foundAt": "2026-09-14T14:16:54.560Z"
+  },
+  {
+    "key": "HelpCode-ai/anythingmcp#589",
+    "tier": 2,
+    "repo": "HelpCode-ai/anythingmcp",
+    "number": 589,
+    "title": "Streaming tool responses for long-running calls",
+    "url": "https://github.com/HelpCode-ai/anythingmcp/issues/589",
+    "comments": 0,
+    "createdAt": "2026-09-14T13:45:49Z",
+    "labels": [
+      "help wanted",
+      "roadmap"
+    ],
+    "language": "typescript",
+    "stars": 202,
+    "foundAt": "2026-09-14T14:16:54.560Z"
+  },
+  {
+    "key": "HelpCode-ai/anythingmcp#588",
+    "tier": 2,
+    "repo": "HelpCode-ai/anythingmcp",
+    "number": 588,
+    "title": "Per-tool latency histograms and error-rate view",
+    "url": "https://github.com/HelpCode-ai/anythingmcp/issues/588",
+    "comments": 0,
+    "createdAt": "2026-09-14T13:45:42Z",
+    "labels": [
+      "help wanted",
+      "roadmap"
+    ],
+    "language": "typescript",
+    "stars": 202,
+    "foundAt": "2026-09-14T14:16:54.560Z"
+  },
+  {
+    "key": "HelpCode-ai/anythingmcp#587",
+    "tier": 2,
+    "repo": "HelpCode-ai/anythingmcp",
+    "number": 587,
+    "title": "Tool-level rate limiting per role",
+    "url": "https://github.com/HelpCode-ai/anythingmcp/issues/587",
+    "comments": 0,
+    "createdAt": "2026-09-14T13:45:36Z",
+    "labels": [
+      "help wanted",
+      "roadmap"
+    ],
+    "language": "typescript",
+    "stars": 202,
+    "foundAt": "2026-09-14T14:16:54.560Z"
+  },
+  {
+    "key": "backstage/backstage#35654",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35654,
+    "title": "Snyk vulnerability [SNYK-JS-NODEMAILER-19784395]",
+    "url": "https://github.com/backstage/backstage/issues/35654",
+    "comments": 0,
+    "createdAt": "2026-09-14T12:17:54Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34409,
+    "foundAt": "2026-09-14T14:16:54.762Z"
+  },
+  {
+    "key": "angular/components#33804",
+    "tier": 3,
+    "repo": "angular/components",
+    "number": 33804,
+    "title": "docs-bug: v21 documentation is unreachable",
+    "url": "https://github.com/angular/components/issues/33804",
+    "comments": 0,
+    "createdAt": "2026-09-14T13:49:23Z",
+    "labels": [
+      "docs",
+      "needs triage",
+      "area: material.angular.io",
+      "gemini-triaged"
+    ],
+    "language": "typescript",
+    "stars": 25045,
+    "foundAt": "2026-09-14T14:16:56.286Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30371",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1602,464 +2019,5 @@
     "language": "typescript",
     "stars": 3350,
     "foundAt": "2026-09-13T05:01:29.400Z"
-  },
-  {
-    "key": "matrix-org/matrix.org#3633",
-    "tier": 1,
-    "repo": "matrix-org/matrix.org",
-    "number": 3633,
-    "title": "Duplicate description meta tags are included in pages that extend `templates/page.html`",
-    "url": "https://github.com/matrix-org/matrix.org/issues/3633",
-    "comments": 0,
-    "createdAt": "2026-09-13T01:40:58Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 616,
-    "foundAt": "2026-09-13T05:01:30.198Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30280",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30280,
-    "title": "[Good First Issue] 🌊 Add new Japanese Haiku 2 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30280",
-    "comments": 1,
-    "createdAt": "2026-09-13T01:01:02Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-13T05:01:29.805Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30279",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30279,
-    "title": "[Good First Issue] 🍤 Add new Japanese Proverb 81 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30279",
-    "comments": 1,
-    "createdAt": "2026-09-13T00:57:32Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-13T05:01:29.805Z"
-  },
-  {
-    "key": "code-charity/youtube#4340",
-    "tier": 1,
-    "repo": "code-charity/youtube",
-    "number": 4340,
-    "title": "\"Show time remaining with reference to playback speed\" -option stopped working🐞",
-    "url": "https://github.com/code-charity/youtube/issues/4340",
-    "comments": 2,
-    "createdAt": "2026-09-13T00:52:52Z",
-    "labels": [
-      "Bug",
-      "help wanted",
-      "good first issue",
-      "up-for-grabs"
-    ],
-    "language": "javascript",
-    "stars": 4566,
-    "foundAt": "2026-09-13T05:01:30.198Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30288",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30288,
-    "title": "[Good First Issue] 🎌 Add new Example Sentence 106 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30288",
-    "comments": 1,
-    "createdAt": "2026-09-13T05:01:03Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-13T05:01:30.707Z"
-  },
-  {
-    "key": "webbrain-one/webbrain#3029",
-    "tier": 2,
-    "repo": "webbrain-one/webbrain",
-    "number": 3029,
-    "title": "Feature Request: Introduce structured intent field for deterministic Ask-to-Act mode transition",
-    "url": "https://github.com/webbrain-one/webbrain/issues/3029",
-    "comments": 0,
-    "createdAt": "2026-09-13T04:38:28Z",
-    "labels": [
-      "enhancement",
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 1034,
-    "foundAt": "2026-09-13T05:01:31.250Z"
-  },
-  {
-    "key": "meshery/meshery#21949",
-    "tier": 2,
-    "repo": "meshery/meshery",
-    "number": 21949,
-    "title": "[Docs] Fix broken relative image paths in mesheryctl command reference and contributor guides",
-    "url": "https://github.com/meshery/meshery/issues/21949",
-    "comments": 2,
-    "createdAt": "2026-09-13T03:53:52Z",
-    "labels": [
-      "help wanted",
-      "area/docs",
-      "language/markdown",
-      "framework/hugo"
-    ],
-    "language": "typescript",
-    "stars": 11744,
-    "foundAt": "2026-09-13T05:01:30.707Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30278",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30278,
-    "title": "[Good First Issue] 🐙 Add new Japan Fact 244 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30278",
-    "comments": 1,
-    "createdAt": "2026-09-13T00:01:11Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-13T00:08:26.418Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30277",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30277,
-    "title": "[Good First Issue] 🍤 Add new Theme: Digital Oni - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30277",
-    "comments": 1,
-    "createdAt": "2026-09-12T23:57:32Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-13T00:08:26.418Z"
-  },
-  {
-    "key": "NuSkooler/enigma-bbs#824",
-    "tier": 1,
-    "repo": "NuSkooler/enigma-bbs",
-    "number": 824,
-    "title": "Drop files: the call time is written in 12-hour format, and \"Time of Last Call\" is given this call's time",
-    "url": "https://github.com/NuSkooler/enigma-bbs/issues/824",
-    "comments": 0,
-    "createdAt": "2026-09-12T23:31:29Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 665,
-    "foundAt": "2026-09-13T00:08:27.635Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30276",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30276,
-    "title": "[Good First Issue] 🎌 Add new Community Note Line #3 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30276",
-    "comments": 1,
-    "createdAt": "2026-09-12T23:01:07Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-13T00:08:26.899Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30275",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30275,
-    "title": "[Good First Issue] 🍜 Add new Wallpaper URL #3 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30275",
-    "comments": 1,
-    "createdAt": "2026-09-12T22:57:30Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-13T00:08:26.899Z"
-  },
-  {
-    "key": "traceroot-ai/traceroot#2175",
-    "tier": 1,
-    "repo": "traceroot-ai/traceroot",
-    "number": 2175,
-    "title": "BYOK model dropdowns offer models the provider has retired",
-    "url": "https://github.com/traceroot-ai/traceroot/issues/2175",
-    "comments": 0,
-    "createdAt": "2026-09-12T22:06:54Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 765,
-    "foundAt": "2026-09-12T22:25:06.019Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30274",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30274,
-    "title": "[Good First Issue] 🍘 Add new Learner Mistake 112 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30274",
-    "comments": 1,
-    "createdAt": "2026-09-12T22:01:05Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-12T22:25:06.185Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30272",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30272,
-    "title": "[Good First Issue] 🐉 Add new Example Sentence 58 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30272",
-    "comments": 1,
-    "createdAt": "2026-09-12T21:57:32Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-12T22:25:06.185Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30270",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30270,
-    "title": "[Good First Issue] 🥟 Add new False Friend Pair 43 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30270",
-    "comments": 1,
-    "createdAt": "2026-09-12T20:57:31Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-12T22:25:06.729Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30267",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30267,
-    "title": "[Good First Issue] 🦊 Add new Dialect Entry 6 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30267",
-    "comments": 1,
-    "createdAt": "2026-09-12T20:01:01Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-12T22:25:06.729Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30266",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30266,
-    "title": "[Good First Issue] 🎴 Add new Japanese Idiom 98 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30266",
-    "comments": 1,
-    "createdAt": "2026-09-12T19:57:31Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-12T22:25:06.729Z"
-  },
-  {
-    "key": "stumpapp/stump#1414",
-    "tier": 3,
-    "repo": "stumpapp/stump",
-    "number": 1414,
-    "title": "[FEATURE] Generate a config JSON schema with releases",
-    "url": "https://github.com/stumpapp/stump/issues/1414",
-    "comments": 0,
-    "createdAt": "2026-09-12T22:24:29Z",
-    "labels": [
-      "documentation",
-      "enhancement"
-    ],
-    "language": "typescript",
-    "stars": 2692,
-    "foundAt": "2026-09-12T22:25:08.493Z"
-  },
-  {
-    "key": "career-ops-hq/career-ops#4124",
-    "tier": 3,
-    "repo": "career-ops-hq/career-ops",
-    "number": 4124,
-    "title": "docs(modes): the Hired Wall ask is documented only in AGENTS.md — modes/outcome.md, the doc for the moment a hire is recorded, never points at it",
-    "url": "https://github.com/career-ops-hq/career-ops/issues/4124",
-    "comments": 0,
-    "createdAt": "2026-09-12T21:34:48Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "javascript",
-    "stars": 71286,
-    "foundAt": "2026-09-12T22:25:10.775Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#270",
-    "tier": 1,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 270,
-    "title": "Flaky: #260 punctuation-prefix scaling test measures below timer noise",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/270",
-    "comments": 0,
-    "createdAt": "2026-09-12T19:23:26Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-12T19:29:47.470Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30265",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30265,
-    "title": "[Good First Issue] 🎏 Add new Video Game Quote 60 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30265",
-    "comments": 1,
-    "createdAt": "2026-09-12T19:01:02Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-12T19:29:47.269Z"
   }
 ]

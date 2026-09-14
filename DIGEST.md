@@ -4,6 +4,28 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-14 | 🥇 | [[Good First Issue] 🏯 Add new Grammar Point 115 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30403) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-14 | 🥇 | [ADOPTERS.md](https://github.com/HelpCode-ai/anythingmcp/issues/602) | `HelpCode-ai/anythingmcp` | ⭐ 202 |
+| 2026-09-14 | 🥇 | [Multi-language README (de, zh, ja)](https://github.com/HelpCode-ai/anythingmcp/issues/600) | `HelpCode-ai/anythingmcp` | ⭐ 202 |
+| 2026-09-14 | 🥇 | [Show the catalog's own numbers as live badges](https://github.com/HelpCode-ai/anythingmcp/issues/599) | `HelpCode-ai/anythingmcp` | ⭐ 202 |
+| 2026-09-14 | 🥇 | [Adapter validation: say what to do, not just what is wrong](https://github.com/HelpCode-ai/anythingmcp/issues/586) | `HelpCode-ai/anythingmcp` | ⭐ 202 |
+| 2026-09-14 | 🥇 | [Scaffolding CLI: `npm run adapter:new <slug>`](https://github.com/HelpCode-ai/anythingmcp/issues/585) | `HelpCode-ai/anythingmcp` | ⭐ 202 |
+| 2026-09-14 | 🥇 | [[Good First Issue] 🪭 Add new Trivia Question 129 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30402) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-14 | 🥇 | [[Good First Issue] 🧧 Add new Japanese Haiku 1 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30399) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-14 | 🥇 | [💡Clarify intended direction for playback speed button A/B implementations](https://github.com/code-charity/youtube/issues/4343) | `code-charity/youtube` | ⭐ 4.6k |
+| 2026-09-14 | 🥇 | [[Good First Issue] 🍣 Add new Japanese Proverb 178 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30398) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-14 | 🥇 | [docs: labelled starter path and pattern-of-the-week #1](https://github.com/devswha/patina/issues/822) | `devswha/patina` | ⭐ 356 |
+| 2026-09-14 | 🥈 | [Chore: Untrusted Dev Machine (`Node.js` Sandbox)](https://github.com/dwyl/technology-stack/issues/179) | `dwyl/technology-stack` | ⭐ 291 |
+| 2026-09-14 | 🥈 | [OpenAI-compatible endpoint for the AI features](https://github.com/HelpCode-ai/anythingmcp/issues/598) | `HelpCode-ai/anythingmcp` | ⭐ 202 |
+| 2026-09-14 | 🥈 | [Cloud <-> self-host export and import](https://github.com/HelpCode-ai/anythingmcp/issues/597) | `HelpCode-ai/anythingmcp` | ⭐ 202 |
+| 2026-09-14 | 🥈 | [OpenTelemetry exporter for traces and metrics](https://github.com/HelpCode-ai/anythingmcp/issues/595) | `HelpCode-ai/anythingmcp` | ⭐ 202 |
+| 2026-09-14 | 🥈 | [Native MCP elicitation and resources](https://github.com/HelpCode-ai/anythingmcp/issues/593) | `HelpCode-ai/anythingmcp` | ⭐ 202 |
+| 2026-09-14 | 🥈 | [gRPC connector type](https://github.com/HelpCode-ai/anythingmcp/issues/591) | `HelpCode-ai/anythingmcp` | ⭐ 202 |
+| 2026-09-14 | 🥈 | [Streaming tool responses for long-running calls](https://github.com/HelpCode-ai/anythingmcp/issues/589) | `HelpCode-ai/anythingmcp` | ⭐ 202 |
+| 2026-09-14 | 🥈 | [Per-tool latency histograms and error-rate view](https://github.com/HelpCode-ai/anythingmcp/issues/588) | `HelpCode-ai/anythingmcp` | ⭐ 202 |
+| 2026-09-14 | 🥈 | [Tool-level rate limiting per role](https://github.com/HelpCode-ai/anythingmcp/issues/587) | `HelpCode-ai/anythingmcp` | ⭐ 202 |
+| 2026-09-14 | 🥈 | [Snyk vulnerability [SNYK-JS-NODEMAILER-19784395]](https://github.com/backstage/backstage/issues/35654) | `backstage/backstage` | ⭐ 34.4k |
+| 2026-09-14 | 🥉 | [docs-bug: v21 documentation is unreachable](https://github.com/angular/components/issues/33804) | `angular/components` | ⭐ 25.0k |
 | 2026-09-14 | 🥇 | [[Good First Issue] 🎑 Add new Japan Fact 265 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30371) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-14 | 🥇 | [Enatega Web app: Get Help button is displayed while the customer is already on t](https://github.com/enatega/food-delivery-multivendor/issues/2382) | `enatega/food-delivery-multivendor` | ⭐ 1.4k |
 | 2026-09-14 | 🥈 | [[Feature] Add sort by date/relevance option to Cloud Native Resources page](https://github.com/layer5io/layer5/issues/8053) | `layer5io/layer5` | ⭐ 1.1k |
@@ -82,25 +104,3 @@
 | 2026-09-13 | 🥇 | [[Good First Issue] 🍛 Add new Video Game Quote 62 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30283) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-13 | 🥇 | [[Good First Issue] 🌺 Add new Anime Quote 16 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30282) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-13 | 🥇 | [[Good First Issue] 🪭 Add new Trivia Question 33 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30281) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-13 | 🥇 | [Duplicate description meta tags are included in pages that extend `templates/pag](https://github.com/matrix-org/matrix.org/issues/3633) | `matrix-org/matrix.org` | ⭐ 616 |
-| 2026-09-13 | 🥇 | [[Good First Issue] 🌊 Add new Japanese Haiku 2 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30280) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-13 | 🥇 | [[Good First Issue] 🍤 Add new Japanese Proverb 81 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30279) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-13 | 🥇 | ["Show time remaining with reference to playback speed" -option stopped working🐞](https://github.com/code-charity/youtube/issues/4340) | `code-charity/youtube` | ⭐ 4.6k |
-| 2026-09-13 | 🥈 | [[Good First Issue] 🎌 Add new Example Sentence 106 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30288) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-13 | 🥈 | [Feature Request: Introduce structured intent field for deterministic Ask-to-Act ](https://github.com/webbrain-one/webbrain/issues/3029) | `webbrain-one/webbrain` | ⭐ 1.0k |
-| 2026-09-13 | 🥈 | [[Docs] Fix broken relative image paths in mesheryctl command reference and contr](https://github.com/meshery/meshery/issues/21949) | `meshery/meshery` | ⭐ 11.7k |
-| 2026-09-13 | 🥇 | [[Good First Issue] 🐙 Add new Japan Fact 244 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30278) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-13 | 🥇 | [[Good First Issue] 🍤 Add new Theme: Digital Oni - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30277) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-13 | 🥇 | [Drop files: the call time is written in 12-hour format, and "Time of Last Call" ](https://github.com/NuSkooler/enigma-bbs/issues/824) | `NuSkooler/enigma-bbs` | ⭐ 665 |
-| 2026-09-13 | 🥇 | [[Good First Issue] 🎌 Add new Community Note Line #3 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30276) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-13 | 🥇 | [[Good First Issue] 🍜 Add new Wallpaper URL #3 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30275) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-12 | 🥇 | [BYOK model dropdowns offer models the provider has retired](https://github.com/traceroot-ai/traceroot/issues/2175) | `traceroot-ai/traceroot` | ⭐ 765 |
-| 2026-09-12 | 🥇 | [[Good First Issue] 🍘 Add new Learner Mistake 112 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30274) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-12 | 🥇 | [[Good First Issue] 🐉 Add new Example Sentence 58 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30272) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-12 | 🥇 | [[Good First Issue] 🥟 Add new False Friend Pair 43 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30270) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-12 | 🥇 | [[Good First Issue] 🦊 Add new Dialect Entry 6 - Beginner-Friendly Open-source Co](https://github.com/lingdojo/kana-dojo/issues/30267) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-12 | 🥇 | [[Good First Issue] 🎴 Add new Japanese Idiom 98 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30266) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-12 | 🥉 | [[FEATURE] Generate a config JSON schema with releases](https://github.com/stumpapp/stump/issues/1414) | `stumpapp/stump` | ⭐ 2.7k |
-| 2026-09-12 | 🥉 | [docs(modes): the Hired Wall ask is documented only in AGENTS.md — modes/outcome.](https://github.com/career-ops-hq/career-ops/issues/4124) | `career-ops-hq/career-ops` | ⭐ 71.3k |
-| 2026-09-12 | 🥇 | [Flaky: #260 punctuation-prefix scaling test measures below timer noise](https://github.com/conorbronsdon/avoid-ai-writing/issues/270) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥇 | [[Good First Issue] 🎏 Add new Video Game Quote 60 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30265) | `lingdojo/kana-dojo` | ⭐ 3.4k |
