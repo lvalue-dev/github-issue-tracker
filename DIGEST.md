@@ -4,6 +4,11 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-14 | 🥇 | [[Good First Issue] 🎑 Add new Japan Fact 265 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30371) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-14 | 🥇 | [Enatega Web app: Get Help button is displayed while the customer is already on t](https://github.com/enatega/food-delivery-multivendor/issues/2382) | `enatega/food-delivery-multivendor` | ⭐ 1.4k |
+| 2026-09-14 | 🥈 | [[Feature] Add sort by date/relevance option to Cloud Native Resources page](https://github.com/layer5io/layer5/issues/8053) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-14 | 🥈 | [[Good First Issue] 🌺 Add new Wallpaper URL #3 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30368) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-14 | 🥈 | [[Good First Issue] 🍡 Add new Learner Mistake 33 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30365) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-14 | 🥇 | [[Good First Issue] 🎏 Add new Video Game Quote 16 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30357) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-14 | 🥇 | [[Good First Issue] 🍡 Add new Anime Quote 59 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30356) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-14 | 🥇 | [[Good First Issue] 🎑 Add new Grammar Point 25 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30355) | `lingdojo/kana-dojo` | ⭐ 3.4k |
@@ -99,8 +104,3 @@
 | 2026-09-12 | 🥉 | [docs(modes): the Hired Wall ask is documented only in AGENTS.md — modes/outcome.](https://github.com/career-ops-hq/career-ops/issues/4124) | `career-ops-hq/career-ops` | ⭐ 71.3k |
 | 2026-09-12 | 🥇 | [Flaky: #260 punctuation-prefix scaling test measures below timer noise](https://github.com/conorbronsdon/avoid-ai-writing/issues/270) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
 | 2026-09-12 | 🥇 | [[Good First Issue] 🎏 Add new Video Game Quote 60 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30265) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-12 | 🥇 | [[Good First Issue] 🏯 Add new Anime Quote 90 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30264) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-12 | 🥇 | [Report top detection categories for chunked self-scan files](https://github.com/conorbronsdon/avoid-ai-writing/issues/264) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥈 | [feat: Clicking a relative file path in agent output should open it in the change](https://github.com/ColeMurray/background-agents/issues/1875) | `ColeMurray/background-agents` | ⭐ 3.0k |
-| 2026-09-12 | 🥇 | [[Good First Issue] 🗻 Add new Japanese Haiku 11 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30260) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-12 | 🥇 | [[Good First Issue] 🍵 Add new Japanese Proverb 17 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30259) | `lingdojo/kana-dojo` | ⭐ 3.4k |

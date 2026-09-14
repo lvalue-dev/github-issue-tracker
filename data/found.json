@@ -1,5 +1,112 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30371",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30371,
+    "title": "[Good First Issue] 🎑 Add new Japan Fact 265 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30371",
+    "comments": 1,
+    "createdAt": "2026-09-14T06:01:05Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-14T06:31:07.045Z"
+  },
+  {
+    "key": "enatega/food-delivery-multivendor#2382",
+    "tier": 1,
+    "repo": "enatega/food-delivery-multivendor",
+    "number": 2382,
+    "title": "Enatega Web app: Get Help button is displayed while the customer is already on the Get Help section",
+    "url": "https://github.com/enatega/food-delivery-multivendor/issues/2382",
+    "comments": 0,
+    "createdAt": "2026-09-14T05:57:53Z",
+    "labels": [
+      "good first issue",
+      "Enatega Web App",
+      "Ui-Fix"
+    ],
+    "language": "typescript",
+    "stars": 1372,
+    "foundAt": "2026-09-14T06:31:07.230Z"
+  },
+  {
+    "key": "layer5io/layer5#8053",
+    "tier": 2,
+    "repo": "layer5io/layer5",
+    "number": 8053,
+    "title": "[Feature] Add sort by date/relevance option to Cloud Native Resources page",
+    "url": "https://github.com/layer5io/layer5/issues/8053",
+    "comments": 1,
+    "createdAt": "2026-09-14T04:56:33Z",
+    "labels": [
+      "kind/enhancement",
+      "help wanted",
+      "language/javascript",
+      "framework/react"
+    ],
+    "language": "javascript",
+    "stars": 1121,
+    "foundAt": "2026-09-14T06:31:08.464Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30368",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30368,
+    "title": "[Good First Issue] 🌺 Add new Wallpaper URL #3 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30368",
+    "comments": 2,
+    "createdAt": "2026-09-14T04:34:30Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-14T06:31:08.265Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30365",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30365,
+    "title": "[Good First Issue] 🍡 Add new Learner Mistake 33 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30365",
+    "comments": 1,
+    "createdAt": "2026-09-14T04:01:05Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-14T06:31:08.265Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30357",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1954,110 +2061,5 @@
     "language": "typescript",
     "stars": 3350,
     "foundAt": "2026-09-12T19:29:47.269Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30264",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30264,
-    "title": "[Good First Issue] 🏯 Add new Anime Quote 90 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30264",
-    "comments": 1,
-    "createdAt": "2026-09-12T18:57:24Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-12T19:29:47.270Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#264",
-    "tier": 1,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 264,
-    "title": "Report top detection categories for chunked self-scan files",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/264",
-    "comments": 0,
-    "createdAt": "2026-09-12T17:52:33Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-12T19:29:47.470Z"
-  },
-  {
-    "key": "ColeMurray/background-agents#1875",
-    "tier": 2,
-    "repo": "ColeMurray/background-agents",
-    "number": 1875,
-    "title": "feat: Clicking a relative file path in agent output should open it in the changes panel",
-    "url": "https://github.com/ColeMurray/background-agents/issues/1875",
-    "comments": 0,
-    "createdAt": "2026-09-12T17:52:05Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 2971,
-    "foundAt": "2026-09-12T19:29:49.153Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30260",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30260,
-    "title": "[Good First Issue] 🗻 Add new Japanese Haiku 11 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30260",
-    "comments": 1,
-    "createdAt": "2026-09-12T17:01:01Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-12T17:18:14.557Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30259",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30259,
-    "title": "[Good First Issue] 🍵 Add new Japanese Proverb 17 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30259",
-    "comments": 1,
-    "createdAt": "2026-09-12T16:57:26Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-12T17:18:14.557Z"
   }
 ]
