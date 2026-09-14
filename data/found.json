@@ -1,5 +1,97 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30357",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30357,
+    "title": "[Good First Issue] 🎏 Add new Video Game Quote 16 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30357",
+    "comments": 1,
+    "createdAt": "2026-09-14T01:01:05Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-14T01:16:09.178Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30356",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30356,
+    "title": "[Good First Issue] 🍡 Add new Anime Quote 59 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30356",
+    "comments": 1,
+    "createdAt": "2026-09-14T00:34:34Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-14T01:16:09.416Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30355",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30355,
+    "title": "[Good First Issue] 🎑 Add new Grammar Point 25 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30355",
+    "comments": 1,
+    "createdAt": "2026-09-14T00:01:05Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-14T01:16:09.836Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30354",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30354,
+    "title": "[Good First Issue] 🎴 Add new Trivia Question 31 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30354",
+    "comments": 1,
+    "createdAt": "2026-09-13T23:34:36Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-14T01:16:09.836Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30353",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1967,77 +2059,5 @@
     "language": "typescript",
     "stars": 3350,
     "foundAt": "2026-09-12T17:18:14.557Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#234",
-    "tier": 1,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 234,
-    "title": "Return a consistent result shape for unscored labels and reject non-string input clearly",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/234",
-    "comments": 0,
-    "createdAt": "2026-09-12T16:36:41Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-12T17:18:15.980Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#233",
-    "tier": 1,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 233,
-    "title": "Mark generated copies as linguist-generated in .gitattributes",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/233",
-    "comments": 0,
-    "createdAt": "2026-09-12T16:36:34Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-12T17:18:15.980Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#232",
-    "tier": 1,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 232,
-    "title": "Test on Node 18 and a current LTS in the detector workflow",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/232",
-    "comments": 0,
-    "createdAt": "2026-09-12T16:36:26Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-12T17:18:15.980Z"
-  },
-  {
-    "key": "conorbronsdon/avoid-ai-writing#231",
-    "tier": 1,
-    "repo": "conorbronsdon/avoid-ai-writing",
-    "number": 231,
-    "title": "Pin actions by SHA and add timeouts and concurrency to every workflow",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing/issues/231",
-    "comments": 0,
-    "createdAt": "2026-09-12T16:36:20Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 4304,
-    "foundAt": "2026-09-12T17:18:15.980Z"
   }
 ]

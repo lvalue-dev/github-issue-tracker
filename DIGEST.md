@@ -4,6 +4,10 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-14 | 🥇 | [[Good First Issue] 🎏 Add new Video Game Quote 16 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30357) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-14 | 🥇 | [[Good First Issue] 🍡 Add new Anime Quote 59 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30356) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-14 | 🥇 | [[Good First Issue] 🎑 Add new Grammar Point 25 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30355) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-14 | 🥇 | [[Good First Issue] 🎴 Add new Trivia Question 31 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30354) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-13 | 🥇 | [[Good First Issue] 🌋 Add new Japanese Proverb 124 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30353) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-13 | 🥇 | [[Good First Issue] 🎏 Add new Japan Fact 147 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30351) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-13 | 🥇 | [block: Medical Intake Form](https://github.com/shadcn-labs/pdfcn/issues/26) | `shadcn-labs/pdfcn` | ⭐ 1.7k |
@@ -100,7 +104,3 @@
 | 2026-09-12 | 🥈 | [feat: Clicking a relative file path in agent output should open it in the change](https://github.com/ColeMurray/background-agents/issues/1875) | `ColeMurray/background-agents` | ⭐ 3.0k |
 | 2026-09-12 | 🥇 | [[Good First Issue] 🗻 Add new Japanese Haiku 11 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30260) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-12 | 🥇 | [[Good First Issue] 🍵 Add new Japanese Proverb 17 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30259) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-12 | 🥇 | [Return a consistent result shape for unscored labels and reject non-string input](https://github.com/conorbronsdon/avoid-ai-writing/issues/234) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥇 | [Mark generated copies as linguist-generated in .gitattributes](https://github.com/conorbronsdon/avoid-ai-writing/issues/233) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥇 | [Test on Node 18 and a current LTS in the detector workflow](https://github.com/conorbronsdon/avoid-ai-writing/issues/232) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-12 | 🥇 | [Pin actions by SHA and add timeouts and concurrency to every workflow](https://github.com/conorbronsdon/avoid-ai-writing/issues/231) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
