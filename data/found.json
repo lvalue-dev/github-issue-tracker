@@ -1,5 +1,427 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30426",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30426,
+    "title": "[Good First Issue] 🍵 Add new Japanese Idiom 73 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30426",
+    "comments": 1,
+    "createdAt": "2026-09-14T23:01:00Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-14T23:14:26.427Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30425",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30425,
+    "title": "[Good First Issue] 🍥 Add new Anime Quote 73 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30425",
+    "comments": 1,
+    "createdAt": "2026-09-14T22:34:30Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-14T23:14:26.847Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30424",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30424,
+    "title": "[Good First Issue] 🍛 Add new Grammar Point 91 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30424",
+    "comments": 1,
+    "createdAt": "2026-09-14T22:01:04Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-14T23:14:26.847Z"
+  },
+  {
+    "key": "xyz-tools/gcode-preview#529",
+    "tier": 1,
+    "repo": "xyz-tools/gcode-preview",
+    "number": 529,
+    "title": "Demo: dropping a file keeps the previous preset's model credits and thumbnail",
+    "url": "https://github.com/xyz-tools/gcode-preview/issues/529",
+    "comments": 1,
+    "createdAt": "2026-09-14T21:54:44Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "demo"
+    ],
+    "language": "typescript",
+    "stars": 202,
+    "foundAt": "2026-09-14T23:14:26.847Z"
+  },
+  {
+    "key": "vltpkg/vltpkg#1853",
+    "tier": 1,
+    "repo": "vltpkg/vltpkg",
+    "number": 1853,
+    "title": "[DOCS] tokens.mdx: `/-/ping` is not exempt from authentication; drop the \"apart from the health check\" phrase",
+    "url": "https://github.com/vltpkg/vltpkg/issues/1853",
+    "comments": 0,
+    "createdAt": "2026-09-14T21:48:51Z",
+    "labels": [
+      "documentation",
+      "good-first-issue",
+      "registry"
+    ],
+    "language": "typescript",
+    "stars": 552,
+    "foundAt": "2026-09-14T23:14:27.015Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30423",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30423,
+    "title": "[Good First Issue] 🏮 Add new Trivia Question 39 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30423",
+    "comments": 1,
+    "createdAt": "2026-09-14T21:34:29Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-14T23:14:27.015Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30422",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30422,
+    "title": "[Good First Issue] 🍢 Add new Japanese Haiku 11 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30422",
+    "comments": 1,
+    "createdAt": "2026-09-14T21:01:01Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-14T23:14:27.015Z"
+  },
+  {
+    "key": "YusufB5/ASCILINE#69",
+    "tier": 1,
+    "repo": "YusufB5/ASCILINE",
+    "number": 69,
+    "title": "feat(server): Add /health endpoint and Docker HEALTHCHECK directive",
+    "url": "https://github.com/YusufB5/ASCILINE/issues/69",
+    "comments": 0,
+    "createdAt": "2026-09-14T20:47:03Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "docker"
+    ],
+    "language": "javascript",
+    "stars": 2730,
+    "foundAt": "2026-09-14T23:14:28.411Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30421",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30421,
+    "title": "[Good First Issue] 🍥 Add new Japanese Proverb 16 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30421",
+    "comments": 1,
+    "createdAt": "2026-09-14T20:34:34Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-14T23:14:27.015Z"
+  },
+  {
+    "key": "YusufB5/ASCILINE#68",
+    "tier": 1,
+    "repo": "YusufB5/ASCILINE",
+    "number": 68,
+    "title": "feat(ui): Add \"Copy Frame as ASCII Text\" button",
+    "url": "https://github.com/YusufB5/ASCILINE/issues/68",
+    "comments": 0,
+    "createdAt": "2026-09-14T20:29:10Z",
+    "labels": [
+      "enhancement",
+      "good first issue"
+    ],
+    "language": "javascript",
+    "stars": 2730,
+    "foundAt": "2026-09-14T23:14:28.411Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30420",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30420,
+    "title": "[Good First Issue] 🍢 Add new Japan Fact 285 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30420",
+    "comments": 1,
+    "createdAt": "2026-09-14T20:01:04Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-14T23:14:27.408Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30419",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30419,
+    "title": "[Good First Issue] 🌺 Add new Theme: Noh Mask - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30419",
+    "comments": 1,
+    "createdAt": "2026-09-14T19:35:08Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-14T23:14:27.612Z"
+  },
+  {
+    "key": "raydak-labs/configarr#526",
+    "tier": 2,
+    "repo": "raydak-labs/configarr",
+    "number": 526,
+    "title": "test: add integration test for all *arr clients",
+    "url": "https://github.com/raydak-labs/configarr/issues/526",
+    "comments": 0,
+    "createdAt": "2026-09-14T22:19:14Z",
+    "labels": [
+      "help wanted",
+      "eval"
+    ],
+    "language": "typescript",
+    "stars": 657,
+    "foundAt": "2026-09-14T23:14:29.000Z"
+  },
+  {
+    "key": "langfuse/langfuse-docs#3805",
+    "tier": 3,
+    "repo": "langfuse/langfuse-docs",
+    "number": 3805,
+    "title": "docs: add PHP / Laravel to the OpenTelemetry integrations list",
+    "url": "https://github.com/langfuse/langfuse-docs/issues/3805",
+    "comments": 0,
+    "createdAt": "2026-09-14T22:30:06Z",
+    "labels": [
+      "docs",
+      "langfuse/langfuse-docs",
+      "integration-otel",
+      "improvement",
+      "feat-otel"
+    ],
+    "language": "mdx",
+    "stars": 240,
+    "foundAt": "2026-09-14T23:14:34.645Z"
+  },
+  {
+    "key": "KeepSoftwareSimple/compass-calendar#3773",
+    "tier": 3,
+    "repo": "KeepSoftwareSimple/compass-calendar",
+    "number": 3773,
+    "title": "performance v1 WP-21 (founder): Atlas placement vs the Hetzner VPS",
+    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3773",
+    "comments": 0,
+    "createdAt": "2026-09-14T22:19:22Z",
+    "labels": [
+      "docs",
+      "performance-v1"
+    ],
+    "language": "typescript",
+    "stars": 228,
+    "foundAt": "2026-09-14T23:14:32.383Z"
+  },
+  {
+    "key": "KeepSoftwareSimple/compass-calendar#3772",
+    "tier": 3,
+    "repo": "KeepSoftwareSimple/compass-calendar",
+    "number": 3772,
+    "title": "performance v1 WP-20 (founder): brotli in prod Caddy and precompressed self-host assets",
+    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3772",
+    "comments": 0,
+    "createdAt": "2026-09-14T22:19:20Z",
+    "labels": [
+      "docs",
+      "performance-v1"
+    ],
+    "language": "typescript",
+    "stars": 228,
+    "foundAt": "2026-09-14T23:14:32.383Z"
+  },
+  {
+    "key": "KeepSoftwareSimple/compass-calendar#3771",
+    "tier": 3,
+    "repo": "KeepSoftwareSimple/compass-calendar",
+    "number": 3771,
+    "title": "[agent] performance v1 WP-19: environment on log resources and latency insight",
+    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3771",
+    "comments": 0,
+    "createdAt": "2026-09-14T22:19:18Z",
+    "labels": [
+      "agent-ready",
+      "core",
+      "docs",
+      "performance-v1"
+    ],
+    "language": "typescript",
+    "stars": 228,
+    "foundAt": "2026-09-14T23:14:32.383Z"
+  },
+  {
+    "key": "KeepSoftwareSimple/compass-calendar#3765",
+    "tier": 3,
+    "repo": "KeepSoftwareSimple/compass-calendar",
+    "number": 3765,
+    "title": "[agent] performance v1 WP-13: boot-set size report and budget from the metafile",
+    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3765",
+    "comments": 0,
+    "createdAt": "2026-09-14T22:19:06Z",
+    "labels": [
+      "web",
+      "agent-ready",
+      "docs",
+      "performance-v1"
+    ],
+    "language": "typescript",
+    "stars": 228,
+    "foundAt": "2026-09-14T23:14:32.383Z"
+  },
+  {
+    "key": "KeepSoftwareSimple/compass-calendar#3764",
+    "tier": 3,
+    "repo": "KeepSoftwareSimple/compass-calendar",
+    "number": 3764,
+    "title": "[agent] performance v1 WP-12: Mongo client options, idle-cheap drains, wake-on-enqueue",
+    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3764",
+    "comments": 0,
+    "createdAt": "2026-09-14T22:19:04Z",
+    "labels": [
+      "backend",
+      "agent-ready",
+      "sync-core",
+      "docs",
+      "performance-v1"
+    ],
+    "language": "typescript",
+    "stars": 228,
+    "foundAt": "2026-09-14T23:14:32.383Z"
+  },
+  {
+    "key": "KeepSoftwareSimple/compass-calendar#3757",
+    "tier": 3,
+    "repo": "KeepSoftwareSimple/compass-calendar",
+    "number": 3757,
+    "title": "[agent] performance v1 WP-05: calendar indexes, billing projection, hidden-events sort index",
+    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3757",
+    "comments": 0,
+    "createdAt": "2026-09-14T22:18:48Z",
+    "labels": [
+      "backend",
+      "agent-ready",
+      "docs",
+      "performance-v1"
+    ],
+    "language": "typescript",
+    "stars": 228,
+    "foundAt": "2026-09-14T23:14:32.383Z"
+  },
+  {
+    "key": "KeepSoftwareSimple/compass-calendar#3754",
+    "tier": 3,
+    "repo": "KeepSoftwareSimple/compass-calendar",
+    "number": 3754,
+    "title": "[agent] performance v1 WP-02: invalidate only when a pull changed something",
+    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3754",
+    "comments": 0,
+    "createdAt": "2026-09-14T22:18:42Z",
+    "labels": [
+      "agent-ready",
+      "sync-core",
+      "docs",
+      "performance-v1"
+    ],
+    "language": "typescript",
+    "stars": 228,
+    "foundAt": "2026-09-14T23:14:32.383Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30418",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1571,441 +1993,5 @@
     "language": "javascript",
     "stars": 52242,
     "foundAt": "2026-09-13T20:58:08.239Z"
-  },
-  {
-    "key": "sveltekit-i18n/lib#253",
-    "tier": 3,
-    "repo": "sveltekit-i18n/lib",
-    "number": 253,
-    "title": "v3(lib): documentation site on GitHub Pages",
-    "url": "https://github.com/sveltekit-i18n/lib/issues/253",
-    "comments": 0,
-    "createdAt": "2026-09-13T20:31:17Z",
-    "labels": [
-      "documentation",
-      "lib",
-      "examples",
-      "v3"
-    ],
-    "language": "typescript",
-    "stars": 576,
-    "foundAt": "2026-09-13T20:58:09.170Z"
-  },
-  {
-    "key": "getsentry/sentry-docs#19388",
-    "tier": 3,
-    "repo": "getsentry/sentry-docs",
-    "number": 19388,
-    "title": "Proposal: interactive source-map failure investigation lab",
-    "url": "https://github.com/getsentry/sentry-docs/issues/19388",
-    "comments": 1,
-    "createdAt": "2026-09-13T18:57:57Z",
-    "labels": [
-      "SDKs",
-      "Platform: JavaScript",
-      "Docs"
-    ],
-    "language": "mdx",
-    "stars": 445,
-    "foundAt": "2026-09-13T20:58:10.385Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30337",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30337,
-    "title": "[Good First Issue] 🍚 Add new Japanese Idiom 77 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30337",
-    "comments": 1,
-    "createdAt": "2026-09-13T18:01:04Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-13T18:15:46.026Z"
-  },
-  {
-    "key": "OpsiMate/OpsiMate#962",
-    "tier": 1,
-    "repo": "OpsiMate/OpsiMate",
-    "number": 962,
-    "title": "AI search keeps the previous time window when the new query has no time phrase",
-    "url": "https://github.com/OpsiMate/OpsiMate/issues/962",
-    "comments": 0,
-    "createdAt": "2026-09-13T18:00:13Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "UI",
-      "Server"
-    ],
-    "language": "typescript",
-    "stars": 211,
-    "foundAt": "2026-09-13T18:15:46.026Z"
-  },
-  {
-    "key": "OpsiMate/OpsiMate#961",
-    "tier": 1,
-    "repo": "OpsiMate/OpsiMate",
-    "number": 961,
-    "title": "Add unit tests for shared normalizeAlertSeverity",
-    "url": "https://github.com/OpsiMate/OpsiMate/issues/961",
-    "comments": 0,
-    "createdAt": "2026-09-13T18:00:11Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "Server",
-      "Test"
-    ],
-    "language": "typescript",
-    "stars": 211,
-    "foundAt": "2026-09-13T18:15:46.026Z"
-  },
-  {
-    "key": "OpsiMate/OpsiMate#960",
-    "tier": 1,
-    "repo": "OpsiMate/OpsiMate",
-    "number": 960,
-    "title": "Add unit tests for groupAlerts / flattenGroups (status rollup and collapsed groups)",
-    "url": "https://github.com/OpsiMate/OpsiMate/issues/960",
-    "comments": 0,
-    "createdAt": "2026-09-13T18:00:10Z",
-    "labels": [
-      "good first issue",
-      "UI",
-      "Server",
-      "Test"
-    ],
-    "language": "typescript",
-    "stars": 211,
-    "foundAt": "2026-09-13T18:15:46.026Z"
-  },
-  {
-    "key": "OpsiMate/OpsiMate#959",
-    "tier": 1,
-    "repo": "OpsiMate/OpsiMate",
-    "number": 959,
-    "title": "Add unit tests for DashboardContext.utils time-range serialization and storage helpers",
-    "url": "https://github.com/OpsiMate/OpsiMate/issues/959",
-    "comments": 0,
-    "createdAt": "2026-09-13T18:00:09Z",
-    "labels": [
-      "good first issue",
-      "UI",
-      "Test"
-    ],
-    "language": "typescript",
-    "stars": 211,
-    "foundAt": "2026-09-13T18:15:46.026Z"
-  },
-  {
-    "key": "OpsiMate/OpsiMate#958",
-    "tier": 1,
-    "repo": "OpsiMate/OpsiMate",
-    "number": 958,
-    "title": "Add unit tests for alertHistory.utils range filtering and the synthesized-update fallback",
-    "url": "https://github.com/OpsiMate/OpsiMate/issues/958",
-    "comments": 0,
-    "createdAt": "2026-09-13T18:00:07Z",
-    "labels": [
-      "good first issue",
-      "UI",
-      "Test"
-    ],
-    "language": "typescript",
-    "stars": 211,
-    "foundAt": "2026-09-13T18:15:46.026Z"
-  },
-  {
-    "key": "OpsiMate/OpsiMate#957",
-    "tier": 1,
-    "repo": "OpsiMate/OpsiMate",
-    "number": 957,
-    "title": "Add unit tests for the useFormErrors hook",
-    "url": "https://github.com/OpsiMate/OpsiMate/issues/957",
-    "comments": 0,
-    "createdAt": "2026-09-13T18:00:05Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "UI",
-      "Test"
-    ],
-    "language": "typescript",
-    "stars": 211,
-    "foundAt": "2026-09-13T18:15:46.026Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30336",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30336,
-    "title": "[Good First Issue] 🀄 Add new Video Game Quote 97 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30336",
-    "comments": 1,
-    "createdAt": "2026-09-13T17:34:32Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-13T18:15:46.026Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30334",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30334,
-    "title": "[Good First Issue] 🌋 Add new Anime Quote 122 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30334",
-    "comments": 1,
-    "createdAt": "2026-09-13T17:01:02Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-13T18:15:46.267Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30332",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30332,
-    "title": "[Good First Issue] 🌊 Add new Grammar Point 85 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30332",
-    "comments": 1,
-    "createdAt": "2026-09-13T16:34:30Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-13T18:15:46.267Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30331",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30331,
-    "title": "[Good First Issue] 🍶 Add new Trivia Question 86 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30331",
-    "comments": 1,
-    "createdAt": "2026-09-13T16:01:05Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-13T18:15:46.267Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30328",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30328,
-    "title": "[Good First Issue] 🏮 Add new Japan Fact 72 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30328",
-    "comments": 1,
-    "createdAt": "2026-09-13T15:01:07Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-13T18:15:46.267Z"
-  },
-  {
-    "key": "layer5io/layer5#8051",
-    "tier": 2,
-    "repo": "layer5io/layer5",
-    "number": 8051,
-    "title": "[SEO] Incorrect metadata on the Performance Management solution page",
-    "url": "https://github.com/layer5io/layer5/issues/8051",
-    "comments": 1,
-    "createdAt": "2026-09-13T16:21:08Z",
-    "labels": [
-      "kind/bug",
-      "help wanted",
-      "framework/gatsby"
-    ],
-    "language": "javascript",
-    "stars": 1121,
-    "foundAt": "2026-09-13T18:15:47.611Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30320",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30320,
-    "title": "[Good First Issue] 🥢 Add new Community Note Line #4 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30320",
-    "comments": 1,
-    "createdAt": "2026-09-13T14:01:01Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-13T14:33:23.787Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30319",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30319,
-    "title": "[Good First Issue] 🌸 Add new Wallpaper URL #4 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30319",
-    "comments": 1,
-    "createdAt": "2026-09-13T13:57:27Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-13T14:33:23.787Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30317",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30317,
-    "title": "[Good First Issue] 🎏 Add new Learner Mistake 79 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30317",
-    "comments": 1,
-    "createdAt": "2026-09-13T13:01:07Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-13T14:33:23.960Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30316",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30316,
-    "title": "[Good First Issue] 🎎 Add new Example Sentence 32 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30316",
-    "comments": 1,
-    "createdAt": "2026-09-13T12:57:29Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-13T14:33:23.960Z"
-  },
-  {
-    "key": "Smaug6739/Alexandrie#772",
-    "tier": 1,
-    "repo": "Smaug6739/Alexandrie",
-    "number": 772,
-    "title": "Kanban is selectable in All workspaces but falls back to a DEBUG message when no parent is selected",
-    "url": "https://github.com/Smaug6739/Alexandrie/issues/772",
-    "comments": 0,
-    "createdAt": "2026-09-13T06:23:01Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "frontend",
-      "P0"
-    ],
-    "language": "vue",
-    "stars": 2734,
-    "foundAt": "2026-09-13T14:33:25.613Z"
-  },
-  {
-    "key": "processing/p5.js#9171",
-    "tier": 2,
-    "repo": "processing/p5.js",
-    "number": 9171,
-    "title": "[p5.js 2.0+ Bug Report]: Minor issues in the creating libraries contributor doc",
-    "url": "https://github.com/processing/p5.js/issues/9171",
-    "comments": 0,
-    "createdAt": "2026-09-13T14:30:33Z",
-    "labels": [
-      "Documentation",
-      "Help Wanted",
-      "p5.js 2.0+"
-    ],
-    "language": "javascript",
-    "stars": 23988,
-    "foundAt": "2026-09-13T14:33:26.213Z"
   }
 ]

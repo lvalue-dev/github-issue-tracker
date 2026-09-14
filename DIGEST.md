@@ -4,6 +4,27 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-14 | 🥇 | [[Good First Issue] 🍵 Add new Japanese Idiom 73 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30426) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-14 | 🥇 | [[Good First Issue] 🍥 Add new Anime Quote 73 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30425) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-14 | 🥇 | [[Good First Issue] 🍛 Add new Grammar Point 91 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30424) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-14 | 🥇 | [Demo: dropping a file keeps the previous preset's model credits and thumbnail](https://github.com/xyz-tools/gcode-preview/issues/529) | `xyz-tools/gcode-preview` | ⭐ 202 |
+| 2026-09-14 | 🥇 | [[DOCS] tokens.mdx: `/-/ping` is not exempt from authentication; drop the "apart ](https://github.com/vltpkg/vltpkg/issues/1853) | `vltpkg/vltpkg` | ⭐ 552 |
+| 2026-09-14 | 🥇 | [[Good First Issue] 🏮 Add new Trivia Question 39 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30423) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-14 | 🥇 | [[Good First Issue] 🍢 Add new Japanese Haiku 11 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30422) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-14 | 🥇 | [feat(server): Add /health endpoint and Docker HEALTHCHECK directive](https://github.com/YusufB5/ASCILINE/issues/69) | `YusufB5/ASCILINE` | ⭐ 2.7k |
+| 2026-09-14 | 🥇 | [[Good First Issue] 🍥 Add new Japanese Proverb 16 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30421) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-14 | 🥇 | [feat(ui): Add "Copy Frame as ASCII Text" button](https://github.com/YusufB5/ASCILINE/issues/68) | `YusufB5/ASCILINE` | ⭐ 2.7k |
+| 2026-09-14 | 🥇 | [[Good First Issue] 🍢 Add new Japan Fact 285 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30420) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-14 | 🥇 | [[Good First Issue] 🌺 Add new Theme: Noh Mask - Beginner-Friendly Open-source Co](https://github.com/lingdojo/kana-dojo/issues/30419) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-14 | 🥈 | [test: add integration test for all *arr clients](https://github.com/raydak-labs/configarr/issues/526) | `raydak-labs/configarr` | ⭐ 657 |
+| 2026-09-14 | 🥉 | [docs: add PHP / Laravel to the OpenTelemetry integrations list](https://github.com/langfuse/langfuse-docs/issues/3805) | `langfuse/langfuse-docs` | ⭐ 240 |
+| 2026-09-14 | 🥉 | [performance v1 WP-21 (founder): Atlas placement vs the Hetzner VPS](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3773) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
+| 2026-09-14 | 🥉 | [performance v1 WP-20 (founder): brotli in prod Caddy and precompressed self-host](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3772) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
+| 2026-09-14 | 🥉 | [[agent] performance v1 WP-19: environment on log resources and latency insight](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3771) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
+| 2026-09-14 | 🥉 | [[agent] performance v1 WP-13: boot-set size report and budget from the metafile](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3765) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
+| 2026-09-14 | 🥉 | [[agent] performance v1 WP-12: Mongo client options, idle-cheap drains, wake-on-e](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3764) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
+| 2026-09-14 | 🥉 | [[agent] performance v1 WP-05: calendar indexes, billing projection, hidden-event](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3757) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
+| 2026-09-14 | 🥉 | [[agent] performance v1 WP-02: invalidate only when a pull changed something](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3754) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
 | 2026-09-14 | 🥇 | [[Good First Issue] 🍁 Add new Community Note Line #3 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30418) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-14 | 🥇 | [[Good First Issue] 🏮 Add new Learner Mistake 37 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30415) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-14 | 🥇 | [[Good First Issue] 🌋 Add new Example Sentence 12 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30414) | `lingdojo/kana-dojo` | ⭐ 3.4k |
@@ -83,24 +104,3 @@
 | 2026-09-13 | 🥇 | [[Good First Issue] 🎴 Add new Dialect Entry 90 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30338) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-13 | 🥇 | [Add tools to Yahoo Sports](https://github.com/PipedreamHQ/pipedream/issues/21979) | `PipedreamHQ/pipedream` | ⭐ 11.7k |
 | 2026-09-13 | 🥈 | [CSS: custom property with only \!important\ as value is not idempotent — extra s](https://github.com/prettier/prettier/issues/20052) | `prettier/prettier` | ⭐ 52.2k |
-| 2026-09-13 | 🥉 | [v3(lib): documentation site on GitHub Pages](https://github.com/sveltekit-i18n/lib/issues/253) | `sveltekit-i18n/lib` | ⭐ 576 |
-| 2026-09-13 | 🥉 | [Proposal: interactive source-map failure investigation lab](https://github.com/getsentry/sentry-docs/issues/19388) | `getsentry/sentry-docs` | ⭐ 445 |
-| 2026-09-13 | 🥇 | [[Good First Issue] 🍚 Add new Japanese Idiom 77 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30337) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-13 | 🥇 | [AI search keeps the previous time window when the new query has no time phrase](https://github.com/OpsiMate/OpsiMate/issues/962) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-13 | 🥇 | [Add unit tests for shared normalizeAlertSeverity](https://github.com/OpsiMate/OpsiMate/issues/961) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-13 | 🥇 | [Add unit tests for groupAlerts / flattenGroups (status rollup and collapsed grou](https://github.com/OpsiMate/OpsiMate/issues/960) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-13 | 🥇 | [Add unit tests for DashboardContext.utils time-range serialization and storage h](https://github.com/OpsiMate/OpsiMate/issues/959) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-13 | 🥇 | [Add unit tests for alertHistory.utils range filtering and the synthesized-update](https://github.com/OpsiMate/OpsiMate/issues/958) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-13 | 🥇 | [Add unit tests for the useFormErrors hook](https://github.com/OpsiMate/OpsiMate/issues/957) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-13 | 🥇 | [[Good First Issue] 🀄 Add new Video Game Quote 97 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30336) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-13 | 🥇 | [[Good First Issue] 🌋 Add new Anime Quote 122 - Beginner-Friendly Open-source Co](https://github.com/lingdojo/kana-dojo/issues/30334) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-13 | 🥇 | [[Good First Issue] 🌊 Add new Grammar Point 85 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30332) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-13 | 🥇 | [[Good First Issue] 🍶 Add new Trivia Question 86 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30331) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-13 | 🥇 | [[Good First Issue] 🏮 Add new Japan Fact 72 - Beginner-Friendly Open-source Cont](https://github.com/lingdojo/kana-dojo/issues/30328) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-13 | 🥈 | [[SEO] Incorrect metadata on the Performance Management solution page](https://github.com/layer5io/layer5/issues/8051) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-13 | 🥇 | [[Good First Issue] 🥢 Add new Community Note Line #4 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30320) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-13 | 🥇 | [[Good First Issue] 🌸 Add new Wallpaper URL #4 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30319) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-13 | 🥇 | [[Good First Issue] 🎏 Add new Learner Mistake 79 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30317) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-13 | 🥇 | [[Good First Issue] 🎎 Add new Example Sentence 32 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30316) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-13 | 🥇 | [Kanban is selectable in All workspaces but falls back to a DEBUG message when no](https://github.com/Smaug6739/Alexandrie/issues/772) | `Smaug6739/Alexandrie` | ⭐ 2.7k |
-| 2026-09-13 | 🥈 | [[p5.js 2.0+ Bug Report]: Minor issues in the creating libraries contributor doc](https://github.com/processing/p5.js/issues/9171) | `processing/p5.js` | ⭐ 24.0k |
