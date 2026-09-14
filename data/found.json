@@ -1,5 +1,280 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30418",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30418,
+    "title": "[Good First Issue] 🍁 Add new Community Note Line #3 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30418",
+    "comments": 1,
+    "createdAt": "2026-09-14T19:01:43Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-14T19:30:22.030Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30415",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30415,
+    "title": "[Good First Issue] 🏮 Add new Learner Mistake 37 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30415",
+    "comments": 1,
+    "createdAt": "2026-09-14T18:01:07Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-14T19:30:22.487Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30414",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30414,
+    "title": "[Good First Issue] 🌋 Add new Example Sentence 12 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30414",
+    "comments": 1,
+    "createdAt": "2026-09-14T17:34:35Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-14T19:30:23.198Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30413",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30413,
+    "title": "[Good First Issue] 🍜 Add new Etiquette Tip 102 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30413",
+    "comments": 1,
+    "createdAt": "2026-09-14T17:01:06Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-14T19:30:23.455Z"
+  },
+  {
+    "key": "layer5io/layer5#8064",
+    "tier": 2,
+    "repo": "layer5io/layer5",
+    "number": 8064,
+    "title": "Add explicit dimensions to lazy-loaded card thumbnails to prevent layout shifts",
+    "url": "https://github.com/layer5io/layer5/issues/8064",
+    "comments": 1,
+    "createdAt": "2026-09-14T19:27:13Z",
+    "labels": [
+      "kind/bug",
+      "help wanted",
+      "framework/gatsby"
+    ],
+    "language": "javascript",
+    "stars": 1121,
+    "foundAt": "2026-09-14T19:30:28.414Z"
+  },
+  {
+    "key": "layer5io/layer5#8063",
+    "tier": 2,
+    "repo": "layer5io/layer5",
+    "number": 8063,
+    "title": "Filter checkboxes lack proper label associations on Resources page",
+    "url": "https://github.com/layer5io/layer5/issues/8063",
+    "comments": 1,
+    "createdAt": "2026-09-14T19:19:27Z",
+    "labels": [
+      "kind/bug",
+      "help wanted",
+      "framework/gatsby"
+    ],
+    "language": "javascript",
+    "stars": 1121,
+    "foundAt": "2026-09-14T19:30:28.414Z"
+  },
+  {
+    "key": "layer5io/layer5#8062",
+    "tier": 2,
+    "repo": "layer5io/layer5",
+    "number": 8062,
+    "title": "Search input missing id, name, autocomplete, and accessible label",
+    "url": "https://github.com/layer5io/layer5/issues/8062",
+    "comments": 1,
+    "createdAt": "2026-09-14T19:03:37Z",
+    "labels": [
+      "kind/bug",
+      "help wanted",
+      "framework/gatsby"
+    ],
+    "language": "javascript",
+    "stars": 1121,
+    "foundAt": "2026-09-14T19:30:28.414Z"
+  },
+  {
+    "key": "meshery/meshery#21963",
+    "tier": 2,
+    "repo": "meshery/meshery",
+    "number": 21963,
+    "title": "[Docs] Add Sistent design guidance to AGENTS.md",
+    "url": "https://github.com/meshery/meshery/issues/21963",
+    "comments": 2,
+    "createdAt": "2026-09-14T19:01:03Z",
+    "labels": [
+      "help wanted",
+      "area/docs",
+      "language/markdown",
+      "framework/hugo"
+    ],
+    "language": "typescript",
+    "stars": 11744,
+    "foundAt": "2026-09-14T19:30:27.497Z"
+  },
+  {
+    "key": "layer5io/layer5#8061",
+    "tier": 2,
+    "repo": "layer5io/layer5",
+    "number": 8061,
+    "title": "[Docs] Update AGENTS.md with Sistent design guidance",
+    "url": "https://github.com/layer5io/layer5/issues/8061",
+    "comments": 1,
+    "createdAt": "2026-09-14T18:54:24Z",
+    "labels": [
+      "help wanted",
+      "kind/chore"
+    ],
+    "language": "javascript",
+    "stars": 1121,
+    "foundAt": "2026-09-14T19:30:28.414Z"
+  },
+  {
+    "key": "bastani-inc/atomic#3043",
+    "tier": 2,
+    "repo": "bastani-inc/atomic",
+    "number": 3043,
+    "title": "feat(workflows): route inline versus workflow execution by orchestration needs",
+    "url": "https://github.com/bastani-inc/atomic/issues/3043",
+    "comments": 0,
+    "createdAt": "2026-09-14T18:34:41Z",
+    "labels": [
+      "enhancement",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 784,
+    "foundAt": "2026-09-14T19:30:27.497Z"
+  },
+  {
+    "key": "backstage/backstage#35677",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35677,
+    "title": "Snyk vulnerability [SNYK-JS-ISOMORPHICGIT-19784422]",
+    "url": "https://github.com/backstage/backstage/issues/35677",
+    "comments": 0,
+    "createdAt": "2026-09-14T16:13:06Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34409,
+    "foundAt": "2026-09-14T19:30:27.963Z"
+  },
+  {
+    "key": "backstage/backstage#35676",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35676,
+    "title": "Snyk vulnerability [SNYK-JS-MULTER-19785644]",
+    "url": "https://github.com/backstage/backstage/issues/35676",
+    "comments": 0,
+    "createdAt": "2026-09-14T16:12:53Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34409,
+    "foundAt": "2026-09-14T19:30:27.963Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30411",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30411,
+    "title": "[Good First Issue] 🎋 Add new Dialect Entry 53 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30411",
+    "comments": 1,
+    "createdAt": "2026-09-14T16:01:07Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-14T19:30:27.963Z"
+  },
+  {
+    "key": "aws/graph-explorer#2174",
+    "tier": 3,
+    "repo": "aws/graph-explorer",
+    "number": 2174,
+    "title": "Define an app-wide convention for asserting domain and validation errors in tests",
+    "url": "https://github.com/aws/graph-explorer/issues/2174",
+    "comments": 0,
+    "createdAt": "2026-09-14T18:20:22Z",
+    "labels": [
+      "documentation",
+      "tech debt",
+      "internal"
+    ],
+    "language": "typescript",
+    "stars": 481,
+    "foundAt": "2026-09-14T19:30:32.176Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30403",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1732,292 +2007,5 @@
     "language": "javascript",
     "stars": 23988,
     "foundAt": "2026-09-13T14:33:26.213Z"
-  },
-  {
-    "key": "meshery/meshery#21951",
-    "tier": 2,
-    "repo": "meshery/meshery",
-    "number": 21951,
-    "title": "[Docs] Add a troubleshooting note for Meshery Server startup failures",
-    "url": "https://github.com/meshery/meshery/issues/21951",
-    "comments": 1,
-    "createdAt": "2026-09-13T14:01:13Z",
-    "labels": [
-      "help wanted",
-      "area/docs",
-      "language/markdown",
-      "framework/hugo"
-    ],
-    "language": "typescript",
-    "stars": 11744,
-    "foundAt": "2026-09-13T14:33:26.023Z"
-  },
-  {
-    "key": "bastani-inc/atomic#3025",
-    "tier": 1,
-    "repo": "bastani-inc/atomic",
-    "number": 3025,
-    "title": "Support background shells in subagents and show them in the parent session's /tasks",
-    "url": "https://github.com/bastani-inc/atomic/issues/3025",
-    "comments": 0,
-    "createdAt": "2026-09-13T08:32:09Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 784,
-    "foundAt": "2026-09-13T10:24:46.998Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30297",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30297,
-    "title": "[Good First Issue] 🎏 Add new Japan Fact 192 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30297",
-    "comments": 1,
-    "createdAt": "2026-09-13T06:57:29Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-13T10:24:47.784Z"
-  },
-  {
-    "key": "layer5io/layer5#8050",
-    "tier": 2,
-    "repo": "layer5io/layer5",
-    "number": 8050,
-    "title": "[Bug] Hacktoberfest program card navigates to /programs/null instead of valid slug",
-    "url": "https://github.com/layer5io/layer5/issues/8050",
-    "comments": 1,
-    "createdAt": "2026-09-13T09:48:10Z",
-    "labels": [
-      "kind/bug",
-      "help wanted",
-      "framework/gatsby"
-    ],
-    "language": "javascript",
-    "stars": 1121,
-    "foundAt": "2026-09-13T10:24:49.710Z"
-  },
-  {
-    "key": "yonatangross/orchestkit#4082",
-    "tier": 3,
-    "repo": "yonatangross/orchestkit",
-    "number": 4082,
-    "title": "docs: doctor load-diagnosis note sorts the process view by CPU; rsync dialect header overstates what CI proved",
-    "url": "https://github.com/yonatangross/orchestkit/issues/4082",
-    "comments": 0,
-    "createdAt": "2026-09-13T10:11:26Z",
-    "labels": [
-      "docs"
-    ],
-    "language": "typescript",
-    "stars": 267,
-    "foundAt": "2026-09-13T10:24:50.799Z"
-  },
-  {
-    "key": "srg-kostyrko/obsidian-journal#420",
-    "tier": 3,
-    "repo": "srg-kostyrko/obsidian-journal",
-    "number": 420,
-    "title": "Docs: audit the manual on release, and link to it from the plugin",
-    "url": "https://github.com/srg-kostyrko/obsidian-journal/issues/420",
-    "comments": 0,
-    "createdAt": "2026-09-13T09:17:48Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "typescript",
-    "stars": 390,
-    "foundAt": "2026-09-13T10:24:51.794Z"
-  },
-  {
-    "key": "srg-kostyrko/obsidian-journal#419",
-    "tier": 3,
-    "repo": "srg-kostyrko/obsidian-journal",
-    "number": 419,
-    "title": "Docs: deepen the user manual, page by page",
-    "url": "https://github.com/srg-kostyrko/obsidian-journal/issues/419",
-    "comments": 0,
-    "createdAt": "2026-09-13T09:17:26Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "typescript",
-    "stars": 390,
-    "foundAt": "2026-09-13T10:24:51.794Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30287",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30287,
-    "title": "[Good First Issue] 🐉 Add new Etiquette Tip 107 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30287",
-    "comments": 1,
-    "createdAt": "2026-09-13T04:57:31Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-13T05:01:28.654Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30286",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30286,
-    "title": "[Good First Issue] 🌊 Add new False Friend Pair 28 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30286",
-    "comments": 1,
-    "createdAt": "2026-09-13T04:01:05Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-13T05:01:29.061Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30285",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30285,
-    "title": "[Good First Issue] 🌊 Add new Dialect Entry 73 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30285",
-    "comments": 1,
-    "createdAt": "2026-09-13T03:57:29Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-13T05:01:29.061Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30284",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30284,
-    "title": "[Good First Issue] ⛩️ Add new Japanese Idiom 51 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30284",
-    "comments": 1,
-    "createdAt": "2026-09-13T03:01:05Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-13T05:01:29.257Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30283",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30283,
-    "title": "[Good First Issue] 🍛 Add new Video Game Quote 62 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30283",
-    "comments": 1,
-    "createdAt": "2026-09-13T02:57:32Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-13T05:01:29.257Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30282",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30282,
-    "title": "[Good First Issue] 🌺 Add new Anime Quote 16 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30282",
-    "comments": 1,
-    "createdAt": "2026-09-13T02:01:00Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-13T05:01:29.400Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30281",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30281,
-    "title": "[Good First Issue] 🪭 Add new Trivia Question 33 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30281",
-    "comments": 1,
-    "createdAt": "2026-09-13T01:57:31Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-13T05:01:29.400Z"
   }
 ]

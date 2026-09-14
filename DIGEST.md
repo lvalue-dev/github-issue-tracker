@@ -4,6 +4,20 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-14 | 🥇 | [[Good First Issue] 🍁 Add new Community Note Line #3 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30418) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-14 | 🥇 | [[Good First Issue] 🏮 Add new Learner Mistake 37 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30415) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-14 | 🥇 | [[Good First Issue] 🌋 Add new Example Sentence 12 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30414) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-14 | 🥇 | [[Good First Issue] 🍜 Add new Etiquette Tip 102 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30413) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-14 | 🥈 | [Add explicit dimensions to lazy-loaded card thumbnails to prevent layout shifts](https://github.com/layer5io/layer5/issues/8064) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-14 | 🥈 | [Filter checkboxes lack proper label associations on Resources page](https://github.com/layer5io/layer5/issues/8063) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-14 | 🥈 | [Search input missing id, name, autocomplete, and accessible label](https://github.com/layer5io/layer5/issues/8062) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-14 | 🥈 | [[Docs] Add Sistent design guidance to AGENTS.md](https://github.com/meshery/meshery/issues/21963) | `meshery/meshery` | ⭐ 11.7k |
+| 2026-09-14 | 🥈 | [[Docs] Update AGENTS.md with Sistent design guidance](https://github.com/layer5io/layer5/issues/8061) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-14 | 🥈 | [feat(workflows): route inline versus workflow execution by orchestration needs](https://github.com/bastani-inc/atomic/issues/3043) | `bastani-inc/atomic` | ⭐ 784 |
+| 2026-09-14 | 🥈 | [Snyk vulnerability [SNYK-JS-ISOMORPHICGIT-19784422]](https://github.com/backstage/backstage/issues/35677) | `backstage/backstage` | ⭐ 34.4k |
+| 2026-09-14 | 🥈 | [Snyk vulnerability [SNYK-JS-MULTER-19785644]](https://github.com/backstage/backstage/issues/35676) | `backstage/backstage` | ⭐ 34.4k |
+| 2026-09-14 | 🥈 | [[Good First Issue] 🎋 Add new Dialect Entry 53 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30411) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-14 | 🥉 | [Define an app-wide convention for asserting domain and validation errors in test](https://github.com/aws/graph-explorer/issues/2174) | `aws/graph-explorer` | ⭐ 481 |
 | 2026-09-14 | 🥇 | [[Good First Issue] 🏯 Add new Grammar Point 115 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30403) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-14 | 🥇 | [ADOPTERS.md](https://github.com/HelpCode-ai/anythingmcp/issues/602) | `HelpCode-ai/anythingmcp` | ⭐ 202 |
 | 2026-09-14 | 🥇 | [Multi-language README (de, zh, ja)](https://github.com/HelpCode-ai/anythingmcp/issues/600) | `HelpCode-ai/anythingmcp` | ⭐ 202 |
@@ -90,17 +104,3 @@
 | 2026-09-13 | 🥇 | [[Good First Issue] 🎎 Add new Example Sentence 32 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30316) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-13 | 🥇 | [Kanban is selectable in All workspaces but falls back to a DEBUG message when no](https://github.com/Smaug6739/Alexandrie/issues/772) | `Smaug6739/Alexandrie` | ⭐ 2.7k |
 | 2026-09-13 | 🥈 | [[p5.js 2.0+ Bug Report]: Minor issues in the creating libraries contributor doc](https://github.com/processing/p5.js/issues/9171) | `processing/p5.js` | ⭐ 24.0k |
-| 2026-09-13 | 🥈 | [[Docs] Add a troubleshooting note for Meshery Server startup failures](https://github.com/meshery/meshery/issues/21951) | `meshery/meshery` | ⭐ 11.7k |
-| 2026-09-13 | 🥇 | [Support background shells in subagents and show them in the parent session's /ta](https://github.com/bastani-inc/atomic/issues/3025) | `bastani-inc/atomic` | ⭐ 784 |
-| 2026-09-13 | 🥇 | [[Good First Issue] 🎏 Add new Japan Fact 192 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30297) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-13 | 🥈 | [[Bug] Hacktoberfest program card navigates to /programs/null instead of valid sl](https://github.com/layer5io/layer5/issues/8050) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-13 | 🥉 | [docs: doctor load-diagnosis note sorts the process view by CPU; rsync dialect he](https://github.com/yonatangross/orchestkit/issues/4082) | `yonatangross/orchestkit` | ⭐ 267 |
-| 2026-09-13 | 🥉 | [Docs: audit the manual on release, and link to it from the plugin](https://github.com/srg-kostyrko/obsidian-journal/issues/420) | `srg-kostyrko/obsidian-journal` | ⭐ 390 |
-| 2026-09-13 | 🥉 | [Docs: deepen the user manual, page by page](https://github.com/srg-kostyrko/obsidian-journal/issues/419) | `srg-kostyrko/obsidian-journal` | ⭐ 390 |
-| 2026-09-13 | 🥇 | [[Good First Issue] 🐉 Add new Etiquette Tip 107 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30287) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-13 | 🥇 | [[Good First Issue] 🌊 Add new False Friend Pair 28 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30286) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-13 | 🥇 | [[Good First Issue] 🌊 Add new Dialect Entry 73 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30285) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-13 | 🥇 | [[Good First Issue] ⛩️ Add new Japanese Idiom 51 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30284) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-13 | 🥇 | [[Good First Issue] 🍛 Add new Video Game Quote 62 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30283) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-13 | 🥇 | [[Good First Issue] 🌺 Add new Anime Quote 16 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30282) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-13 | 🥇 | [[Good First Issue] 🪭 Add new Trivia Question 33 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30281) | `lingdojo/kana-dojo` | ⭐ 3.4k |
