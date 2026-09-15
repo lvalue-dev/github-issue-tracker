@@ -4,6 +4,12 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-15 | 🥇 | [[Good First Issue] 🍚 Add new Japanese Idiom 116 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30461) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-15 | 🥈 | [Snyk vulnerability [SNYK-JS-PROXYADDR-19812342]](https://github.com/backstage/backstage/issues/35714) | `backstage/backstage` | ⭐ 34.4k |
+| 2026-09-15 | 🥈 | [[Good First Issue] 🪭 Add new Grammar Point 70 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30455) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-15 | 🥈 | [[Good First Issue] 🪭 Add new Japanese Haiku 11 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30454) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-15 | 🥈 | [[ACTION] Rewardful — Affiliate & Commission Management](https://github.com/PipedreamHQ/pipedream/issues/21991) | `PipedreamHQ/pipedream` | ⭐ 11.7k |
+| 2026-09-15 | 🥉 | [Unused import OpenAIIntegration on Pydantic AI integration page](https://github.com/getsentry/sentry-docs/issues/19432) | `getsentry/sentry-docs` | ⭐ 445 |
 | 2026-09-15 | 🥇 | [[Good First Issue] 🥢 Add new Etiquette Tip 94 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30445) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-15 | 🥇 | [[Good First Issue] 🐡 Add new Japanese Idiom 54 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30441) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-15 | 🥇 | [[Bug] Markdown RAW Content Glitches While Scrolling](https://github.com/VoidenHQ/voiden/issues/560) | `VoidenHQ/voiden` | ⭐ 1.7k |
@@ -98,9 +104,3 @@
 | 2026-09-13 | 🥇 | [block: Shipping Label](https://github.com/shadcn-labs/pdfcn/issues/24) | `shadcn-labs/pdfcn` | ⭐ 1.7k |
 | 2026-09-13 | 🥇 | [block: Work Order](https://github.com/shadcn-labs/pdfcn/issues/27) | `shadcn-labs/pdfcn` | ⭐ 1.7k |
 | 2026-09-13 | 🥇 | [block: Gift Certificate](https://github.com/shadcn-labs/pdfcn/issues/25) | `shadcn-labs/pdfcn` | ⭐ 1.7k |
-| 2026-09-13 | 🥇 | [block: Event Agenda](https://github.com/shadcn-labs/pdfcn/issues/23) | `shadcn-labs/pdfcn` | ⭐ 1.7k |
-| 2026-09-13 | 🥇 | [block: Meeting Minutes](https://github.com/shadcn-labs/pdfcn/issues/22) | `shadcn-labs/pdfcn` | ⭐ 1.7k |
-| 2026-09-13 | 🥇 | [block: Packing Slip](https://github.com/shadcn-labs/pdfcn/issues/19) | `shadcn-labs/pdfcn` | ⭐ 1.7k |
-| 2026-09-13 | 🥇 | [block: Press Release](https://github.com/shadcn-labs/pdfcn/issues/21) | `shadcn-labs/pdfcn` | ⭐ 1.7k |
-| 2026-09-13 | 🥇 | [block: Lesson Plan](https://github.com/shadcn-labs/pdfcn/issues/20) | `shadcn-labs/pdfcn` | ⭐ 1.7k |
-| 2026-09-13 | 🥇 | [block: Event Ticket](https://github.com/shadcn-labs/pdfcn/issues/18) | `shadcn-labs/pdfcn` | ⭐ 1.7k |

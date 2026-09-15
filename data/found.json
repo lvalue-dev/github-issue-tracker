@@ -1,5 +1,128 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30461",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30461,
+    "title": "[Good First Issue] 🍚 Add new Japanese Idiom 116 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30461",
+    "comments": 1,
+    "createdAt": "2026-09-15T13:34:34Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-15T13:42:42.635Z"
+  },
+  {
+    "key": "backstage/backstage#35714",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35714,
+    "title": "Snyk vulnerability [SNYK-JS-PROXYADDR-19812342]",
+    "url": "https://github.com/backstage/backstage/issues/35714",
+    "comments": 0,
+    "createdAt": "2026-09-15T12:13:26Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34409,
+    "foundAt": "2026-09-15T13:42:44.384Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30455",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30455,
+    "title": "[Good First Issue] 🪭 Add new Grammar Point 70 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30455",
+    "comments": 1,
+    "createdAt": "2026-09-15T12:01:06Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-15T13:42:44.384Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30454",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30454,
+    "title": "[Good First Issue] 🪭 Add new Japanese Haiku 11 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30454",
+    "comments": 1,
+    "createdAt": "2026-09-15T11:35:45Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-15T13:42:44.384Z"
+  },
+  {
+    "key": "PipedreamHQ/pipedream#21991",
+    "tier": 2,
+    "repo": "PipedreamHQ/pipedream",
+    "number": 21991,
+    "title": "[ACTION] Rewardful — Affiliate & Commission Management",
+    "url": "https://github.com/PipedreamHQ/pipedream/issues/21991",
+    "comments": 0,
+    "createdAt": "2026-09-15T11:13:43Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "action"
+    ],
+    "language": "javascript",
+    "stars": 11684,
+    "foundAt": "2026-09-15T13:42:44.596Z"
+  },
+  {
+    "key": "getsentry/sentry-docs#19432",
+    "tier": 3,
+    "repo": "getsentry/sentry-docs",
+    "number": 19432,
+    "title": "Unused import OpenAIIntegration on Pydantic AI integration page",
+    "url": "https://github.com/getsentry/sentry-docs/issues/19432",
+    "comments": 1,
+    "createdAt": "2026-09-15T12:24:17Z",
+    "labels": [
+      "SDKs",
+      "Platform: Python",
+      "Docs"
+    ],
+    "language": "mdx",
+    "stars": 445,
+    "foundAt": "2026-09-15T13:42:47.628Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30445",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1896,113 +2019,5 @@
     "language": "typescript",
     "stars": 1727,
     "foundAt": "2026-09-13T23:15:50.463Z"
-  },
-  {
-    "key": "shadcn-labs/pdfcn#23",
-    "tier": 1,
-    "repo": "shadcn-labs/pdfcn",
-    "number": 23,
-    "title": "block: Event Agenda",
-    "url": "https://github.com/shadcn-labs/pdfcn/issues/23",
-    "comments": 0,
-    "createdAt": "2026-09-13T22:04:39Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 1727,
-    "foundAt": "2026-09-13T23:15:50.463Z"
-  },
-  {
-    "key": "shadcn-labs/pdfcn#22",
-    "tier": 1,
-    "repo": "shadcn-labs/pdfcn",
-    "number": 22,
-    "title": "block: Meeting Minutes",
-    "url": "https://github.com/shadcn-labs/pdfcn/issues/22",
-    "comments": 0,
-    "createdAt": "2026-09-13T22:04:39Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 1727,
-    "foundAt": "2026-09-13T23:15:50.463Z"
-  },
-  {
-    "key": "shadcn-labs/pdfcn#19",
-    "tier": 1,
-    "repo": "shadcn-labs/pdfcn",
-    "number": 19,
-    "title": "block: Packing Slip",
-    "url": "https://github.com/shadcn-labs/pdfcn/issues/19",
-    "comments": 0,
-    "createdAt": "2026-09-13T22:04:38Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 1727,
-    "foundAt": "2026-09-13T23:15:50.463Z"
-  },
-  {
-    "key": "shadcn-labs/pdfcn#21",
-    "tier": 1,
-    "repo": "shadcn-labs/pdfcn",
-    "number": 21,
-    "title": "block: Press Release",
-    "url": "https://github.com/shadcn-labs/pdfcn/issues/21",
-    "comments": 0,
-    "createdAt": "2026-09-13T22:04:38Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 1727,
-    "foundAt": "2026-09-13T23:15:50.464Z"
-  },
-  {
-    "key": "shadcn-labs/pdfcn#20",
-    "tier": 1,
-    "repo": "shadcn-labs/pdfcn",
-    "number": 20,
-    "title": "block: Lesson Plan",
-    "url": "https://github.com/shadcn-labs/pdfcn/issues/20",
-    "comments": 0,
-    "createdAt": "2026-09-13T22:04:38Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 1727,
-    "foundAt": "2026-09-13T23:15:50.464Z"
-  },
-  {
-    "key": "shadcn-labs/pdfcn#18",
-    "tier": 1,
-    "repo": "shadcn-labs/pdfcn",
-    "number": 18,
-    "title": "block: Event Ticket",
-    "url": "https://github.com/shadcn-labs/pdfcn/issues/18",
-    "comments": 0,
-    "createdAt": "2026-09-13T22:04:37Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 1727,
-    "foundAt": "2026-09-13T23:15:50.464Z"
   }
 ]
