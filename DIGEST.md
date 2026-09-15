@@ -4,6 +4,21 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-15 | 🥇 | [[Good First Issue] 🥢 Add new Etiquette Tip 94 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30445) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-15 | 🥇 | [[Good First Issue] 🐡 Add new Japanese Idiom 54 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30441) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-15 | 🥇 | [[Bug] Markdown RAW Content Glitches While Scrolling](https://github.com/VoidenHQ/voiden/issues/560) | `VoidenHQ/voiden` | ⭐ 1.7k |
+| 2026-09-15 | 🥇 | [[Good First Issue] 🎐 Add new Anime Quote 18 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30440) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-15 | 🥇 | [[Good First Issue] 🍚 Add new Grammar Point 17 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30439) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-15 | 🥈 | [[Good First Issue] 🍁 Add new Trivia Question 121 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30438) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-15 | 🥈 | [[Good First Issue] 🪭 Add new Japanese Proverb 100 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30437) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-15 | 🥈 | [[Good First Issue] 🪭 Add new Japan Fact 292 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30436) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-15 | 🥈 | [[Good First Issue] 🥢 Add new Theme: Festival Mask - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30435) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-15 | 🥈 | [Dependency Audit Report - September 15, 2026 🤖📝](https://github.com/activist-org/activist/issues/2404) | `activist-org/activist` | ⭐ 747 |
+| 2026-09-15 | 🥈 | [[Good First Issue] 🗾 Add new Community Note Line #2 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30434) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-15 | 🥈 | [[Good First Issue] 🍁 Add new Wallpaper URL #2 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30433) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-15 | 🥉 | [docs: comparison pages — Aider repo map, RepoPrompt, ctags (EN4)](https://github.com/manojmallick/sigmap/issues/679) | `manojmallick/sigmap` | ⭐ 636 |
+| 2026-09-15 | 🥉 | [docs(security): SECURITY.md points the MCP proxy DNS residual at closed #5061](https://github.com/koala73/worldmonitor/issues/8176) | `koala73/worldmonitor` | ⭐ 86.3k |
+| 2026-09-15 | 🥉 | [docs: --help omits seven shipped commands; CLI docs drift (audit H3, plan D2/G05](https://github.com/manojmallick/sigmap/issues/661) | `manojmallick/sigmap` | ⭐ 636 |
 | 2026-09-15 | 🥇 | [[Good First Issue] 🦊 Add new Learner Mistake 104 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30431) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-15 | 🥇 | [[Good First Issue] 🌸 Add new Example Sentence 30 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30430) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-15 | 🥇 | [[Good First Issue] 🎴 Add new Etiquette Tip 76 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30429) | `lingdojo/kana-dojo` | ⭐ 3.4k |
@@ -89,18 +104,3 @@
 | 2026-09-13 | 🥇 | [block: Press Release](https://github.com/shadcn-labs/pdfcn/issues/21) | `shadcn-labs/pdfcn` | ⭐ 1.7k |
 | 2026-09-13 | 🥇 | [block: Lesson Plan](https://github.com/shadcn-labs/pdfcn/issues/20) | `shadcn-labs/pdfcn` | ⭐ 1.7k |
 | 2026-09-13 | 🥇 | [block: Event Ticket](https://github.com/shadcn-labs/pdfcn/issues/18) | `shadcn-labs/pdfcn` | ⭐ 1.7k |
-| 2026-09-13 | 🥇 | [block: Event Ticket](https://github.com/shadcn-labs/pdfcn/issues/17) | `shadcn-labs/pdfcn` | ⭐ 1.7k |
-| 2026-09-13 | 🥇 | [[Good First Issue] 🧧 Add new Theme: Plaza Snow - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30348) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-13 | 🥇 | [feat: Add community page for sharing and browsing PDF templates](https://github.com/shadcn-labs/pdfcn/issues/16) | `shadcn-labs/pdfcn` | ⭐ 1.7k |
-| 2026-09-13 | 🥇 | [feat: Build an official pdfcn agent skill for AI coding assistants](https://github.com/shadcn-labs/pdfcn/issues/15) | `shadcn-labs/pdfcn` | ⭐ 1.7k |
-| 2026-09-13 | 🥇 | [feat: Add Unlayer Elements as a fourth rendering base for PDF generation](https://github.com/shadcn-labs/pdfcn/issues/14) | `shadcn-labs/pdfcn` | ⭐ 1.7k |
-| 2026-09-13 | 🥇 | [[Good First Issue] 🌺 Add new Community Note Line #4 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30347) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-13 | 🥇 | [Keep title-case header matches within one physical line](https://github.com/conorbronsdon/avoid-ai-writing/issues/291) | `conorbronsdon/avoid-ai-writing` | ⭐ 4.3k |
-| 2026-09-13 | 🥇 | [[Good First Issue] 🍥 Add new Wallpaper URL #4 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30345) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-13 | 🥉 | [[agent] meeting readiness WP-14: run a privacy-safe Meeting feedback and continu](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3720) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
-| 2026-09-13 | 🥉 | [[human] meeting readiness WP-13: verify live provider flows and record the produ](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3719) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
-| 2026-09-13 | 🥉 | [[agent] meeting readiness WP-12: publish Meeting dashboards and actionable relea](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3718) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
-| 2026-09-13 | 🥉 | [[agent] meeting readiness WP-11: emit authoritative booking lifecycle and recove](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3717) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
-| 2026-09-13 | 🥉 | [[agent] meeting readiness WP-10: complete the host setup and guest conversion fu](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3716) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
-| 2026-09-13 | 🥉 | [[agent] meeting readiness WP-09: enforce a deployment-wide public booking abuse ](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3715) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
-| 2026-09-13 | 🥇 | [[Good First Issue] 🍘 Add new Learner Mistake 105 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30344) | `lingdojo/kana-dojo` | ⭐ 3.4k |
