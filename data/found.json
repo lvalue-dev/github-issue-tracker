@@ -1,5 +1,153 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30431",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30431,
+    "title": "[Good First Issue] 🦊 Add new Learner Mistake 104 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30431",
+    "comments": 1,
+    "createdAt": "2026-09-15T01:34:31Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-15T01:36:25.542Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30430",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30430,
+    "title": "[Good First Issue] 🌸 Add new Example Sentence 30 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30430",
+    "comments": 1,
+    "createdAt": "2026-09-15T01:01:03Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-15T01:36:25.999Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30429",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30429,
+    "title": "[Good First Issue] 🎴 Add new Etiquette Tip 76 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30429",
+    "comments": 1,
+    "createdAt": "2026-09-15T00:34:34Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-15T01:36:26.213Z"
+  },
+  {
+    "key": "stdlib-js/stdlib#15228",
+    "tier": 1,
+    "repo": "stdlib-js/stdlib",
+    "number": 15228,
+    "title": "Fix JavaScript lint errors",
+    "url": "https://github.com/stdlib-js/stdlib/issues/15228",
+    "comments": 1,
+    "createdAt": "2026-09-15T00:10:37Z",
+    "labels": [
+      "Good First Issue"
+    ],
+    "language": "javascript",
+    "stars": 5957,
+    "foundAt": "2026-09-15T01:36:26.825Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30428",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30428,
+    "title": "[Good First Issue] 🗻 Add new False Friend Pair 119 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30428",
+    "comments": 1,
+    "createdAt": "2026-09-15T00:01:03Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-15T01:36:26.213Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30427",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30427,
+    "title": "[Good First Issue] 🍡 Add new Dialect Entry 44 - Beginner-Friendly Open-source Contribution",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30427",
+    "comments": 1,
+    "createdAt": "2026-09-14T23:34:31Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-15T01:36:26.213Z"
+  },
+  {
+    "key": "webdriverio/webdriverio#15602",
+    "tier": 2,
+    "repo": "webdriverio/webdriverio",
+    "number": 15602,
+    "title": "Update archiver to v8",
+    "url": "https://github.com/webdriverio/webdriverio/issues/15602",
+    "comments": 2,
+    "createdAt": "2026-09-14T19:10:49Z",
+    "labels": [
+      "help wanted",
+      "good first pick"
+    ],
+    "language": "typescript",
+    "stars": 9835,
+    "foundAt": "2026-09-15T01:36:27.679Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30426",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1846,152 +1994,5 @@
     "language": "typescript",
     "stars": 3350,
     "foundAt": "2026-09-13T20:58:06.149Z"
-  },
-  {
-    "key": "shadcn-labs/pdfcn#13",
-    "tier": 1,
-    "repo": "shadcn-labs/pdfcn",
-    "number": 13,
-    "title": "feat: Add pdfme as a third rendering base using @pdfme/jsx",
-    "url": "https://github.com/shadcn-labs/pdfcn/issues/13",
-    "comments": 0,
-    "createdAt": "2026-09-13T20:18:38Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 1727,
-    "foundAt": "2026-09-13T20:58:06.609Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30343",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30343,
-    "title": "[Good First Issue] 🍥 Add new Example Sentence 53 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30343",
-    "comments": 1,
-    "createdAt": "2026-09-13T20:01:04Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-13T20:58:06.609Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30342",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30342,
-    "title": "[Good First Issue] 🍵 Add new Etiquette Tip 114 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30342",
-    "comments": 1,
-    "createdAt": "2026-09-13T19:34:30Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-13T20:58:06.609Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30341",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30341,
-    "title": "[Good First Issue] 🍜 Add new False Friend Pair 92 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30341",
-    "comments": 1,
-    "createdAt": "2026-09-13T19:00:59Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-13T20:58:06.811Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30338",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30338,
-    "title": "[Good First Issue] 🎴 Add new Dialect Entry 90 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30338",
-    "comments": 1,
-    "createdAt": "2026-09-13T18:34:33Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-13T20:58:06.811Z"
-  },
-  {
-    "key": "PipedreamHQ/pipedream#21979",
-    "tier": 1,
-    "repo": "PipedreamHQ/pipedream",
-    "number": 21979,
-    "title": "Add tools to Yahoo Sports",
-    "url": "https://github.com/PipedreamHQ/pipedream/issues/21979",
-    "comments": 0,
-    "createdAt": "2026-09-13T18:33:34Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "action"
-    ],
-    "language": "javascript",
-    "stars": 11684,
-    "foundAt": "2026-09-13T20:58:07.528Z"
-  },
-  {
-    "key": "prettier/prettier#20052",
-    "tier": 2,
-    "repo": "prettier/prettier",
-    "number": 20052,
-    "title": "CSS: custom property with only \\!important\\ as value is not idempotent — extra space added on every format",
-    "url": "https://github.com/prettier/prettier/issues/20052",
-    "comments": 0,
-    "createdAt": "2026-09-13T11:19:49Z",
-    "labels": [
-      "help wanted",
-      "lang:css/scss/less",
-      "area:idempotency"
-    ],
-    "language": "javascript",
-    "stars": 52242,
-    "foundAt": "2026-09-13T20:58:08.239Z"
   }
 ]

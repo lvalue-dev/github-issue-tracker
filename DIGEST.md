@@ -4,6 +4,13 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-15 | 🥇 | [[Good First Issue] 🦊 Add new Learner Mistake 104 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30431) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-15 | 🥇 | [[Good First Issue] 🌸 Add new Example Sentence 30 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30430) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-15 | 🥇 | [[Good First Issue] 🎴 Add new Etiquette Tip 76 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30429) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-15 | 🥇 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15228) | `stdlib-js/stdlib` | ⭐ 6.0k |
+| 2026-09-15 | 🥇 | [[Good First Issue] 🗻 Add new False Friend Pair 119 - Beginner-Friendly Open-sou](https://github.com/lingdojo/kana-dojo/issues/30428) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-15 | 🥇 | [[Good First Issue] 🍡 Add new Dialect Entry 44 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30427) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-15 | 🥈 | [Update archiver to v8](https://github.com/webdriverio/webdriverio/issues/15602) | `webdriverio/webdriverio` | ⭐ 9.8k |
 | 2026-09-14 | 🥇 | [[Good First Issue] 🍵 Add new Japanese Idiom 73 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30426) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-14 | 🥇 | [[Good First Issue] 🍥 Add new Anime Quote 73 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30425) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-14 | 🥇 | [[Good First Issue] 🍛 Add new Grammar Point 91 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30424) | `lingdojo/kana-dojo` | ⭐ 3.4k |
@@ -97,10 +104,3 @@
 | 2026-09-13 | 🥉 | [[agent] meeting readiness WP-10: complete the host setup and guest conversion fu](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3716) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
 | 2026-09-13 | 🥉 | [[agent] meeting readiness WP-09: enforce a deployment-wide public booking abuse ](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3715) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
 | 2026-09-13 | 🥇 | [[Good First Issue] 🍘 Add new Learner Mistake 105 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30344) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-13 | 🥇 | [feat: Add pdfme as a third rendering base using @pdfme/jsx](https://github.com/shadcn-labs/pdfcn/issues/13) | `shadcn-labs/pdfcn` | ⭐ 1.7k |
-| 2026-09-13 | 🥇 | [[Good First Issue] 🍥 Add new Example Sentence 53 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30343) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-13 | 🥇 | [[Good First Issue] 🍵 Add new Etiquette Tip 114 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30342) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-13 | 🥇 | [[Good First Issue] 🍜 Add new False Friend Pair 92 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30341) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-13 | 🥇 | [[Good First Issue] 🎴 Add new Dialect Entry 90 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30338) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-13 | 🥇 | [Add tools to Yahoo Sports](https://github.com/PipedreamHQ/pipedream/issues/21979) | `PipedreamHQ/pipedream` | ⭐ 11.7k |
-| 2026-09-13 | 🥈 | [CSS: custom property with only \!important\ as value is not idempotent — extra s](https://github.com/prettier/prettier/issues/20052) | `prettier/prettier` | ⭐ 52.2k |
