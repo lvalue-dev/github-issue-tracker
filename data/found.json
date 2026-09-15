@@ -1,5 +1,288 @@
 [
   {
+    "key": "libredb/libredb-studio#853",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 853,
+    "title": "docs: nothing tells a team of three or more that per-person logins and workspaces already work",
+    "url": "https://github.com/libredb/libredb-studio/issues/853",
+    "comments": 0,
+    "createdAt": "2026-09-15T21:24:55Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 754,
+    "foundAt": "2026-09-15T21:32:53.654Z"
+  },
+  {
+    "key": "libredb/libredb-studio#850",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 850,
+    "title": "docs/OIDC.md: Keycloak realm roles are not in the ID token by default, so a deployment that follows the doc has no admin",
+    "url": "https://github.com/libredb/libredb-studio/issues/850",
+    "comments": 0,
+    "createdAt": "2026-09-15T21:19:48Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "help wanted",
+      "security"
+    ],
+    "language": "typescript",
+    "stars": 754,
+    "foundAt": "2026-09-15T21:32:53.933Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30468",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30468,
+    "title": "[Good First Issue] 🌋 Add new Theme: Hanami Pink - Beginner-Friendly Open-source Contribution (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30468",
+    "comments": 1,
+    "createdAt": "2026-09-15T21:01:05Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-15T21:32:54.486Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30467",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30467,
+    "title": "[Good First Issue] 🪭 Add new Community Note Line #1 - Beginner-Friendly Open-source Contribution (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30467",
+    "comments": 1,
+    "createdAt": "2026-09-15T19:01:01Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-15T21:32:56.171Z"
+  },
+  {
+    "key": "SAPTARSHI-coder/EaseMotion-css#89386",
+    "tier": 1,
+    "repo": "SAPTARSHI-coder/EaseMotion-css",
+    "number": 89386,
+    "title": "[BUG] Navigation bar buttons alignment is not good and professional",
+    "url": "https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/89386",
+    "comments": 3,
+    "createdAt": "2026-09-14T19:23:13Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "good first issue",
+      "GSSoC-26",
+      "gssoc:approved",
+      "level:intermediate",
+      "type:feature"
+    ],
+    "language": "css",
+    "stars": 266,
+    "foundAt": "2026-09-15T21:32:57.214Z"
+  },
+  {
+    "key": "libredb/libredb-studio#852",
+    "tier": 2,
+    "repo": "libredb/libredb-studio",
+    "number": 852,
+    "title": "Every OIDC sign-in failure renders the same message, and the login route classifies every cause as oidc_config",
+    "url": "https://github.com/libredb/libredb-studio/issues/852",
+    "comments": 0,
+    "createdAt": "2026-09-15T21:20:00Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "security"
+    ],
+    "language": "typescript",
+    "stars": 754,
+    "foundAt": "2026-09-15T21:32:58.084Z"
+  },
+  {
+    "key": "libredb/libredb-studio#851",
+    "tier": 2,
+    "repo": "libredb/libredb-studio",
+    "number": 851,
+    "title": "Admin Audit tab silently omits every denial recorded by src/proxy.ts",
+    "url": "https://github.com/libredb/libredb-studio/issues/851",
+    "comments": 0,
+    "createdAt": "2026-09-15T21:19:55Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "security"
+    ],
+    "language": "typescript",
+    "stars": 754,
+    "foundAt": "2026-09-15T21:32:58.084Z"
+  },
+  {
+    "key": "meshery/meshery#21976",
+    "tier": 2,
+    "repo": "meshery/meshery",
+    "number": 21976,
+    "title": "[Docs] Update obsolete command categories and remove deprecated `mesh`/`app` commands in `working-with-mesheryctl.md`",
+    "url": "https://github.com/meshery/meshery/issues/21976",
+    "comments": 2,
+    "createdAt": "2026-09-15T20:59:34Z",
+    "labels": [
+      "help wanted",
+      "area/docs",
+      "language/markdown",
+      "framework/hugo"
+    ],
+    "language": "typescript",
+    "stars": 11744,
+    "foundAt": "2026-09-15T21:32:58.085Z"
+  },
+  {
+    "key": "Doezer/Questarr#1035",
+    "tier": 2,
+    "repo": "Doezer/Questarr",
+    "number": 1035,
+    "title": "Indexer categories outside 40xx/10xx are silently dropped from searches",
+    "url": "https://github.com/Doezer/Questarr/issues/1035",
+    "comments": 1,
+    "createdAt": "2026-09-15T20:04:24Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "priority:medium",
+      "area:api"
+    ],
+    "language": "typescript",
+    "stars": 642,
+    "foundAt": "2026-09-15T21:32:58.637Z"
+  },
+  {
+    "key": "manojmallick/sigmap#708",
+    "tier": 3,
+    "repo": "manojmallick/sigmap",
+    "number": 708,
+    "title": "docs: config reference documents three keys that do nothing (enrichTodos/enrichChanges/enrichCoverage) and omits nine that work",
+    "url": "https://github.com/manojmallick/sigmap/issues/708",
+    "comments": 0,
+    "createdAt": "2026-09-15T21:14:18Z",
+    "labels": [
+      "documentation",
+      "needs-docs"
+    ],
+    "language": "javascript",
+    "stars": 636,
+    "foundAt": "2026-09-15T21:33:01.920Z"
+  },
+  {
+    "key": "manojmallick/sigmap#705",
+    "tier": 3,
+    "repo": "manojmallick/sigmap",
+    "number": 705,
+    "title": "governance: SUCCESSION.md, org migration and public ADRs (plan G2/G6) are the last unbuilt Phase-1 items",
+    "url": "https://github.com/manojmallick/sigmap/issues/705",
+    "comments": 0,
+    "createdAt": "2026-09-15T20:59:28Z",
+    "labels": [
+      "documentation",
+      "chore"
+    ],
+    "language": "javascript",
+    "stars": 636,
+    "foundAt": "2026-09-15T21:33:01.920Z"
+  },
+  {
+    "key": "manojmallick/sigmap#700",
+    "tier": 3,
+    "repo": "manojmallick/sigmap",
+    "number": 700,
+    "title": "docs: methodology.md is unreachable from the sidebar; cli.md omits explain/sync/run",
+    "url": "https://github.com/manojmallick/sigmap/issues/700",
+    "comments": 0,
+    "createdAt": "2026-09-15T20:57:32Z",
+    "labels": [
+      "documentation",
+      "needs-docs"
+    ],
+    "language": "javascript",
+    "stars": 636,
+    "foundAt": "2026-09-15T21:33:01.920Z"
+  },
+  {
+    "key": "manojmallick/sigmap#699",
+    "tier": 3,
+    "repo": "manojmallick/sigmap",
+    "number": 699,
+    "title": "docs: undeployed legacy docs/ site still ships sitemap + Search Console verification with 29-language counts",
+    "url": "https://github.com/manojmallick/sigmap/issues/699",
+    "comments": 0,
+    "createdAt": "2026-09-15T20:57:06Z",
+    "labels": [
+      "documentation",
+      "needs-docs"
+    ],
+    "language": "javascript",
+    "stars": 636,
+    "foundAt": "2026-09-15T21:33:01.920Z"
+  },
+  {
+    "key": "manojmallick/sigmap#697",
+    "tier": 3,
+    "repo": "manojmallick/sigmap",
+    "number": 697,
+    "title": "docs: README says 33 and 35 languages ten lines apart; anchor claim false for 5 languages; 4 languages missing from tier table",
+    "url": "https://github.com/manojmallick/sigmap/issues/697",
+    "comments": 0,
+    "createdAt": "2026-09-15T20:56:33Z",
+    "labels": [
+      "documentation",
+      "needs-docs"
+    ],
+    "language": "javascript",
+    "stars": 636,
+    "foundAt": "2026-09-15T21:33:01.920Z"
+  },
+  {
+    "key": "getsentry/sentry-docs#19438",
+    "tier": 3,
+    "repo": "getsentry/sentry-docs",
+    "number": 19438,
+    "title": "Document Android network-event breadcrumb configuration",
+    "url": "https://github.com/getsentry/sentry-docs/issues/19438",
+    "comments": 1,
+    "createdAt": "2026-09-15T20:53:23Z",
+    "labels": [
+      "SDKs",
+      "Platform: Android",
+      "Docs"
+    ],
+    "language": "mdx",
+    "stars": 445,
+    "foundAt": "2026-09-15T21:33:03.940Z"
+  },
+  {
     "key": "CopilotKit/CopilotKit#7158",
     "tier": 1,
     "repo": "CopilotKit/CopilotKit",
@@ -1702,320 +1985,5 @@
     "language": "typescript",
     "stars": 202,
     "foundAt": "2026-09-14T14:16:54.560Z"
-  },
-  {
-    "key": "HelpCode-ai/anythingmcp#588",
-    "tier": 2,
-    "repo": "HelpCode-ai/anythingmcp",
-    "number": 588,
-    "title": "Per-tool latency histograms and error-rate view",
-    "url": "https://github.com/HelpCode-ai/anythingmcp/issues/588",
-    "comments": 0,
-    "createdAt": "2026-09-14T13:45:42Z",
-    "labels": [
-      "help wanted",
-      "roadmap"
-    ],
-    "language": "typescript",
-    "stars": 202,
-    "foundAt": "2026-09-14T14:16:54.560Z"
-  },
-  {
-    "key": "HelpCode-ai/anythingmcp#587",
-    "tier": 2,
-    "repo": "HelpCode-ai/anythingmcp",
-    "number": 587,
-    "title": "Tool-level rate limiting per role",
-    "url": "https://github.com/HelpCode-ai/anythingmcp/issues/587",
-    "comments": 0,
-    "createdAt": "2026-09-14T13:45:36Z",
-    "labels": [
-      "help wanted",
-      "roadmap"
-    ],
-    "language": "typescript",
-    "stars": 202,
-    "foundAt": "2026-09-14T14:16:54.560Z"
-  },
-  {
-    "key": "backstage/backstage#35654",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35654,
-    "title": "Snyk vulnerability [SNYK-JS-NODEMAILER-19784395]",
-    "url": "https://github.com/backstage/backstage/issues/35654",
-    "comments": 0,
-    "createdAt": "2026-09-14T12:17:54Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34409,
-    "foundAt": "2026-09-14T14:16:54.762Z"
-  },
-  {
-    "key": "angular/components#33804",
-    "tier": 3,
-    "repo": "angular/components",
-    "number": 33804,
-    "title": "docs-bug: v21 documentation is unreachable",
-    "url": "https://github.com/angular/components/issues/33804",
-    "comments": 0,
-    "createdAt": "2026-09-14T13:49:23Z",
-    "labels": [
-      "docs",
-      "needs triage",
-      "area: material.angular.io",
-      "gemini-triaged"
-    ],
-    "language": "typescript",
-    "stars": 25045,
-    "foundAt": "2026-09-14T14:16:56.286Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30371",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30371,
-    "title": "[Good First Issue] 🎑 Add new Japan Fact 265 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30371",
-    "comments": 1,
-    "createdAt": "2026-09-14T06:01:05Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-14T06:31:07.045Z"
-  },
-  {
-    "key": "enatega/food-delivery-multivendor#2382",
-    "tier": 1,
-    "repo": "enatega/food-delivery-multivendor",
-    "number": 2382,
-    "title": "Enatega Web app: Get Help button is displayed while the customer is already on the Get Help section",
-    "url": "https://github.com/enatega/food-delivery-multivendor/issues/2382",
-    "comments": 0,
-    "createdAt": "2026-09-14T05:57:53Z",
-    "labels": [
-      "good first issue",
-      "Enatega Web App",
-      "Ui-Fix"
-    ],
-    "language": "typescript",
-    "stars": 1372,
-    "foundAt": "2026-09-14T06:31:07.230Z"
-  },
-  {
-    "key": "layer5io/layer5#8053",
-    "tier": 2,
-    "repo": "layer5io/layer5",
-    "number": 8053,
-    "title": "[Feature] Add sort by date/relevance option to Cloud Native Resources page",
-    "url": "https://github.com/layer5io/layer5/issues/8053",
-    "comments": 1,
-    "createdAt": "2026-09-14T04:56:33Z",
-    "labels": [
-      "kind/enhancement",
-      "help wanted",
-      "language/javascript",
-      "framework/react"
-    ],
-    "language": "javascript",
-    "stars": 1121,
-    "foundAt": "2026-09-14T06:31:08.464Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30368",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30368,
-    "title": "[Good First Issue] 🌺 Add new Wallpaper URL #3 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30368",
-    "comments": 2,
-    "createdAt": "2026-09-14T04:34:30Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-14T06:31:08.265Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30365",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30365,
-    "title": "[Good First Issue] 🍡 Add new Learner Mistake 33 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30365",
-    "comments": 1,
-    "createdAt": "2026-09-14T04:01:05Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-14T06:31:08.265Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30357",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30357,
-    "title": "[Good First Issue] 🎏 Add new Video Game Quote 16 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30357",
-    "comments": 1,
-    "createdAt": "2026-09-14T01:01:05Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-14T01:16:09.178Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30356",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30356,
-    "title": "[Good First Issue] 🍡 Add new Anime Quote 59 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30356",
-    "comments": 1,
-    "createdAt": "2026-09-14T00:34:34Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-14T01:16:09.416Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30355",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30355,
-    "title": "[Good First Issue] 🎑 Add new Grammar Point 25 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30355",
-    "comments": 1,
-    "createdAt": "2026-09-14T00:01:05Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-14T01:16:09.836Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30354",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30354,
-    "title": "[Good First Issue] 🎴 Add new Trivia Question 31 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30354",
-    "comments": 1,
-    "createdAt": "2026-09-13T23:34:36Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-14T01:16:09.836Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30353",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30353,
-    "title": "[Good First Issue] 🌋 Add new Japanese Proverb 124 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30353",
-    "comments": 1,
-    "createdAt": "2026-09-13T23:01:06Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-13T23:15:50.257Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30351",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30351,
-    "title": "[Good First Issue] 🎏 Add new Japan Fact 147 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30351",
-    "comments": 1,
-    "createdAt": "2026-09-13T22:34:31Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-13T23:15:50.463Z"
   }
 ]
