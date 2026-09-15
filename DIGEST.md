@@ -4,6 +4,10 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-15 | 🥇 | [🐛 Bug: input and header slots reject plain FCs (same defect as #7126)](https://github.com/CopilotKit/CopilotKit/issues/7158) | `CopilotKit/CopilotKit` | ⭐ 37.3k |
+| 2026-09-15 | 🥉 | [Exodus door server is gone; the module and docs still point at it](https://github.com/NuSkooler/enigma-bbs/issues/857) | `NuSkooler/enigma-bbs` | ⭐ 665 |
+| 2026-09-15 | 🥉 | [Wiki link to road map is 404](https://github.com/AzureAD/microsoft-authentication-library-for-js/issues/8831) | `AzureAD/microsoft-authentication-library-for-js` | ⭐ 4.1k |
+| 2026-09-15 | 🥉 | [Contact Form Submission - Request - Missing Section or Solution (Problem Solutio](https://github.com/cpinitiative/usaco-guide/issues/6642) | `cpinitiative/usaco-guide` | ⭐ 1.9k |
 | 2026-09-15 | 🥇 | [[Good First Issue] 🍚 Add new Japanese Idiom 116 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30461) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-15 | 🥈 | [Snyk vulnerability [SNYK-JS-PROXYADDR-19812342]](https://github.com/backstage/backstage/issues/35714) | `backstage/backstage` | ⭐ 34.4k |
 | 2026-09-15 | 🥈 | [[Good First Issue] 🪭 Add new Grammar Point 70 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30455) | `lingdojo/kana-dojo` | ⭐ 3.4k |
@@ -100,7 +104,3 @@
 | 2026-09-14 | 🥇 | [[Good First Issue] 🎴 Add new Trivia Question 31 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30354) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-13 | 🥇 | [[Good First Issue] 🌋 Add new Japanese Proverb 124 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30353) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-13 | 🥇 | [[Good First Issue] 🎏 Add new Japan Fact 147 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30351) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-13 | 🥇 | [block: Medical Intake Form](https://github.com/shadcn-labs/pdfcn/issues/26) | `shadcn-labs/pdfcn` | ⭐ 1.7k |
-| 2026-09-13 | 🥇 | [block: Shipping Label](https://github.com/shadcn-labs/pdfcn/issues/24) | `shadcn-labs/pdfcn` | ⭐ 1.7k |
-| 2026-09-13 | 🥇 | [block: Work Order](https://github.com/shadcn-labs/pdfcn/issues/27) | `shadcn-labs/pdfcn` | ⭐ 1.7k |
-| 2026-09-13 | 🥇 | [block: Gift Certificate](https://github.com/shadcn-labs/pdfcn/issues/25) | `shadcn-labs/pdfcn` | ⭐ 1.7k |

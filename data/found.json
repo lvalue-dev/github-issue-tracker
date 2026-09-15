@@ -1,5 +1,75 @@
 [
   {
+    "key": "CopilotKit/CopilotKit#7158",
+    "tier": 1,
+    "repo": "CopilotKit/CopilotKit",
+    "number": 7158,
+    "title": "🐛 Bug: input and header slots reject plain FCs (same defect as #7126)",
+    "url": "https://github.com/CopilotKit/CopilotKit/issues/7158",
+    "comments": 1,
+    "createdAt": "2026-09-15T15:11:10Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 37282,
+    "foundAt": "2026-09-15T18:18:40.232Z"
+  },
+  {
+    "key": "NuSkooler/enigma-bbs#857",
+    "tier": 3,
+    "repo": "NuSkooler/enigma-bbs",
+    "number": 857,
+    "title": "Exodus door server is gone; the module and docs still point at it",
+    "url": "https://github.com/NuSkooler/enigma-bbs/issues/857",
+    "comments": 0,
+    "createdAt": "2026-09-15T17:31:30Z",
+    "labels": [
+      "question",
+      "documentation"
+    ],
+    "language": "javascript",
+    "stars": 665,
+    "foundAt": "2026-09-15T18:18:44.864Z"
+  },
+  {
+    "key": "AzureAD/microsoft-authentication-library-for-js#8831",
+    "tier": 3,
+    "repo": "AzureAD/microsoft-authentication-library-for-js",
+    "number": 8831,
+    "title": "Wiki link to road map is 404",
+    "url": "https://github.com/AzureAD/microsoft-authentication-library-for-js/issues/8831",
+    "comments": 0,
+    "createdAt": "2026-09-15T17:14:59Z",
+    "labels": [
+      "question",
+      "documentation",
+      "Needs: Attention :wave:",
+      "public-client"
+    ],
+    "language": "typescript",
+    "stars": 4119,
+    "foundAt": "2026-09-15T18:18:43.547Z"
+  },
+  {
+    "key": "cpinitiative/usaco-guide#6642",
+    "tier": 3,
+    "repo": "cpinitiative/usaco-guide",
+    "number": 6642,
+    "title": "Contact Form Submission - Request - Missing Section or Solution (Problem Solution - GMO (ID: kattis-gmo))",
+    "url": "https://github.com/cpinitiative/usaco-guide/issues/6642",
+    "comments": 1,
+    "createdAt": "2026-09-15T16:08:24Z",
+    "labels": [
+      "good first issue",
+      "content"
+    ],
+    "language": "mdx",
+    "stars": 1851,
+    "foundAt": "2026-09-15T18:18:45.909Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30461",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1946,78 +2016,6 @@
     ],
     "language": "typescript",
     "stars": 3350,
-    "foundAt": "2026-09-13T23:15:50.463Z"
-  },
-  {
-    "key": "shadcn-labs/pdfcn#26",
-    "tier": 1,
-    "repo": "shadcn-labs/pdfcn",
-    "number": 26,
-    "title": "block: Medical Intake Form",
-    "url": "https://github.com/shadcn-labs/pdfcn/issues/26",
-    "comments": 0,
-    "createdAt": "2026-09-13T22:04:40Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 1727,
-    "foundAt": "2026-09-13T23:15:50.463Z"
-  },
-  {
-    "key": "shadcn-labs/pdfcn#24",
-    "tier": 1,
-    "repo": "shadcn-labs/pdfcn",
-    "number": 24,
-    "title": "block: Shipping Label",
-    "url": "https://github.com/shadcn-labs/pdfcn/issues/24",
-    "comments": 0,
-    "createdAt": "2026-09-13T22:04:40Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 1727,
-    "foundAt": "2026-09-13T23:15:50.463Z"
-  },
-  {
-    "key": "shadcn-labs/pdfcn#27",
-    "tier": 1,
-    "repo": "shadcn-labs/pdfcn",
-    "number": 27,
-    "title": "block: Work Order",
-    "url": "https://github.com/shadcn-labs/pdfcn/issues/27",
-    "comments": 0,
-    "createdAt": "2026-09-13T22:04:40Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 1727,
-    "foundAt": "2026-09-13T23:15:50.463Z"
-  },
-  {
-    "key": "shadcn-labs/pdfcn#25",
-    "tier": 1,
-    "repo": "shadcn-labs/pdfcn",
-    "number": 25,
-    "title": "block: Gift Certificate",
-    "url": "https://github.com/shadcn-labs/pdfcn/issues/25",
-    "comments": 0,
-    "createdAt": "2026-09-13T22:04:40Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 1727,
     "foundAt": "2026-09-13T23:15:50.463Z"
   }
 ]
