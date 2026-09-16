@@ -4,6 +4,11 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-16 | 🥇 | [[Good First Issue] 🍶 Add new Community Note Line #1 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30493) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-16 | 🥇 | [[Good First Issue] 🎑 Add new Learner Mistake 53 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30492) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-16 | 🥇 | [Ficha do contato mostra "DISPLAY NAME" em inglês, sem tradução](https://github.com/melgarafael/DeskcommCRM/issues/1014) | `melgarafael/DeskcommCRM` | ⭐ 2.8k |
+| 2026-09-16 | 🥉 | [Bug: @videojs/html RC.2 Composite Imports Do Not Register Child Elements, Breaki](https://github.com/videojs/v10/issues/2841) | `videojs/v10` | ⭐ 945 |
+| 2026-09-16 | 🥉 | [docs: re-align the H2 2026 roadmap with the published MCP roadmap (2026-08-22) a](https://github.com/modelcontextprotocol/inspector/issues/2400) | `modelcontextprotocol/inspector` | ⭐ 10.9k |
 | 2026-09-16 | 🥈 | [[FEAT] Add systemic drag-and-drop animations \| 增加系统性的拖放动画效果](https://github.com/Ariestar/obsidian-dragger/issues/87) | `Ariestar/obsidian-dragger` | ⭐ 280 |
 | 2026-09-16 | 🥉 | [[DOCS] plugins-reference still shows a flat `agents/` tree and omits recursive s](https://github.com/anthropics/claude-code/issues/94857) | `anthropics/claude-code` | ⭐ 145.4k |
 | 2026-09-16 | 🥇 | [Seventeen icon-only buttons in the sidebar have no accessible name](https://github.com/libredb/libredb-studio/issues/919) | `libredb/libredb-studio` | ⭐ 754 |
@@ -99,8 +104,3 @@
 | 2026-09-14 | 🥇 | [[Good First Issue] 🍢 Add new Japanese Haiku 11 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30422) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-14 | 🥇 | [feat(server): Add /health endpoint and Docker HEALTHCHECK directive](https://github.com/YusufB5/ASCILINE/issues/69) | `YusufB5/ASCILINE` | ⭐ 2.7k |
 | 2026-09-14 | 🥇 | [[Good First Issue] 🍥 Add new Japanese Proverb 16 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30421) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-14 | 🥇 | [feat(ui): Add "Copy Frame as ASCII Text" button](https://github.com/YusufB5/ASCILINE/issues/68) | `YusufB5/ASCILINE` | ⭐ 2.7k |
-| 2026-09-14 | 🥇 | [[Good First Issue] 🍢 Add new Japan Fact 285 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30420) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-14 | 🥇 | [[Good First Issue] 🌺 Add new Theme: Noh Mask - Beginner-Friendly Open-source Co](https://github.com/lingdojo/kana-dojo/issues/30419) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-14 | 🥈 | [test: add integration test for all *arr clients](https://github.com/raydak-labs/configarr/issues/526) | `raydak-labs/configarr` | ⭐ 657 |
-| 2026-09-14 | 🥉 | [docs: add PHP / Laravel to the OpenTelemetry integrations list](https://github.com/langfuse/langfuse-docs/issues/3805) | `langfuse/langfuse-docs` | ⭐ 240 |

@@ -1,5 +1,109 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30493",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30493,
+    "title": "[Good First Issue] 🍶 Add new Community Note Line #1 - Beginner-Friendly Open-source Contribution (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30493",
+    "comments": 1,
+    "createdAt": "2026-09-16T23:00:58Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-16T23:03:50.699Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30492",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30492,
+    "title": "[Good First Issue] 🎑 Add new Learner Mistake 53 - Beginner-Friendly Open-source Contribution (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30492",
+    "comments": 1,
+    "createdAt": "2026-09-16T21:01:06Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-16T23:03:52.116Z"
+  },
+  {
+    "key": "melgarafael/DeskcommCRM#1014",
+    "tier": 1,
+    "repo": "melgarafael/DeskcommCRM",
+    "number": 1014,
+    "title": "Ficha do contato mostra \"DISPLAY NAME\" em inglês, sem tradução",
+    "url": "https://github.com/melgarafael/DeskcommCRM/issues/1014",
+    "comments": 2,
+    "createdAt": "2026-09-16T20:49:55Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "area/ui",
+      "triagem:confirmado"
+    ],
+    "language": "typescript",
+    "stars": 2821,
+    "foundAt": "2026-09-16T23:03:52.116Z"
+  },
+  {
+    "key": "videojs/v10#2841",
+    "tier": 3,
+    "repo": "videojs/v10",
+    "number": 2841,
+    "title": "Bug: @videojs/html RC.2 Composite Imports Do Not Register Child Elements, Breaking Documented Controls Visibility",
+    "url": "https://github.com/videojs/v10/issues/2841",
+    "comments": 1,
+    "createdAt": "2026-09-16T22:53:11Z",
+    "labels": [
+      "docs",
+      "components",
+      "site",
+      "triage",
+      "pkg:html",
+      "bug"
+    ],
+    "language": "typescript",
+    "stars": 945,
+    "foundAt": "2026-09-16T23:03:53.781Z"
+  },
+  {
+    "key": "modelcontextprotocol/inspector#2400",
+    "tier": 3,
+    "repo": "modelcontextprotocol/inspector",
+    "number": 2400,
+    "title": "docs: re-align the H2 2026 roadmap with the published MCP roadmap (2026-08-22) and official extensions",
+    "url": "https://github.com/modelcontextprotocol/inspector/issues/2400",
+    "comments": 1,
+    "createdAt": "2026-09-16T22:03:37Z",
+    "labels": [
+      "documentation",
+      "v2"
+    ],
+    "language": "typescript",
+    "stars": 10891,
+    "foundAt": "2026-09-16T23:03:55.508Z"
+  },
+  {
     "key": "Ariestar/obsidian-dragger#87",
     "tier": 2,
     "repo": "Ariestar/obsidian-dragger",
@@ -1852,105 +1956,5 @@
     "language": "typescript",
     "stars": 3350,
     "foundAt": "2026-09-14T23:14:27.015Z"
-  },
-  {
-    "key": "YusufB5/ASCILINE#68",
-    "tier": 1,
-    "repo": "YusufB5/ASCILINE",
-    "number": 68,
-    "title": "feat(ui): Add \"Copy Frame as ASCII Text\" button",
-    "url": "https://github.com/YusufB5/ASCILINE/issues/68",
-    "comments": 0,
-    "createdAt": "2026-09-14T20:29:10Z",
-    "labels": [
-      "enhancement",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 2730,
-    "foundAt": "2026-09-14T23:14:28.411Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30420",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30420,
-    "title": "[Good First Issue] 🍢 Add new Japan Fact 285 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30420",
-    "comments": 1,
-    "createdAt": "2026-09-14T20:01:04Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-14T23:14:27.408Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30419",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30419,
-    "title": "[Good First Issue] 🌺 Add new Theme: Noh Mask - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30419",
-    "comments": 1,
-    "createdAt": "2026-09-14T19:35:08Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-14T23:14:27.612Z"
-  },
-  {
-    "key": "raydak-labs/configarr#526",
-    "tier": 2,
-    "repo": "raydak-labs/configarr",
-    "number": 526,
-    "title": "test: add integration test for all *arr clients",
-    "url": "https://github.com/raydak-labs/configarr/issues/526",
-    "comments": 0,
-    "createdAt": "2026-09-14T22:19:14Z",
-    "labels": [
-      "help wanted",
-      "eval"
-    ],
-    "language": "typescript",
-    "stars": 657,
-    "foundAt": "2026-09-14T23:14:29.000Z"
-  },
-  {
-    "key": "langfuse/langfuse-docs#3805",
-    "tier": 3,
-    "repo": "langfuse/langfuse-docs",
-    "number": 3805,
-    "title": "docs: add PHP / Laravel to the OpenTelemetry integrations list",
-    "url": "https://github.com/langfuse/langfuse-docs/issues/3805",
-    "comments": 0,
-    "createdAt": "2026-09-14T22:30:06Z",
-    "labels": [
-      "docs",
-      "langfuse/langfuse-docs",
-      "integration-otel",
-      "improvement",
-      "feat-otel"
-    ],
-    "language": "mdx",
-    "stars": 240,
-    "foundAt": "2026-09-14T23:14:34.645Z"
   }
 ]
