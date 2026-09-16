@@ -1,5 +1,114 @@
 [
   {
+    "key": "zonelessdev/zoneless#143",
+    "tier": 1,
+    "repo": "zonelessdev/zoneless",
+    "number": 143,
+    "title": "Export transactions to CSV from dashboard",
+    "url": "https://github.com/zonelessdev/zoneless/issues/143",
+    "comments": 0,
+    "createdAt": "2026-09-16T10:58:33Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 535,
+    "foundAt": "2026-09-16T11:51:21.440Z"
+  },
+  {
+    "key": "kubernetes/website#57558",
+    "tier": 1,
+    "repo": "kubernetes/website",
+    "number": 57558,
+    "title": "Unwanted initial heading for 2026-08-28 blog article",
+    "url": "https://github.com/kubernetes/website/issues/57558",
+    "comments": 3,
+    "createdAt": "2026-09-16T10:57:55Z",
+    "labels": [
+      "good first issue",
+      "help wanted",
+      "kind/bug",
+      "area/blog",
+      "triage/accepted"
+    ],
+    "language": "html",
+    "stars": 5385,
+    "foundAt": "2026-09-16T11:51:23.544Z"
+  },
+  {
+    "key": "libredb/libredb-studio#898",
+    "tier": 2,
+    "repo": "libredb/libredb-studio",
+    "number": 898,
+    "title": "Flaky on windows-latest: packaging-standalone-zip tests time out at bun's 5000ms default while 7-Zip is still running",
+    "url": "https://github.com/libredb/libredb-studio/issues/898",
+    "comments": 0,
+    "createdAt": "2026-09-16T11:49:32Z",
+    "labels": [
+      "bug",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 754,
+    "foundAt": "2026-09-16T11:51:23.545Z"
+  },
+  {
+    "key": "prettier/prettier#20083",
+    "tier": 2,
+    "repo": "prettier/prettier",
+    "number": 20083,
+    "title": "Regression in v3.9.7",
+    "url": "https://github.com/prettier/prettier/issues/20083",
+    "comments": 0,
+    "createdAt": "2026-09-16T11:44:59Z",
+    "labels": [
+      "help wanted",
+      "lang:markdown"
+    ],
+    "language": "javascript",
+    "stars": 52242,
+    "foundAt": "2026-09-16T11:51:24.778Z"
+  },
+  {
+    "key": "webdriverio/webdriverio#15608",
+    "tier": 2,
+    "repo": "webdriverio/webdriverio",
+    "number": 15608,
+    "title": "[🐛 Bug]: ChromeDriver extraction is incomplete in WebdriverIO 9.30.0 on Linux Azure DevOps agents",
+    "url": "https://github.com/webdriverio/webdriverio/issues/15608",
+    "comments": 2,
+    "createdAt": "2026-09-16T10:35:41Z",
+    "labels": [
+      "Bug 🐛",
+      "Needs Investigation",
+      "help wanted",
+      "good first pick"
+    ],
+    "language": "typescript",
+    "stars": 9835,
+    "foundAt": "2026-09-16T11:51:24.270Z"
+  },
+  {
+    "key": "prettier/prettier#20076",
+    "tier": 2,
+    "repo": "prettier/prettier",
+    "number": 20076,
+    "title": "prettier fails to parse now required less format for at rule variables",
+    "url": "https://github.com/prettier/prettier/issues/20076",
+    "comments": 1,
+    "createdAt": "2026-09-16T05:04:35Z",
+    "labels": [
+      "help wanted",
+      "scope:external",
+      "lang:less"
+    ],
+    "language": "javascript",
+    "stars": 52242,
+    "foundAt": "2026-09-16T11:51:24.778Z"
+  },
+  {
     "key": "hackforla/website#8789",
     "tier": 1,
     "repo": "hackforla/website",
@@ -1861,123 +1970,5 @@
     "language": "typescript",
     "stars": 34409,
     "foundAt": "2026-09-14T19:30:27.963Z"
-  },
-  {
-    "key": "backstage/backstage#35676",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35676,
-    "title": "Snyk vulnerability [SNYK-JS-MULTER-19785644]",
-    "url": "https://github.com/backstage/backstage/issues/35676",
-    "comments": 0,
-    "createdAt": "2026-09-14T16:12:53Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34409,
-    "foundAt": "2026-09-14T19:30:27.963Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30411",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30411,
-    "title": "[Good First Issue] 🎋 Add new Dialect Entry 53 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30411",
-    "comments": 1,
-    "createdAt": "2026-09-14T16:01:07Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-14T19:30:27.963Z"
-  },
-  {
-    "key": "aws/graph-explorer#2174",
-    "tier": 3,
-    "repo": "aws/graph-explorer",
-    "number": 2174,
-    "title": "Define an app-wide convention for asserting domain and validation errors in tests",
-    "url": "https://github.com/aws/graph-explorer/issues/2174",
-    "comments": 0,
-    "createdAt": "2026-09-14T18:20:22Z",
-    "labels": [
-      "documentation",
-      "tech debt",
-      "internal"
-    ],
-    "language": "typescript",
-    "stars": 481,
-    "foundAt": "2026-09-14T19:30:32.176Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30403",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30403,
-    "title": "[Good First Issue] 🏯 Add new Grammar Point 115 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30403",
-    "comments": 1,
-    "createdAt": "2026-09-14T14:01:09Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-14T14:16:50.850Z"
-  },
-  {
-    "key": "HelpCode-ai/anythingmcp#602",
-    "tier": 1,
-    "repo": "HelpCode-ai/anythingmcp",
-    "number": 602,
-    "title": "ADOPTERS.md",
-    "url": "https://github.com/HelpCode-ai/anythingmcp/issues/602",
-    "comments": 0,
-    "createdAt": "2026-09-14T13:47:15Z",
-    "labels": [
-      "good first issue",
-      "help wanted",
-      "roadmap"
-    ],
-    "language": "typescript",
-    "stars": 202,
-    "foundAt": "2026-09-14T14:16:51.113Z"
-  },
-  {
-    "key": "HelpCode-ai/anythingmcp#600",
-    "tier": 1,
-    "repo": "HelpCode-ai/anythingmcp",
-    "number": 600,
-    "title": "Multi-language README (de, zh, ja)",
-    "url": "https://github.com/HelpCode-ai/anythingmcp/issues/600",
-    "comments": 0,
-    "createdAt": "2026-09-14T13:47:02Z",
-    "labels": [
-      "good first issue",
-      "help wanted",
-      "hacktoberfest",
-      "roadmap"
-    ],
-    "language": "typescript",
-    "stars": 202,
-    "foundAt": "2026-09-14T14:16:51.113Z"
   }
 ]

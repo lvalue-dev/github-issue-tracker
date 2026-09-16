@@ -4,6 +4,12 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-16 | 🥇 | [Export transactions to CSV from dashboard](https://github.com/zonelessdev/zoneless/issues/143) | `zonelessdev/zoneless` | ⭐ 535 |
+| 2026-09-16 | 🥇 | [Unwanted initial heading for 2026-08-28 blog article](https://github.com/kubernetes/website/issues/57558) | `kubernetes/website` | ⭐ 5.4k |
+| 2026-09-16 | 🥈 | [Flaky on windows-latest: packaging-standalone-zip tests time out at bun's 5000ms](https://github.com/libredb/libredb-studio/issues/898) | `libredb/libredb-studio` | ⭐ 754 |
+| 2026-09-16 | 🥈 | [Regression in v3.9.7](https://github.com/prettier/prettier/issues/20083) | `prettier/prettier` | ⭐ 52.2k |
+| 2026-09-16 | 🥈 | [[🐛 Bug]: ChromeDriver extraction is incomplete in WebdriverIO 9.30.0 on Linux A](https://github.com/webdriverio/webdriverio/issues/15608) | `webdriverio/webdriverio` | ⭐ 9.8k |
+| 2026-09-16 | 🥈 | [prettier fails to parse now required less format for at rule variables](https://github.com/prettier/prettier/issues/20076) | `prettier/prettier` | ⭐ 52.2k |
 | 2026-09-16 | 🥇 | [Update Project Profile: HackforLA Site](https://github.com/hackforla/website/issues/8789) | `hackforla/website` | ⭐ 363 |
 | 2026-09-16 | 🥇 | [Data Profiler shows the numeric icon on every column regardless of type](https://github.com/libredb/libredb-studio/issues/880) | `libredb/libredb-studio` | ⭐ 754 |
 | 2026-09-16 | 🥇 | [Code Generator modal does not close on Escape while Data Profiler does](https://github.com/libredb/libredb-studio/issues/879) | `libredb/libredb-studio` | ⭐ 754 |
@@ -98,9 +104,3 @@
 | 2026-09-14 | 🥈 | [[Docs] Update AGENTS.md with Sistent design guidance](https://github.com/layer5io/layer5/issues/8061) | `layer5io/layer5` | ⭐ 1.1k |
 | 2026-09-14 | 🥈 | [feat(workflows): route inline versus workflow execution by orchestration needs](https://github.com/bastani-inc/atomic/issues/3043) | `bastani-inc/atomic` | ⭐ 784 |
 | 2026-09-14 | 🥈 | [Snyk vulnerability [SNYK-JS-ISOMORPHICGIT-19784422]](https://github.com/backstage/backstage/issues/35677) | `backstage/backstage` | ⭐ 34.4k |
-| 2026-09-14 | 🥈 | [Snyk vulnerability [SNYK-JS-MULTER-19785644]](https://github.com/backstage/backstage/issues/35676) | `backstage/backstage` | ⭐ 34.4k |
-| 2026-09-14 | 🥈 | [[Good First Issue] 🎋 Add new Dialect Entry 53 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30411) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-14 | 🥉 | [Define an app-wide convention for asserting domain and validation errors in test](https://github.com/aws/graph-explorer/issues/2174) | `aws/graph-explorer` | ⭐ 481 |
-| 2026-09-14 | 🥇 | [[Good First Issue] 🏯 Add new Grammar Point 115 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30403) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-14 | 🥇 | [ADOPTERS.md](https://github.com/HelpCode-ai/anythingmcp/issues/602) | `HelpCode-ai/anythingmcp` | ⭐ 202 |
-| 2026-09-14 | 🥇 | [Multi-language README (de, zh, ja)](https://github.com/HelpCode-ai/anythingmcp/issues/600) | `HelpCode-ai/anythingmcp` | ⭐ 202 |
