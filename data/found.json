@@ -1,5 +1,190 @@
 [
   {
+    "key": "hackforla/website#8789",
+    "tier": 1,
+    "repo": "hackforla/website",
+    "number": 8789,
+    "title": "Update Project Profile: HackforLA Site",
+    "url": "https://github.com/hackforla/website/issues/8789",
+    "comments": 0,
+    "createdAt": "2026-09-16T02:49:12Z",
+    "labels": [
+      "good first issue",
+      "role: front end",
+      "role: back end/devOps",
+      "P-Feature: Project Info and Page",
+      "time sensitive",
+      "epic",
+      "size: 0.25pt",
+      "Issue Making: Level 1",
+      "Complexity: See issue making label",
+      "non-PR contribution"
+    ],
+    "language": "javascript",
+    "stars": 363,
+    "foundAt": "2026-09-16T06:13:33.652Z"
+  },
+  {
+    "key": "libredb/libredb-studio#880",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 880,
+    "title": "Data Profiler shows the numeric icon on every column regardless of type",
+    "url": "https://github.com/libredb/libredb-studio/issues/880",
+    "comments": 0,
+    "createdAt": "2026-09-16T02:40:14Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 754,
+    "foundAt": "2026-09-16T06:13:32.303Z"
+  },
+  {
+    "key": "libredb/libredb-studio#879",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 879,
+    "title": "Code Generator modal does not close on Escape while Data Profiler does",
+    "url": "https://github.com/libredb/libredb-studio/issues/879",
+    "comments": 1,
+    "createdAt": "2026-09-16T02:40:02Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 754,
+    "foundAt": "2026-09-16T06:13:32.303Z"
+  },
+  {
+    "key": "libredb/libredb-studio#878",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 878,
+    "title": "Schema explorer table menu button has no accessible name",
+    "url": "https://github.com/libredb/libredb-studio/issues/878",
+    "comments": 1,
+    "createdAt": "2026-09-16T02:40:00Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 754,
+    "foundAt": "2026-09-16T06:13:32.303Z"
+  },
+  {
+    "key": "libredb/libredb-studio#877",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 877,
+    "title": "Schema explorer column name is squeezed to zero width by long type names",
+    "url": "https://github.com/libredb/libredb-studio/issues/877",
+    "comments": 1,
+    "createdAt": "2026-09-16T02:39:45Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 754,
+    "foundAt": "2026-09-16T06:13:32.303Z"
+  },
+  {
+    "key": "libredb/libredb-studio#876",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 876,
+    "title": "Agent mode is unusable with the default STORAGE_PROVIDER=local and nothing documents it",
+    "url": "https://github.com/libredb/libredb-studio/issues/876",
+    "comments": 1,
+    "createdAt": "2026-09-16T02:39:32Z",
+    "labels": [
+      "documentation",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 754,
+    "foundAt": "2026-09-16T06:13:32.303Z"
+  },
+  {
+    "key": "libredb/libredb-studio#875",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 875,
+    "title": "README's agent budget figures match no workflow profile in the code",
+    "url": "https://github.com/libredb/libredb-studio/issues/875",
+    "comments": 1,
+    "createdAt": "2026-09-16T02:39:20Z",
+    "labels": [
+      "documentation",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 754,
+    "foundAt": "2026-09-16T06:13:32.303Z"
+  },
+  {
+    "key": "Doezer/Questarr#1036",
+    "tier": 2,
+    "repo": "Doezer/Questarr",
+    "number": 1036,
+    "title": "Downloader credential policy: validate resolved URL, not just useSsl, and expand test coverage",
+    "url": "https://github.com/Doezer/Questarr/issues/1036",
+    "comments": 1,
+    "createdAt": "2026-09-16T05:28:04Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "priority:medium",
+      "area:security"
+    ],
+    "language": "typescript",
+    "stars": 642,
+    "foundAt": "2026-09-16T06:13:34.605Z"
+  },
+  {
+    "key": "benzBrake/FirefoxCustomize#79",
+    "tier": 2,
+    "repo": "benzBrake/FirefoxCustomize",
+    "number": 79,
+    "title": "[NEED HELP]: 脚本代码alt触发菜单导致失效",
+    "url": "https://github.com/benzBrake/FirefoxCustomize/issues/79",
+    "comments": 0,
+    "createdAt": "2026-09-16T03:19:28Z",
+    "labels": [
+      "help wanted"
+    ],
+    "language": "javascript",
+    "stars": 210,
+    "foundAt": "2026-09-16T06:13:35.495Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30472",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30472,
+    "title": "[Good First Issue] 🎍 Add new Japanese Proverb 17 - Beginner-Friendly Open-source Contribution (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30472",
+    "comments": 1,
+    "createdAt": "2026-09-16T01:01:01Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-16T06:13:35.297Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30469",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1794,207 +1979,5 @@
     "language": "typescript",
     "stars": 202,
     "foundAt": "2026-09-14T14:16:51.113Z"
-  },
-  {
-    "key": "HelpCode-ai/anythingmcp#599",
-    "tier": 1,
-    "repo": "HelpCode-ai/anythingmcp",
-    "number": 599,
-    "title": "Show the catalog's own numbers as live badges",
-    "url": "https://github.com/HelpCode-ai/anythingmcp/issues/599",
-    "comments": 0,
-    "createdAt": "2026-09-14T13:46:55Z",
-    "labels": [
-      "good first issue",
-      "help wanted",
-      "hacktoberfest",
-      "roadmap"
-    ],
-    "language": "typescript",
-    "stars": 202,
-    "foundAt": "2026-09-14T14:16:51.113Z"
-  },
-  {
-    "key": "HelpCode-ai/anythingmcp#586",
-    "tier": 1,
-    "repo": "HelpCode-ai/anythingmcp",
-    "number": 586,
-    "title": "Adapter validation: say what to do, not just what is wrong",
-    "url": "https://github.com/HelpCode-ai/anythingmcp/issues/586",
-    "comments": 0,
-    "createdAt": "2026-09-14T13:45:29Z",
-    "labels": [
-      "good first issue",
-      "help wanted",
-      "hacktoberfest",
-      "roadmap"
-    ],
-    "language": "typescript",
-    "stars": 202,
-    "foundAt": "2026-09-14T14:16:51.113Z"
-  },
-  {
-    "key": "HelpCode-ai/anythingmcp#585",
-    "tier": 1,
-    "repo": "HelpCode-ai/anythingmcp",
-    "number": 585,
-    "title": "Scaffolding CLI: `npm run adapter:new <slug>`",
-    "url": "https://github.com/HelpCode-ai/anythingmcp/issues/585",
-    "comments": 0,
-    "createdAt": "2026-09-14T13:45:23Z",
-    "labels": [
-      "good first issue",
-      "help wanted",
-      "hacktoberfest",
-      "roadmap"
-    ],
-    "language": "typescript",
-    "stars": 202,
-    "foundAt": "2026-09-14T14:16:51.113Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30402",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30402,
-    "title": "[Good First Issue] 🪭 Add new Trivia Question 129 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30402",
-    "comments": 1,
-    "createdAt": "2026-09-14T13:34:33Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-14T14:16:51.113Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30399",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30399,
-    "title": "[Good First Issue] 🧧 Add new Japanese Haiku 1 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30399",
-    "comments": 1,
-    "createdAt": "2026-09-14T13:01:04Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-14T14:16:51.299Z"
-  },
-  {
-    "key": "code-charity/youtube#4343",
-    "tier": 1,
-    "repo": "code-charity/youtube",
-    "number": 4343,
-    "title": "💡Clarify intended direction for playback speed button A/B implementations",
-    "url": "https://github.com/code-charity/youtube/issues/4343",
-    "comments": 0,
-    "createdAt": "2026-09-14T12:52:14Z",
-    "labels": [
-      "Feature request",
-      "help wanted",
-      "good first issue",
-      "up-for-grabs"
-    ],
-    "language": "javascript",
-    "stars": 4583,
-    "foundAt": "2026-09-14T14:16:52.321Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30398",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30398,
-    "title": "[Good First Issue] 🍣 Add new Japanese Proverb 178 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30398",
-    "comments": 1,
-    "createdAt": "2026-09-14T12:34:33Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-14T14:16:51.718Z"
-  },
-  {
-    "key": "devswha/patina#822",
-    "tier": 1,
-    "repo": "devswha/patina",
-    "number": 822,
-    "title": "docs: labelled starter path and pattern-of-the-week #1",
-    "url": "https://github.com/devswha/patina/issues/822",
-    "comments": 1,
-    "createdAt": "2026-09-14T09:45:42Z",
-    "labels": [
-      "good first issue",
-      "patterns",
-      "docs"
-    ],
-    "language": "javascript",
-    "stars": 356,
-    "foundAt": "2026-09-14T14:16:53.105Z"
-  },
-  {
-    "key": "dwyl/technology-stack#179",
-    "tier": 2,
-    "repo": "dwyl/technology-stack",
-    "number": 179,
-    "title": "Chore: Untrusted Dev Machine (`Node.js` Sandbox)",
-    "url": "https://github.com/dwyl/technology-stack/issues/179",
-    "comments": 0,
-    "createdAt": "2026-09-14T13:49:42Z",
-    "labels": [
-      "help wanted",
-      "priority-1",
-      "discuss",
-      "chore",
-      "technical",
-      "tech-debt",
-      "T25m"
-    ],
-    "language": "javascript",
-    "stars": 291,
-    "foundAt": "2026-09-14T14:16:55.182Z"
-  },
-  {
-    "key": "HelpCode-ai/anythingmcp#598",
-    "tier": 2,
-    "repo": "HelpCode-ai/anythingmcp",
-    "number": 598,
-    "title": "OpenAI-compatible endpoint for the AI features",
-    "url": "https://github.com/HelpCode-ai/anythingmcp/issues/598",
-    "comments": 0,
-    "createdAt": "2026-09-14T13:46:48Z",
-    "labels": [
-      "help wanted",
-      "roadmap"
-    ],
-    "language": "typescript",
-    "stars": 202,
-    "foundAt": "2026-09-14T14:16:54.560Z"
   }
 ]

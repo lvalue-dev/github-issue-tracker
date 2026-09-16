@@ -4,6 +4,16 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-16 | 🥇 | [Update Project Profile: HackforLA Site](https://github.com/hackforla/website/issues/8789) | `hackforla/website` | ⭐ 363 |
+| 2026-09-16 | 🥇 | [Data Profiler shows the numeric icon on every column regardless of type](https://github.com/libredb/libredb-studio/issues/880) | `libredb/libredb-studio` | ⭐ 754 |
+| 2026-09-16 | 🥇 | [Code Generator modal does not close on Escape while Data Profiler does](https://github.com/libredb/libredb-studio/issues/879) | `libredb/libredb-studio` | ⭐ 754 |
+| 2026-09-16 | 🥇 | [Schema explorer table menu button has no accessible name](https://github.com/libredb/libredb-studio/issues/878) | `libredb/libredb-studio` | ⭐ 754 |
+| 2026-09-16 | 🥇 | [Schema explorer column name is squeezed to zero width by long type names](https://github.com/libredb/libredb-studio/issues/877) | `libredb/libredb-studio` | ⭐ 754 |
+| 2026-09-16 | 🥇 | [Agent mode is unusable with the default STORAGE_PROVIDER=local and nothing docum](https://github.com/libredb/libredb-studio/issues/876) | `libredb/libredb-studio` | ⭐ 754 |
+| 2026-09-16 | 🥇 | [README's agent budget figures match no workflow profile in the code](https://github.com/libredb/libredb-studio/issues/875) | `libredb/libredb-studio` | ⭐ 754 |
+| 2026-09-16 | 🥈 | [Downloader credential policy: validate resolved URL, not just useSsl, and expand](https://github.com/Doezer/Questarr/issues/1036) | `Doezer/Questarr` | ⭐ 642 |
+| 2026-09-16 | 🥈 | [[NEED HELP]: 脚本代码alt触发菜单导致失效](https://github.com/benzBrake/FirefoxCustomize/issues/79) | `benzBrake/FirefoxCustomize` | ⭐ 210 |
+| 2026-09-16 | 🥈 | [[Good First Issue] 🎍 Add new Japanese Proverb 17 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30472) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-16 | 🥇 | [[Good First Issue] 🎐 Add new Japan Fact 213 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30469) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-16 | 🥇 | [agente: o motivo do "Publicar" desabilitado só aparece ao passar o mouse](https://github.com/melgarafael/DeskcommCRM/issues/951) | `melgarafael/DeskcommCRM` | ⭐ 2.8k |
 | 2026-09-16 | 🥈 | [[p5.js 2.0+ Bug Report]: strands breaking on arrow functions with parameters](https://github.com/processing/p5.js/issues/9180) | `processing/p5.js` | ⭐ 24.0k |
@@ -94,13 +104,3 @@
 | 2026-09-14 | 🥇 | [[Good First Issue] 🏯 Add new Grammar Point 115 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30403) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-14 | 🥇 | [ADOPTERS.md](https://github.com/HelpCode-ai/anythingmcp/issues/602) | `HelpCode-ai/anythingmcp` | ⭐ 202 |
 | 2026-09-14 | 🥇 | [Multi-language README (de, zh, ja)](https://github.com/HelpCode-ai/anythingmcp/issues/600) | `HelpCode-ai/anythingmcp` | ⭐ 202 |
-| 2026-09-14 | 🥇 | [Show the catalog's own numbers as live badges](https://github.com/HelpCode-ai/anythingmcp/issues/599) | `HelpCode-ai/anythingmcp` | ⭐ 202 |
-| 2026-09-14 | 🥇 | [Adapter validation: say what to do, not just what is wrong](https://github.com/HelpCode-ai/anythingmcp/issues/586) | `HelpCode-ai/anythingmcp` | ⭐ 202 |
-| 2026-09-14 | 🥇 | [Scaffolding CLI: `npm run adapter:new <slug>`](https://github.com/HelpCode-ai/anythingmcp/issues/585) | `HelpCode-ai/anythingmcp` | ⭐ 202 |
-| 2026-09-14 | 🥇 | [[Good First Issue] 🪭 Add new Trivia Question 129 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30402) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-14 | 🥇 | [[Good First Issue] 🧧 Add new Japanese Haiku 1 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30399) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-14 | 🥇 | [💡Clarify intended direction for playback speed button A/B implementations](https://github.com/code-charity/youtube/issues/4343) | `code-charity/youtube` | ⭐ 4.6k |
-| 2026-09-14 | 🥇 | [[Good First Issue] 🍣 Add new Japanese Proverb 178 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30398) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-14 | 🥇 | [docs: labelled starter path and pattern-of-the-week #1](https://github.com/devswha/patina/issues/822) | `devswha/patina` | ⭐ 356 |
-| 2026-09-14 | 🥈 | [Chore: Untrusted Dev Machine (`Node.js` Sandbox)](https://github.com/dwyl/technology-stack/issues/179) | `dwyl/technology-stack` | ⭐ 291 |
-| 2026-09-14 | 🥈 | [OpenAI-compatible endpoint for the AI features](https://github.com/HelpCode-ai/anythingmcp/issues/598) | `HelpCode-ai/anythingmcp` | ⭐ 202 |
