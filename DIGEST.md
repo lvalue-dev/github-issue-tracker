@@ -4,6 +4,11 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-16 | 🥇 | [[Good First Issue] 🎐 Add new Japan Fact 213 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30469) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-16 | 🥇 | [agente: o motivo do "Publicar" desabilitado só aparece ao passar o mouse](https://github.com/melgarafael/DeskcommCRM/issues/951) | `melgarafael/DeskcommCRM` | ⭐ 2.8k |
+| 2026-09-16 | 🥈 | [[p5.js 2.0+ Bug Report]: strands breaking on arrow functions with parameters](https://github.com/processing/p5.js/issues/9180) | `processing/p5.js` | ⭐ 24.0k |
+| 2026-09-16 | 🥈 | [[p5.js 2.0+ Bug Report]: strands not handling comma operator (common in minified](https://github.com/processing/p5.js/issues/9178) | `processing/p5.js` | ⭐ 24.0k |
+| 2026-09-16 | 🥉 | [[UPDATE] Fix Quiz displays “You got all the answers!” after each question](https://github.com/huggingface/agents-course/issues/746) | `huggingface/agents-course` | ⭐ 32.6k |
 | 2026-09-15 | 🥇 | [docs: nothing tells a team of three or more that per-person logins and workspace](https://github.com/libredb/libredb-studio/issues/853) | `libredb/libredb-studio` | ⭐ 754 |
 | 2026-09-15 | 🥇 | [docs/OIDC.md: Keycloak realm roles are not in the ID token by default, so a depl](https://github.com/libredb/libredb-studio/issues/850) | `libredb/libredb-studio` | ⭐ 754 |
 | 2026-09-15 | 🥇 | [[Good First Issue] 🌋 Add new Theme: Hanami Pink - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30468) | `lingdojo/kana-dojo` | ⭐ 3.4k |
@@ -99,8 +104,3 @@
 | 2026-09-14 | 🥇 | [docs: labelled starter path and pattern-of-the-week #1](https://github.com/devswha/patina/issues/822) | `devswha/patina` | ⭐ 356 |
 | 2026-09-14 | 🥈 | [Chore: Untrusted Dev Machine (`Node.js` Sandbox)](https://github.com/dwyl/technology-stack/issues/179) | `dwyl/technology-stack` | ⭐ 291 |
 | 2026-09-14 | 🥈 | [OpenAI-compatible endpoint for the AI features](https://github.com/HelpCode-ai/anythingmcp/issues/598) | `HelpCode-ai/anythingmcp` | ⭐ 202 |
-| 2026-09-14 | 🥈 | [Cloud <-> self-host export and import](https://github.com/HelpCode-ai/anythingmcp/issues/597) | `HelpCode-ai/anythingmcp` | ⭐ 202 |
-| 2026-09-14 | 🥈 | [OpenTelemetry exporter for traces and metrics](https://github.com/HelpCode-ai/anythingmcp/issues/595) | `HelpCode-ai/anythingmcp` | ⭐ 202 |
-| 2026-09-14 | 🥈 | [Native MCP elicitation and resources](https://github.com/HelpCode-ai/anythingmcp/issues/593) | `HelpCode-ai/anythingmcp` | ⭐ 202 |
-| 2026-09-14 | 🥈 | [gRPC connector type](https://github.com/HelpCode-ai/anythingmcp/issues/591) | `HelpCode-ai/anythingmcp` | ⭐ 202 |
-| 2026-09-14 | 🥈 | [Streaming tool responses for long-running calls](https://github.com/HelpCode-ai/anythingmcp/issues/589) | `HelpCode-ai/anythingmcp` | ⭐ 202 |

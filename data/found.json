@@ -1,5 +1,101 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30469",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30469,
+    "title": "[Good First Issue] 🎐 Add new Japan Fact 213 - Beginner-Friendly Open-source Contribution (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30469",
+    "comments": 1,
+    "createdAt": "2026-09-15T23:01:02Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-16T00:33:40.235Z"
+  },
+  {
+    "key": "melgarafael/DeskcommCRM#951",
+    "tier": 1,
+    "repo": "melgarafael/DeskcommCRM",
+    "number": 951,
+    "title": "agente: o motivo do \"Publicar\" desabilitado só aparece ao passar o mouse",
+    "url": "https://github.com/melgarafael/DeskcommCRM/issues/951",
+    "comments": 0,
+    "createdAt": "2026-09-15T22:19:47Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "area/ui",
+      "triagem:confirmado"
+    ],
+    "language": "typescript",
+    "stars": 2821,
+    "foundAt": "2026-09-16T00:33:40.617Z"
+  },
+  {
+    "key": "processing/p5.js#9180",
+    "tier": 2,
+    "repo": "processing/p5.js",
+    "number": 9180,
+    "title": "[p5.js 2.0+ Bug Report]: strands breaking on arrow functions with parameters",
+    "url": "https://github.com/processing/p5.js/issues/9180",
+    "comments": 0,
+    "createdAt": "2026-09-16T00:09:24Z",
+    "labels": [
+      "Help Wanted",
+      "p5.js 2.0+",
+      "p5.strands",
+      "Technical Initiative"
+    ],
+    "language": "javascript",
+    "stars": 23988,
+    "foundAt": "2026-09-16T00:33:42.108Z"
+  },
+  {
+    "key": "processing/p5.js#9178",
+    "tier": 2,
+    "repo": "processing/p5.js",
+    "number": 9178,
+    "title": "[p5.js 2.0+ Bug Report]: strands not handling comma operator (common in minified js)",
+    "url": "https://github.com/processing/p5.js/issues/9178",
+    "comments": 0,
+    "createdAt": "2026-09-15T23:41:50Z",
+    "labels": [
+      "Help Wanted",
+      "p5.js 2.0+",
+      "p5.strands",
+      "Technical Initiative"
+    ],
+    "language": "javascript",
+    "stars": 23988,
+    "foundAt": "2026-09-16T00:33:42.108Z"
+  },
+  {
+    "key": "huggingface/agents-course#746",
+    "tier": 3,
+    "repo": "huggingface/agents-course",
+    "number": 746,
+    "title": "[UPDATE] Fix Quiz displays “You got all the answers!” after each question",
+    "url": "https://github.com/huggingface/agents-course/issues/746",
+    "comments": 0,
+    "createdAt": "2026-09-15T22:52:32Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "mdx",
+    "stars": 32568,
+    "foundAt": "2026-09-16T00:33:45.020Z"
+  },
+  {
     "key": "libredb/libredb-studio#853",
     "tier": 1,
     "repo": "libredb/libredb-studio",
@@ -1893,91 +1989,6 @@
     "url": "https://github.com/HelpCode-ai/anythingmcp/issues/598",
     "comments": 0,
     "createdAt": "2026-09-14T13:46:48Z",
-    "labels": [
-      "help wanted",
-      "roadmap"
-    ],
-    "language": "typescript",
-    "stars": 202,
-    "foundAt": "2026-09-14T14:16:54.560Z"
-  },
-  {
-    "key": "HelpCode-ai/anythingmcp#597",
-    "tier": 2,
-    "repo": "HelpCode-ai/anythingmcp",
-    "number": 597,
-    "title": "Cloud <-> self-host export and import",
-    "url": "https://github.com/HelpCode-ai/anythingmcp/issues/597",
-    "comments": 0,
-    "createdAt": "2026-09-14T13:46:42Z",
-    "labels": [
-      "help wanted",
-      "roadmap"
-    ],
-    "language": "typescript",
-    "stars": 202,
-    "foundAt": "2026-09-14T14:16:54.560Z"
-  },
-  {
-    "key": "HelpCode-ai/anythingmcp#595",
-    "tier": 2,
-    "repo": "HelpCode-ai/anythingmcp",
-    "number": 595,
-    "title": "OpenTelemetry exporter for traces and metrics",
-    "url": "https://github.com/HelpCode-ai/anythingmcp/issues/595",
-    "comments": 0,
-    "createdAt": "2026-09-14T13:46:28Z",
-    "labels": [
-      "help wanted",
-      "roadmap"
-    ],
-    "language": "typescript",
-    "stars": 202,
-    "foundAt": "2026-09-14T14:16:54.560Z"
-  },
-  {
-    "key": "HelpCode-ai/anythingmcp#593",
-    "tier": 2,
-    "repo": "HelpCode-ai/anythingmcp",
-    "number": 593,
-    "title": "Native MCP elicitation and resources",
-    "url": "https://github.com/HelpCode-ai/anythingmcp/issues/593",
-    "comments": 0,
-    "createdAt": "2026-09-14T13:46:16Z",
-    "labels": [
-      "help wanted",
-      "roadmap"
-    ],
-    "language": "typescript",
-    "stars": 202,
-    "foundAt": "2026-09-14T14:16:54.560Z"
-  },
-  {
-    "key": "HelpCode-ai/anythingmcp#591",
-    "tier": 2,
-    "repo": "HelpCode-ai/anythingmcp",
-    "number": 591,
-    "title": "gRPC connector type",
-    "url": "https://github.com/HelpCode-ai/anythingmcp/issues/591",
-    "comments": 0,
-    "createdAt": "2026-09-14T13:46:02Z",
-    "labels": [
-      "help wanted",
-      "roadmap"
-    ],
-    "language": "typescript",
-    "stars": 202,
-    "foundAt": "2026-09-14T14:16:54.560Z"
-  },
-  {
-    "key": "HelpCode-ai/anythingmcp#589",
-    "tier": 2,
-    "repo": "HelpCode-ai/anythingmcp",
-    "number": 589,
-    "title": "Streaming tool responses for long-running calls",
-    "url": "https://github.com/HelpCode-ai/anythingmcp/issues/589",
-    "comments": 0,
-    "createdAt": "2026-09-14T13:45:49Z",
     "labels": [
       "help wanted",
       "roadmap"
