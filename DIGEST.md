@@ -4,6 +4,22 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-16 | 🥇 | [Seventeen icon-only buttons in the sidebar have no accessible name](https://github.com/libredb/libredb-studio/issues/919) | `libredb/libredb-studio` | ⭐ 754 |
+| 2026-09-16 | 🥇 | [Attach file by drag'n drop](https://github.com/webbrain-one/webbrain/issues/3051) | `webbrain-one/webbrain` | ⭐ 1.0k |
+| 2026-09-16 | 🥇 | [Both snap packages and the CycloneDX SBOM ship with no checksum of any kind](https://github.com/libredb/libredb-studio/issues/913) | `libredb/libredb-studio` | ⭐ 754 |
+| 2026-09-16 | 🥇 | [DigitalOcean README's health check expects {"status":"ok"} but the endpoint answ](https://github.com/libredb/libredb-studio/issues/905) | `libredb/libredb-studio` | ⭐ 754 |
+| 2026-09-16 | 🥈 | [Add Sort Control to Mobile View of Meshery Designs](https://github.com/meshery/meshery.io/issues/2990) | `meshery/meshery.io` | ⭐ 861 |
+| 2026-09-16 | 🥈 | [[维护] 拆分超过 800 行的测试文件（reply-strategy-card / inbound-handler-card）](https://github.com/soimy/openclaw-channel-dingtalk/issues/622) | `soimy/openclaw-channel-dingtalk` | ⭐ 1.7k |
+| 2026-09-16 | 🥈 | [[MCP marketplace] Add reviewed install flow for curated MCP entries](https://github.com/GoDiao/dreamcoder/issues/46) | `GoDiao/dreamcoder` | ⭐ 489 |
+| 2026-09-16 | 🥈 | [[MCP marketplace] Add read-only Browse catalog in Settings → MCP](https://github.com/GoDiao/dreamcoder/issues/45) | `GoDiao/dreamcoder` | ⭐ 489 |
+| 2026-09-16 | 🥈 | [[MCP marketplace] Define curated registry contract and seed catalog](https://github.com/GoDiao/dreamcoder/issues/44) | `GoDiao/dreamcoder` | ⭐ 489 |
+| 2026-09-16 | 🥈 | [[Bug] After drag-n-drop, tabs from another subtree jump to another level (change](https://github.com/piroor/treestyletab/issues/3968) | `piroor/treestyletab` | ⭐ 3.8k |
+| 2026-09-16 | 🥉 | [client(python): OAuth.initialize() drops an expired access token without trying ](https://github.com/mcp-use/mcp-use/issues/2560) | `mcp-use/mcp-use` | ⭐ 10.6k |
+| 2026-09-16 | 🥉 | [when run quikstart return unexpected version](https://github.com/paperclipai/paperclip/issues/13540) | `paperclipai/paperclip` | ⭐ 80.8k |
+| 2026-09-16 | 🥉 | [[Documentation Change Request]: Overview page describes pre-2.5 firmware behavio](https://github.com/meshtastic/meshtastic/issues/2706) | `meshtastic/meshtastic` | ⭐ 2.2k |
+| 2026-09-16 | 🥉 | [[DOC] Fix broken Tutorial link under Next Steps](https://github.com/refinedev/refine/issues/7608) | `refinedev/refine` | ⭐ 35.7k |
+| 2026-09-16 | 🥉 | [[agent] simplify v1 WP-07: closeout: acceptance scenarios, e2e for the mouse pat](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3858) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
+| 2026-09-16 | 🥉 | [[agent] email-ready v1 WP-06: connection-report CLI: connections by state, reaso](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3847) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
 | 2026-09-16 | 🥇 | [Export transactions to CSV from dashboard](https://github.com/zonelessdev/zoneless/issues/143) | `zonelessdev/zoneless` | ⭐ 535 |
 | 2026-09-16 | 🥇 | [Unwanted initial heading for 2026-08-28 blog article](https://github.com/kubernetes/website/issues/57558) | `kubernetes/website` | ⭐ 5.4k |
 | 2026-09-16 | 🥈 | [Flaky on windows-latest: packaging-standalone-zip tests time out at bun's 5000ms](https://github.com/libredb/libredb-studio/issues/898) | `libredb/libredb-studio` | ⭐ 754 |
@@ -88,19 +104,3 @@
 | 2026-09-14 | 🥉 | [docs: add PHP / Laravel to the OpenTelemetry integrations list](https://github.com/langfuse/langfuse-docs/issues/3805) | `langfuse/langfuse-docs` | ⭐ 240 |
 | 2026-09-14 | 🥉 | [performance v1 WP-21 (founder): Atlas placement vs the Hetzner VPS](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3773) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
 | 2026-09-14 | 🥉 | [performance v1 WP-20 (founder): brotli in prod Caddy and precompressed self-host](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3772) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
-| 2026-09-14 | 🥉 | [[agent] performance v1 WP-19: environment on log resources and latency insight](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3771) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
-| 2026-09-14 | 🥉 | [[agent] performance v1 WP-13: boot-set size report and budget from the metafile](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3765) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
-| 2026-09-14 | 🥉 | [[agent] performance v1 WP-12: Mongo client options, idle-cheap drains, wake-on-e](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3764) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
-| 2026-09-14 | 🥉 | [[agent] performance v1 WP-05: calendar indexes, billing projection, hidden-event](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3757) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
-| 2026-09-14 | 🥉 | [[agent] performance v1 WP-02: invalidate only when a pull changed something](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3754) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
-| 2026-09-14 | 🥇 | [[Good First Issue] 🍁 Add new Community Note Line #3 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30418) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-14 | 🥇 | [[Good First Issue] 🏮 Add new Learner Mistake 37 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30415) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-14 | 🥇 | [[Good First Issue] 🌋 Add new Example Sentence 12 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30414) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-14 | 🥇 | [[Good First Issue] 🍜 Add new Etiquette Tip 102 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30413) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-14 | 🥈 | [Add explicit dimensions to lazy-loaded card thumbnails to prevent layout shifts](https://github.com/layer5io/layer5/issues/8064) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-14 | 🥈 | [Filter checkboxes lack proper label associations on Resources page](https://github.com/layer5io/layer5/issues/8063) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-14 | 🥈 | [Search input missing id, name, autocomplete, and accessible label](https://github.com/layer5io/layer5/issues/8062) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-14 | 🥈 | [[Docs] Add Sistent design guidance to AGENTS.md](https://github.com/meshery/meshery/issues/21963) | `meshery/meshery` | ⭐ 11.7k |
-| 2026-09-14 | 🥈 | [[Docs] Update AGENTS.md with Sistent design guidance](https://github.com/layer5io/layer5/issues/8061) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-14 | 🥈 | [feat(workflows): route inline versus workflow execution by orchestration needs](https://github.com/bastani-inc/atomic/issues/3043) | `bastani-inc/atomic` | ⭐ 784 |
-| 2026-09-14 | 🥈 | [Snyk vulnerability [SNYK-JS-ISOMORPHICGIT-19784422]](https://github.com/backstage/backstage/issues/35677) | `backstage/backstage` | ⭐ 34.4k |
