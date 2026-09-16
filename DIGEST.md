@@ -4,6 +4,8 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-16 | 🥈 | [[FEAT] Add systemic drag-and-drop animations \| 增加系统性的拖放动画效果](https://github.com/Ariestar/obsidian-dragger/issues/87) | `Ariestar/obsidian-dragger` | ⭐ 280 |
+| 2026-09-16 | 🥉 | [[DOCS] plugins-reference still shows a flat `agents/` tree and omits recursive s](https://github.com/anthropics/claude-code/issues/94857) | `anthropics/claude-code` | ⭐ 145.4k |
 | 2026-09-16 | 🥇 | [Seventeen icon-only buttons in the sidebar have no accessible name](https://github.com/libredb/libredb-studio/issues/919) | `libredb/libredb-studio` | ⭐ 754 |
 | 2026-09-16 | 🥇 | [Attach file by drag'n drop](https://github.com/webbrain-one/webbrain/issues/3051) | `webbrain-one/webbrain` | ⭐ 1.0k |
 | 2026-09-16 | 🥇 | [Both snap packages and the CycloneDX SBOM ship with no checksum of any kind](https://github.com/libredb/libredb-studio/issues/913) | `libredb/libredb-studio` | ⭐ 754 |
@@ -102,5 +104,3 @@
 | 2026-09-14 | 🥇 | [[Good First Issue] 🌺 Add new Theme: Noh Mask - Beginner-Friendly Open-source Co](https://github.com/lingdojo/kana-dojo/issues/30419) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-14 | 🥈 | [test: add integration test for all *arr clients](https://github.com/raydak-labs/configarr/issues/526) | `raydak-labs/configarr` | ⭐ 657 |
 | 2026-09-14 | 🥉 | [docs: add PHP / Laravel to the OpenTelemetry integrations list](https://github.com/langfuse/langfuse-docs/issues/3805) | `langfuse/langfuse-docs` | ⭐ 240 |
-| 2026-09-14 | 🥉 | [performance v1 WP-21 (founder): Atlas placement vs the Hetzner VPS](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3773) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
-| 2026-09-14 | 🥉 | [performance v1 WP-20 (founder): brotli in prod Caddy and precompressed self-host](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3772) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |

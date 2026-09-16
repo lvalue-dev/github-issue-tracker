@@ -1,5 +1,42 @@
 [
   {
+    "key": "Ariestar/obsidian-dragger#87",
+    "tier": 2,
+    "repo": "Ariestar/obsidian-dragger",
+    "number": 87,
+    "title": "[FEAT] Add systemic drag-and-drop animations | 增加系统性的拖放动画效果",
+    "url": "https://github.com/Ariestar/obsidian-dragger/issues/87",
+    "comments": 0,
+    "createdAt": "2026-09-16T17:55:15Z",
+    "labels": [
+      "enhancement",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 280,
+    "foundAt": "2026-09-16T20:16:32.840Z"
+  },
+  {
+    "key": "anthropics/claude-code#94857",
+    "tier": 3,
+    "repo": "anthropics/claude-code",
+    "number": 94857,
+    "title": "[DOCS] plugins-reference still shows a flat `agents/` tree and omits recursive scanning and path-scoped identifiers",
+    "url": "https://github.com/anthropics/claude-code/issues/94857",
+    "comments": 0,
+    "createdAt": "2026-09-16T20:03:57Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "area:agents",
+      "area:docs",
+      "area:plugins"
+    ],
+    "language": "typescript",
+    "stars": 145398,
+    "foundAt": "2026-09-16T20:16:34.228Z"
+  },
+  {
     "key": "libredb/libredb-studio#919",
     "tier": 1,
     "repo": "libredb/libredb-studio",
@@ -1915,39 +1952,5 @@
     "language": "mdx",
     "stars": 240,
     "foundAt": "2026-09-14T23:14:34.645Z"
-  },
-  {
-    "key": "KeepSoftwareSimple/compass-calendar#3773",
-    "tier": 3,
-    "repo": "KeepSoftwareSimple/compass-calendar",
-    "number": 3773,
-    "title": "performance v1 WP-21 (founder): Atlas placement vs the Hetzner VPS",
-    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3773",
-    "comments": 0,
-    "createdAt": "2026-09-14T22:19:22Z",
-    "labels": [
-      "docs",
-      "performance-v1"
-    ],
-    "language": "typescript",
-    "stars": 228,
-    "foundAt": "2026-09-14T23:14:32.383Z"
-  },
-  {
-    "key": "KeepSoftwareSimple/compass-calendar#3772",
-    "tier": 3,
-    "repo": "KeepSoftwareSimple/compass-calendar",
-    "number": 3772,
-    "title": "performance v1 WP-20 (founder): brotli in prod Caddy and precompressed self-host assets",
-    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3772",
-    "comments": 0,
-    "createdAt": "2026-09-14T22:19:20Z",
-    "labels": [
-      "docs",
-      "performance-v1"
-    ],
-    "language": "typescript",
-    "stars": 228,
-    "foundAt": "2026-09-14T23:14:32.383Z"
   }
 ]

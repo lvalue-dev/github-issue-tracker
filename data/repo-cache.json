@@ -1,454 +1,4 @@
 {
-  "bastani-inc/atomic": {
-    "fullName": "bastani-inc/atomic",
-    "stars": 784,
-    "pushedAt": "2026-09-09T18:44:05Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 39,
-    "cachedAt": "2026-09-09T18:44:53.638Z"
-  },
-  "finos/FDC3": {
-    "fullName": "finos/FDC3",
-    "stars": 269,
-    "pushedAt": "2026-09-09T18:05:03Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 126,
-    "cachedAt": "2026-09-09T18:44:53.910Z"
-  },
-  "Sororail/sororail-frontend": {
-    "fullName": "Sororail/sororail-frontend",
-    "stars": 0,
-    "pushedAt": "2026-09-09T17:33:10Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 12,
-    "cachedAt": "2026-09-09T18:44:54.176Z"
-  },
-  "JollyJolli/DevPulse": {
-    "fullName": "JollyJolli/DevPulse",
-    "stars": 0,
-    "pushedAt": "2026-09-09T17:02:48Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 1,
-    "cachedAt": "2026-09-09T18:44:54.410Z"
-  },
-  "musiclib/music-server": {
-    "fullName": "musiclib/music-server",
-    "stars": 0,
-    "pushedAt": "2026-09-09T16:57:01Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 7,
-    "cachedAt": "2026-09-09T18:44:54.663Z"
-  },
-  "CAPTxTreeckle/Treeckle-3.0": {
-    "fullName": "CAPTxTreeckle/Treeckle-3.0",
-    "stars": 6,
-    "pushedAt": "2026-05-16T06:29:20Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 32,
-    "cachedAt": "2026-09-09T18:44:54.939Z"
-  },
-  "wilanis/wilanis-js": {
-    "fullName": "wilanis/wilanis-js",
-    "stars": 0,
-    "pushedAt": "2026-09-09T16:35:18Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 37,
-    "cachedAt": "2026-09-09T18:44:55.185Z"
-  },
-  "broadinstitute/gnomad-browser": {
-    "fullName": "broadinstitute/gnomad-browser",
-    "stars": 91,
-    "pushedAt": "2026-09-09T18:17:44Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 199,
-    "cachedAt": "2026-09-09T18:44:55.482Z"
-  },
-  "human-centric-engineering/sunrise": {
-    "fullName": "human-centric-engineering/sunrise",
-    "stars": 4,
-    "pushedAt": "2026-09-09T18:26:43Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 51,
-    "cachedAt": "2026-09-09T18:44:55.828Z"
-  },
-  "luongnv89/asm": {
-    "fullName": "luongnv89/asm",
-    "stars": 916,
-    "pushedAt": "2026-09-09T14:50:26Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 20,
-    "cachedAt": "2026-09-09T18:44:56.043Z"
-  },
-  "petertzy/deepLocal": {
-    "fullName": "petertzy/deepLocal",
-    "stars": 1,
-    "pushedAt": "2026-09-09T15:08:40Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 23,
-    "cachedAt": "2026-09-09T18:44:56.387Z"
-  },
-  "developper259/NCE": {
-    "fullName": "developper259/NCE",
-    "stars": 1,
-    "pushedAt": "2026-09-09T18:40:04Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 2,
-    "cachedAt": "2026-09-09T18:44:56.566Z"
-  },
-  "imokokok/PriorSeal": {
-    "fullName": "imokokok/PriorSeal",
-    "stars": 3,
-    "pushedAt": "2026-09-09T18:25:11Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 3,
-    "cachedAt": "2026-09-09T18:44:56.774Z"
-  },
-  "OmarPGH/Raqule": {
-    "fullName": "OmarPGH/Raqule",
-    "stars": 1,
-    "pushedAt": "2026-09-05T16:23:35Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 2,
-    "cachedAt": "2026-09-09T18:44:57.028Z"
-  },
-  "jveldboom/action-conventional-versioning": {
-    "fullName": "jveldboom/action-conventional-versioning",
-    "stars": 8,
-    "pushedAt": "2026-09-09T18:10:28Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 6,
-    "cachedAt": "2026-09-09T18:44:57.329Z"
-  },
-  "anoopcodehack/DevBoard": {
-    "fullName": "anoopcodehack/DevBoard",
-    "stars": 34,
-    "pushedAt": "2026-09-08T15:08:30Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 74,
-    "cachedAt": "2026-09-09T18:44:57.590Z"
-  },
-  "Einstein023/Memory-game": {
-    "fullName": "Einstein023/Memory-game",
-    "stars": 0,
-    "pushedAt": "2026-09-09T12:16:36Z",
-    "archived": false,
-    "fork": false,
-    "language": "CSS",
-    "openIssues": 9,
-    "cachedAt": "2026-09-09T18:44:57.784Z"
-  },
-  "zaderlyl/sans-couleurs": {
-    "fullName": "zaderlyl/sans-couleurs",
-    "stars": 0,
-    "pushedAt": "2026-09-09T12:56:48Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 1,
-    "cachedAt": "2026-09-09T18:44:58.022Z"
-  },
-  "edsun123/edsun123.github.io": {
-    "fullName": "edsun123/edsun123.github.io",
-    "stars": 0,
-    "pushedAt": "2026-08-25T01:50:13Z",
-    "archived": false,
-    "fork": false,
-    "language": "SCSS",
-    "openIssues": 3,
-    "cachedAt": "2026-09-09T18:44:58.279Z"
-  },
-  "bfarmer27-ops/bosonfield-open": {
-    "fullName": "bfarmer27-ops/bosonfield-open",
-    "stars": 0,
-    "pushedAt": "2026-09-09T18:44:35Z",
-    "archived": false,
-    "fork": false,
-    "language": "HTML",
-    "openIssues": 7,
-    "cachedAt": "2026-09-09T18:44:58.517Z"
-  },
-  "yangheng95/opencorvus": {
-    "fullName": "yangheng95/opencorvus",
-    "stars": 184,
-    "pushedAt": "2026-09-09T18:35:38Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 10,
-    "cachedAt": "2026-09-09T18:44:58.739Z"
-  },
-  "AprilSylph/XKit-Rewritten": {
-    "fullName": "AprilSylph/XKit-Rewritten",
-    "stars": 375,
-    "pushedAt": "2026-09-09T09:50:18Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 145,
-    "cachedAt": "2026-09-09T18:44:58.978Z"
-  },
-  "garbart/chrome-tweaks": {
-    "fullName": "garbart/chrome-tweaks",
-    "stars": 1,
-    "pushedAt": "2026-09-09T12:48:30Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 2,
-    "cachedAt": "2026-09-09T18:44:59.170Z"
-  },
-  "kubestellar/console-kb": {
-    "fullName": "kubestellar/console-kb",
-    "stars": 10,
-    "pushedAt": "2026-09-09T18:18:11Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 65,
-    "cachedAt": "2026-09-09T18:44:59.598Z"
-  },
-  "hamedtareqhamed/fullstackopen-curriculum": {
-    "fullName": "hamedtareqhamed/fullstackopen-curriculum",
-    "stars": 0,
-    "pushedAt": "2026-09-09T15:41:39Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 6,
-    "cachedAt": "2026-09-09T18:44:59.869Z"
-  },
-  "vzakharov/vovazakharov.com": {
-    "fullName": "vzakharov/vovazakharov.com",
-    "stars": 0,
-    "pushedAt": "2026-09-09T18:35:05Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 9,
-    "cachedAt": "2026-09-09T18:45:00.056Z"
-  },
-  "software-mansion/argent": {
-    "fullName": "software-mansion/argent",
-    "stars": 2724,
-    "pushedAt": "2026-09-09T18:39:57Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 363,
-    "cachedAt": "2026-09-09T18:45:00.329Z"
-  },
-  "mctlhq/seerrsense": {
-    "fullName": "mctlhq/seerrsense",
-    "stars": 0,
-    "pushedAt": "2026-09-09T16:30:34Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 2,
-    "cachedAt": "2026-09-09T18:45:00.626Z"
-  },
-  "deftai/directive": {
-    "fullName": "deftai/directive",
-    "stars": 30,
-    "pushedAt": "2026-09-09T16:27:09Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 684,
-    "cachedAt": "2026-09-09T18:45:00.902Z"
-  },
-  "bitburner-official/bitburner-src": {
-    "fullName": "bitburner-official/bitburner-src",
-    "stars": 1571,
-    "pushedAt": "2026-09-09T18:03:21Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 158,
-    "cachedAt": "2026-09-09T18:45:01.139Z"
-  },
-  "wholepersonproject/wpp-ui": {
-    "fullName": "wholepersonproject/wpp-ui",
-    "stars": 0,
-    "pushedAt": "2026-09-04T14:56:40Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 6,
-    "cachedAt": "2026-09-09T18:45:01.397Z"
-  },
-  "qodeca/xezar": {
-    "fullName": "qodeca/xezar",
-    "stars": 0,
-    "pushedAt": "2026-09-09T18:19:35Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 3,
-    "cachedAt": "2026-09-09T18:45:01.621Z"
-  },
-  "Kshitij-Tripathi87/Cortex-Site": {
-    "fullName": "Kshitij-Tripathi87/Cortex-Site",
-    "stars": 0,
-    "pushedAt": "2026-09-08T23:14:48Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 8,
-    "cachedAt": "2026-09-09T18:45:01.866Z"
-  },
-  "vijaybkhot/urban-digital-twin-interoperability": {
-    "fullName": "vijaybkhot/urban-digital-twin-interoperability",
-    "stars": 0,
-    "pushedAt": "2026-09-09T18:37:19Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 31,
-    "cachedAt": "2026-09-09T18:45:02.067Z"
-  },
-  "mojealterego/mojealterego.github.io": {
-    "fullName": "mojealterego/mojealterego.github.io",
-    "stars": 0,
-    "pushedAt": "2026-09-09T18:15:44Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 7,
-    "cachedAt": "2026-09-09T18:45:02.367Z"
-  },
-  "eitan-dardik/northline-dental-website": {
-    "fullName": "eitan-dardik/northline-dental-website",
-    "stars": 1,
-    "pushedAt": "2026-09-09T17:30:03Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 18,
-    "cachedAt": "2026-09-09T18:45:02.650Z"
-  },
-  "BELCORT-SDN-BHD/clara": {
-    "fullName": "BELCORT-SDN-BHD/clara",
-    "stars": 0,
-    "pushedAt": "2026-09-09T18:39:46Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 74,
-    "cachedAt": "2026-09-09T18:45:02.854Z"
-  },
-  "StatsLateral/teamctx": {
-    "fullName": "StatsLateral/teamctx",
-    "stars": 1,
-    "pushedAt": "2026-09-09T17:34:24Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 11,
-    "cachedAt": "2026-09-09T18:45:03.067Z"
-  },
-  "kpchung0407/econ-catchup": {
-    "fullName": "kpchung0407/econ-catchup",
-    "stars": 0,
-    "pushedAt": "2026-09-09T16:26:12Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 1,
-    "cachedAt": "2026-09-09T18:45:03.406Z"
-  },
-  "Neftal01/soccer-tactics-app": {
-    "fullName": "Neftal01/soccer-tactics-app",
-    "stars": 0,
-    "pushedAt": "2026-09-09T16:43:41Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 1,
-    "cachedAt": "2026-09-09T18:45:03.657Z"
-  },
-  "PigLardLord/cv-giovanni": {
-    "fullName": "PigLardLord/cv-giovanni",
-    "stars": 0,
-    "pushedAt": "2026-09-09T15:14:37Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 23,
-    "cachedAt": "2026-09-09T18:45:03.884Z"
-  },
-  "vivekpatel99/my-portfolio-webisite": {
-    "fullName": "vivekpatel99/my-portfolio-webisite",
-    "stars": 0,
-    "pushedAt": "2026-09-09T17:37:23Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 18,
-    "cachedAt": "2026-09-09T18:45:04.159Z"
-  },
-  "inu-appcenter/18.5th-basic": {
-    "fullName": "inu-appcenter/18.5th-basic",
-    "stars": 0,
-    "pushedAt": "2026-09-09T15:27:46Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 5,
-    "cachedAt": "2026-09-09T18:45:04.443Z"
-  },
-  "DavidDiaz0317/visual-hive-demo-site": {
-    "fullName": "DavidDiaz0317/visual-hive-demo-site",
-    "stars": 0,
-    "pushedAt": "2026-09-09T14:10:52Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 25,
-    "cachedAt": "2026-09-09T18:45:04.681Z"
-  },
-  "rete-labs/florete": {
-    "fullName": "rete-labs/florete",
-    "stars": 2,
-    "pushedAt": "2026-09-09T14:49:54Z",
-    "archived": false,
-    "fork": false,
-    "language": "MDX",
-    "openIssues": 55,
-    "cachedAt": "2026-09-09T18:45:04.954Z"
-  },
   "amanrwtbansalite-boop/just-spec-it": {
     "fullName": "amanrwtbansalite-boop/just-spec-it",
     "stars": 0,
@@ -12598,5 +12148,365 @@
     "language": "JavaScript",
     "openIssues": 39,
     "cachedAt": "2026-09-16T17:10:26.175Z"
+  },
+  "augment-code-workshop/robbert-kauffman-excalidraw": {
+    "fullName": "augment-code-workshop/robbert-kauffman-excalidraw",
+    "stars": 0,
+    "pushedAt": "2026-09-16T19:58:53Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 6,
+    "cachedAt": "2026-09-16T20:16:29.208Z"
+  },
+  "JurisDev-KE/wakilibench": {
+    "fullName": "JurisDev-KE/wakilibench",
+    "stars": 0,
+    "pushedAt": "2026-08-19T21:42:20Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 7,
+    "cachedAt": "2026-09-16T20:16:29.434Z"
+  },
+  "augment-code-workshop/pierce-healy-excalidraw": {
+    "fullName": "augment-code-workshop/pierce-healy-excalidraw",
+    "stars": 0,
+    "pushedAt": "2026-09-16T19:52:54Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 6,
+    "cachedAt": "2026-09-16T20:16:29.642Z"
+  },
+  "augment-code-workshop/kaim-khairov-excalidraw": {
+    "fullName": "augment-code-workshop/kaim-khairov-excalidraw",
+    "stars": 0,
+    "pushedAt": "2026-09-16T19:52:21Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 6,
+    "cachedAt": "2026-09-16T20:16:29.838Z"
+  },
+  "augment-code-workshop/john-nolcox-excalidraw": {
+    "fullName": "augment-code-workshop/john-nolcox-excalidraw",
+    "stars": 0,
+    "pushedAt": "2026-09-16T19:51:48Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 6,
+    "cachedAt": "2026-09-16T20:16:30.019Z"
+  },
+  "augment-code-workshop/brian-mcallister-excalidraw": {
+    "fullName": "augment-code-workshop/brian-mcallister-excalidraw",
+    "stars": 0,
+    "pushedAt": "2026-09-16T19:51:16Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 6,
+    "cachedAt": "2026-09-16T20:16:30.286Z"
+  },
+  "augment-code-workshop/song-du-excalidraw": {
+    "fullName": "augment-code-workshop/song-du-excalidraw",
+    "stars": 0,
+    "pushedAt": "2026-09-16T19:50:42Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 6,
+    "cachedAt": "2026-09-16T20:16:30.522Z"
+  },
+  "augment-code-workshop/shailesh-uchale-excalidraw": {
+    "fullName": "augment-code-workshop/shailesh-uchale-excalidraw",
+    "stars": 0,
+    "pushedAt": "2026-09-16T19:50:10Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 6,
+    "cachedAt": "2026-09-16T20:16:30.755Z"
+  },
+  "augment-code-workshop/franciszek-frankowski-excalidraw": {
+    "fullName": "augment-code-workshop/franciszek-frankowski-excalidraw",
+    "stars": 0,
+    "pushedAt": "2026-09-16T19:49:33Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 6,
+    "cachedAt": "2026-09-16T20:16:30.971Z"
+  },
+  "augment-code-workshop/dmitri-tsyganov-excalidraw": {
+    "fullName": "augment-code-workshop/dmitri-tsyganov-excalidraw",
+    "stars": 0,
+    "pushedAt": "2026-09-16T19:49:00Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 6,
+    "cachedAt": "2026-09-16T20:16:31.185Z"
+  },
+  "augment-code-workshop/eduarda-alencar-excalidraw": {
+    "fullName": "augment-code-workshop/eduarda-alencar-excalidraw",
+    "stars": 0,
+    "pushedAt": "2026-09-16T19:48:27Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 6,
+    "cachedAt": "2026-09-16T20:16:31.348Z"
+  },
+  "augment-code-workshop/sujan-maddumage-don-excalidraw": {
+    "fullName": "augment-code-workshop/sujan-maddumage-don-excalidraw",
+    "stars": 0,
+    "pushedAt": "2026-09-16T19:47:47Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 6,
+    "cachedAt": "2026-09-16T20:16:31.591Z"
+  },
+  "augment-code-workshop/nick-coelius-excalidraw": {
+    "fullName": "augment-code-workshop/nick-coelius-excalidraw",
+    "stars": 0,
+    "pushedAt": "2026-09-16T19:47:00Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 6,
+    "cachedAt": "2026-09-16T20:16:31.865Z"
+  },
+  "augment-code-workshop/matthew-gerber-excalidraw": {
+    "fullName": "augment-code-workshop/matthew-gerber-excalidraw",
+    "stars": 0,
+    "pushedAt": "2026-09-16T19:46:28Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 6,
+    "cachedAt": "2026-09-16T20:16:32.110Z"
+  },
+  "augment-code-workshop/shomari-oliphant-excalidraw": {
+    "fullName": "augment-code-workshop/shomari-oliphant-excalidraw",
+    "stars": 0,
+    "pushedAt": "2026-09-16T19:45:39Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 6,
+    "cachedAt": "2026-09-16T20:16:32.278Z"
+  },
+  "augment-code-workshop/noah-dinkin-excalidraw": {
+    "fullName": "augment-code-workshop/noah-dinkin-excalidraw",
+    "stars": 0,
+    "pushedAt": "2026-09-16T19:45:06Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 6,
+    "cachedAt": "2026-09-16T20:16:32.451Z"
+  },
+  "hamdymohamedak/TeamTracker": {
+    "fullName": "hamdymohamedak/TeamTracker",
+    "stars": 0,
+    "pushedAt": "2026-09-16T17:39:37Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 1,
+    "cachedAt": "2026-09-16T20:16:32.641Z"
+  },
+  "Ariestar/obsidian-dragger": {
+    "fullName": "Ariestar/obsidian-dragger",
+    "stars": 280,
+    "pushedAt": "2026-09-16T18:12:22Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 17,
+    "cachedAt": "2026-09-16T20:16:32.840Z"
+  },
+  "kubestellar/console-kb": {
+    "fullName": "kubestellar/console-kb",
+    "stars": 10,
+    "pushedAt": "2026-09-16T20:03:47Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 30,
+    "cachedAt": "2026-09-16T20:16:33.060Z"
+  },
+  "caissara2dev/novo-transbordo": {
+    "fullName": "caissara2dev/novo-transbordo",
+    "stars": 0,
+    "pushedAt": "2026-09-16T19:58:56Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 9,
+    "cachedAt": "2026-09-16T20:16:33.237Z"
+  },
+  "neat-technologies/neat": {
+    "fullName": "neat-technologies/neat",
+    "stars": 18,
+    "pushedAt": "2026-09-16T20:16:04Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 99,
+    "cachedAt": "2026-09-16T20:16:33.402Z"
+  },
+  "automagik-dev/omni": {
+    "fullName": "automagik-dev/omni",
+    "stars": 36,
+    "pushedAt": "2026-09-16T20:16:13Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 5,
+    "cachedAt": "2026-09-16T20:16:33.599Z"
+  },
+  "remco59/StudyTube": {
+    "fullName": "remco59/StudyTube",
+    "stars": 0,
+    "pushedAt": "2026-09-16T20:16:26Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 22,
+    "cachedAt": "2026-09-16T20:16:33.764Z"
+  },
+  "blwatkins/typescript-utils": {
+    "fullName": "blwatkins/typescript-utils",
+    "stars": 1,
+    "pushedAt": "2026-09-16T19:33:37Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 11,
+    "cachedAt": "2026-09-16T20:16:34.022Z"
+  },
+  "anthropics/claude-code": {
+    "fullName": "anthropics/claude-code",
+    "stars": 145398,
+    "pushedAt": "2026-09-16T18:56:57Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 12523,
+    "cachedAt": "2026-09-16T20:16:34.228Z"
+  },
+  "rmartz/merge-safety": {
+    "fullName": "rmartz/merge-safety",
+    "stars": 0,
+    "pushedAt": "2026-09-16T20:16:25Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 6,
+    "cachedAt": "2026-09-16T20:16:34.457Z"
+  },
+  "Devver-Inc/cli": {
+    "fullName": "Devver-Inc/cli",
+    "stars": 0,
+    "pushedAt": "2026-09-06T18:02:57Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 5,
+    "cachedAt": "2026-09-16T20:16:34.643Z"
+  },
+  "kurone-kito/idd-skill": {
+    "fullName": "kurone-kito/idd-skill",
+    "stars": 11,
+    "pushedAt": "2026-09-16T19:40:39Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 2,
+    "cachedAt": "2026-09-16T20:16:34.926Z"
+  },
+  "kylehoehns/benchcard": {
+    "fullName": "kylehoehns/benchcard",
+    "stars": 1,
+    "pushedAt": "2026-09-16T19:56:53Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 19,
+    "cachedAt": "2026-09-16T20:16:35.094Z"
+  },
+  "SEBASTIANTORRESL0K1/ecocampus": {
+    "fullName": "SEBASTIANTORRESL0K1/ecocampus",
+    "stars": 0,
+    "pushedAt": "2026-09-16T20:15:33Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 10,
+    "cachedAt": "2026-09-16T20:16:35.267Z"
+  },
+  "AlastairZeved/TheBoards": {
+    "fullName": "AlastairZeved/TheBoards",
+    "stars": 0,
+    "pushedAt": "2026-09-16T20:10:35Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 7,
+    "cachedAt": "2026-09-16T20:16:35.422Z"
+  },
+  "divyakatara/Zero-Cost-Predictive-Business-Intelligence-for-SMB-Retail-": {
+    "fullName": "divyakatara/Zero-Cost-Predictive-Business-Intelligence-for-SMB-Retail-",
+    "stars": 0,
+    "pushedAt": "2026-09-16T20:13:08Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 49,
+    "cachedAt": "2026-09-16T20:16:35.649Z"
+  },
+  "forschungsgruppe-digital-health/bpmn-extension-medical-terminology": {
+    "fullName": "forschungsgruppe-digital-health/bpmn-extension-medical-terminology",
+    "stars": 0,
+    "pushedAt": "2026-09-16T12:36:29Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 10,
+    "cachedAt": "2026-09-16T20:16:35.873Z"
+  },
+  "Uxopian/uxopian-node-client-experimental": {
+    "fullName": "Uxopian/uxopian-node-client-experimental",
+    "stars": 0,
+    "pushedAt": "2026-09-16T19:13:12Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 7,
+    "cachedAt": "2026-09-16T20:16:36.084Z"
+  },
+  "pinfada/railsbox-vault": {
+    "fullName": "pinfada/railsbox-vault",
+    "stars": 0,
+    "pushedAt": "2026-09-16T18:13:20Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 27,
+    "cachedAt": "2026-09-16T20:16:36.251Z"
+  },
+  "Amitro123/anydocSkill": {
+    "fullName": "Amitro123/anydocSkill",
+    "stars": 0,
+    "pushedAt": "2026-09-16T19:17:31Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 2,
+    "cachedAt": "2026-09-16T20:16:36.428Z"
   }
 }
