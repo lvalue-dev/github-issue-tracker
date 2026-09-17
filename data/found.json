@@ -1,5 +1,225 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30521",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30521,
+    "title": "[Good First Issue] 🎌 Add new Example Sentence 70 - Beginner-Friendly Open-source Contribution (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30521",
+    "comments": 1,
+    "createdAt": "2026-09-17T18:01:07Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-17T18:22:31.844Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30520",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30520,
+    "title": "[Good First Issue] 🍁 Add new Etiquette Tip 13 - Beginner-Friendly Open-source Contribution (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30520",
+    "comments": 1,
+    "createdAt": "2026-09-17T17:57:30Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-17T18:22:32.106Z"
+  },
+  {
+    "key": "zonelessdev/zoneless#150",
+    "tier": 1,
+    "repo": "zonelessdev/zoneless",
+    "number": 150,
+    "title": "Automatically sync wallet balance on dashboard",
+    "url": "https://github.com/zonelessdev/zoneless/issues/150",
+    "comments": 0,
+    "createdAt": "2026-09-17T17:29:28Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 535,
+    "foundAt": "2026-09-17T18:22:32.422Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30517",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30517,
+    "title": "[Good First Issue] 🦊 Add new Dialect Entry 120 - Beginner-Friendly Open-source Contribution (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30517",
+    "comments": 1,
+    "createdAt": "2026-09-17T16:57:31Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-17T18:22:32.761Z"
+  },
+  {
+    "key": "Eugleo/magic-racket#166",
+    "tier": 1,
+    "repo": "Eugleo/magic-racket",
+    "number": 166,
+    "title": "Update langserver feature list in README",
+    "url": "https://github.com/Eugleo/magic-racket/issues/166",
+    "comments": 0,
+    "createdAt": "2026-09-17T16:15:02Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "langserver"
+    ],
+    "language": "typescript",
+    "stars": 220,
+    "foundAt": "2026-09-17T18:22:33.480Z"
+  },
+  {
+    "key": "supabase/supabase#50532",
+    "tier": 1,
+    "repo": "supabase/supabase",
+    "number": 50532,
+    "title": "Docs: conflicting descriptions of the private flag for realtime.send / realtime.send_binary",
+    "url": "https://github.com/supabase/supabase/issues/50532",
+    "comments": 2,
+    "createdAt": "2026-09-17T15:39:05Z",
+    "labels": [
+      "documentation",
+      "help wanted",
+      "good first issue",
+      "internal-issue",
+      "to-triage"
+    ],
+    "language": "typescript",
+    "stars": 110039,
+    "foundAt": "2026-09-17T18:22:33.760Z"
+  },
+  {
+    "key": "diegosouzapw/OmniRoute#13997",
+    "tier": 1,
+    "repo": "diegosouzapw/OmniRoute",
+    "number": 13997,
+    "title": "docs(cli): README and CLI-TOOLS document two commands that do not exist (`config show`, `models list`)",
+    "url": "https://github.com/diegosouzapw/OmniRoute/issues/13997",
+    "comments": 0,
+    "createdAt": "2026-09-17T15:24:26Z",
+    "labels": [
+      "bug",
+      "documentation",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 67381,
+    "foundAt": "2026-09-17T18:22:34.200Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30516",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30516,
+    "title": "[Good First Issue] 🍵 Add new Japanese Idiom 108 - Beginner-Friendly Open-source Contribution (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30516",
+    "comments": 1,
+    "createdAt": "2026-09-17T15:01:13Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-17T18:22:34.884Z"
+  },
+  {
+    "key": "code-charity/youtube#4346",
+    "tier": 1,
+    "repo": "code-charity/youtube",
+    "number": 4346,
+    "title": "🐞Infinite freezing loop when livestream playback speed is > 1x (Distinct from #4043)",
+    "url": "https://github.com/code-charity/youtube/issues/4346",
+    "comments": 0,
+    "createdAt": "2026-09-17T14:31:25Z",
+    "labels": [
+      "Bug",
+      "Feature request",
+      "help wanted",
+      "good first issue",
+      "up-for-grabs"
+    ],
+    "language": "javascript",
+    "stars": 4583,
+    "foundAt": "2026-09-17T18:22:36.115Z"
+  },
+  {
+    "key": "zonelessdev/zoneless#151",
+    "tier": 2,
+    "repo": "zonelessdev/zoneless",
+    "number": 151,
+    "title": "Scope dashboard event lists to the object being viewed",
+    "url": "https://github.com/zonelessdev/zoneless/issues/151",
+    "comments": 0,
+    "createdAt": "2026-09-17T17:50:09Z",
+    "labels": [
+      "enhancement",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 535,
+    "foundAt": "2026-09-17T18:22:36.938Z"
+  },
+  {
+    "key": "OpenWhispr/openwhispr#2242",
+    "tier": 3,
+    "repo": "OpenWhispr/openwhispr",
+    "number": 2242,
+    "title": "Windows key listener: leftover messages, docs and an unused IPC channel after #2005",
+    "url": "https://github.com/OpenWhispr/openwhispr/issues/2242",
+    "comments": 0,
+    "createdAt": "2026-09-17T16:36:40Z",
+    "labels": [
+      "documentation",
+      "Windows"
+    ],
+    "language": "javascript",
+    "stars": 8312,
+    "foundAt": "2026-09-17T18:22:41.086Z"
+  },
+  {
     "key": "OpsiMate/OpsiMate#983",
     "tier": 1,
     "repo": "OpsiMate/OpsiMate",
@@ -1654,227 +1874,5 @@
     "language": "typescript",
     "stars": 37282,
     "foundAt": "2026-09-15T18:18:40.232Z"
-  },
-  {
-    "key": "NuSkooler/enigma-bbs#857",
-    "tier": 3,
-    "repo": "NuSkooler/enigma-bbs",
-    "number": 857,
-    "title": "Exodus door server is gone; the module and docs still point at it",
-    "url": "https://github.com/NuSkooler/enigma-bbs/issues/857",
-    "comments": 0,
-    "createdAt": "2026-09-15T17:31:30Z",
-    "labels": [
-      "question",
-      "documentation"
-    ],
-    "language": "javascript",
-    "stars": 665,
-    "foundAt": "2026-09-15T18:18:44.864Z"
-  },
-  {
-    "key": "AzureAD/microsoft-authentication-library-for-js#8831",
-    "tier": 3,
-    "repo": "AzureAD/microsoft-authentication-library-for-js",
-    "number": 8831,
-    "title": "Wiki link to road map is 404",
-    "url": "https://github.com/AzureAD/microsoft-authentication-library-for-js/issues/8831",
-    "comments": 0,
-    "createdAt": "2026-09-15T17:14:59Z",
-    "labels": [
-      "question",
-      "documentation",
-      "Needs: Attention :wave:",
-      "public-client"
-    ],
-    "language": "typescript",
-    "stars": 4119,
-    "foundAt": "2026-09-15T18:18:43.547Z"
-  },
-  {
-    "key": "cpinitiative/usaco-guide#6642",
-    "tier": 3,
-    "repo": "cpinitiative/usaco-guide",
-    "number": 6642,
-    "title": "Contact Form Submission - Request - Missing Section or Solution (Problem Solution - GMO (ID: kattis-gmo))",
-    "url": "https://github.com/cpinitiative/usaco-guide/issues/6642",
-    "comments": 1,
-    "createdAt": "2026-09-15T16:08:24Z",
-    "labels": [
-      "good first issue",
-      "content"
-    ],
-    "language": "mdx",
-    "stars": 1851,
-    "foundAt": "2026-09-15T18:18:45.909Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30461",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30461,
-    "title": "[Good First Issue] 🍚 Add new Japanese Idiom 116 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30461",
-    "comments": 1,
-    "createdAt": "2026-09-15T13:34:34Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-15T13:42:42.635Z"
-  },
-  {
-    "key": "backstage/backstage#35714",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35714,
-    "title": "Snyk vulnerability [SNYK-JS-PROXYADDR-19812342]",
-    "url": "https://github.com/backstage/backstage/issues/35714",
-    "comments": 0,
-    "createdAt": "2026-09-15T12:13:26Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34409,
-    "foundAt": "2026-09-15T13:42:44.384Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30455",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30455,
-    "title": "[Good First Issue] 🪭 Add new Grammar Point 70 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30455",
-    "comments": 1,
-    "createdAt": "2026-09-15T12:01:06Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-15T13:42:44.384Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30454",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30454,
-    "title": "[Good First Issue] 🪭 Add new Japanese Haiku 11 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30454",
-    "comments": 1,
-    "createdAt": "2026-09-15T11:35:45Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-15T13:42:44.384Z"
-  },
-  {
-    "key": "PipedreamHQ/pipedream#21991",
-    "tier": 2,
-    "repo": "PipedreamHQ/pipedream",
-    "number": 21991,
-    "title": "[ACTION] Rewardful — Affiliate & Commission Management",
-    "url": "https://github.com/PipedreamHQ/pipedream/issues/21991",
-    "comments": 0,
-    "createdAt": "2026-09-15T11:13:43Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "action"
-    ],
-    "language": "javascript",
-    "stars": 11684,
-    "foundAt": "2026-09-15T13:42:44.596Z"
-  },
-  {
-    "key": "getsentry/sentry-docs#19432",
-    "tier": 3,
-    "repo": "getsentry/sentry-docs",
-    "number": 19432,
-    "title": "Unused import OpenAIIntegration on Pydantic AI integration page",
-    "url": "https://github.com/getsentry/sentry-docs/issues/19432",
-    "comments": 1,
-    "createdAt": "2026-09-15T12:24:17Z",
-    "labels": [
-      "SDKs",
-      "Platform: Python",
-      "Docs"
-    ],
-    "language": "mdx",
-    "stars": 445,
-    "foundAt": "2026-09-15T13:42:47.628Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30445",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30445,
-    "title": "[Good First Issue] 🥢 Add new Etiquette Tip 94 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30445",
-    "comments": 1,
-    "createdAt": "2026-09-15T07:34:29Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-15T07:54:17.876Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30441",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30441,
-    "title": "[Good First Issue] 🐡 Add new Japanese Idiom 54 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30441",
-    "comments": 1,
-    "createdAt": "2026-09-15T06:01:06Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-15T07:54:18.299Z"
   }
 ]

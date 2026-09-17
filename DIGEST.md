@@ -4,6 +4,17 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-17 | 🥇 | [[Good First Issue] 🎌 Add new Example Sentence 70 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30521) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-17 | 🥇 | [[Good First Issue] 🍁 Add new Etiquette Tip 13 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30520) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-17 | 🥇 | [Automatically sync wallet balance on dashboard](https://github.com/zonelessdev/zoneless/issues/150) | `zonelessdev/zoneless` | ⭐ 535 |
+| 2026-09-17 | 🥇 | [[Good First Issue] 🦊 Add new Dialect Entry 120 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30517) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-17 | 🥇 | [Update langserver feature list in README](https://github.com/Eugleo/magic-racket/issues/166) | `Eugleo/magic-racket` | ⭐ 220 |
+| 2026-09-17 | 🥇 | [Docs: conflicting descriptions of the private flag for realtime.send / realtime.](https://github.com/supabase/supabase/issues/50532) | `supabase/supabase` | ⭐ 110.0k |
+| 2026-09-17 | 🥇 | [docs(cli): README and CLI-TOOLS document two commands that do not exist (`config](https://github.com/diegosouzapw/OmniRoute/issues/13997) | `diegosouzapw/OmniRoute` | ⭐ 67.4k |
+| 2026-09-17 | 🥇 | [[Good First Issue] 🍵 Add new Japanese Idiom 108 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30516) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-17 | 🥇 | [🐞Infinite freezing loop when livestream playback speed is > 1x (Distinct from #](https://github.com/code-charity/youtube/issues/4346) | `code-charity/youtube` | ⭐ 4.6k |
+| 2026-09-17 | 🥈 | [Scope dashboard event lists to the object being viewed](https://github.com/zonelessdev/zoneless/issues/151) | `zonelessdev/zoneless` | ⭐ 535 |
+| 2026-09-17 | 🥉 | [Windows key listener: leftover messages, docs and an unused IPC channel after #2](https://github.com/OpenWhispr/openwhispr/issues/2242) | `OpenWhispr/openwhispr` | ⭐ 8.3k |
 | 2026-09-17 | 🥇 | [Sidebar Slack and GitHub links are clickable divs — not focusable, not keyboard-](https://github.com/OpsiMate/OpsiMate/issues/983) | `OpsiMate/OpsiMate` | ⭐ 211 |
 | 2026-09-17 | 🥇 | [Export MOBILE_BREAKPOINT instead of hardcoding "768px" in the mobile overlay cop](https://github.com/OpsiMate/OpsiMate/issues/982) | `OpsiMate/OpsiMate` | ⭐ 211 |
 | 2026-09-17 | 🥇 | [Add unit tests for useIsMobile](https://github.com/OpsiMate/OpsiMate/issues/981) | `OpsiMate/OpsiMate` | ⭐ 211 |
@@ -93,14 +104,3 @@
 | 2026-09-15 | 🥉 | [docs: README says 33 and 35 languages ten lines apart; anchor claim false for 5 ](https://github.com/manojmallick/sigmap/issues/697) | `manojmallick/sigmap` | ⭐ 636 |
 | 2026-09-15 | 🥉 | [Document Android network-event breadcrumb configuration](https://github.com/getsentry/sentry-docs/issues/19438) | `getsentry/sentry-docs` | ⭐ 445 |
 | 2026-09-15 | 🥇 | [🐛 Bug: input and header slots reject plain FCs (same defect as #7126)](https://github.com/CopilotKit/CopilotKit/issues/7158) | `CopilotKit/CopilotKit` | ⭐ 37.3k |
-| 2026-09-15 | 🥉 | [Exodus door server is gone; the module and docs still point at it](https://github.com/NuSkooler/enigma-bbs/issues/857) | `NuSkooler/enigma-bbs` | ⭐ 665 |
-| 2026-09-15 | 🥉 | [Wiki link to road map is 404](https://github.com/AzureAD/microsoft-authentication-library-for-js/issues/8831) | `AzureAD/microsoft-authentication-library-for-js` | ⭐ 4.1k |
-| 2026-09-15 | 🥉 | [Contact Form Submission - Request - Missing Section or Solution (Problem Solutio](https://github.com/cpinitiative/usaco-guide/issues/6642) | `cpinitiative/usaco-guide` | ⭐ 1.9k |
-| 2026-09-15 | 🥇 | [[Good First Issue] 🍚 Add new Japanese Idiom 116 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30461) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-15 | 🥈 | [Snyk vulnerability [SNYK-JS-PROXYADDR-19812342]](https://github.com/backstage/backstage/issues/35714) | `backstage/backstage` | ⭐ 34.4k |
-| 2026-09-15 | 🥈 | [[Good First Issue] 🪭 Add new Grammar Point 70 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30455) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-15 | 🥈 | [[Good First Issue] 🪭 Add new Japanese Haiku 11 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30454) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-15 | 🥈 | [[ACTION] Rewardful — Affiliate & Commission Management](https://github.com/PipedreamHQ/pipedream/issues/21991) | `PipedreamHQ/pipedream` | ⭐ 11.7k |
-| 2026-09-15 | 🥉 | [Unused import OpenAIIntegration on Pydantic AI integration page](https://github.com/getsentry/sentry-docs/issues/19432) | `getsentry/sentry-docs` | ⭐ 445 |
-| 2026-09-15 | 🥇 | [[Good First Issue] 🥢 Add new Etiquette Tip 94 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30445) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-15 | 🥇 | [[Good First Issue] 🐡 Add new Japanese Idiom 54 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30441) | `lingdojo/kana-dojo` | ⭐ 3.4k |
