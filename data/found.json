@@ -1,5 +1,84 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30496",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30496,
+    "title": "[Good First Issue] 🎏 Add new Theme: Tea Ceramic - Beginner-Friendly Open-source Contribution (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30496",
+    "comments": 1,
+    "createdAt": "2026-09-17T01:01:01Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3350,
+    "foundAt": "2026-09-17T01:33:08.334Z"
+  },
+  {
+    "key": "libredb/libredb-studio#941",
+    "tier": 2,
+    "repo": "libredb/libredb-studio",
+    "number": 941,
+    "title": "One-command Keycloak demo stack so OIDC can be tried without reading the docs",
+    "url": "https://github.com/libredb/libredb-studio/issues/941",
+    "comments": 0,
+    "createdAt": "2026-09-16T23:57:25Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "security",
+      "core-capabilities"
+    ],
+    "language": "typescript",
+    "stars": 754,
+    "foundAt": "2026-09-17T01:33:08.780Z"
+  },
+  {
+    "key": "libredb/libredb-studio#937",
+    "tier": 2,
+    "repo": "libredb/libredb-studio",
+    "number": 937,
+    "title": "Resolve seed connection passwords from HashiCorp Vault at connect time",
+    "url": "https://github.com/libredb/libredb-studio/issues/937",
+    "comments": 0,
+    "createdAt": "2026-09-16T23:09:51Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "security",
+      "core-capabilities"
+    ],
+    "language": "typescript",
+    "stars": 754,
+    "foundAt": "2026-09-17T01:33:08.958Z"
+  },
+  {
+    "key": "gotgenes/pi-packages#934",
+    "tier": 3,
+    "repo": "gotgenes/pi-packages",
+    "number": 934,
+    "title": "Audit and prune the agent documentation, then make the pass periodic",
+    "url": "https://github.com/gotgenes/pi-packages/issues/934",
+    "comments": 1,
+    "createdAt": "2026-09-17T00:34:27Z",
+    "labels": [
+      "documentation",
+      "scope:repo"
+    ],
+    "language": "typescript",
+    "stars": 220,
+    "foundAt": "2026-09-17T01:33:11.104Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30493",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1868,93 +1947,6 @@
     ],
     "language": "typescript",
     "stars": 552,
-    "foundAt": "2026-09-14T23:14:27.015Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30423",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30423,
-    "title": "[Good First Issue] 🏮 Add new Trivia Question 39 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30423",
-    "comments": 1,
-    "createdAt": "2026-09-14T21:34:29Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-14T23:14:27.015Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30422",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30422,
-    "title": "[Good First Issue] 🍢 Add new Japanese Haiku 11 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30422",
-    "comments": 1,
-    "createdAt": "2026-09-14T21:01:01Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-14T23:14:27.015Z"
-  },
-  {
-    "key": "YusufB5/ASCILINE#69",
-    "tier": 1,
-    "repo": "YusufB5/ASCILINE",
-    "number": 69,
-    "title": "feat(server): Add /health endpoint and Docker HEALTHCHECK directive",
-    "url": "https://github.com/YusufB5/ASCILINE/issues/69",
-    "comments": 0,
-    "createdAt": "2026-09-14T20:47:03Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "docker"
-    ],
-    "language": "javascript",
-    "stars": 2730,
-    "foundAt": "2026-09-14T23:14:28.411Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30421",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30421,
-    "title": "[Good First Issue] 🍥 Add new Japanese Proverb 16 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30421",
-    "comments": 1,
-    "createdAt": "2026-09-14T20:34:34Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
     "foundAt": "2026-09-14T23:14:27.015Z"
   }
 ]

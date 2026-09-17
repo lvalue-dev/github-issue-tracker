@@ -4,6 +4,10 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-17 | 🥇 | [[Good First Issue] 🎏 Add new Theme: Tea Ceramic - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30496) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-17 | 🥈 | [One-command Keycloak demo stack so OIDC can be tried without reading the docs](https://github.com/libredb/libredb-studio/issues/941) | `libredb/libredb-studio` | ⭐ 754 |
+| 2026-09-17 | 🥈 | [Resolve seed connection passwords from HashiCorp Vault at connect time](https://github.com/libredb/libredb-studio/issues/937) | `libredb/libredb-studio` | ⭐ 754 |
+| 2026-09-17 | 🥉 | [Audit and prune the agent documentation, then make the pass periodic](https://github.com/gotgenes/pi-packages/issues/934) | `gotgenes/pi-packages` | ⭐ 220 |
 | 2026-09-16 | 🥇 | [[Good First Issue] 🍶 Add new Community Note Line #1 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30493) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-16 | 🥇 | [[Good First Issue] 🎑 Add new Learner Mistake 53 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30492) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-16 | 🥇 | [Ficha do contato mostra "DISPLAY NAME" em inglês, sem tradução](https://github.com/melgarafael/DeskcommCRM/issues/1014) | `melgarafael/DeskcommCRM` | ⭐ 2.8k |
@@ -100,7 +104,3 @@
 | 2026-09-14 | 🥇 | [[Good First Issue] 🍛 Add new Grammar Point 91 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30424) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-14 | 🥇 | [Demo: dropping a file keeps the previous preset's model credits and thumbnail](https://github.com/xyz-tools/gcode-preview/issues/529) | `xyz-tools/gcode-preview` | ⭐ 202 |
 | 2026-09-14 | 🥇 | [[DOCS] tokens.mdx: `/-/ping` is not exempt from authentication; drop the "apart ](https://github.com/vltpkg/vltpkg/issues/1853) | `vltpkg/vltpkg` | ⭐ 552 |
-| 2026-09-14 | 🥇 | [[Good First Issue] 🏮 Add new Trivia Question 39 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30423) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-14 | 🥇 | [[Good First Issue] 🍢 Add new Japanese Haiku 11 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30422) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-14 | 🥇 | [feat(server): Add /health endpoint and Docker HEALTHCHECK directive](https://github.com/YusufB5/ASCILINE/issues/69) | `YusufB5/ASCILINE` | ⭐ 2.7k |
-| 2026-09-14 | 🥇 | [[Good First Issue] 🍥 Add new Japanese Proverb 16 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30421) | `lingdojo/kana-dojo` | ⭐ 3.4k |
