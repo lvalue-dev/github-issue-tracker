@@ -4,6 +4,26 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-17 | 🥇 | [Sidebar Slack and GitHub links are clickable divs — not focusable, not keyboard-](https://github.com/OpsiMate/OpsiMate/issues/983) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-17 | 🥇 | [Export MOBILE_BREAKPOINT instead of hardcoding "768px" in the mobile overlay cop](https://github.com/OpsiMate/OpsiMate/issues/982) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-17 | 🥇 | [Add unit tests for useIsMobile](https://github.com/OpsiMate/OpsiMate/issues/981) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-17 | 🥇 | [Add unit tests for AlertsEmptyState](https://github.com/OpsiMate/OpsiMate/issues/980) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-17 | 🥇 | [Add unit tests for AlertHistoryRepository](https://github.com/OpsiMate/OpsiMate/issues/979) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-17 | 🥇 | [Add unit tests for timed-silence expiry (the clearExpiredSilences lazy sweep)](https://github.com/OpsiMate/OpsiMate/issues/978) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-17 | 🥇 | [Non-numeric :id path params return 500 instead of 400 on five routers](https://github.com/OpsiMate/OpsiMate/issues/977) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-17 | 🥇 | [Fix the "unsilenceing" toast and the "Deleted 1 alerts" copy in useAlertActions](https://github.com/OpsiMate/OpsiMate/issues/976) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-17 | 🥇 | [Add unit tests for useExpandRows](https://github.com/OpsiMate/OpsiMate/issues/975) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-17 | 🥇 | [Add unit tests for PreserveQueryLink](https://github.com/OpsiMate/OpsiMate/issues/974) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-17 | 🥇 | [Add unit tests for the mail templates](https://github.com/OpsiMate/OpsiMate/issues/973) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-17 | 🥇 | [Remove the TV Mode page — the feature does not exist in the product](https://github.com/OpsiMate/OpsiMate/issues/988) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-17 | 🥇 | [Delete the Docusaurus template blog and sample assets](https://github.com/OpsiMate/OpsiMate/issues/987) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-17 | 🥇 | [Uptime Kuma page shows the wrong webhook path](https://github.com/OpsiMate/OpsiMate/issues/986) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-17 | 🥇 | [Fix the intro typo and the wrong GitHub org link](https://github.com/OpsiMate/OpsiMate/issues/985) | `OpsiMate/OpsiMate` | ⭐ 211 |
+| 2026-09-17 | 🥈 | [[Docs] Fix broken mobile responsiveness CSS selector and parameter naming in 'ex](https://github.com/meshery/meshery/issues/21997) | `meshery/meshery` | ⭐ 11.7k |
+| 2026-09-17 | 🥈 | [Need to sync microsoft calendar with Jira Assistant](https://github.com/shridhar-tl/jira-assistant/issues/452) | `shridhar-tl/jira-assistant` | ⭐ 284 |
+| 2026-09-17 | 🥈 | [TS:  Statement after top-level `await` is duplicated with `typescript` parser](https://github.com/prettier/prettier/issues/20096) | `prettier/prettier` | ⭐ 52.2k |
+| 2026-09-17 | 🥉 | [docs: exclusion lists don't clarify CIDR usage or that Observables are unaffecte](https://github.com/OpenCTI-Platform/opencti/issues/18333) | `OpenCTI-Platform/opencti` | ⭐ 10.0k |
+| 2026-09-17 | 🥉 | [Broken URL for leaflet.sidepanel plugin](https://github.com/Leaflet/Leaflet/issues/10385) | `Leaflet/Leaflet` | ⭐ 45.6k |
 | 2026-09-17 | 🥇 | [ListFooter page length picker renders nothing: still passes the removed `buttons](https://github.com/frappe/frappe-ui/issues/1170) | `frappe/frappe-ui` | ⭐ 1.0k |
 | 2026-09-17 | 🥇 | [[Good First Issue] 🐡 Add new Japanese Proverb 173 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30499) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-17 | 🥇 | [[Good First Issue] 🍘 Add new Japan Fact 74 - Beginner-Friendly Open-source Cont](https://github.com/lingdojo/kana-dojo/issues/30497) | `lingdojo/kana-dojo` | ⭐ 3.4k |
@@ -84,23 +104,3 @@
 | 2026-09-15 | 🥉 | [Unused import OpenAIIntegration on Pydantic AI integration page](https://github.com/getsentry/sentry-docs/issues/19432) | `getsentry/sentry-docs` | ⭐ 445 |
 | 2026-09-15 | 🥇 | [[Good First Issue] 🥢 Add new Etiquette Tip 94 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30445) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-15 | 🥇 | [[Good First Issue] 🐡 Add new Japanese Idiom 54 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30441) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-15 | 🥇 | [[Bug] Markdown RAW Content Glitches While Scrolling](https://github.com/VoidenHQ/voiden/issues/560) | `VoidenHQ/voiden` | ⭐ 1.7k |
-| 2026-09-15 | 🥇 | [[Good First Issue] 🎐 Add new Anime Quote 18 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30440) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-15 | 🥇 | [[Good First Issue] 🍚 Add new Grammar Point 17 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30439) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-15 | 🥈 | [[Good First Issue] 🍁 Add new Trivia Question 121 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30438) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-15 | 🥈 | [[Good First Issue] 🪭 Add new Japanese Proverb 100 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30437) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-15 | 🥈 | [[Good First Issue] 🪭 Add new Japan Fact 292 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30436) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-15 | 🥈 | [[Good First Issue] 🥢 Add new Theme: Festival Mask - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30435) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-15 | 🥈 | [Dependency Audit Report - September 15, 2026 🤖📝](https://github.com/activist-org/activist/issues/2404) | `activist-org/activist` | ⭐ 747 |
-| 2026-09-15 | 🥈 | [[Good First Issue] 🗾 Add new Community Note Line #2 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30434) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-15 | 🥈 | [[Good First Issue] 🍁 Add new Wallpaper URL #2 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30433) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-15 | 🥉 | [docs: comparison pages — Aider repo map, RepoPrompt, ctags (EN4)](https://github.com/manojmallick/sigmap/issues/679) | `manojmallick/sigmap` | ⭐ 636 |
-| 2026-09-15 | 🥉 | [docs(security): SECURITY.md points the MCP proxy DNS residual at closed #5061](https://github.com/koala73/worldmonitor/issues/8176) | `koala73/worldmonitor` | ⭐ 86.3k |
-| 2026-09-15 | 🥉 | [docs: --help omits seven shipped commands; CLI docs drift (audit H3, plan D2/G05](https://github.com/manojmallick/sigmap/issues/661) | `manojmallick/sigmap` | ⭐ 636 |
-| 2026-09-15 | 🥇 | [[Good First Issue] 🦊 Add new Learner Mistake 104 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30431) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-15 | 🥇 | [[Good First Issue] 🌸 Add new Example Sentence 30 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30430) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-15 | 🥇 | [[Good First Issue] 🎴 Add new Etiquette Tip 76 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30429) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-15 | 🥇 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15228) | `stdlib-js/stdlib` | ⭐ 6.0k |
-| 2026-09-15 | 🥇 | [[Good First Issue] 🗻 Add new False Friend Pair 119 - Beginner-Friendly Open-sou](https://github.com/lingdojo/kana-dojo/issues/30428) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-15 | 🥇 | [[Good First Issue] 🍡 Add new Dialect Entry 44 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30427) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-15 | 🥈 | [Update archiver to v8](https://github.com/webdriverio/webdriverio/issues/15602) | `webdriverio/webdriverio` | ⭐ 9.8k |

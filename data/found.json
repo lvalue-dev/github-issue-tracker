@@ -1,5 +1,361 @@
 [
   {
+    "key": "OpsiMate/OpsiMate#983",
+    "tier": 1,
+    "repo": "OpsiMate/OpsiMate",
+    "number": 983,
+    "title": "Sidebar Slack and GitHub links are clickable divs — not focusable, not keyboard-activatable",
+    "url": "https://github.com/OpsiMate/OpsiMate/issues/983",
+    "comments": 0,
+    "createdAt": "2026-09-17T13:11:26Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "UI"
+    ],
+    "language": "typescript",
+    "stars": 211,
+    "foundAt": "2026-09-17T13:37:59.741Z"
+  },
+  {
+    "key": "OpsiMate/OpsiMate#982",
+    "tier": 1,
+    "repo": "OpsiMate/OpsiMate",
+    "number": 982,
+    "title": "Export MOBILE_BREAKPOINT instead of hardcoding \"768px\" in the mobile overlay copy",
+    "url": "https://github.com/OpsiMate/OpsiMate/issues/982",
+    "comments": 0,
+    "createdAt": "2026-09-17T13:11:25Z",
+    "labels": [
+      "good first issue",
+      "UI"
+    ],
+    "language": "typescript",
+    "stars": 211,
+    "foundAt": "2026-09-17T13:37:59.741Z"
+  },
+  {
+    "key": "OpsiMate/OpsiMate#981",
+    "tier": 1,
+    "repo": "OpsiMate/OpsiMate",
+    "number": 981,
+    "title": "Add unit tests for useIsMobile",
+    "url": "https://github.com/OpsiMate/OpsiMate/issues/981",
+    "comments": 0,
+    "createdAt": "2026-09-17T13:11:23Z",
+    "labels": [
+      "good first issue",
+      "UI",
+      "Test"
+    ],
+    "language": "typescript",
+    "stars": 211,
+    "foundAt": "2026-09-17T13:37:59.741Z"
+  },
+  {
+    "key": "OpsiMate/OpsiMate#980",
+    "tier": 1,
+    "repo": "OpsiMate/OpsiMate",
+    "number": 980,
+    "title": "Add unit tests for AlertsEmptyState",
+    "url": "https://github.com/OpsiMate/OpsiMate/issues/980",
+    "comments": 0,
+    "createdAt": "2026-09-17T13:11:22Z",
+    "labels": [
+      "good first issue",
+      "UI",
+      "Test"
+    ],
+    "language": "typescript",
+    "stars": 211,
+    "foundAt": "2026-09-17T13:37:59.741Z"
+  },
+  {
+    "key": "OpsiMate/OpsiMate#979",
+    "tier": 1,
+    "repo": "OpsiMate/OpsiMate",
+    "number": 979,
+    "title": "Add unit tests for AlertHistoryRepository",
+    "url": "https://github.com/OpsiMate/OpsiMate/issues/979",
+    "comments": 0,
+    "createdAt": "2026-09-17T13:11:20Z",
+    "labels": [
+      "good first issue",
+      "Server",
+      "Test"
+    ],
+    "language": "typescript",
+    "stars": 211,
+    "foundAt": "2026-09-17T13:37:59.741Z"
+  },
+  {
+    "key": "OpsiMate/OpsiMate#978",
+    "tier": 1,
+    "repo": "OpsiMate/OpsiMate",
+    "number": 978,
+    "title": "Add unit tests for timed-silence expiry (the clearExpiredSilences lazy sweep)",
+    "url": "https://github.com/OpsiMate/OpsiMate/issues/978",
+    "comments": 0,
+    "createdAt": "2026-09-17T13:11:19Z",
+    "labels": [
+      "good first issue",
+      "Server",
+      "Test"
+    ],
+    "language": "typescript",
+    "stars": 211,
+    "foundAt": "2026-09-17T13:37:59.741Z"
+  },
+  {
+    "key": "OpsiMate/OpsiMate#977",
+    "tier": 1,
+    "repo": "OpsiMate/OpsiMate",
+    "number": 977,
+    "title": "Non-numeric :id path params return 500 instead of 400 on five routers",
+    "url": "https://github.com/OpsiMate/OpsiMate/issues/977",
+    "comments": 0,
+    "createdAt": "2026-09-17T13:10:46Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "Server"
+    ],
+    "language": "typescript",
+    "stars": 211,
+    "foundAt": "2026-09-17T13:37:59.741Z"
+  },
+  {
+    "key": "OpsiMate/OpsiMate#976",
+    "tier": 1,
+    "repo": "OpsiMate/OpsiMate",
+    "number": 976,
+    "title": "Fix the \"unsilenceing\" toast and the \"Deleted 1 alerts\" copy in useAlertActions",
+    "url": "https://github.com/OpsiMate/OpsiMate/issues/976",
+    "comments": 0,
+    "createdAt": "2026-09-17T13:10:44Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "UI",
+      "Server"
+    ],
+    "language": "typescript",
+    "stars": 211,
+    "foundAt": "2026-09-17T13:37:59.741Z"
+  },
+  {
+    "key": "OpsiMate/OpsiMate#975",
+    "tier": 1,
+    "repo": "OpsiMate/OpsiMate",
+    "number": 975,
+    "title": "Add unit tests for useExpandRows",
+    "url": "https://github.com/OpsiMate/OpsiMate/issues/975",
+    "comments": 0,
+    "createdAt": "2026-09-17T13:10:43Z",
+    "labels": [
+      "good first issue",
+      "UI",
+      "Test"
+    ],
+    "language": "typescript",
+    "stars": 211,
+    "foundAt": "2026-09-17T13:37:59.741Z"
+  },
+  {
+    "key": "OpsiMate/OpsiMate#974",
+    "tier": 1,
+    "repo": "OpsiMate/OpsiMate",
+    "number": 974,
+    "title": "Add unit tests for PreserveQueryLink",
+    "url": "https://github.com/OpsiMate/OpsiMate/issues/974",
+    "comments": 0,
+    "createdAt": "2026-09-17T13:10:41Z",
+    "labels": [
+      "good first issue",
+      "UI",
+      "Test"
+    ],
+    "language": "typescript",
+    "stars": 211,
+    "foundAt": "2026-09-17T13:37:59.741Z"
+  },
+  {
+    "key": "OpsiMate/OpsiMate#973",
+    "tier": 1,
+    "repo": "OpsiMate/OpsiMate",
+    "number": 973,
+    "title": "Add unit tests for the mail templates",
+    "url": "https://github.com/OpsiMate/OpsiMate/issues/973",
+    "comments": 0,
+    "createdAt": "2026-09-17T13:10:39Z",
+    "labels": [
+      "good first issue",
+      "Server",
+      "Test"
+    ],
+    "language": "typescript",
+    "stars": 211,
+    "foundAt": "2026-09-17T13:37:59.741Z"
+  },
+  {
+    "key": "OpsiMate/OpsiMate#988",
+    "tier": 1,
+    "repo": "OpsiMate/OpsiMate",
+    "number": 988,
+    "title": "Remove the TV Mode page — the feature does not exist in the product",
+    "url": "https://github.com/OpsiMate/OpsiMate/issues/988",
+    "comments": 0,
+    "createdAt": "2026-09-17T13:10:14Z",
+    "labels": [
+      "documentation",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 211,
+    "foundAt": "2026-09-17T13:37:59.741Z"
+  },
+  {
+    "key": "OpsiMate/OpsiMate#987",
+    "tier": 1,
+    "repo": "OpsiMate/OpsiMate",
+    "number": 987,
+    "title": "Delete the Docusaurus template blog and sample assets",
+    "url": "https://github.com/OpsiMate/OpsiMate/issues/987",
+    "comments": 0,
+    "createdAt": "2026-09-17T13:10:12Z",
+    "labels": [
+      "bug",
+      "documentation",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 211,
+    "foundAt": "2026-09-17T13:37:59.741Z"
+  },
+  {
+    "key": "OpsiMate/OpsiMate#986",
+    "tier": 1,
+    "repo": "OpsiMate/OpsiMate",
+    "number": 986,
+    "title": "Uptime Kuma page shows the wrong webhook path",
+    "url": "https://github.com/OpsiMate/OpsiMate/issues/986",
+    "comments": 0,
+    "createdAt": "2026-09-17T13:10:11Z",
+    "labels": [
+      "bug",
+      "documentation",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 211,
+    "foundAt": "2026-09-17T13:37:59.741Z"
+  },
+  {
+    "key": "OpsiMate/OpsiMate#985",
+    "tier": 1,
+    "repo": "OpsiMate/OpsiMate",
+    "number": 985,
+    "title": "Fix the intro typo and the wrong GitHub org link",
+    "url": "https://github.com/OpsiMate/OpsiMate/issues/985",
+    "comments": 0,
+    "createdAt": "2026-09-17T13:10:09Z",
+    "labels": [
+      "documentation",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 211,
+    "foundAt": "2026-09-17T13:37:59.741Z"
+  },
+  {
+    "key": "meshery/meshery#21997",
+    "tier": 2,
+    "repo": "meshery/meshery",
+    "number": 21997,
+    "title": "[Docs] Fix broken mobile responsiveness CSS selector and parameter naming in 'extension-guide' shortcode",
+    "url": "https://github.com/meshery/meshery/issues/21997",
+    "comments": 1,
+    "createdAt": "2026-09-17T13:24:26Z",
+    "labels": [
+      "help wanted",
+      "area/docs",
+      "language/markdown",
+      "framework/hugo"
+    ],
+    "language": "typescript",
+    "stars": 11744,
+    "foundAt": "2026-09-17T13:38:01.080Z"
+  },
+  {
+    "key": "shridhar-tl/jira-assistant#452",
+    "tier": 2,
+    "repo": "shridhar-tl/jira-assistant",
+    "number": 452,
+    "title": "Need to sync microsoft calendar with Jira Assistant",
+    "url": "https://github.com/shridhar-tl/jira-assistant/issues/452",
+    "comments": 1,
+    "createdAt": "2026-09-17T13:05:14Z",
+    "labels": [
+      "bug",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 284,
+    "foundAt": "2026-09-17T13:38:01.328Z"
+  },
+  {
+    "key": "prettier/prettier#20096",
+    "tier": 2,
+    "repo": "prettier/prettier",
+    "number": 20096,
+    "title": "TS:  Statement after top-level `await` is duplicated with `typescript` parser",
+    "url": "https://github.com/prettier/prettier/issues/20096",
+    "comments": 2,
+    "createdAt": "2026-09-17T09:05:29Z",
+    "labels": [
+      "help wanted",
+      "lang:typescript",
+      "scope:external"
+    ],
+    "language": "javascript",
+    "stars": 52242,
+    "foundAt": "2026-09-17T13:38:02.689Z"
+  },
+  {
+    "key": "OpenCTI-Platform/opencti#18333",
+    "tier": 3,
+    "repo": "OpenCTI-Platform/opencti",
+    "number": 18333,
+    "title": "docs: exclusion lists don't clarify CIDR usage or that Observables are unaffected",
+    "url": "https://github.com/OpenCTI-Platform/opencti/issues/18333",
+    "comments": 0,
+    "createdAt": "2026-09-17T13:22:41Z",
+    "labels": [
+      "needs triage",
+      "documentation"
+    ],
+    "language": "typescript",
+    "stars": 9962,
+    "foundAt": "2026-09-17T13:38:04.308Z"
+  },
+  {
+    "key": "Leaflet/Leaflet#10385",
+    "tier": 3,
+    "repo": "Leaflet/Leaflet",
+    "number": 10385,
+    "title": "Broken URL for leaflet.sidepanel plugin",
+    "url": "https://github.com/Leaflet/Leaflet/issues/10385",
+    "comments": 0,
+    "createdAt": "2026-09-17T08:38:07Z",
+    "labels": [
+      "docs",
+      "needs triage"
+    ],
+    "language": "javascript",
+    "stars": 45627,
+    "foundAt": "2026-09-17T13:38:08.001Z"
+  },
+  {
     "key": "frappe/frappe-ui#1170",
     "tier": 1,
     "repo": "frappe/frappe-ui",
@@ -1520,426 +1876,5 @@
     "language": "typescript",
     "stars": 3350,
     "foundAt": "2026-09-15T07:54:18.299Z"
-  },
-  {
-    "key": "VoidenHQ/voiden#560",
-    "tier": 1,
-    "repo": "VoidenHQ/voiden",
-    "number": 560,
-    "title": "[Bug] Markdown RAW Content Glitches While Scrolling",
-    "url": "https://github.com/VoidenHQ/voiden/issues/560",
-    "comments": 0,
-    "createdAt": "2026-09-15T05:39:11Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "up-for-grabs"
-    ],
-    "language": "typescript",
-    "stars": 1733,
-    "foundAt": "2026-09-15T07:54:18.496Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30440",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30440,
-    "title": "[Good First Issue] 🎐 Add new Anime Quote 18 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30440",
-    "comments": 1,
-    "createdAt": "2026-09-15T05:34:33Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-15T07:54:18.496Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30439",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30439,
-    "title": "[Good First Issue] 🍚 Add new Grammar Point 17 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30439",
-    "comments": 1,
-    "createdAt": "2026-09-15T05:01:02Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-15T07:54:18.496Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30438",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30438,
-    "title": "[Good First Issue] 🍁 Add new Trivia Question 121 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30438",
-    "comments": 1,
-    "createdAt": "2026-09-15T04:34:34Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-15T07:54:20.226Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30437",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30437,
-    "title": "[Good First Issue] 🪭 Add new Japanese Proverb 100 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30437",
-    "comments": 1,
-    "createdAt": "2026-09-15T04:01:06Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-15T07:54:20.226Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30436",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30436,
-    "title": "[Good First Issue] 🪭 Add new Japan Fact 292 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30436",
-    "comments": 1,
-    "createdAt": "2026-09-15T03:34:28Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-15T07:54:20.226Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30435",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30435,
-    "title": "[Good First Issue] 🥢 Add new Theme: Festival Mask - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30435",
-    "comments": 1,
-    "createdAt": "2026-09-15T03:01:04Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-15T07:54:20.226Z"
-  },
-  {
-    "key": "activist-org/activist#2404",
-    "tier": 2,
-    "repo": "activist-org/activist",
-    "number": 2404,
-    "title": "Dependency Audit Report - September 15, 2026 🤖📝",
-    "url": "https://github.com/activist-org/activist/issues/2404",
-    "comments": 0,
-    "createdAt": "2026-09-15T02:59:43Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "dependencies"
-    ],
-    "language": "typescript",
-    "stars": 747,
-    "foundAt": "2026-09-15T07:54:20.432Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30434",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30434,
-    "title": "[Good First Issue] 🗾 Add new Community Note Line #2 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30434",
-    "comments": 1,
-    "createdAt": "2026-09-15T02:34:30Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-15T07:54:20.433Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30433",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30433,
-    "title": "[Good First Issue] 🍁 Add new Wallpaper URL #2 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30433",
-    "comments": 1,
-    "createdAt": "2026-09-15T02:01:02Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-15T07:54:20.689Z"
-  },
-  {
-    "key": "manojmallick/sigmap#679",
-    "tier": 3,
-    "repo": "manojmallick/sigmap",
-    "number": 679,
-    "title": "docs: comparison pages — Aider repo map, RepoPrompt, ctags (EN4)",
-    "url": "https://github.com/manojmallick/sigmap/issues/679",
-    "comments": 0,
-    "createdAt": "2026-09-15T07:48:11Z",
-    "labels": [
-      "documentation",
-      "needs-docs"
-    ],
-    "language": "javascript",
-    "stars": 636,
-    "foundAt": "2026-09-15T07:54:23.350Z"
-  },
-  {
-    "key": "koala73/worldmonitor#8176",
-    "tier": 3,
-    "repo": "koala73/worldmonitor",
-    "number": 8176,
-    "title": "docs(security): SECURITY.md points the MCP proxy DNS residual at closed #5061",
-    "url": "https://github.com/koala73/worldmonitor/issues/8176",
-    "comments": 0,
-    "createdAt": "2026-09-15T07:42:13Z",
-    "labels": [
-      "documentation",
-      "security"
-    ],
-    "language": "typescript",
-    "stars": 86298,
-    "foundAt": "2026-09-15T07:54:21.364Z"
-  },
-  {
-    "key": "manojmallick/sigmap#661",
-    "tier": 3,
-    "repo": "manojmallick/sigmap",
-    "number": 661,
-    "title": "docs: --help omits seven shipped commands; CLI docs drift (audit H3, plan D2/G05)",
-    "url": "https://github.com/manojmallick/sigmap/issues/661",
-    "comments": 0,
-    "createdAt": "2026-09-15T06:50:49Z",
-    "labels": [
-      "documentation",
-      "needs-docs"
-    ],
-    "language": "javascript",
-    "stars": 636,
-    "foundAt": "2026-09-15T07:54:24.161Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30431",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30431,
-    "title": "[Good First Issue] 🦊 Add new Learner Mistake 104 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30431",
-    "comments": 1,
-    "createdAt": "2026-09-15T01:34:31Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-15T01:36:25.542Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30430",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30430,
-    "title": "[Good First Issue] 🌸 Add new Example Sentence 30 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30430",
-    "comments": 1,
-    "createdAt": "2026-09-15T01:01:03Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-15T01:36:25.999Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30429",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30429,
-    "title": "[Good First Issue] 🎴 Add new Etiquette Tip 76 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30429",
-    "comments": 1,
-    "createdAt": "2026-09-15T00:34:34Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-15T01:36:26.213Z"
-  },
-  {
-    "key": "stdlib-js/stdlib#15228",
-    "tier": 1,
-    "repo": "stdlib-js/stdlib",
-    "number": 15228,
-    "title": "Fix JavaScript lint errors",
-    "url": "https://github.com/stdlib-js/stdlib/issues/15228",
-    "comments": 1,
-    "createdAt": "2026-09-15T00:10:37Z",
-    "labels": [
-      "Good First Issue"
-    ],
-    "language": "javascript",
-    "stars": 5957,
-    "foundAt": "2026-09-15T01:36:26.825Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30428",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30428,
-    "title": "[Good First Issue] 🗻 Add new False Friend Pair 119 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30428",
-    "comments": 1,
-    "createdAt": "2026-09-15T00:01:03Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-15T01:36:26.213Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30427",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30427,
-    "title": "[Good First Issue] 🍡 Add new Dialect Entry 44 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30427",
-    "comments": 1,
-    "createdAt": "2026-09-14T23:34:31Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-15T01:36:26.213Z"
-  },
-  {
-    "key": "webdriverio/webdriverio#15602",
-    "tier": 2,
-    "repo": "webdriverio/webdriverio",
-    "number": 15602,
-    "title": "Update archiver to v8",
-    "url": "https://github.com/webdriverio/webdriverio/issues/15602",
-    "comments": 2,
-    "createdAt": "2026-09-14T19:10:49Z",
-    "labels": [
-      "help wanted",
-      "good first pick"
-    ],
-    "language": "typescript",
-    "stars": 9835,
-    "foundAt": "2026-09-15T01:36:27.679Z"
   }
 ]
