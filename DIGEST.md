@@ -4,6 +4,11 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-17 | 🥇 | [ListFooter page length picker renders nothing: still passes the removed `buttons](https://github.com/frappe/frappe-ui/issues/1170) | `frappe/frappe-ui` | ⭐ 1.0k |
+| 2026-09-17 | 🥇 | [[Good First Issue] 🐡 Add new Japanese Proverb 173 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30499) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-17 | 🥇 | [[Good First Issue] 🍘 Add new Japan Fact 74 - Beginner-Friendly Open-source Cont](https://github.com/lingdojo/kana-dojo/issues/30497) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-17 | 🥇 | [Forward Ticket to External Third Party / Supplier in Frappe Helpdesk](https://github.com/frappe/helpdesk/issues/3774) | `frappe/helpdesk` | ⭐ 3.4k |
+| 2026-09-17 | 🥉 | [docs: geometry guide's "Coordinate Handling" predates `wasmRtcOffset`; federatio](https://github.com/LTplus-AG/ifc-lite/issues/4898) | `LTplus-AG/ifc-lite` | ⭐ 377 |
 | 2026-09-17 | 🥇 | [[Good First Issue] 🎏 Add new Theme: Tea Ceramic - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30496) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-17 | 🥈 | [One-command Keycloak demo stack so OIDC can be tried without reading the docs](https://github.com/libredb/libredb-studio/issues/941) | `libredb/libredb-studio` | ⭐ 754 |
 | 2026-09-17 | 🥈 | [Resolve seed connection passwords from HashiCorp Vault at connect time](https://github.com/libredb/libredb-studio/issues/937) | `libredb/libredb-studio` | ⭐ 754 |
@@ -99,8 +104,3 @@
 | 2026-09-15 | 🥇 | [[Good First Issue] 🗻 Add new False Friend Pair 119 - Beginner-Friendly Open-sou](https://github.com/lingdojo/kana-dojo/issues/30428) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-15 | 🥇 | [[Good First Issue] 🍡 Add new Dialect Entry 44 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30427) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-15 | 🥈 | [Update archiver to v8](https://github.com/webdriverio/webdriverio/issues/15602) | `webdriverio/webdriverio` | ⭐ 9.8k |
-| 2026-09-14 | 🥇 | [[Good First Issue] 🍵 Add new Japanese Idiom 73 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30426) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-14 | 🥇 | [[Good First Issue] 🍥 Add new Anime Quote 73 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30425) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-14 | 🥇 | [[Good First Issue] 🍛 Add new Grammar Point 91 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30424) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-14 | 🥇 | [Demo: dropping a file keeps the previous preset's model credits and thumbnail](https://github.com/xyz-tools/gcode-preview/issues/529) | `xyz-tools/gcode-preview` | ⭐ 202 |
-| 2026-09-14 | 🥇 | [[DOCS] tokens.mdx: `/-/ping` is not exempt from authentication; drop the "apart ](https://github.com/vltpkg/vltpkg/issues/1853) | `vltpkg/vltpkg` | ⭐ 552 |

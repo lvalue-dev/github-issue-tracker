@@ -1,5 +1,103 @@
 [
   {
+    "key": "frappe/frappe-ui#1170",
+    "tier": 1,
+    "repo": "frappe/frappe-ui",
+    "number": 1170,
+    "title": "ListFooter page length picker renders nothing: still passes the removed `buttons` prop to TabButtons",
+    "url": "https://github.com/frappe/frappe-ui/issues/1170",
+    "comments": 1,
+    "createdAt": "2026-09-17T05:10:27Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "ui",
+      "triaged"
+    ],
+    "language": "typescript",
+    "stars": 1026,
+    "foundAt": "2026-09-17T07:50:41.714Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30499",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30499,
+    "title": "[Good First Issue] 🐡 Add new Japanese Proverb 173 - Beginner-Friendly Open-source Contribution (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30499",
+    "comments": 1,
+    "createdAt": "2026-09-17T05:01:08Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-17T07:50:41.942Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30497",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30497,
+    "title": "[Good First Issue] 🍘 Add new Japan Fact 74 - Beginner-Friendly Open-source Contribution (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30497",
+    "comments": 1,
+    "createdAt": "2026-09-17T03:01:05Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-17T07:50:42.412Z"
+  },
+  {
+    "key": "frappe/helpdesk#3774",
+    "tier": 1,
+    "repo": "frappe/helpdesk",
+    "number": 3774,
+    "title": "Forward Ticket to External Third Party / Supplier in Frappe Helpdesk",
+    "url": "https://github.com/frappe/helpdesk/issues/3774",
+    "comments": 0,
+    "createdAt": "2026-09-16T20:04:25Z",
+    "labels": [
+      "good first issue"
+    ],
+    "language": "vue",
+    "stars": 3382,
+    "foundAt": "2026-09-17T07:50:44.086Z"
+  },
+  {
+    "key": "LTplus-AG/ifc-lite#4898",
+    "tier": 3,
+    "repo": "LTplus-AG/ifc-lite",
+    "number": 4898,
+    "title": "docs: geometry guide's \"Coordinate Handling\" predates `wasmRtcOffset`; federation guide doesn't mention the shared RTC frame",
+    "url": "https://github.com/LTplus-AG/ifc-lite/issues/4898",
+    "comments": 0,
+    "createdAt": "2026-09-17T07:39:03Z",
+    "labels": [
+      "documentation",
+      "ready"
+    ],
+    "language": "typescript",
+    "stars": 377,
+    "foundAt": "2026-09-17T07:50:45.492Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30496",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1843,110 +1941,5 @@
     "language": "typescript",
     "stars": 9835,
     "foundAt": "2026-09-15T01:36:27.679Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30426",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30426,
-    "title": "[Good First Issue] 🍵 Add new Japanese Idiom 73 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30426",
-    "comments": 1,
-    "createdAt": "2026-09-14T23:01:00Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-14T23:14:26.427Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30425",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30425,
-    "title": "[Good First Issue] 🍥 Add new Anime Quote 73 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30425",
-    "comments": 1,
-    "createdAt": "2026-09-14T22:34:30Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-14T23:14:26.847Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30424",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30424,
-    "title": "[Good First Issue] 🍛 Add new Grammar Point 91 - Beginner-Friendly Open-source Contribution",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30424",
-    "comments": 1,
-    "createdAt": "2026-09-14T22:01:04Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-14T23:14:26.847Z"
-  },
-  {
-    "key": "xyz-tools/gcode-preview#529",
-    "tier": 1,
-    "repo": "xyz-tools/gcode-preview",
-    "number": 529,
-    "title": "Demo: dropping a file keeps the previous preset's model credits and thumbnail",
-    "url": "https://github.com/xyz-tools/gcode-preview/issues/529",
-    "comments": 1,
-    "createdAt": "2026-09-14T21:54:44Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "demo"
-    ],
-    "language": "typescript",
-    "stars": 202,
-    "foundAt": "2026-09-14T23:14:26.847Z"
-  },
-  {
-    "key": "vltpkg/vltpkg#1853",
-    "tier": 1,
-    "repo": "vltpkg/vltpkg",
-    "number": 1853,
-    "title": "[DOCS] tokens.mdx: `/-/ping` is not exempt from authentication; drop the \"apart from the health check\" phrase",
-    "url": "https://github.com/vltpkg/vltpkg/issues/1853",
-    "comments": 0,
-    "createdAt": "2026-09-14T21:48:51Z",
-    "labels": [
-      "documentation",
-      "good-first-issue",
-      "registry"
-    ],
-    "language": "typescript",
-    "stars": 552,
-    "foundAt": "2026-09-14T23:14:27.015Z"
   }
 ]
