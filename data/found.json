@@ -1,5 +1,353 @@
 [
   {
+    "key": "felladrin/MiniSearch#2670",
+    "tier": 1,
+    "repo": "felladrin/MiniSearch",
+    "number": 2670,
+    "title": "Clear all three history tables when the user clears search history",
+    "url": "https://github.com/felladrin/MiniSearch/issues/2670",
+    "comments": 0,
+    "createdAt": "2026-09-17T21:17:21Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "security"
+    ],
+    "language": "typescript",
+    "stars": 587,
+    "foundAt": "2026-09-17T21:34:26.040Z"
+  },
+  {
+    "key": "felladrin/MiniSearch#2669",
+    "tier": 1,
+    "repo": "felladrin/MiniSearch",
+    "number": 2669,
+    "title": "Give the icon-only buttons accessible names",
+    "url": "https://github.com/felladrin/MiniSearch/issues/2669",
+    "comments": 0,
+    "createdAt": "2026-09-17T21:17:20Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 587,
+    "foundAt": "2026-09-17T21:34:26.040Z"
+  },
+  {
+    "key": "felladrin/MiniSearch#2668",
+    "tier": 1,
+    "repo": "felladrin/MiniSearch",
+    "number": 2668,
+    "title": "Use getDefaultChatMessages in the internal-API and wllama paths",
+    "url": "https://github.com/felladrin/MiniSearch/issues/2668",
+    "comments": 0,
+    "createdAt": "2026-09-17T21:17:18Z",
+    "labels": [
+      "enhancement",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 587,
+    "foundAt": "2026-09-17T21:34:26.040Z"
+  },
+  {
+    "key": "felladrin/MiniSearch#2667",
+    "tier": 1,
+    "repo": "felladrin/MiniSearch",
+    "number": 2667,
+    "title": "Unsubscribe the settings listener once the model-download gate resolves",
+    "url": "https://github.com/felladrin/MiniSearch/issues/2667",
+    "comments": 0,
+    "createdAt": "2026-09-17T21:17:17Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 587,
+    "foundAt": "2026-09-17T21:34:26.040Z"
+  },
+  {
+    "key": "felladrin/MiniSearch#2666",
+    "tier": 1,
+    "repo": "felladrin/MiniSearch",
+    "number": 2666,
+    "title": "Key chat messages by their position, not by their first 50 characters",
+    "url": "https://github.com/felladrin/MiniSearch/issues/2666",
+    "comments": 0,
+    "createdAt": "2026-09-17T21:17:15Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "performance"
+    ],
+    "language": "typescript",
+    "stars": 587,
+    "foundAt": "2026-09-17T21:34:26.040Z"
+  },
+  {
+    "key": "felladrin/MiniSearch#2665",
+    "tier": 1,
+    "repo": "felladrin/MiniSearch",
+    "number": 2665,
+    "title": "Add the missing getTextSearchStale to the answer eval's pubSub mock",
+    "url": "https://github.com/felladrin/MiniSearch/issues/2665",
+    "comments": 0,
+    "createdAt": "2026-09-17T21:17:08Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "test"
+    ],
+    "language": "typescript",
+    "stars": 587,
+    "foundAt": "2026-09-17T21:34:26.040Z"
+  },
+  {
+    "key": "felladrin/MiniSearch#2664",
+    "tier": 1,
+    "repo": "felladrin/MiniSearch",
+    "number": 2664,
+    "title": "Make two server tests able to fail",
+    "url": "https://github.com/felladrin/MiniSearch/issues/2664",
+    "comments": 0,
+    "createdAt": "2026-09-17T21:17:06Z",
+    "labels": [
+      "good first issue",
+      "test"
+    ],
+    "language": "typescript",
+    "stars": 587,
+    "foundAt": "2026-09-17T21:34:26.040Z"
+  },
+  {
+    "key": "felladrin/MiniSearch#2663",
+    "tier": 1,
+    "repo": "felladrin/MiniSearch",
+    "number": 2663,
+    "title": "Upload the license report on failure, and type-check the e2e suite",
+    "url": "https://github.com/felladrin/MiniSearch/issues/2663",
+    "comments": 0,
+    "createdAt": "2026-09-17T21:17:04Z",
+    "labels": [
+      "enhancement",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 587,
+    "foundAt": "2026-09-17T21:34:26.040Z"
+  },
+  {
+    "key": "felladrin/MiniSearch#2662",
+    "tier": 1,
+    "repo": "felladrin/MiniSearch",
+    "number": 2662,
+    "title": "Correct the Docker and CI claims in the development guide",
+    "url": "https://github.com/felladrin/MiniSearch/issues/2662",
+    "comments": 0,
+    "createdAt": "2026-09-17T21:17:03Z",
+    "labels": [
+      "good first issue",
+      "documentation"
+    ],
+    "language": "typescript",
+    "stars": 587,
+    "foundAt": "2026-09-17T21:34:26.040Z"
+  },
+  {
+    "key": "felladrin/MiniSearch#2661",
+    "tier": 1,
+    "repo": "felladrin/MiniSearch",
+    "number": 2661,
+    "title": "Fix two stale facts in the configuration reference",
+    "url": "https://github.com/felladrin/MiniSearch/issues/2661",
+    "comments": 0,
+    "createdAt": "2026-09-17T21:17:01Z",
+    "labels": [
+      "good first issue",
+      "documentation"
+    ],
+    "language": "typescript",
+    "stars": 587,
+    "foundAt": "2026-09-17T21:34:26.040Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30531",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30531,
+    "title": "[Good First Issue] 🐉 Add new Japanese Proverb 178 - Beginner-Friendly Open-source Contribution (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30531",
+    "comments": 1,
+    "createdAt": "2026-09-17T21:01:01Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-17T21:34:26.040Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30530",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30530,
+    "title": "[Good First Issue] 🎑 Add new Japan Fact 258 - Beginner-Friendly Open-source Contribution (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30530",
+    "comments": 1,
+    "createdAt": "2026-09-17T20:57:31Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-17T21:34:26.040Z"
+  },
+  {
+    "key": "felladrin/MiniSearch#2659",
+    "tier": 1,
+    "repo": "felladrin/MiniSearch",
+    "number": 2659,
+    "title": "Answer an invalid search token with a page a person can read",
+    "url": "https://github.com/felladrin/MiniSearch/issues/2659",
+    "comments": 0,
+    "createdAt": "2026-09-17T20:44:46Z",
+    "labels": [
+      "enhancement",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 587,
+    "foundAt": "2026-09-17T21:34:26.040Z"
+  },
+  {
+    "key": "felladrin/MiniSearch#2658",
+    "tier": 1,
+    "repo": "felladrin/MiniSearch",
+    "number": 2658,
+    "title": "Split the reranker counters by search type",
+    "url": "https://github.com/felladrin/MiniSearch/issues/2658",
+    "comments": 0,
+    "createdAt": "2026-09-17T20:44:40Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "performance"
+    ],
+    "language": "typescript",
+    "stars": 587,
+    "foundAt": "2026-09-17T21:34:26.040Z"
+  },
+  {
+    "key": "felladrin/MiniSearch#2657",
+    "tier": 1,
+    "repo": "felladrin/MiniSearch",
+    "number": 2657,
+    "title": "Split the page-read httpError counter by status class",
+    "url": "https://github.com/felladrin/MiniSearch/issues/2657",
+    "comments": 0,
+    "createdAt": "2026-09-17T20:44:38Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 587,
+    "foundAt": "2026-09-17T21:34:26.040Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30523",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30523,
+    "title": "[Good First Issue] 🥟 Add new Learner Mistake 13 - Beginner-Friendly Open-source Contribution (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30523",
+    "comments": 1,
+    "createdAt": "2026-09-17T18:57:28Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-17T21:34:27.479Z"
+  },
+  {
+    "key": "felladrin/MiniSearch#2660",
+    "tier": 2,
+    "repo": "felladrin/MiniSearch",
+    "number": 2660,
+    "title": "Stop re-fetching pages from a host that just refused",
+    "url": "https://github.com/felladrin/MiniSearch/issues/2660",
+    "comments": 0,
+    "createdAt": "2026-09-17T20:44:47Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "performance"
+    ],
+    "language": "typescript",
+    "stars": 587,
+    "foundAt": "2026-09-17T21:34:28.394Z"
+  },
+  {
+    "key": "felladrin/MiniSearch#2656",
+    "tier": 2,
+    "repo": "felladrin/MiniSearch",
+    "number": 2656,
+    "title": "Fuse the bi-encoder scores in the production page-content path",
+    "url": "https://github.com/felladrin/MiniSearch/issues/2656",
+    "comments": 0,
+    "createdAt": "2026-09-17T20:44:37Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "performance"
+    ],
+    "language": "typescript",
+    "stars": 587,
+    "foundAt": "2026-09-17T21:34:28.394Z"
+  },
+  {
+    "key": "maillab/cloud-mail#581",
+    "tier": 2,
+    "repo": "maillab/cloud-mail",
+    "number": 581,
+    "title": "[Help] 可以接收邮件，无法发送邮件。",
+    "url": "https://github.com/maillab/cloud-mail/issues/581",
+    "comments": 0,
+    "createdAt": "2026-09-17T19:43:47Z",
+    "labels": [
+      "help wanted"
+    ],
+    "language": "javascript",
+    "stars": 14241,
+    "foundAt": "2026-09-17T21:34:29.098Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30521",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1520,359 +1868,5 @@
     "language": "typescript",
     "stars": 2821,
     "foundAt": "2026-09-16T00:33:40.617Z"
-  },
-  {
-    "key": "processing/p5.js#9180",
-    "tier": 2,
-    "repo": "processing/p5.js",
-    "number": 9180,
-    "title": "[p5.js 2.0+ Bug Report]: strands breaking on arrow functions with parameters",
-    "url": "https://github.com/processing/p5.js/issues/9180",
-    "comments": 0,
-    "createdAt": "2026-09-16T00:09:24Z",
-    "labels": [
-      "Help Wanted",
-      "p5.js 2.0+",
-      "p5.strands",
-      "Technical Initiative"
-    ],
-    "language": "javascript",
-    "stars": 23988,
-    "foundAt": "2026-09-16T00:33:42.108Z"
-  },
-  {
-    "key": "processing/p5.js#9178",
-    "tier": 2,
-    "repo": "processing/p5.js",
-    "number": 9178,
-    "title": "[p5.js 2.0+ Bug Report]: strands not handling comma operator (common in minified js)",
-    "url": "https://github.com/processing/p5.js/issues/9178",
-    "comments": 0,
-    "createdAt": "2026-09-15T23:41:50Z",
-    "labels": [
-      "Help Wanted",
-      "p5.js 2.0+",
-      "p5.strands",
-      "Technical Initiative"
-    ],
-    "language": "javascript",
-    "stars": 23988,
-    "foundAt": "2026-09-16T00:33:42.108Z"
-  },
-  {
-    "key": "huggingface/agents-course#746",
-    "tier": 3,
-    "repo": "huggingface/agents-course",
-    "number": 746,
-    "title": "[UPDATE] Fix Quiz displays “You got all the answers!” after each question",
-    "url": "https://github.com/huggingface/agents-course/issues/746",
-    "comments": 0,
-    "createdAt": "2026-09-15T22:52:32Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "mdx",
-    "stars": 32568,
-    "foundAt": "2026-09-16T00:33:45.020Z"
-  },
-  {
-    "key": "libredb/libredb-studio#853",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 853,
-    "title": "docs: nothing tells a team of three or more that per-person logins and workspaces already work",
-    "url": "https://github.com/libredb/libredb-studio/issues/853",
-    "comments": 0,
-    "createdAt": "2026-09-15T21:24:55Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 754,
-    "foundAt": "2026-09-15T21:32:53.654Z"
-  },
-  {
-    "key": "libredb/libredb-studio#850",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 850,
-    "title": "docs/OIDC.md: Keycloak realm roles are not in the ID token by default, so a deployment that follows the doc has no admin",
-    "url": "https://github.com/libredb/libredb-studio/issues/850",
-    "comments": 0,
-    "createdAt": "2026-09-15T21:19:48Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "help wanted",
-      "security"
-    ],
-    "language": "typescript",
-    "stars": 754,
-    "foundAt": "2026-09-15T21:32:53.933Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30468",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30468,
-    "title": "[Good First Issue] 🌋 Add new Theme: Hanami Pink - Beginner-Friendly Open-source Contribution (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30468",
-    "comments": 1,
-    "createdAt": "2026-09-15T21:01:05Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-15T21:32:54.486Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30467",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30467,
-    "title": "[Good First Issue] 🪭 Add new Community Note Line #1 - Beginner-Friendly Open-source Contribution (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30467",
-    "comments": 1,
-    "createdAt": "2026-09-15T19:01:01Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-15T21:32:56.171Z"
-  },
-  {
-    "key": "SAPTARSHI-coder/EaseMotion-css#89386",
-    "tier": 1,
-    "repo": "SAPTARSHI-coder/EaseMotion-css",
-    "number": 89386,
-    "title": "[BUG] Navigation bar buttons alignment is not good and professional",
-    "url": "https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/89386",
-    "comments": 3,
-    "createdAt": "2026-09-14T19:23:13Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "good first issue",
-      "GSSoC-26",
-      "gssoc:approved",
-      "level:intermediate",
-      "type:feature"
-    ],
-    "language": "css",
-    "stars": 266,
-    "foundAt": "2026-09-15T21:32:57.214Z"
-  },
-  {
-    "key": "libredb/libredb-studio#852",
-    "tier": 2,
-    "repo": "libredb/libredb-studio",
-    "number": 852,
-    "title": "Every OIDC sign-in failure renders the same message, and the login route classifies every cause as oidc_config",
-    "url": "https://github.com/libredb/libredb-studio/issues/852",
-    "comments": 0,
-    "createdAt": "2026-09-15T21:20:00Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "security"
-    ],
-    "language": "typescript",
-    "stars": 754,
-    "foundAt": "2026-09-15T21:32:58.084Z"
-  },
-  {
-    "key": "libredb/libredb-studio#851",
-    "tier": 2,
-    "repo": "libredb/libredb-studio",
-    "number": 851,
-    "title": "Admin Audit tab silently omits every denial recorded by src/proxy.ts",
-    "url": "https://github.com/libredb/libredb-studio/issues/851",
-    "comments": 0,
-    "createdAt": "2026-09-15T21:19:55Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "security"
-    ],
-    "language": "typescript",
-    "stars": 754,
-    "foundAt": "2026-09-15T21:32:58.084Z"
-  },
-  {
-    "key": "meshery/meshery#21976",
-    "tier": 2,
-    "repo": "meshery/meshery",
-    "number": 21976,
-    "title": "[Docs] Update obsolete command categories and remove deprecated `mesh`/`app` commands in `working-with-mesheryctl.md`",
-    "url": "https://github.com/meshery/meshery/issues/21976",
-    "comments": 2,
-    "createdAt": "2026-09-15T20:59:34Z",
-    "labels": [
-      "help wanted",
-      "area/docs",
-      "language/markdown",
-      "framework/hugo"
-    ],
-    "language": "typescript",
-    "stars": 11744,
-    "foundAt": "2026-09-15T21:32:58.085Z"
-  },
-  {
-    "key": "Doezer/Questarr#1035",
-    "tier": 2,
-    "repo": "Doezer/Questarr",
-    "number": 1035,
-    "title": "Indexer categories outside 40xx/10xx are silently dropped from searches",
-    "url": "https://github.com/Doezer/Questarr/issues/1035",
-    "comments": 1,
-    "createdAt": "2026-09-15T20:04:24Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "priority:medium",
-      "area:api"
-    ],
-    "language": "typescript",
-    "stars": 642,
-    "foundAt": "2026-09-15T21:32:58.637Z"
-  },
-  {
-    "key": "manojmallick/sigmap#708",
-    "tier": 3,
-    "repo": "manojmallick/sigmap",
-    "number": 708,
-    "title": "docs: config reference documents three keys that do nothing (enrichTodos/enrichChanges/enrichCoverage) and omits nine that work",
-    "url": "https://github.com/manojmallick/sigmap/issues/708",
-    "comments": 0,
-    "createdAt": "2026-09-15T21:14:18Z",
-    "labels": [
-      "documentation",
-      "needs-docs"
-    ],
-    "language": "javascript",
-    "stars": 636,
-    "foundAt": "2026-09-15T21:33:01.920Z"
-  },
-  {
-    "key": "manojmallick/sigmap#705",
-    "tier": 3,
-    "repo": "manojmallick/sigmap",
-    "number": 705,
-    "title": "governance: SUCCESSION.md, org migration and public ADRs (plan G2/G6) are the last unbuilt Phase-1 items",
-    "url": "https://github.com/manojmallick/sigmap/issues/705",
-    "comments": 0,
-    "createdAt": "2026-09-15T20:59:28Z",
-    "labels": [
-      "documentation",
-      "chore"
-    ],
-    "language": "javascript",
-    "stars": 636,
-    "foundAt": "2026-09-15T21:33:01.920Z"
-  },
-  {
-    "key": "manojmallick/sigmap#700",
-    "tier": 3,
-    "repo": "manojmallick/sigmap",
-    "number": 700,
-    "title": "docs: methodology.md is unreachable from the sidebar; cli.md omits explain/sync/run",
-    "url": "https://github.com/manojmallick/sigmap/issues/700",
-    "comments": 0,
-    "createdAt": "2026-09-15T20:57:32Z",
-    "labels": [
-      "documentation",
-      "needs-docs"
-    ],
-    "language": "javascript",
-    "stars": 636,
-    "foundAt": "2026-09-15T21:33:01.920Z"
-  },
-  {
-    "key": "manojmallick/sigmap#699",
-    "tier": 3,
-    "repo": "manojmallick/sigmap",
-    "number": 699,
-    "title": "docs: undeployed legacy docs/ site still ships sitemap + Search Console verification with 29-language counts",
-    "url": "https://github.com/manojmallick/sigmap/issues/699",
-    "comments": 0,
-    "createdAt": "2026-09-15T20:57:06Z",
-    "labels": [
-      "documentation",
-      "needs-docs"
-    ],
-    "language": "javascript",
-    "stars": 636,
-    "foundAt": "2026-09-15T21:33:01.920Z"
-  },
-  {
-    "key": "manojmallick/sigmap#697",
-    "tier": 3,
-    "repo": "manojmallick/sigmap",
-    "number": 697,
-    "title": "docs: README says 33 and 35 languages ten lines apart; anchor claim false for 5 languages; 4 languages missing from tier table",
-    "url": "https://github.com/manojmallick/sigmap/issues/697",
-    "comments": 0,
-    "createdAt": "2026-09-15T20:56:33Z",
-    "labels": [
-      "documentation",
-      "needs-docs"
-    ],
-    "language": "javascript",
-    "stars": 636,
-    "foundAt": "2026-09-15T21:33:01.920Z"
-  },
-  {
-    "key": "getsentry/sentry-docs#19438",
-    "tier": 3,
-    "repo": "getsentry/sentry-docs",
-    "number": 19438,
-    "title": "Document Android network-event breadcrumb configuration",
-    "url": "https://github.com/getsentry/sentry-docs/issues/19438",
-    "comments": 1,
-    "createdAt": "2026-09-15T20:53:23Z",
-    "labels": [
-      "SDKs",
-      "Platform: Android",
-      "Docs"
-    ],
-    "language": "mdx",
-    "stars": 445,
-    "foundAt": "2026-09-15T21:33:03.940Z"
-  },
-  {
-    "key": "CopilotKit/CopilotKit#7158",
-    "tier": 1,
-    "repo": "CopilotKit/CopilotKit",
-    "number": 7158,
-    "title": "🐛 Bug: input and header slots reject plain FCs (same defect as #7126)",
-    "url": "https://github.com/CopilotKit/CopilotKit/issues/7158",
-    "comments": 1,
-    "createdAt": "2026-09-15T15:11:10Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 37282,
-    "foundAt": "2026-09-15T18:18:40.232Z"
   }
 ]

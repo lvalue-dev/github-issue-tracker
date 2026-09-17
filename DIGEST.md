@@ -4,6 +4,25 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-17 | 🥇 | [Clear all three history tables when the user clears search history](https://github.com/felladrin/MiniSearch/issues/2670) | `felladrin/MiniSearch` | ⭐ 587 |
+| 2026-09-17 | 🥇 | [Give the icon-only buttons accessible names](https://github.com/felladrin/MiniSearch/issues/2669) | `felladrin/MiniSearch` | ⭐ 587 |
+| 2026-09-17 | 🥇 | [Use getDefaultChatMessages in the internal-API and wllama paths](https://github.com/felladrin/MiniSearch/issues/2668) | `felladrin/MiniSearch` | ⭐ 587 |
+| 2026-09-17 | 🥇 | [Unsubscribe the settings listener once the model-download gate resolves](https://github.com/felladrin/MiniSearch/issues/2667) | `felladrin/MiniSearch` | ⭐ 587 |
+| 2026-09-17 | 🥇 | [Key chat messages by their position, not by their first 50 characters](https://github.com/felladrin/MiniSearch/issues/2666) | `felladrin/MiniSearch` | ⭐ 587 |
+| 2026-09-17 | 🥇 | [Add the missing getTextSearchStale to the answer eval's pubSub mock](https://github.com/felladrin/MiniSearch/issues/2665) | `felladrin/MiniSearch` | ⭐ 587 |
+| 2026-09-17 | 🥇 | [Make two server tests able to fail](https://github.com/felladrin/MiniSearch/issues/2664) | `felladrin/MiniSearch` | ⭐ 587 |
+| 2026-09-17 | 🥇 | [Upload the license report on failure, and type-check the e2e suite](https://github.com/felladrin/MiniSearch/issues/2663) | `felladrin/MiniSearch` | ⭐ 587 |
+| 2026-09-17 | 🥇 | [Correct the Docker and CI claims in the development guide](https://github.com/felladrin/MiniSearch/issues/2662) | `felladrin/MiniSearch` | ⭐ 587 |
+| 2026-09-17 | 🥇 | [Fix two stale facts in the configuration reference](https://github.com/felladrin/MiniSearch/issues/2661) | `felladrin/MiniSearch` | ⭐ 587 |
+| 2026-09-17 | 🥇 | [[Good First Issue] 🐉 Add new Japanese Proverb 178 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30531) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-17 | 🥇 | [[Good First Issue] 🎑 Add new Japan Fact 258 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30530) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-17 | 🥇 | [Answer an invalid search token with a page a person can read](https://github.com/felladrin/MiniSearch/issues/2659) | `felladrin/MiniSearch` | ⭐ 587 |
+| 2026-09-17 | 🥇 | [Split the reranker counters by search type](https://github.com/felladrin/MiniSearch/issues/2658) | `felladrin/MiniSearch` | ⭐ 587 |
+| 2026-09-17 | 🥇 | [Split the page-read httpError counter by status class](https://github.com/felladrin/MiniSearch/issues/2657) | `felladrin/MiniSearch` | ⭐ 587 |
+| 2026-09-17 | 🥇 | [[Good First Issue] 🥟 Add new Learner Mistake 13 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30523) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-17 | 🥈 | [Stop re-fetching pages from a host that just refused](https://github.com/felladrin/MiniSearch/issues/2660) | `felladrin/MiniSearch` | ⭐ 587 |
+| 2026-09-17 | 🥈 | [Fuse the bi-encoder scores in the production page-content path](https://github.com/felladrin/MiniSearch/issues/2656) | `felladrin/MiniSearch` | ⭐ 587 |
+| 2026-09-17 | 🥈 | [[Help] 可以接收邮件，无法发送邮件。](https://github.com/maillab/cloud-mail/issues/581) | `maillab/cloud-mail` | ⭐ 14.2k |
 | 2026-09-17 | 🥇 | [[Good First Issue] 🎌 Add new Example Sentence 70 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30521) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-17 | 🥇 | [[Good First Issue] 🍁 Add new Etiquette Tip 13 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30520) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-17 | 🥇 | [Automatically sync wallet balance on dashboard](https://github.com/zonelessdev/zoneless/issues/150) | `zonelessdev/zoneless` | ⭐ 535 |
@@ -85,22 +104,3 @@
 | 2026-09-16 | 🥈 | [[Good First Issue] 🎍 Add new Japanese Proverb 17 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30472) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-16 | 🥇 | [[Good First Issue] 🎐 Add new Japan Fact 213 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30469) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-16 | 🥇 | [agente: o motivo do "Publicar" desabilitado só aparece ao passar o mouse](https://github.com/melgarafael/DeskcommCRM/issues/951) | `melgarafael/DeskcommCRM` | ⭐ 2.8k |
-| 2026-09-16 | 🥈 | [[p5.js 2.0+ Bug Report]: strands breaking on arrow functions with parameters](https://github.com/processing/p5.js/issues/9180) | `processing/p5.js` | ⭐ 24.0k |
-| 2026-09-16 | 🥈 | [[p5.js 2.0+ Bug Report]: strands not handling comma operator (common in minified](https://github.com/processing/p5.js/issues/9178) | `processing/p5.js` | ⭐ 24.0k |
-| 2026-09-16 | 🥉 | [[UPDATE] Fix Quiz displays “You got all the answers!” after each question](https://github.com/huggingface/agents-course/issues/746) | `huggingface/agents-course` | ⭐ 32.6k |
-| 2026-09-15 | 🥇 | [docs: nothing tells a team of three or more that per-person logins and workspace](https://github.com/libredb/libredb-studio/issues/853) | `libredb/libredb-studio` | ⭐ 754 |
-| 2026-09-15 | 🥇 | [docs/OIDC.md: Keycloak realm roles are not in the ID token by default, so a depl](https://github.com/libredb/libredb-studio/issues/850) | `libredb/libredb-studio` | ⭐ 754 |
-| 2026-09-15 | 🥇 | [[Good First Issue] 🌋 Add new Theme: Hanami Pink - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30468) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-15 | 🥇 | [[Good First Issue] 🪭 Add new Community Note Line #1 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30467) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-15 | 🥇 | [[BUG] Navigation bar buttons alignment is not good and professional](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/89386) | `SAPTARSHI-coder/EaseMotion-css` | ⭐ 266 |
-| 2026-09-15 | 🥈 | [Every OIDC sign-in failure renders the same message, and the login route classif](https://github.com/libredb/libredb-studio/issues/852) | `libredb/libredb-studio` | ⭐ 754 |
-| 2026-09-15 | 🥈 | [Admin Audit tab silently omits every denial recorded by src/proxy.ts](https://github.com/libredb/libredb-studio/issues/851) | `libredb/libredb-studio` | ⭐ 754 |
-| 2026-09-15 | 🥈 | [[Docs] Update obsolete command categories and remove deprecated `mesh`/`app` com](https://github.com/meshery/meshery/issues/21976) | `meshery/meshery` | ⭐ 11.7k |
-| 2026-09-15 | 🥈 | [Indexer categories outside 40xx/10xx are silently dropped from searches](https://github.com/Doezer/Questarr/issues/1035) | `Doezer/Questarr` | ⭐ 642 |
-| 2026-09-15 | 🥉 | [docs: config reference documents three keys that do nothing (enrichTodos/enrichC](https://github.com/manojmallick/sigmap/issues/708) | `manojmallick/sigmap` | ⭐ 636 |
-| 2026-09-15 | 🥉 | [governance: SUCCESSION.md, org migration and public ADRs (plan G2/G6) are the la](https://github.com/manojmallick/sigmap/issues/705) | `manojmallick/sigmap` | ⭐ 636 |
-| 2026-09-15 | 🥉 | [docs: methodology.md is unreachable from the sidebar; cli.md omits explain/sync/](https://github.com/manojmallick/sigmap/issues/700) | `manojmallick/sigmap` | ⭐ 636 |
-| 2026-09-15 | 🥉 | [docs: undeployed legacy docs/ site still ships sitemap + Search Console verifica](https://github.com/manojmallick/sigmap/issues/699) | `manojmallick/sigmap` | ⭐ 636 |
-| 2026-09-15 | 🥉 | [docs: README says 33 and 35 languages ten lines apart; anchor claim false for 5 ](https://github.com/manojmallick/sigmap/issues/697) | `manojmallick/sigmap` | ⭐ 636 |
-| 2026-09-15 | 🥉 | [Document Android network-event breadcrumb configuration](https://github.com/getsentry/sentry-docs/issues/19438) | `getsentry/sentry-docs` | ⭐ 445 |
-| 2026-09-15 | 🥇 | [🐛 Bug: input and header slots reject plain FCs (same defect as #7126)](https://github.com/CopilotKit/CopilotKit/issues/7158) | `CopilotKit/CopilotKit` | ⭐ 37.3k |
