@@ -4,6 +4,18 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-18 | 🥇 | [[Good First Issue] 🧧 Add new Japanese Proverb 157 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30546) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-18 | 🥇 | [O .gitignore não protege os dois artefatos que o próprio kit cria (.update.lock ](https://github.com/melgarafael/DeskcommCRM/issues/1150) | `melgarafael/DeskcommCRM` | ⭐ 2.8k |
+| 2026-09-18 | 🥇 | [[Good First Issue] 🌸 Add new Japan Fact 63 - Beginner-Friendly Open-source Cont](https://github.com/lingdojo/kana-dojo/issues/30545) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-18 | 🥇 | [[Good First Issue] 🎏 Add new Theme: School Uniform - Beginner-Friendly Open-sou](https://github.com/lingdojo/kana-dojo/issues/30544) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-18 | 🥇 | [[Good First Issue] 🎑 Add new Community Note Line #4 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30543) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-18 | 🥇 | [[Good First Issue] 🍚 Add new Wallpaper URL #5 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30542) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-18 | 🥇 | [[Good First Issue] 🏮 Add new Learner Mistake 88 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30541) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-18 | 🥇 | [[Good First Issue] 🍘 Add new Example Sentence 97 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30540) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-18 | 🥇 | [[Good First Issue] 🌊 Add new Etiquette Tip 23 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30539) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-18 | 🥇 | [[Good First Issue] 🍶 Add new False Friend Pair 97 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30538) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-18 | 🥈 | [Move `update-dependents-coun` step out of the release script](https://github.com/prettier/prettier/issues/20099) | `prettier/prettier` | ⭐ 52.3k |
+| 2026-09-18 | 🥉 | [Document versioned OpenRosa manifest](https://github.com/getodk/central/issues/2256) | `getodk/central` | ⭐ 227 |
 | 2026-09-18 | 🥇 | [[Good First Issue] 🍣 Add new Dialect Entry 68 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30537) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-18 | 🥇 | [[Good First Issue] 🍡 Add new Japanese Idiom 77 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30536) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-18 | 🥇 | [[Bug]: Follow change request templates ignores GitLab and Azure DevOps templates](https://github.com/pingdotgg/t3code/issues/12330) | `pingdotgg/t3code` | ⭐ 23.0k |
@@ -92,15 +104,3 @@
 | 2026-09-16 | 🥉 | [when run quikstart return unexpected version](https://github.com/paperclipai/paperclip/issues/13540) | `paperclipai/paperclip` | ⭐ 80.8k |
 | 2026-09-16 | 🥉 | [[Documentation Change Request]: Overview page describes pre-2.5 firmware behavio](https://github.com/meshtastic/meshtastic/issues/2706) | `meshtastic/meshtastic` | ⭐ 2.2k |
 | 2026-09-16 | 🥉 | [[DOC] Fix broken Tutorial link under Next Steps](https://github.com/refinedev/refine/issues/7608) | `refinedev/refine` | ⭐ 35.7k |
-| 2026-09-16 | 🥉 | [[agent] simplify v1 WP-07: closeout: acceptance scenarios, e2e for the mouse pat](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3858) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
-| 2026-09-16 | 🥉 | [[agent] email-ready v1 WP-06: connection-report CLI: connections by state, reaso](https://github.com/KeepSoftwareSimple/compass-calendar/issues/3847) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
-| 2026-09-16 | 🥇 | [Export transactions to CSV from dashboard](https://github.com/zonelessdev/zoneless/issues/143) | `zonelessdev/zoneless` | ⭐ 535 |
-| 2026-09-16 | 🥇 | [Unwanted initial heading for 2026-08-28 blog article](https://github.com/kubernetes/website/issues/57558) | `kubernetes/website` | ⭐ 5.4k |
-| 2026-09-16 | 🥈 | [Flaky on windows-latest: packaging-standalone-zip tests time out at bun's 5000ms](https://github.com/libredb/libredb-studio/issues/898) | `libredb/libredb-studio` | ⭐ 754 |
-| 2026-09-16 | 🥈 | [Regression in v3.9.7](https://github.com/prettier/prettier/issues/20083) | `prettier/prettier` | ⭐ 52.2k |
-| 2026-09-16 | 🥈 | [[🐛 Bug]: ChromeDriver extraction is incomplete in WebdriverIO 9.30.0 on Linux A](https://github.com/webdriverio/webdriverio/issues/15608) | `webdriverio/webdriverio` | ⭐ 9.8k |
-| 2026-09-16 | 🥈 | [prettier fails to parse now required less format for at rule variables](https://github.com/prettier/prettier/issues/20076) | `prettier/prettier` | ⭐ 52.2k |
-| 2026-09-16 | 🥇 | [Update Project Profile: HackforLA Site](https://github.com/hackforla/website/issues/8789) | `hackforla/website` | ⭐ 363 |
-| 2026-09-16 | 🥇 | [Data Profiler shows the numeric icon on every column regardless of type](https://github.com/libredb/libredb-studio/issues/880) | `libredb/libredb-studio` | ⭐ 754 |
-| 2026-09-16 | 🥇 | [Code Generator modal does not close on Escape while Data Profiler does](https://github.com/libredb/libredb-studio/issues/879) | `libredb/libredb-studio` | ⭐ 754 |
-| 2026-09-16 | 🥇 | [Schema explorer table menu button has no accessible name](https://github.com/libredb/libredb-studio/issues/878) | `libredb/libredb-studio` | ⭐ 754 |

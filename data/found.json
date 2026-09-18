@@ -1,5 +1,264 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30546",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30546,
+    "title": "[Good First Issue] 🧧 Add new Japanese Proverb 157 - Beginner-Friendly Open-source Contribution (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30546",
+    "comments": 1,
+    "createdAt": "2026-09-18T05:01:01Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-18T06:05:03.290Z"
+  },
+  {
+    "key": "melgarafael/DeskcommCRM#1150",
+    "tier": 1,
+    "repo": "melgarafael/DeskcommCRM",
+    "number": 1150,
+    "title": "O .gitignore não protege os dois artefatos que o próprio kit cria (.update.lock e .deskcomm-site-url-avisado)",
+    "url": "https://github.com/melgarafael/DeskcommCRM/issues/1150",
+    "comments": 0,
+    "createdAt": "2026-09-18T04:15:11Z",
+    "labels": [
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 2821,
+    "foundAt": "2026-09-18T06:05:03.290Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30545",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30545,
+    "title": "[Good First Issue] 🌸 Add new Japan Fact 63 - Beginner-Friendly Open-source Contribution (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30545",
+    "comments": 1,
+    "createdAt": "2026-09-18T04:00:58Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-18T06:05:03.290Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30544",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30544,
+    "title": "[Good First Issue] 🎏 Add new Theme: School Uniform - Beginner-Friendly Open-source Contribution (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30544",
+    "comments": 1,
+    "createdAt": "2026-09-18T03:57:29Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-18T06:05:03.290Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30543",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30543,
+    "title": "[Good First Issue] 🎑 Add new Community Note Line #4 - Beginner-Friendly Open-source Contribution (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30543",
+    "comments": 1,
+    "createdAt": "2026-09-18T03:01:05Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-18T06:05:03.290Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30542",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30542,
+    "title": "[Good First Issue] 🍚 Add new Wallpaper URL #5 - Beginner-Friendly Open-source Contribution (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30542",
+    "comments": 1,
+    "createdAt": "2026-09-18T02:57:34Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-18T06:05:03.290Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30541",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30541,
+    "title": "[Good First Issue] 🏮 Add new Learner Mistake 88 - Beginner-Friendly Open-source Contribution (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30541",
+    "comments": 1,
+    "createdAt": "2026-09-18T02:01:04Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-18T06:05:03.602Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30540",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30540,
+    "title": "[Good First Issue] 🍘 Add new Example Sentence 97 - Beginner-Friendly Open-source Contribution (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30540",
+    "comments": 1,
+    "createdAt": "2026-09-18T01:58:05Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-18T06:05:03.602Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30539",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30539,
+    "title": "[Good First Issue] 🌊 Add new Etiquette Tip 23 - Beginner-Friendly Open-source Contribution (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30539",
+    "comments": 1,
+    "createdAt": "2026-09-18T01:01:03Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-18T06:05:03.854Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30538",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30538,
+    "title": "[Good First Issue] 🍶 Add new False Friend Pair 97 - Beginner-Friendly Open-source Contribution (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30538",
+    "comments": 1,
+    "createdAt": "2026-09-18T00:57:28Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-18T06:05:03.854Z"
+  },
+  {
+    "key": "prettier/prettier#20099",
+    "tier": 2,
+    "repo": "prettier/prettier",
+    "number": 20099,
+    "title": "Move `update-dependents-coun` step out of the release script",
+    "url": "https://github.com/prettier/prettier/issues/20099",
+    "comments": 2,
+    "createdAt": "2026-09-18T03:27:49Z",
+    "labels": [
+      "help wanted",
+      "type:infra"
+    ],
+    "language": "javascript",
+    "stars": 52276,
+    "foundAt": "2026-09-18T06:05:06.967Z"
+  },
+  {
+    "key": "getodk/central#2256",
+    "tier": 3,
+    "repo": "getodk/central",
+    "number": 2256,
+    "title": "Document versioned OpenRosa manifest",
+    "url": "https://github.com/getodk/central/issues/2256",
+    "comments": 0,
+    "createdAt": "2026-09-18T03:23:26Z",
+    "labels": [
+      "documentation",
+      "backend"
+    ],
+    "language": "javascript",
+    "stars": 227,
+    "foundAt": "2026-09-18T06:05:09.799Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30537",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1667,229 +1926,5 @@
     "language": "typescript",
     "stars": 35684,
     "foundAt": "2026-09-16T17:10:25.613Z"
-  },
-  {
-    "key": "KeepSoftwareSimple/compass-calendar#3858",
-    "tier": 3,
-    "repo": "KeepSoftwareSimple/compass-calendar",
-    "number": 3858,
-    "title": "[agent] simplify v1 WP-07: closeout: acceptance scenarios, e2e for the mouse path, doc drift",
-    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3858",
-    "comments": 0,
-    "createdAt": "2026-09-16T15:51:27Z",
-    "labels": [
-      "web",
-      "agent-ready",
-      "e2e",
-      "docs",
-      "simplify-v1"
-    ],
-    "language": "typescript",
-    "stars": 228,
-    "foundAt": "2026-09-16T17:10:25.790Z"
-  },
-  {
-    "key": "KeepSoftwareSimple/compass-calendar#3847",
-    "tier": 3,
-    "repo": "KeepSoftwareSimple/compass-calendar",
-    "number": 3847,
-    "title": "[agent] email-ready v1 WP-06: connection-report CLI: connections by state, reason, and last activity",
-    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/3847",
-    "comments": 0,
-    "createdAt": "2026-09-16T15:51:16Z",
-    "labels": [
-      "agent-ready",
-      "scripts",
-      "docs",
-      "email-ready-v1"
-    ],
-    "language": "typescript",
-    "stars": 228,
-    "foundAt": "2026-09-16T17:10:25.790Z"
-  },
-  {
-    "key": "zonelessdev/zoneless#143",
-    "tier": 1,
-    "repo": "zonelessdev/zoneless",
-    "number": 143,
-    "title": "Export transactions to CSV from dashboard",
-    "url": "https://github.com/zonelessdev/zoneless/issues/143",
-    "comments": 0,
-    "createdAt": "2026-09-16T10:58:33Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 535,
-    "foundAt": "2026-09-16T11:51:21.440Z"
-  },
-  {
-    "key": "kubernetes/website#57558",
-    "tier": 1,
-    "repo": "kubernetes/website",
-    "number": 57558,
-    "title": "Unwanted initial heading for 2026-08-28 blog article",
-    "url": "https://github.com/kubernetes/website/issues/57558",
-    "comments": 3,
-    "createdAt": "2026-09-16T10:57:55Z",
-    "labels": [
-      "good first issue",
-      "help wanted",
-      "kind/bug",
-      "area/blog",
-      "triage/accepted"
-    ],
-    "language": "html",
-    "stars": 5385,
-    "foundAt": "2026-09-16T11:51:23.544Z"
-  },
-  {
-    "key": "libredb/libredb-studio#898",
-    "tier": 2,
-    "repo": "libredb/libredb-studio",
-    "number": 898,
-    "title": "Flaky on windows-latest: packaging-standalone-zip tests time out at bun's 5000ms default while 7-Zip is still running",
-    "url": "https://github.com/libredb/libredb-studio/issues/898",
-    "comments": 0,
-    "createdAt": "2026-09-16T11:49:32Z",
-    "labels": [
-      "bug",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 754,
-    "foundAt": "2026-09-16T11:51:23.545Z"
-  },
-  {
-    "key": "prettier/prettier#20083",
-    "tier": 2,
-    "repo": "prettier/prettier",
-    "number": 20083,
-    "title": "Regression in v3.9.7",
-    "url": "https://github.com/prettier/prettier/issues/20083",
-    "comments": 0,
-    "createdAt": "2026-09-16T11:44:59Z",
-    "labels": [
-      "help wanted",
-      "lang:markdown"
-    ],
-    "language": "javascript",
-    "stars": 52242,
-    "foundAt": "2026-09-16T11:51:24.778Z"
-  },
-  {
-    "key": "webdriverio/webdriverio#15608",
-    "tier": 2,
-    "repo": "webdriverio/webdriverio",
-    "number": 15608,
-    "title": "[🐛 Bug]: ChromeDriver extraction is incomplete in WebdriverIO 9.30.0 on Linux Azure DevOps agents",
-    "url": "https://github.com/webdriverio/webdriverio/issues/15608",
-    "comments": 2,
-    "createdAt": "2026-09-16T10:35:41Z",
-    "labels": [
-      "Bug 🐛",
-      "Needs Investigation",
-      "help wanted",
-      "good first pick"
-    ],
-    "language": "typescript",
-    "stars": 9835,
-    "foundAt": "2026-09-16T11:51:24.270Z"
-  },
-  {
-    "key": "prettier/prettier#20076",
-    "tier": 2,
-    "repo": "prettier/prettier",
-    "number": 20076,
-    "title": "prettier fails to parse now required less format for at rule variables",
-    "url": "https://github.com/prettier/prettier/issues/20076",
-    "comments": 1,
-    "createdAt": "2026-09-16T05:04:35Z",
-    "labels": [
-      "help wanted",
-      "scope:external",
-      "lang:less"
-    ],
-    "language": "javascript",
-    "stars": 52242,
-    "foundAt": "2026-09-16T11:51:24.778Z"
-  },
-  {
-    "key": "hackforla/website#8789",
-    "tier": 1,
-    "repo": "hackforla/website",
-    "number": 8789,
-    "title": "Update Project Profile: HackforLA Site",
-    "url": "https://github.com/hackforla/website/issues/8789",
-    "comments": 0,
-    "createdAt": "2026-09-16T02:49:12Z",
-    "labels": [
-      "good first issue",
-      "role: front end",
-      "role: back end/devOps",
-      "P-Feature: Project Info and Page",
-      "time sensitive",
-      "epic",
-      "size: 0.25pt",
-      "Issue Making: Level 1",
-      "Complexity: See issue making label",
-      "non-PR contribution"
-    ],
-    "language": "javascript",
-    "stars": 363,
-    "foundAt": "2026-09-16T06:13:33.652Z"
-  },
-  {
-    "key": "libredb/libredb-studio#880",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 880,
-    "title": "Data Profiler shows the numeric icon on every column regardless of type",
-    "url": "https://github.com/libredb/libredb-studio/issues/880",
-    "comments": 0,
-    "createdAt": "2026-09-16T02:40:14Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 754,
-    "foundAt": "2026-09-16T06:13:32.303Z"
-  },
-  {
-    "key": "libredb/libredb-studio#879",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 879,
-    "title": "Code Generator modal does not close on Escape while Data Profiler does",
-    "url": "https://github.com/libredb/libredb-studio/issues/879",
-    "comments": 1,
-    "createdAt": "2026-09-16T02:40:02Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 754,
-    "foundAt": "2026-09-16T06:13:32.303Z"
-  },
-  {
-    "key": "libredb/libredb-studio#878",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 878,
-    "title": "Schema explorer table menu button has no accessible name",
-    "url": "https://github.com/libredb/libredb-studio/issues/878",
-    "comments": 1,
-    "createdAt": "2026-09-16T02:40:00Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 754,
-    "foundAt": "2026-09-16T06:13:32.303Z"
   }
 ]
