@@ -1,5 +1,22 @@
 [
   {
+    "key": "refined-github/refined-github#10093",
+    "tier": 2,
+    "repo": "refined-github/refined-github",
+    "number": 10093,
+    "title": "`table-input` appears on new PR lists",
+    "url": "https://github.com/refined-github/refined-github/issues/10093",
+    "comments": 0,
+    "createdAt": "2026-09-18T09:08:41Z",
+    "labels": [
+      "bug",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 32182,
+    "foundAt": "2026-09-18T11:30:41.984Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30546",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1910,21 +1927,5 @@
     "language": "mdx",
     "stars": 2163,
     "foundAt": "2026-09-16T17:10:26.175Z"
-  },
-  {
-    "key": "refinedev/refine#7608",
-    "tier": 3,
-    "repo": "refinedev/refine",
-    "number": 7608,
-    "title": "[DOC] Fix broken Tutorial link under Next Steps",
-    "url": "https://github.com/refinedev/refine/issues/7608",
-    "comments": 0,
-    "createdAt": "2026-09-16T15:57:43Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "typescript",
-    "stars": 35684,
-    "foundAt": "2026-09-16T17:10:25.613Z"
   }
 ]

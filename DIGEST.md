@@ -4,6 +4,7 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-18 | 🥈 | [`table-input` appears on new PR lists](https://github.com/refined-github/refined-github/issues/10093) | `refined-github/refined-github` | ⭐ 32.2k |
 | 2026-09-18 | 🥇 | [[Good First Issue] 🧧 Add new Japanese Proverb 157 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30546) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-18 | 🥇 | [O .gitignore não protege os dois artefatos que o próprio kit cria (.update.lock ](https://github.com/melgarafael/DeskcommCRM/issues/1150) | `melgarafael/DeskcommCRM` | ⭐ 2.8k |
 | 2026-09-18 | 🥇 | [[Good First Issue] 🌸 Add new Japan Fact 63 - Beginner-Friendly Open-source Cont](https://github.com/lingdojo/kana-dojo/issues/30545) | `lingdojo/kana-dojo` | ⭐ 3.4k |
@@ -103,4 +104,3 @@
 | 2026-09-16 | 🥉 | [client(python): OAuth.initialize() drops an expired access token without trying ](https://github.com/mcp-use/mcp-use/issues/2560) | `mcp-use/mcp-use` | ⭐ 10.6k |
 | 2026-09-16 | 🥉 | [when run quikstart return unexpected version](https://github.com/paperclipai/paperclip/issues/13540) | `paperclipai/paperclip` | ⭐ 80.8k |
 | 2026-09-16 | 🥉 | [[Documentation Change Request]: Overview page describes pre-2.5 firmware behavio](https://github.com/meshtastic/meshtastic/issues/2706) | `meshtastic/meshtastic` | ⭐ 2.2k |
-| 2026-09-16 | 🥉 | [[DOC] Fix broken Tutorial link under Next Steps](https://github.com/refinedev/refine/issues/7608) | `refinedev/refine` | ⭐ 35.7k |
