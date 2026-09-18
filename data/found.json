@@ -1,5 +1,179 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30537",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30537,
+    "title": "[Good First Issue] 🍣 Add new Dialect Entry 68 - Beginner-Friendly Open-source Contribution (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30537",
+    "comments": 1,
+    "createdAt": "2026-09-18T00:01:06Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-18T00:30:20.295Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30536",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30536,
+    "title": "[Good First Issue] 🍡 Add new Japanese Idiom 77 - Beginner-Friendly Open-source Contribution (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30536",
+    "comments": 1,
+    "createdAt": "2026-09-17T23:57:28Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-18T00:30:20.295Z"
+  },
+  {
+    "key": "pingdotgg/t3code#12330",
+    "tier": 1,
+    "repo": "pingdotgg/t3code",
+    "number": 12330,
+    "title": "[Bug]: Follow change request templates ignores GitLab and Azure DevOps templates",
+    "url": "https://github.com/pingdotgg/t3code/issues/12330",
+    "comments": 1,
+    "createdAt": "2026-09-17T23:20:04Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "accepted",
+      "via-triage"
+    ],
+    "language": "typescript",
+    "stars": 22958,
+    "foundAt": "2026-09-18T00:30:21.026Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30535",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30535,
+    "title": "[Good First Issue] 🌸 Add new Video Game Quote 49 - Beginner-Friendly Open-source Contribution (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30535",
+    "comments": 1,
+    "createdAt": "2026-09-17T23:00:58Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-18T00:30:21.251Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30534",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30534,
+    "title": "[Good First Issue] 🐙 Add new Anime Quote 24 - Beginner-Friendly Open-source Contribution (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30534",
+    "comments": 1,
+    "createdAt": "2026-09-17T22:57:34Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-18T00:30:21.251Z"
+  },
+  {
+    "key": "melgarafael/DeskcommCRM#1118",
+    "tier": 1,
+    "repo": "melgarafael/DeskcommCRM",
+    "number": 1118,
+    "title": "Gate: a sonda de prontidão do test:db:update aceita o Postgres temporário do initdb e reprova por corrida",
+    "url": "https://github.com/melgarafael/DeskcommCRM/issues/1118",
+    "comments": 2,
+    "createdAt": "2026-09-17T22:03:40Z",
+    "labels": [
+      "good first issue",
+      "triagem:confirmado"
+    ],
+    "language": "typescript",
+    "stars": 2821,
+    "foundAt": "2026-09-18T00:30:21.251Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30533",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30533,
+    "title": "[Good First Issue] 🏯 Add new Grammar Point 139 - Beginner-Friendly Open-source Contribution (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30533",
+    "comments": 1,
+    "createdAt": "2026-09-17T22:01:00Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-18T00:30:21.450Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30532",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30532,
+    "title": "[Good First Issue] 🌋 Add new Trivia Question 99 - Beginner-Friendly Open-source Contribution (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30532",
+    "comments": 1,
+    "createdAt": "2026-09-17T21:57:32Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-18T00:30:21.450Z"
+  },
+  {
     "key": "felladrin/MiniSearch#2670",
     "tier": 1,
     "repo": "felladrin/MiniSearch",
@@ -1717,156 +1891,5 @@
     "language": "typescript",
     "stars": 754,
     "foundAt": "2026-09-16T06:13:32.303Z"
-  },
-  {
-    "key": "libredb/libredb-studio#877",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 877,
-    "title": "Schema explorer column name is squeezed to zero width by long type names",
-    "url": "https://github.com/libredb/libredb-studio/issues/877",
-    "comments": 1,
-    "createdAt": "2026-09-16T02:39:45Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 754,
-    "foundAt": "2026-09-16T06:13:32.303Z"
-  },
-  {
-    "key": "libredb/libredb-studio#876",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 876,
-    "title": "Agent mode is unusable with the default STORAGE_PROVIDER=local and nothing documents it",
-    "url": "https://github.com/libredb/libredb-studio/issues/876",
-    "comments": 1,
-    "createdAt": "2026-09-16T02:39:32Z",
-    "labels": [
-      "documentation",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 754,
-    "foundAt": "2026-09-16T06:13:32.303Z"
-  },
-  {
-    "key": "libredb/libredb-studio#875",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 875,
-    "title": "README's agent budget figures match no workflow profile in the code",
-    "url": "https://github.com/libredb/libredb-studio/issues/875",
-    "comments": 1,
-    "createdAt": "2026-09-16T02:39:20Z",
-    "labels": [
-      "documentation",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 754,
-    "foundAt": "2026-09-16T06:13:32.303Z"
-  },
-  {
-    "key": "Doezer/Questarr#1036",
-    "tier": 2,
-    "repo": "Doezer/Questarr",
-    "number": 1036,
-    "title": "Downloader credential policy: validate resolved URL, not just useSsl, and expand test coverage",
-    "url": "https://github.com/Doezer/Questarr/issues/1036",
-    "comments": 1,
-    "createdAt": "2026-09-16T05:28:04Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "priority:medium",
-      "area:security"
-    ],
-    "language": "typescript",
-    "stars": 642,
-    "foundAt": "2026-09-16T06:13:34.605Z"
-  },
-  {
-    "key": "benzBrake/FirefoxCustomize#79",
-    "tier": 2,
-    "repo": "benzBrake/FirefoxCustomize",
-    "number": 79,
-    "title": "[NEED HELP]: 脚本代码alt触发菜单导致失效",
-    "url": "https://github.com/benzBrake/FirefoxCustomize/issues/79",
-    "comments": 0,
-    "createdAt": "2026-09-16T03:19:28Z",
-    "labels": [
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 210,
-    "foundAt": "2026-09-16T06:13:35.495Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30472",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30472,
-    "title": "[Good First Issue] 🎍 Add new Japanese Proverb 17 - Beginner-Friendly Open-source Contribution (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30472",
-    "comments": 1,
-    "createdAt": "2026-09-16T01:01:01Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-16T06:13:35.297Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30469",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30469,
-    "title": "[Good First Issue] 🎐 Add new Japan Fact 213 - Beginner-Friendly Open-source Contribution (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30469",
-    "comments": 1,
-    "createdAt": "2026-09-15T23:01:02Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-16T00:33:40.235Z"
-  },
-  {
-    "key": "melgarafael/DeskcommCRM#951",
-    "tier": 1,
-    "repo": "melgarafael/DeskcommCRM",
-    "number": 951,
-    "title": "agente: o motivo do \"Publicar\" desabilitado só aparece ao passar o mouse",
-    "url": "https://github.com/melgarafael/DeskcommCRM/issues/951",
-    "comments": 0,
-    "createdAt": "2026-09-15T22:19:47Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "area/ui",
-      "triagem:confirmado"
-    ],
-    "language": "typescript",
-    "stars": 2821,
-    "foundAt": "2026-09-16T00:33:40.617Z"
   }
 ]

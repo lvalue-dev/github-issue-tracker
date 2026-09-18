@@ -4,6 +4,14 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-18 | 🥇 | [[Good First Issue] 🍣 Add new Dialect Entry 68 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30537) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-18 | 🥇 | [[Good First Issue] 🍡 Add new Japanese Idiom 77 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30536) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-18 | 🥇 | [[Bug]: Follow change request templates ignores GitLab and Azure DevOps templates](https://github.com/pingdotgg/t3code/issues/12330) | `pingdotgg/t3code` | ⭐ 23.0k |
+| 2026-09-18 | 🥇 | [[Good First Issue] 🌸 Add new Video Game Quote 49 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30535) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-18 | 🥇 | [[Good First Issue] 🐙 Add new Anime Quote 24 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30534) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-18 | 🥇 | [Gate: a sonda de prontidão do test:db:update aceita o Postgres temporário do ini](https://github.com/melgarafael/DeskcommCRM/issues/1118) | `melgarafael/DeskcommCRM` | ⭐ 2.8k |
+| 2026-09-18 | 🥇 | [[Good First Issue] 🏯 Add new Grammar Point 139 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30533) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-18 | 🥇 | [[Good First Issue] 🌋 Add new Trivia Question 99 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30532) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-17 | 🥇 | [Clear all three history tables when the user clears search history](https://github.com/felladrin/MiniSearch/issues/2670) | `felladrin/MiniSearch` | ⭐ 587 |
 | 2026-09-17 | 🥇 | [Give the icon-only buttons accessible names](https://github.com/felladrin/MiniSearch/issues/2669) | `felladrin/MiniSearch` | ⭐ 587 |
 | 2026-09-17 | 🥇 | [Use getDefaultChatMessages in the internal-API and wllama paths](https://github.com/felladrin/MiniSearch/issues/2668) | `felladrin/MiniSearch` | ⭐ 587 |
@@ -96,11 +104,3 @@
 | 2026-09-16 | 🥇 | [Data Profiler shows the numeric icon on every column regardless of type](https://github.com/libredb/libredb-studio/issues/880) | `libredb/libredb-studio` | ⭐ 754 |
 | 2026-09-16 | 🥇 | [Code Generator modal does not close on Escape while Data Profiler does](https://github.com/libredb/libredb-studio/issues/879) | `libredb/libredb-studio` | ⭐ 754 |
 | 2026-09-16 | 🥇 | [Schema explorer table menu button has no accessible name](https://github.com/libredb/libredb-studio/issues/878) | `libredb/libredb-studio` | ⭐ 754 |
-| 2026-09-16 | 🥇 | [Schema explorer column name is squeezed to zero width by long type names](https://github.com/libredb/libredb-studio/issues/877) | `libredb/libredb-studio` | ⭐ 754 |
-| 2026-09-16 | 🥇 | [Agent mode is unusable with the default STORAGE_PROVIDER=local and nothing docum](https://github.com/libredb/libredb-studio/issues/876) | `libredb/libredb-studio` | ⭐ 754 |
-| 2026-09-16 | 🥇 | [README's agent budget figures match no workflow profile in the code](https://github.com/libredb/libredb-studio/issues/875) | `libredb/libredb-studio` | ⭐ 754 |
-| 2026-09-16 | 🥈 | [Downloader credential policy: validate resolved URL, not just useSsl, and expand](https://github.com/Doezer/Questarr/issues/1036) | `Doezer/Questarr` | ⭐ 642 |
-| 2026-09-16 | 🥈 | [[NEED HELP]: 脚本代码alt触发菜单导致失效](https://github.com/benzBrake/FirefoxCustomize/issues/79) | `benzBrake/FirefoxCustomize` | ⭐ 210 |
-| 2026-09-16 | 🥈 | [[Good First Issue] 🎍 Add new Japanese Proverb 17 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30472) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-16 | 🥇 | [[Good First Issue] 🎐 Add new Japan Fact 213 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30469) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-16 | 🥇 | [agente: o motivo do "Publicar" desabilitado só aparece ao passar o mouse](https://github.com/melgarafael/DeskcommCRM/issues/951) | `melgarafael/DeskcommCRM` | ⭐ 2.8k |
