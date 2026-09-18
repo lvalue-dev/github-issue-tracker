@@ -1,5 +1,315 @@
 [
   {
+    "key": "tommy0103/obelisk#184",
+    "tier": 1,
+    "repo": "tommy0103/obelisk",
+    "number": 184,
+    "title": "[Linux] Titlebar title sits off-center: 78px left padding is a macOS-only allowance",
+    "url": "https://github.com/tommy0103/obelisk/issues/184",
+    "comments": 0,
+    "createdAt": "2026-09-18T16:11:30Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "javascript",
+    "stars": 510,
+    "foundAt": "2026-09-18T16:35:09.315Z"
+  },
+  {
+    "key": "zonelessdev/zoneless#161",
+    "tier": 1,
+    "repo": "zonelessdev/zoneless",
+    "number": 161,
+    "title": "Add Subscription Items API documentation",
+    "url": "https://github.com/zonelessdev/zoneless/issues/161",
+    "comments": 0,
+    "createdAt": "2026-09-18T16:05:15Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 535,
+    "foundAt": "2026-09-18T16:35:07.630Z"
+  },
+  {
+    "key": "zonelessdev/zoneless#160",
+    "tier": 1,
+    "repo": "zonelessdev/zoneless",
+    "number": 160,
+    "title": "Add Subscription Items to the Node SDK",
+    "url": "https://github.com/zonelessdev/zoneless/issues/160",
+    "comments": 0,
+    "createdAt": "2026-09-18T16:04:02Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 535,
+    "foundAt": "2026-09-18T16:35:07.630Z"
+  },
+  {
+    "key": "aipoch/open-science#2782",
+    "tier": 1,
+    "repo": "aipoch/open-science",
+    "number": 2782,
+    "title": "[Bug]: macOS：页面/布局变化时 Renderer CPU 飙升至约 100%，导致整个 UI 严重卡顿",
+    "url": "https://github.com/aipoch/open-science/issues/2782",
+    "comments": 2,
+    "createdAt": "2026-09-18T15:48:12Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 4476,
+    "foundAt": "2026-09-18T16:35:08.145Z"
+  },
+  {
+    "key": "zonelessdev/zoneless#158",
+    "tier": 1,
+    "repo": "zonelessdev/zoneless",
+    "number": 158,
+    "title": "Add Verification Sessions API documentation",
+    "url": "https://github.com/zonelessdev/zoneless/issues/158",
+    "comments": 0,
+    "createdAt": "2026-09-18T15:41:37Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 535,
+    "foundAt": "2026-09-18T16:35:08.360Z"
+  },
+  {
+    "key": "zonelessdev/zoneless#157",
+    "tier": 1,
+    "repo": "zonelessdev/zoneless",
+    "number": 157,
+    "title": "Add Verification Sessions to the Node SDK",
+    "url": "https://github.com/zonelessdev/zoneless/issues/157",
+    "comments": 0,
+    "createdAt": "2026-09-18T15:37:10Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 535,
+    "foundAt": "2026-09-18T16:35:08.360Z"
+  },
+  {
+    "key": "NVIDIA/NemoClaw#12080",
+    "tier": 1,
+    "repo": "NVIDIA/NemoClaw",
+    "number": 12080,
+    "title": "Report the selected post-create operation instead of Docker GPU patch when GPU is disabled",
+    "url": "https://github.com/NVIDIA/NemoClaw/issues/12080",
+    "comments": 0,
+    "createdAt": "2026-09-18T15:28:06Z",
+    "labels": [
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 22495,
+    "foundAt": "2026-09-18T16:35:08.875Z"
+  },
+  {
+    "key": "NVIDIA/NemoClaw#12079",
+    "tier": 1,
+    "repo": "NVIDIA/NemoClaw",
+    "number": 12079,
+    "title": "Clarify secure API-key re-entry after provider validation fails",
+    "url": "https://github.com/NVIDIA/NemoClaw/issues/12079",
+    "comments": 0,
+    "createdAt": "2026-09-18T15:28:00Z",
+    "labels": [
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 22495,
+    "foundAt": "2026-09-18T16:35:08.875Z"
+  },
+  {
+    "key": "1lck/Lithe-IDEA#732",
+    "tier": 1,
+    "repo": "1lck/Lithe-IDEA",
+    "number": 732,
+    "title": "[Bug] 编辑器可编辑区域色差问题",
+    "url": "https://github.com/1lck/Lithe-IDEA/issues/732",
+    "comments": 0,
+    "createdAt": "2026-09-18T15:15:35Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "P0",
+      "platform:macos",
+      "area:editor"
+    ],
+    "language": "typescript",
+    "stars": 1383,
+    "foundAt": "2026-09-18T16:35:09.084Z"
+  },
+  {
+    "key": "hackforla/website#8791",
+    "tier": 1,
+    "repo": "hackforla/website",
+    "number": 8791,
+    "title": "Update Project Profile: Hackforla.org Website Add Sushma Ramachandra Hegde",
+    "url": "https://github.com/hackforla/website/issues/8791",
+    "comments": 0,
+    "createdAt": "2026-09-18T14:43:03Z",
+    "labels": [
+      "good first issue",
+      "role: front end",
+      "role: back end/devOps",
+      "P-Feature: Project Info and Page",
+      "time sensitive",
+      "size: 0.25pt"
+    ],
+    "language": "javascript",
+    "stars": 363,
+    "foundAt": "2026-09-18T16:35:09.842Z"
+  },
+  {
+    "key": "layer5io/layer5#8085",
+    "tier": 1,
+    "repo": "layer5io/layer5",
+    "number": 8085,
+    "title": "Community Membership paragraph alignment issue",
+    "url": "https://github.com/layer5io/layer5/issues/8085",
+    "comments": 0,
+    "createdAt": "2026-09-18T14:18:23Z",
+    "labels": [
+      "kind/bug",
+      "help wanted",
+      "good first issue",
+      "framework/gatsby"
+    ],
+    "language": "javascript",
+    "stars": 1124,
+    "foundAt": "2026-09-18T16:35:10.047Z"
+  },
+  {
+    "key": "layer5io/layer5#8084",
+    "tier": 1,
+    "repo": "layer5io/layer5",
+    "number": 8084,
+    "title": "Layout shift when opening the “Meet Five” card",
+    "url": "https://github.com/layer5io/layer5/issues/8084",
+    "comments": 0,
+    "createdAt": "2026-09-18T14:14:36Z",
+    "labels": [
+      "kind/bug",
+      "help wanted",
+      "good first issue",
+      "framework/gatsby"
+    ],
+    "language": "javascript",
+    "stars": 1124,
+    "foundAt": "2026-09-18T16:35:10.047Z"
+  },
+  {
+    "key": "layer5io/layer5#8083",
+    "tier": 1,
+    "repo": "layer5io/layer5",
+    "number": 8083,
+    "title": "Responsive UI issue with integration logos on mobile devices",
+    "url": "https://github.com/layer5io/layer5/issues/8083",
+    "comments": 1,
+    "createdAt": "2026-09-18T14:09:40Z",
+    "labels": [
+      "kind/bug",
+      "help wanted",
+      "good first issue",
+      "framework/gatsby"
+    ],
+    "language": "javascript",
+    "stars": 1124,
+    "foundAt": "2026-09-18T16:35:10.047Z"
+  },
+  {
+    "key": "zonelessdev/zoneless#159",
+    "tier": 2,
+    "repo": "zonelessdev/zoneless",
+    "number": 159,
+    "title": "Add Subscription Items API endpoints",
+    "url": "https://github.com/zonelessdev/zoneless/issues/159",
+    "comments": 0,
+    "createdAt": "2026-09-18T16:00:17Z",
+    "labels": [
+      "enhancement",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 535,
+    "foundAt": "2026-09-18T16:35:12.050Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30555",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30555,
+    "title": "[good first issue] ⛩️ Add new Japanese Idiom 260 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30555",
+    "comments": 1,
+    "createdAt": "2026-09-18T15:01:00Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-18T16:35:12.273Z"
+  },
+  {
+    "key": "meshery/meshery#22024",
+    "tier": 2,
+    "repo": "meshery/meshery",
+    "number": 22024,
+    "title": "[Meshery Design]",
+    "url": "https://github.com/meshery/meshery/issues/22024",
+    "comments": 2,
+    "createdAt": "2026-09-18T14:55:28Z",
+    "labels": [
+      "hacktoberfest",
+      "area/models"
+    ],
+    "language": "typescript",
+    "stars": 11820,
+    "foundAt": "2026-09-18T16:35:12.541Z"
+  },
+  {
+    "key": "meshery/meshery#22023",
+    "tier": 2,
+    "repo": "meshery/meshery",
+    "number": 22023,
+    "title": "[Meshery Design]",
+    "url": "https://github.com/meshery/meshery/issues/22023",
+    "comments": 1,
+    "createdAt": "2026-09-18T14:55:25Z",
+    "labels": [
+      "hacktoberfest",
+      "area/models"
+    ],
+    "language": "typescript",
+    "stars": 11820,
+    "foundAt": "2026-09-18T16:35:12.541Z"
+  },
+  {
     "key": "refined-github/refined-github#10093",
     "tier": 2,
     "repo": "refined-github/refined-github",
@@ -1615,317 +1925,5 @@
     "language": "typescript",
     "stars": 2821,
     "foundAt": "2026-09-16T23:03:52.116Z"
-  },
-  {
-    "key": "videojs/v10#2841",
-    "tier": 3,
-    "repo": "videojs/v10",
-    "number": 2841,
-    "title": "Bug: @videojs/html RC.2 Composite Imports Do Not Register Child Elements, Breaking Documented Controls Visibility",
-    "url": "https://github.com/videojs/v10/issues/2841",
-    "comments": 1,
-    "createdAt": "2026-09-16T22:53:11Z",
-    "labels": [
-      "docs",
-      "components",
-      "site",
-      "triage",
-      "pkg:html",
-      "bug"
-    ],
-    "language": "typescript",
-    "stars": 945,
-    "foundAt": "2026-09-16T23:03:53.781Z"
-  },
-  {
-    "key": "modelcontextprotocol/inspector#2400",
-    "tier": 3,
-    "repo": "modelcontextprotocol/inspector",
-    "number": 2400,
-    "title": "docs: re-align the H2 2026 roadmap with the published MCP roadmap (2026-08-22) and official extensions",
-    "url": "https://github.com/modelcontextprotocol/inspector/issues/2400",
-    "comments": 1,
-    "createdAt": "2026-09-16T22:03:37Z",
-    "labels": [
-      "documentation",
-      "v2"
-    ],
-    "language": "typescript",
-    "stars": 10891,
-    "foundAt": "2026-09-16T23:03:55.508Z"
-  },
-  {
-    "key": "Ariestar/obsidian-dragger#87",
-    "tier": 2,
-    "repo": "Ariestar/obsidian-dragger",
-    "number": 87,
-    "title": "[FEAT] Add systemic drag-and-drop animations | 增加系统性的拖放动画效果",
-    "url": "https://github.com/Ariestar/obsidian-dragger/issues/87",
-    "comments": 0,
-    "createdAt": "2026-09-16T17:55:15Z",
-    "labels": [
-      "enhancement",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 280,
-    "foundAt": "2026-09-16T20:16:32.840Z"
-  },
-  {
-    "key": "anthropics/claude-code#94857",
-    "tier": 3,
-    "repo": "anthropics/claude-code",
-    "number": 94857,
-    "title": "[DOCS] plugins-reference still shows a flat `agents/` tree and omits recursive scanning and path-scoped identifiers",
-    "url": "https://github.com/anthropics/claude-code/issues/94857",
-    "comments": 0,
-    "createdAt": "2026-09-16T20:03:57Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "area:agents",
-      "area:docs",
-      "area:plugins"
-    ],
-    "language": "typescript",
-    "stars": 145398,
-    "foundAt": "2026-09-16T20:16:34.228Z"
-  },
-  {
-    "key": "libredb/libredb-studio#919",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 919,
-    "title": "Seventeen icon-only buttons in the sidebar have no accessible name",
-    "url": "https://github.com/libredb/libredb-studio/issues/919",
-    "comments": 1,
-    "createdAt": "2026-09-16T16:22:49Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 754,
-    "foundAt": "2026-09-16T17:10:17.655Z"
-  },
-  {
-    "key": "webbrain-one/webbrain#3051",
-    "tier": 1,
-    "repo": "webbrain-one/webbrain",
-    "number": 3051,
-    "title": "Attach file by drag'n drop",
-    "url": "https://github.com/webbrain-one/webbrain/issues/3051",
-    "comments": 0,
-    "createdAt": "2026-09-16T15:38:15Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 1034,
-    "foundAt": "2026-09-16T17:10:19.898Z"
-  },
-  {
-    "key": "libredb/libredb-studio#913",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 913,
-    "title": "Both snap packages and the CycloneDX SBOM ship with no checksum of any kind",
-    "url": "https://github.com/libredb/libredb-studio/issues/913",
-    "comments": 2,
-    "createdAt": "2026-09-16T15:37:45Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 754,
-    "foundAt": "2026-09-16T17:10:18.324Z"
-  },
-  {
-    "key": "libredb/libredb-studio#905",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 905,
-    "title": "DigitalOcean README's health check expects {\"status\":\"ok\"} but the endpoint answers \"healthy\"",
-    "url": "https://github.com/libredb/libredb-studio/issues/905",
-    "comments": 0,
-    "createdAt": "2026-09-16T14:10:23Z",
-    "labels": [
-      "documentation",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 754,
-    "foundAt": "2026-09-16T17:10:18.983Z"
-  },
-  {
-    "key": "meshery/meshery.io#2990",
-    "tier": 2,
-    "repo": "meshery/meshery.io",
-    "number": 2990,
-    "title": "Add Sort Control to Mobile View of Meshery Designs",
-    "url": "https://github.com/meshery/meshery.io/issues/2990",
-    "comments": 1,
-    "createdAt": "2026-09-16T17:09:09Z",
-    "labels": [
-      "kind/enhancement",
-      "help wanted",
-      "area/website"
-    ],
-    "language": "javascript",
-    "stars": 861,
-    "foundAt": "2026-09-16T17:10:22.637Z"
-  },
-  {
-    "key": "soimy/openclaw-channel-dingtalk#622",
-    "tier": 2,
-    "repo": "soimy/openclaw-channel-dingtalk",
-    "number": 622,
-    "title": "[维护] 拆分超过 800 行的测试文件（reply-strategy-card / inbound-handler-card）",
-    "url": "https://github.com/soimy/openclaw-channel-dingtalk/issues/622",
-    "comments": 0,
-    "createdAt": "2026-09-16T14:48:38Z",
-    "labels": [
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 1666,
-    "foundAt": "2026-09-16T17:10:22.247Z"
-  },
-  {
-    "key": "GoDiao/dreamcoder#46",
-    "tier": 2,
-    "repo": "GoDiao/dreamcoder",
-    "number": 46,
-    "title": "[MCP marketplace] Add reviewed install flow for curated MCP entries",
-    "url": "https://github.com/GoDiao/dreamcoder/issues/46",
-    "comments": 0,
-    "createdAt": "2026-09-16T14:02:25Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "mentor-available",
-      "area:desktop",
-      "area:mcp",
-      "difficulty:3"
-    ],
-    "language": "typescript",
-    "stars": 489,
-    "foundAt": "2026-09-16T17:10:22.434Z"
-  },
-  {
-    "key": "GoDiao/dreamcoder#45",
-    "tier": 2,
-    "repo": "GoDiao/dreamcoder",
-    "number": 45,
-    "title": "[MCP marketplace] Add read-only Browse catalog in Settings → MCP",
-    "url": "https://github.com/GoDiao/dreamcoder/issues/45",
-    "comments": 0,
-    "createdAt": "2026-09-16T14:02:11Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "mentor-available",
-      "area:desktop",
-      "area:mcp",
-      "difficulty:2"
-    ],
-    "language": "typescript",
-    "stars": 489,
-    "foundAt": "2026-09-16T17:10:22.434Z"
-  },
-  {
-    "key": "GoDiao/dreamcoder#44",
-    "tier": 2,
-    "repo": "GoDiao/dreamcoder",
-    "number": 44,
-    "title": "[MCP marketplace] Define curated registry contract and seed catalog",
-    "url": "https://github.com/GoDiao/dreamcoder/issues/44",
-    "comments": 0,
-    "createdAt": "2026-09-16T14:01:58Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "mentor-available",
-      "area:mcp",
-      "difficulty:2"
-    ],
-    "language": "typescript",
-    "stars": 489,
-    "foundAt": "2026-09-16T17:10:22.434Z"
-  },
-  {
-    "key": "piroor/treestyletab#3968",
-    "tier": 2,
-    "repo": "piroor/treestyletab",
-    "number": 3968,
-    "title": "[Bug] After drag-n-drop, tabs from another subtree jump to another level (change parent)",
-    "url": "https://github.com/piroor/treestyletab/issues/3968",
-    "comments": 1,
-    "createdAt": "2026-09-16T03:09:44Z",
-    "labels": [
-      "works for me",
-      "help wanted",
-      "bug"
-    ],
-    "language": "javascript",
-    "stars": 3779,
-    "foundAt": "2026-09-16T17:10:22.978Z"
-  },
-  {
-    "key": "mcp-use/mcp-use#2560",
-    "tier": 3,
-    "repo": "mcp-use/mcp-use",
-    "number": 2560,
-    "title": "client(python): OAuth.initialize() drops an expired access token without trying the stored refresh_token, forcing the interactive browser flow on every reconnect",
-    "url": "https://github.com/mcp-use/mcp-use/issues/2560",
-    "comments": 0,
-    "createdAt": "2026-09-16T17:07:15Z",
-    "labels": [
-      "bug",
-      "documentation",
-      "TypeScript",
-      "Python",
-      "repo",
-      "server",
-      "client"
-    ],
-    "language": "typescript",
-    "stars": 10640,
-    "foundAt": "2026-09-16T17:10:23.373Z"
-  },
-  {
-    "key": "paperclipai/paperclip#13540",
-    "tier": 3,
-    "repo": "paperclipai/paperclip",
-    "number": 13540,
-    "title": "when run quikstart return unexpected version",
-    "url": "https://github.com/paperclipai/paperclip/issues/13540",
-    "comments": 0,
-    "createdAt": "2026-09-16T16:51:37Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "typescript",
-    "stars": 80845,
-    "foundAt": "2026-09-16T17:10:24.335Z"
-  },
-  {
-    "key": "meshtastic/meshtastic#2706",
-    "tier": 3,
-    "repo": "meshtastic/meshtastic",
-    "number": 2706,
-    "title": "[Documentation Change Request]: Overview page describes pre-2.5 firmware behavior",
-    "url": "https://github.com/meshtastic/meshtastic/issues/2706",
-    "comments": 0,
-    "createdAt": "2026-09-16T16:26:16Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "mdx",
-    "stars": 2163,
-    "foundAt": "2026-09-16T17:10:26.175Z"
   }
 ]

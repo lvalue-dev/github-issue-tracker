@@ -4,6 +4,23 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-18 | 🥇 | [[Linux] Titlebar title sits off-center: 78px left padding is a macOS-only allowa](https://github.com/tommy0103/obelisk/issues/184) | `tommy0103/obelisk` | ⭐ 510 |
+| 2026-09-18 | 🥇 | [Add Subscription Items API documentation](https://github.com/zonelessdev/zoneless/issues/161) | `zonelessdev/zoneless` | ⭐ 535 |
+| 2026-09-18 | 🥇 | [Add Subscription Items to the Node SDK](https://github.com/zonelessdev/zoneless/issues/160) | `zonelessdev/zoneless` | ⭐ 535 |
+| 2026-09-18 | 🥇 | [[Bug]: macOS：页面/布局变化时 Renderer CPU 飙升至约 100%，导致整个 UI 严重卡顿](https://github.com/aipoch/open-science/issues/2782) | `aipoch/open-science` | ⭐ 4.5k |
+| 2026-09-18 | 🥇 | [Add Verification Sessions API documentation](https://github.com/zonelessdev/zoneless/issues/158) | `zonelessdev/zoneless` | ⭐ 535 |
+| 2026-09-18 | 🥇 | [Add Verification Sessions to the Node SDK](https://github.com/zonelessdev/zoneless/issues/157) | `zonelessdev/zoneless` | ⭐ 535 |
+| 2026-09-18 | 🥇 | [Report the selected post-create operation instead of Docker GPU patch when GPU i](https://github.com/NVIDIA/NemoClaw/issues/12080) | `NVIDIA/NemoClaw` | ⭐ 22.5k |
+| 2026-09-18 | 🥇 | [Clarify secure API-key re-entry after provider validation fails](https://github.com/NVIDIA/NemoClaw/issues/12079) | `NVIDIA/NemoClaw` | ⭐ 22.5k |
+| 2026-09-18 | 🥇 | [[Bug] 编辑器可编辑区域色差问题](https://github.com/1lck/Lithe-IDEA/issues/732) | `1lck/Lithe-IDEA` | ⭐ 1.4k |
+| 2026-09-18 | 🥇 | [Update Project Profile: Hackforla.org Website Add Sushma Ramachandra Hegde](https://github.com/hackforla/website/issues/8791) | `hackforla/website` | ⭐ 363 |
+| 2026-09-18 | 🥇 | [Community Membership paragraph alignment issue](https://github.com/layer5io/layer5/issues/8085) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-18 | 🥇 | [Layout shift when opening the “Meet Five” card](https://github.com/layer5io/layer5/issues/8084) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-18 | 🥇 | [Responsive UI issue with integration logos on mobile devices](https://github.com/layer5io/layer5/issues/8083) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-18 | 🥈 | [Add Subscription Items API endpoints](https://github.com/zonelessdev/zoneless/issues/159) | `zonelessdev/zoneless` | ⭐ 535 |
+| 2026-09-18 | 🥈 | [[good first issue] ⛩️ Add new Japanese Idiom 260 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30555) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-18 | 🥈 | [[Meshery Design]](https://github.com/meshery/meshery/issues/22024) | `meshery/meshery` | ⭐ 11.8k |
+| 2026-09-18 | 🥈 | [[Meshery Design]](https://github.com/meshery/meshery/issues/22023) | `meshery/meshery` | ⭐ 11.8k |
 | 2026-09-18 | 🥈 | [`table-input` appears on new PR lists](https://github.com/refined-github/refined-github/issues/10093) | `refined-github/refined-github` | ⭐ 32.2k |
 | 2026-09-18 | 🥇 | [[Good First Issue] 🧧 Add new Japanese Proverb 157 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30546) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-18 | 🥇 | [O .gitignore não protege os dois artefatos que o próprio kit cria (.update.lock ](https://github.com/melgarafael/DeskcommCRM/issues/1150) | `melgarafael/DeskcommCRM` | ⭐ 2.8k |
@@ -87,20 +104,3 @@
 | 2026-09-16 | 🥇 | [[Good First Issue] 🍶 Add new Community Note Line #1 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30493) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-16 | 🥇 | [[Good First Issue] 🎑 Add new Learner Mistake 53 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30492) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-16 | 🥇 | [Ficha do contato mostra "DISPLAY NAME" em inglês, sem tradução](https://github.com/melgarafael/DeskcommCRM/issues/1014) | `melgarafael/DeskcommCRM` | ⭐ 2.8k |
-| 2026-09-16 | 🥉 | [Bug: @videojs/html RC.2 Composite Imports Do Not Register Child Elements, Breaki](https://github.com/videojs/v10/issues/2841) | `videojs/v10` | ⭐ 945 |
-| 2026-09-16 | 🥉 | [docs: re-align the H2 2026 roadmap with the published MCP roadmap (2026-08-22) a](https://github.com/modelcontextprotocol/inspector/issues/2400) | `modelcontextprotocol/inspector` | ⭐ 10.9k |
-| 2026-09-16 | 🥈 | [[FEAT] Add systemic drag-and-drop animations \| 增加系统性的拖放动画效果](https://github.com/Ariestar/obsidian-dragger/issues/87) | `Ariestar/obsidian-dragger` | ⭐ 280 |
-| 2026-09-16 | 🥉 | [[DOCS] plugins-reference still shows a flat `agents/` tree and omits recursive s](https://github.com/anthropics/claude-code/issues/94857) | `anthropics/claude-code` | ⭐ 145.4k |
-| 2026-09-16 | 🥇 | [Seventeen icon-only buttons in the sidebar have no accessible name](https://github.com/libredb/libredb-studio/issues/919) | `libredb/libredb-studio` | ⭐ 754 |
-| 2026-09-16 | 🥇 | [Attach file by drag'n drop](https://github.com/webbrain-one/webbrain/issues/3051) | `webbrain-one/webbrain` | ⭐ 1.0k |
-| 2026-09-16 | 🥇 | [Both snap packages and the CycloneDX SBOM ship with no checksum of any kind](https://github.com/libredb/libredb-studio/issues/913) | `libredb/libredb-studio` | ⭐ 754 |
-| 2026-09-16 | 🥇 | [DigitalOcean README's health check expects {"status":"ok"} but the endpoint answ](https://github.com/libredb/libredb-studio/issues/905) | `libredb/libredb-studio` | ⭐ 754 |
-| 2026-09-16 | 🥈 | [Add Sort Control to Mobile View of Meshery Designs](https://github.com/meshery/meshery.io/issues/2990) | `meshery/meshery.io` | ⭐ 861 |
-| 2026-09-16 | 🥈 | [[维护] 拆分超过 800 行的测试文件（reply-strategy-card / inbound-handler-card）](https://github.com/soimy/openclaw-channel-dingtalk/issues/622) | `soimy/openclaw-channel-dingtalk` | ⭐ 1.7k |
-| 2026-09-16 | 🥈 | [[MCP marketplace] Add reviewed install flow for curated MCP entries](https://github.com/GoDiao/dreamcoder/issues/46) | `GoDiao/dreamcoder` | ⭐ 489 |
-| 2026-09-16 | 🥈 | [[MCP marketplace] Add read-only Browse catalog in Settings → MCP](https://github.com/GoDiao/dreamcoder/issues/45) | `GoDiao/dreamcoder` | ⭐ 489 |
-| 2026-09-16 | 🥈 | [[MCP marketplace] Define curated registry contract and seed catalog](https://github.com/GoDiao/dreamcoder/issues/44) | `GoDiao/dreamcoder` | ⭐ 489 |
-| 2026-09-16 | 🥈 | [[Bug] After drag-n-drop, tabs from another subtree jump to another level (change](https://github.com/piroor/treestyletab/issues/3968) | `piroor/treestyletab` | ⭐ 3.8k |
-| 2026-09-16 | 🥉 | [client(python): OAuth.initialize() drops an expired access token without trying ](https://github.com/mcp-use/mcp-use/issues/2560) | `mcp-use/mcp-use` | ⭐ 10.6k |
-| 2026-09-16 | 🥉 | [when run quikstart return unexpected version](https://github.com/paperclipai/paperclip/issues/13540) | `paperclipai/paperclip` | ⭐ 80.8k |
-| 2026-09-16 | 🥉 | [[Documentation Change Request]: Overview page describes pre-2.5 firmware behavio](https://github.com/meshtastic/meshtastic/issues/2706) | `meshtastic/meshtastic` | ⭐ 2.2k |
