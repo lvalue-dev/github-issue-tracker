@@ -1,5 +1,176 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30560",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30560,
+    "title": "[good first issue] ⛩️ Add new Etiquette Tip 522 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30560",
+    "comments": 1,
+    "createdAt": "2026-09-18T21:01:14Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-18T22:41:27.730Z"
+  },
+  {
+    "key": "ag-ui-protocol/ag-ui#2801",
+    "tier": 2,
+    "repo": "ag-ui-protocol/ag-ui",
+    "number": 2801,
+    "title": "[Feature]: Python SDK — frontend tool calling in the client demo",
+    "url": "https://github.com/ag-ui-protocol/ag-ui/issues/2801",
+    "comments": 0,
+    "createdAt": "2026-09-18T22:32:46Z",
+    "labels": [
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 15948,
+    "foundAt": "2026-09-18T22:41:29.360Z"
+  },
+  {
+    "key": "ag-ui-protocol/ag-ui#2800",
+    "tier": 2,
+    "repo": "ag-ui-protocol/ag-ui",
+    "number": 2800,
+    "title": "[Feature]: Python SDK — client support for streaming tool calls + demo",
+    "url": "https://github.com/ag-ui-protocol/ag-ui/issues/2800",
+    "comments": 0,
+    "createdAt": "2026-09-18T22:31:01Z",
+    "labels": [
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 15948,
+    "foundAt": "2026-09-18T22:41:29.360Z"
+  },
+  {
+    "key": "ag-ui-protocol/ag-ui#2799",
+    "tier": 2,
+    "repo": "ag-ui-protocol/ag-ui",
+    "number": 2799,
+    "title": "[Feature]: Python SDK — minimal client for text messages",
+    "url": "https://github.com/ag-ui-protocol/ag-ui/issues/2799",
+    "comments": 0,
+    "createdAt": "2026-09-18T22:28:47Z",
+    "labels": [
+      "help wanted",
+      "Roadmap",
+      "proposal"
+    ],
+    "language": "typescript",
+    "stars": 15948,
+    "foundAt": "2026-09-18T22:41:29.360Z"
+  },
+  {
+    "key": "ag-ui-protocol/ag-ui#2798",
+    "tier": 2,
+    "repo": "ag-ui-protocol/ag-ui",
+    "number": 2798,
+    "title": "[Feature]: Flue integration — shared state, interrupts and reasoning events",
+    "url": "https://github.com/ag-ui-protocol/ag-ui/issues/2798",
+    "comments": 0,
+    "createdAt": "2026-09-18T22:13:34Z",
+    "labels": [
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 15948,
+    "foundAt": "2026-09-18T22:41:29.360Z"
+  },
+  {
+    "key": "ag-ui-protocol/ag-ui#2797",
+    "tier": 2,
+    "repo": "ag-ui-protocol/ag-ui",
+    "number": 2797,
+    "title": "[Feature]: Flue integration — handle frontend-defined tools",
+    "url": "https://github.com/ag-ui-protocol/ag-ui/issues/2797",
+    "comments": 0,
+    "createdAt": "2026-09-18T22:11:29Z",
+    "labels": [
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 15948,
+    "foundAt": "2026-09-18T22:41:29.360Z"
+  },
+  {
+    "key": "ag-ui-protocol/ag-ui#2796",
+    "tier": 2,
+    "repo": "ag-ui-protocol/ag-ui",
+    "number": 2796,
+    "title": "[Feature]: Flue integration — stream tool calls to the frontend",
+    "url": "https://github.com/ag-ui-protocol/ag-ui/issues/2796",
+    "comments": 0,
+    "createdAt": "2026-09-18T22:10:23Z",
+    "labels": [
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 15948,
+    "foundAt": "2026-09-18T22:41:29.360Z"
+  },
+  {
+    "key": "ag-ui-protocol/ag-ui#2795",
+    "tier": 2,
+    "repo": "ag-ui-protocol/ag-ui",
+    "number": 2795,
+    "title": "[Feature]: Flue integration — multimodal user input (images)",
+    "url": "https://github.com/ag-ui-protocol/ag-ui/issues/2795",
+    "comments": 0,
+    "createdAt": "2026-09-18T22:07:39Z",
+    "labels": [
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 15948,
+    "foundAt": "2026-09-18T22:41:29.360Z"
+  },
+  {
+    "key": "ag-ui-protocol/ag-ui#2793",
+    "tier": 2,
+    "repo": "ag-ui-protocol/ag-ui",
+    "number": 2793,
+    "title": "[Feature]: Plan the Flue framework integration",
+    "url": "https://github.com/ag-ui-protocol/ag-ui/issues/2793",
+    "comments": 0,
+    "createdAt": "2026-09-18T22:00:46Z",
+    "labels": [
+      "help wanted",
+      "Roadmap",
+      "proposal"
+    ],
+    "language": "typescript",
+    "stars": 15948,
+    "foundAt": "2026-09-18T22:41:29.569Z"
+  },
+  {
+    "key": "Workday/canvas-kit#4176",
+    "tier": 3,
+    "repo": "Workday/canvas-kit",
+    "number": 4176,
+    "title": "SegmentedControl: accept aria-labelledby and align subcomponent names with DOM",
+    "url": "https://github.com/Workday/canvas-kit/issues/4176",
+    "comments": 0,
+    "createdAt": "2026-09-18T22:16:17Z",
+    "labels": [
+      "accessibility"
+    ],
+    "language": "typescript",
+    "stars": 363,
+    "foundAt": "2026-09-18T22:41:30.958Z"
+  },
+  {
     "key": "bastani-inc/atomic#3109",
     "tier": 1,
     "repo": "bastani-inc/atomic",
@@ -1727,184 +1898,5 @@
     "language": "typescript",
     "stars": 211,
     "foundAt": "2026-09-17T13:37:59.741Z"
-  },
-  {
-    "key": "OpsiMate/OpsiMate#976",
-    "tier": 1,
-    "repo": "OpsiMate/OpsiMate",
-    "number": 976,
-    "title": "Fix the \"unsilenceing\" toast and the \"Deleted 1 alerts\" copy in useAlertActions",
-    "url": "https://github.com/OpsiMate/OpsiMate/issues/976",
-    "comments": 0,
-    "createdAt": "2026-09-17T13:10:44Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "UI",
-      "Server"
-    ],
-    "language": "typescript",
-    "stars": 211,
-    "foundAt": "2026-09-17T13:37:59.741Z"
-  },
-  {
-    "key": "OpsiMate/OpsiMate#975",
-    "tier": 1,
-    "repo": "OpsiMate/OpsiMate",
-    "number": 975,
-    "title": "Add unit tests for useExpandRows",
-    "url": "https://github.com/OpsiMate/OpsiMate/issues/975",
-    "comments": 0,
-    "createdAt": "2026-09-17T13:10:43Z",
-    "labels": [
-      "good first issue",
-      "UI",
-      "Test"
-    ],
-    "language": "typescript",
-    "stars": 211,
-    "foundAt": "2026-09-17T13:37:59.741Z"
-  },
-  {
-    "key": "OpsiMate/OpsiMate#974",
-    "tier": 1,
-    "repo": "OpsiMate/OpsiMate",
-    "number": 974,
-    "title": "Add unit tests for PreserveQueryLink",
-    "url": "https://github.com/OpsiMate/OpsiMate/issues/974",
-    "comments": 0,
-    "createdAt": "2026-09-17T13:10:41Z",
-    "labels": [
-      "good first issue",
-      "UI",
-      "Test"
-    ],
-    "language": "typescript",
-    "stars": 211,
-    "foundAt": "2026-09-17T13:37:59.741Z"
-  },
-  {
-    "key": "OpsiMate/OpsiMate#973",
-    "tier": 1,
-    "repo": "OpsiMate/OpsiMate",
-    "number": 973,
-    "title": "Add unit tests for the mail templates",
-    "url": "https://github.com/OpsiMate/OpsiMate/issues/973",
-    "comments": 0,
-    "createdAt": "2026-09-17T13:10:39Z",
-    "labels": [
-      "good first issue",
-      "Server",
-      "Test"
-    ],
-    "language": "typescript",
-    "stars": 211,
-    "foundAt": "2026-09-17T13:37:59.741Z"
-  },
-  {
-    "key": "OpsiMate/OpsiMate#988",
-    "tier": 1,
-    "repo": "OpsiMate/OpsiMate",
-    "number": 988,
-    "title": "Remove the TV Mode page — the feature does not exist in the product",
-    "url": "https://github.com/OpsiMate/OpsiMate/issues/988",
-    "comments": 0,
-    "createdAt": "2026-09-17T13:10:14Z",
-    "labels": [
-      "documentation",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 211,
-    "foundAt": "2026-09-17T13:37:59.741Z"
-  },
-  {
-    "key": "OpsiMate/OpsiMate#987",
-    "tier": 1,
-    "repo": "OpsiMate/OpsiMate",
-    "number": 987,
-    "title": "Delete the Docusaurus template blog and sample assets",
-    "url": "https://github.com/OpsiMate/OpsiMate/issues/987",
-    "comments": 0,
-    "createdAt": "2026-09-17T13:10:12Z",
-    "labels": [
-      "bug",
-      "documentation",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 211,
-    "foundAt": "2026-09-17T13:37:59.741Z"
-  },
-  {
-    "key": "OpsiMate/OpsiMate#986",
-    "tier": 1,
-    "repo": "OpsiMate/OpsiMate",
-    "number": 986,
-    "title": "Uptime Kuma page shows the wrong webhook path",
-    "url": "https://github.com/OpsiMate/OpsiMate/issues/986",
-    "comments": 0,
-    "createdAt": "2026-09-17T13:10:11Z",
-    "labels": [
-      "bug",
-      "documentation",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 211,
-    "foundAt": "2026-09-17T13:37:59.741Z"
-  },
-  {
-    "key": "OpsiMate/OpsiMate#985",
-    "tier": 1,
-    "repo": "OpsiMate/OpsiMate",
-    "number": 985,
-    "title": "Fix the intro typo and the wrong GitHub org link",
-    "url": "https://github.com/OpsiMate/OpsiMate/issues/985",
-    "comments": 0,
-    "createdAt": "2026-09-17T13:10:09Z",
-    "labels": [
-      "documentation",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 211,
-    "foundAt": "2026-09-17T13:37:59.741Z"
-  },
-  {
-    "key": "meshery/meshery#21997",
-    "tier": 2,
-    "repo": "meshery/meshery",
-    "number": 21997,
-    "title": "[Docs] Fix broken mobile responsiveness CSS selector and parameter naming in 'extension-guide' shortcode",
-    "url": "https://github.com/meshery/meshery/issues/21997",
-    "comments": 1,
-    "createdAt": "2026-09-17T13:24:26Z",
-    "labels": [
-      "help wanted",
-      "area/docs",
-      "language/markdown",
-      "framework/hugo"
-    ],
-    "language": "typescript",
-    "stars": 11744,
-    "foundAt": "2026-09-17T13:38:01.080Z"
-  },
-  {
-    "key": "shridhar-tl/jira-assistant#452",
-    "tier": 2,
-    "repo": "shridhar-tl/jira-assistant",
-    "number": 452,
-    "title": "Need to sync microsoft calendar with Jira Assistant",
-    "url": "https://github.com/shridhar-tl/jira-assistant/issues/452",
-    "comments": 1,
-    "createdAt": "2026-09-17T13:05:14Z",
-    "labels": [
-      "bug",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 284,
-    "foundAt": "2026-09-17T13:38:01.328Z"
   }
 ]

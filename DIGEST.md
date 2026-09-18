@@ -4,6 +4,16 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-18 | 🥇 | [[good first issue] ⛩️ Add new Etiquette Tip 522 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30560) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-18 | 🥈 | [[Feature]: Python SDK — frontend tool calling in the client demo](https://github.com/ag-ui-protocol/ag-ui/issues/2801) | `ag-ui-protocol/ag-ui` | ⭐ 15.9k |
+| 2026-09-18 | 🥈 | [[Feature]: Python SDK — client support for streaming tool calls + demo](https://github.com/ag-ui-protocol/ag-ui/issues/2800) | `ag-ui-protocol/ag-ui` | ⭐ 15.9k |
+| 2026-09-18 | 🥈 | [[Feature]: Python SDK — minimal client for text messages](https://github.com/ag-ui-protocol/ag-ui/issues/2799) | `ag-ui-protocol/ag-ui` | ⭐ 15.9k |
+| 2026-09-18 | 🥈 | [[Feature]: Flue integration — shared state, interrupts and reasoning events](https://github.com/ag-ui-protocol/ag-ui/issues/2798) | `ag-ui-protocol/ag-ui` | ⭐ 15.9k |
+| 2026-09-18 | 🥈 | [[Feature]: Flue integration — handle frontend-defined tools](https://github.com/ag-ui-protocol/ag-ui/issues/2797) | `ag-ui-protocol/ag-ui` | ⭐ 15.9k |
+| 2026-09-18 | 🥈 | [[Feature]: Flue integration — stream tool calls to the frontend](https://github.com/ag-ui-protocol/ag-ui/issues/2796) | `ag-ui-protocol/ag-ui` | ⭐ 15.9k |
+| 2026-09-18 | 🥈 | [[Feature]: Flue integration — multimodal user input (images)](https://github.com/ag-ui-protocol/ag-ui/issues/2795) | `ag-ui-protocol/ag-ui` | ⭐ 15.9k |
+| 2026-09-18 | 🥈 | [[Feature]: Plan the Flue framework integration](https://github.com/ag-ui-protocol/ag-ui/issues/2793) | `ag-ui-protocol/ag-ui` | ⭐ 15.9k |
+| 2026-09-18 | 🥉 | [SegmentedControl: accept aria-labelledby and align subcomponent names with DOM](https://github.com/Workday/canvas-kit/issues/4176) | `Workday/canvas-kit` | ⭐ 363 |
 | 2026-09-18 | 🥇 | [feat(workflows): bind nested workflows to explicit repositories and worktrees](https://github.com/bastani-inc/atomic/issues/3109) | `bastani-inc/atomic` | ⭐ 805 |
 | 2026-09-18 | 🥇 | [[good first issue] 🗾 Add new False Friend Pair 913 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30559) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-18 | 🥇 | [Every `area/*` label still describes a directory 3.1.0 deleted](https://github.com/reticlehq/reticle/issues/981) | `reticlehq/reticle` | ⭐ 725 |
@@ -94,13 +104,3 @@
 | 2026-09-17 | 🥇 | [Add unit tests for AlertHistoryRepository](https://github.com/OpsiMate/OpsiMate/issues/979) | `OpsiMate/OpsiMate` | ⭐ 211 |
 | 2026-09-17 | 🥇 | [Add unit tests for timed-silence expiry (the clearExpiredSilences lazy sweep)](https://github.com/OpsiMate/OpsiMate/issues/978) | `OpsiMate/OpsiMate` | ⭐ 211 |
 | 2026-09-17 | 🥇 | [Non-numeric :id path params return 500 instead of 400 on five routers](https://github.com/OpsiMate/OpsiMate/issues/977) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-17 | 🥇 | [Fix the "unsilenceing" toast and the "Deleted 1 alerts" copy in useAlertActions](https://github.com/OpsiMate/OpsiMate/issues/976) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-17 | 🥇 | [Add unit tests for useExpandRows](https://github.com/OpsiMate/OpsiMate/issues/975) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-17 | 🥇 | [Add unit tests for PreserveQueryLink](https://github.com/OpsiMate/OpsiMate/issues/974) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-17 | 🥇 | [Add unit tests for the mail templates](https://github.com/OpsiMate/OpsiMate/issues/973) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-17 | 🥇 | [Remove the TV Mode page — the feature does not exist in the product](https://github.com/OpsiMate/OpsiMate/issues/988) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-17 | 🥇 | [Delete the Docusaurus template blog and sample assets](https://github.com/OpsiMate/OpsiMate/issues/987) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-17 | 🥇 | [Uptime Kuma page shows the wrong webhook path](https://github.com/OpsiMate/OpsiMate/issues/986) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-17 | 🥇 | [Fix the intro typo and the wrong GitHub org link](https://github.com/OpsiMate/OpsiMate/issues/985) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-17 | 🥈 | [[Docs] Fix broken mobile responsiveness CSS selector and parameter naming in 'ex](https://github.com/meshery/meshery/issues/21997) | `meshery/meshery` | ⭐ 11.7k |
-| 2026-09-17 | 🥈 | [Need to sync microsoft calendar with Jira Assistant](https://github.com/shridhar-tl/jira-assistant/issues/452) | `shridhar-tl/jira-assistant` | ⭐ 284 |
