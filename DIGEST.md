@@ -4,6 +4,21 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-18 | 🥇 | [feat(workflows): bind nested workflows to explicit repositories and worktrees](https://github.com/bastani-inc/atomic/issues/3109) | `bastani-inc/atomic` | ⭐ 805 |
+| 2026-09-18 | 🥇 | [[good first issue] 🗾 Add new False Friend Pair 913 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30559) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-18 | 🥇 | [Every `area/*` label still describes a directory 3.1.0 deleted](https://github.com/reticlehq/reticle/issues/981) | `reticlehq/reticle` | ⭐ 725 |
+| 2026-09-18 | 🥇 | [Add Microsoft Teams link preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/19) | `shadcn-labs/ogimagecn` | ⭐ 229 |
+| 2026-09-18 | 🥇 | [Add Threads link preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/18) | `shadcn-labs/ogimagecn` | ⭐ 229 |
+| 2026-09-18 | 🥇 | [Add Notion link preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/17) | `shadcn-labs/ogimagecn` | ⭐ 229 |
+| 2026-09-18 | 🥇 | [Add iMessage link preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/16) | `shadcn-labs/ogimagecn` | ⭐ 229 |
+| 2026-09-18 | 🥇 | [Add Reddit link preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/15) | `shadcn-labs/ogimagecn` | ⭐ 229 |
+| 2026-09-18 | 🥇 | [Add Mastodon link preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/14) | `shadcn-labs/ogimagecn` | ⭐ 229 |
+| 2026-09-18 | 🥇 | [Add Bluesky link preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/13) | `shadcn-labs/ogimagecn` | ⭐ 229 |
+| 2026-09-18 | 🥇 | [Match the clear-history button gating and confirmation text to what clearAllHist](https://github.com/felladrin/MiniSearch/issues/2689) | `felladrin/MiniSearch` | ⭐ 587 |
+| 2026-09-18 | 🥇 | [[good first issue] 🍢 Add new Dialect Entry 1028 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30557) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-18 | 🥈 | [[🐛 Bug]:  AI assistant reset button overlaps with scrollbar](https://github.com/webdriverio/webdriverio/issues/15623) | `webdriverio/webdriverio` | ⭐ 9.8k |
+| 2026-09-18 | 🥉 | [Link to Vercel SvelteKit templates](https://github.com/sveltejs/kit/issues/17154) | `sveltejs/kit` | ⭐ 20.8k |
+| 2026-09-18 | 🥉 | [Mention `sv` in adapter docs](https://github.com/sveltejs/kit/issues/17153) | `sveltejs/kit` | ⭐ 20.8k |
 | 2026-09-18 | 🥇 | [[Linux] Titlebar title sits off-center: 78px left padding is a macOS-only allowa](https://github.com/tommy0103/obelisk/issues/184) | `tommy0103/obelisk` | ⭐ 510 |
 | 2026-09-18 | 🥇 | [Add Subscription Items API documentation](https://github.com/zonelessdev/zoneless/issues/161) | `zonelessdev/zoneless` | ⭐ 535 |
 | 2026-09-18 | 🥇 | [Add Subscription Items to the Node SDK](https://github.com/zonelessdev/zoneless/issues/160) | `zonelessdev/zoneless` | ⭐ 535 |
@@ -89,18 +104,3 @@
 | 2026-09-17 | 🥇 | [Fix the intro typo and the wrong GitHub org link](https://github.com/OpsiMate/OpsiMate/issues/985) | `OpsiMate/OpsiMate` | ⭐ 211 |
 | 2026-09-17 | 🥈 | [[Docs] Fix broken mobile responsiveness CSS selector and parameter naming in 'ex](https://github.com/meshery/meshery/issues/21997) | `meshery/meshery` | ⭐ 11.7k |
 | 2026-09-17 | 🥈 | [Need to sync microsoft calendar with Jira Assistant](https://github.com/shridhar-tl/jira-assistant/issues/452) | `shridhar-tl/jira-assistant` | ⭐ 284 |
-| 2026-09-17 | 🥈 | [TS:  Statement after top-level `await` is duplicated with `typescript` parser](https://github.com/prettier/prettier/issues/20096) | `prettier/prettier` | ⭐ 52.2k |
-| 2026-09-17 | 🥉 | [docs: exclusion lists don't clarify CIDR usage or that Observables are unaffecte](https://github.com/OpenCTI-Platform/opencti/issues/18333) | `OpenCTI-Platform/opencti` | ⭐ 10.0k |
-| 2026-09-17 | 🥉 | [Broken URL for leaflet.sidepanel plugin](https://github.com/Leaflet/Leaflet/issues/10385) | `Leaflet/Leaflet` | ⭐ 45.6k |
-| 2026-09-17 | 🥇 | [ListFooter page length picker renders nothing: still passes the removed `buttons](https://github.com/frappe/frappe-ui/issues/1170) | `frappe/frappe-ui` | ⭐ 1.0k |
-| 2026-09-17 | 🥇 | [[Good First Issue] 🐡 Add new Japanese Proverb 173 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30499) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-17 | 🥇 | [[Good First Issue] 🍘 Add new Japan Fact 74 - Beginner-Friendly Open-source Cont](https://github.com/lingdojo/kana-dojo/issues/30497) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-17 | 🥇 | [Forward Ticket to External Third Party / Supplier in Frappe Helpdesk](https://github.com/frappe/helpdesk/issues/3774) | `frappe/helpdesk` | ⭐ 3.4k |
-| 2026-09-17 | 🥉 | [docs: geometry guide's "Coordinate Handling" predates `wasmRtcOffset`; federatio](https://github.com/LTplus-AG/ifc-lite/issues/4898) | `LTplus-AG/ifc-lite` | ⭐ 377 |
-| 2026-09-17 | 🥇 | [[Good First Issue] 🎏 Add new Theme: Tea Ceramic - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30496) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-17 | 🥈 | [One-command Keycloak demo stack so OIDC can be tried without reading the docs](https://github.com/libredb/libredb-studio/issues/941) | `libredb/libredb-studio` | ⭐ 754 |
-| 2026-09-17 | 🥈 | [Resolve seed connection passwords from HashiCorp Vault at connect time](https://github.com/libredb/libredb-studio/issues/937) | `libredb/libredb-studio` | ⭐ 754 |
-| 2026-09-17 | 🥉 | [Audit and prune the agent documentation, then make the pass periodic](https://github.com/gotgenes/pi-packages/issues/934) | `gotgenes/pi-packages` | ⭐ 220 |
-| 2026-09-16 | 🥇 | [[Good First Issue] 🍶 Add new Community Note Line #1 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30493) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-16 | 🥇 | [[Good First Issue] 🎑 Add new Learner Mistake 53 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30492) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-16 | 🥇 | [Ficha do contato mostra "DISPLAY NAME" em inglês, sem tradução](https://github.com/melgarafael/DeskcommCRM/issues/1014) | `melgarafael/DeskcommCRM` | ⭐ 2.8k |

@@ -1,5 +1,281 @@
 [
   {
+    "key": "bastani-inc/atomic#3109",
+    "tier": 1,
+    "repo": "bastani-inc/atomic",
+    "number": 3109,
+    "title": "feat(workflows): bind nested workflows to explicit repositories and worktrees",
+    "url": "https://github.com/bastani-inc/atomic/issues/3109",
+    "comments": 0,
+    "createdAt": "2026-09-18T19:41:12Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 805,
+    "foundAt": "2026-09-18T19:47:19.977Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30559",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30559,
+    "title": "[good first issue] 🗾 Add new False Friend Pair 913 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30559",
+    "comments": 1,
+    "createdAt": "2026-09-18T19:01:10Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-18T19:47:20.463Z"
+  },
+  {
+    "key": "reticlehq/reticle#981",
+    "tier": 1,
+    "repo": "reticlehq/reticle",
+    "number": 981,
+    "title": "Every `area/*` label still describes a directory 3.1.0 deleted",
+    "url": "https://github.com/reticlehq/reticle/issues/981",
+    "comments": 0,
+    "createdAt": "2026-09-18T18:44:11Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 725,
+    "foundAt": "2026-09-18T19:47:20.910Z"
+  },
+  {
+    "key": "shadcn-labs/ogimagecn#19",
+    "tier": 1,
+    "repo": "shadcn-labs/ogimagecn",
+    "number": 19,
+    "title": "Add Microsoft Teams link preview to the scanner",
+    "url": "https://github.com/shadcn-labs/ogimagecn/issues/19",
+    "comments": 0,
+    "createdAt": "2026-09-18T18:16:33Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 229,
+    "foundAt": "2026-09-18T19:47:21.420Z"
+  },
+  {
+    "key": "shadcn-labs/ogimagecn#18",
+    "tier": 1,
+    "repo": "shadcn-labs/ogimagecn",
+    "number": 18,
+    "title": "Add Threads link preview to the scanner",
+    "url": "https://github.com/shadcn-labs/ogimagecn/issues/18",
+    "comments": 0,
+    "createdAt": "2026-09-18T18:16:31Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 229,
+    "foundAt": "2026-09-18T19:47:21.420Z"
+  },
+  {
+    "key": "shadcn-labs/ogimagecn#17",
+    "tier": 1,
+    "repo": "shadcn-labs/ogimagecn",
+    "number": 17,
+    "title": "Add Notion link preview to the scanner",
+    "url": "https://github.com/shadcn-labs/ogimagecn/issues/17",
+    "comments": 0,
+    "createdAt": "2026-09-18T18:16:29Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 229,
+    "foundAt": "2026-09-18T19:47:21.420Z"
+  },
+  {
+    "key": "shadcn-labs/ogimagecn#16",
+    "tier": 1,
+    "repo": "shadcn-labs/ogimagecn",
+    "number": 16,
+    "title": "Add iMessage link preview to the scanner",
+    "url": "https://github.com/shadcn-labs/ogimagecn/issues/16",
+    "comments": 0,
+    "createdAt": "2026-09-18T18:16:27Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 229,
+    "foundAt": "2026-09-18T19:47:21.420Z"
+  },
+  {
+    "key": "shadcn-labs/ogimagecn#15",
+    "tier": 1,
+    "repo": "shadcn-labs/ogimagecn",
+    "number": 15,
+    "title": "Add Reddit link preview to the scanner",
+    "url": "https://github.com/shadcn-labs/ogimagecn/issues/15",
+    "comments": 0,
+    "createdAt": "2026-09-18T18:16:25Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 229,
+    "foundAt": "2026-09-18T19:47:21.420Z"
+  },
+  {
+    "key": "shadcn-labs/ogimagecn#14",
+    "tier": 1,
+    "repo": "shadcn-labs/ogimagecn",
+    "number": 14,
+    "title": "Add Mastodon link preview to the scanner",
+    "url": "https://github.com/shadcn-labs/ogimagecn/issues/14",
+    "comments": 0,
+    "createdAt": "2026-09-18T18:16:23Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 229,
+    "foundAt": "2026-09-18T19:47:21.420Z"
+  },
+  {
+    "key": "shadcn-labs/ogimagecn#13",
+    "tier": 1,
+    "repo": "shadcn-labs/ogimagecn",
+    "number": 13,
+    "title": "Add Bluesky link preview to the scanner",
+    "url": "https://github.com/shadcn-labs/ogimagecn/issues/13",
+    "comments": 0,
+    "createdAt": "2026-09-18T18:16:21Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 229,
+    "foundAt": "2026-09-18T19:47:21.420Z"
+  },
+  {
+    "key": "felladrin/MiniSearch#2689",
+    "tier": 1,
+    "repo": "felladrin/MiniSearch",
+    "number": 2689,
+    "title": "Match the clear-history button gating and confirmation text to what clearAllHistory deletes",
+    "url": "https://github.com/felladrin/MiniSearch/issues/2689",
+    "comments": 0,
+    "createdAt": "2026-09-18T17:40:34Z",
+    "labels": [
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 587,
+    "foundAt": "2026-09-18T19:47:21.864Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30557",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30557,
+    "title": "[good first issue] 🍢 Add new Dialect Entry 1028 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30557",
+    "comments": 1,
+    "createdAt": "2026-09-18T17:01:08Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-18T19:47:22.165Z"
+  },
+  {
+    "key": "webdriverio/webdriverio#15623",
+    "tier": 2,
+    "repo": "webdriverio/webdriverio",
+    "number": 15623,
+    "title": "[🐛 Bug]:  AI assistant reset button overlaps with scrollbar",
+    "url": "https://github.com/webdriverio/webdriverio/issues/15623",
+    "comments": 2,
+    "createdAt": "2026-09-18T17:42:40Z",
+    "labels": [
+      "Bug 🐛",
+      "Docs 📖",
+      "help wanted",
+      "good first pick"
+    ],
+    "language": "typescript",
+    "stars": 9835,
+    "foundAt": "2026-09-18T19:47:23.913Z"
+  },
+  {
+    "key": "sveltejs/kit#17154",
+    "tier": 3,
+    "repo": "sveltejs/kit",
+    "number": 17154,
+    "title": "Link to Vercel SvelteKit templates",
+    "url": "https://github.com/sveltejs/kit/issues/17154",
+    "comments": 0,
+    "createdAt": "2026-09-18T19:47:06Z",
+    "labels": [
+      "documentation",
+      "pkg:adapter-vercel"
+    ],
+    "language": "javascript",
+    "stars": 20817,
+    "foundAt": "2026-09-18T19:47:26.543Z"
+  },
+  {
+    "key": "sveltejs/kit#17153",
+    "tier": 3,
+    "repo": "sveltejs/kit",
+    "number": 17153,
+    "title": "Mention `sv` in adapter docs",
+    "url": "https://github.com/sveltejs/kit/issues/17153",
+    "comments": 0,
+    "createdAt": "2026-09-18T18:52:53Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "javascript",
+    "stars": 20817,
+    "foundAt": "2026-09-18T19:47:26.850Z"
+  },
+  {
     "key": "tommy0103/obelisk#184",
     "tier": 1,
     "repo": "tommy0103/obelisk",
@@ -1630,300 +1906,5 @@
     "language": "typescript",
     "stars": 284,
     "foundAt": "2026-09-17T13:38:01.328Z"
-  },
-  {
-    "key": "prettier/prettier#20096",
-    "tier": 2,
-    "repo": "prettier/prettier",
-    "number": 20096,
-    "title": "TS:  Statement after top-level `await` is duplicated with `typescript` parser",
-    "url": "https://github.com/prettier/prettier/issues/20096",
-    "comments": 2,
-    "createdAt": "2026-09-17T09:05:29Z",
-    "labels": [
-      "help wanted",
-      "lang:typescript",
-      "scope:external"
-    ],
-    "language": "javascript",
-    "stars": 52242,
-    "foundAt": "2026-09-17T13:38:02.689Z"
-  },
-  {
-    "key": "OpenCTI-Platform/opencti#18333",
-    "tier": 3,
-    "repo": "OpenCTI-Platform/opencti",
-    "number": 18333,
-    "title": "docs: exclusion lists don't clarify CIDR usage or that Observables are unaffected",
-    "url": "https://github.com/OpenCTI-Platform/opencti/issues/18333",
-    "comments": 0,
-    "createdAt": "2026-09-17T13:22:41Z",
-    "labels": [
-      "needs triage",
-      "documentation"
-    ],
-    "language": "typescript",
-    "stars": 9962,
-    "foundAt": "2026-09-17T13:38:04.308Z"
-  },
-  {
-    "key": "Leaflet/Leaflet#10385",
-    "tier": 3,
-    "repo": "Leaflet/Leaflet",
-    "number": 10385,
-    "title": "Broken URL for leaflet.sidepanel plugin",
-    "url": "https://github.com/Leaflet/Leaflet/issues/10385",
-    "comments": 0,
-    "createdAt": "2026-09-17T08:38:07Z",
-    "labels": [
-      "docs",
-      "needs triage"
-    ],
-    "language": "javascript",
-    "stars": 45627,
-    "foundAt": "2026-09-17T13:38:08.001Z"
-  },
-  {
-    "key": "frappe/frappe-ui#1170",
-    "tier": 1,
-    "repo": "frappe/frappe-ui",
-    "number": 1170,
-    "title": "ListFooter page length picker renders nothing: still passes the removed `buttons` prop to TabButtons",
-    "url": "https://github.com/frappe/frappe-ui/issues/1170",
-    "comments": 1,
-    "createdAt": "2026-09-17T05:10:27Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "ui",
-      "triaged"
-    ],
-    "language": "typescript",
-    "stars": 1026,
-    "foundAt": "2026-09-17T07:50:41.714Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30499",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30499,
-    "title": "[Good First Issue] 🐡 Add new Japanese Proverb 173 - Beginner-Friendly Open-source Contribution (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30499",
-    "comments": 1,
-    "createdAt": "2026-09-17T05:01:08Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-17T07:50:41.942Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30497",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30497,
-    "title": "[Good First Issue] 🍘 Add new Japan Fact 74 - Beginner-Friendly Open-source Contribution (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30497",
-    "comments": 1,
-    "createdAt": "2026-09-17T03:01:05Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-17T07:50:42.412Z"
-  },
-  {
-    "key": "frappe/helpdesk#3774",
-    "tier": 1,
-    "repo": "frappe/helpdesk",
-    "number": 3774,
-    "title": "Forward Ticket to External Third Party / Supplier in Frappe Helpdesk",
-    "url": "https://github.com/frappe/helpdesk/issues/3774",
-    "comments": 0,
-    "createdAt": "2026-09-16T20:04:25Z",
-    "labels": [
-      "good first issue"
-    ],
-    "language": "vue",
-    "stars": 3382,
-    "foundAt": "2026-09-17T07:50:44.086Z"
-  },
-  {
-    "key": "LTplus-AG/ifc-lite#4898",
-    "tier": 3,
-    "repo": "LTplus-AG/ifc-lite",
-    "number": 4898,
-    "title": "docs: geometry guide's \"Coordinate Handling\" predates `wasmRtcOffset`; federation guide doesn't mention the shared RTC frame",
-    "url": "https://github.com/LTplus-AG/ifc-lite/issues/4898",
-    "comments": 0,
-    "createdAt": "2026-09-17T07:39:03Z",
-    "labels": [
-      "documentation",
-      "ready"
-    ],
-    "language": "typescript",
-    "stars": 377,
-    "foundAt": "2026-09-17T07:50:45.492Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30496",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30496,
-    "title": "[Good First Issue] 🎏 Add new Theme: Tea Ceramic - Beginner-Friendly Open-source Contribution (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30496",
-    "comments": 1,
-    "createdAt": "2026-09-17T01:01:01Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-17T01:33:08.334Z"
-  },
-  {
-    "key": "libredb/libredb-studio#941",
-    "tier": 2,
-    "repo": "libredb/libredb-studio",
-    "number": 941,
-    "title": "One-command Keycloak demo stack so OIDC can be tried without reading the docs",
-    "url": "https://github.com/libredb/libredb-studio/issues/941",
-    "comments": 0,
-    "createdAt": "2026-09-16T23:57:25Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "security",
-      "core-capabilities"
-    ],
-    "language": "typescript",
-    "stars": 754,
-    "foundAt": "2026-09-17T01:33:08.780Z"
-  },
-  {
-    "key": "libredb/libredb-studio#937",
-    "tier": 2,
-    "repo": "libredb/libredb-studio",
-    "number": 937,
-    "title": "Resolve seed connection passwords from HashiCorp Vault at connect time",
-    "url": "https://github.com/libredb/libredb-studio/issues/937",
-    "comments": 0,
-    "createdAt": "2026-09-16T23:09:51Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "security",
-      "core-capabilities"
-    ],
-    "language": "typescript",
-    "stars": 754,
-    "foundAt": "2026-09-17T01:33:08.958Z"
-  },
-  {
-    "key": "gotgenes/pi-packages#934",
-    "tier": 3,
-    "repo": "gotgenes/pi-packages",
-    "number": 934,
-    "title": "Audit and prune the agent documentation, then make the pass periodic",
-    "url": "https://github.com/gotgenes/pi-packages/issues/934",
-    "comments": 1,
-    "createdAt": "2026-09-17T00:34:27Z",
-    "labels": [
-      "documentation",
-      "scope:repo"
-    ],
-    "language": "typescript",
-    "stars": 220,
-    "foundAt": "2026-09-17T01:33:11.104Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30493",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30493,
-    "title": "[Good First Issue] 🍶 Add new Community Note Line #1 - Beginner-Friendly Open-source Contribution (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30493",
-    "comments": 1,
-    "createdAt": "2026-09-16T23:00:58Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-16T23:03:50.699Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30492",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30492,
-    "title": "[Good First Issue] 🎑 Add new Learner Mistake 53 - Beginner-Friendly Open-source Contribution (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30492",
-    "comments": 1,
-    "createdAt": "2026-09-16T21:01:06Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3350,
-    "foundAt": "2026-09-16T23:03:52.116Z"
-  },
-  {
-    "key": "melgarafael/DeskcommCRM#1014",
-    "tier": 1,
-    "repo": "melgarafael/DeskcommCRM",
-    "number": 1014,
-    "title": "Ficha do contato mostra \"DISPLAY NAME\" em inglês, sem tradução",
-    "url": "https://github.com/melgarafael/DeskcommCRM/issues/1014",
-    "comments": 2,
-    "createdAt": "2026-09-16T20:49:55Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "area/ui",
-      "triagem:confirmado"
-    ],
-    "language": "typescript",
-    "stars": 2821,
-    "foundAt": "2026-09-16T23:03:52.116Z"
   }
 ]
