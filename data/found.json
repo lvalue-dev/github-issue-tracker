@@ -1,5 +1,272 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30564",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30564,
+    "title": "[good first issue] 🌊 Add new Learner Mistake 689 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30564",
+    "comments": 1,
+    "createdAt": "2026-09-19T01:01:03Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-19T01:18:48.286Z"
+  },
+  {
+    "key": "reticlehq/reticle#982",
+    "tier": 1,
+    "repo": "reticlehq/reticle",
+    "number": 982,
+    "title": "`reticle_tools` is the one tool on the nine-tool surface that rejects `action`, and it is the tool an agent reaches for when it is already lost",
+    "url": "https://github.com/reticlehq/reticle/issues/982",
+    "comments": 0,
+    "createdAt": "2026-09-19T00:43:50Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "area/server"
+    ],
+    "language": "typescript",
+    "stars": 725,
+    "foundAt": "2026-09-19T01:18:48.524Z"
+  },
+  {
+    "key": "libredb/libredb-studio#981",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 981,
+    "title": "SQLite kind-vocabulary guard scrapes source text, so a kind can be declared and unmapped",
+    "url": "https://github.com/libredb/libredb-studio/issues/981",
+    "comments": 0,
+    "createdAt": "2026-09-19T00:23:43Z",
+    "labels": [
+      "good first issue",
+      "help wanted",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 754,
+    "foundAt": "2026-09-19T01:18:48.524Z"
+  },
+  {
+    "key": "libredb/libredb-studio#980",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 980,
+    "title": "Backlog citation scan reads untracked files, so a local draft fails a gate CI cannot",
+    "url": "https://github.com/libredb/libredb-studio/issues/980",
+    "comments": 0,
+    "createdAt": "2026-09-19T00:23:41Z",
+    "labels": [
+      "good first issue",
+      "help wanted",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 754,
+    "foundAt": "2026-09-19T01:18:48.524Z"
+  },
+  {
+    "key": "libredb/libredb-studio#979",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 979,
+    "title": "A committed .only makes a test file report PASS with the rest of its tests never run",
+    "url": "https://github.com/libredb/libredb-studio/issues/979",
+    "comments": 0,
+    "createdAt": "2026-09-19T00:23:39Z",
+    "labels": [
+      "good first issue",
+      "help wanted",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 754,
+    "foundAt": "2026-09-19T01:18:48.524Z"
+  },
+  {
+    "key": "libredb/libredb-studio#978",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 978,
+    "title": "Hoist assertObjectPathShape: it is defined nine times across the providers",
+    "url": "https://github.com/libredb/libredb-studio/issues/978",
+    "comments": 3,
+    "createdAt": "2026-09-19T00:23:37Z",
+    "labels": [
+      "good first issue",
+      "help wanted",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 754,
+    "foundAt": "2026-09-19T01:18:48.524Z"
+  },
+  {
+    "key": "libredb/libredb-studio#977",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 977,
+    "title": "Admin Operations table list does not show a row's schema",
+    "url": "https://github.com/libredb/libredb-studio/issues/977",
+    "comments": 1,
+    "createdAt": "2026-09-19T00:23:35Z",
+    "labels": [
+      "good first issue",
+      "help wanted",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 754,
+    "foundAt": "2026-09-19T01:18:48.524Z"
+  },
+  {
+    "key": "libredb/libredb-studio#976",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 976,
+    "title": "Get LibreDB Studio listed in the CockroachDB docs",
+    "url": "https://github.com/libredb/libredb-studio/issues/976",
+    "comments": 0,
+    "createdAt": "2026-09-19T00:03:04Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 754,
+    "foundAt": "2026-09-19T01:18:48.997Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30562",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30562,
+    "title": "[good first issue] 🪭 Add new Example Sentence 909 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30562",
+    "comments": 1,
+    "createdAt": "2026-09-18T23:00:57Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-19T01:18:50.640Z"
+  },
+  {
+    "key": "libredb/libredb-studio#974",
+    "tier": 2,
+    "repo": "libredb/libredb-studio",
+    "number": 974,
+    "title": "Proofread README_zh.md: no Chinese speaker has ever reviewed it",
+    "url": "https://github.com/libredb/libredb-studio/issues/974",
+    "comments": 0,
+    "createdAt": "2026-09-18T22:57:45Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "help wanted",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 754,
+    "foundAt": "2026-09-19T01:18:50.640Z"
+  },
+  {
+    "key": "libredb/libredb-studio#973",
+    "tier": 2,
+    "repo": "libredb/libredb-studio",
+    "number": 973,
+    "title": "Proofread README_ja.md: no Japanese speaker has ever reviewed it",
+    "url": "https://github.com/libredb/libredb-studio/issues/973",
+    "comments": 0,
+    "createdAt": "2026-09-18T22:57:43Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "help wanted",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 754,
+    "foundAt": "2026-09-19T01:18:50.640Z"
+  },
+  {
+    "key": "libredb/libredb-studio#971",
+    "tier": 2,
+    "repo": "libredb/libredb-studio",
+    "number": 971,
+    "title": "Publish libredb-studio-bin to the AUR",
+    "url": "https://github.com/libredb/libredb-studio/issues/971",
+    "comments": 0,
+    "createdAt": "2026-09-18T22:23:46Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "good first issue",
+      "deployment",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 754,
+    "foundAt": "2026-09-19T01:18:50.640Z"
+  },
+  {
+    "key": "libredb/libredb-studio#970",
+    "tier": 2,
+    "repo": "libredb/libredb-studio",
+    "number": 970,
+    "title": "Package LibreDB Studio for nixpkgs",
+    "url": "https://github.com/libredb/libredb-studio/issues/970",
+    "comments": 0,
+    "createdAt": "2026-09-18T22:23:11Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "deployment",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 754,
+    "foundAt": "2026-09-19T01:18:50.640Z"
+  },
+  {
+    "key": "pizza-bot-app/pizza-bot#100",
+    "tier": 3,
+    "repo": "pizza-bot-app/pizza-bot",
+    "number": 100,
+    "title": "Adding an MCP server does nothing until a skill declares its tools, and nothing says so",
+    "url": "https://github.com/pizza-bot-app/pizza-bot/issues/100",
+    "comments": 0,
+    "createdAt": "2026-09-19T00:48:11Z",
+    "labels": [
+      "documentation",
+      "enhancement"
+    ],
+    "language": "typescript",
+    "stars": 319,
+    "foundAt": "2026-09-19T01:18:51.152Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30560",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1640,263 +1907,5 @@
     "language": "typescript",
     "stars": 3404,
     "foundAt": "2026-09-17T18:22:32.761Z"
-  },
-  {
-    "key": "Eugleo/magic-racket#166",
-    "tier": 1,
-    "repo": "Eugleo/magic-racket",
-    "number": 166,
-    "title": "Update langserver feature list in README",
-    "url": "https://github.com/Eugleo/magic-racket/issues/166",
-    "comments": 0,
-    "createdAt": "2026-09-17T16:15:02Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "langserver"
-    ],
-    "language": "typescript",
-    "stars": 220,
-    "foundAt": "2026-09-17T18:22:33.480Z"
-  },
-  {
-    "key": "supabase/supabase#50532",
-    "tier": 1,
-    "repo": "supabase/supabase",
-    "number": 50532,
-    "title": "Docs: conflicting descriptions of the private flag for realtime.send / realtime.send_binary",
-    "url": "https://github.com/supabase/supabase/issues/50532",
-    "comments": 2,
-    "createdAt": "2026-09-17T15:39:05Z",
-    "labels": [
-      "documentation",
-      "help wanted",
-      "good first issue",
-      "internal-issue",
-      "to-triage"
-    ],
-    "language": "typescript",
-    "stars": 110039,
-    "foundAt": "2026-09-17T18:22:33.760Z"
-  },
-  {
-    "key": "diegosouzapw/OmniRoute#13997",
-    "tier": 1,
-    "repo": "diegosouzapw/OmniRoute",
-    "number": 13997,
-    "title": "docs(cli): README and CLI-TOOLS document two commands that do not exist (`config show`, `models list`)",
-    "url": "https://github.com/diegosouzapw/OmniRoute/issues/13997",
-    "comments": 0,
-    "createdAt": "2026-09-17T15:24:26Z",
-    "labels": [
-      "bug",
-      "documentation",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 67381,
-    "foundAt": "2026-09-17T18:22:34.200Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30516",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30516,
-    "title": "[Good First Issue] 🍵 Add new Japanese Idiom 108 - Beginner-Friendly Open-source Contribution (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30516",
-    "comments": 1,
-    "createdAt": "2026-09-17T15:01:13Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-17T18:22:34.884Z"
-  },
-  {
-    "key": "code-charity/youtube#4346",
-    "tier": 1,
-    "repo": "code-charity/youtube",
-    "number": 4346,
-    "title": "🐞Infinite freezing loop when livestream playback speed is > 1x (Distinct from #4043)",
-    "url": "https://github.com/code-charity/youtube/issues/4346",
-    "comments": 0,
-    "createdAt": "2026-09-17T14:31:25Z",
-    "labels": [
-      "Bug",
-      "Feature request",
-      "help wanted",
-      "good first issue",
-      "up-for-grabs"
-    ],
-    "language": "javascript",
-    "stars": 4583,
-    "foundAt": "2026-09-17T18:22:36.115Z"
-  },
-  {
-    "key": "zonelessdev/zoneless#151",
-    "tier": 2,
-    "repo": "zonelessdev/zoneless",
-    "number": 151,
-    "title": "Scope dashboard event lists to the object being viewed",
-    "url": "https://github.com/zonelessdev/zoneless/issues/151",
-    "comments": 0,
-    "createdAt": "2026-09-17T17:50:09Z",
-    "labels": [
-      "enhancement",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 535,
-    "foundAt": "2026-09-17T18:22:36.938Z"
-  },
-  {
-    "key": "OpenWhispr/openwhispr#2242",
-    "tier": 3,
-    "repo": "OpenWhispr/openwhispr",
-    "number": 2242,
-    "title": "Windows key listener: leftover messages, docs and an unused IPC channel after #2005",
-    "url": "https://github.com/OpenWhispr/openwhispr/issues/2242",
-    "comments": 0,
-    "createdAt": "2026-09-17T16:36:40Z",
-    "labels": [
-      "documentation",
-      "Windows"
-    ],
-    "language": "javascript",
-    "stars": 8312,
-    "foundAt": "2026-09-17T18:22:41.086Z"
-  },
-  {
-    "key": "OpsiMate/OpsiMate#983",
-    "tier": 1,
-    "repo": "OpsiMate/OpsiMate",
-    "number": 983,
-    "title": "Sidebar Slack and GitHub links are clickable divs — not focusable, not keyboard-activatable",
-    "url": "https://github.com/OpsiMate/OpsiMate/issues/983",
-    "comments": 0,
-    "createdAt": "2026-09-17T13:11:26Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "UI"
-    ],
-    "language": "typescript",
-    "stars": 211,
-    "foundAt": "2026-09-17T13:37:59.741Z"
-  },
-  {
-    "key": "OpsiMate/OpsiMate#982",
-    "tier": 1,
-    "repo": "OpsiMate/OpsiMate",
-    "number": 982,
-    "title": "Export MOBILE_BREAKPOINT instead of hardcoding \"768px\" in the mobile overlay copy",
-    "url": "https://github.com/OpsiMate/OpsiMate/issues/982",
-    "comments": 0,
-    "createdAt": "2026-09-17T13:11:25Z",
-    "labels": [
-      "good first issue",
-      "UI"
-    ],
-    "language": "typescript",
-    "stars": 211,
-    "foundAt": "2026-09-17T13:37:59.741Z"
-  },
-  {
-    "key": "OpsiMate/OpsiMate#981",
-    "tier": 1,
-    "repo": "OpsiMate/OpsiMate",
-    "number": 981,
-    "title": "Add unit tests for useIsMobile",
-    "url": "https://github.com/OpsiMate/OpsiMate/issues/981",
-    "comments": 0,
-    "createdAt": "2026-09-17T13:11:23Z",
-    "labels": [
-      "good first issue",
-      "UI",
-      "Test"
-    ],
-    "language": "typescript",
-    "stars": 211,
-    "foundAt": "2026-09-17T13:37:59.741Z"
-  },
-  {
-    "key": "OpsiMate/OpsiMate#980",
-    "tier": 1,
-    "repo": "OpsiMate/OpsiMate",
-    "number": 980,
-    "title": "Add unit tests for AlertsEmptyState",
-    "url": "https://github.com/OpsiMate/OpsiMate/issues/980",
-    "comments": 0,
-    "createdAt": "2026-09-17T13:11:22Z",
-    "labels": [
-      "good first issue",
-      "UI",
-      "Test"
-    ],
-    "language": "typescript",
-    "stars": 211,
-    "foundAt": "2026-09-17T13:37:59.741Z"
-  },
-  {
-    "key": "OpsiMate/OpsiMate#979",
-    "tier": 1,
-    "repo": "OpsiMate/OpsiMate",
-    "number": 979,
-    "title": "Add unit tests for AlertHistoryRepository",
-    "url": "https://github.com/OpsiMate/OpsiMate/issues/979",
-    "comments": 0,
-    "createdAt": "2026-09-17T13:11:20Z",
-    "labels": [
-      "good first issue",
-      "Server",
-      "Test"
-    ],
-    "language": "typescript",
-    "stars": 211,
-    "foundAt": "2026-09-17T13:37:59.741Z"
-  },
-  {
-    "key": "OpsiMate/OpsiMate#978",
-    "tier": 1,
-    "repo": "OpsiMate/OpsiMate",
-    "number": 978,
-    "title": "Add unit tests for timed-silence expiry (the clearExpiredSilences lazy sweep)",
-    "url": "https://github.com/OpsiMate/OpsiMate/issues/978",
-    "comments": 0,
-    "createdAt": "2026-09-17T13:11:19Z",
-    "labels": [
-      "good first issue",
-      "Server",
-      "Test"
-    ],
-    "language": "typescript",
-    "stars": 211,
-    "foundAt": "2026-09-17T13:37:59.741Z"
-  },
-  {
-    "key": "OpsiMate/OpsiMate#977",
-    "tier": 1,
-    "repo": "OpsiMate/OpsiMate",
-    "number": 977,
-    "title": "Non-numeric :id path params return 500 instead of 400 on five routers",
-    "url": "https://github.com/OpsiMate/OpsiMate/issues/977",
-    "comments": 0,
-    "createdAt": "2026-09-17T13:10:46Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "Server"
-    ],
-    "language": "typescript",
-    "stars": 211,
-    "foundAt": "2026-09-17T13:37:59.741Z"
   }
 ]

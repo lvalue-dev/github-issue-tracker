@@ -4,6 +4,20 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-19 | 🥇 | [[good first issue] 🌊 Add new Learner Mistake 689 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30564) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-19 | 🥇 | [`reticle_tools` is the one tool on the nine-tool surface that rejects `action`, ](https://github.com/reticlehq/reticle/issues/982) | `reticlehq/reticle` | ⭐ 725 |
+| 2026-09-19 | 🥇 | [SQLite kind-vocabulary guard scrapes source text, so a kind can be declared and ](https://github.com/libredb/libredb-studio/issues/981) | `libredb/libredb-studio` | ⭐ 754 |
+| 2026-09-19 | 🥇 | [Backlog citation scan reads untracked files, so a local draft fails a gate CI ca](https://github.com/libredb/libredb-studio/issues/980) | `libredb/libredb-studio` | ⭐ 754 |
+| 2026-09-19 | 🥇 | [A committed .only makes a test file report PASS with the rest of its tests never](https://github.com/libredb/libredb-studio/issues/979) | `libredb/libredb-studio` | ⭐ 754 |
+| 2026-09-19 | 🥇 | [Hoist assertObjectPathShape: it is defined nine times across the providers](https://github.com/libredb/libredb-studio/issues/978) | `libredb/libredb-studio` | ⭐ 754 |
+| 2026-09-19 | 🥇 | [Admin Operations table list does not show a row's schema](https://github.com/libredb/libredb-studio/issues/977) | `libredb/libredb-studio` | ⭐ 754 |
+| 2026-09-19 | 🥇 | [Get LibreDB Studio listed in the CockroachDB docs](https://github.com/libredb/libredb-studio/issues/976) | `libredb/libredb-studio` | ⭐ 754 |
+| 2026-09-19 | 🥈 | [[good first issue] 🪭 Add new Example Sentence 909 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30562) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-19 | 🥈 | [Proofread README_zh.md: no Chinese speaker has ever reviewed it](https://github.com/libredb/libredb-studio/issues/974) | `libredb/libredb-studio` | ⭐ 754 |
+| 2026-09-19 | 🥈 | [Proofread README_ja.md: no Japanese speaker has ever reviewed it](https://github.com/libredb/libredb-studio/issues/973) | `libredb/libredb-studio` | ⭐ 754 |
+| 2026-09-19 | 🥈 | [Publish libredb-studio-bin to the AUR](https://github.com/libredb/libredb-studio/issues/971) | `libredb/libredb-studio` | ⭐ 754 |
+| 2026-09-19 | 🥈 | [Package LibreDB Studio for nixpkgs](https://github.com/libredb/libredb-studio/issues/970) | `libredb/libredb-studio` | ⭐ 754 |
+| 2026-09-19 | 🥉 | [Adding an MCP server does nothing until a skill declares its tools, and nothing ](https://github.com/pizza-bot-app/pizza-bot/issues/100) | `pizza-bot-app/pizza-bot` | ⭐ 319 |
 | 2026-09-18 | 🥇 | [[good first issue] ⛩️ Add new Etiquette Tip 522 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30560) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-18 | 🥈 | [[Feature]: Python SDK — frontend tool calling in the client demo](https://github.com/ag-ui-protocol/ag-ui/issues/2801) | `ag-ui-protocol/ag-ui` | ⭐ 15.9k |
 | 2026-09-18 | 🥈 | [[Feature]: Python SDK — client support for streaming tool calls + demo](https://github.com/ag-ui-protocol/ag-ui/issues/2800) | `ag-ui-protocol/ag-ui` | ⭐ 15.9k |
@@ -90,17 +104,3 @@
 | 2026-09-17 | 🥇 | [[Good First Issue] 🍁 Add new Etiquette Tip 13 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30520) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-17 | 🥇 | [Automatically sync wallet balance on dashboard](https://github.com/zonelessdev/zoneless/issues/150) | `zonelessdev/zoneless` | ⭐ 535 |
 | 2026-09-17 | 🥇 | [[Good First Issue] 🦊 Add new Dialect Entry 120 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30517) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-17 | 🥇 | [Update langserver feature list in README](https://github.com/Eugleo/magic-racket/issues/166) | `Eugleo/magic-racket` | ⭐ 220 |
-| 2026-09-17 | 🥇 | [Docs: conflicting descriptions of the private flag for realtime.send / realtime.](https://github.com/supabase/supabase/issues/50532) | `supabase/supabase` | ⭐ 110.0k |
-| 2026-09-17 | 🥇 | [docs(cli): README and CLI-TOOLS document two commands that do not exist (`config](https://github.com/diegosouzapw/OmniRoute/issues/13997) | `diegosouzapw/OmniRoute` | ⭐ 67.4k |
-| 2026-09-17 | 🥇 | [[Good First Issue] 🍵 Add new Japanese Idiom 108 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30516) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-17 | 🥇 | [🐞Infinite freezing loop when livestream playback speed is > 1x (Distinct from #](https://github.com/code-charity/youtube/issues/4346) | `code-charity/youtube` | ⭐ 4.6k |
-| 2026-09-17 | 🥈 | [Scope dashboard event lists to the object being viewed](https://github.com/zonelessdev/zoneless/issues/151) | `zonelessdev/zoneless` | ⭐ 535 |
-| 2026-09-17 | 🥉 | [Windows key listener: leftover messages, docs and an unused IPC channel after #2](https://github.com/OpenWhispr/openwhispr/issues/2242) | `OpenWhispr/openwhispr` | ⭐ 8.3k |
-| 2026-09-17 | 🥇 | [Sidebar Slack and GitHub links are clickable divs — not focusable, not keyboard-](https://github.com/OpsiMate/OpsiMate/issues/983) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-17 | 🥇 | [Export MOBILE_BREAKPOINT instead of hardcoding "768px" in the mobile overlay cop](https://github.com/OpsiMate/OpsiMate/issues/982) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-17 | 🥇 | [Add unit tests for useIsMobile](https://github.com/OpsiMate/OpsiMate/issues/981) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-17 | 🥇 | [Add unit tests for AlertsEmptyState](https://github.com/OpsiMate/OpsiMate/issues/980) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-17 | 🥇 | [Add unit tests for AlertHistoryRepository](https://github.com/OpsiMate/OpsiMate/issues/979) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-17 | 🥇 | [Add unit tests for timed-silence expiry (the clearExpiredSilences lazy sweep)](https://github.com/OpsiMate/OpsiMate/issues/978) | `OpsiMate/OpsiMate` | ⭐ 211 |
-| 2026-09-17 | 🥇 | [Non-numeric :id path params return 500 instead of 400 on five routers](https://github.com/OpsiMate/OpsiMate/issues/977) | `OpsiMate/OpsiMate` | ⭐ 211 |
