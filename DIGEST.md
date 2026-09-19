@@ -4,6 +4,12 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-19 | 🥇 | [[good first issue] 🍥 Add new Grammar Point 112 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30578) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-19 | 🥇 | [Admin Overview 'Recent Activity' reads the same per-process buffer that #851 sho](https://github.com/libredb/libredb-studio/issues/992) | `libredb/libredb-studio` | ⭐ 754 |
+| 2026-09-19 | 🥇 | [docs(security): note 1.4 claims role failures are not audited, and every claim i](https://github.com/libredb/libredb-studio/issues/991) | `libredb/libredb-studio` | ⭐ 754 |
+| 2026-09-19 | 🥇 | [[Good First Issue] Template Card is missing](https://github.com/Syknapse/Contribute-To-This-Project/issues/4766) | `Syknapse/Contribute-To-This-Project` | ⭐ 2.6k |
+| 2026-09-19 | 🥇 | [Add a channels.yaml row for the Civo Kubernetes Marketplace submission](https://github.com/libredb/libredb-studio/issues/990) | `libredb/libredb-studio` | ⭐ 754 |
+| 2026-09-19 | 🥇 | [feat: bonjour! 平台支持](https://github.com/leaperone/MultiPost-Extension/issues/233) | `leaperone/MultiPost-Extension` | ⭐ 3.5k |
 | 2026-09-19 | 🥇 | [建议：播放页「纯净模式」开关补充悬停说明与首次开启引导气泡](https://github.com/algerkong/AlgerMusicPlayer/issues/758) | `algerkong/AlgerMusicPlayer` | ⭐ 16.8k |
 | 2026-09-19 | 🥈 | [`glib` 0.18 is pinned by the gtk-rs generation `webkit2gtk` and `tauri` both sit](https://github.com/reticlehq/reticle/issues/1009) | `reticlehq/reticle` | ⭐ 725 |
 | 2026-09-19 | 🥇 | [[good first issue] 🌊 Add new Learner Mistake 689 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30564) | `lingdojo/kana-dojo` | ⭐ 3.4k |
@@ -98,9 +104,3 @@
 | 2026-09-17 | 🥇 | [Answer an invalid search token with a page a person can read](https://github.com/felladrin/MiniSearch/issues/2659) | `felladrin/MiniSearch` | ⭐ 587 |
 | 2026-09-17 | 🥇 | [Split the reranker counters by search type](https://github.com/felladrin/MiniSearch/issues/2658) | `felladrin/MiniSearch` | ⭐ 587 |
 | 2026-09-17 | 🥇 | [Split the page-read httpError counter by status class](https://github.com/felladrin/MiniSearch/issues/2657) | `felladrin/MiniSearch` | ⭐ 587 |
-| 2026-09-17 | 🥇 | [[Good First Issue] 🥟 Add new Learner Mistake 13 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30523) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-17 | 🥈 | [Stop re-fetching pages from a host that just refused](https://github.com/felladrin/MiniSearch/issues/2660) | `felladrin/MiniSearch` | ⭐ 587 |
-| 2026-09-17 | 🥈 | [Fuse the bi-encoder scores in the production page-content path](https://github.com/felladrin/MiniSearch/issues/2656) | `felladrin/MiniSearch` | ⭐ 587 |
-| 2026-09-17 | 🥈 | [[Help] 可以接收邮件，无法发送邮件。](https://github.com/maillab/cloud-mail/issues/581) | `maillab/cloud-mail` | ⭐ 14.2k |
-| 2026-09-17 | 🥇 | [[Good First Issue] 🎌 Add new Example Sentence 70 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30521) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-17 | 🥇 | [[Good First Issue] 🍁 Add new Etiquette Tip 13 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30520) | `lingdojo/kana-dojo` | ⭐ 3.4k |

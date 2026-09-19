@@ -1,5 +1,118 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30578",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30578,
+    "title": "[good first issue] 🍥 Add new Grammar Point 112 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30578",
+    "comments": 1,
+    "createdAt": "2026-09-19T11:01:02Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-19T11:14:52.270Z"
+  },
+  {
+    "key": "libredb/libredb-studio#992",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 992,
+    "title": "Admin Overview 'Recent Activity' reads the same per-process buffer that #851 showed is incomplete",
+    "url": "https://github.com/libredb/libredb-studio/issues/992",
+    "comments": 0,
+    "createdAt": "2026-09-19T10:48:06Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "security"
+    ],
+    "language": "typescript",
+    "stars": 754,
+    "foundAt": "2026-09-19T11:14:52.270Z"
+  },
+  {
+    "key": "libredb/libredb-studio#991",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 991,
+    "title": "docs(security): note 1.4 claims role failures are not audited, and every claim in it is false",
+    "url": "https://github.com/libredb/libredb-studio/issues/991",
+    "comments": 0,
+    "createdAt": "2026-09-19T10:47:40Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "help wanted",
+      "security"
+    ],
+    "language": "typescript",
+    "stars": 754,
+    "foundAt": "2026-09-19T11:14:52.270Z"
+  },
+  {
+    "key": "Syknapse/Contribute-To-This-Project#4766",
+    "tier": 1,
+    "repo": "Syknapse/Contribute-To-This-Project",
+    "number": 4766,
+    "title": "[Good First Issue] Template Card is missing",
+    "url": "https://github.com/Syknapse/Contribute-To-This-Project/issues/4766",
+    "comments": 0,
+    "createdAt": "2026-09-19T10:13:37Z",
+    "labels": [
+      "good first issue"
+    ],
+    "language": "javascript",
+    "stars": 2562,
+    "foundAt": "2026-09-19T11:14:54.190Z"
+  },
+  {
+    "key": "libredb/libredb-studio#990",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 990,
+    "title": "Add a channels.yaml row for the Civo Kubernetes Marketplace submission",
+    "url": "https://github.com/libredb/libredb-studio/issues/990",
+    "comments": 0,
+    "createdAt": "2026-09-19T10:07:16Z",
+    "labels": [
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 754,
+    "foundAt": "2026-09-19T11:14:52.270Z"
+  },
+  {
+    "key": "leaperone/MultiPost-Extension#233",
+    "tier": 1,
+    "repo": "leaperone/MultiPost-Extension",
+    "number": 233,
+    "title": "feat: bonjour! 平台支持",
+    "url": "https://github.com/leaperone/MultiPost-Extension/issues/233",
+    "comments": 1,
+    "createdAt": "2026-09-19T09:05:55Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "customer",
+      "needs-info"
+    ],
+    "language": "typescript",
+    "stars": 3500,
+    "foundAt": "2026-09-19T11:14:53.525Z"
+  },
+  {
     "key": "algerkong/AlgerMusicPlayer#758",
     "tier": 1,
     "repo": "algerkong/AlgerMusicPlayer",
@@ -1781,126 +1894,5 @@
     "language": "typescript",
     "stars": 587,
     "foundAt": "2026-09-17T21:34:26.040Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30523",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30523,
-    "title": "[Good First Issue] 🥟 Add new Learner Mistake 13 - Beginner-Friendly Open-source Contribution (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30523",
-    "comments": 1,
-    "createdAt": "2026-09-17T18:57:28Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-17T21:34:27.479Z"
-  },
-  {
-    "key": "felladrin/MiniSearch#2660",
-    "tier": 2,
-    "repo": "felladrin/MiniSearch",
-    "number": 2660,
-    "title": "Stop re-fetching pages from a host that just refused",
-    "url": "https://github.com/felladrin/MiniSearch/issues/2660",
-    "comments": 0,
-    "createdAt": "2026-09-17T20:44:47Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "performance"
-    ],
-    "language": "typescript",
-    "stars": 587,
-    "foundAt": "2026-09-17T21:34:28.394Z"
-  },
-  {
-    "key": "felladrin/MiniSearch#2656",
-    "tier": 2,
-    "repo": "felladrin/MiniSearch",
-    "number": 2656,
-    "title": "Fuse the bi-encoder scores in the production page-content path",
-    "url": "https://github.com/felladrin/MiniSearch/issues/2656",
-    "comments": 0,
-    "createdAt": "2026-09-17T20:44:37Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "performance"
-    ],
-    "language": "typescript",
-    "stars": 587,
-    "foundAt": "2026-09-17T21:34:28.394Z"
-  },
-  {
-    "key": "maillab/cloud-mail#581",
-    "tier": 2,
-    "repo": "maillab/cloud-mail",
-    "number": 581,
-    "title": "[Help] 可以接收邮件，无法发送邮件。",
-    "url": "https://github.com/maillab/cloud-mail/issues/581",
-    "comments": 0,
-    "createdAt": "2026-09-17T19:43:47Z",
-    "labels": [
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 14241,
-    "foundAt": "2026-09-17T21:34:29.098Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30521",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30521,
-    "title": "[Good First Issue] 🎌 Add new Example Sentence 70 - Beginner-Friendly Open-source Contribution (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30521",
-    "comments": 1,
-    "createdAt": "2026-09-17T18:01:07Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-17T18:22:31.844Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30520",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30520,
-    "title": "[Good First Issue] 🍁 Add new Etiquette Tip 13 - Beginner-Friendly Open-source Contribution (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30520",
-    "comments": 1,
-    "createdAt": "2026-09-17T17:57:30Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-17T18:22:32.106Z"
   }
 ]
