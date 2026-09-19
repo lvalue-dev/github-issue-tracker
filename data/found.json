@@ -1,5 +1,61 @@
 [
   {
+    "key": "neomjs/neo#19003",
+    "tier": 1,
+    "repo": "neomjs/neo",
+    "number": 19003,
+    "title": "Add unit coverage for Neo.collection.Filter's operator matrix",
+    "url": "https://github.com/neomjs/neo/issues/19003",
+    "comments": 0,
+    "createdAt": "2026-09-19T20:11:25Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "ai",
+      "testing",
+      "core"
+    ],
+    "language": "javascript",
+    "stars": 3280,
+    "foundAt": "2026-09-19T20:51:39.482Z"
+  },
+  {
+    "key": "layer5io/layer5#8094",
+    "tier": 2,
+    "repo": "layer5io/layer5",
+    "number": 8094,
+    "title": "Fix missing documentation links for Timeline (DVR) and Service Performance cards",
+    "url": "https://github.com/layer5io/layer5/issues/8094",
+    "comments": 2,
+    "createdAt": "2026-09-19T20:40:08Z",
+    "labels": [
+      "kind/bug",
+      "help wanted",
+      "framework/gatsby"
+    ],
+    "language": "javascript",
+    "stars": 1124,
+    "foundAt": "2026-09-19T20:51:40.141Z"
+  },
+  {
+    "key": "layer5io/layer5#8092",
+    "tier": 2,
+    "repo": "layer5io/layer5",
+    "number": 8092,
+    "title": "Fix inconsistent alignment of feature points in the For Learners section on mobile",
+    "url": "https://github.com/layer5io/layer5/issues/8092",
+    "comments": 2,
+    "createdAt": "2026-09-19T20:28:59Z",
+    "labels": [
+      "kind/bug",
+      "help wanted",
+      "framework/gatsby"
+    ],
+    "language": "javascript",
+    "stars": 1124,
+    "foundAt": "2026-09-19T20:51:40.141Z"
+  },
+  {
     "key": "silexlabs/Silex#1868",
     "tier": 1,
     "repo": "silexlabs/Silex",
@@ -1802,68 +1858,5 @@
     "language": "javascript",
     "stars": 52276,
     "foundAt": "2026-09-18T06:05:06.967Z"
-  },
-  {
-    "key": "getodk/central#2256",
-    "tier": 3,
-    "repo": "getodk/central",
-    "number": 2256,
-    "title": "Document versioned OpenRosa manifest",
-    "url": "https://github.com/getodk/central/issues/2256",
-    "comments": 0,
-    "createdAt": "2026-09-18T03:23:26Z",
-    "labels": [
-      "documentation",
-      "backend"
-    ],
-    "language": "javascript",
-    "stars": 227,
-    "foundAt": "2026-09-18T06:05:09.799Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30537",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30537,
-    "title": "[Good First Issue] 🍣 Add new Dialect Entry 68 - Beginner-Friendly Open-source Contribution (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30537",
-    "comments": 1,
-    "createdAt": "2026-09-18T00:01:06Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-18T00:30:20.295Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30536",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30536,
-    "title": "[Good First Issue] 🍡 Add new Japanese Idiom 77 - Beginner-Friendly Open-source Contribution (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30536",
-    "comments": 1,
-    "createdAt": "2026-09-17T23:57:28Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-18T00:30:20.295Z"
   }
 ]

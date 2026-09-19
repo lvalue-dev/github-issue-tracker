@@ -4,6 +4,9 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-19 | 🥇 | [Add unit coverage for Neo.collection.Filter's operator matrix](https://github.com/neomjs/neo/issues/19003) | `neomjs/neo` | ⭐ 3.3k |
+| 2026-09-19 | 🥈 | [Fix missing documentation links for Timeline (DVR) and Service Performance cards](https://github.com/layer5io/layer5/issues/8094) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-19 | 🥈 | [Fix inconsistent alignment of feature points in the For Learners section on mobi](https://github.com/layer5io/layer5/issues/8092) | `layer5io/layer5` | ⭐ 1.1k |
 | 2026-09-19 | 🥇 | [MCP tools return a success when nothing was done](https://github.com/silexlabs/Silex/issues/1868) | `silexlabs/Silex` | ⭐ 3.0k |
 | 2026-09-19 | 🥇 | [MCP: the agent gets wrong names](https://github.com/silexlabs/Silex/issues/1866) | `silexlabs/Silex` | ⭐ 3.0k |
 | 2026-09-19 | 🥇 | [[FEATURE] Add tawk.to actions to Pipedream MCP](https://github.com/PipedreamHQ/pipedream/issues/22017) | `PipedreamHQ/pipedream` | ⭐ 11.7k |
@@ -101,6 +104,3 @@
 | 2026-09-18 | 🥇 | [[Good First Issue] 🌊 Add new Etiquette Tip 23 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30539) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-18 | 🥇 | [[Good First Issue] 🍶 Add new False Friend Pair 97 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30538) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-18 | 🥈 | [Move `update-dependents-coun` step out of the release script](https://github.com/prettier/prettier/issues/20099) | `prettier/prettier` | ⭐ 52.3k |
-| 2026-09-18 | 🥉 | [Document versioned OpenRosa manifest](https://github.com/getodk/central/issues/2256) | `getodk/central` | ⭐ 227 |
-| 2026-09-18 | 🥇 | [[Good First Issue] 🍣 Add new Dialect Entry 68 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30537) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-18 | 🥇 | [[Good First Issue] 🍡 Add new Japanese Idiom 77 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30536) | `lingdojo/kana-dojo` | ⭐ 3.4k |
