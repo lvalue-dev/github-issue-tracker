@@ -1,5 +1,129 @@
 [
   {
+    "key": "silexlabs/Silex#1868",
+    "tier": 1,
+    "repo": "silexlabs/Silex",
+    "number": 1868,
+    "title": "MCP tools return a success when nothing was done",
+    "url": "https://github.com/silexlabs/Silex/issues/1868",
+    "comments": 2,
+    "createdAt": "2026-09-19T16:40:51Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "ai"
+    ],
+    "language": "typescript",
+    "stars": 2976,
+    "foundAt": "2026-09-19T18:08:10.558Z"
+  },
+  {
+    "key": "silexlabs/Silex#1866",
+    "tier": 1,
+    "repo": "silexlabs/Silex",
+    "number": 1866,
+    "title": "MCP: the agent gets wrong names",
+    "url": "https://github.com/silexlabs/Silex/issues/1866",
+    "comments": 1,
+    "createdAt": "2026-09-19T16:40:48Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "ai"
+    ],
+    "language": "typescript",
+    "stars": 2976,
+    "foundAt": "2026-09-19T18:08:10.558Z"
+  },
+  {
+    "key": "PipedreamHQ/pipedream#22017",
+    "tier": 1,
+    "repo": "PipedreamHQ/pipedream",
+    "number": 22017,
+    "title": "[FEATURE] Add tawk.to actions to Pipedream MCP",
+    "url": "https://github.com/PipedreamHQ/pipedream/issues/22017",
+    "comments": 0,
+    "createdAt": "2026-09-19T15:54:03Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "action"
+    ],
+    "language": "javascript",
+    "stars": 11698,
+    "foundAt": "2026-09-19T18:08:11.259Z"
+  },
+  {
+    "key": "meshery/meshery.io#2998",
+    "tier": 2,
+    "repo": "meshery/meshery.io",
+    "number": 2998,
+    "title": "[Bug] Integrations LIST button throws a JavaScript TypeError",
+    "url": "https://github.com/meshery/meshery.io/issues/2998",
+    "comments": 0,
+    "createdAt": "2026-09-19T17:24:31Z",
+    "labels": [
+      "kind/bug",
+      "help wanted"
+    ],
+    "language": "javascript",
+    "stars": 861,
+    "foundAt": "2026-09-19T18:08:12.094Z"
+  },
+  {
+    "key": "layer5io/layer5#8091",
+    "tier": 2,
+    "repo": "layer5io/layer5",
+    "number": 8091,
+    "title": "Homepage hero preview image overflows viewport horizontally at certain screen resolutions",
+    "url": "https://github.com/layer5io/layer5/issues/8091",
+    "comments": 1,
+    "createdAt": "2026-09-19T16:30:36Z",
+    "labels": [
+      "kind/bug",
+      "help wanted",
+      "framework/gatsby"
+    ],
+    "language": "javascript",
+    "stars": 1124,
+    "foundAt": "2026-09-19T18:08:12.472Z"
+  },
+  {
+    "key": "Pasta-Devs/Marinara-Engine#6371",
+    "tier": 3,
+    "repo": "Pasta-Devs/Marinara-Engine",
+    "number": 6371,
+    "title": "[docs-i18n] Game Mode rulesets: docs/game, docs/characters, docs/agents/agents-overview.md, docs/CONFIGURATION.md, docs/development/optional-agent-packages.md",
+    "url": "https://github.com/Pasta-Devs/Marinara-Engine/issues/6371",
+    "comments": 0,
+    "createdAt": "2026-09-19T17:08:08Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "typescript",
+    "stars": 666,
+    "foundAt": "2026-09-19T18:08:14.405Z"
+  },
+  {
+    "key": "neomjs/neo#18985",
+    "tier": 3,
+    "repo": "neomjs/neo",
+    "number": 18985,
+    "title": "Hacktoberfest 2026: a contributor door that works without the Agent OS",
+    "url": "https://github.com/neomjs/neo/issues/18985",
+    "comments": 0,
+    "createdAt": "2026-09-19T16:25:43Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "ai"
+    ],
+    "language": "javascript",
+    "stars": 3280,
+    "foundAt": "2026-09-19T18:08:16.129Z"
+  },
+  {
     "key": "mex-memory/mex#204",
     "tier": 1,
     "repo": "mex-memory/mex",
@@ -1741,151 +1865,5 @@
     "language": "typescript",
     "stars": 3404,
     "foundAt": "2026-09-18T00:30:20.295Z"
-  },
-  {
-    "key": "pingdotgg/t3code#12330",
-    "tier": 1,
-    "repo": "pingdotgg/t3code",
-    "number": 12330,
-    "title": "[Bug]: Follow change request templates ignores GitLab and Azure DevOps templates",
-    "url": "https://github.com/pingdotgg/t3code/issues/12330",
-    "comments": 1,
-    "createdAt": "2026-09-17T23:20:04Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "accepted",
-      "via-triage"
-    ],
-    "language": "typescript",
-    "stars": 22958,
-    "foundAt": "2026-09-18T00:30:21.026Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30535",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30535,
-    "title": "[Good First Issue] 🌸 Add new Video Game Quote 49 - Beginner-Friendly Open-source Contribution (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30535",
-    "comments": 1,
-    "createdAt": "2026-09-17T23:00:58Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-18T00:30:21.251Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30534",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30534,
-    "title": "[Good First Issue] 🐙 Add new Anime Quote 24 - Beginner-Friendly Open-source Contribution (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30534",
-    "comments": 1,
-    "createdAt": "2026-09-17T22:57:34Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-18T00:30:21.251Z"
-  },
-  {
-    "key": "melgarafael/DeskcommCRM#1118",
-    "tier": 1,
-    "repo": "melgarafael/DeskcommCRM",
-    "number": 1118,
-    "title": "Gate: a sonda de prontidão do test:db:update aceita o Postgres temporário do initdb e reprova por corrida",
-    "url": "https://github.com/melgarafael/DeskcommCRM/issues/1118",
-    "comments": 2,
-    "createdAt": "2026-09-17T22:03:40Z",
-    "labels": [
-      "good first issue",
-      "triagem:confirmado"
-    ],
-    "language": "typescript",
-    "stars": 2821,
-    "foundAt": "2026-09-18T00:30:21.251Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30533",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30533,
-    "title": "[Good First Issue] 🏯 Add new Grammar Point 139 - Beginner-Friendly Open-source Contribution (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30533",
-    "comments": 1,
-    "createdAt": "2026-09-17T22:01:00Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-18T00:30:21.450Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30532",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30532,
-    "title": "[Good First Issue] 🌋 Add new Trivia Question 99 - Beginner-Friendly Open-source Contribution (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30532",
-    "comments": 1,
-    "createdAt": "2026-09-17T21:57:32Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-18T00:30:21.450Z"
-  },
-  {
-    "key": "felladrin/MiniSearch#2670",
-    "tier": 1,
-    "repo": "felladrin/MiniSearch",
-    "number": 2670,
-    "title": "Clear all three history tables when the user clears search history",
-    "url": "https://github.com/felladrin/MiniSearch/issues/2670",
-    "comments": 0,
-    "createdAt": "2026-09-17T21:17:21Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "security"
-    ],
-    "language": "typescript",
-    "stars": 587,
-    "foundAt": "2026-09-17T21:34:26.040Z"
   }
 ]

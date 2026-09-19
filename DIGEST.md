@@ -4,6 +4,13 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-19 | 🥇 | [MCP tools return a success when nothing was done](https://github.com/silexlabs/Silex/issues/1868) | `silexlabs/Silex` | ⭐ 3.0k |
+| 2026-09-19 | 🥇 | [MCP: the agent gets wrong names](https://github.com/silexlabs/Silex/issues/1866) | `silexlabs/Silex` | ⭐ 3.0k |
+| 2026-09-19 | 🥇 | [[FEATURE] Add tawk.to actions to Pipedream MCP](https://github.com/PipedreamHQ/pipedream/issues/22017) | `PipedreamHQ/pipedream` | ⭐ 11.7k |
+| 2026-09-19 | 🥈 | [[Bug] Integrations LIST button throws a JavaScript TypeError](https://github.com/meshery/meshery.io/issues/2998) | `meshery/meshery.io` | ⭐ 861 |
+| 2026-09-19 | 🥈 | [Homepage hero preview image overflows viewport horizontally at certain screen re](https://github.com/layer5io/layer5/issues/8091) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-19 | 🥉 | [[docs-i18n] Game Mode rulesets: docs/game, docs/characters, docs/agents/agents-o](https://github.com/Pasta-Devs/Marinara-Engine/issues/6371) | `Pasta-Devs/Marinara-Engine` | ⭐ 666 |
+| 2026-09-19 | 🥉 | [Hacktoberfest 2026: a contributor door that works without the Agent OS](https://github.com/neomjs/neo/issues/18985) | `neomjs/neo` | ⭐ 3.3k |
 | 2026-09-19 | 🥇 | [graph status prints uninspected fields as measured zeros — a stranded graph.db-w](https://github.com/mex-memory/mex/issues/204) | `mex-memory/mex` | ⭐ 1.6k |
 | 2026-09-19 | 🥇 | [Two checker false positives: package-manager builtins and INDEX.md frontmatter e](https://github.com/mex-memory/mex/issues/203) | `mex-memory/mex` | ⭐ 1.6k |
 | 2026-09-19 | 🥇 | [MISSING_PATH: a version-shaped reference like release/2.1.0 is reported as a mis](https://github.com/mex-memory/mex/issues/201) | `mex-memory/mex` | ⭐ 1.6k |
@@ -97,10 +104,3 @@
 | 2026-09-18 | 🥉 | [Document versioned OpenRosa manifest](https://github.com/getodk/central/issues/2256) | `getodk/central` | ⭐ 227 |
 | 2026-09-18 | 🥇 | [[Good First Issue] 🍣 Add new Dialect Entry 68 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30537) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-18 | 🥇 | [[Good First Issue] 🍡 Add new Japanese Idiom 77 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30536) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-18 | 🥇 | [[Bug]: Follow change request templates ignores GitLab and Azure DevOps templates](https://github.com/pingdotgg/t3code/issues/12330) | `pingdotgg/t3code` | ⭐ 23.0k |
-| 2026-09-18 | 🥇 | [[Good First Issue] 🌸 Add new Video Game Quote 49 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30535) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-18 | 🥇 | [[Good First Issue] 🐙 Add new Anime Quote 24 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30534) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-18 | 🥇 | [Gate: a sonda de prontidão do test:db:update aceita o Postgres temporário do ini](https://github.com/melgarafael/DeskcommCRM/issues/1118) | `melgarafael/DeskcommCRM` | ⭐ 2.8k |
-| 2026-09-18 | 🥇 | [[Good First Issue] 🏯 Add new Grammar Point 139 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30533) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-18 | 🥇 | [[Good First Issue] 🌋 Add new Trivia Question 99 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30532) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-17 | 🥇 | [Clear all three history tables when the user clears search history](https://github.com/felladrin/MiniSearch/issues/2670) | `felladrin/MiniSearch` | ⭐ 587 |
