@@ -1,5 +1,41 @@
 [
   {
+    "key": "algerkong/AlgerMusicPlayer#758",
+    "tier": 1,
+    "repo": "algerkong/AlgerMusicPlayer",
+    "number": 758,
+    "title": "建议：播放页「纯净模式」开关补充悬停说明与首次开启引导气泡",
+    "url": "https://github.com/algerkong/AlgerMusicPlayer/issues/758",
+    "comments": 1,
+    "createdAt": "2026-09-19T01:03:53Z",
+    "labels": [
+      "good first issue"
+    ],
+    "language": "vue",
+    "stars": 16757,
+    "foundAt": "2026-09-19T06:04:13.779Z"
+  },
+  {
+    "key": "reticlehq/reticle#1009",
+    "tier": 2,
+    "repo": "reticlehq/reticle",
+    "number": 1009,
+    "title": "`glib` 0.18 is pinned by the gtk-rs generation `webkit2gtk` and `tauri` both sit on, and it is the one advisory that reaches a published artifact",
+    "url": "https://github.com/reticlehq/reticle/issues/1009",
+    "comments": 0,
+    "createdAt": "2026-09-19T05:15:49Z",
+    "labels": [
+      "help wanted",
+      "security",
+      "platform/tauri",
+      "platform/linux",
+      "P2"
+    ],
+    "language": "typescript",
+    "stars": 725,
+    "foundAt": "2026-09-19T06:04:14.272Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30564",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1866,46 +1902,5 @@
     "language": "typescript",
     "stars": 3404,
     "foundAt": "2026-09-17T18:22:32.106Z"
-  },
-  {
-    "key": "zonelessdev/zoneless#150",
-    "tier": 1,
-    "repo": "zonelessdev/zoneless",
-    "number": 150,
-    "title": "Automatically sync wallet balance on dashboard",
-    "url": "https://github.com/zonelessdev/zoneless/issues/150",
-    "comments": 0,
-    "createdAt": "2026-09-17T17:29:28Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 535,
-    "foundAt": "2026-09-17T18:22:32.422Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30517",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30517,
-    "title": "[Good First Issue] 🦊 Add new Dialect Entry 120 - Beginner-Friendly Open-source Contribution (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30517",
-    "comments": 1,
-    "createdAt": "2026-09-17T16:57:31Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-17T18:22:32.761Z"
   }
 ]

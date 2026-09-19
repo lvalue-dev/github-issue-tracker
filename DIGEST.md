@@ -4,6 +4,8 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-19 | 🥇 | [建议：播放页「纯净模式」开关补充悬停说明与首次开启引导气泡](https://github.com/algerkong/AlgerMusicPlayer/issues/758) | `algerkong/AlgerMusicPlayer` | ⭐ 16.8k |
+| 2026-09-19 | 🥈 | [`glib` 0.18 is pinned by the gtk-rs generation `webkit2gtk` and `tauri` both sit](https://github.com/reticlehq/reticle/issues/1009) | `reticlehq/reticle` | ⭐ 725 |
 | 2026-09-19 | 🥇 | [[good first issue] 🌊 Add new Learner Mistake 689 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30564) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-19 | 🥇 | [`reticle_tools` is the one tool on the nine-tool surface that rejects `action`, ](https://github.com/reticlehq/reticle/issues/982) | `reticlehq/reticle` | ⭐ 725 |
 | 2026-09-19 | 🥇 | [SQLite kind-vocabulary guard scrapes source text, so a kind can be declared and ](https://github.com/libredb/libredb-studio/issues/981) | `libredb/libredb-studio` | ⭐ 754 |
@@ -102,5 +104,3 @@
 | 2026-09-17 | 🥈 | [[Help] 可以接收邮件，无法发送邮件。](https://github.com/maillab/cloud-mail/issues/581) | `maillab/cloud-mail` | ⭐ 14.2k |
 | 2026-09-17 | 🥇 | [[Good First Issue] 🎌 Add new Example Sentence 70 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30521) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-17 | 🥇 | [[Good First Issue] 🍁 Add new Etiquette Tip 13 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30520) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-17 | 🥇 | [Automatically sync wallet balance on dashboard](https://github.com/zonelessdev/zoneless/issues/150) | `zonelessdev/zoneless` | ⭐ 535 |
-| 2026-09-17 | 🥇 | [[Good First Issue] 🦊 Add new Dialect Entry 120 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30517) | `lingdojo/kana-dojo` | ⭐ 3.4k |
