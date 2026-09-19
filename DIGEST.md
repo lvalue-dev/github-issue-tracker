@@ -4,6 +4,11 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-19 | 🥇 | [[good first issue] 🍜 Add new False Friend Pair 412 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30588) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-19 | 🥇 | [Policy proxy `valueOf()` returns the unwrapped account](https://github.com/tetherto/wdk/issues/96) | `tetherto/wdk` | ⭐ 272 |
+| 2026-09-19 | 🥇 | [Neo.layout.Cube ships in the portal with no coverage of its own](https://github.com/neomjs/neo/issues/19010) | `neomjs/neo` | ⭐ 3.3k |
+| 2026-09-19 | 🥇 | [Multi-sorter precedence and mixed-type ordering are unpinned](https://github.com/neomjs/neo/issues/19007) | `neomjs/neo` | ⭐ 3.3k |
+| 2026-09-19 | 🥇 | [The calendar month view has no component-tier witness](https://github.com/neomjs/neo/issues/19006) | `neomjs/neo` | ⭐ 3.3k |
 | 2026-09-19 | 🥇 | [Add unit coverage for Neo.collection.Filter's operator matrix](https://github.com/neomjs/neo/issues/19003) | `neomjs/neo` | ⭐ 3.3k |
 | 2026-09-19 | 🥈 | [Fix missing documentation links for Timeline (DVR) and Service Performance cards](https://github.com/layer5io/layer5/issues/8094) | `layer5io/layer5` | ⭐ 1.1k |
 | 2026-09-19 | 🥈 | [Fix inconsistent alignment of feature points in the For Learners section on mobi](https://github.com/layer5io/layer5/issues/8092) | `layer5io/layer5` | ⭐ 1.1k |
@@ -99,8 +104,3 @@
 | 2026-09-18 | 🥇 | [[Good First Issue] 🎏 Add new Theme: School Uniform - Beginner-Friendly Open-sou](https://github.com/lingdojo/kana-dojo/issues/30544) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-18 | 🥇 | [[Good First Issue] 🎑 Add new Community Note Line #4 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30543) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-18 | 🥇 | [[Good First Issue] 🍚 Add new Wallpaper URL #5 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30542) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-18 | 🥇 | [[Good First Issue] 🏮 Add new Learner Mistake 88 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30541) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-18 | 🥇 | [[Good First Issue] 🍘 Add new Example Sentence 97 - Beginner-Friendly Open-sourc](https://github.com/lingdojo/kana-dojo/issues/30540) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-18 | 🥇 | [[Good First Issue] 🌊 Add new Etiquette Tip 23 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30539) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-18 | 🥇 | [[Good First Issue] 🍶 Add new False Friend Pair 97 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30538) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-18 | 🥈 | [Move `update-dependents-coun` step out of the release script](https://github.com/prettier/prettier/issues/20099) | `prettier/prettier` | ⭐ 52.3k |

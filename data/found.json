@@ -1,5 +1,103 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30588",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30588,
+    "title": "[good first issue] 🍜 Add new False Friend Pair 412 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30588",
+    "comments": 1,
+    "createdAt": "2026-09-19T23:01:01Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-19T23:16:20.480Z"
+  },
+  {
+    "key": "tetherto/wdk#96",
+    "tier": 1,
+    "repo": "tetherto/wdk",
+    "number": 96,
+    "title": "Policy proxy `valueOf()` returns the unwrapped account",
+    "url": "https://github.com/tetherto/wdk/issues/96",
+    "comments": 0,
+    "createdAt": "2026-09-19T22:36:42Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "javascript",
+    "stars": 272,
+    "foundAt": "2026-09-19T23:16:21.201Z"
+  },
+  {
+    "key": "neomjs/neo#19010",
+    "tier": 1,
+    "repo": "neomjs/neo",
+    "number": 19010,
+    "title": "Neo.layout.Cube ships in the portal with no coverage of its own",
+    "url": "https://github.com/neomjs/neo/issues/19010",
+    "comments": 0,
+    "createdAt": "2026-09-19T21:07:28Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "ai",
+      "testing"
+    ],
+    "language": "javascript",
+    "stars": 3280,
+    "foundAt": "2026-09-19T23:16:21.412Z"
+  },
+  {
+    "key": "neomjs/neo#19007",
+    "tier": 1,
+    "repo": "neomjs/neo",
+    "number": 19007,
+    "title": "Multi-sorter precedence and mixed-type ordering are unpinned",
+    "url": "https://github.com/neomjs/neo/issues/19007",
+    "comments": 0,
+    "createdAt": "2026-09-19T21:02:35Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "ai",
+      "testing",
+      "core"
+    ],
+    "language": "javascript",
+    "stars": 3280,
+    "foundAt": "2026-09-19T23:16:21.412Z"
+  },
+  {
+    "key": "neomjs/neo#19006",
+    "tier": 1,
+    "repo": "neomjs/neo",
+    "number": 19006,
+    "title": "The calendar month view has no component-tier witness",
+    "url": "https://github.com/neomjs/neo/issues/19006",
+    "comments": 0,
+    "createdAt": "2026-09-19T21:01:55Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "ai",
+      "testing"
+    ],
+    "language": "javascript",
+    "stars": 3280,
+    "foundAt": "2026-09-19T23:16:21.412Z"
+  },
+  {
     "key": "neomjs/neo#19003",
     "tier": 1,
     "repo": "neomjs/neo",
@@ -1749,114 +1847,5 @@
     "language": "typescript",
     "stars": 3404,
     "foundAt": "2026-09-18T06:05:03.290Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30541",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30541,
-    "title": "[Good First Issue] 🏮 Add new Learner Mistake 88 - Beginner-Friendly Open-source Contribution (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30541",
-    "comments": 1,
-    "createdAt": "2026-09-18T02:01:04Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-18T06:05:03.602Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30540",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30540,
-    "title": "[Good First Issue] 🍘 Add new Example Sentence 97 - Beginner-Friendly Open-source Contribution (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30540",
-    "comments": 1,
-    "createdAt": "2026-09-18T01:58:05Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-18T06:05:03.602Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30539",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30539,
-    "title": "[Good First Issue] 🌊 Add new Etiquette Tip 23 - Beginner-Friendly Open-source Contribution (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30539",
-    "comments": 1,
-    "createdAt": "2026-09-18T01:01:03Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-18T06:05:03.854Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30538",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30538,
-    "title": "[Good First Issue] 🍶 Add new False Friend Pair 97 - Beginner-Friendly Open-source Contribution (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30538",
-    "comments": 1,
-    "createdAt": "2026-09-18T00:57:28Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-18T06:05:03.854Z"
-  },
-  {
-    "key": "prettier/prettier#20099",
-    "tier": 2,
-    "repo": "prettier/prettier",
-    "number": 20099,
-    "title": "Move `update-dependents-coun` step out of the release script",
-    "url": "https://github.com/prettier/prettier/issues/20099",
-    "comments": 2,
-    "createdAt": "2026-09-18T03:27:49Z",
-    "labels": [
-      "help wanted",
-      "type:infra"
-    ],
-    "language": "javascript",
-    "stars": 52276,
-    "foundAt": "2026-09-18T06:05:06.967Z"
   }
 ]
