@@ -1,5 +1,253 @@
 [
   {
+    "key": "mex-memory/mex#204",
+    "tier": 1,
+    "repo": "mex-memory/mex",
+    "number": 204,
+    "title": "graph status prints uninspected fields as measured zeros — a stranded graph.db-wal reads as an empty graph",
+    "url": "https://github.com/mex-memory/mex/issues/204",
+    "comments": 0,
+    "createdAt": "2026-09-19T14:32:12Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "code-graph"
+    ],
+    "language": "typescript",
+    "stars": 1598,
+    "foundAt": "2026-09-19T14:32:46.086Z"
+  },
+  {
+    "key": "mex-memory/mex#203",
+    "tier": 1,
+    "repo": "mex-memory/mex",
+    "number": 203,
+    "title": "Two checker false positives: package-manager builtins and INDEX.md frontmatter edges",
+    "url": "https://github.com/mex-memory/mex/issues/203",
+    "comments": 0,
+    "createdAt": "2026-09-19T14:32:02Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "checker"
+    ],
+    "language": "typescript",
+    "stars": 1598,
+    "foundAt": "2026-09-19T14:32:46.086Z"
+  },
+  {
+    "key": "mex-memory/mex#201",
+    "tier": 1,
+    "repo": "mex-memory/mex",
+    "number": 201,
+    "title": "MISSING_PATH: a version-shaped reference like release/2.1.0 is reported as a missing file",
+    "url": "https://github.com/mex-memory/mex/issues/201",
+    "comments": 0,
+    "createdAt": "2026-09-19T14:31:49Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "checker"
+    ],
+    "language": "typescript",
+    "stars": 1598,
+    "foundAt": "2026-09-19T14:32:46.086Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30580",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30580,
+    "title": "[Good First Issue] Add new Theme: School Uniform",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30580",
+    "comments": 0,
+    "createdAt": "2026-09-19T13:36:04Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-19T14:32:46.432Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30579",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30579,
+    "title": "[good first issue] 🍣 Add new Video Game Quote 398 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30579",
+    "comments": 1,
+    "createdAt": "2026-09-19T13:00:58Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-19T14:32:46.638Z"
+  },
+  {
+    "key": "sugarlabs/musicblocks#8795",
+    "tier": 1,
+    "repo": "sugarlabs/musicblocks",
+    "number": 8795,
+    "title": "[Bug] temperament widget playback issue with octave",
+    "url": "https://github.com/sugarlabs/musicblocks/issues/8795",
+    "comments": 1,
+    "createdAt": "2026-09-19T12:54:31Z",
+    "labels": [
+      "Issue-Bug",
+      "Good first issue",
+      "Component-Widget"
+    ],
+    "language": "javascript",
+    "stars": 894,
+    "foundAt": "2026-09-19T14:32:47.630Z"
+  },
+  {
+    "key": "code-charity/youtube#4348",
+    "tier": 1,
+    "repo": "code-charity/youtube",
+    "number": 4348,
+    "title": "FEATURE REQUEST",
+    "url": "https://github.com/code-charity/youtube/issues/4348",
+    "comments": 0,
+    "createdAt": "2026-09-19T12:25:21Z",
+    "labels": [
+      "Feature request",
+      "help wanted",
+      "good first issue",
+      "up-for-grabs"
+    ],
+    "language": "javascript",
+    "stars": 4583,
+    "foundAt": "2026-09-19T14:32:47.630Z"
+  },
+  {
+    "key": "maillab/cloud-mail#582",
+    "tier": 2,
+    "repo": "maillab/cloud-mail",
+    "number": 582,
+    "title": "[Help] 代替send发信的一个网站",
+    "url": "https://github.com/maillab/cloud-mail/issues/582",
+    "comments": 0,
+    "createdAt": "2026-09-19T12:42:49Z",
+    "labels": [
+      "help wanted"
+    ],
+    "language": "javascript",
+    "stars": 14241,
+    "foundAt": "2026-09-19T14:32:48.256Z"
+  },
+  {
+    "key": "mex-memory/mex#206",
+    "tier": 3,
+    "repo": "mex-memory/mex",
+    "number": 206,
+    "title": "Dependency checker finds nested package.json only one level deep, and nested pyproject.toml not at all",
+    "url": "https://github.com/mex-memory/mex/issues/206",
+    "comments": 0,
+    "createdAt": "2026-09-19T14:32:30Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "checker"
+    ],
+    "language": "typescript",
+    "stars": 1598,
+    "foundAt": "2026-09-19T14:32:48.812Z"
+  },
+  {
+    "key": "mex-memory/mex#205",
+    "tier": 3,
+    "repo": "mex-memory/mex",
+    "number": 205,
+    "title": "An interrupted graph rebuild leaves a full-size candidate file that nothing ever removes",
+    "url": "https://github.com/mex-memory/mex/issues/205",
+    "comments": 0,
+    "createdAt": "2026-09-19T14:32:28Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "code-graph"
+    ],
+    "language": "typescript",
+    "stars": 1598,
+    "foundAt": "2026-09-19T14:32:48.812Z"
+  },
+  {
+    "key": "mrwogu/promptscript#475",
+    "tier": 3,
+    "repo": "mrwogu/promptscript",
+    "number": 475,
+    "title": "docs: generated TypeDoc API pages (884) have no title or description frontmatter",
+    "url": "https://github.com/mrwogu/promptscript/issues/475",
+    "comments": 0,
+    "createdAt": "2026-09-19T13:39:35Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "typescript",
+    "stars": 377,
+    "foundAt": "2026-09-19T14:32:50.602Z"
+  },
+  {
+    "key": "mrwogu/promptscript#474",
+    "tier": 3,
+    "repo": "mrwogu/promptscript",
+    "number": 474,
+    "title": "docs(examples): enterprise and agent-platform scenarios stay abstract; checkout drift check misses ignored files",
+    "url": "https://github.com/mrwogu/promptscript/issues/474",
+    "comments": 0,
+    "createdAt": "2026-09-19T13:39:12Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "typescript",
+    "stars": 377,
+    "foundAt": "2026-09-19T14:32:50.602Z"
+  },
+  {
+    "key": "mrwogu/promptscript#473",
+    "tier": 3,
+    "repo": "mrwogu/promptscript",
+    "number": 473,
+    "title": "docs(guides): registry, policy-engine, and docker CI sections stop before anything runs",
+    "url": "https://github.com/mrwogu/promptscript/issues/473",
+    "comments": 0,
+    "createdAt": "2026-09-19T13:38:58Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "typescript",
+    "stars": 377,
+    "foundAt": "2026-09-19T14:32:50.602Z"
+  },
+  {
+    "key": "mrwogu/promptscript#471",
+    "tier": 3,
+    "repo": "mrwogu/promptscript",
+    "number": 471,
+    "title": "docs snapshots are keyed by code block line number, so unrelated line edits break docs:validate:check",
+    "url": "https://github.com/mrwogu/promptscript/issues/471",
+    "comments": 0,
+    "createdAt": "2026-09-19T13:37:44Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "typescript",
+    "stars": 377,
+    "foundAt": "2026-09-19T14:32:50.602Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30578",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1635,261 +1883,6 @@
       "bug",
       "good first issue",
       "security"
-    ],
-    "language": "typescript",
-    "stars": 587,
-    "foundAt": "2026-09-17T21:34:26.040Z"
-  },
-  {
-    "key": "felladrin/MiniSearch#2669",
-    "tier": 1,
-    "repo": "felladrin/MiniSearch",
-    "number": 2669,
-    "title": "Give the icon-only buttons accessible names",
-    "url": "https://github.com/felladrin/MiniSearch/issues/2669",
-    "comments": 0,
-    "createdAt": "2026-09-17T21:17:20Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 587,
-    "foundAt": "2026-09-17T21:34:26.040Z"
-  },
-  {
-    "key": "felladrin/MiniSearch#2668",
-    "tier": 1,
-    "repo": "felladrin/MiniSearch",
-    "number": 2668,
-    "title": "Use getDefaultChatMessages in the internal-API and wllama paths",
-    "url": "https://github.com/felladrin/MiniSearch/issues/2668",
-    "comments": 0,
-    "createdAt": "2026-09-17T21:17:18Z",
-    "labels": [
-      "enhancement",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 587,
-    "foundAt": "2026-09-17T21:34:26.040Z"
-  },
-  {
-    "key": "felladrin/MiniSearch#2667",
-    "tier": 1,
-    "repo": "felladrin/MiniSearch",
-    "number": 2667,
-    "title": "Unsubscribe the settings listener once the model-download gate resolves",
-    "url": "https://github.com/felladrin/MiniSearch/issues/2667",
-    "comments": 0,
-    "createdAt": "2026-09-17T21:17:17Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 587,
-    "foundAt": "2026-09-17T21:34:26.040Z"
-  },
-  {
-    "key": "felladrin/MiniSearch#2666",
-    "tier": 1,
-    "repo": "felladrin/MiniSearch",
-    "number": 2666,
-    "title": "Key chat messages by their position, not by their first 50 characters",
-    "url": "https://github.com/felladrin/MiniSearch/issues/2666",
-    "comments": 0,
-    "createdAt": "2026-09-17T21:17:15Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "performance"
-    ],
-    "language": "typescript",
-    "stars": 587,
-    "foundAt": "2026-09-17T21:34:26.040Z"
-  },
-  {
-    "key": "felladrin/MiniSearch#2665",
-    "tier": 1,
-    "repo": "felladrin/MiniSearch",
-    "number": 2665,
-    "title": "Add the missing getTextSearchStale to the answer eval's pubSub mock",
-    "url": "https://github.com/felladrin/MiniSearch/issues/2665",
-    "comments": 0,
-    "createdAt": "2026-09-17T21:17:08Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "test"
-    ],
-    "language": "typescript",
-    "stars": 587,
-    "foundAt": "2026-09-17T21:34:26.040Z"
-  },
-  {
-    "key": "felladrin/MiniSearch#2664",
-    "tier": 1,
-    "repo": "felladrin/MiniSearch",
-    "number": 2664,
-    "title": "Make two server tests able to fail",
-    "url": "https://github.com/felladrin/MiniSearch/issues/2664",
-    "comments": 0,
-    "createdAt": "2026-09-17T21:17:06Z",
-    "labels": [
-      "good first issue",
-      "test"
-    ],
-    "language": "typescript",
-    "stars": 587,
-    "foundAt": "2026-09-17T21:34:26.040Z"
-  },
-  {
-    "key": "felladrin/MiniSearch#2663",
-    "tier": 1,
-    "repo": "felladrin/MiniSearch",
-    "number": 2663,
-    "title": "Upload the license report on failure, and type-check the e2e suite",
-    "url": "https://github.com/felladrin/MiniSearch/issues/2663",
-    "comments": 0,
-    "createdAt": "2026-09-17T21:17:04Z",
-    "labels": [
-      "enhancement",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 587,
-    "foundAt": "2026-09-17T21:34:26.040Z"
-  },
-  {
-    "key": "felladrin/MiniSearch#2662",
-    "tier": 1,
-    "repo": "felladrin/MiniSearch",
-    "number": 2662,
-    "title": "Correct the Docker and CI claims in the development guide",
-    "url": "https://github.com/felladrin/MiniSearch/issues/2662",
-    "comments": 0,
-    "createdAt": "2026-09-17T21:17:03Z",
-    "labels": [
-      "good first issue",
-      "documentation"
-    ],
-    "language": "typescript",
-    "stars": 587,
-    "foundAt": "2026-09-17T21:34:26.040Z"
-  },
-  {
-    "key": "felladrin/MiniSearch#2661",
-    "tier": 1,
-    "repo": "felladrin/MiniSearch",
-    "number": 2661,
-    "title": "Fix two stale facts in the configuration reference",
-    "url": "https://github.com/felladrin/MiniSearch/issues/2661",
-    "comments": 0,
-    "createdAt": "2026-09-17T21:17:01Z",
-    "labels": [
-      "good first issue",
-      "documentation"
-    ],
-    "language": "typescript",
-    "stars": 587,
-    "foundAt": "2026-09-17T21:34:26.040Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30531",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30531,
-    "title": "[Good First Issue] 🐉 Add new Japanese Proverb 178 - Beginner-Friendly Open-source Contribution (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30531",
-    "comments": 1,
-    "createdAt": "2026-09-17T21:01:01Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-17T21:34:26.040Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30530",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30530,
-    "title": "[Good First Issue] 🎑 Add new Japan Fact 258 - Beginner-Friendly Open-source Contribution (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30530",
-    "comments": 1,
-    "createdAt": "2026-09-17T20:57:31Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-17T21:34:26.040Z"
-  },
-  {
-    "key": "felladrin/MiniSearch#2659",
-    "tier": 1,
-    "repo": "felladrin/MiniSearch",
-    "number": 2659,
-    "title": "Answer an invalid search token with a page a person can read",
-    "url": "https://github.com/felladrin/MiniSearch/issues/2659",
-    "comments": 0,
-    "createdAt": "2026-09-17T20:44:46Z",
-    "labels": [
-      "enhancement",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 587,
-    "foundAt": "2026-09-17T21:34:26.040Z"
-  },
-  {
-    "key": "felladrin/MiniSearch#2658",
-    "tier": 1,
-    "repo": "felladrin/MiniSearch",
-    "number": 2658,
-    "title": "Split the reranker counters by search type",
-    "url": "https://github.com/felladrin/MiniSearch/issues/2658",
-    "comments": 0,
-    "createdAt": "2026-09-17T20:44:40Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "performance"
-    ],
-    "language": "typescript",
-    "stars": 587,
-    "foundAt": "2026-09-17T21:34:26.040Z"
-  },
-  {
-    "key": "felladrin/MiniSearch#2657",
-    "tier": 1,
-    "repo": "felladrin/MiniSearch",
-    "number": 2657,
-    "title": "Split the page-read httpError counter by status class",
-    "url": "https://github.com/felladrin/MiniSearch/issues/2657",
-    "comments": 0,
-    "createdAt": "2026-09-17T20:44:38Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue"
     ],
     "language": "typescript",
     "stars": 587,

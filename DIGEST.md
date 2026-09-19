@@ -4,6 +4,20 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-19 | 🥇 | [graph status prints uninspected fields as measured zeros — a stranded graph.db-w](https://github.com/mex-memory/mex/issues/204) | `mex-memory/mex` | ⭐ 1.6k |
+| 2026-09-19 | 🥇 | [Two checker false positives: package-manager builtins and INDEX.md frontmatter e](https://github.com/mex-memory/mex/issues/203) | `mex-memory/mex` | ⭐ 1.6k |
+| 2026-09-19 | 🥇 | [MISSING_PATH: a version-shaped reference like release/2.1.0 is reported as a mis](https://github.com/mex-memory/mex/issues/201) | `mex-memory/mex` | ⭐ 1.6k |
+| 2026-09-19 | 🥇 | [[Good First Issue] Add new Theme: School Uniform](https://github.com/lingdojo/kana-dojo/issues/30580) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-19 | 🥇 | [[good first issue] 🍣 Add new Video Game Quote 398 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30579) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-19 | 🥇 | [[Bug] temperament widget playback issue with octave](https://github.com/sugarlabs/musicblocks/issues/8795) | `sugarlabs/musicblocks` | ⭐ 894 |
+| 2026-09-19 | 🥇 | [FEATURE REQUEST](https://github.com/code-charity/youtube/issues/4348) | `code-charity/youtube` | ⭐ 4.6k |
+| 2026-09-19 | 🥈 | [[Help] 代替send发信的一个网站](https://github.com/maillab/cloud-mail/issues/582) | `maillab/cloud-mail` | ⭐ 14.2k |
+| 2026-09-19 | 🥉 | [Dependency checker finds nested package.json only one level deep, and nested pyp](https://github.com/mex-memory/mex/issues/206) | `mex-memory/mex` | ⭐ 1.6k |
+| 2026-09-19 | 🥉 | [An interrupted graph rebuild leaves a full-size candidate file that nothing ever](https://github.com/mex-memory/mex/issues/205) | `mex-memory/mex` | ⭐ 1.6k |
+| 2026-09-19 | 🥉 | [docs: generated TypeDoc API pages (884) have no title or description frontmatter](https://github.com/mrwogu/promptscript/issues/475) | `mrwogu/promptscript` | ⭐ 377 |
+| 2026-09-19 | 🥉 | [docs(examples): enterprise and agent-platform scenarios stay abstract; checkout ](https://github.com/mrwogu/promptscript/issues/474) | `mrwogu/promptscript` | ⭐ 377 |
+| 2026-09-19 | 🥉 | [docs(guides): registry, policy-engine, and docker CI sections stop before anythi](https://github.com/mrwogu/promptscript/issues/473) | `mrwogu/promptscript` | ⭐ 377 |
+| 2026-09-19 | 🥉 | [docs snapshots are keyed by code block line number, so unrelated line edits brea](https://github.com/mrwogu/promptscript/issues/471) | `mrwogu/promptscript` | ⭐ 377 |
 | 2026-09-19 | 🥇 | [[good first issue] 🍥 Add new Grammar Point 112 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30578) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-19 | 🥇 | [Admin Overview 'Recent Activity' reads the same per-process buffer that #851 sho](https://github.com/libredb/libredb-studio/issues/992) | `libredb/libredb-studio` | ⭐ 754 |
 | 2026-09-19 | 🥇 | [docs(security): note 1.4 claims role failures are not audited, and every claim i](https://github.com/libredb/libredb-studio/issues/991) | `libredb/libredb-studio` | ⭐ 754 |
@@ -90,17 +104,3 @@
 | 2026-09-18 | 🥇 | [[Good First Issue] 🏯 Add new Grammar Point 139 - Beginner-Friendly Open-source ](https://github.com/lingdojo/kana-dojo/issues/30533) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-18 | 🥇 | [[Good First Issue] 🌋 Add new Trivia Question 99 - Beginner-Friendly Open-source](https://github.com/lingdojo/kana-dojo/issues/30532) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-17 | 🥇 | [Clear all three history tables when the user clears search history](https://github.com/felladrin/MiniSearch/issues/2670) | `felladrin/MiniSearch` | ⭐ 587 |
-| 2026-09-17 | 🥇 | [Give the icon-only buttons accessible names](https://github.com/felladrin/MiniSearch/issues/2669) | `felladrin/MiniSearch` | ⭐ 587 |
-| 2026-09-17 | 🥇 | [Use getDefaultChatMessages in the internal-API and wllama paths](https://github.com/felladrin/MiniSearch/issues/2668) | `felladrin/MiniSearch` | ⭐ 587 |
-| 2026-09-17 | 🥇 | [Unsubscribe the settings listener once the model-download gate resolves](https://github.com/felladrin/MiniSearch/issues/2667) | `felladrin/MiniSearch` | ⭐ 587 |
-| 2026-09-17 | 🥇 | [Key chat messages by their position, not by their first 50 characters](https://github.com/felladrin/MiniSearch/issues/2666) | `felladrin/MiniSearch` | ⭐ 587 |
-| 2026-09-17 | 🥇 | [Add the missing getTextSearchStale to the answer eval's pubSub mock](https://github.com/felladrin/MiniSearch/issues/2665) | `felladrin/MiniSearch` | ⭐ 587 |
-| 2026-09-17 | 🥇 | [Make two server tests able to fail](https://github.com/felladrin/MiniSearch/issues/2664) | `felladrin/MiniSearch` | ⭐ 587 |
-| 2026-09-17 | 🥇 | [Upload the license report on failure, and type-check the e2e suite](https://github.com/felladrin/MiniSearch/issues/2663) | `felladrin/MiniSearch` | ⭐ 587 |
-| 2026-09-17 | 🥇 | [Correct the Docker and CI claims in the development guide](https://github.com/felladrin/MiniSearch/issues/2662) | `felladrin/MiniSearch` | ⭐ 587 |
-| 2026-09-17 | 🥇 | [Fix two stale facts in the configuration reference](https://github.com/felladrin/MiniSearch/issues/2661) | `felladrin/MiniSearch` | ⭐ 587 |
-| 2026-09-17 | 🥇 | [[Good First Issue] 🐉 Add new Japanese Proverb 178 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30531) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-17 | 🥇 | [[Good First Issue] 🎑 Add new Japan Fact 258 - Beginner-Friendly Open-source Con](https://github.com/lingdojo/kana-dojo/issues/30530) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-17 | 🥇 | [Answer an invalid search token with a page a person can read](https://github.com/felladrin/MiniSearch/issues/2659) | `felladrin/MiniSearch` | ⭐ 587 |
-| 2026-09-17 | 🥇 | [Split the reranker counters by search type](https://github.com/felladrin/MiniSearch/issues/2658) | `felladrin/MiniSearch` | ⭐ 587 |
-| 2026-09-17 | 🥇 | [Split the page-read httpError counter by status class](https://github.com/felladrin/MiniSearch/issues/2657) | `felladrin/MiniSearch` | ⭐ 587 |
