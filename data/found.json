@@ -1,5 +1,193 @@
 [
   {
+    "key": "zordhalo/runs-on.dev#239",
+    "tier": 1,
+    "repo": "zordhalo/runs-on.dev",
+    "number": 239,
+    "title": "Blog post toolbar menus announce role=menu but have no arrow-key navigation",
+    "url": "https://github.com/zordhalo/runs-on.dev/issues/239",
+    "comments": 0,
+    "createdAt": "2026-09-20T16:44:14Z",
+    "labels": [
+      "accessibility",
+      "good first issue"
+    ],
+    "language": "javascript",
+    "stars": 272,
+    "foundAt": "2026-09-20T16:53:48.839Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30609",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30609,
+    "title": "[good first issue] 🎍 Add new Japanese Proverb 625 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30609",
+    "comments": 1,
+    "createdAt": "2026-09-20T14:57:26Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-20T16:53:47.456Z"
+  },
+  {
+    "key": "ONEARMY/community-platform#4913",
+    "tier": 1,
+    "repo": "ONEARMY/community-platform",
+    "number": 4913,
+    "title": "[UI Migration] FlagIcon",
+    "url": "https://github.com/ONEARMY/community-platform/issues/4913",
+    "comments": 1,
+    "createdAt": "2026-09-20T13:12:25Z",
+    "labels": [
+      "Good first issue",
+      "Help wanted",
+      "Difficulty: Easy",
+      "UI Migration"
+    ],
+    "language": "typescript",
+    "stars": 1403,
+    "foundAt": "2026-09-20T16:53:48.682Z"
+  },
+  {
+    "key": "ONEARMY/community-platform#4912",
+    "tier": 1,
+    "repo": "ONEARMY/community-platform",
+    "number": 4912,
+    "title": "[UI Migration] VideoPlayer",
+    "url": "https://github.com/ONEARMY/community-platform/issues/4912",
+    "comments": 0,
+    "createdAt": "2026-09-20T13:09:40Z",
+    "labels": [
+      "Good first issue",
+      "Help wanted",
+      "Difficulty: Easy",
+      "UI Migration"
+    ],
+    "language": "typescript",
+    "stars": 1403,
+    "foundAt": "2026-09-20T16:53:48.682Z"
+  },
+  {
+    "key": "ONEARMY/community-platform#4911",
+    "tier": 1,
+    "repo": "ONEARMY/community-platform",
+    "number": 4911,
+    "title": "[UI Migration] Select",
+    "url": "https://github.com/ONEARMY/community-platform/issues/4911",
+    "comments": 0,
+    "createdAt": "2026-09-20T12:59:38Z",
+    "labels": [
+      "Good first issue",
+      "Help wanted",
+      "Difficulty: Medium",
+      "UI Migration"
+    ],
+    "language": "typescript",
+    "stars": 1403,
+    "foundAt": "2026-09-20T16:53:48.682Z"
+  },
+  {
+    "key": "Tencent/teamai-cli#682",
+    "tier": 2,
+    "repo": "Tencent/teamai-cli",
+    "number": 682,
+    "title": "detectShellProfile() falls back to ~/.bashrc on Windows, where the login shell never reads it",
+    "url": "https://github.com/Tencent/teamai-cli/issues/682",
+    "comments": 0,
+    "createdAt": "2026-09-20T14:33:16Z",
+    "labels": [
+      "bug",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 4841,
+    "foundAt": "2026-09-20T16:53:50.333Z"
+  },
+  {
+    "key": "ONEARMY/community-platform#4910",
+    "tier": 2,
+    "repo": "ONEARMY/community-platform",
+    "number": 4910,
+    "title": "[UI Migration] ArticleCallToAction",
+    "url": "https://github.com/ONEARMY/community-platform/issues/4910",
+    "comments": 0,
+    "createdAt": "2026-09-20T12:54:52Z",
+    "labels": [
+      "Good first issue",
+      "Help wanted",
+      "Difficulty: Easy",
+      "UI Migration"
+    ],
+    "language": "typescript",
+    "stars": 1403,
+    "foundAt": "2026-09-20T16:53:50.487Z"
+  },
+  {
+    "key": "ONEARMY/community-platform#4909",
+    "tier": 2,
+    "repo": "ONEARMY/community-platform",
+    "number": 4909,
+    "title": "[UI Migration] LinkifyText",
+    "url": "https://github.com/ONEARMY/community-platform/issues/4909",
+    "comments": 0,
+    "createdAt": "2026-09-20T12:50:01Z",
+    "labels": [
+      "Good first issue",
+      "Help wanted",
+      "Difficulty: Easy",
+      "UI Migration"
+    ],
+    "language": "typescript",
+    "stars": 1403,
+    "foundAt": "2026-09-20T16:53:50.487Z"
+  },
+  {
+    "key": "ONEARMY/community-platform#4908",
+    "tier": 2,
+    "repo": "ONEARMY/community-platform",
+    "number": 4908,
+    "title": "[UI Migration] InternalLink",
+    "url": "https://github.com/ONEARMY/community-platform/issues/4908",
+    "comments": 1,
+    "createdAt": "2026-09-20T12:45:43Z",
+    "labels": [
+      "Good first issue",
+      "Help wanted",
+      "Difficulty: Easy",
+      "Stage: 🚧 Blocked",
+      "UI Migration"
+    ],
+    "language": "typescript",
+    "stars": 1403,
+    "foundAt": "2026-09-20T16:53:50.487Z"
+  },
+  {
+    "key": "jasonacox/pypowerwall#387",
+    "tier": 3,
+    "repo": "jasonacox/pypowerwall",
+    "number": 387,
+    "title": "Docs: scrub TEDAPI connectivity guidance to match current reality (v1r hardwired LAN, bearer = solar-inverter only, Wi-Fi always available)",
+    "url": "https://github.com/jasonacox/pypowerwall/issues/387",
+    "comments": 0,
+    "createdAt": "2026-09-20T15:06:02Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "javascript",
+    "stars": 229,
+    "foundAt": "2026-09-20T16:53:53.906Z"
+  },
+  {
     "key": "ONEARMY/community-platform#4905",
     "tier": 1,
     "repo": "ONEARMY/community-platform",
@@ -1643,180 +1831,5 @@
     "language": "typescript",
     "stars": 15948,
     "foundAt": "2026-09-18T22:41:29.360Z"
-  },
-  {
-    "key": "ag-ui-protocol/ag-ui#2799",
-    "tier": 2,
-    "repo": "ag-ui-protocol/ag-ui",
-    "number": 2799,
-    "title": "[Feature]: Python SDK — minimal client for text messages",
-    "url": "https://github.com/ag-ui-protocol/ag-ui/issues/2799",
-    "comments": 0,
-    "createdAt": "2026-09-18T22:28:47Z",
-    "labels": [
-      "help wanted",
-      "Roadmap",
-      "proposal"
-    ],
-    "language": "typescript",
-    "stars": 15948,
-    "foundAt": "2026-09-18T22:41:29.360Z"
-  },
-  {
-    "key": "ag-ui-protocol/ag-ui#2798",
-    "tier": 2,
-    "repo": "ag-ui-protocol/ag-ui",
-    "number": 2798,
-    "title": "[Feature]: Flue integration — shared state, interrupts and reasoning events",
-    "url": "https://github.com/ag-ui-protocol/ag-ui/issues/2798",
-    "comments": 0,
-    "createdAt": "2026-09-18T22:13:34Z",
-    "labels": [
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 15948,
-    "foundAt": "2026-09-18T22:41:29.360Z"
-  },
-  {
-    "key": "ag-ui-protocol/ag-ui#2797",
-    "tier": 2,
-    "repo": "ag-ui-protocol/ag-ui",
-    "number": 2797,
-    "title": "[Feature]: Flue integration — handle frontend-defined tools",
-    "url": "https://github.com/ag-ui-protocol/ag-ui/issues/2797",
-    "comments": 0,
-    "createdAt": "2026-09-18T22:11:29Z",
-    "labels": [
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 15948,
-    "foundAt": "2026-09-18T22:41:29.360Z"
-  },
-  {
-    "key": "ag-ui-protocol/ag-ui#2796",
-    "tier": 2,
-    "repo": "ag-ui-protocol/ag-ui",
-    "number": 2796,
-    "title": "[Feature]: Flue integration — stream tool calls to the frontend",
-    "url": "https://github.com/ag-ui-protocol/ag-ui/issues/2796",
-    "comments": 0,
-    "createdAt": "2026-09-18T22:10:23Z",
-    "labels": [
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 15948,
-    "foundAt": "2026-09-18T22:41:29.360Z"
-  },
-  {
-    "key": "ag-ui-protocol/ag-ui#2795",
-    "tier": 2,
-    "repo": "ag-ui-protocol/ag-ui",
-    "number": 2795,
-    "title": "[Feature]: Flue integration — multimodal user input (images)",
-    "url": "https://github.com/ag-ui-protocol/ag-ui/issues/2795",
-    "comments": 0,
-    "createdAt": "2026-09-18T22:07:39Z",
-    "labels": [
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 15948,
-    "foundAt": "2026-09-18T22:41:29.360Z"
-  },
-  {
-    "key": "ag-ui-protocol/ag-ui#2793",
-    "tier": 2,
-    "repo": "ag-ui-protocol/ag-ui",
-    "number": 2793,
-    "title": "[Feature]: Plan the Flue framework integration",
-    "url": "https://github.com/ag-ui-protocol/ag-ui/issues/2793",
-    "comments": 0,
-    "createdAt": "2026-09-18T22:00:46Z",
-    "labels": [
-      "help wanted",
-      "Roadmap",
-      "proposal"
-    ],
-    "language": "typescript",
-    "stars": 15948,
-    "foundAt": "2026-09-18T22:41:29.569Z"
-  },
-  {
-    "key": "Workday/canvas-kit#4176",
-    "tier": 3,
-    "repo": "Workday/canvas-kit",
-    "number": 4176,
-    "title": "SegmentedControl: accept aria-labelledby and align subcomponent names with DOM",
-    "url": "https://github.com/Workday/canvas-kit/issues/4176",
-    "comments": 0,
-    "createdAt": "2026-09-18T22:16:17Z",
-    "labels": [
-      "accessibility"
-    ],
-    "language": "typescript",
-    "stars": 363,
-    "foundAt": "2026-09-18T22:41:30.958Z"
-  },
-  {
-    "key": "bastani-inc/atomic#3109",
-    "tier": 1,
-    "repo": "bastani-inc/atomic",
-    "number": 3109,
-    "title": "feat(workflows): bind nested workflows to explicit repositories and worktrees",
-    "url": "https://github.com/bastani-inc/atomic/issues/3109",
-    "comments": 0,
-    "createdAt": "2026-09-18T19:41:12Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 805,
-    "foundAt": "2026-09-18T19:47:19.977Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30559",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30559,
-    "title": "[good first issue] 🗾 Add new False Friend Pair 913 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30559",
-    "comments": 1,
-    "createdAt": "2026-09-18T19:01:10Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-18T19:47:20.463Z"
-  },
-  {
-    "key": "reticlehq/reticle#981",
-    "tier": 1,
-    "repo": "reticlehq/reticle",
-    "number": 981,
-    "title": "Every `area/*` label still describes a directory 3.1.0 deleted",
-    "url": "https://github.com/reticlehq/reticle/issues/981",
-    "comments": 0,
-    "createdAt": "2026-09-18T18:44:11Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 725,
-    "foundAt": "2026-09-18T19:47:20.910Z"
   }
 ]

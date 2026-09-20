@@ -4,6 +4,16 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-20 | 🥇 | [Blog post toolbar menus announce role=menu but have no arrow-key navigation](https://github.com/zordhalo/runs-on.dev/issues/239) | `zordhalo/runs-on.dev` | ⭐ 272 |
+| 2026-09-20 | 🥇 | [[good first issue] 🎍 Add new Japanese Proverb 625 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30609) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-20 | 🥇 | [[UI Migration] FlagIcon](https://github.com/ONEARMY/community-platform/issues/4913) | `ONEARMY/community-platform` | ⭐ 1.4k |
+| 2026-09-20 | 🥇 | [[UI Migration] VideoPlayer](https://github.com/ONEARMY/community-platform/issues/4912) | `ONEARMY/community-platform` | ⭐ 1.4k |
+| 2026-09-20 | 🥇 | [[UI Migration] Select](https://github.com/ONEARMY/community-platform/issues/4911) | `ONEARMY/community-platform` | ⭐ 1.4k |
+| 2026-09-20 | 🥈 | [detectShellProfile() falls back to ~/.bashrc on Windows, where the login shell n](https://github.com/Tencent/teamai-cli/issues/682) | `Tencent/teamai-cli` | ⭐ 4.8k |
+| 2026-09-20 | 🥈 | [[UI Migration] ArticleCallToAction](https://github.com/ONEARMY/community-platform/issues/4910) | `ONEARMY/community-platform` | ⭐ 1.4k |
+| 2026-09-20 | 🥈 | [[UI Migration] LinkifyText](https://github.com/ONEARMY/community-platform/issues/4909) | `ONEARMY/community-platform` | ⭐ 1.4k |
+| 2026-09-20 | 🥈 | [[UI Migration] InternalLink](https://github.com/ONEARMY/community-platform/issues/4908) | `ONEARMY/community-platform` | ⭐ 1.4k |
+| 2026-09-20 | 🥉 | [Docs: scrub TEDAPI connectivity guidance to match current reality (v1r hardwired](https://github.com/jasonacox/pypowerwall/issues/387) | `jasonacox/pypowerwall` | ⭐ 229 |
 | 2026-09-20 | 🥇 | [[UI Migration] DownloadCounter](https://github.com/ONEARMY/community-platform/issues/4905) | `ONEARMY/community-platform` | ⭐ 1.4k |
 | 2026-09-20 | 🥇 | [[UI Migration] UsefulStatsButton](https://github.com/ONEARMY/community-platform/issues/4904) | `ONEARMY/community-platform` | ⭐ 1.4k |
 | 2026-09-20 | 🥇 | [[UI Migration] ModerationStatus](https://github.com/ONEARMY/community-platform/issues/4903) | `ONEARMY/community-platform` | ⭐ 1.4k |
@@ -94,13 +104,3 @@
 | 2026-09-18 | 🥇 | [[good first issue] ⛩️ Add new Etiquette Tip 522 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30560) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-18 | 🥈 | [[Feature]: Python SDK — frontend tool calling in the client demo](https://github.com/ag-ui-protocol/ag-ui/issues/2801) | `ag-ui-protocol/ag-ui` | ⭐ 15.9k |
 | 2026-09-18 | 🥈 | [[Feature]: Python SDK — client support for streaming tool calls + demo](https://github.com/ag-ui-protocol/ag-ui/issues/2800) | `ag-ui-protocol/ag-ui` | ⭐ 15.9k |
-| 2026-09-18 | 🥈 | [[Feature]: Python SDK — minimal client for text messages](https://github.com/ag-ui-protocol/ag-ui/issues/2799) | `ag-ui-protocol/ag-ui` | ⭐ 15.9k |
-| 2026-09-18 | 🥈 | [[Feature]: Flue integration — shared state, interrupts and reasoning events](https://github.com/ag-ui-protocol/ag-ui/issues/2798) | `ag-ui-protocol/ag-ui` | ⭐ 15.9k |
-| 2026-09-18 | 🥈 | [[Feature]: Flue integration — handle frontend-defined tools](https://github.com/ag-ui-protocol/ag-ui/issues/2797) | `ag-ui-protocol/ag-ui` | ⭐ 15.9k |
-| 2026-09-18 | 🥈 | [[Feature]: Flue integration — stream tool calls to the frontend](https://github.com/ag-ui-protocol/ag-ui/issues/2796) | `ag-ui-protocol/ag-ui` | ⭐ 15.9k |
-| 2026-09-18 | 🥈 | [[Feature]: Flue integration — multimodal user input (images)](https://github.com/ag-ui-protocol/ag-ui/issues/2795) | `ag-ui-protocol/ag-ui` | ⭐ 15.9k |
-| 2026-09-18 | 🥈 | [[Feature]: Plan the Flue framework integration](https://github.com/ag-ui-protocol/ag-ui/issues/2793) | `ag-ui-protocol/ag-ui` | ⭐ 15.9k |
-| 2026-09-18 | 🥉 | [SegmentedControl: accept aria-labelledby and align subcomponent names with DOM](https://github.com/Workday/canvas-kit/issues/4176) | `Workday/canvas-kit` | ⭐ 363 |
-| 2026-09-18 | 🥇 | [feat(workflows): bind nested workflows to explicit repositories and worktrees](https://github.com/bastani-inc/atomic/issues/3109) | `bastani-inc/atomic` | ⭐ 805 |
-| 2026-09-18 | 🥇 | [[good first issue] 🗾 Add new False Friend Pair 913 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30559) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-18 | 🥇 | [Every `area/*` label still describes a directory 3.1.0 deleted](https://github.com/reticlehq/reticle/issues/981) | `reticlehq/reticle` | ⭐ 725 |
