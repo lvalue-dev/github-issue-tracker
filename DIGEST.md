@@ -4,6 +4,9 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-20 | 🥇 | [Escape does not cancel an in-progress polygonal lasso](https://github.com/snapotter-hq/SnapOtter/issues/1212) | `snapotter-hq/SnapOtter` | ⭐ 2.7k |
+| 2026-09-20 | 🥇 | [[good first issue] 🗻 Add new Example Sentence 554 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30592) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-20 | 🥈 | [更新技术文档和开发文档](https://github.com/poco-ai/Agentero/issues/596) | `poco-ai/Agentero` | ⭐ 604 |
 | 2026-09-20 | 🥇 | [[good first issue] 🍡 Add new Etiquette Tip 520 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30591) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-20 | 🥇 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15359) | `stdlib-js/stdlib` | ⭐ 6.0k |
 | 2026-09-20 | 🥉 | [MultiSelector bottom-sheet listbox needs an accessible name](https://github.com/facebook/astryx/issues/6385) | `facebook/astryx` | ⭐ 13.2k |
@@ -101,6 +104,3 @@
 | 2026-09-18 | 🥈 | [[good first issue] ⛩️ Add new Japanese Idiom 260 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30555) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-18 | 🥈 | [[Meshery Design]](https://github.com/meshery/meshery/issues/22024) | `meshery/meshery` | ⭐ 11.8k |
 | 2026-09-18 | 🥈 | [[Meshery Design]](https://github.com/meshery/meshery/issues/22023) | `meshery/meshery` | ⭐ 11.8k |
-| 2026-09-18 | 🥈 | [`table-input` appears on new PR lists](https://github.com/refined-github/refined-github/issues/10093) | `refined-github/refined-github` | ⭐ 32.2k |
-| 2026-09-18 | 🥇 | [[Good First Issue] 🧧 Add new Japanese Proverb 157 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30546) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-18 | 🥇 | [O .gitignore não protege os dois artefatos que o próprio kit cria (.update.lock ](https://github.com/melgarafael/DeskcommCRM/issues/1150) | `melgarafael/DeskcommCRM` | ⭐ 2.8k |

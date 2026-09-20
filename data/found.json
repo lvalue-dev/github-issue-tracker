@@ -1,5 +1,63 @@
 [
   {
+    "key": "snapotter-hq/SnapOtter#1212",
+    "tier": 1,
+    "repo": "snapotter-hq/SnapOtter",
+    "number": 1212,
+    "title": "Escape does not cancel an in-progress polygonal lasso",
+    "url": "https://github.com/snapotter-hq/SnapOtter/issues/1212",
+    "comments": 0,
+    "createdAt": "2026-09-20T04:38:43Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "area: frontend",
+      "priority: medium"
+    ],
+    "language": "typescript",
+    "stars": 2708,
+    "foundAt": "2026-09-20T06:29:34.656Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30592",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30592,
+    "title": "[good first issue] 🗻 Add new Example Sentence 554 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30592",
+    "comments": 1,
+    "createdAt": "2026-09-20T03:01:02Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-20T06:29:35.147Z"
+  },
+  {
+    "key": "poco-ai/Agentero#596",
+    "tier": 2,
+    "repo": "poco-ai/Agentero",
+    "number": 596,
+    "title": "更新技术文档和开发文档",
+    "url": "https://github.com/poco-ai/Agentero/issues/596",
+    "comments": 0,
+    "createdAt": "2026-09-20T03:58:13Z",
+    "labels": [
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 604,
+    "foundAt": "2026-09-20T06:29:36.702Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30591",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1770,61 +1828,5 @@
     "language": "typescript",
     "stars": 11820,
     "foundAt": "2026-09-18T16:35:12.541Z"
-  },
-  {
-    "key": "refined-github/refined-github#10093",
-    "tier": 2,
-    "repo": "refined-github/refined-github",
-    "number": 10093,
-    "title": "`table-input` appears on new PR lists",
-    "url": "https://github.com/refined-github/refined-github/issues/10093",
-    "comments": 0,
-    "createdAt": "2026-09-18T09:08:41Z",
-    "labels": [
-      "bug",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 32182,
-    "foundAt": "2026-09-18T11:30:41.984Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30546",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30546,
-    "title": "[Good First Issue] 🧧 Add new Japanese Proverb 157 - Beginner-Friendly Open-source Contribution (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30546",
-    "comments": 1,
-    "createdAt": "2026-09-18T05:01:01Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-18T06:05:03.290Z"
-  },
-  {
-    "key": "melgarafael/DeskcommCRM#1150",
-    "tier": 1,
-    "repo": "melgarafael/DeskcommCRM",
-    "number": 1150,
-    "title": "O .gitignore não protege os dois artefatos que o próprio kit cria (.update.lock e .deskcomm-site-url-avisado)",
-    "url": "https://github.com/melgarafael/DeskcommCRM/issues/1150",
-    "comments": 0,
-    "createdAt": "2026-09-18T04:15:11Z",
-    "labels": [
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 2821,
-    "foundAt": "2026-09-18T06:05:03.290Z"
   }
 ]
