@@ -4,6 +4,22 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-20 | 🥇 | [[good first issue] 🦑 Add new Etiquette Tip 794 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30624) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-20 | 🥇 | [[good first issue] 🎌 Add new False Friend Pair 581 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30622) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-20 | 🥈 | [[v10] Add v10 migration guide, blog post, and codemod transforms](https://github.com/webdriverio/webdriverio/issues/15664) | `webdriverio/webdriverio` | ⭐ 9.8k |
+| 2026-09-20 | 🥈 | [[v10] Remove Firefox profile legacy option](https://github.com/webdriverio/webdriverio/issues/15662) | `webdriverio/webdriverio` | ⭐ 9.8k |
+| 2026-09-20 | 🥈 | [[v10] Remove legacy command signatures](https://github.com/webdriverio/webdriverio/issues/15655) | `webdriverio/webdriverio` | ⭐ 9.8k |
+| 2026-09-20 | 🥈 | [[v10] Remove deprecated commands executeAsync, touchAction, throttle, and public](https://github.com/webdriverio/webdriverio/issues/15654) | `webdriverio/webdriverio` | ⭐ 9.8k |
+| 2026-09-20 | 🥈 | [[v10] Rename WebdriverIO.MultiremoteConfig to MultiRemoteConfig](https://github.com/webdriverio/webdriverio/issues/15652) | `webdriverio/webdriverio` | ⭐ 9.8k |
+| 2026-09-20 | 🥈 | [[v10] Remove runner shims: LegacyCustomStubCommand and setupExpect Map](https://github.com/webdriverio/webdriverio/issues/15651) | `webdriverio/webdriverio` | ⭐ 9.8k |
+| 2026-09-20 | 🥈 | [[🐛 Bug]: Website chatbot responsiveness](https://github.com/webdriverio/webdriverio/issues/15645) | `webdriverio/webdriverio` | ⭐ 9.8k |
+| 2026-09-20 | 🥈 | [Bounty: hunt bugs across the entire Vista framework](https://github.com/Mantitup-Org/vista/issues/61) | `Mantitup-Org/vista` | ⭐ 2.4k |
+| 2026-09-20 | 🥈 | [QA: fullstack APIs, auth, and docs site regression](https://github.com/Mantitup-Org/vista/issues/59) | `Mantitup-Org/vista` | ⭐ 2.4k |
+| 2026-09-20 | 🥈 | [QA: RAG retrieval and grounded answers](https://github.com/Mantitup-Org/vista/issues/58) | `Mantitup-Org/vista` | ⭐ 2.4k |
+| 2026-09-20 | 🥈 | [QA: AI agents, tools, and streaming](https://github.com/Mantitup-Org/vista/issues/57) | `Mantitup-Org/vista` | ⭐ 2.4k |
+| 2026-09-20 | 🥈 | [QA: scaffold an app with create-vista-app and smoke-test the CLI](https://github.com/Mantitup-Org/vista/issues/56) | `Mantitup-Org/vista` | ⭐ 2.4k |
+| 2026-09-20 | 🥈 | [[Bug] Recommended fix version is not checked against advisories introduced above](https://github.com/OWASP/cve-lite-cli/issues/1198) | `OWASP/cve-lite-cli` | ⭐ 720 |
+| 2026-09-20 | 🥈 | [[Bug] An unconfirmed fix version is printed as a copy-run command and stored as ](https://github.com/OWASP/cve-lite-cli/issues/1197) | `OWASP/cve-lite-cli` | ⭐ 720 |
 | 2026-09-20 | 🥇 | [Blog post toolbar menus announce role=menu but have no arrow-key navigation](https://github.com/zordhalo/runs-on.dev/issues/239) | `zordhalo/runs-on.dev` | ⭐ 272 |
 | 2026-09-20 | 🥇 | [[good first issue] 🎍 Add new Japanese Proverb 625 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30609) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-20 | 🥇 | [[UI Migration] FlagIcon](https://github.com/ONEARMY/community-platform/issues/4913) | `ONEARMY/community-platform` | ⭐ 1.4k |
@@ -88,19 +104,3 @@
 | 2026-09-19 | 🥇 | [建议：播放页「纯净模式」开关补充悬停说明与首次开启引导气泡](https://github.com/algerkong/AlgerMusicPlayer/issues/758) | `algerkong/AlgerMusicPlayer` | ⭐ 16.8k |
 | 2026-09-19 | 🥈 | [`glib` 0.18 is pinned by the gtk-rs generation `webkit2gtk` and `tauri` both sit](https://github.com/reticlehq/reticle/issues/1009) | `reticlehq/reticle` | ⭐ 725 |
 | 2026-09-19 | 🥇 | [[good first issue] 🌊 Add new Learner Mistake 689 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30564) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-19 | 🥇 | [`reticle_tools` is the one tool on the nine-tool surface that rejects `action`, ](https://github.com/reticlehq/reticle/issues/982) | `reticlehq/reticle` | ⭐ 725 |
-| 2026-09-19 | 🥇 | [SQLite kind-vocabulary guard scrapes source text, so a kind can be declared and ](https://github.com/libredb/libredb-studio/issues/981) | `libredb/libredb-studio` | ⭐ 754 |
-| 2026-09-19 | 🥇 | [Backlog citation scan reads untracked files, so a local draft fails a gate CI ca](https://github.com/libredb/libredb-studio/issues/980) | `libredb/libredb-studio` | ⭐ 754 |
-| 2026-09-19 | 🥇 | [A committed .only makes a test file report PASS with the rest of its tests never](https://github.com/libredb/libredb-studio/issues/979) | `libredb/libredb-studio` | ⭐ 754 |
-| 2026-09-19 | 🥇 | [Hoist assertObjectPathShape: it is defined nine times across the providers](https://github.com/libredb/libredb-studio/issues/978) | `libredb/libredb-studio` | ⭐ 754 |
-| 2026-09-19 | 🥇 | [Admin Operations table list does not show a row's schema](https://github.com/libredb/libredb-studio/issues/977) | `libredb/libredb-studio` | ⭐ 754 |
-| 2026-09-19 | 🥇 | [Get LibreDB Studio listed in the CockroachDB docs](https://github.com/libredb/libredb-studio/issues/976) | `libredb/libredb-studio` | ⭐ 754 |
-| 2026-09-19 | 🥈 | [[good first issue] 🪭 Add new Example Sentence 909 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30562) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-19 | 🥈 | [Proofread README_zh.md: no Chinese speaker has ever reviewed it](https://github.com/libredb/libredb-studio/issues/974) | `libredb/libredb-studio` | ⭐ 754 |
-| 2026-09-19 | 🥈 | [Proofread README_ja.md: no Japanese speaker has ever reviewed it](https://github.com/libredb/libredb-studio/issues/973) | `libredb/libredb-studio` | ⭐ 754 |
-| 2026-09-19 | 🥈 | [Publish libredb-studio-bin to the AUR](https://github.com/libredb/libredb-studio/issues/971) | `libredb/libredb-studio` | ⭐ 754 |
-| 2026-09-19 | 🥈 | [Package LibreDB Studio for nixpkgs](https://github.com/libredb/libredb-studio/issues/970) | `libredb/libredb-studio` | ⭐ 754 |
-| 2026-09-19 | 🥉 | [Adding an MCP server does nothing until a skill declares its tools, and nothing ](https://github.com/pizza-bot-app/pizza-bot/issues/100) | `pizza-bot-app/pizza-bot` | ⭐ 319 |
-| 2026-09-18 | 🥇 | [[good first issue] ⛩️ Add new Etiquette Tip 522 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30560) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-18 | 🥈 | [[Feature]: Python SDK — frontend tool calling in the client demo](https://github.com/ag-ui-protocol/ag-ui/issues/2801) | `ag-ui-protocol/ag-ui` | ⭐ 15.9k |
-| 2026-09-18 | 🥈 | [[Feature]: Python SDK — client support for streaming tool calls + demo](https://github.com/ag-ui-protocol/ag-ui/issues/2800) | `ag-ui-protocol/ag-ui` | ⭐ 15.9k |
