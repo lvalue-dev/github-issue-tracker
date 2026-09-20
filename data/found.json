@@ -1,5 +1,168 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30632",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30632,
+    "title": "[good first issue] 🀄 Add new Grammar Point 265 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30632",
+    "comments": 1,
+    "createdAt": "2026-09-20T22:01:04Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-20T22:34:01.829Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30631",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30631,
+    "title": "[good first issue] 🌸 Add new Japanese Haiku 102 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30631",
+    "comments": 1,
+    "createdAt": "2026-09-20T21:37:30Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-20T22:34:01.829Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30630",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30630,
+    "title": "[good first issue] 🐡 Add new Japanese Proverb 816 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30630",
+    "comments": 1,
+    "createdAt": "2026-09-20T21:00:58Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-20T22:34:03.371Z"
+  },
+  {
+    "key": "libredb/libredb-studio#1033",
+    "tier": 2,
+    "repo": "libredb/libredb-studio",
+    "number": 1033,
+    "title": "[BUG] The MySQL object surface reports DATA_TYPE, so every column loses its length and generated DDL is rejected",
+    "url": "https://github.com/libredb/libredb-studio/issues/1033",
+    "comments": 0,
+    "createdAt": "2026-09-20T20:54:08Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "database-provider"
+    ],
+    "language": "typescript",
+    "stars": 754,
+    "foundAt": "2026-09-20T22:34:03.371Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30629",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30629,
+    "title": "[good first issue] 🍢 Add new Japan Fact 342 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30629",
+    "comments": 1,
+    "createdAt": "2026-09-20T20:37:30Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-20T22:34:03.781Z"
+  },
+  {
+    "key": "libredb/libredb-studio#1031",
+    "tier": 2,
+    "repo": "libredb/libredb-studio",
+    "number": 1031,
+    "title": "[BUG] SchemaDiff emits DEFAULT abc for a MySQL string default, and the server rejects it",
+    "url": "https://github.com/libredb/libredb-studio/issues/1031",
+    "comments": 0,
+    "createdAt": "2026-09-20T20:36:32Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "database-provider"
+    ],
+    "language": "typescript",
+    "stars": 754,
+    "foundAt": "2026-09-20T22:34:04.004Z"
+  },
+  {
+    "key": "npm/cli#10004",
+    "tier": 3,
+    "repo": "npm/cli",
+    "number": 10004,
+    "title": "[DOCS] `npm trust circle` docs should warn that OIDC token exchange in SSH reruns isn't supported",
+    "url": "https://github.com/npm/cli/issues/10004",
+    "comments": 0,
+    "createdAt": "2026-09-20T22:24:38Z",
+    "labels": [
+      "Needs Triage",
+      "Documentation"
+    ],
+    "language": "javascript",
+    "stars": 10124,
+    "foundAt": "2026-09-20T22:34:06.972Z"
+  },
+  {
+    "key": "YosemiteCrew/Yosemite-Crew#3377",
+    "tier": 3,
+    "repo": "YosemiteCrew/Yosemite-Crew",
+    "number": 3377,
+    "title": "feat(frontend): widen developer docs search beyond an AND of raw substrings",
+    "url": "https://github.com/YosemiteCrew/Yosemite-Crew/issues/3377",
+    "comments": 0,
+    "createdAt": "2026-09-20T22:21:14Z",
+    "labels": [
+      "documentation",
+      "enhancement"
+    ],
+    "language": "typescript",
+    "stars": 2022,
+    "foundAt": "2026-09-20T22:34:04.957Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30624",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1682,154 +1845,5 @@
     "language": "typescript",
     "stars": 3404,
     "foundAt": "2026-09-19T11:14:52.270Z"
-  },
-  {
-    "key": "libredb/libredb-studio#992",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 992,
-    "title": "Admin Overview 'Recent Activity' reads the same per-process buffer that #851 showed is incomplete",
-    "url": "https://github.com/libredb/libredb-studio/issues/992",
-    "comments": 0,
-    "createdAt": "2026-09-19T10:48:06Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "help wanted",
-      "security"
-    ],
-    "language": "typescript",
-    "stars": 754,
-    "foundAt": "2026-09-19T11:14:52.270Z"
-  },
-  {
-    "key": "libredb/libredb-studio#991",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 991,
-    "title": "docs(security): note 1.4 claims role failures are not audited, and every claim in it is false",
-    "url": "https://github.com/libredb/libredb-studio/issues/991",
-    "comments": 0,
-    "createdAt": "2026-09-19T10:47:40Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "help wanted",
-      "security"
-    ],
-    "language": "typescript",
-    "stars": 754,
-    "foundAt": "2026-09-19T11:14:52.270Z"
-  },
-  {
-    "key": "Syknapse/Contribute-To-This-Project#4766",
-    "tier": 1,
-    "repo": "Syknapse/Contribute-To-This-Project",
-    "number": 4766,
-    "title": "[Good First Issue] Template Card is missing",
-    "url": "https://github.com/Syknapse/Contribute-To-This-Project/issues/4766",
-    "comments": 0,
-    "createdAt": "2026-09-19T10:13:37Z",
-    "labels": [
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 2562,
-    "foundAt": "2026-09-19T11:14:54.190Z"
-  },
-  {
-    "key": "libredb/libredb-studio#990",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 990,
-    "title": "Add a channels.yaml row for the Civo Kubernetes Marketplace submission",
-    "url": "https://github.com/libredb/libredb-studio/issues/990",
-    "comments": 0,
-    "createdAt": "2026-09-19T10:07:16Z",
-    "labels": [
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 754,
-    "foundAt": "2026-09-19T11:14:52.270Z"
-  },
-  {
-    "key": "leaperone/MultiPost-Extension#233",
-    "tier": 1,
-    "repo": "leaperone/MultiPost-Extension",
-    "number": 233,
-    "title": "feat: bonjour! 平台支持",
-    "url": "https://github.com/leaperone/MultiPost-Extension/issues/233",
-    "comments": 1,
-    "createdAt": "2026-09-19T09:05:55Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted",
-      "customer",
-      "needs-info"
-    ],
-    "language": "typescript",
-    "stars": 3500,
-    "foundAt": "2026-09-19T11:14:53.525Z"
-  },
-  {
-    "key": "algerkong/AlgerMusicPlayer#758",
-    "tier": 1,
-    "repo": "algerkong/AlgerMusicPlayer",
-    "number": 758,
-    "title": "建议：播放页「纯净模式」开关补充悬停说明与首次开启引导气泡",
-    "url": "https://github.com/algerkong/AlgerMusicPlayer/issues/758",
-    "comments": 1,
-    "createdAt": "2026-09-19T01:03:53Z",
-    "labels": [
-      "good first issue"
-    ],
-    "language": "vue",
-    "stars": 16757,
-    "foundAt": "2026-09-19T06:04:13.779Z"
-  },
-  {
-    "key": "reticlehq/reticle#1009",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 1009,
-    "title": "`glib` 0.18 is pinned by the gtk-rs generation `webkit2gtk` and `tauri` both sit on, and it is the one advisory that reaches a published artifact",
-    "url": "https://github.com/reticlehq/reticle/issues/1009",
-    "comments": 0,
-    "createdAt": "2026-09-19T05:15:49Z",
-    "labels": [
-      "help wanted",
-      "security",
-      "platform/tauri",
-      "platform/linux",
-      "P2"
-    ],
-    "language": "typescript",
-    "stars": 725,
-    "foundAt": "2026-09-19T06:04:14.272Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30564",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30564,
-    "title": "[good first issue] 🌊 Add new Learner Mistake 689 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30564",
-    "comments": 1,
-    "createdAt": "2026-09-19T01:01:03Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-19T01:18:48.286Z"
   }
 ]

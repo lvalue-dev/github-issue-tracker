@@ -4,6 +4,14 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-20 | 🥇 | [[good first issue] 🀄 Add new Grammar Point 265 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30632) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-20 | 🥇 | [[good first issue] 🌸 Add new Japanese Haiku 102 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30631) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-20 | 🥈 | [[good first issue] 🐡 Add new Japanese Proverb 816 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30630) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-20 | 🥈 | [[BUG] The MySQL object surface reports DATA_TYPE, so every column loses its leng](https://github.com/libredb/libredb-studio/issues/1033) | `libredb/libredb-studio` | ⭐ 754 |
+| 2026-09-20 | 🥈 | [[good first issue] 🍢 Add new Japan Fact 342 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30629) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-20 | 🥈 | [[BUG] SchemaDiff emits DEFAULT abc for a MySQL string default, and the server re](https://github.com/libredb/libredb-studio/issues/1031) | `libredb/libredb-studio` | ⭐ 754 |
+| 2026-09-20 | 🥉 | [[DOCS] `npm trust circle` docs should warn that OIDC token exchange in SSH rerun](https://github.com/npm/cli/issues/10004) | `npm/cli` | ⭐ 10.1k |
+| 2026-09-20 | 🥉 | [feat(frontend): widen developer docs search beyond an AND of raw substrings](https://github.com/YosemiteCrew/Yosemite-Crew/issues/3377) | `YosemiteCrew/Yosemite-Crew` | ⭐ 2.0k |
 | 2026-09-20 | 🥇 | [[good first issue] 🦑 Add new Etiquette Tip 794 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30624) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-20 | 🥇 | [[good first issue] 🎌 Add new False Friend Pair 581 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30622) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-20 | 🥈 | [[v10] Add v10 migration guide, blog post, and codemod transforms](https://github.com/webdriverio/webdriverio/issues/15664) | `webdriverio/webdriverio` | ⭐ 9.8k |
@@ -96,11 +104,3 @@
 | 2026-09-19 | 🥉 | [docs(guides): registry, policy-engine, and docker CI sections stop before anythi](https://github.com/mrwogu/promptscript/issues/473) | `mrwogu/promptscript` | ⭐ 377 |
 | 2026-09-19 | 🥉 | [docs snapshots are keyed by code block line number, so unrelated line edits brea](https://github.com/mrwogu/promptscript/issues/471) | `mrwogu/promptscript` | ⭐ 377 |
 | 2026-09-19 | 🥇 | [[good first issue] 🍥 Add new Grammar Point 112 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30578) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-19 | 🥇 | [Admin Overview 'Recent Activity' reads the same per-process buffer that #851 sho](https://github.com/libredb/libredb-studio/issues/992) | `libredb/libredb-studio` | ⭐ 754 |
-| 2026-09-19 | 🥇 | [docs(security): note 1.4 claims role failures are not audited, and every claim i](https://github.com/libredb/libredb-studio/issues/991) | `libredb/libredb-studio` | ⭐ 754 |
-| 2026-09-19 | 🥇 | [[Good First Issue] Template Card is missing](https://github.com/Syknapse/Contribute-To-This-Project/issues/4766) | `Syknapse/Contribute-To-This-Project` | ⭐ 2.6k |
-| 2026-09-19 | 🥇 | [Add a channels.yaml row for the Civo Kubernetes Marketplace submission](https://github.com/libredb/libredb-studio/issues/990) | `libredb/libredb-studio` | ⭐ 754 |
-| 2026-09-19 | 🥇 | [feat: bonjour! 平台支持](https://github.com/leaperone/MultiPost-Extension/issues/233) | `leaperone/MultiPost-Extension` | ⭐ 3.5k |
-| 2026-09-19 | 🥇 | [建议：播放页「纯净模式」开关补充悬停说明与首次开启引导气泡](https://github.com/algerkong/AlgerMusicPlayer/issues/758) | `algerkong/AlgerMusicPlayer` | ⭐ 16.8k |
-| 2026-09-19 | 🥈 | [`glib` 0.18 is pinned by the gtk-rs generation `webkit2gtk` and `tauri` both sit](https://github.com/reticlehq/reticle/issues/1009) | `reticlehq/reticle` | ⭐ 725 |
-| 2026-09-19 | 🥇 | [[good first issue] 🌊 Add new Learner Mistake 689 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30564) | `lingdojo/kana-dojo` | ⭐ 3.4k |
