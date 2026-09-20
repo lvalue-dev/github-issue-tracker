@@ -1,5 +1,78 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30591",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30591,
+    "title": "[good first issue] 🍡 Add new Etiquette Tip 520 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30591",
+    "comments": 1,
+    "createdAt": "2026-09-20T01:01:19Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-20T01:19:41.102Z"
+  },
+  {
+    "key": "stdlib-js/stdlib#15359",
+    "tier": 1,
+    "repo": "stdlib-js/stdlib",
+    "number": 15359,
+    "title": "Fix JavaScript lint errors",
+    "url": "https://github.com/stdlib-js/stdlib/issues/15359",
+    "comments": 1,
+    "createdAt": "2026-09-20T00:16:43Z",
+    "labels": [
+      "Good First Issue"
+    ],
+    "language": "javascript",
+    "stars": 5968,
+    "foundAt": "2026-09-20T01:19:41.686Z"
+  },
+  {
+    "key": "facebook/astryx#6385",
+    "tier": 3,
+    "repo": "facebook/astryx",
+    "number": 6385,
+    "title": "MultiSelector bottom-sheet listbox needs an accessible name",
+    "url": "https://github.com/facebook/astryx/issues/6385",
+    "comments": 0,
+    "createdAt": "2026-09-20T00:07:07Z",
+    "labels": [
+      "bug",
+      "accessibility"
+    ],
+    "language": "typescript",
+    "stars": 13248,
+    "foundAt": "2026-09-20T01:19:44.141Z"
+  },
+  {
+    "key": "facebook/astryx#6384",
+    "tier": 3,
+    "repo": "facebook/astryx",
+    "number": 6384,
+    "title": "Selector bottom-sheet listbox needs an accessible name",
+    "url": "https://github.com/facebook/astryx/issues/6384",
+    "comments": 0,
+    "createdAt": "2026-09-20T00:07:05Z",
+    "labels": [
+      "bug",
+      "accessibility"
+    ],
+    "language": "typescript",
+    "stars": 13248,
+    "foundAt": "2026-09-20T01:19:44.141Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30588",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1752,100 +1825,6 @@
     ],
     "language": "typescript",
     "stars": 2821,
-    "foundAt": "2026-09-18T06:05:03.290Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30545",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30545,
-    "title": "[Good First Issue] 🌸 Add new Japan Fact 63 - Beginner-Friendly Open-source Contribution (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30545",
-    "comments": 1,
-    "createdAt": "2026-09-18T04:00:58Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-18T06:05:03.290Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30544",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30544,
-    "title": "[Good First Issue] 🎏 Add new Theme: School Uniform - Beginner-Friendly Open-source Contribution (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30544",
-    "comments": 1,
-    "createdAt": "2026-09-18T03:57:29Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-18T06:05:03.290Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30543",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30543,
-    "title": "[Good First Issue] 🎑 Add new Community Note Line #4 - Beginner-Friendly Open-source Contribution (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30543",
-    "comments": 1,
-    "createdAt": "2026-09-18T03:01:05Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-18T06:05:03.290Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30542",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30542,
-    "title": "[Good First Issue] 🍚 Add new Wallpaper URL #5 - Beginner-Friendly Open-source Contribution (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30542",
-    "comments": 1,
-    "createdAt": "2026-09-18T02:57:34Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 3404,
     "foundAt": "2026-09-18T06:05:03.290Z"
   }
 ]

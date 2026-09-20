@@ -4,6 +4,10 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-20 | 🥇 | [[good first issue] 🍡 Add new Etiquette Tip 520 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30591) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-20 | 🥇 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15359) | `stdlib-js/stdlib` | ⭐ 6.0k |
+| 2026-09-20 | 🥉 | [MultiSelector bottom-sheet listbox needs an accessible name](https://github.com/facebook/astryx/issues/6385) | `facebook/astryx` | ⭐ 13.2k |
+| 2026-09-20 | 🥉 | [Selector bottom-sheet listbox needs an accessible name](https://github.com/facebook/astryx/issues/6384) | `facebook/astryx` | ⭐ 13.2k |
 | 2026-09-19 | 🥇 | [[good first issue] 🍜 Add new False Friend Pair 412 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30588) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-19 | 🥇 | [Policy proxy `valueOf()` returns the unwrapped account](https://github.com/tetherto/wdk/issues/96) | `tetherto/wdk` | ⭐ 272 |
 | 2026-09-19 | 🥇 | [Neo.layout.Cube ships in the portal with no coverage of its own](https://github.com/neomjs/neo/issues/19010) | `neomjs/neo` | ⭐ 3.3k |
@@ -100,7 +104,3 @@
 | 2026-09-18 | 🥈 | [`table-input` appears on new PR lists](https://github.com/refined-github/refined-github/issues/10093) | `refined-github/refined-github` | ⭐ 32.2k |
 | 2026-09-18 | 🥇 | [[Good First Issue] 🧧 Add new Japanese Proverb 157 - Beginner-Friendly Open-sour](https://github.com/lingdojo/kana-dojo/issues/30546) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-18 | 🥇 | [O .gitignore não protege os dois artefatos que o próprio kit cria (.update.lock ](https://github.com/melgarafael/DeskcommCRM/issues/1150) | `melgarafael/DeskcommCRM` | ⭐ 2.8k |
-| 2026-09-18 | 🥇 | [[Good First Issue] 🌸 Add new Japan Fact 63 - Beginner-Friendly Open-source Cont](https://github.com/lingdojo/kana-dojo/issues/30545) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-18 | 🥇 | [[Good First Issue] 🎏 Add new Theme: School Uniform - Beginner-Friendly Open-sou](https://github.com/lingdojo/kana-dojo/issues/30544) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-18 | 🥇 | [[Good First Issue] 🎑 Add new Community Note Line #4 - Beginner-Friendly Open-so](https://github.com/lingdojo/kana-dojo/issues/30543) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-18 | 🥇 | [[Good First Issue] 🍚 Add new Wallpaper URL #5 - Beginner-Friendly Open-source C](https://github.com/lingdojo/kana-dojo/issues/30542) | `lingdojo/kana-dojo` | ⭐ 3.4k |
