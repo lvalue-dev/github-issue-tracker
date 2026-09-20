@@ -4,6 +4,35 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-20 | 🥇 | [[UI Migration] DownloadCounter](https://github.com/ONEARMY/community-platform/issues/4905) | `ONEARMY/community-platform` | ⭐ 1.4k |
+| 2026-09-20 | 🥇 | [[UI Migration] UsefulStatsButton](https://github.com/ONEARMY/community-platform/issues/4904) | `ONEARMY/community-platform` | ⭐ 1.4k |
+| 2026-09-20 | 🥇 | [[UI Migration] ModerationStatus](https://github.com/ONEARMY/community-platform/issues/4903) | `ONEARMY/community-platform` | ⭐ 1.4k |
+| 2026-09-20 | 🥇 | [Add /scan/notion SEO page (Notion preview follow-up)](https://github.com/shadcn-labs/ogimagecn/issues/33) | `shadcn-labs/ogimagecn` | ⭐ 229 |
+| 2026-09-20 | 🥇 | [Add /scan/bluesky SEO page (Bluesky preview follow-up)](https://github.com/shadcn-labs/ogimagecn/issues/32) | `shadcn-labs/ogimagecn` | ⭐ 229 |
+| 2026-09-20 | 🥇 | [Add LINE link preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/31) | `shadcn-labs/ogimagecn` | ⭐ 229 |
+| 2026-09-20 | 🥇 | [Add Snapchat link preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/30) | `shadcn-labs/ogimagecn` | ⭐ 229 |
+| 2026-09-20 | 🥇 | [Add Google Chat link preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/29) | `shadcn-labs/ogimagecn` | ⭐ 229 |
+| 2026-09-20 | 🥇 | [Add Instagram link preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/28) | `shadcn-labs/ogimagecn` | ⭐ 229 |
+| 2026-09-20 | 🥇 | [Add Signal link preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/27) | `shadcn-labs/ogimagecn` | ⭐ 229 |
+| 2026-09-20 | 🥇 | [Add TikTok link preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/26) | `shadcn-labs/ogimagecn` | ⭐ 229 |
+| 2026-09-20 | 🥇 | [Add WeChat link preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/25) | `shadcn-labs/ogimagecn` | ⭐ 229 |
+| 2026-09-20 | 🥇 | [Add Tumblr link preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/24) | `shadcn-labs/ogimagecn` | ⭐ 229 |
+| 2026-09-20 | 🥇 | [Add Google Search result preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/23) | `shadcn-labs/ogimagecn` | ⭐ 229 |
+| 2026-09-20 | 🥇 | [Add Nextdoor link preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/22) | `shadcn-labs/ogimagecn` | ⭐ 229 |
+| 2026-09-20 | 🥇 | [in assistive model add fal.ai for generative media feature](https://github.com/webbrain-one/webbrain/issues/3077) | `webbrain-one/webbrain` | ⭐ 1.1k |
+| 2026-09-20 | 🥈 | [Snyk vulnerability [SNYK-JS-URIJS-19963963]](https://github.com/backstage/backstage/issues/35828) | `backstage/backstage` | ⭐ 34.4k |
+| 2026-09-20 | 🥈 | [Snyk vulnerability [SNYK-JS-URIJS-19963961]](https://github.com/backstage/backstage/issues/35827) | `backstage/backstage` | ⭐ 34.4k |
+| 2026-09-20 | 🥈 | [Snyk vulnerability [SNYK-JS-HTTPCACHESEMANTICS-19964068]](https://github.com/backstage/backstage/issues/35826) | `backstage/backstage` | ⭐ 34.4k |
+| 2026-09-20 | 🥈 | [Snyk vulnerability [SNYK-JS-HTTPCACHESEMANTICS-19964064]](https://github.com/backstage/backstage/issues/35825) | `backstage/backstage` | ⭐ 34.4k |
+| 2026-09-20 | 🥈 | [Snyk vulnerability [SNYK-JS-DEEPMERGE-19964053]](https://github.com/backstage/backstage/issues/35824) | `backstage/backstage` | ⭐ 34.4k |
+| 2026-09-20 | 🥈 | [Snyk vulnerability [SNYK-JS-ADMZIP-19963965]](https://github.com/backstage/backstage/issues/35823) | `backstage/backstage` | ⭐ 34.4k |
+| 2026-09-20 | 🥈 | [Coordinated AI SDK v7 upgrade: @ai-sdk/* 3.x is specification v4 and ai@6 accept](https://github.com/GD4AI/obsidian-llm-wiki/issues/764) | `GD4AI/obsidian-llm-wiki` | ⭐ 641 |
+| 2026-09-20 | 🥈 | [writeFileWithIntent returns void, so a skipped lint write is logged as a fix tha](https://github.com/GD4AI/obsidian-llm-wiki/issues/763) | `GD4AI/obsidian-llm-wiki` | ⭐ 641 |
+| 2026-09-20 | 🥉 | [Add Allowed / Forbidden / Ask-first guardrails to AGENTS.md](https://github.com/Marker-Inc-Korea/AutoRAG/issues/1657) | `Marker-Inc-Korea/AutoRAG` | ⭐ 5.1k |
+| 2026-09-20 | 🥉 | [Publish Model Cards / AI-BOM fields for bundled embedding models](https://github.com/Marker-Inc-Korea/AutoRAG/issues/1656) | `Marker-Inc-Korea/AutoRAG` | ⭐ 5.1k |
+| 2026-09-20 | 🥉 | [Refresh issue/PR templates for AutoRAG 2.0 and agent-ready task specs](https://github.com/Marker-Inc-Korea/AutoRAG/issues/1653) | `Marker-Inc-Korea/AutoRAG` | ⭐ 5.1k |
+| 2026-09-20 | 🥉 | [Add AI_POLICY.md for AI-generated contributions](https://github.com/Marker-Inc-Korea/AutoRAG/issues/1651) | `Marker-Inc-Korea/AutoRAG` | ⭐ 5.1k |
+| 2026-09-20 | 🥉 | [Add CONTRIBUTING.md, MAINTAINERS, and a documented inbound-contribution license ](https://github.com/Marker-Inc-Korea/AutoRAG/issues/1650) | `Marker-Inc-Korea/AutoRAG` | ⭐ 5.1k |
 | 2026-09-20 | 🥇 | [Escape does not cancel an in-progress polygonal lasso](https://github.com/snapotter-hq/SnapOtter/issues/1212) | `snapotter-hq/SnapOtter` | ⭐ 2.7k |
 | 2026-09-20 | 🥇 | [[good first issue] 🗻 Add new Example Sentence 554 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30592) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-20 | 🥈 | [更新技术文档和开发文档](https://github.com/poco-ai/Agentero/issues/596) | `poco-ai/Agentero` | ⭐ 604 |
@@ -75,32 +104,3 @@
 | 2026-09-18 | 🥇 | [feat(workflows): bind nested workflows to explicit repositories and worktrees](https://github.com/bastani-inc/atomic/issues/3109) | `bastani-inc/atomic` | ⭐ 805 |
 | 2026-09-18 | 🥇 | [[good first issue] 🗾 Add new False Friend Pair 913 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30559) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-18 | 🥇 | [Every `area/*` label still describes a directory 3.1.0 deleted](https://github.com/reticlehq/reticle/issues/981) | `reticlehq/reticle` | ⭐ 725 |
-| 2026-09-18 | 🥇 | [Add Microsoft Teams link preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/19) | `shadcn-labs/ogimagecn` | ⭐ 229 |
-| 2026-09-18 | 🥇 | [Add Threads link preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/18) | `shadcn-labs/ogimagecn` | ⭐ 229 |
-| 2026-09-18 | 🥇 | [Add Notion link preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/17) | `shadcn-labs/ogimagecn` | ⭐ 229 |
-| 2026-09-18 | 🥇 | [Add iMessage link preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/16) | `shadcn-labs/ogimagecn` | ⭐ 229 |
-| 2026-09-18 | 🥇 | [Add Reddit link preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/15) | `shadcn-labs/ogimagecn` | ⭐ 229 |
-| 2026-09-18 | 🥇 | [Add Mastodon link preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/14) | `shadcn-labs/ogimagecn` | ⭐ 229 |
-| 2026-09-18 | 🥇 | [Add Bluesky link preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/13) | `shadcn-labs/ogimagecn` | ⭐ 229 |
-| 2026-09-18 | 🥇 | [Match the clear-history button gating and confirmation text to what clearAllHist](https://github.com/felladrin/MiniSearch/issues/2689) | `felladrin/MiniSearch` | ⭐ 587 |
-| 2026-09-18 | 🥇 | [[good first issue] 🍢 Add new Dialect Entry 1028 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30557) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-18 | 🥈 | [[🐛 Bug]:  AI assistant reset button overlaps with scrollbar](https://github.com/webdriverio/webdriverio/issues/15623) | `webdriverio/webdriverio` | ⭐ 9.8k |
-| 2026-09-18 | 🥉 | [Link to Vercel SvelteKit templates](https://github.com/sveltejs/kit/issues/17154) | `sveltejs/kit` | ⭐ 20.8k |
-| 2026-09-18 | 🥉 | [Mention `sv` in adapter docs](https://github.com/sveltejs/kit/issues/17153) | `sveltejs/kit` | ⭐ 20.8k |
-| 2026-09-18 | 🥇 | [[Linux] Titlebar title sits off-center: 78px left padding is a macOS-only allowa](https://github.com/tommy0103/obelisk/issues/184) | `tommy0103/obelisk` | ⭐ 510 |
-| 2026-09-18 | 🥇 | [Add Subscription Items API documentation](https://github.com/zonelessdev/zoneless/issues/161) | `zonelessdev/zoneless` | ⭐ 535 |
-| 2026-09-18 | 🥇 | [Add Subscription Items to the Node SDK](https://github.com/zonelessdev/zoneless/issues/160) | `zonelessdev/zoneless` | ⭐ 535 |
-| 2026-09-18 | 🥇 | [[Bug]: macOS：页面/布局变化时 Renderer CPU 飙升至约 100%，导致整个 UI 严重卡顿](https://github.com/aipoch/open-science/issues/2782) | `aipoch/open-science` | ⭐ 4.5k |
-| 2026-09-18 | 🥇 | [Add Verification Sessions API documentation](https://github.com/zonelessdev/zoneless/issues/158) | `zonelessdev/zoneless` | ⭐ 535 |
-| 2026-09-18 | 🥇 | [Add Verification Sessions to the Node SDK](https://github.com/zonelessdev/zoneless/issues/157) | `zonelessdev/zoneless` | ⭐ 535 |
-| 2026-09-18 | 🥇 | [Report the selected post-create operation instead of Docker GPU patch when GPU i](https://github.com/NVIDIA/NemoClaw/issues/12080) | `NVIDIA/NemoClaw` | ⭐ 22.5k |
-| 2026-09-18 | 🥇 | [Clarify secure API-key re-entry after provider validation fails](https://github.com/NVIDIA/NemoClaw/issues/12079) | `NVIDIA/NemoClaw` | ⭐ 22.5k |
-| 2026-09-18 | 🥇 | [[Bug] 编辑器可编辑区域色差问题](https://github.com/1lck/Lithe-IDEA/issues/732) | `1lck/Lithe-IDEA` | ⭐ 1.4k |
-| 2026-09-18 | 🥇 | [Update Project Profile: Hackforla.org Website Add Sushma Ramachandra Hegde](https://github.com/hackforla/website/issues/8791) | `hackforla/website` | ⭐ 363 |
-| 2026-09-18 | 🥇 | [Community Membership paragraph alignment issue](https://github.com/layer5io/layer5/issues/8085) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-18 | 🥇 | [Layout shift when opening the “Meet Five” card](https://github.com/layer5io/layer5/issues/8084) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-18 | 🥇 | [Responsive UI issue with integration logos on mobile devices](https://github.com/layer5io/layer5/issues/8083) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-18 | 🥈 | [Add Subscription Items API endpoints](https://github.com/zonelessdev/zoneless/issues/159) | `zonelessdev/zoneless` | ⭐ 535 |
-| 2026-09-18 | 🥈 | [[good first issue] ⛩️ Add new Japanese Idiom 260 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30555) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-18 | 🥈 | [[Meshery Design]](https://github.com/meshery/meshery/issues/22024) | `meshery/meshery` | ⭐ 11.8k |
-| 2026-09-18 | 🥈 | [[Meshery Design]](https://github.com/meshery/meshery/issues/22023) | `meshery/meshery` | ⭐ 11.8k |
