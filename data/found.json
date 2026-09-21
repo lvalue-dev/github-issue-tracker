@@ -1,5 +1,201 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30676",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30676,
+    "title": "[good first issue] 🐉 Add new Community Note Line #28 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30676",
+    "comments": 1,
+    "createdAt": "2026-09-21T14:01:07Z",
+    "labels": [
+      "documentation",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-21T14:23:05.772Z"
+  },
+  {
+    "key": "leaperone/MultiPost-Extension#235",
+    "tier": 1,
+    "repo": "leaperone/MultiPost-Extension",
+    "number": 235,
+    "title": "feat: 建议增加微信公众号数据获取功能",
+    "url": "https://github.com/leaperone/MultiPost-Extension/issues/235",
+    "comments": 1,
+    "createdAt": "2026-09-21T13:53:45Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "customer",
+      "needs-info"
+    ],
+    "language": "typescript",
+    "stars": 3500,
+    "foundAt": "2026-09-21T14:23:05.772Z"
+  },
+  {
+    "key": "neomjs/neo#19038",
+    "tier": 1,
+    "repo": "neomjs/neo",
+    "number": 19038,
+    "title": "Neo.toolbar.Paging has no coverage, and its page maths has edges",
+    "url": "https://github.com/neomjs/neo/issues/19038",
+    "comments": 0,
+    "createdAt": "2026-09-21T13:18:22Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "ai",
+      "testing"
+    ],
+    "language": "javascript",
+    "stars": 3280,
+    "foundAt": "2026-09-21T14:23:06.008Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30675",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30675,
+    "title": "[good first issue] 🐉 Add new Example Sentence 399 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30675",
+    "comments": 1,
+    "createdAt": "2026-09-21T13:37:34Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-21T14:23:06.811Z"
+  },
+  {
+    "key": "leaperone/MultiPost-Extension#234",
+    "tier": 2,
+    "repo": "leaperone/MultiPost-Extension",
+    "number": 234,
+    "title": "feat: 有一个bug，如果提交到youtube，无法分辨视频的尺寸，导致无法自动选择分类，造成上传错误提示",
+    "url": "https://github.com/leaperone/MultiPost-Extension/issues/234",
+    "comments": 1,
+    "createdAt": "2026-09-21T13:28:29Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "customer",
+      "needs-info"
+    ],
+    "language": "typescript",
+    "stars": 3500,
+    "foundAt": "2026-09-21T14:23:06.811Z"
+  },
+  {
+    "key": "CherryHQ/cherry-studio#20904",
+    "tier": 2,
+    "repo": "CherryHQ/cherry-studio",
+    "number": 20904,
+    "title": "[Discussion]: The DeepSeek model fails to identify everything, so manual addition is required.",
+    "url": "https://github.com/CherryHQ/cherry-studio/issues/20904",
+    "comments": 0,
+    "createdAt": "2026-09-21T13:27:49Z",
+    "labels": [
+      "help wanted",
+      "discussion"
+    ],
+    "language": "typescript",
+    "stars": 52046,
+    "foundAt": "2026-09-21T14:23:07.078Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30672",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30672,
+    "title": "[good first issue] 🎎 Add new False Friend Pair 840 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30672",
+    "comments": 1,
+    "createdAt": "2026-09-21T12:37:35Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-21T14:23:08.626Z"
+  },
+  {
+    "key": "ch-bas/cctv-camera-database#378",
+    "tier": 2,
+    "repo": "ch-bas/cctv-camera-database",
+    "number": 378,
+    "title": "Add: Dahua DH-PA269-L",
+    "url": "https://github.com/ch-bas/cctv-camera-database/issues/378",
+    "comments": 2,
+    "createdAt": "2026-09-21T11:52:37Z",
+    "labels": [
+      "help wanted",
+      "question"
+    ],
+    "language": "javascript",
+    "stars": 250,
+    "foundAt": "2026-09-21T14:23:08.841Z"
+  },
+  {
+    "key": "ch-bas/cctv-camera-database#377",
+    "tier": 2,
+    "repo": "ch-bas/cctv-camera-database",
+    "number": 377,
+    "title": "Add: Dahua DH-PT249-L",
+    "url": "https://github.com/ch-bas/cctv-camera-database/issues/377",
+    "comments": 2,
+    "createdAt": "2026-09-21T11:45:50Z",
+    "labels": [
+      "help wanted",
+      "question"
+    ],
+    "language": "javascript",
+    "stars": 250,
+    "foundAt": "2026-09-21T14:23:08.841Z"
+  },
+  {
+    "key": "ulsklyc/yuvomi#1369",
+    "tier": 3,
+    "repo": "ulsklyc/yuvomi",
+    "number": 1369,
+    "title": "Docs: state the minimum browser versions, measured per engine",
+    "url": "https://github.com/ulsklyc/yuvomi/issues/1369",
+    "comments": 0,
+    "createdAt": "2026-09-21T13:26:54Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "javascript",
+    "stars": 1525,
+    "foundAt": "2026-09-21T14:23:12.359Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30648",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1730,191 +1926,5 @@
     "language": "javascript",
     "stars": 272,
     "foundAt": "2026-09-19T23:16:21.201Z"
-  },
-  {
-    "key": "neomjs/neo#19010",
-    "tier": 1,
-    "repo": "neomjs/neo",
-    "number": 19010,
-    "title": "Neo.layout.Cube ships in the portal with no coverage of its own",
-    "url": "https://github.com/neomjs/neo/issues/19010",
-    "comments": 0,
-    "createdAt": "2026-09-19T21:07:28Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "ai",
-      "testing"
-    ],
-    "language": "javascript",
-    "stars": 3280,
-    "foundAt": "2026-09-19T23:16:21.412Z"
-  },
-  {
-    "key": "neomjs/neo#19007",
-    "tier": 1,
-    "repo": "neomjs/neo",
-    "number": 19007,
-    "title": "Multi-sorter precedence and mixed-type ordering are unpinned",
-    "url": "https://github.com/neomjs/neo/issues/19007",
-    "comments": 0,
-    "createdAt": "2026-09-19T21:02:35Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "ai",
-      "testing",
-      "core"
-    ],
-    "language": "javascript",
-    "stars": 3280,
-    "foundAt": "2026-09-19T23:16:21.412Z"
-  },
-  {
-    "key": "neomjs/neo#19006",
-    "tier": 1,
-    "repo": "neomjs/neo",
-    "number": 19006,
-    "title": "The calendar month view has no component-tier witness",
-    "url": "https://github.com/neomjs/neo/issues/19006",
-    "comments": 0,
-    "createdAt": "2026-09-19T21:01:55Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "ai",
-      "testing"
-    ],
-    "language": "javascript",
-    "stars": 3280,
-    "foundAt": "2026-09-19T23:16:21.412Z"
-  },
-  {
-    "key": "neomjs/neo#19003",
-    "tier": 1,
-    "repo": "neomjs/neo",
-    "number": 19003,
-    "title": "Add unit coverage for Neo.collection.Filter's operator matrix",
-    "url": "https://github.com/neomjs/neo/issues/19003",
-    "comments": 0,
-    "createdAt": "2026-09-19T20:11:25Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "ai",
-      "testing",
-      "core"
-    ],
-    "language": "javascript",
-    "stars": 3280,
-    "foundAt": "2026-09-19T20:51:39.482Z"
-  },
-  {
-    "key": "layer5io/layer5#8094",
-    "tier": 2,
-    "repo": "layer5io/layer5",
-    "number": 8094,
-    "title": "Fix missing documentation links for Timeline (DVR) and Service Performance cards",
-    "url": "https://github.com/layer5io/layer5/issues/8094",
-    "comments": 2,
-    "createdAt": "2026-09-19T20:40:08Z",
-    "labels": [
-      "kind/bug",
-      "help wanted",
-      "framework/gatsby"
-    ],
-    "language": "javascript",
-    "stars": 1124,
-    "foundAt": "2026-09-19T20:51:40.141Z"
-  },
-  {
-    "key": "layer5io/layer5#8092",
-    "tier": 2,
-    "repo": "layer5io/layer5",
-    "number": 8092,
-    "title": "Fix inconsistent alignment of feature points in the For Learners section on mobile",
-    "url": "https://github.com/layer5io/layer5/issues/8092",
-    "comments": 2,
-    "createdAt": "2026-09-19T20:28:59Z",
-    "labels": [
-      "kind/bug",
-      "help wanted",
-      "framework/gatsby"
-    ],
-    "language": "javascript",
-    "stars": 1124,
-    "foundAt": "2026-09-19T20:51:40.141Z"
-  },
-  {
-    "key": "silexlabs/Silex#1868",
-    "tier": 1,
-    "repo": "silexlabs/Silex",
-    "number": 1868,
-    "title": "MCP tools return a success when nothing was done",
-    "url": "https://github.com/silexlabs/Silex/issues/1868",
-    "comments": 2,
-    "createdAt": "2026-09-19T16:40:51Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "ai"
-    ],
-    "language": "typescript",
-    "stars": 2976,
-    "foundAt": "2026-09-19T18:08:10.558Z"
-  },
-  {
-    "key": "silexlabs/Silex#1866",
-    "tier": 1,
-    "repo": "silexlabs/Silex",
-    "number": 1866,
-    "title": "MCP: the agent gets wrong names",
-    "url": "https://github.com/silexlabs/Silex/issues/1866",
-    "comments": 1,
-    "createdAt": "2026-09-19T16:40:48Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "ai"
-    ],
-    "language": "typescript",
-    "stars": 2976,
-    "foundAt": "2026-09-19T18:08:10.558Z"
-  },
-  {
-    "key": "PipedreamHQ/pipedream#22017",
-    "tier": 1,
-    "repo": "PipedreamHQ/pipedream",
-    "number": 22017,
-    "title": "[FEATURE] Add tawk.to actions to Pipedream MCP",
-    "url": "https://github.com/PipedreamHQ/pipedream/issues/22017",
-    "comments": 0,
-    "createdAt": "2026-09-19T15:54:03Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "action"
-    ],
-    "language": "javascript",
-    "stars": 11698,
-    "foundAt": "2026-09-19T18:08:11.259Z"
-  },
-  {
-    "key": "meshery/meshery.io#2998",
-    "tier": 2,
-    "repo": "meshery/meshery.io",
-    "number": 2998,
-    "title": "[Bug] Integrations LIST button throws a JavaScript TypeError",
-    "url": "https://github.com/meshery/meshery.io/issues/2998",
-    "comments": 0,
-    "createdAt": "2026-09-19T17:24:31Z",
-    "labels": [
-      "kind/bug",
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 861,
-    "foundAt": "2026-09-19T18:08:12.094Z"
   }
 ]

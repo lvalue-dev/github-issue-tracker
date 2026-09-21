@@ -4,6 +4,16 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-21 | 🥇 | [[good first issue] 🐉 Add new Community Note Line #28 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30676) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-21 | 🥇 | [feat: 建议增加微信公众号数据获取功能](https://github.com/leaperone/MultiPost-Extension/issues/235) | `leaperone/MultiPost-Extension` | ⭐ 3.5k |
+| 2026-09-21 | 🥇 | [Neo.toolbar.Paging has no coverage, and its page maths has edges](https://github.com/neomjs/neo/issues/19038) | `neomjs/neo` | ⭐ 3.3k |
+| 2026-09-21 | 🥈 | [[good first issue] 🐉 Add new Example Sentence 399 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30675) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-21 | 🥈 | [feat: 有一个bug，如果提交到youtube，无法分辨视频的尺寸，导致无法自动选择分类，造成上传错误提示](https://github.com/leaperone/MultiPost-Extension/issues/234) | `leaperone/MultiPost-Extension` | ⭐ 3.5k |
+| 2026-09-21 | 🥈 | [[Discussion]: The DeepSeek model fails to identify everything, so manual additio](https://github.com/CherryHQ/cherry-studio/issues/20904) | `CherryHQ/cherry-studio` | ⭐ 52.0k |
+| 2026-09-21 | 🥈 | [[good first issue] 🎎 Add new False Friend Pair 840 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30672) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-21 | 🥈 | [Add: Dahua DH-PA269-L](https://github.com/ch-bas/cctv-camera-database/issues/378) | `ch-bas/cctv-camera-database` | ⭐ 250 |
+| 2026-09-21 | 🥈 | [Add: Dahua DH-PT249-L](https://github.com/ch-bas/cctv-camera-database/issues/377) | `ch-bas/cctv-camera-database` | ⭐ 250 |
+| 2026-09-21 | 🥉 | [Docs: state the minimum browser versions, measured per engine](https://github.com/ulsklyc/yuvomi/issues/1369) | `ulsklyc/yuvomi` | ⭐ 1.5k |
 | 2026-09-21 | 🥇 | [[good first issue] 🍵 Add new Japanese Idiom 1133 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30648) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-21 | 🥇 | [🐞Play Video From Beginning](https://github.com/code-charity/youtube/issues/4349) | `code-charity/youtube` | ⭐ 4.6k |
 | 2026-09-21 | 🥇 | [[good first issue] 🀄 Add new Grammar Point 960 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30645) | `lingdojo/kana-dojo` | ⭐ 3.4k |
@@ -94,13 +104,3 @@
 | 2026-09-20 | 🥉 | [Selector bottom-sheet listbox needs an accessible name](https://github.com/facebook/astryx/issues/6384) | `facebook/astryx` | ⭐ 13.2k |
 | 2026-09-19 | 🥇 | [[good first issue] 🍜 Add new False Friend Pair 412 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30588) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-19 | 🥇 | [Policy proxy `valueOf()` returns the unwrapped account](https://github.com/tetherto/wdk/issues/96) | `tetherto/wdk` | ⭐ 272 |
-| 2026-09-19 | 🥇 | [Neo.layout.Cube ships in the portal with no coverage of its own](https://github.com/neomjs/neo/issues/19010) | `neomjs/neo` | ⭐ 3.3k |
-| 2026-09-19 | 🥇 | [Multi-sorter precedence and mixed-type ordering are unpinned](https://github.com/neomjs/neo/issues/19007) | `neomjs/neo` | ⭐ 3.3k |
-| 2026-09-19 | 🥇 | [The calendar month view has no component-tier witness](https://github.com/neomjs/neo/issues/19006) | `neomjs/neo` | ⭐ 3.3k |
-| 2026-09-19 | 🥇 | [Add unit coverage for Neo.collection.Filter's operator matrix](https://github.com/neomjs/neo/issues/19003) | `neomjs/neo` | ⭐ 3.3k |
-| 2026-09-19 | 🥈 | [Fix missing documentation links for Timeline (DVR) and Service Performance cards](https://github.com/layer5io/layer5/issues/8094) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-19 | 🥈 | [Fix inconsistent alignment of feature points in the For Learners section on mobi](https://github.com/layer5io/layer5/issues/8092) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-19 | 🥇 | [MCP tools return a success when nothing was done](https://github.com/silexlabs/Silex/issues/1868) | `silexlabs/Silex` | ⭐ 3.0k |
-| 2026-09-19 | 🥇 | [MCP: the agent gets wrong names](https://github.com/silexlabs/Silex/issues/1866) | `silexlabs/Silex` | ⭐ 3.0k |
-| 2026-09-19 | 🥇 | [[FEATURE] Add tawk.to actions to Pipedream MCP](https://github.com/PipedreamHQ/pipedream/issues/22017) | `PipedreamHQ/pipedream` | ⭐ 11.7k |
-| 2026-09-19 | 🥈 | [[Bug] Integrations LIST button throws a JavaScript TypeError](https://github.com/meshery/meshery.io/issues/2998) | `meshery/meshery.io` | ⭐ 861 |
