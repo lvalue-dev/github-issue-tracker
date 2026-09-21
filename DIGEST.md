@@ -4,6 +4,18 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-21 | 🥇 | [[good first issue] 🍜 Add new Japanese Idiom 796 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30697) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-21 | 🥇 | [Backend should not abort when S3 object storage does not support PutBucketPolicy](https://github.com/Smaug6739/Alexandrie/issues/781) | `Smaug6739/Alexandrie` | ⭐ 2.8k |
+| 2026-09-21 | 🥈 | [Multipart file uploads with shared request body schema do not get `File` type](https://github.com/orval-labs/orval/issues/4177) | `orval-labs/orval` | ⭐ 6.5k |
+| 2026-09-21 | 🥈 | [[good first issue] 🌋 Add new Video Game Quote 614 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30696) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-21 | 🥈 | [[Bug]: ios 27 - blur in header](https://github.com/actualbudget/actual/issues/8989) | `actualbudget/actual` | ⭐ 29.1k |
+| 2026-09-21 | 🥈 | [[good first issue] 🍘 Add new Trivia Question 535 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30695) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-21 | 🥈 | [[good first issue] 🎑 Add new Japanese Haiku 119 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30694) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-21 | 🥈 | [[good first issue] 🎐 Add new Japanese Proverb 583 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30693) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-21 | 🥈 | [[good first issue] 🍙 Add new Japan Fact 2432 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30692) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-21 | 🥈 | [[good first issue] 🍁 Add new Theme: Harbor Lanterns (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30691) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-21 | 🥈 | [Find an alternative to punycode](https://github.com/layer5io/layer5/issues/8108) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-21 | 🥉 | [Kotlin Multiplatform install docs still recommend CocoaPods with no deprecation ](https://github.com/getsentry/sentry-docs/issues/19539) | `getsentry/sentry-docs` | ⭐ 446 |
 | 2026-09-21 | 🥇 | [[good first issue] 🍁 Add new Learner Mistake 135 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30690) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-21 | 🥇 | [[good first issue] 🎎 Add new Example Sentence 767 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30688) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-21 | 🥇 | [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/22036) | `PipedreamHQ/pipedream` | ⭐ 11.7k |
@@ -92,15 +104,3 @@
 | 2026-09-20 | 🥈 | [Snyk vulnerability [SNYK-JS-DEEPMERGE-19964053]](https://github.com/backstage/backstage/issues/35824) | `backstage/backstage` | ⭐ 34.4k |
 | 2026-09-20 | 🥈 | [Snyk vulnerability [SNYK-JS-ADMZIP-19963965]](https://github.com/backstage/backstage/issues/35823) | `backstage/backstage` | ⭐ 34.4k |
 | 2026-09-20 | 🥈 | [Coordinated AI SDK v7 upgrade: @ai-sdk/* 3.x is specification v4 and ai@6 accept](https://github.com/GD4AI/obsidian-llm-wiki/issues/764) | `GD4AI/obsidian-llm-wiki` | ⭐ 641 |
-| 2026-09-20 | 🥈 | [writeFileWithIntent returns void, so a skipped lint write is logged as a fix tha](https://github.com/GD4AI/obsidian-llm-wiki/issues/763) | `GD4AI/obsidian-llm-wiki` | ⭐ 641 |
-| 2026-09-20 | 🥉 | [Add Allowed / Forbidden / Ask-first guardrails to AGENTS.md](https://github.com/Marker-Inc-Korea/AutoRAG/issues/1657) | `Marker-Inc-Korea/AutoRAG` | ⭐ 5.1k |
-| 2026-09-20 | 🥉 | [Publish Model Cards / AI-BOM fields for bundled embedding models](https://github.com/Marker-Inc-Korea/AutoRAG/issues/1656) | `Marker-Inc-Korea/AutoRAG` | ⭐ 5.1k |
-| 2026-09-20 | 🥉 | [Refresh issue/PR templates for AutoRAG 2.0 and agent-ready task specs](https://github.com/Marker-Inc-Korea/AutoRAG/issues/1653) | `Marker-Inc-Korea/AutoRAG` | ⭐ 5.1k |
-| 2026-09-20 | 🥉 | [Add AI_POLICY.md for AI-generated contributions](https://github.com/Marker-Inc-Korea/AutoRAG/issues/1651) | `Marker-Inc-Korea/AutoRAG` | ⭐ 5.1k |
-| 2026-09-20 | 🥉 | [Add CONTRIBUTING.md, MAINTAINERS, and a documented inbound-contribution license ](https://github.com/Marker-Inc-Korea/AutoRAG/issues/1650) | `Marker-Inc-Korea/AutoRAG` | ⭐ 5.1k |
-| 2026-09-20 | 🥇 | [Escape does not cancel an in-progress polygonal lasso](https://github.com/snapotter-hq/SnapOtter/issues/1212) | `snapotter-hq/SnapOtter` | ⭐ 2.7k |
-| 2026-09-20 | 🥇 | [[good first issue] 🗻 Add new Example Sentence 554 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30592) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-20 | 🥈 | [更新技术文档和开发文档](https://github.com/poco-ai/Agentero/issues/596) | `poco-ai/Agentero` | ⭐ 604 |
-| 2026-09-20 | 🥇 | [[good first issue] 🍡 Add new Etiquette Tip 520 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30591) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-20 | 🥇 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15359) | `stdlib-js/stdlib` | ⭐ 6.0k |
-| 2026-09-20 | 🥉 | [MultiSelector bottom-sheet listbox needs an accessible name](https://github.com/facebook/astryx/issues/6385) | `facebook/astryx` | ⭐ 13.2k |

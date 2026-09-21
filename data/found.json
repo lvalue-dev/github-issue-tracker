@@ -1,5 +1,254 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30697",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30697,
+    "title": "[good first issue] 🍜 Add new Japanese Idiom 796 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30697",
+    "comments": 1,
+    "createdAt": "2026-09-21T23:01:05Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-21T23:24:07.811Z"
+  },
+  {
+    "key": "Smaug6739/Alexandrie#781",
+    "tier": 1,
+    "repo": "Smaug6739/Alexandrie",
+    "number": 781,
+    "title": "Backend should not abort when S3 object storage does not support PutBucketPolicy",
+    "url": "https://github.com/Smaug6739/Alexandrie/issues/781",
+    "comments": 0,
+    "createdAt": "2026-09-21T20:20:53Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "backend"
+    ],
+    "language": "vue",
+    "stars": 2763,
+    "foundAt": "2026-09-21T23:24:08.723Z"
+  },
+  {
+    "key": "orval-labs/orval#4177",
+    "tier": 2,
+    "repo": "orval-labs/orval",
+    "number": 4177,
+    "title": "Multipart file uploads with shared request body schema do not get `File` type",
+    "url": "https://github.com/orval-labs/orval/issues/4177",
+    "comments": 0,
+    "createdAt": "2026-09-21T22:37:47Z",
+    "labels": [
+      "help wanted",
+      "fetch"
+    ],
+    "language": "typescript",
+    "stars": 6466,
+    "foundAt": "2026-09-21T23:24:08.962Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30696",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30696,
+    "title": "[good first issue] 🌋 Add new Video Game Quote 614 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30696",
+    "comments": 1,
+    "createdAt": "2026-09-21T22:37:29Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-21T23:24:08.962Z"
+  },
+  {
+    "key": "actualbudget/actual#8989",
+    "tier": 2,
+    "repo": "actualbudget/actual",
+    "number": 8989,
+    "title": "[Bug]: ios 27 - blur in header",
+    "url": "https://github.com/actualbudget/actual/issues/8989",
+    "comments": 1,
+    "createdAt": "2026-09-21T22:37:21Z",
+    "labels": [
+      "help wanted",
+      "user interface",
+      "responsive"
+    ],
+    "language": "typescript",
+    "stars": 29060,
+    "foundAt": "2026-09-21T23:24:09.203Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30695",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30695,
+    "title": "[good first issue] 🍘 Add new Trivia Question 535 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30695",
+    "comments": 1,
+    "createdAt": "2026-09-21T22:01:04Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-21T23:24:09.730Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30694",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30694,
+    "title": "[good first issue] 🎑 Add new Japanese Haiku 119 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30694",
+    "comments": 1,
+    "createdAt": "2026-09-21T21:37:34Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-21T23:24:09.730Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30693",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30693,
+    "title": "[good first issue] 🎐 Add new Japanese Proverb 583 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30693",
+    "comments": 1,
+    "createdAt": "2026-09-21T21:01:04Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-21T23:24:09.923Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30692",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30692,
+    "title": "[good first issue] 🍙 Add new Japan Fact 2432 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30692",
+    "comments": 1,
+    "createdAt": "2026-09-21T20:37:30Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-21T23:24:10.172Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30691",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30691,
+    "title": "[good first issue] 🍁 Add new Theme: Harbor Lanterns (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30691",
+    "comments": 1,
+    "createdAt": "2026-09-21T20:01:11Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-21T23:24:10.420Z"
+  },
+  {
+    "key": "layer5io/layer5#8108",
+    "tier": 2,
+    "repo": "layer5io/layer5",
+    "number": 8108,
+    "title": "Find an alternative to punycode",
+    "url": "https://github.com/layer5io/layer5/issues/8108",
+    "comments": 0,
+    "createdAt": "2026-09-21T19:54:24Z",
+    "labels": [
+      "help wanted",
+      "kind/chore"
+    ],
+    "language": "javascript",
+    "stars": 1124,
+    "foundAt": "2026-09-21T23:24:10.671Z"
+  },
+  {
+    "key": "getsentry/sentry-docs#19539",
+    "tier": 3,
+    "repo": "getsentry/sentry-docs",
+    "number": 19539,
+    "title": "Kotlin Multiplatform install docs still recommend CocoaPods with no deprecation notice",
+    "url": "https://github.com/getsentry/sentry-docs/issues/19539",
+    "comments": 1,
+    "createdAt": "2026-09-21T21:05:37Z",
+    "labels": [
+      "SDKs",
+      "Platform: KMP",
+      "Docs"
+    ],
+    "language": "mdx",
+    "stars": 446,
+    "foundAt": "2026-09-21T23:24:13.861Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30690",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1713,226 +1962,5 @@
     "language": "typescript",
     "stars": 641,
     "foundAt": "2026-09-20T12:31:23.457Z"
-  },
-  {
-    "key": "GD4AI/obsidian-llm-wiki#763",
-    "tier": 2,
-    "repo": "GD4AI/obsidian-llm-wiki",
-    "number": 763,
-    "title": "writeFileWithIntent returns void, so a skipped lint write is logged as a fix that happened",
-    "url": "https://github.com/GD4AI/obsidian-llm-wiki/issues/763",
-    "comments": 0,
-    "createdAt": "2026-09-20T10:51:29Z",
-    "labels": [
-      "bug",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 641,
-    "foundAt": "2026-09-20T12:31:23.457Z"
-  },
-  {
-    "key": "Marker-Inc-Korea/AutoRAG#1657",
-    "tier": 3,
-    "repo": "Marker-Inc-Korea/AutoRAG",
-    "number": 1657,
-    "title": "Add Allowed / Forbidden / Ask-first guardrails to AGENTS.md",
-    "url": "https://github.com/Marker-Inc-Korea/AutoRAG/issues/1657",
-    "comments": 1,
-    "createdAt": "2026-09-20T12:22:58Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "AutoRAG-2.0"
-    ],
-    "language": "typescript",
-    "stars": 5074,
-    "foundAt": "2026-09-20T12:31:23.896Z"
-  },
-  {
-    "key": "Marker-Inc-Korea/AutoRAG#1656",
-    "tier": 3,
-    "repo": "Marker-Inc-Korea/AutoRAG",
-    "number": 1656,
-    "title": "Publish Model Cards / AI-BOM fields for bundled embedding models",
-    "url": "https://github.com/Marker-Inc-Korea/AutoRAG/issues/1656",
-    "comments": 1,
-    "createdAt": "2026-09-20T12:22:57Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "AutoRAG-2.0"
-    ],
-    "language": "typescript",
-    "stars": 5074,
-    "foundAt": "2026-09-20T12:31:23.896Z"
-  },
-  {
-    "key": "Marker-Inc-Korea/AutoRAG#1653",
-    "tier": 3,
-    "repo": "Marker-Inc-Korea/AutoRAG",
-    "number": 1653,
-    "title": "Refresh issue/PR templates for AutoRAG 2.0 and agent-ready task specs",
-    "url": "https://github.com/Marker-Inc-Korea/AutoRAG/issues/1653",
-    "comments": 1,
-    "createdAt": "2026-09-20T12:22:53Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "AutoRAG-2.0"
-    ],
-    "language": "typescript",
-    "stars": 5074,
-    "foundAt": "2026-09-20T12:31:23.896Z"
-  },
-  {
-    "key": "Marker-Inc-Korea/AutoRAG#1651",
-    "tier": 3,
-    "repo": "Marker-Inc-Korea/AutoRAG",
-    "number": 1651,
-    "title": "Add AI_POLICY.md for AI-generated contributions",
-    "url": "https://github.com/Marker-Inc-Korea/AutoRAG/issues/1651",
-    "comments": 1,
-    "createdAt": "2026-09-20T12:22:50Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "AutoRAG-2.0"
-    ],
-    "language": "typescript",
-    "stars": 5074,
-    "foundAt": "2026-09-20T12:31:23.896Z"
-  },
-  {
-    "key": "Marker-Inc-Korea/AutoRAG#1650",
-    "tier": 3,
-    "repo": "Marker-Inc-Korea/AutoRAG",
-    "number": 1650,
-    "title": "Add CONTRIBUTING.md, MAINTAINERS, and a documented inbound-contribution license (DCO vs CLA)",
-    "url": "https://github.com/Marker-Inc-Korea/AutoRAG/issues/1650",
-    "comments": 1,
-    "createdAt": "2026-09-20T12:22:49Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "AutoRAG-2.0"
-    ],
-    "language": "typescript",
-    "stars": 5074,
-    "foundAt": "2026-09-20T12:31:23.896Z"
-  },
-  {
-    "key": "snapotter-hq/SnapOtter#1212",
-    "tier": 1,
-    "repo": "snapotter-hq/SnapOtter",
-    "number": 1212,
-    "title": "Escape does not cancel an in-progress polygonal lasso",
-    "url": "https://github.com/snapotter-hq/SnapOtter/issues/1212",
-    "comments": 0,
-    "createdAt": "2026-09-20T04:38:43Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "area: frontend",
-      "priority: medium"
-    ],
-    "language": "typescript",
-    "stars": 2708,
-    "foundAt": "2026-09-20T06:29:34.656Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30592",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30592,
-    "title": "[good first issue] 🗻 Add new Example Sentence 554 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30592",
-    "comments": 1,
-    "createdAt": "2026-09-20T03:01:02Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-20T06:29:35.147Z"
-  },
-  {
-    "key": "poco-ai/Agentero#596",
-    "tier": 2,
-    "repo": "poco-ai/Agentero",
-    "number": 596,
-    "title": "更新技术文档和开发文档",
-    "url": "https://github.com/poco-ai/Agentero/issues/596",
-    "comments": 0,
-    "createdAt": "2026-09-20T03:58:13Z",
-    "labels": [
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 604,
-    "foundAt": "2026-09-20T06:29:36.702Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30591",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30591,
-    "title": "[good first issue] 🍡 Add new Etiquette Tip 520 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30591",
-    "comments": 1,
-    "createdAt": "2026-09-20T01:01:19Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-20T01:19:41.102Z"
-  },
-  {
-    "key": "stdlib-js/stdlib#15359",
-    "tier": 1,
-    "repo": "stdlib-js/stdlib",
-    "number": 15359,
-    "title": "Fix JavaScript lint errors",
-    "url": "https://github.com/stdlib-js/stdlib/issues/15359",
-    "comments": 1,
-    "createdAt": "2026-09-20T00:16:43Z",
-    "labels": [
-      "Good First Issue"
-    ],
-    "language": "javascript",
-    "stars": 5968,
-    "foundAt": "2026-09-20T01:19:41.686Z"
-  },
-  {
-    "key": "facebook/astryx#6385",
-    "tier": 3,
-    "repo": "facebook/astryx",
-    "number": 6385,
-    "title": "MultiSelector bottom-sheet listbox needs an accessible name",
-    "url": "https://github.com/facebook/astryx/issues/6385",
-    "comments": 0,
-    "createdAt": "2026-09-20T00:07:07Z",
-    "labels": [
-      "bug",
-      "accessibility"
-    ],
-    "language": "typescript",
-    "stars": 13248,
-    "foundAt": "2026-09-20T01:19:44.141Z"
   }
 ]
