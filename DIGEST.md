@@ -4,6 +4,15 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-21 | 🥇 | [[BUG] Built-in ignore rules ending in a wildcard (**/npm-debug.log*, **/repomix-](https://github.com/yamadashy/repomix/issues/1876) | `yamadashy/repomix` | ⭐ 28.4k |
+| 2026-09-21 | 🥇 | [[good first issue] 🐡 Add new Etiquette Tip 759 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30638) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-21 | 🥇 | [[good first issue] 🍤 Add new False Friend Pair 593 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30637) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-21 | 🥇 | [[good first issue] 🍥 Add new Dialect Entry 117 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30636) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-21 | 🥇 | [[BUG] .git/info/exclude patterns only apply to the top level of the packed direc](https://github.com/yamadashy/repomix/issues/1870) | `yamadashy/repomix` | ⭐ 28.4k |
+| 2026-09-21 | 🥇 | [[good first issue] 🥢 Add new Japanese Idiom 668 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30635) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-21 | 🥇 | [[good first issue] 🦊 Add new Video Game Quote 236 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30634) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-21 | 🥇 | [[good first issue] 🎴 Add new Anime Quote 1283 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30633) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-21 | 🥉 | [Allow authenticated release checks when GitHub rate-limits updates](https://github.com/AltanS/collie/issues/254) | `AltanS/collie` | ⭐ 1.1k |
 | 2026-09-20 | 🥇 | [[good first issue] 🀄 Add new Grammar Point 265 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30632) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-20 | 🥇 | [[good first issue] 🌸 Add new Japanese Haiku 102 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30631) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-20 | 🥈 | [[good first issue] 🐡 Add new Japanese Proverb 816 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30630) | `lingdojo/kana-dojo` | ⭐ 3.4k |
@@ -95,12 +104,3 @@
 | 2026-09-19 | 🥇 | [[Good First Issue] Add new Theme: School Uniform](https://github.com/lingdojo/kana-dojo/issues/30580) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-19 | 🥇 | [[good first issue] 🍣 Add new Video Game Quote 398 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30579) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-19 | 🥇 | [[Bug] temperament widget playback issue with octave](https://github.com/sugarlabs/musicblocks/issues/8795) | `sugarlabs/musicblocks` | ⭐ 894 |
-| 2026-09-19 | 🥇 | [FEATURE REQUEST](https://github.com/code-charity/youtube/issues/4348) | `code-charity/youtube` | ⭐ 4.6k |
-| 2026-09-19 | 🥈 | [[Help] 代替send发信的一个网站](https://github.com/maillab/cloud-mail/issues/582) | `maillab/cloud-mail` | ⭐ 14.2k |
-| 2026-09-19 | 🥉 | [Dependency checker finds nested package.json only one level deep, and nested pyp](https://github.com/mex-memory/mex/issues/206) | `mex-memory/mex` | ⭐ 1.6k |
-| 2026-09-19 | 🥉 | [An interrupted graph rebuild leaves a full-size candidate file that nothing ever](https://github.com/mex-memory/mex/issues/205) | `mex-memory/mex` | ⭐ 1.6k |
-| 2026-09-19 | 🥉 | [docs: generated TypeDoc API pages (884) have no title or description frontmatter](https://github.com/mrwogu/promptscript/issues/475) | `mrwogu/promptscript` | ⭐ 377 |
-| 2026-09-19 | 🥉 | [docs(examples): enterprise and agent-platform scenarios stay abstract; checkout ](https://github.com/mrwogu/promptscript/issues/474) | `mrwogu/promptscript` | ⭐ 377 |
-| 2026-09-19 | 🥉 | [docs(guides): registry, policy-engine, and docker CI sections stop before anythi](https://github.com/mrwogu/promptscript/issues/473) | `mrwogu/promptscript` | ⭐ 377 |
-| 2026-09-19 | 🥉 | [docs snapshots are keyed by code block line number, so unrelated line edits brea](https://github.com/mrwogu/promptscript/issues/471) | `mrwogu/promptscript` | ⭐ 377 |
-| 2026-09-19 | 🥇 | [[good first issue] 🍥 Add new Grammar Point 112 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30578) | `lingdojo/kana-dojo` | ⭐ 3.4k |

@@ -1,5 +1,195 @@
 [
   {
+    "key": "yamadashy/repomix#1876",
+    "tier": 1,
+    "repo": "yamadashy/repomix",
+    "number": 1876,
+    "title": "[BUG] Built-in ignore rules ending in a wildcard (**/npm-debug.log*, **/repomix-output.*) match nothing",
+    "url": "https://github.com/yamadashy/repomix/issues/1876",
+    "comments": 0,
+    "createdAt": "2026-09-21T01:08:27Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 28432,
+    "foundAt": "2026-09-21T01:17:06.126Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30638",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30638,
+    "title": "[good first issue] 🐡 Add new Etiquette Tip 759 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30638",
+    "comments": 1,
+    "createdAt": "2026-09-21T01:01:00Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-21T01:17:06.126Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30637",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30637,
+    "title": "[good first issue] 🍤 Add new False Friend Pair 593 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30637",
+    "comments": 1,
+    "createdAt": "2026-09-21T00:37:27Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-21T01:17:06.321Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30636",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30636,
+    "title": "[good first issue] 🍥 Add new Dialect Entry 117 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30636",
+    "comments": 1,
+    "createdAt": "2026-09-21T00:01:01Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-21T01:17:06.321Z"
+  },
+  {
+    "key": "yamadashy/repomix#1870",
+    "tier": 1,
+    "repo": "yamadashy/repomix",
+    "number": 1870,
+    "title": "[BUG] .git/info/exclude patterns only apply to the top level of the packed directory",
+    "url": "https://github.com/yamadashy/repomix/issues/1870",
+    "comments": 1,
+    "createdAt": "2026-09-20T23:44:02Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 28432,
+    "foundAt": "2026-09-21T01:17:06.321Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30635",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30635,
+    "title": "[good first issue] 🥢 Add new Japanese Idiom 668 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30635",
+    "comments": 1,
+    "createdAt": "2026-09-20T23:37:29Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-21T01:17:06.496Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30634",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30634,
+    "title": "[good first issue] 🦊 Add new Video Game Quote 236 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30634",
+    "comments": 1,
+    "createdAt": "2026-09-20T23:01:01Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-21T01:17:07.097Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30633",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30633,
+    "title": "[good first issue] 🎴 Add new Anime Quote 1283 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30633",
+    "comments": 1,
+    "createdAt": "2026-09-20T22:37:28Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-21T01:17:07.305Z"
+  },
+  {
+    "key": "AltanS/collie#254",
+    "tier": 3,
+    "repo": "AltanS/collie",
+    "number": 254,
+    "title": "Allow authenticated release checks when GitHub rate-limits updates",
+    "url": "https://github.com/AltanS/collie/issues/254",
+    "comments": 0,
+    "createdAt": "2026-09-21T00:00:24Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "area: install"
+    ],
+    "language": "typescript",
+    "stars": 1050,
+    "foundAt": "2026-09-21T01:17:10.821Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30632",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1687,163 +1877,5 @@
     "language": "javascript",
     "stars": 894,
     "foundAt": "2026-09-19T14:32:47.630Z"
-  },
-  {
-    "key": "code-charity/youtube#4348",
-    "tier": 1,
-    "repo": "code-charity/youtube",
-    "number": 4348,
-    "title": "FEATURE REQUEST",
-    "url": "https://github.com/code-charity/youtube/issues/4348",
-    "comments": 0,
-    "createdAt": "2026-09-19T12:25:21Z",
-    "labels": [
-      "Feature request",
-      "help wanted",
-      "good first issue",
-      "up-for-grabs"
-    ],
-    "language": "javascript",
-    "stars": 4583,
-    "foundAt": "2026-09-19T14:32:47.630Z"
-  },
-  {
-    "key": "maillab/cloud-mail#582",
-    "tier": 2,
-    "repo": "maillab/cloud-mail",
-    "number": 582,
-    "title": "[Help] 代替send发信的一个网站",
-    "url": "https://github.com/maillab/cloud-mail/issues/582",
-    "comments": 0,
-    "createdAt": "2026-09-19T12:42:49Z",
-    "labels": [
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 14241,
-    "foundAt": "2026-09-19T14:32:48.256Z"
-  },
-  {
-    "key": "mex-memory/mex#206",
-    "tier": 3,
-    "repo": "mex-memory/mex",
-    "number": 206,
-    "title": "Dependency checker finds nested package.json only one level deep, and nested pyproject.toml not at all",
-    "url": "https://github.com/mex-memory/mex/issues/206",
-    "comments": 0,
-    "createdAt": "2026-09-19T14:32:30Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "checker"
-    ],
-    "language": "typescript",
-    "stars": 1598,
-    "foundAt": "2026-09-19T14:32:48.812Z"
-  },
-  {
-    "key": "mex-memory/mex#205",
-    "tier": 3,
-    "repo": "mex-memory/mex",
-    "number": 205,
-    "title": "An interrupted graph rebuild leaves a full-size candidate file that nothing ever removes",
-    "url": "https://github.com/mex-memory/mex/issues/205",
-    "comments": 0,
-    "createdAt": "2026-09-19T14:32:28Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "code-graph"
-    ],
-    "language": "typescript",
-    "stars": 1598,
-    "foundAt": "2026-09-19T14:32:48.812Z"
-  },
-  {
-    "key": "mrwogu/promptscript#475",
-    "tier": 3,
-    "repo": "mrwogu/promptscript",
-    "number": 475,
-    "title": "docs: generated TypeDoc API pages (884) have no title or description frontmatter",
-    "url": "https://github.com/mrwogu/promptscript/issues/475",
-    "comments": 0,
-    "createdAt": "2026-09-19T13:39:35Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "typescript",
-    "stars": 377,
-    "foundAt": "2026-09-19T14:32:50.602Z"
-  },
-  {
-    "key": "mrwogu/promptscript#474",
-    "tier": 3,
-    "repo": "mrwogu/promptscript",
-    "number": 474,
-    "title": "docs(examples): enterprise and agent-platform scenarios stay abstract; checkout drift check misses ignored files",
-    "url": "https://github.com/mrwogu/promptscript/issues/474",
-    "comments": 0,
-    "createdAt": "2026-09-19T13:39:12Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "typescript",
-    "stars": 377,
-    "foundAt": "2026-09-19T14:32:50.602Z"
-  },
-  {
-    "key": "mrwogu/promptscript#473",
-    "tier": 3,
-    "repo": "mrwogu/promptscript",
-    "number": 473,
-    "title": "docs(guides): registry, policy-engine, and docker CI sections stop before anything runs",
-    "url": "https://github.com/mrwogu/promptscript/issues/473",
-    "comments": 0,
-    "createdAt": "2026-09-19T13:38:58Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "typescript",
-    "stars": 377,
-    "foundAt": "2026-09-19T14:32:50.602Z"
-  },
-  {
-    "key": "mrwogu/promptscript#471",
-    "tier": 3,
-    "repo": "mrwogu/promptscript",
-    "number": 471,
-    "title": "docs snapshots are keyed by code block line number, so unrelated line edits break docs:validate:check",
-    "url": "https://github.com/mrwogu/promptscript/issues/471",
-    "comments": 0,
-    "createdAt": "2026-09-19T13:37:44Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "typescript",
-    "stars": 377,
-    "foundAt": "2026-09-19T14:32:50.602Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30578",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30578,
-    "title": "[good first issue] 🍥 Add new Grammar Point 112 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30578",
-    "comments": 1,
-    "createdAt": "2026-09-19T11:01:02Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-19T11:14:52.270Z"
   }
 ]
