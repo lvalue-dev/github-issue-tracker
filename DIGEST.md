@@ -4,6 +4,9 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-21 | 🥇 | [[good first issue] 🍁 Add new Learner Mistake 135 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30690) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-21 | 🥇 | [[good first issue] 🎎 Add new Example Sentence 767 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30688) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-21 | 🥇 | [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/22036) | `PipedreamHQ/pipedream` | ⭐ 11.7k |
 | 2026-09-21 | 🥇 | [[good first issue] 🐉 Add new Community Note Line #28 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30676) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-21 | 🥇 | [feat: 建议增加微信公众号数据获取功能](https://github.com/leaperone/MultiPost-Extension/issues/235) | `leaperone/MultiPost-Extension` | ⭐ 3.5k |
 | 2026-09-21 | 🥇 | [Neo.toolbar.Paging has no coverage, and its page maths has edges](https://github.com/neomjs/neo/issues/19038) | `neomjs/neo` | ⭐ 3.3k |
@@ -101,6 +104,3 @@
 | 2026-09-20 | 🥇 | [[good first issue] 🍡 Add new Etiquette Tip 520 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30591) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-20 | 🥇 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15359) | `stdlib-js/stdlib` | ⭐ 6.0k |
 | 2026-09-20 | 🥉 | [MultiSelector bottom-sheet listbox needs an accessible name](https://github.com/facebook/astryx/issues/6385) | `facebook/astryx` | ⭐ 13.2k |
-| 2026-09-20 | 🥉 | [Selector bottom-sheet listbox needs an accessible name](https://github.com/facebook/astryx/issues/6384) | `facebook/astryx` | ⭐ 13.2k |
-| 2026-09-19 | 🥇 | [[good first issue] 🍜 Add new False Friend Pair 412 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30588) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-19 | 🥇 | [Policy proxy `valueOf()` returns the unwrapped account](https://github.com/tetherto/wdk/issues/96) | `tetherto/wdk` | ⭐ 272 |
