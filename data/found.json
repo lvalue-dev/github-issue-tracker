@@ -1,5 +1,209 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30648",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30648,
+    "title": "[good first issue] 🍵 Add new Japanese Idiom 1133 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30648",
+    "comments": 1,
+    "createdAt": "2026-09-21T06:01:06Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-21T06:35:54.836Z"
+  },
+  {
+    "key": "code-charity/youtube#4349",
+    "tier": 1,
+    "repo": "code-charity/youtube",
+    "number": 4349,
+    "title": "🐞Play Video From Beginning",
+    "url": "https://github.com/code-charity/youtube/issues/4349",
+    "comments": 0,
+    "createdAt": "2026-09-21T05:45:51Z",
+    "labels": [
+      "Bug",
+      "help wanted",
+      "good first issue",
+      "up-for-grabs"
+    ],
+    "language": "javascript",
+    "stars": 4583,
+    "foundAt": "2026-09-21T06:35:55.694Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30645",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30645,
+    "title": "[good first issue] 🀄 Add new Grammar Point 960 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30645",
+    "comments": 1,
+    "createdAt": "2026-09-21T04:37:30Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-21T06:35:55.173Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30644",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30644,
+    "title": "[good first issue] 🍛 Add new Japanese Proverb 513 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30644",
+    "comments": 1,
+    "createdAt": "2026-09-21T04:01:02Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-21T06:35:56.276Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30643",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30643,
+    "title": "[good first issue] 🎴 Add new Japan Fact 2270 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30643",
+    "comments": 1,
+    "createdAt": "2026-09-21T03:37:30Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-21T06:35:56.276Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30642",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30642,
+    "title": "[good first issue] 🍛 Add new Theme: Firefly Field (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30642",
+    "comments": 1,
+    "createdAt": "2026-09-21T03:01:01Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-21T06:35:56.276Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30641",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30641,
+    "title": "[good first issue] ⛩️ Add new Wallpaper URL #28 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30641",
+    "comments": 1,
+    "createdAt": "2026-09-21T02:37:30Z",
+    "labels": [
+      "documentation",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-21T06:35:56.442Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30640",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30640,
+    "title": "[good first issue] 🎍 Add new Learner Mistake 386 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30640",
+    "comments": 1,
+    "createdAt": "2026-09-21T02:01:04Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-21T06:35:56.442Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30639",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30639,
+    "title": "[good first issue] 🦑 Add new Example Sentence 1065 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30639",
+    "comments": 1,
+    "createdAt": "2026-09-21T01:37:26Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-21T06:35:56.442Z"
+  },
+  {
     "key": "yamadashy/repomix#1876",
     "tier": 1,
     "repo": "yamadashy/repomix",
@@ -1712,170 +1916,5 @@
     "language": "javascript",
     "stars": 861,
     "foundAt": "2026-09-19T18:08:12.094Z"
-  },
-  {
-    "key": "layer5io/layer5#8091",
-    "tier": 2,
-    "repo": "layer5io/layer5",
-    "number": 8091,
-    "title": "Homepage hero preview image overflows viewport horizontally at certain screen resolutions",
-    "url": "https://github.com/layer5io/layer5/issues/8091",
-    "comments": 1,
-    "createdAt": "2026-09-19T16:30:36Z",
-    "labels": [
-      "kind/bug",
-      "help wanted",
-      "framework/gatsby"
-    ],
-    "language": "javascript",
-    "stars": 1124,
-    "foundAt": "2026-09-19T18:08:12.472Z"
-  },
-  {
-    "key": "Pasta-Devs/Marinara-Engine#6371",
-    "tier": 3,
-    "repo": "Pasta-Devs/Marinara-Engine",
-    "number": 6371,
-    "title": "[docs-i18n] Game Mode rulesets: docs/game, docs/characters, docs/agents/agents-overview.md, docs/CONFIGURATION.md, docs/development/optional-agent-packages.md",
-    "url": "https://github.com/Pasta-Devs/Marinara-Engine/issues/6371",
-    "comments": 0,
-    "createdAt": "2026-09-19T17:08:08Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "typescript",
-    "stars": 666,
-    "foundAt": "2026-09-19T18:08:14.405Z"
-  },
-  {
-    "key": "neomjs/neo#18985",
-    "tier": 3,
-    "repo": "neomjs/neo",
-    "number": 18985,
-    "title": "Hacktoberfest 2026: a contributor door that works without the Agent OS",
-    "url": "https://github.com/neomjs/neo/issues/18985",
-    "comments": 0,
-    "createdAt": "2026-09-19T16:25:43Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "ai"
-    ],
-    "language": "javascript",
-    "stars": 3280,
-    "foundAt": "2026-09-19T18:08:16.129Z"
-  },
-  {
-    "key": "mex-memory/mex#204",
-    "tier": 1,
-    "repo": "mex-memory/mex",
-    "number": 204,
-    "title": "graph status prints uninspected fields as measured zeros — a stranded graph.db-wal reads as an empty graph",
-    "url": "https://github.com/mex-memory/mex/issues/204",
-    "comments": 0,
-    "createdAt": "2026-09-19T14:32:12Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "code-graph"
-    ],
-    "language": "typescript",
-    "stars": 1598,
-    "foundAt": "2026-09-19T14:32:46.086Z"
-  },
-  {
-    "key": "mex-memory/mex#203",
-    "tier": 1,
-    "repo": "mex-memory/mex",
-    "number": 203,
-    "title": "Two checker false positives: package-manager builtins and INDEX.md frontmatter edges",
-    "url": "https://github.com/mex-memory/mex/issues/203",
-    "comments": 0,
-    "createdAt": "2026-09-19T14:32:02Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "checker"
-    ],
-    "language": "typescript",
-    "stars": 1598,
-    "foundAt": "2026-09-19T14:32:46.086Z"
-  },
-  {
-    "key": "mex-memory/mex#201",
-    "tier": 1,
-    "repo": "mex-memory/mex",
-    "number": 201,
-    "title": "MISSING_PATH: a version-shaped reference like release/2.1.0 is reported as a missing file",
-    "url": "https://github.com/mex-memory/mex/issues/201",
-    "comments": 0,
-    "createdAt": "2026-09-19T14:31:49Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "checker"
-    ],
-    "language": "typescript",
-    "stars": 1598,
-    "foundAt": "2026-09-19T14:32:46.086Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30580",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30580,
-    "title": "[Good First Issue] Add new Theme: School Uniform",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30580",
-    "comments": 0,
-    "createdAt": "2026-09-19T13:36:04Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-19T14:32:46.432Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30579",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30579,
-    "title": "[good first issue] 🍣 Add new Video Game Quote 398 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30579",
-    "comments": 1,
-    "createdAt": "2026-09-19T13:00:58Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-19T14:32:46.638Z"
-  },
-  {
-    "key": "sugarlabs/musicblocks#8795",
-    "tier": 1,
-    "repo": "sugarlabs/musicblocks",
-    "number": 8795,
-    "title": "[Bug] temperament widget playback issue with octave",
-    "url": "https://github.com/sugarlabs/musicblocks/issues/8795",
-    "comments": 1,
-    "createdAt": "2026-09-19T12:54:31Z",
-    "labels": [
-      "Issue-Bug",
-      "Good first issue",
-      "Component-Widget"
-    ],
-    "language": "javascript",
-    "stars": 894,
-    "foundAt": "2026-09-19T14:32:47.630Z"
   }
 ]

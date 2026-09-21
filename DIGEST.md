@@ -4,6 +4,15 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-21 | 🥇 | [[good first issue] 🍵 Add new Japanese Idiom 1133 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30648) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-21 | 🥇 | [🐞Play Video From Beginning](https://github.com/code-charity/youtube/issues/4349) | `code-charity/youtube` | ⭐ 4.6k |
+| 2026-09-21 | 🥇 | [[good first issue] 🀄 Add new Grammar Point 960 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30645) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-21 | 🥈 | [[good first issue] 🍛 Add new Japanese Proverb 513 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30644) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-21 | 🥈 | [[good first issue] 🎴 Add new Japan Fact 2270 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30643) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-21 | 🥈 | [[good first issue] 🍛 Add new Theme: Firefly Field (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30642) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-21 | 🥈 | [[good first issue] ⛩️ Add new Wallpaper URL #28 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30641) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-21 | 🥈 | [[good first issue] 🎍 Add new Learner Mistake 386 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30640) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-21 | 🥈 | [[good first issue] 🦑 Add new Example Sentence 1065 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30639) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-21 | 🥇 | [[BUG] Built-in ignore rules ending in a wildcard (**/npm-debug.log*, **/repomix-](https://github.com/yamadashy/repomix/issues/1876) | `yamadashy/repomix` | ⭐ 28.4k |
 | 2026-09-21 | 🥇 | [[good first issue] 🐡 Add new Etiquette Tip 759 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30638) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-21 | 🥇 | [[good first issue] 🍤 Add new False Friend Pair 593 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30637) | `lingdojo/kana-dojo` | ⭐ 3.4k |
@@ -95,12 +104,3 @@
 | 2026-09-19 | 🥇 | [MCP: the agent gets wrong names](https://github.com/silexlabs/Silex/issues/1866) | `silexlabs/Silex` | ⭐ 3.0k |
 | 2026-09-19 | 🥇 | [[FEATURE] Add tawk.to actions to Pipedream MCP](https://github.com/PipedreamHQ/pipedream/issues/22017) | `PipedreamHQ/pipedream` | ⭐ 11.7k |
 | 2026-09-19 | 🥈 | [[Bug] Integrations LIST button throws a JavaScript TypeError](https://github.com/meshery/meshery.io/issues/2998) | `meshery/meshery.io` | ⭐ 861 |
-| 2026-09-19 | 🥈 | [Homepage hero preview image overflows viewport horizontally at certain screen re](https://github.com/layer5io/layer5/issues/8091) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-19 | 🥉 | [[docs-i18n] Game Mode rulesets: docs/game, docs/characters, docs/agents/agents-o](https://github.com/Pasta-Devs/Marinara-Engine/issues/6371) | `Pasta-Devs/Marinara-Engine` | ⭐ 666 |
-| 2026-09-19 | 🥉 | [Hacktoberfest 2026: a contributor door that works without the Agent OS](https://github.com/neomjs/neo/issues/18985) | `neomjs/neo` | ⭐ 3.3k |
-| 2026-09-19 | 🥇 | [graph status prints uninspected fields as measured zeros — a stranded graph.db-w](https://github.com/mex-memory/mex/issues/204) | `mex-memory/mex` | ⭐ 1.6k |
-| 2026-09-19 | 🥇 | [Two checker false positives: package-manager builtins and INDEX.md frontmatter e](https://github.com/mex-memory/mex/issues/203) | `mex-memory/mex` | ⭐ 1.6k |
-| 2026-09-19 | 🥇 | [MISSING_PATH: a version-shaped reference like release/2.1.0 is reported as a mis](https://github.com/mex-memory/mex/issues/201) | `mex-memory/mex` | ⭐ 1.6k |
-| 2026-09-19 | 🥇 | [[Good First Issue] Add new Theme: School Uniform](https://github.com/lingdojo/kana-dojo/issues/30580) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-19 | 🥇 | [[good first issue] 🍣 Add new Video Game Quote 398 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30579) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-19 | 🥇 | [[Bug] temperament widget playback issue with octave](https://github.com/sugarlabs/musicblocks/issues/8795) | `sugarlabs/musicblocks` | ⭐ 894 |
