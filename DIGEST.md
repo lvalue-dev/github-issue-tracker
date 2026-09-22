@@ -4,6 +4,17 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-22 | 🥇 | [Add unit tests for `emailClientAdapter.js` client matchers](https://github.com/fossasia/scrum_helper/issues/864) | `fossasia/scrum_helper` | ⭐ 1.3k |
+| 2026-09-22 | 🥇 | [[Docs]: Add testing, linting, and desktop build instructions to CONTRIBUTING.md](https://github.com/fossasia/scrum_helper/issues/863) | `fossasia/scrum_helper` | ⭐ 1.3k |
+| 2026-09-22 | 🥇 | [Interesting plugin, couple bugs - 'Cinema Mode' and 'Reverse Playlist'🐞](https://github.com/code-charity/youtube/issues/4353) | `code-charity/youtube` | ⭐ 4.6k |
+| 2026-09-22 | 🥇 | [[good first issue] 🍁 Add new Learner Mistake 1090 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30705) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-22 | 🥇 | [[i18n]: Add missing localization keys for GitLab, Codeberg, and filter options](https://github.com/fossasia/scrum_helper/issues/862) | `fossasia/scrum_helper` | ⭐ 1.3k |
+| 2026-09-22 | 🥇 | [[Docs]: Update README.md to document GitLab and Codeberg platform support](https://github.com/fossasia/scrum_helper/issues/861) | `fossasia/scrum_helper` | ⭐ 1.3k |
+| 2026-09-22 | 🥇 | [[good first issue] 🥢 Add new Example Sentence 486 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30703) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-22 | 🥇 | [[good first issue] 🎑 Add new Etiquette Tip 1059 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30702) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-22 | 🥇 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15414) | `stdlib-js/stdlib` | ⭐ 6.0k |
+| 2026-09-22 | 🥇 | [[good first issue] 🗻 Add new False Friend Pair 195 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30701) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-22 | 🥇 | [[good first issue] 🌸 Add new Dialect Entry 561 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30700) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-21 | 🥇 | [[good first issue] 🍜 Add new Japanese Idiom 796 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30697) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-21 | 🥇 | [Backend should not abort when S3 object storage does not support PutBucketPolicy](https://github.com/Smaug6739/Alexandrie/issues/781) | `Smaug6739/Alexandrie` | ⭐ 2.8k |
 | 2026-09-21 | 🥈 | [Multipart file uploads with shared request body schema do not get `File` type](https://github.com/orval-labs/orval/issues/4177) | `orval-labs/orval` | ⭐ 6.5k |
@@ -93,14 +104,3 @@
 | 2026-09-20 | 🥇 | [Add Signal link preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/27) | `shadcn-labs/ogimagecn` | ⭐ 229 |
 | 2026-09-20 | 🥇 | [Add TikTok link preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/26) | `shadcn-labs/ogimagecn` | ⭐ 229 |
 | 2026-09-20 | 🥇 | [Add WeChat link preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/25) | `shadcn-labs/ogimagecn` | ⭐ 229 |
-| 2026-09-20 | 🥇 | [Add Tumblr link preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/24) | `shadcn-labs/ogimagecn` | ⭐ 229 |
-| 2026-09-20 | 🥇 | [Add Google Search result preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/23) | `shadcn-labs/ogimagecn` | ⭐ 229 |
-| 2026-09-20 | 🥇 | [Add Nextdoor link preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/22) | `shadcn-labs/ogimagecn` | ⭐ 229 |
-| 2026-09-20 | 🥇 | [in assistive model add fal.ai for generative media feature](https://github.com/webbrain-one/webbrain/issues/3077) | `webbrain-one/webbrain` | ⭐ 1.1k |
-| 2026-09-20 | 🥈 | [Snyk vulnerability [SNYK-JS-URIJS-19963963]](https://github.com/backstage/backstage/issues/35828) | `backstage/backstage` | ⭐ 34.4k |
-| 2026-09-20 | 🥈 | [Snyk vulnerability [SNYK-JS-URIJS-19963961]](https://github.com/backstage/backstage/issues/35827) | `backstage/backstage` | ⭐ 34.4k |
-| 2026-09-20 | 🥈 | [Snyk vulnerability [SNYK-JS-HTTPCACHESEMANTICS-19964068]](https://github.com/backstage/backstage/issues/35826) | `backstage/backstage` | ⭐ 34.4k |
-| 2026-09-20 | 🥈 | [Snyk vulnerability [SNYK-JS-HTTPCACHESEMANTICS-19964064]](https://github.com/backstage/backstage/issues/35825) | `backstage/backstage` | ⭐ 34.4k |
-| 2026-09-20 | 🥈 | [Snyk vulnerability [SNYK-JS-DEEPMERGE-19964053]](https://github.com/backstage/backstage/issues/35824) | `backstage/backstage` | ⭐ 34.4k |
-| 2026-09-20 | 🥈 | [Snyk vulnerability [SNYK-JS-ADMZIP-19963965]](https://github.com/backstage/backstage/issues/35823) | `backstage/backstage` | ⭐ 34.4k |
-| 2026-09-20 | 🥈 | [Coordinated AI SDK v7 upgrade: @ai-sdk/* 3.x is specification v4 and ai@6 accept](https://github.com/GD4AI/obsidian-llm-wiki/issues/764) | `GD4AI/obsidian-llm-wiki` | ⭐ 641 |

@@ -1,5 +1,225 @@
 [
   {
+    "key": "fossasia/scrum_helper#864",
+    "tier": 1,
+    "repo": "fossasia/scrum_helper",
+    "number": 864,
+    "title": "Add unit tests for `emailClientAdapter.js` client matchers",
+    "url": "https://github.com/fossasia/scrum_helper/issues/864",
+    "comments": 0,
+    "createdAt": "2026-09-22T01:42:42Z",
+    "labels": [
+      "enhancement",
+      "good first issue"
+    ],
+    "language": "javascript",
+    "stars": 1323,
+    "foundAt": "2026-09-22T01:43:27.685Z"
+  },
+  {
+    "key": "fossasia/scrum_helper#863",
+    "tier": 1,
+    "repo": "fossasia/scrum_helper",
+    "number": 863,
+    "title": "[Docs]: Add testing, linting, and desktop build instructions to CONTRIBUTING.md",
+    "url": "https://github.com/fossasia/scrum_helper/issues/863",
+    "comments": 0,
+    "createdAt": "2026-09-22T01:40:45Z",
+    "labels": [
+      "enhancement",
+      "good first issue"
+    ],
+    "language": "javascript",
+    "stars": 1323,
+    "foundAt": "2026-09-22T01:43:27.685Z"
+  },
+  {
+    "key": "code-charity/youtube#4353",
+    "tier": 1,
+    "repo": "code-charity/youtube",
+    "number": 4353,
+    "title": "Interesting plugin, couple bugs - 'Cinema Mode' and 'Reverse Playlist'🐞",
+    "url": "https://github.com/code-charity/youtube/issues/4353",
+    "comments": 0,
+    "createdAt": "2026-09-22T01:38:31Z",
+    "labels": [
+      "Bug",
+      "help wanted",
+      "good first issue",
+      "up-for-grabs"
+    ],
+    "language": "javascript",
+    "stars": 4594,
+    "foundAt": "2026-09-22T01:43:27.890Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30705",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30705,
+    "title": "[good first issue] 🍁 Add new Learner Mistake 1090 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30705",
+    "comments": 1,
+    "createdAt": "2026-09-22T01:37:33Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-22T01:43:26.655Z"
+  },
+  {
+    "key": "fossasia/scrum_helper#862",
+    "tier": 1,
+    "repo": "fossasia/scrum_helper",
+    "number": 862,
+    "title": "[i18n]: Add missing localization keys for GitLab, Codeberg, and filter options",
+    "url": "https://github.com/fossasia/scrum_helper/issues/862",
+    "comments": 0,
+    "createdAt": "2026-09-22T01:32:32Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue"
+    ],
+    "language": "javascript",
+    "stars": 1323,
+    "foundAt": "2026-09-22T01:43:27.890Z"
+  },
+  {
+    "key": "fossasia/scrum_helper#861",
+    "tier": 1,
+    "repo": "fossasia/scrum_helper",
+    "number": 861,
+    "title": "[Docs]: Update README.md to document GitLab and Codeberg platform support",
+    "url": "https://github.com/fossasia/scrum_helper/issues/861",
+    "comments": 0,
+    "createdAt": "2026-09-22T01:29:49Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hold"
+    ],
+    "language": "javascript",
+    "stars": 1323,
+    "foundAt": "2026-09-22T01:43:27.890Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30703",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30703,
+    "title": "[good first issue] 🥢 Add new Example Sentence 486 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30703",
+    "comments": 1,
+    "createdAt": "2026-09-22T01:00:57Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-22T01:43:26.655Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30702",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30702,
+    "title": "[good first issue] 🎑 Add new Etiquette Tip 1059 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30702",
+    "comments": 1,
+    "createdAt": "2026-09-22T00:37:29Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-22T01:43:27.065Z"
+  },
+  {
+    "key": "stdlib-js/stdlib#15414",
+    "tier": 1,
+    "repo": "stdlib-js/stdlib",
+    "number": 15414,
+    "title": "Fix JavaScript lint errors",
+    "url": "https://github.com/stdlib-js/stdlib/issues/15414",
+    "comments": 1,
+    "createdAt": "2026-09-22T00:16:03Z",
+    "labels": [
+      "Good First Issue"
+    ],
+    "language": "javascript",
+    "stars": 5968,
+    "foundAt": "2026-09-22T01:43:27.890Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30701",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30701,
+    "title": "[good first issue] 🗻 Add new False Friend Pair 195 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30701",
+    "comments": 1,
+    "createdAt": "2026-09-22T00:01:45Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-22T01:43:27.299Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30700",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30700,
+    "title": "[good first issue] 🌸 Add new Dialect Entry 561 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30700",
+    "comments": 1,
+    "createdAt": "2026-09-21T23:37:50Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-22T01:43:27.496Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30697",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1771,196 +1991,5 @@
     "language": "typescript",
     "stars": 229,
     "foundAt": "2026-09-20T12:31:20.589Z"
-  },
-  {
-    "key": "shadcn-labs/ogimagecn#24",
-    "tier": 1,
-    "repo": "shadcn-labs/ogimagecn",
-    "number": 24,
-    "title": "Add Tumblr link preview to the scanner",
-    "url": "https://github.com/shadcn-labs/ogimagecn/issues/24",
-    "comments": 0,
-    "createdAt": "2026-09-20T11:53:06Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 229,
-    "foundAt": "2026-09-20T12:31:20.589Z"
-  },
-  {
-    "key": "shadcn-labs/ogimagecn#23",
-    "tier": 1,
-    "repo": "shadcn-labs/ogimagecn",
-    "number": 23,
-    "title": "Add Google Search result preview to the scanner",
-    "url": "https://github.com/shadcn-labs/ogimagecn/issues/23",
-    "comments": 0,
-    "createdAt": "2026-09-20T11:53:04Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 229,
-    "foundAt": "2026-09-20T12:31:20.589Z"
-  },
-  {
-    "key": "shadcn-labs/ogimagecn#22",
-    "tier": 1,
-    "repo": "shadcn-labs/ogimagecn",
-    "number": 22,
-    "title": "Add Nextdoor link preview to the scanner",
-    "url": "https://github.com/shadcn-labs/ogimagecn/issues/22",
-    "comments": 0,
-    "createdAt": "2026-09-20T11:53:02Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 229,
-    "foundAt": "2026-09-20T12:31:20.589Z"
-  },
-  {
-    "key": "webbrain-one/webbrain#3077",
-    "tier": 1,
-    "repo": "webbrain-one/webbrain",
-    "number": 3077,
-    "title": "in assistive model add fal.ai for generative media feature",
-    "url": "https://github.com/webbrain-one/webbrain/issues/3077",
-    "comments": 0,
-    "createdAt": "2026-09-20T10:14:50Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 1095,
-    "foundAt": "2026-09-20T12:31:22.710Z"
-  },
-  {
-    "key": "backstage/backstage#35828",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35828,
-    "title": "Snyk vulnerability [SNYK-JS-URIJS-19963963]",
-    "url": "https://github.com/backstage/backstage/issues/35828",
-    "comments": 0,
-    "createdAt": "2026-09-20T12:07:02Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34409,
-    "foundAt": "2026-09-20T12:31:23.242Z"
-  },
-  {
-    "key": "backstage/backstage#35827",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35827,
-    "title": "Snyk vulnerability [SNYK-JS-URIJS-19963961]",
-    "url": "https://github.com/backstage/backstage/issues/35827",
-    "comments": 0,
-    "createdAt": "2026-09-20T12:07:02Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34409,
-    "foundAt": "2026-09-20T12:31:23.242Z"
-  },
-  {
-    "key": "backstage/backstage#35826",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35826,
-    "title": "Snyk vulnerability [SNYK-JS-HTTPCACHESEMANTICS-19964068]",
-    "url": "https://github.com/backstage/backstage/issues/35826",
-    "comments": 0,
-    "createdAt": "2026-09-20T12:06:53Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34409,
-    "foundAt": "2026-09-20T12:31:23.242Z"
-  },
-  {
-    "key": "backstage/backstage#35825",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35825,
-    "title": "Snyk vulnerability [SNYK-JS-HTTPCACHESEMANTICS-19964064]",
-    "url": "https://github.com/backstage/backstage/issues/35825",
-    "comments": 0,
-    "createdAt": "2026-09-20T12:06:52Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34409,
-    "foundAt": "2026-09-20T12:31:23.242Z"
-  },
-  {
-    "key": "backstage/backstage#35824",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35824,
-    "title": "Snyk vulnerability [SNYK-JS-DEEPMERGE-19964053]",
-    "url": "https://github.com/backstage/backstage/issues/35824",
-    "comments": 0,
-    "createdAt": "2026-09-20T12:06:51Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34409,
-    "foundAt": "2026-09-20T12:31:23.242Z"
-  },
-  {
-    "key": "backstage/backstage#35823",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35823,
-    "title": "Snyk vulnerability [SNYK-JS-ADMZIP-19963965]",
-    "url": "https://github.com/backstage/backstage/issues/35823",
-    "comments": 0,
-    "createdAt": "2026-09-20T12:06:49Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34409,
-    "foundAt": "2026-09-20T12:31:23.242Z"
-  },
-  {
-    "key": "GD4AI/obsidian-llm-wiki#764",
-    "tier": 2,
-    "repo": "GD4AI/obsidian-llm-wiki",
-    "number": 764,
-    "title": "Coordinated AI SDK v7 upgrade: @ai-sdk/* 3.x is specification v4 and ai@6 accepts v3",
-    "url": "https://github.com/GD4AI/obsidian-llm-wiki/issues/764",
-    "comments": 0,
-    "createdAt": "2026-09-20T11:01:57Z",
-    "labels": [
-      "enhancement",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 641,
-    "foundAt": "2026-09-20T12:31:23.457Z"
   }
 ]
