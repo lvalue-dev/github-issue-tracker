@@ -1,5 +1,146 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30746",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30746,
+    "title": "[good first issue] 🏮 Add new False Friend Pair 733 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30746",
+    "comments": 1,
+    "createdAt": "2026-09-22T13:01:07Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-22T13:30:48.624Z"
+  },
+  {
+    "key": "libredb/libredb-studio#1075",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 1075,
+    "title": "[BUG] The PostgreSQL object surface builds its rows with json_*, so no column can be read on RisingWave",
+    "url": "https://github.com/libredb/libredb-studio/issues/1075",
+    "comments": 0,
+    "createdAt": "2026-09-22T11:49:47Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "database-provider"
+    ],
+    "language": "typescript",
+    "stars": 754,
+    "foundAt": "2026-09-22T13:30:49.112Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30738",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30738,
+    "title": "[good first issue] 🎎 Add new Grammar Point 1288 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30738",
+    "comments": 1,
+    "createdAt": "2026-09-22T11:01:03Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-22T13:30:49.517Z"
+  },
+  {
+    "key": "elastic/kibana#292645",
+    "tier": 1,
+    "repo": "elastic/kibana",
+    "number": 292645,
+    "title": "[APM] Show overflow service count in services capacity warning",
+    "url": "https://github.com/elastic/kibana/issues/292645",
+    "comments": 1,
+    "createdAt": "2026-09-22T10:59:14Z",
+    "labels": [
+      "good first issue",
+      "enhancement",
+      "Team:obs-signals-traces"
+    ],
+    "language": "typescript",
+    "stars": 21295,
+    "foundAt": "2026-09-22T13:30:49.708Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30735",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30735,
+    "title": "[good first issue] 🏯 Add new Trivia Question 768 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30735",
+    "comments": 1,
+    "createdAt": "2026-09-22T10:37:30Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-22T13:30:49.708Z"
+  },
+  {
+    "key": "meshery/meshery.io#3008",
+    "tier": 2,
+    "repo": "meshery/meshery.io",
+    "number": 3008,
+    "title": "[Accessibility] Catalog fullscreen image viewer does not close with Escape",
+    "url": "https://github.com/meshery/meshery.io/issues/3008",
+    "comments": 2,
+    "createdAt": "2026-09-22T10:33:42Z",
+    "labels": [
+      "kind/bug",
+      "help wanted"
+    ],
+    "language": "javascript",
+    "stars": 861,
+    "foundAt": "2026-09-22T13:30:52.930Z"
+  },
+  {
+    "key": "vaadin/web-components#12808",
+    "tier": 3,
+    "repo": "vaadin/web-components",
+    "number": 12808,
+    "title": "Populate cssProperties, cssParts and slots in the Custom Elements Manifest",
+    "url": "https://github.com/vaadin/web-components/issues/12808",
+    "comments": 1,
+    "createdAt": "2026-09-22T12:36:42Z",
+    "labels": [
+      "documentation",
+      "DX",
+      "internal"
+    ],
+    "language": "javascript",
+    "stars": 582,
+    "foundAt": "2026-09-22T13:30:56.118Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30728",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1888,134 +2029,5 @@
     "language": "typescript",
     "stars": 1403,
     "foundAt": "2026-09-20T16:53:50.487Z"
-  },
-  {
-    "key": "ONEARMY/community-platform#4908",
-    "tier": 2,
-    "repo": "ONEARMY/community-platform",
-    "number": 4908,
-    "title": "[UI Migration] InternalLink",
-    "url": "https://github.com/ONEARMY/community-platform/issues/4908",
-    "comments": 1,
-    "createdAt": "2026-09-20T12:45:43Z",
-    "labels": [
-      "Good first issue",
-      "Help wanted",
-      "Difficulty: Easy",
-      "Stage: 🚧 Blocked",
-      "UI Migration"
-    ],
-    "language": "typescript",
-    "stars": 1403,
-    "foundAt": "2026-09-20T16:53:50.487Z"
-  },
-  {
-    "key": "jasonacox/pypowerwall#387",
-    "tier": 3,
-    "repo": "jasonacox/pypowerwall",
-    "number": 387,
-    "title": "Docs: scrub TEDAPI connectivity guidance to match current reality (v1r hardwired LAN, bearer = solar-inverter only, Wi-Fi always available)",
-    "url": "https://github.com/jasonacox/pypowerwall/issues/387",
-    "comments": 0,
-    "createdAt": "2026-09-20T15:06:02Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "javascript",
-    "stars": 229,
-    "foundAt": "2026-09-20T16:53:53.906Z"
-  },
-  {
-    "key": "ONEARMY/community-platform#4905",
-    "tier": 1,
-    "repo": "ONEARMY/community-platform",
-    "number": 4905,
-    "title": "[UI Migration] DownloadCounter",
-    "url": "https://github.com/ONEARMY/community-platform/issues/4905",
-    "comments": 0,
-    "createdAt": "2026-09-20T12:30:22Z",
-    "labels": [
-      "Good first issue",
-      "Help wanted",
-      "Difficulty: Easy",
-      "UI Migration"
-    ],
-    "language": "typescript",
-    "stars": 1403,
-    "foundAt": "2026-09-20T12:31:20.147Z"
-  },
-  {
-    "key": "ONEARMY/community-platform#4904",
-    "tier": 1,
-    "repo": "ONEARMY/community-platform",
-    "number": 4904,
-    "title": "[UI Migration] UsefulStatsButton",
-    "url": "https://github.com/ONEARMY/community-platform/issues/4904",
-    "comments": 0,
-    "createdAt": "2026-09-20T12:24:47Z",
-    "labels": [
-      "Good first issue",
-      "Help wanted",
-      "Difficulty: Easy",
-      "UI Migration"
-    ],
-    "language": "typescript",
-    "stars": 1403,
-    "foundAt": "2026-09-20T12:31:20.147Z"
-  },
-  {
-    "key": "ONEARMY/community-platform#4903",
-    "tier": 1,
-    "repo": "ONEARMY/community-platform",
-    "number": 4903,
-    "title": "[UI Migration] ModerationStatus",
-    "url": "https://github.com/ONEARMY/community-platform/issues/4903",
-    "comments": 1,
-    "createdAt": "2026-09-20T12:19:38Z",
-    "labels": [
-      "Good first issue",
-      "Help wanted",
-      "Difficulty: Easy",
-      "UI Migration"
-    ],
-    "language": "typescript",
-    "stars": 1403,
-    "foundAt": "2026-09-20T12:31:20.147Z"
-  },
-  {
-    "key": "shadcn-labs/ogimagecn#33",
-    "tier": 1,
-    "repo": "shadcn-labs/ogimagecn",
-    "number": 33,
-    "title": "Add /scan/notion SEO page (Notion preview follow-up)",
-    "url": "https://github.com/shadcn-labs/ogimagecn/issues/33",
-    "comments": 0,
-    "createdAt": "2026-09-20T12:05:40Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 229,
-    "foundAt": "2026-09-20T12:31:20.392Z"
-  },
-  {
-    "key": "shadcn-labs/ogimagecn#32",
-    "tier": 1,
-    "repo": "shadcn-labs/ogimagecn",
-    "number": 32,
-    "title": "Add /scan/bluesky SEO page (Bluesky preview follow-up)",
-    "url": "https://github.com/shadcn-labs/ogimagecn/issues/32",
-    "comments": 0,
-    "createdAt": "2026-09-20T12:05:38Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 229,
-    "foundAt": "2026-09-20T12:31:20.392Z"
   }
 ]

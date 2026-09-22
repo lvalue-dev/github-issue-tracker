@@ -4,6 +4,13 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-22 | 🥇 | [[good first issue] 🏮 Add new False Friend Pair 733 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30746) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-22 | 🥇 | [[BUG] The PostgreSQL object surface builds its rows with json_*, so no column ca](https://github.com/libredb/libredb-studio/issues/1075) | `libredb/libredb-studio` | ⭐ 754 |
+| 2026-09-22 | 🥇 | [[good first issue] 🎎 Add new Grammar Point 1288 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30738) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-22 | 🥇 | [[APM] Show overflow service count in services capacity warning](https://github.com/elastic/kibana/issues/292645) | `elastic/kibana` | ⭐ 21.3k |
+| 2026-09-22 | 🥇 | [[good first issue] 🏯 Add new Trivia Question 768 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30735) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-22 | 🥈 | [[Accessibility] Catalog fullscreen image viewer does not close with Escape](https://github.com/meshery/meshery.io/issues/3008) | `meshery/meshery.io` | ⭐ 861 |
+| 2026-09-22 | 🥉 | [Populate cssProperties, cssParts and slots in the Custom Elements Manifest](https://github.com/vaadin/web-components/issues/12808) | `vaadin/web-components` | ⭐ 582 |
 | 2026-09-22 | 🥇 | [[good first issue] 🎑 Add new Example Sentence 386 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30728) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-22 | 🥇 | [Test the queue message wrapper round trip in `@fedify/cfworkers`](https://github.com/fedify-dev/fedify/issues/1049) | `fedify-dev/fedify` | ⭐ 1.0k |
 | 2026-09-22 | 🥇 | [[Feature]收到邮件后进行过滤再推送，最好可以实现简单的工作流](https://github.com/dreamhunter2333/cloudflare_temp_email/issues/1155) | `dreamhunter2333/cloudflare_temp_email` | ⭐ 11.8k |
@@ -97,10 +104,3 @@
 | 2026-09-20 | 🥈 | [detectShellProfile() falls back to ~/.bashrc on Windows, where the login shell n](https://github.com/Tencent/teamai-cli/issues/682) | `Tencent/teamai-cli` | ⭐ 4.8k |
 | 2026-09-20 | 🥈 | [[UI Migration] ArticleCallToAction](https://github.com/ONEARMY/community-platform/issues/4910) | `ONEARMY/community-platform` | ⭐ 1.4k |
 | 2026-09-20 | 🥈 | [[UI Migration] LinkifyText](https://github.com/ONEARMY/community-platform/issues/4909) | `ONEARMY/community-platform` | ⭐ 1.4k |
-| 2026-09-20 | 🥈 | [[UI Migration] InternalLink](https://github.com/ONEARMY/community-platform/issues/4908) | `ONEARMY/community-platform` | ⭐ 1.4k |
-| 2026-09-20 | 🥉 | [Docs: scrub TEDAPI connectivity guidance to match current reality (v1r hardwired](https://github.com/jasonacox/pypowerwall/issues/387) | `jasonacox/pypowerwall` | ⭐ 229 |
-| 2026-09-20 | 🥇 | [[UI Migration] DownloadCounter](https://github.com/ONEARMY/community-platform/issues/4905) | `ONEARMY/community-platform` | ⭐ 1.4k |
-| 2026-09-20 | 🥇 | [[UI Migration] UsefulStatsButton](https://github.com/ONEARMY/community-platform/issues/4904) | `ONEARMY/community-platform` | ⭐ 1.4k |
-| 2026-09-20 | 🥇 | [[UI Migration] ModerationStatus](https://github.com/ONEARMY/community-platform/issues/4903) | `ONEARMY/community-platform` | ⭐ 1.4k |
-| 2026-09-20 | 🥇 | [Add /scan/notion SEO page (Notion preview follow-up)](https://github.com/shadcn-labs/ogimagecn/issues/33) | `shadcn-labs/ogimagecn` | ⭐ 229 |
-| 2026-09-20 | 🥇 | [Add /scan/bluesky SEO page (Bluesky preview follow-up)](https://github.com/shadcn-labs/ogimagecn/issues/32) | `shadcn-labs/ogimagecn` | ⭐ 229 |
