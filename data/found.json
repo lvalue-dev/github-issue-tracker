@@ -1,5 +1,229 @@
 [
   {
+    "key": "traceroot-ai/traceroot#2276",
+    "tier": 1,
+    "repo": "traceroot-ai/traceroot",
+    "number": 2276,
+    "title": "feat(byok): support GPT-6 Sol and GPT-6 Luna, new OpenAI models, in TraceRoot BYOK modules",
+    "url": "https://github.com/traceroot-ai/traceroot/issues/2276",
+    "comments": 0,
+    "createdAt": "2026-09-22T21:08:25Z",
+    "labels": [
+      "enhancement",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 775,
+    "foundAt": "2026-09-22T21:30:45.600Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30772",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30772,
+    "title": "[good first issue] 🌺 Add new Theme: Autumn Temple (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30772",
+    "comments": 1,
+    "createdAt": "2026-09-22T21:01:01Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-22T21:30:45.600Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30771",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30771,
+    "title": "[good first issue] 🎴 Add new Learner Mistake 349 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30771",
+    "comments": 1,
+    "createdAt": "2026-09-22T20:37:31Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-22T21:30:45.600Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30770",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30770,
+    "title": "[good first issue] 🎐 Add new Etiquette Tip 731 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30770",
+    "comments": 1,
+    "createdAt": "2026-09-22T20:01:02Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-22T21:30:46.190Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30769",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30769,
+    "title": "[good first issue] 🌋 Add new False Friend Pair 884 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30769",
+    "comments": 1,
+    "createdAt": "2026-09-22T19:37:28Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-22T21:30:47.090Z"
+  },
+  {
+    "key": "libredb/libredb-studio#1080",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 1080,
+    "title": "Schema Diff's migration copy button scrolls away with a long migration",
+    "url": "https://github.com/libredb/libredb-studio/issues/1080",
+    "comments": 1,
+    "createdAt": "2026-09-22T19:32:50Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 754,
+    "foundAt": "2026-09-22T21:30:47.090Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30768",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30768,
+    "title": "[good first issue] 🏮 Add new Dialect Entry 290 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30768",
+    "comments": 1,
+    "createdAt": "2026-09-22T19:01:08Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-22T21:30:47.458Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30767",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30767,
+    "title": "[good first issue] 🎍 Add new Japanese Idiom 778 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30767",
+    "comments": 1,
+    "createdAt": "2026-09-22T18:37:30Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-22T21:30:47.458Z"
+  },
+  {
+    "key": "awslabs/aidlc-workflows#1334",
+    "tier": 3,
+    "repo": "awslabs/aidlc-workflows",
+    "number": 1334,
+    "title": "[Docs]: Integrate a visual stage/artifact guide into official docs",
+    "url": "https://github.com/awslabs/aidlc-workflows/issues/1334",
+    "comments": 0,
+    "createdAt": "2026-09-22T21:21:49Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "typescript",
+    "stars": 4763,
+    "foundAt": "2026-09-22T21:30:50.964Z"
+  },
+  {
+    "key": "awslabs/aidlc-workflows#1331",
+    "tier": 3,
+    "repo": "awslabs/aidlc-workflows",
+    "number": 1331,
+    "title": "[Docs]: V1→V2 migration guide; default experience should work from the README alone",
+    "url": "https://github.com/awslabs/aidlc-workflows/issues/1331",
+    "comments": 0,
+    "createdAt": "2026-09-22T21:08:47Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "typescript",
+    "stars": 4763,
+    "foundAt": "2026-09-22T21:30:50.964Z"
+  },
+  {
+    "key": "quarto-dev/quarto-cli#14932",
+    "tier": 3,
+    "repo": "quarto-dev/quarto-cli",
+    "number": 14932,
+    "title": "Code cell numbering in embeds is invisible in dark themes",
+    "url": "https://github.com/quarto-dev/quarto-cli/issues/14932",
+    "comments": 0,
+    "createdAt": "2026-09-22T20:07:03Z",
+    "labels": [
+      "bug",
+      "accessibility",
+      "html",
+      "themes"
+    ],
+    "language": "javascript",
+    "stars": 6016,
+    "foundAt": "2026-09-22T21:30:51.777Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30766",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1844,204 +2068,5 @@
     "language": "typescript",
     "stars": 2370,
     "foundAt": "2026-09-20T19:34:24.053Z"
-  },
-  {
-    "key": "Mantitup-Org/vista#59",
-    "tier": 2,
-    "repo": "Mantitup-Org/vista",
-    "number": 59,
-    "title": "QA: fullstack APIs, auth, and docs site regression",
-    "url": "https://github.com/Mantitup-Org/vista/issues/59",
-    "comments": 0,
-    "createdAt": "2026-09-20T18:25:35Z",
-    "labels": [
-      "help wanted",
-      "qa"
-    ],
-    "language": "typescript",
-    "stars": 2370,
-    "foundAt": "2026-09-20T19:34:24.053Z"
-  },
-  {
-    "key": "Mantitup-Org/vista#58",
-    "tier": 2,
-    "repo": "Mantitup-Org/vista",
-    "number": 58,
-    "title": "QA: RAG retrieval and grounded answers",
-    "url": "https://github.com/Mantitup-Org/vista/issues/58",
-    "comments": 0,
-    "createdAt": "2026-09-20T18:25:33Z",
-    "labels": [
-      "help wanted",
-      "qa"
-    ],
-    "language": "typescript",
-    "stars": 2370,
-    "foundAt": "2026-09-20T19:34:24.053Z"
-  },
-  {
-    "key": "Mantitup-Org/vista#57",
-    "tier": 2,
-    "repo": "Mantitup-Org/vista",
-    "number": 57,
-    "title": "QA: AI agents, tools, and streaming",
-    "url": "https://github.com/Mantitup-Org/vista/issues/57",
-    "comments": 0,
-    "createdAt": "2026-09-20T18:25:31Z",
-    "labels": [
-      "help wanted",
-      "qa"
-    ],
-    "language": "typescript",
-    "stars": 2370,
-    "foundAt": "2026-09-20T19:34:24.053Z"
-  },
-  {
-    "key": "Mantitup-Org/vista#56",
-    "tier": 2,
-    "repo": "Mantitup-Org/vista",
-    "number": 56,
-    "title": "QA: scaffold an app with create-vista-app and smoke-test the CLI",
-    "url": "https://github.com/Mantitup-Org/vista/issues/56",
-    "comments": 0,
-    "createdAt": "2026-09-20T18:25:29Z",
-    "labels": [
-      "help wanted",
-      "qa"
-    ],
-    "language": "typescript",
-    "stars": 2370,
-    "foundAt": "2026-09-20T19:34:24.053Z"
-  },
-  {
-    "key": "OWASP/cve-lite-cli#1198",
-    "tier": 2,
-    "repo": "OWASP/cve-lite-cli",
-    "number": 1198,
-    "title": "[Bug] Recommended fix version is not checked against advisories introduced above the installed version",
-    "url": "https://github.com/OWASP/cve-lite-cli/issues/1198",
-    "comments": 0,
-    "createdAt": "2026-09-20T18:18:35Z",
-    "labels": [
-      "bug",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 720,
-    "foundAt": "2026-09-20T19:34:24.270Z"
-  },
-  {
-    "key": "OWASP/cve-lite-cli#1197",
-    "tier": 2,
-    "repo": "OWASP/cve-lite-cli",
-    "number": 1197,
-    "title": "[Bug] An unconfirmed fix version is printed as a copy-run command and stored as validated",
-    "url": "https://github.com/OWASP/cve-lite-cli/issues/1197",
-    "comments": 0,
-    "createdAt": "2026-09-20T18:13:29Z",
-    "labels": [
-      "bug",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 720,
-    "foundAt": "2026-09-20T19:34:24.270Z"
-  },
-  {
-    "key": "zordhalo/runs-on.dev#239",
-    "tier": 1,
-    "repo": "zordhalo/runs-on.dev",
-    "number": 239,
-    "title": "Blog post toolbar menus announce role=menu but have no arrow-key navigation",
-    "url": "https://github.com/zordhalo/runs-on.dev/issues/239",
-    "comments": 0,
-    "createdAt": "2026-09-20T16:44:14Z",
-    "labels": [
-      "accessibility",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 272,
-    "foundAt": "2026-09-20T16:53:48.839Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30609",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30609,
-    "title": "[good first issue] 🎍 Add new Japanese Proverb 625 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30609",
-    "comments": 1,
-    "createdAt": "2026-09-20T14:57:26Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-20T16:53:47.456Z"
-  },
-  {
-    "key": "ONEARMY/community-platform#4913",
-    "tier": 1,
-    "repo": "ONEARMY/community-platform",
-    "number": 4913,
-    "title": "[UI Migration] FlagIcon",
-    "url": "https://github.com/ONEARMY/community-platform/issues/4913",
-    "comments": 1,
-    "createdAt": "2026-09-20T13:12:25Z",
-    "labels": [
-      "Good first issue",
-      "Help wanted",
-      "Difficulty: Easy",
-      "UI Migration"
-    ],
-    "language": "typescript",
-    "stars": 1403,
-    "foundAt": "2026-09-20T16:53:48.682Z"
-  },
-  {
-    "key": "ONEARMY/community-platform#4912",
-    "tier": 1,
-    "repo": "ONEARMY/community-platform",
-    "number": 4912,
-    "title": "[UI Migration] VideoPlayer",
-    "url": "https://github.com/ONEARMY/community-platform/issues/4912",
-    "comments": 0,
-    "createdAt": "2026-09-20T13:09:40Z",
-    "labels": [
-      "Good first issue",
-      "Help wanted",
-      "Difficulty: Easy",
-      "UI Migration"
-    ],
-    "language": "typescript",
-    "stars": 1403,
-    "foundAt": "2026-09-20T16:53:48.682Z"
-  },
-  {
-    "key": "ONEARMY/community-platform#4911",
-    "tier": 1,
-    "repo": "ONEARMY/community-platform",
-    "number": 4911,
-    "title": "[UI Migration] Select",
-    "url": "https://github.com/ONEARMY/community-platform/issues/4911",
-    "comments": 0,
-    "createdAt": "2026-09-20T12:59:38Z",
-    "labels": [
-      "Good first issue",
-      "Help wanted",
-      "Difficulty: Medium",
-      "UI Migration"
-    ],
-    "language": "typescript",
-    "stars": 1403,
-    "foundAt": "2026-09-20T16:53:48.682Z"
   }
 ]

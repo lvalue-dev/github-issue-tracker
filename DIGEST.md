@@ -4,6 +4,17 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-22 | 🥇 | [feat(byok): support GPT-6 Sol and GPT-6 Luna, new OpenAI models, in TraceRoot BY](https://github.com/traceroot-ai/traceroot/issues/2276) | `traceroot-ai/traceroot` | ⭐ 775 |
+| 2026-09-22 | 🥇 | [[good first issue] 🌺 Add new Theme: Autumn Temple (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30772) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-22 | 🥇 | [[good first issue] 🎴 Add new Learner Mistake 349 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30771) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-22 | 🥇 | [[good first issue] 🎐 Add new Etiquette Tip 731 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30770) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-22 | 🥇 | [[good first issue] 🌋 Add new False Friend Pair 884 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30769) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-22 | 🥇 | [Schema Diff's migration copy button scrolls away with a long migration](https://github.com/libredb/libredb-studio/issues/1080) | `libredb/libredb-studio` | ⭐ 754 |
+| 2026-09-22 | 🥇 | [[good first issue] 🏮 Add new Dialect Entry 290 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30768) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-22 | 🥇 | [[good first issue] 🎍 Add new Japanese Idiom 778 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30767) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-22 | 🥉 | [[Docs]: Integrate a visual stage/artifact guide into official docs](https://github.com/awslabs/aidlc-workflows/issues/1334) | `awslabs/aidlc-workflows` | ⭐ 4.8k |
+| 2026-09-22 | 🥉 | [[Docs]: V1→V2 migration guide; default experience should work from the README al](https://github.com/awslabs/aidlc-workflows/issues/1331) | `awslabs/aidlc-workflows` | ⭐ 4.8k |
+| 2026-09-22 | 🥉 | [Code cell numbering in embeds is invisible in dark themes](https://github.com/quarto-dev/quarto-cli/issues/14932) | `quarto-dev/quarto-cli` | ⭐ 6.0k |
 | 2026-09-22 | 🥇 | [[good first issue] ⛩️ Add new Video Game Quote 264 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30766) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-22 | 🥇 | [[good first issue] 🍛 Add new Anime Quote 512 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30762) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-22 | 🥈 | [[good first issue] 🎋 Add new Grammar Point 1145 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30760) | `lingdojo/kana-dojo` | ⭐ 3.4k |
@@ -93,14 +104,3 @@
 | 2026-09-20 | 🥈 | [[v10] Remove runner shims: LegacyCustomStubCommand and setupExpect Map](https://github.com/webdriverio/webdriverio/issues/15651) | `webdriverio/webdriverio` | ⭐ 9.8k |
 | 2026-09-20 | 🥈 | [[🐛 Bug]: Website chatbot responsiveness](https://github.com/webdriverio/webdriverio/issues/15645) | `webdriverio/webdriverio` | ⭐ 9.8k |
 | 2026-09-20 | 🥈 | [Bounty: hunt bugs across the entire Vista framework](https://github.com/Mantitup-Org/vista/issues/61) | `Mantitup-Org/vista` | ⭐ 2.4k |
-| 2026-09-20 | 🥈 | [QA: fullstack APIs, auth, and docs site regression](https://github.com/Mantitup-Org/vista/issues/59) | `Mantitup-Org/vista` | ⭐ 2.4k |
-| 2026-09-20 | 🥈 | [QA: RAG retrieval and grounded answers](https://github.com/Mantitup-Org/vista/issues/58) | `Mantitup-Org/vista` | ⭐ 2.4k |
-| 2026-09-20 | 🥈 | [QA: AI agents, tools, and streaming](https://github.com/Mantitup-Org/vista/issues/57) | `Mantitup-Org/vista` | ⭐ 2.4k |
-| 2026-09-20 | 🥈 | [QA: scaffold an app with create-vista-app and smoke-test the CLI](https://github.com/Mantitup-Org/vista/issues/56) | `Mantitup-Org/vista` | ⭐ 2.4k |
-| 2026-09-20 | 🥈 | [[Bug] Recommended fix version is not checked against advisories introduced above](https://github.com/OWASP/cve-lite-cli/issues/1198) | `OWASP/cve-lite-cli` | ⭐ 720 |
-| 2026-09-20 | 🥈 | [[Bug] An unconfirmed fix version is printed as a copy-run command and stored as ](https://github.com/OWASP/cve-lite-cli/issues/1197) | `OWASP/cve-lite-cli` | ⭐ 720 |
-| 2026-09-20 | 🥇 | [Blog post toolbar menus announce role=menu but have no arrow-key navigation](https://github.com/zordhalo/runs-on.dev/issues/239) | `zordhalo/runs-on.dev` | ⭐ 272 |
-| 2026-09-20 | 🥇 | [[good first issue] 🎍 Add new Japanese Proverb 625 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30609) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-20 | 🥇 | [[UI Migration] FlagIcon](https://github.com/ONEARMY/community-platform/issues/4913) | `ONEARMY/community-platform` | ⭐ 1.4k |
-| 2026-09-20 | 🥇 | [[UI Migration] VideoPlayer](https://github.com/ONEARMY/community-platform/issues/4912) | `ONEARMY/community-platform` | ⭐ 1.4k |
-| 2026-09-20 | 🥇 | [[UI Migration] Select](https://github.com/ONEARMY/community-platform/issues/4911) | `ONEARMY/community-platform` | ⭐ 1.4k |
