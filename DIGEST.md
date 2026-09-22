@@ -4,6 +4,13 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-22 | 🥇 | [[good first issue] 🎑 Add new Example Sentence 386 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30728) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-22 | 🥇 | [Test the queue message wrapper round trip in `@fedify/cfworkers`](https://github.com/fedify-dev/fedify/issues/1049) | `fedify-dev/fedify` | ⭐ 1.0k |
+| 2026-09-22 | 🥇 | [[Feature]收到邮件后进行过滤再推送，最好可以实现简单的工作流](https://github.com/dreamhunter2333/cloudflare_temp_email/issues/1155) | `dreamhunter2333/cloudflare_temp_email` | ⭐ 11.8k |
+| 2026-09-22 | 🥇 | [[good first issue] 🌊 Add new Dialect Entry 837 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30720) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-22 | 🥇 | [[good first issue] 🍣 Add new Japanese Idiom 616 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30718) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-22 | 🥇 | [[good first issue] 🍜 Add new Anime Quote 532 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30717) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-22 | 🥇 | [[good first issue] 🍱 Add new Grammar Point 1303 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30715) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-22 | 🥇 | [Add unit tests for `emailClientAdapter.js` client matchers](https://github.com/fossasia/scrum_helper/issues/864) | `fossasia/scrum_helper` | ⭐ 1.3k |
 | 2026-09-22 | 🥇 | [[Docs]: Add testing, linting, and desktop build instructions to CONTRIBUTING.md](https://github.com/fossasia/scrum_helper/issues/863) | `fossasia/scrum_helper` | ⭐ 1.3k |
 | 2026-09-22 | 🥇 | [Interesting plugin, couple bugs - 'Cinema Mode' and 'Reverse Playlist'🐞](https://github.com/code-charity/youtube/issues/4353) | `code-charity/youtube` | ⭐ 4.6k |
@@ -97,10 +104,3 @@
 | 2026-09-20 | 🥇 | [[UI Migration] ModerationStatus](https://github.com/ONEARMY/community-platform/issues/4903) | `ONEARMY/community-platform` | ⭐ 1.4k |
 | 2026-09-20 | 🥇 | [Add /scan/notion SEO page (Notion preview follow-up)](https://github.com/shadcn-labs/ogimagecn/issues/33) | `shadcn-labs/ogimagecn` | ⭐ 229 |
 | 2026-09-20 | 🥇 | [Add /scan/bluesky SEO page (Bluesky preview follow-up)](https://github.com/shadcn-labs/ogimagecn/issues/32) | `shadcn-labs/ogimagecn` | ⭐ 229 |
-| 2026-09-20 | 🥇 | [Add LINE link preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/31) | `shadcn-labs/ogimagecn` | ⭐ 229 |
-| 2026-09-20 | 🥇 | [Add Snapchat link preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/30) | `shadcn-labs/ogimagecn` | ⭐ 229 |
-| 2026-09-20 | 🥇 | [Add Google Chat link preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/29) | `shadcn-labs/ogimagecn` | ⭐ 229 |
-| 2026-09-20 | 🥇 | [Add Instagram link preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/28) | `shadcn-labs/ogimagecn` | ⭐ 229 |
-| 2026-09-20 | 🥇 | [Add Signal link preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/27) | `shadcn-labs/ogimagecn` | ⭐ 229 |
-| 2026-09-20 | 🥇 | [Add TikTok link preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/26) | `shadcn-labs/ogimagecn` | ⭐ 229 |
-| 2026-09-20 | 🥇 | [Add WeChat link preview to the scanner](https://github.com/shadcn-labs/ogimagecn/issues/25) | `shadcn-labs/ogimagecn` | ⭐ 229 |

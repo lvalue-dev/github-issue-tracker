@@ -12018,5 +12018,215 @@
     "language": "JavaScript",
     "openIssues": 4,
     "cachedAt": "2026-09-22T01:43:30.123Z"
+  },
+  "vishalgattani/superterminal": {
+    "fullName": "vishalgattani/superterminal",
+    "stars": 0,
+    "pushedAt": "2026-09-22T07:04:06Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 4,
+    "cachedAt": "2026-09-22T07:49:13.049Z"
+  },
+  "digitalfabrik/integreat-app": {
+    "fullName": "digitalfabrik/integreat-app",
+    "stars": 57,
+    "pushedAt": "2026-09-21T11:30:49Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 49,
+    "cachedAt": "2026-09-22T07:49:13.259Z"
+  },
+  "fedify-dev/fedify": {
+    "fullName": "fedify-dev/fedify",
+    "stars": 1026,
+    "pushedAt": "2026-09-21T17:22:16Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 98,
+    "cachedAt": "2026-09-22T07:49:13.468Z"
+  },
+  "mrpia/math-quizz": {
+    "fullName": "mrpia/math-quizz",
+    "stars": 1,
+    "pushedAt": "2026-09-22T07:36:29Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 11,
+    "cachedAt": "2026-09-22T07:49:13.683Z"
+  },
+  "dreamhunter2333/cloudflare_temp_email": {
+    "fullName": "dreamhunter2333/cloudflare_temp_email",
+    "stars": 11814,
+    "pushedAt": "2026-09-17T06:44:28Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 23,
+    "cachedAt": "2026-09-22T07:49:13.940Z"
+  },
+  "zhuangsirandy/uscoo": {
+    "fullName": "zhuangsirandy/uscoo",
+    "stars": 0,
+    "pushedAt": "2026-09-22T06:31:33Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 4,
+    "cachedAt": "2026-09-22T07:49:14.127Z"
+  },
+  "rust-ui/termui": {
+    "fullName": "rust-ui/termui",
+    "stars": 1,
+    "pushedAt": "2026-09-22T07:16:14Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 3,
+    "cachedAt": "2026-09-22T07:49:14.423Z"
+  },
+  "mohdahmedasif/haushalt": {
+    "fullName": "mohdahmedasif/haushalt",
+    "stars": 0,
+    "pushedAt": "2026-09-22T04:48:20Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 3,
+    "cachedAt": "2026-09-22T07:49:14.642Z"
+  },
+  "AgentPostmortem/Webhands": {
+    "fullName": "AgentPostmortem/Webhands",
+    "stars": 0,
+    "pushedAt": "2026-09-16T20:18:12Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 9,
+    "cachedAt": "2026-09-22T07:49:14.910Z"
+  },
+  "AgentPostmortem/Greenlite": {
+    "fullName": "AgentPostmortem/Greenlite",
+    "stars": 0,
+    "pushedAt": "2026-09-16T20:18:09Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 7,
+    "cachedAt": "2026-09-22T07:49:15.138Z"
+  },
+  "jaikaran109/51_Web_Projects": {
+    "fullName": "jaikaran109/51_Web_Projects",
+    "stars": 12,
+    "pushedAt": "2026-09-22T07:29:59Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 100,
+    "cachedAt": "2026-09-22T07:49:15.337Z"
+  },
+  "Hel-Phone/HelPhone": {
+    "fullName": "Hel-Phone/HelPhone",
+    "stars": 0,
+    "pushedAt": "2026-09-02T09:12:46Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 62,
+    "cachedAt": "2026-09-22T07:49:15.599Z"
+  },
+  "ShinoharaTa/eew2nostr": {
+    "fullName": "ShinoharaTa/eew2nostr",
+    "stars": 0,
+    "pushedAt": "2026-09-22T07:48:04Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 7,
+    "cachedAt": "2026-09-22T07:49:15.782Z"
+  },
+  "Smith-Gray-Pty-Ltd/usm": {
+    "fullName": "Smith-Gray-Pty-Ltd/usm",
+    "stars": 1,
+    "pushedAt": "2026-09-10T00:00:55Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 6,
+    "cachedAt": "2026-09-22T07:49:15.973Z"
+  },
+  "galleonlabs/crypto-defi-skills": {
+    "fullName": "galleonlabs/crypto-defi-skills",
+    "stars": 1,
+    "pushedAt": "2026-09-21T17:59:42Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 1,
+    "cachedAt": "2026-09-22T07:49:16.183Z"
+  },
+  "o3co/auth.provider": {
+    "fullName": "o3co/auth.provider",
+    "stars": 1,
+    "pushedAt": "2026-09-22T07:46:26Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 10,
+    "cachedAt": "2026-09-22T07:49:16.416Z"
+  },
+  "beatzball/litro": {
+    "fullName": "beatzball/litro",
+    "stars": 8,
+    "pushedAt": "2026-09-22T07:45:57Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 14,
+    "cachedAt": "2026-09-22T07:49:16.621Z"
+  },
+  "kurtbruns/kestrel": {
+    "fullName": "kurtbruns/kestrel",
+    "stars": 0,
+    "pushedAt": "2026-09-22T06:32:55Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 75,
+    "cachedAt": "2026-09-22T07:49:16.882Z"
+  },
+  "r-Techsupport/rTS_Wiki": {
+    "fullName": "r-Techsupport/rTS_Wiki",
+    "stars": 68,
+    "pushedAt": "2026-09-21T04:12:17Z",
+    "archived": false,
+    "fork": false,
+    "language": "MDX",
+    "openIssues": 42,
+    "cachedAt": "2026-09-22T07:49:17.094Z"
+  },
+  "boxlite-ai/documentation": {
+    "fullName": "boxlite-ai/documentation",
+    "stars": 1,
+    "pushedAt": "2026-09-19T00:49:23Z",
+    "archived": false,
+    "fork": false,
+    "language": "MDX",
+    "openIssues": 5,
+    "cachedAt": "2026-09-22T07:49:17.349Z"
+  },
+  "langgenius/dify-docs": {
+    "fullName": "langgenius/dify-docs",
+    "stars": 178,
+    "pushedAt": "2026-09-20T10:20:42Z",
+    "archived": false,
+    "fork": false,
+    "language": "MDX",
+    "openIssues": 19,
+    "cachedAt": "2026-09-22T07:49:17.589Z"
   }
 }

@@ -1,5 +1,157 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30728",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30728,
+    "title": "[good first issue] 🎑 Add new Example Sentence 386 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30728",
+    "comments": 1,
+    "createdAt": "2026-09-22T07:37:31Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-22T07:49:12.824Z"
+  },
+  {
+    "key": "fedify-dev/fedify#1049",
+    "tier": 1,
+    "repo": "fedify-dev/fedify",
+    "number": 1049,
+    "title": "Test the queue message wrapper round trip in `@fedify/cfworkers`",
+    "url": "https://github.com/fedify-dev/fedify/issues/1049",
+    "comments": 0,
+    "createdAt": "2026-09-22T07:22:57Z",
+    "labels": [
+      "good first issue",
+      "component/mq",
+      "runtime/cfworkers",
+      "difficulty/beginner",
+      "component/testing"
+    ],
+    "language": "typescript",
+    "stars": 1026,
+    "foundAt": "2026-09-22T07:49:13.468Z"
+  },
+  {
+    "key": "dreamhunter2333/cloudflare_temp_email#1155",
+    "tier": 1,
+    "repo": "dreamhunter2333/cloudflare_temp_email",
+    "number": 1155,
+    "title": "[Feature]收到邮件后进行过滤再推送，最好可以实现简单的工作流",
+    "url": "https://github.com/dreamhunter2333/cloudflare_temp_email/issues/1155",
+    "comments": 1,
+    "createdAt": "2026-09-22T07:07:09Z",
+    "labels": [
+      "enhancement",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 11814,
+    "foundAt": "2026-09-22T07:49:13.940Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30720",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30720,
+    "title": "[good first issue] 🌊 Add new Dialect Entry 837 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30720",
+    "comments": 1,
+    "createdAt": "2026-09-22T06:01:03Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-22T07:49:14.423Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30718",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30718,
+    "title": "[good first issue] 🍣 Add new Japanese Idiom 616 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30718",
+    "comments": 1,
+    "createdAt": "2026-09-22T05:37:44Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-22T07:49:14.423Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30717",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30717,
+    "title": "[good first issue] 🍜 Add new Anime Quote 532 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30717",
+    "comments": 1,
+    "createdAt": "2026-09-22T05:01:03Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-22T07:49:14.423Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30715",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30715,
+    "title": "[good first issue] 🍱 Add new Grammar Point 1303 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30715",
+    "comments": 1,
+    "createdAt": "2026-09-22T04:37:33Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-22T07:49:14.642Z"
+  },
+  {
     "key": "fossasia/scrum_helper#864",
     "tier": 1,
     "repo": "fossasia/scrum_helper",
@@ -1865,131 +2017,5 @@
     "language": "typescript",
     "stars": 229,
     "foundAt": "2026-09-20T12:31:20.392Z"
-  },
-  {
-    "key": "shadcn-labs/ogimagecn#31",
-    "tier": 1,
-    "repo": "shadcn-labs/ogimagecn",
-    "number": 31,
-    "title": "Add LINE link preview to the scanner",
-    "url": "https://github.com/shadcn-labs/ogimagecn/issues/31",
-    "comments": 0,
-    "createdAt": "2026-09-20T11:53:20Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 229,
-    "foundAt": "2026-09-20T12:31:20.392Z"
-  },
-  {
-    "key": "shadcn-labs/ogimagecn#30",
-    "tier": 1,
-    "repo": "shadcn-labs/ogimagecn",
-    "number": 30,
-    "title": "Add Snapchat link preview to the scanner",
-    "url": "https://github.com/shadcn-labs/ogimagecn/issues/30",
-    "comments": 0,
-    "createdAt": "2026-09-20T11:53:19Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 229,
-    "foundAt": "2026-09-20T12:31:20.392Z"
-  },
-  {
-    "key": "shadcn-labs/ogimagecn#29",
-    "tier": 1,
-    "repo": "shadcn-labs/ogimagecn",
-    "number": 29,
-    "title": "Add Google Chat link preview to the scanner",
-    "url": "https://github.com/shadcn-labs/ogimagecn/issues/29",
-    "comments": 0,
-    "createdAt": "2026-09-20T11:53:17Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 229,
-    "foundAt": "2026-09-20T12:31:20.392Z"
-  },
-  {
-    "key": "shadcn-labs/ogimagecn#28",
-    "tier": 1,
-    "repo": "shadcn-labs/ogimagecn",
-    "number": 28,
-    "title": "Add Instagram link preview to the scanner",
-    "url": "https://github.com/shadcn-labs/ogimagecn/issues/28",
-    "comments": 0,
-    "createdAt": "2026-09-20T11:53:15Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 229,
-    "foundAt": "2026-09-20T12:31:20.392Z"
-  },
-  {
-    "key": "shadcn-labs/ogimagecn#27",
-    "tier": 1,
-    "repo": "shadcn-labs/ogimagecn",
-    "number": 27,
-    "title": "Add Signal link preview to the scanner",
-    "url": "https://github.com/shadcn-labs/ogimagecn/issues/27",
-    "comments": 0,
-    "createdAt": "2026-09-20T11:53:11Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 229,
-    "foundAt": "2026-09-20T12:31:20.392Z"
-  },
-  {
-    "key": "shadcn-labs/ogimagecn#26",
-    "tier": 1,
-    "repo": "shadcn-labs/ogimagecn",
-    "number": 26,
-    "title": "Add TikTok link preview to the scanner",
-    "url": "https://github.com/shadcn-labs/ogimagecn/issues/26",
-    "comments": 0,
-    "createdAt": "2026-09-20T11:53:10Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 229,
-    "foundAt": "2026-09-20T12:31:20.392Z"
-  },
-  {
-    "key": "shadcn-labs/ogimagecn#25",
-    "tier": 1,
-    "repo": "shadcn-labs/ogimagecn",
-    "number": 25,
-    "title": "Add WeChat link preview to the scanner",
-    "url": "https://github.com/shadcn-labs/ogimagecn/issues/25",
-    "comments": 0,
-    "createdAt": "2026-09-20T11:53:08Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 229,
-    "foundAt": "2026-09-20T12:31:20.589Z"
   }
 ]
