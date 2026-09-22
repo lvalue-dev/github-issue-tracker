@@ -4,6 +4,9 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-22 | 🥇 | [[good first issue] ⛩️ Add new Video Game Quote 264 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30766) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-22 | 🥇 | [[good first issue] 🍛 Add new Anime Quote 512 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30762) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-22 | 🥈 | [[good first issue] 🎋 Add new Grammar Point 1145 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30760) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-22 | 🥇 | [[good first issue] 🏮 Add new False Friend Pair 733 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30746) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-22 | 🥇 | [[BUG] The PostgreSQL object surface builds its rows with json_*, so no column ca](https://github.com/libredb/libredb-studio/issues/1075) | `libredb/libredb-studio` | ⭐ 754 |
 | 2026-09-22 | 🥇 | [[good first issue] 🎎 Add new Grammar Point 1288 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30738) | `lingdojo/kana-dojo` | ⭐ 3.4k |
@@ -101,6 +104,3 @@
 | 2026-09-20 | 🥇 | [[UI Migration] FlagIcon](https://github.com/ONEARMY/community-platform/issues/4913) | `ONEARMY/community-platform` | ⭐ 1.4k |
 | 2026-09-20 | 🥇 | [[UI Migration] VideoPlayer](https://github.com/ONEARMY/community-platform/issues/4912) | `ONEARMY/community-platform` | ⭐ 1.4k |
 | 2026-09-20 | 🥇 | [[UI Migration] Select](https://github.com/ONEARMY/community-platform/issues/4911) | `ONEARMY/community-platform` | ⭐ 1.4k |
-| 2026-09-20 | 🥈 | [detectShellProfile() falls back to ~/.bashrc on Windows, where the login shell n](https://github.com/Tencent/teamai-cli/issues/682) | `Tencent/teamai-cli` | ⭐ 4.8k |
-| 2026-09-20 | 🥈 | [[UI Migration] ArticleCallToAction](https://github.com/ONEARMY/community-platform/issues/4910) | `ONEARMY/community-platform` | ⭐ 1.4k |
-| 2026-09-20 | 🥈 | [[UI Migration] LinkifyText](https://github.com/ONEARMY/community-platform/issues/4909) | `ONEARMY/community-platform` | ⭐ 1.4k |

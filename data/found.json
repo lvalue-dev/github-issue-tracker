@@ -1,5 +1,74 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30766",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30766,
+    "title": "[good first issue] ⛩️ Add new Video Game Quote 264 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30766",
+    "comments": 1,
+    "createdAt": "2026-09-22T18:01:08Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-22T18:10:53.845Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30762",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30762,
+    "title": "[good first issue] 🍛 Add new Anime Quote 512 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30762",
+    "comments": 1,
+    "createdAt": "2026-09-22T17:37:32Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-22T18:10:54.413Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30760",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30760,
+    "title": "[good first issue] 🎋 Add new Grammar Point 1145 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30760",
+    "comments": 1,
+    "createdAt": "2026-09-22T17:01:10Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-22T18:10:56.393Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30746",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1974,60 +2043,5 @@
     "language": "typescript",
     "stars": 1403,
     "foundAt": "2026-09-20T16:53:48.682Z"
-  },
-  {
-    "key": "Tencent/teamai-cli#682",
-    "tier": 2,
-    "repo": "Tencent/teamai-cli",
-    "number": 682,
-    "title": "detectShellProfile() falls back to ~/.bashrc on Windows, where the login shell never reads it",
-    "url": "https://github.com/Tencent/teamai-cli/issues/682",
-    "comments": 0,
-    "createdAt": "2026-09-20T14:33:16Z",
-    "labels": [
-      "bug",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 4841,
-    "foundAt": "2026-09-20T16:53:50.333Z"
-  },
-  {
-    "key": "ONEARMY/community-platform#4910",
-    "tier": 2,
-    "repo": "ONEARMY/community-platform",
-    "number": 4910,
-    "title": "[UI Migration] ArticleCallToAction",
-    "url": "https://github.com/ONEARMY/community-platform/issues/4910",
-    "comments": 0,
-    "createdAt": "2026-09-20T12:54:52Z",
-    "labels": [
-      "Good first issue",
-      "Help wanted",
-      "Difficulty: Easy",
-      "UI Migration"
-    ],
-    "language": "typescript",
-    "stars": 1403,
-    "foundAt": "2026-09-20T16:53:50.487Z"
-  },
-  {
-    "key": "ONEARMY/community-platform#4909",
-    "tier": 2,
-    "repo": "ONEARMY/community-platform",
-    "number": 4909,
-    "title": "[UI Migration] LinkifyText",
-    "url": "https://github.com/ONEARMY/community-platform/issues/4909",
-    "comments": 0,
-    "createdAt": "2026-09-20T12:50:01Z",
-    "labels": [
-      "Good first issue",
-      "Help wanted",
-      "Difficulty: Easy",
-      "UI Migration"
-    ],
-    "language": "typescript",
-    "stars": 1403,
-    "foundAt": "2026-09-20T16:53:50.487Z"
   }
 ]
