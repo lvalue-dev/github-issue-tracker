@@ -4,6 +4,12 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-23 | 🥇 | [[good first issue] 🍜 Add new Anime Quote 465 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30796) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-23 | 🥇 | [[good first issue] 🌊 Add new Grammar Point 1137 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30795) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-23 | 🥇 | [🐞 "to the left" sidebar not working, along with player size adjustments](https://github.com/code-charity/youtube/issues/4356) | `code-charity/youtube` | ⭐ 4.6k |
+| 2026-09-23 | 🥇 | [Review Needed - New Wins Form Submission](https://github.com/hackforla/website/issues/8798) | `hackforla/website` | ⭐ 363 |
+| 2026-09-23 | 🥈 | [Stabilize the Safari dialog tests that check the leave state after Close](https://github.com/ariakit/ariakit/issues/7603) | `ariakit/ariakit` | ⭐ 8.6k |
+| 2026-09-23 | 🥉 | [security-advisory: the GHSA draft-card title copies the advisory summary onto th](https://github.com/modelcontextprotocol/inspector/issues/2457) | `modelcontextprotocol/inspector` | ⭐ 10.9k |
 | 2026-09-23 | 🥇 | [[good first issue] 🌺 Add new Japanese Idiom 368 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30783) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-23 | 🥇 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15438) | `stdlib-js/stdlib` | ⭐ 6.0k |
 | 2026-09-23 | 🥇 | [[good first issue] 🍛 Add new Video Game Quote 1068 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30780) | `lingdojo/kana-dojo` | ⭐ 3.4k |
@@ -98,9 +104,3 @@
 | 2026-09-21 | 🥉 | [Allow authenticated release checks when GitHub rate-limits updates](https://github.com/AltanS/collie/issues/254) | `AltanS/collie` | ⭐ 1.1k |
 | 2026-09-20 | 🥇 | [[good first issue] 🀄 Add new Grammar Point 265 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30632) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-20 | 🥇 | [[good first issue] 🌸 Add new Japanese Haiku 102 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30631) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-20 | 🥈 | [[good first issue] 🐡 Add new Japanese Proverb 816 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30630) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-20 | 🥈 | [[BUG] The MySQL object surface reports DATA_TYPE, so every column loses its leng](https://github.com/libredb/libredb-studio/issues/1033) | `libredb/libredb-studio` | ⭐ 754 |
-| 2026-09-20 | 🥈 | [[good first issue] 🍢 Add new Japan Fact 342 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30629) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-20 | 🥈 | [[BUG] SchemaDiff emits DEFAULT abc for a MySQL string default, and the server re](https://github.com/libredb/libredb-studio/issues/1031) | `libredb/libredb-studio` | ⭐ 754 |
-| 2026-09-20 | 🥉 | [[DOCS] `npm trust circle` docs should warn that OIDC token exchange in SSH rerun](https://github.com/npm/cli/issues/10004) | `npm/cli` | ⭐ 10.1k |
-| 2026-09-20 | 🥉 | [feat(frontend): widen developer docs search beyond an AND of raw substrings](https://github.com/YosemiteCrew/Yosemite-Crew/issues/3377) | `YosemiteCrew/Yosemite-Crew` | ⭐ 2.0k |

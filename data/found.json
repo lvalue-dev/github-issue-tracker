@@ -1,5 +1,125 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30796",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30796,
+    "title": "[good first issue] 🍜 Add new Anime Quote 465 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30796",
+    "comments": 1,
+    "createdAt": "2026-09-23T06:01:02Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-23T06:08:40.216Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30795",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30795,
+    "title": "[good first issue] 🌊 Add new Grammar Point 1137 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30795",
+    "comments": 1,
+    "createdAt": "2026-09-23T05:37:35Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-23T06:08:40.216Z"
+  },
+  {
+    "key": "code-charity/youtube#4356",
+    "tier": 1,
+    "repo": "code-charity/youtube",
+    "number": 4356,
+    "title": "🐞 \"to the left\" sidebar not working, along with player size adjustments",
+    "url": "https://github.com/code-charity/youtube/issues/4356",
+    "comments": 0,
+    "createdAt": "2026-09-23T05:31:56Z",
+    "labels": [
+      "Bug",
+      "Feature request",
+      "help wanted",
+      "good first issue",
+      "up-for-grabs"
+    ],
+    "language": "javascript",
+    "stars": 4594,
+    "foundAt": "2026-09-23T06:08:41.229Z"
+  },
+  {
+    "key": "hackforla/website#8798",
+    "tier": 1,
+    "repo": "hackforla/website",
+    "number": 8798,
+    "title": "Review Needed - New Wins Form Submission",
+    "url": "https://github.com/hackforla/website/issues/8798",
+    "comments": 1,
+    "createdAt": "2026-09-23T01:36:48Z",
+    "labels": [
+      "good first issue",
+      "role: product",
+      "P-Feature: Wins Page",
+      "new-win-submission",
+      "size: missing"
+    ],
+    "language": "javascript",
+    "stars": 363,
+    "foundAt": "2026-09-23T06:08:42.234Z"
+  },
+  {
+    "key": "ariakit/ariakit#7603",
+    "tier": 2,
+    "repo": "ariakit/ariakit",
+    "number": 7603,
+    "title": "Stabilize the Safari dialog tests that check the leave state after Close",
+    "url": "https://github.com/ariakit/ariakit/issues/7603",
+    "comments": 0,
+    "createdAt": "2026-09-23T05:53:41Z",
+    "labels": [
+      "app",
+      "easy"
+    ],
+    "language": "typescript",
+    "stars": 8624,
+    "foundAt": "2026-09-23T06:08:42.701Z"
+  },
+  {
+    "key": "modelcontextprotocol/inspector#2457",
+    "tier": 3,
+    "repo": "modelcontextprotocol/inspector",
+    "number": 2457,
+    "title": "security-advisory: the GHSA draft-card title copies the advisory summary onto the board",
+    "url": "https://github.com/modelcontextprotocol/inspector/issues/2457",
+    "comments": 1,
+    "createdAt": "2026-09-23T05:52:56Z",
+    "labels": [
+      "documentation",
+      "v2"
+    ],
+    "language": "typescript",
+    "stars": 10891,
+    "foundAt": "2026-09-23T06:08:44.498Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30783",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1955,122 +2075,5 @@
     "language": "typescript",
     "stars": 3404,
     "foundAt": "2026-09-20T22:34:01.829Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30630",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30630,
-    "title": "[good first issue] 🐡 Add new Japanese Proverb 816 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30630",
-    "comments": 1,
-    "createdAt": "2026-09-20T21:00:58Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-20T22:34:03.371Z"
-  },
-  {
-    "key": "libredb/libredb-studio#1033",
-    "tier": 2,
-    "repo": "libredb/libredb-studio",
-    "number": 1033,
-    "title": "[BUG] The MySQL object surface reports DATA_TYPE, so every column loses its length and generated DDL is rejected",
-    "url": "https://github.com/libredb/libredb-studio/issues/1033",
-    "comments": 0,
-    "createdAt": "2026-09-20T20:54:08Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "help wanted",
-      "database-provider"
-    ],
-    "language": "typescript",
-    "stars": 754,
-    "foundAt": "2026-09-20T22:34:03.371Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30629",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30629,
-    "title": "[good first issue] 🍢 Add new Japan Fact 342 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30629",
-    "comments": 1,
-    "createdAt": "2026-09-20T20:37:30Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-20T22:34:03.781Z"
-  },
-  {
-    "key": "libredb/libredb-studio#1031",
-    "tier": 2,
-    "repo": "libredb/libredb-studio",
-    "number": 1031,
-    "title": "[BUG] SchemaDiff emits DEFAULT abc for a MySQL string default, and the server rejects it",
-    "url": "https://github.com/libredb/libredb-studio/issues/1031",
-    "comments": 0,
-    "createdAt": "2026-09-20T20:36:32Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "database-provider"
-    ],
-    "language": "typescript",
-    "stars": 754,
-    "foundAt": "2026-09-20T22:34:04.004Z"
-  },
-  {
-    "key": "npm/cli#10004",
-    "tier": 3,
-    "repo": "npm/cli",
-    "number": 10004,
-    "title": "[DOCS] `npm trust circle` docs should warn that OIDC token exchange in SSH reruns isn't supported",
-    "url": "https://github.com/npm/cli/issues/10004",
-    "comments": 0,
-    "createdAt": "2026-09-20T22:24:38Z",
-    "labels": [
-      "Needs Triage",
-      "Documentation"
-    ],
-    "language": "javascript",
-    "stars": 10124,
-    "foundAt": "2026-09-20T22:34:06.972Z"
-  },
-  {
-    "key": "YosemiteCrew/Yosemite-Crew#3377",
-    "tier": 3,
-    "repo": "YosemiteCrew/Yosemite-Crew",
-    "number": 3377,
-    "title": "feat(frontend): widen developer docs search beyond an AND of raw substrings",
-    "url": "https://github.com/YosemiteCrew/Yosemite-Crew/issues/3377",
-    "comments": 0,
-    "createdAt": "2026-09-20T22:21:14Z",
-    "labels": [
-      "documentation",
-      "enhancement"
-    ],
-    "language": "typescript",
-    "stars": 2022,
-    "foundAt": "2026-09-20T22:34:04.957Z"
   }
 ]
