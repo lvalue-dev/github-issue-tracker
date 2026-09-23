@@ -1,5 +1,103 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30841",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30841,
+    "title": "[good first issue] 🧧 Add new Etiquette Tip 800 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30841",
+    "comments": 1,
+    "createdAt": "2026-09-23T20:01:08Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-23T20:32:41.274Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30840",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30840,
+    "title": "[good first issue] 🎌 Add new Dialect Entry 165 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30840",
+    "comments": 1,
+    "createdAt": "2026-09-23T19:57:28Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3404,
+    "foundAt": "2026-09-23T20:32:41.499Z"
+  },
+  {
+    "key": "processing/p5.js#9202",
+    "tier": 2,
+    "repo": "processing/p5.js",
+    "number": 9202,
+    "title": "`p5.VERSION` reports \"2.3.1\" in the 2.3.3 release build (build-time version replacement regression)",
+    "url": "https://github.com/processing/p5.js/issues/9202",
+    "comments": 1,
+    "createdAt": "2026-09-23T13:46:39Z",
+    "labels": [
+      "Area:Core",
+      "Help Wanted",
+      "p5.js 2.0+",
+      "Patch"
+    ],
+    "language": "javascript",
+    "stars": 24030,
+    "foundAt": "2026-09-23T20:32:42.343Z"
+  },
+  {
+    "key": "elastic/eui#10078",
+    "tier": 3,
+    "repo": "elastic/eui",
+    "number": 10078,
+    "title": "Docs site has some extraneous panel borders",
+    "url": "https://github.com/elastic/eui/issues/10078",
+    "comments": 0,
+    "createdAt": "2026-09-23T20:31:54Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "typescript",
+    "stars": 6369,
+    "foundAt": "2026-09-23T20:32:42.743Z"
+  },
+  {
+    "key": "quarto-dev/quarto-cli#14944",
+    "tier": 3,
+    "repo": "quarto-dev/quarto-cli",
+    "number": 14944,
+    "title": "revealjs logo option's alt text support is undocumented",
+    "url": "https://github.com/quarto-dev/quarto-cli/issues/14944",
+    "comments": 0,
+    "createdAt": "2026-09-23T20:19:53Z",
+    "labels": [
+      "documentation",
+      "accessibility"
+    ],
+    "language": "javascript",
+    "stars": 6016,
+    "foundAt": "2026-09-23T20:32:42.936Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30832",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1945,104 +2043,5 @@
     "language": "typescript",
     "stars": 3404,
     "foundAt": "2026-09-21T14:23:05.772Z"
-  },
-  {
-    "key": "leaperone/MultiPost-Extension#235",
-    "tier": 1,
-    "repo": "leaperone/MultiPost-Extension",
-    "number": 235,
-    "title": "feat: 建议增加微信公众号数据获取功能",
-    "url": "https://github.com/leaperone/MultiPost-Extension/issues/235",
-    "comments": 1,
-    "createdAt": "2026-09-21T13:53:45Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted",
-      "customer",
-      "needs-info"
-    ],
-    "language": "typescript",
-    "stars": 3500,
-    "foundAt": "2026-09-21T14:23:05.772Z"
-  },
-  {
-    "key": "neomjs/neo#19038",
-    "tier": 1,
-    "repo": "neomjs/neo",
-    "number": 19038,
-    "title": "Neo.toolbar.Paging has no coverage, and its page maths has edges",
-    "url": "https://github.com/neomjs/neo/issues/19038",
-    "comments": 0,
-    "createdAt": "2026-09-21T13:18:22Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "ai",
-      "testing"
-    ],
-    "language": "javascript",
-    "stars": 3280,
-    "foundAt": "2026-09-21T14:23:06.008Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30675",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30675,
-    "title": "[good first issue] 🐉 Add new Example Sentence 399 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30675",
-    "comments": 1,
-    "createdAt": "2026-09-21T13:37:34Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-21T14:23:06.811Z"
-  },
-  {
-    "key": "leaperone/MultiPost-Extension#234",
-    "tier": 2,
-    "repo": "leaperone/MultiPost-Extension",
-    "number": 234,
-    "title": "feat: 有一个bug，如果提交到youtube，无法分辨视频的尺寸，导致无法自动选择分类，造成上传错误提示",
-    "url": "https://github.com/leaperone/MultiPost-Extension/issues/234",
-    "comments": 1,
-    "createdAt": "2026-09-21T13:28:29Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted",
-      "customer",
-      "needs-info"
-    ],
-    "language": "typescript",
-    "stars": 3500,
-    "foundAt": "2026-09-21T14:23:06.811Z"
-  },
-  {
-    "key": "CherryHQ/cherry-studio#20904",
-    "tier": 2,
-    "repo": "CherryHQ/cherry-studio",
-    "number": 20904,
-    "title": "[Discussion]: The DeepSeek model fails to identify everything, so manual addition is required.",
-    "url": "https://github.com/CherryHQ/cherry-studio/issues/20904",
-    "comments": 0,
-    "createdAt": "2026-09-21T13:27:49Z",
-    "labels": [
-      "help wanted",
-      "discussion"
-    ],
-    "language": "typescript",
-    "stars": 52046,
-    "foundAt": "2026-09-21T14:23:07.078Z"
   }
 ]

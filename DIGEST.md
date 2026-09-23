@@ -4,6 +4,11 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-23 | 🥈 | [[good first issue] 🧧 Add new Etiquette Tip 800 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30841) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-23 | 🥈 | [[good first issue] 🎌 Add new Dialect Entry 165 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30840) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-23 | 🥈 | [`p5.VERSION` reports "2.3.1" in the 2.3.3 release build (build-time version repl](https://github.com/processing/p5.js/issues/9202) | `processing/p5.js` | ⭐ 24.0k |
+| 2026-09-23 | 🥉 | [Docs site has some extraneous panel borders](https://github.com/elastic/eui/issues/10078) | `elastic/eui` | ⭐ 6.4k |
+| 2026-09-23 | 🥉 | [revealjs logo option's alt text support is undocumented](https://github.com/quarto-dev/quarto-cli/issues/14944) | `quarto-dev/quarto-cli` | ⭐ 6.0k |
 | 2026-09-23 | 🥇 | [[good first issue] 🗻 Add new Trivia Question 268 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30832) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-23 | 🥇 | [[good first issue] 🐡 Add new Japanese Proverb 359 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30831) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-23 | 🥇 | [feat(slack-bot): support Claude Agent harness and make it the Slack default](https://github.com/ColeMurray/background-agents/issues/2044) | `ColeMurray/background-agents` | ⭐ 3.3k |
@@ -99,8 +104,3 @@
 | 2026-09-21 | 🥇 | [[good first issue] 🎎 Add new Example Sentence 767 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30688) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-21 | 🥇 | [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/22036) | `PipedreamHQ/pipedream` | ⭐ 11.7k |
 | 2026-09-21 | 🥇 | [[good first issue] 🐉 Add new Community Note Line #28 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30676) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-21 | 🥇 | [feat: 建议增加微信公众号数据获取功能](https://github.com/leaperone/MultiPost-Extension/issues/235) | `leaperone/MultiPost-Extension` | ⭐ 3.5k |
-| 2026-09-21 | 🥇 | [Neo.toolbar.Paging has no coverage, and its page maths has edges](https://github.com/neomjs/neo/issues/19038) | `neomjs/neo` | ⭐ 3.3k |
-| 2026-09-21 | 🥈 | [[good first issue] 🐉 Add new Example Sentence 399 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30675) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-21 | 🥈 | [feat: 有一个bug，如果提交到youtube，无法分辨视频的尺寸，导致无法自动选择分类，造成上传错误提示](https://github.com/leaperone/MultiPost-Extension/issues/234) | `leaperone/MultiPost-Extension` | ⭐ 3.5k |
-| 2026-09-21 | 🥈 | [[Discussion]: The DeepSeek model fails to identify everything, so manual additio](https://github.com/CherryHQ/cherry-studio/issues/20904) | `CherryHQ/cherry-studio` | ⭐ 52.0k |
