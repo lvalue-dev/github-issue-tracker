@@ -4,6 +4,21 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-23 | 🥇 | [[good first issue] 🗻 Add new Trivia Question 268 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30832) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-23 | 🥇 | [[good first issue] 🐡 Add new Japanese Proverb 359 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30831) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-23 | 🥇 | [feat(slack-bot): support Claude Agent harness and make it the Slack default](https://github.com/ColeMurray/background-agents/issues/2044) | `ColeMurray/background-agents` | ⭐ 3.3k |
+| 2026-09-23 | 🥇 | [[good first issue] 🌋 Add new Japan Fact 870 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30830) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-23 | 🥇 | [[good first issue] 🍶 Add new Theme: Wasabi Punch (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30829) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-23 | 🥇 | [A number field holding 0 hides its clear button](https://github.com/neomjs/neo/issues/19143) | `neomjs/neo` | ⭐ 3.3k |
+| 2026-09-23 | 🥇 | [Pin which events the calendar's getDayRecords returns for a day](https://github.com/neomjs/neo/issues/19140) | `neomjs/neo` | ⭐ 3.3k |
+| 2026-09-23 | 🥇 | [Pin the icon, icon-link and LinkedIn grid columns](https://github.com/neomjs/neo/issues/19137) | `neomjs/neo` | ⭐ 3.3k |
+| 2026-09-23 | 🥇 | [Pin the ways ClassSystem.beforeSetInstance turns a config into an instance](https://github.com/neomjs/neo/issues/19134) | `neomjs/neo` | ⭐ 3.3k |
+| 2026-09-23 | 🥇 | [Pin Neo.util.Performance: timing samples, averages and the sample window](https://github.com/neomjs/neo/issues/19133) | `neomjs/neo` | ⭐ 3.3k |
+| 2026-09-23 | 🥇 | [Pin HashHistory: one route stack per browser window](https://github.com/neomjs/neo/issues/19132) | `neomjs/neo` | ⭐ 3.3k |
+| 2026-09-23 | 🥇 | [ClassHierarchy.isA answers false for ancestors above Neo.component.Base](https://github.com/neomjs/neo/issues/19130) | `neomjs/neo` | ⭐ 3.3k |
+| 2026-09-23 | 🥇 | [Pin how the currency field parses and renders amounts](https://github.com/neomjs/neo/issues/19129) | `neomjs/neo` | ⭐ 3.3k |
+| 2026-09-23 | 🥇 | [Fix examples using `.list-unstyled` (with no more `margin-bottom`)](https://github.com/Orange-OpenSource/Orange-Boosted-Bootstrap/issues/3831) | `Orange-OpenSource/Orange-Boosted-Bootstrap` | ⭐ 219 |
+| 2026-09-23 | 🥇 | [[Feature]: Export log as text to only contain log lines](https://github.com/rootprint/rootprint/issues/118) | `rootprint/rootprint` | ⭐ 411 |
 | 2026-09-23 | 🥇 | [Verify six browser-agent listings against their source projects](https://github.com/AbdelStark/awesome-typesafe-jev/issues/113) | `AbdelStark/awesome-typesafe-jev` | ⭐ 487 |
 | 2026-09-23 | 🥈 | [[Bug] Empty state "No matching integrations" text is truncated/pushed off-screen](https://github.com/layer5io/layer5/issues/8121) | `layer5io/layer5` | ⭐ 1.1k |
 | 2026-09-23 | 🥈 | [[Bug] CTA Book section "Learn More" button overflows container and overlaps foot](https://github.com/layer5io/layer5/issues/8120) | `layer5io/layer5` | ⭐ 1.1k |
@@ -89,18 +104,3 @@
 | 2026-09-21 | 🥈 | [[good first issue] 🐉 Add new Example Sentence 399 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30675) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-21 | 🥈 | [feat: 有一个bug，如果提交到youtube，无法分辨视频的尺寸，导致无法自动选择分类，造成上传错误提示](https://github.com/leaperone/MultiPost-Extension/issues/234) | `leaperone/MultiPost-Extension` | ⭐ 3.5k |
 | 2026-09-21 | 🥈 | [[Discussion]: The DeepSeek model fails to identify everything, so manual additio](https://github.com/CherryHQ/cherry-studio/issues/20904) | `CherryHQ/cherry-studio` | ⭐ 52.0k |
-| 2026-09-21 | 🥈 | [[good first issue] 🎎 Add new False Friend Pair 840 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30672) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-21 | 🥈 | [Add: Dahua DH-PA269-L](https://github.com/ch-bas/cctv-camera-database/issues/378) | `ch-bas/cctv-camera-database` | ⭐ 250 |
-| 2026-09-21 | 🥈 | [Add: Dahua DH-PT249-L](https://github.com/ch-bas/cctv-camera-database/issues/377) | `ch-bas/cctv-camera-database` | ⭐ 250 |
-| 2026-09-21 | 🥉 | [Docs: state the minimum browser versions, measured per engine](https://github.com/ulsklyc/yuvomi/issues/1369) | `ulsklyc/yuvomi` | ⭐ 1.5k |
-| 2026-09-21 | 🥇 | [[good first issue] 🍵 Add new Japanese Idiom 1133 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30648) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-21 | 🥇 | [🐞Play Video From Beginning](https://github.com/code-charity/youtube/issues/4349) | `code-charity/youtube` | ⭐ 4.6k |
-| 2026-09-21 | 🥇 | [[good first issue] 🀄 Add new Grammar Point 960 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30645) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-21 | 🥈 | [[good first issue] 🍛 Add new Japanese Proverb 513 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30644) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-21 | 🥈 | [[good first issue] 🎴 Add new Japan Fact 2270 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30643) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-21 | 🥈 | [[good first issue] 🍛 Add new Theme: Firefly Field (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30642) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-21 | 🥈 | [[good first issue] ⛩️ Add new Wallpaper URL #28 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30641) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-21 | 🥈 | [[good first issue] 🎍 Add new Learner Mistake 386 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30640) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-21 | 🥈 | [[good first issue] 🦑 Add new Example Sentence 1065 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30639) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-21 | 🥇 | [[BUG] Built-in ignore rules ending in a wildcard (**/npm-debug.log*, **/repomix-](https://github.com/yamadashy/repomix/issues/1876) | `yamadashy/repomix` | ⭐ 28.4k |
-| 2026-09-21 | 🥇 | [[good first issue] 🐡 Add new Etiquette Tip 759 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30638) | `lingdojo/kana-dojo` | ⭐ 3.4k |
