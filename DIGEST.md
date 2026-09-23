@@ -4,6 +4,15 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-23 | 🥇 | [Verify six browser-agent listings against their source projects](https://github.com/AbdelStark/awesome-typesafe-jev/issues/113) | `AbdelStark/awesome-typesafe-jev` | ⭐ 487 |
+| 2026-09-23 | 🥈 | [[Bug] Empty state "No matching integrations" text is truncated/pushed off-screen](https://github.com/layer5io/layer5/issues/8121) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-23 | 🥈 | [[Bug] CTA Book section "Learn More" button overflows container and overlaps foot](https://github.com/layer5io/layer5/issues/8120) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-23 | 🥈 | [[Bug] DataCard checklist items overlap, wrap awkwardly, and icons shrink on tabl](https://github.com/layer5io/layer5/issues/8119) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-23 | 🥈 | [[Bug] Background gradient splits horizontally across text on tablet viewports (i](https://github.com/layer5io/layer5/issues/8118) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-23 | 🥈 | [Create test workflow to check redirections on new build](https://github.com/libredirect/browser_extension/issues/1162) | `libredirect/browser_extension` | ⭐ 4.1k |
+| 2026-09-23 | 🥉 | [Survey apps, examples and guides since 13.1 for the 13.2 notes](https://github.com/neomjs/neo/issues/19100) | `neomjs/neo` | ⭐ 3.3k |
+| 2026-09-23 | 🥉 | [Survey components, grid and theming since 13.1 for the 13.2 notes](https://github.com/neomjs/neo/issues/19099) | `neomjs/neo` | ⭐ 3.3k |
+| 2026-09-23 | 🥉 | [Survey the engine runtime since 13.1 for the 13.2 notes](https://github.com/neomjs/neo/issues/19098) | `neomjs/neo` | ⭐ 3.3k |
 | 2026-09-23 | 🥇 | [[good first issue] 🍜 Add new Anime Quote 465 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30796) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-23 | 🥇 | [[good first issue] 🌊 Add new Grammar Point 1137 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30795) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-23 | 🥇 | [🐞 "to the left" sidebar not working, along with player size adjustments](https://github.com/code-charity/youtube/issues/4356) | `code-charity/youtube` | ⭐ 4.6k |
@@ -95,12 +104,3 @@
 | 2026-09-21 | 🥈 | [[good first issue] 🦑 Add new Example Sentence 1065 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30639) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-21 | 🥇 | [[BUG] Built-in ignore rules ending in a wildcard (**/npm-debug.log*, **/repomix-](https://github.com/yamadashy/repomix/issues/1876) | `yamadashy/repomix` | ⭐ 28.4k |
 | 2026-09-21 | 🥇 | [[good first issue] 🐡 Add new Etiquette Tip 759 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30638) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-21 | 🥇 | [[good first issue] 🍤 Add new False Friend Pair 593 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30637) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-21 | 🥇 | [[good first issue] 🍥 Add new Dialect Entry 117 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30636) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-21 | 🥇 | [[BUG] .git/info/exclude patterns only apply to the top level of the packed direc](https://github.com/yamadashy/repomix/issues/1870) | `yamadashy/repomix` | ⭐ 28.4k |
-| 2026-09-21 | 🥇 | [[good first issue] 🥢 Add new Japanese Idiom 668 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30635) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-21 | 🥇 | [[good first issue] 🦊 Add new Video Game Quote 236 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30634) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-21 | 🥇 | [[good first issue] 🎴 Add new Anime Quote 1283 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30633) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-21 | 🥉 | [Allow authenticated release checks when GitHub rate-limits updates](https://github.com/AltanS/collie/issues/254) | `AltanS/collie` | ⭐ 1.1k |
-| 2026-09-20 | 🥇 | [[good first issue] 🀄 Add new Grammar Point 265 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30632) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-20 | 🥇 | [[good first issue] 🌸 Add new Japanese Haiku 102 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30631) | `lingdojo/kana-dojo` | ⭐ 3.4k |
