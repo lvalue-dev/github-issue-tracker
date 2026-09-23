@@ -4,6 +4,16 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-23 | 🥇 | [[good first issue] 🌺 Add new Japanese Idiom 368 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30783) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-23 | 🥇 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15438) | `stdlib-js/stdlib` | ⭐ 6.0k |
+| 2026-09-23 | 🥇 | [[good first issue] 🍛 Add new Video Game Quote 1068 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30780) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-23 | 🥇 | [Paging on an empty store: next and last stay enabled, last goes to page 0](https://github.com/neomjs/neo/issues/19062) | `neomjs/neo` | ⭐ 3.3k |
+| 2026-09-23 | 🥇 | [[good first issue] 🍤 Add new Trivia Question 108 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30778) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-23 | 🥇 | [[good first issue] 🗾 Add new Japanese Haiku 124 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30777) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-23 | 🥈 | [ATC: hear the tower for the plane you're tracking](https://github.com/bilawalsidhu/gods-eye-view/issues/715) | `bilawalsidhu/gods-eye-view` | ⭐ 41.3k |
+| 2026-09-23 | 🥈 | [Radio & RF: map it, listen to it, bring your own receiver](https://github.com/bilawalsidhu/gods-eye-view/issues/714) | `bilawalsidhu/gods-eye-view` | ⭐ 41.3k |
+| 2026-09-23 | 🥈 | [[good first issue] 🧧 Add new Japan Fact 895 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30774) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-23 | 🥉 | [The front doors never spell out recursive self-improvement](https://github.com/neomjs/neo/issues/19059) | `neomjs/neo` | ⭐ 3.3k |
 | 2026-09-22 | 🥇 | [feat(byok): support GPT-6 Sol and GPT-6 Luna, new OpenAI models, in TraceRoot BY](https://github.com/traceroot-ai/traceroot/issues/2276) | `traceroot-ai/traceroot` | ⭐ 775 |
 | 2026-09-22 | 🥇 | [[good first issue] 🌺 Add new Theme: Autumn Temple (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30772) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-22 | 🥇 | [[good first issue] 🎴 Add new Learner Mistake 349 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30771) | `lingdojo/kana-dojo` | ⭐ 3.4k |
@@ -94,13 +104,3 @@
 | 2026-09-20 | 🥈 | [[BUG] SchemaDiff emits DEFAULT abc for a MySQL string default, and the server re](https://github.com/libredb/libredb-studio/issues/1031) | `libredb/libredb-studio` | ⭐ 754 |
 | 2026-09-20 | 🥉 | [[DOCS] `npm trust circle` docs should warn that OIDC token exchange in SSH rerun](https://github.com/npm/cli/issues/10004) | `npm/cli` | ⭐ 10.1k |
 | 2026-09-20 | 🥉 | [feat(frontend): widen developer docs search beyond an AND of raw substrings](https://github.com/YosemiteCrew/Yosemite-Crew/issues/3377) | `YosemiteCrew/Yosemite-Crew` | ⭐ 2.0k |
-| 2026-09-20 | 🥇 | [[good first issue] 🦑 Add new Etiquette Tip 794 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30624) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-20 | 🥇 | [[good first issue] 🎌 Add new False Friend Pair 581 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30622) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-20 | 🥈 | [[v10] Add v10 migration guide, blog post, and codemod transforms](https://github.com/webdriverio/webdriverio/issues/15664) | `webdriverio/webdriverio` | ⭐ 9.8k |
-| 2026-09-20 | 🥈 | [[v10] Remove Firefox profile legacy option](https://github.com/webdriverio/webdriverio/issues/15662) | `webdriverio/webdriverio` | ⭐ 9.8k |
-| 2026-09-20 | 🥈 | [[v10] Remove legacy command signatures](https://github.com/webdriverio/webdriverio/issues/15655) | `webdriverio/webdriverio` | ⭐ 9.8k |
-| 2026-09-20 | 🥈 | [[v10] Remove deprecated commands executeAsync, touchAction, throttle, and public](https://github.com/webdriverio/webdriverio/issues/15654) | `webdriverio/webdriverio` | ⭐ 9.8k |
-| 2026-09-20 | 🥈 | [[v10] Rename WebdriverIO.MultiremoteConfig to MultiRemoteConfig](https://github.com/webdriverio/webdriverio/issues/15652) | `webdriverio/webdriverio` | ⭐ 9.8k |
-| 2026-09-20 | 🥈 | [[v10] Remove runner shims: LegacyCustomStubCommand and setupExpect Map](https://github.com/webdriverio/webdriverio/issues/15651) | `webdriverio/webdriverio` | ⭐ 9.8k |
-| 2026-09-20 | 🥈 | [[🐛 Bug]: Website chatbot responsiveness](https://github.com/webdriverio/webdriverio/issues/15645) | `webdriverio/webdriverio` | ⭐ 9.8k |
-| 2026-09-20 | 🥈 | [Bounty: hunt bugs across the entire Vista framework](https://github.com/Mantitup-Org/vista/issues/61) | `Mantitup-Org/vista` | ⭐ 2.4k |
