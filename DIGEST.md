@@ -4,6 +4,13 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-24 | 🥇 | [[Bug]: roundToCurrencyPrecision breaks under non-en locales and zero-decimal cur](https://github.com/medusajs/medusa/issues/16974) | `medusajs/medusa` | ⭐ 36.4k |
+| 2026-09-24 | 🥇 | [[good first issue] 🧧 Add new Japan Fact 2449 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30908) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-24 | 🥇 | [[good first issue] 🎍 Add new Theme: Kintsugi Gold (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30907) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-24 | 🥈 | [[good first issue] 🍚 Add new Learner Mistake 1083 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30905) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-24 | 🥈 | [[good first issue] 🍣 Add new Example Sentence 775 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30904) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-24 | 🥈 | [[Website] Add a page title and improve the header description on the Recognition](https://github.com/meshery/meshery.io/issues/3015) | `meshery/meshery.io` | ⭐ 867 |
+| 2026-09-24 | 🥈 | [[good first issue] 🍙 Add new Etiquette Tip 554 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30902) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-24 | 🥇 | [[good first issue] 🦊 Add new Video Game Quote 155 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30895) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-24 | 🥇 | [[good first issue] 🌋 Add new Grammar Point 670 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30894) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-24 | 🥇 | [[good first issue] 🏯 Add new Trivia Question 351 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30892) | `lingdojo/kana-dojo` | ⭐ 3.5k |
@@ -97,10 +104,3 @@
 | 2026-09-23 | 🥈 | [Stabilize the Safari dialog tests that check the leave state after Close](https://github.com/ariakit/ariakit/issues/7603) | `ariakit/ariakit` | ⭐ 8.6k |
 | 2026-09-23 | 🥉 | [security-advisory: the GHSA draft-card title copies the advisory summary onto th](https://github.com/modelcontextprotocol/inspector/issues/2457) | `modelcontextprotocol/inspector` | ⭐ 10.9k |
 | 2026-09-23 | 🥇 | [[good first issue] 🌺 Add new Japanese Idiom 368 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30783) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-23 | 🥇 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15438) | `stdlib-js/stdlib` | ⭐ 6.0k |
-| 2026-09-23 | 🥇 | [[good first issue] 🍛 Add new Video Game Quote 1068 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30780) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-23 | 🥇 | [Paging on an empty store: next and last stay enabled, last goes to page 0](https://github.com/neomjs/neo/issues/19062) | `neomjs/neo` | ⭐ 3.3k |
-| 2026-09-23 | 🥇 | [[good first issue] 🍤 Add new Trivia Question 108 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30778) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-23 | 🥇 | [[good first issue] 🗾 Add new Japanese Haiku 124 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30777) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-23 | 🥈 | [ATC: hear the tower for the plane you're tracking](https://github.com/bilawalsidhu/gods-eye-view/issues/715) | `bilawalsidhu/gods-eye-view` | ⭐ 41.3k |
-| 2026-09-23 | 🥈 | [Radio & RF: map it, listen to it, bring your own receiver](https://github.com/bilawalsidhu/gods-eye-view/issues/714) | `bilawalsidhu/gods-eye-view` | ⭐ 41.3k |

@@ -1,5 +1,160 @@
 [
   {
+    "key": "medusajs/medusa#16974",
+    "tier": 1,
+    "repo": "medusajs/medusa",
+    "number": 16974,
+    "title": "[Bug]: roundToCurrencyPrecision breaks under non-en locales and zero-decimal currencies",
+    "url": "https://github.com/medusajs/medusa/issues/16974",
+    "comments": 1,
+    "createdAt": "2026-09-24T19:04:55Z",
+    "labels": [
+      "good first issue",
+      "type: bug",
+      "status: needs triaging",
+      "version: 2.0"
+    ],
+    "language": "typescript",
+    "stars": 36448,
+    "foundAt": "2026-09-24T19:20:23.797Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30908",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30908,
+    "title": "[good first issue] 🧧 Add new Japan Fact 2449 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30908",
+    "comments": 1,
+    "createdAt": "2026-09-24T19:00:58Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-24T19:20:24.082Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30907",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30907,
+    "title": "[good first issue] 🎍 Add new Theme: Kintsugi Gold (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30907",
+    "comments": 1,
+    "createdAt": "2026-09-24T18:57:33Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-24T19:20:24.374Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30905",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30905,
+    "title": "[good first issue] 🍚 Add new Learner Mistake 1083 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30905",
+    "comments": 1,
+    "createdAt": "2026-09-24T18:01:08Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-24T19:20:27.865Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30904",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30904,
+    "title": "[good first issue] 🍣 Add new Example Sentence 775 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30904",
+    "comments": 1,
+    "createdAt": "2026-09-24T17:57:34Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-24T19:20:27.865Z"
+  },
+  {
+    "key": "meshery/meshery.io#3015",
+    "tier": 2,
+    "repo": "meshery/meshery.io",
+    "number": 3015,
+    "title": "[Website] Add a page title and improve the header description on the Recognition page",
+    "url": "https://github.com/meshery/meshery.io/issues/3015",
+    "comments": 2,
+    "createdAt": "2026-09-24T17:48:32Z",
+    "labels": [
+      "help wanted",
+      "language/javascript",
+      "framework/jekyll",
+      "language/markdown",
+      "area/website",
+      "language/css"
+    ],
+    "language": "javascript",
+    "stars": 867,
+    "foundAt": "2026-09-24T19:20:28.880Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30902",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30902,
+    "title": "[good first issue] 🍙 Add new Etiquette Tip 554 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30902",
+    "comments": 1,
+    "createdAt": "2026-09-24T17:01:00Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-24T19:20:28.649Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30895",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1825,142 +1980,5 @@
     "language": "typescript",
     "stars": 3404,
     "foundAt": "2026-09-23T00:45:50.605Z"
-  },
-  {
-    "key": "stdlib-js/stdlib#15438",
-    "tier": 1,
-    "repo": "stdlib-js/stdlib",
-    "number": 15438,
-    "title": "Fix JavaScript lint errors",
-    "url": "https://github.com/stdlib-js/stdlib/issues/15438",
-    "comments": 1,
-    "createdAt": "2026-09-23T00:12:16Z",
-    "labels": [
-      "Good First Issue"
-    ],
-    "language": "javascript",
-    "stars": 5968,
-    "foundAt": "2026-09-23T00:45:51.286Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30780",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30780,
-    "title": "[good first issue] 🍛 Add new Video Game Quote 1068 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30780",
-    "comments": 1,
-    "createdAt": "2026-09-23T00:01:04Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-23T00:45:50.828Z"
-  },
-  {
-    "key": "neomjs/neo#19062",
-    "tier": 1,
-    "repo": "neomjs/neo",
-    "number": 19062,
-    "title": "Paging on an empty store: next and last stay enabled, last goes to page 0",
-    "url": "https://github.com/neomjs/neo/issues/19062",
-    "comments": 0,
-    "createdAt": "2026-09-22T23:03:00Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "ai"
-    ],
-    "language": "javascript",
-    "stars": 3280,
-    "foundAt": "2026-09-23T00:45:51.532Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30778",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30778,
-    "title": "[good first issue] 🍤 Add new Trivia Question 108 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30778",
-    "comments": 1,
-    "createdAt": "2026-09-22T23:01:00Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-23T00:45:51.286Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30777",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30777,
-    "title": "[good first issue] 🗾 Add new Japanese Haiku 124 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30777",
-    "comments": 1,
-    "createdAt": "2026-09-22T22:37:31Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-23T00:45:51.286Z"
-  },
-  {
-    "key": "bilawalsidhu/gods-eye-view#715",
-    "tier": 2,
-    "repo": "bilawalsidhu/gods-eye-view",
-    "number": 715,
-    "title": "ATC: hear the tower for the plane you're tracking",
-    "url": "https://github.com/bilawalsidhu/gods-eye-view/issues/715",
-    "comments": 0,
-    "createdAt": "2026-09-23T00:16:58Z",
-    "labels": [
-      "enhancement",
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 41307,
-    "foundAt": "2026-09-23T00:45:53.813Z"
-  },
-  {
-    "key": "bilawalsidhu/gods-eye-view#714",
-    "tier": 2,
-    "repo": "bilawalsidhu/gods-eye-view",
-    "number": 714,
-    "title": "Radio & RF: map it, listen to it, bring your own receiver",
-    "url": "https://github.com/bilawalsidhu/gods-eye-view/issues/714",
-    "comments": 0,
-    "createdAt": "2026-09-23T00:16:49Z",
-    "labels": [
-      "enhancement",
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 41307,
-    "foundAt": "2026-09-23T00:45:53.813Z"
   }
 ]
