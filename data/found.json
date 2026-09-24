@@ -1,5 +1,202 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30895",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30895,
+    "title": "[good first issue] 🦊 Add new Video Game Quote 155 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30895",
+    "comments": 1,
+    "createdAt": "2026-09-24T15:01:06Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-24T15:18:07.718Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30894",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30894,
+    "title": "[good first issue] 🌋 Add new Grammar Point 670 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30894",
+    "comments": 1,
+    "createdAt": "2026-09-24T14:57:30Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-24T15:18:07.718Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30892",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30892,
+    "title": "[good first issue] 🏯 Add new Trivia Question 351 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30892",
+    "comments": 1,
+    "createdAt": "2026-09-24T14:01:08Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-24T15:18:08.680Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30891",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30891,
+    "title": "[good first issue] 🥟 Add new Japanese Proverb 1606 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30891",
+    "comments": 1,
+    "createdAt": "2026-09-24T13:57:32Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-24T15:18:09.131Z"
+  },
+  {
+    "key": "VoidenHQ/voiden#567",
+    "tier": 1,
+    "repo": "VoidenHQ/voiden",
+    "number": 567,
+    "title": "[Bug] Local commit creates an empty commit when the repository is not initialized",
+    "url": "https://github.com/VoidenHQ/voiden/issues/567",
+    "comments": 0,
+    "createdAt": "2026-09-24T13:34:46Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "up-for-grabs"
+    ],
+    "language": "typescript",
+    "stars": 1786,
+    "foundAt": "2026-09-24T15:18:09.672Z"
+  },
+  {
+    "key": "openzim/mwoffliner#2908",
+    "tier": 1,
+    "repo": "openzim/mwoffliner",
+    "number": 2908,
+    "title": "Always set flavour metadata",
+    "url": "https://github.com/openzim/mwoffliner/issues/2908",
+    "comments": 0,
+    "createdAt": "2026-09-24T13:28:17Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 486,
+    "foundAt": "2026-09-24T15:18:09.915Z"
+  },
+  {
+    "key": "layer5io/layer5#8123",
+    "tier": 2,
+    "repo": "layer5io/layer5",
+    "number": 8123,
+    "title": "[UI]: MeshMate logo disappears to the left on the MeshMates page",
+    "url": "https://github.com/layer5io/layer5/issues/8123",
+    "comments": 1,
+    "createdAt": "2026-09-24T13:57:25Z",
+    "labels": [
+      "kind/bug",
+      "help wanted",
+      "framework/gatsby"
+    ],
+    "language": "javascript",
+    "stars": 1124,
+    "foundAt": "2026-09-24T15:18:11.499Z"
+  },
+  {
+    "key": "meshery/meshery.io#3012",
+    "tier": 2,
+    "repo": "meshery/meshery.io",
+    "number": 3012,
+    "title": "Duplicate `loadedScripts` declaration causes JavaScript syntax errors on WebAssembly catalog page",
+    "url": "https://github.com/meshery/meshery.io/issues/3012",
+    "comments": 1,
+    "createdAt": "2026-09-24T12:17:40Z",
+    "labels": [
+      "kind/bug",
+      "help wanted"
+    ],
+    "language": "javascript",
+    "stars": 867,
+    "foundAt": "2026-09-24T15:18:11.985Z"
+  },
+  {
+    "key": "mui/base-ui#5794",
+    "tier": 3,
+    "repo": "mui/base-ui",
+    "number": 5794,
+    "title": "[menu] iPhone VoiceOver closes entire menu after last submenu item",
+    "url": "https://github.com/mui/base-ui/issues/5794",
+    "comments": 0,
+    "createdAt": "2026-09-24T14:49:21Z",
+    "labels": [
+      "component: menu",
+      "type: bug",
+      "accessibility",
+      "browser: Safari"
+    ],
+    "language": "typescript",
+    "stars": 10984,
+    "foundAt": "2026-09-24T15:18:15.270Z"
+  },
+  {
+    "key": "Pasta-Devs/Marinara-Engine#6619",
+    "tier": 3,
+    "repo": "Pasta-Devs/Marinara-Engine",
+    "number": 6619,
+    "title": "[docs-i18n] docs/roleplay/getting-started.md whisper command",
+    "url": "https://github.com/Pasta-Devs/Marinara-Engine/issues/6619",
+    "comments": 0,
+    "createdAt": "2026-09-24T14:45:57Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "typescript",
+    "stars": 666,
+    "foundAt": "2026-09-24T15:18:15.518Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30878",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1765,219 +1962,5 @@
     "language": "javascript",
     "stars": 41307,
     "foundAt": "2026-09-23T00:45:53.813Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30774",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30774,
-    "title": "[good first issue] 🧧 Add new Japan Fact 895 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30774",
-    "comments": 1,
-    "createdAt": "2026-09-22T21:37:32Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-23T00:45:53.644Z"
-  },
-  {
-    "key": "neomjs/neo#19059",
-    "tier": 3,
-    "repo": "neomjs/neo",
-    "number": 19059,
-    "title": "The front doors never spell out recursive self-improvement",
-    "url": "https://github.com/neomjs/neo/issues/19059",
-    "comments": 1,
-    "createdAt": "2026-09-22T22:48:57Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "ai"
-    ],
-    "language": "javascript",
-    "stars": 3280,
-    "foundAt": "2026-09-23T00:45:56.291Z"
-  },
-  {
-    "key": "traceroot-ai/traceroot#2276",
-    "tier": 1,
-    "repo": "traceroot-ai/traceroot",
-    "number": 2276,
-    "title": "feat(byok): support GPT-6 Sol and GPT-6 Luna, new OpenAI models, in TraceRoot BYOK modules",
-    "url": "https://github.com/traceroot-ai/traceroot/issues/2276",
-    "comments": 0,
-    "createdAt": "2026-09-22T21:08:25Z",
-    "labels": [
-      "enhancement",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 775,
-    "foundAt": "2026-09-22T21:30:45.600Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30772",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30772,
-    "title": "[good first issue] 🌺 Add new Theme: Autumn Temple (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30772",
-    "comments": 1,
-    "createdAt": "2026-09-22T21:01:01Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-22T21:30:45.600Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30771",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30771,
-    "title": "[good first issue] 🎴 Add new Learner Mistake 349 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30771",
-    "comments": 1,
-    "createdAt": "2026-09-22T20:37:31Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-22T21:30:45.600Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30770",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30770,
-    "title": "[good first issue] 🎐 Add new Etiquette Tip 731 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30770",
-    "comments": 1,
-    "createdAt": "2026-09-22T20:01:02Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-22T21:30:46.190Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30769",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30769,
-    "title": "[good first issue] 🌋 Add new False Friend Pair 884 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30769",
-    "comments": 1,
-    "createdAt": "2026-09-22T19:37:28Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-22T21:30:47.090Z"
-  },
-  {
-    "key": "libredb/libredb-studio#1080",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 1080,
-    "title": "Schema Diff's migration copy button scrolls away with a long migration",
-    "url": "https://github.com/libredb/libredb-studio/issues/1080",
-    "comments": 1,
-    "createdAt": "2026-09-22T19:32:50Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 754,
-    "foundAt": "2026-09-22T21:30:47.090Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30768",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30768,
-    "title": "[good first issue] 🏮 Add new Dialect Entry 290 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30768",
-    "comments": 1,
-    "createdAt": "2026-09-22T19:01:08Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-22T21:30:47.458Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30767",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30767,
-    "title": "[good first issue] 🎍 Add new Japanese Idiom 778 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30767",
-    "comments": 1,
-    "createdAt": "2026-09-22T18:37:30Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-22T21:30:47.458Z"
   }
 ]

@@ -4,6 +4,16 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-24 | 🥇 | [[good first issue] 🦊 Add new Video Game Quote 155 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30895) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-24 | 🥇 | [[good first issue] 🌋 Add new Grammar Point 670 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30894) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-24 | 🥇 | [[good first issue] 🏯 Add new Trivia Question 351 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30892) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-24 | 🥇 | [[good first issue] 🥟 Add new Japanese Proverb 1606 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30891) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-24 | 🥇 | [[Bug] Local commit creates an empty commit when the repository is not initialize](https://github.com/VoidenHQ/voiden/issues/567) | `VoidenHQ/voiden` | ⭐ 1.8k |
+| 2026-09-24 | 🥇 | [Always set flavour metadata](https://github.com/openzim/mwoffliner/issues/2908) | `openzim/mwoffliner` | ⭐ 486 |
+| 2026-09-24 | 🥈 | [[UI]: MeshMate logo disappears to the left on the MeshMates page](https://github.com/layer5io/layer5/issues/8123) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-24 | 🥈 | [Duplicate `loadedScripts` declaration causes JavaScript syntax errors on WebAsse](https://github.com/meshery/meshery.io/issues/3012) | `meshery/meshery.io` | ⭐ 867 |
+| 2026-09-24 | 🥉 | [[menu] iPhone VoiceOver closes entire menu after last submenu item](https://github.com/mui/base-ui/issues/5794) | `mui/base-ui` | ⭐ 11.0k |
+| 2026-09-24 | 🥉 | [[docs-i18n] docs/roleplay/getting-started.md whisper command](https://github.com/Pasta-Devs/Marinara-Engine/issues/6619) | `Pasta-Devs/Marinara-Engine` | ⭐ 666 |
 | 2026-09-24 | 🥇 | [[good first issue] 🎑 Add new Japanese Idiom 484 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30878) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-24 | 🥇 | [[good first issue] 🐉 Add new Video Game Quote 735 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30877) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-24 | 🥇 | [Add shadcn and prompt tabs to the install command block](https://github.com/shadcn-labs/ogimagecn/issues/55) | `shadcn-labs/ogimagecn` | ⭐ 229 |
@@ -94,13 +104,3 @@
 | 2026-09-23 | 🥇 | [[good first issue] 🗾 Add new Japanese Haiku 124 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30777) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-23 | 🥈 | [ATC: hear the tower for the plane you're tracking](https://github.com/bilawalsidhu/gods-eye-view/issues/715) | `bilawalsidhu/gods-eye-view` | ⭐ 41.3k |
 | 2026-09-23 | 🥈 | [Radio & RF: map it, listen to it, bring your own receiver](https://github.com/bilawalsidhu/gods-eye-view/issues/714) | `bilawalsidhu/gods-eye-view` | ⭐ 41.3k |
-| 2026-09-23 | 🥈 | [[good first issue] 🧧 Add new Japan Fact 895 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30774) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-23 | 🥉 | [The front doors never spell out recursive self-improvement](https://github.com/neomjs/neo/issues/19059) | `neomjs/neo` | ⭐ 3.3k |
-| 2026-09-22 | 🥇 | [feat(byok): support GPT-6 Sol and GPT-6 Luna, new OpenAI models, in TraceRoot BY](https://github.com/traceroot-ai/traceroot/issues/2276) | `traceroot-ai/traceroot` | ⭐ 775 |
-| 2026-09-22 | 🥇 | [[good first issue] 🌺 Add new Theme: Autumn Temple (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30772) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-22 | 🥇 | [[good first issue] 🎴 Add new Learner Mistake 349 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30771) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-22 | 🥇 | [[good first issue] 🎐 Add new Etiquette Tip 731 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30770) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-22 | 🥇 | [[good first issue] 🌋 Add new False Friend Pair 884 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30769) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-22 | 🥇 | [Schema Diff's migration copy button scrolls away with a long migration](https://github.com/libredb/libredb-studio/issues/1080) | `libredb/libredb-studio` | ⭐ 754 |
-| 2026-09-22 | 🥇 | [[good first issue] 🏮 Add new Dialect Entry 290 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30768) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-22 | 🥇 | [[good first issue] 🎍 Add new Japanese Idiom 778 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30767) | `lingdojo/kana-dojo` | ⭐ 3.4k |
