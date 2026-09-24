@@ -1,5 +1,394 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30916",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30916,
+    "title": "[good first issue] 🎋 Add new False Friend Pair 1070 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30916",
+    "comments": 1,
+    "createdAt": "2026-09-24T22:00:55Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-24T22:34:18.386Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30915",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30915,
+    "title": "[good first issue] 🍜 Add new Japanese Idiom 550 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30915",
+    "comments": 1,
+    "createdAt": "2026-09-24T21:57:29Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-24T22:34:18.386Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30914",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30914,
+    "title": "[good first issue] 🍜 Add new Video Game Quote 1022 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30914",
+    "comments": 1,
+    "createdAt": "2026-09-24T21:01:04Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-24T22:34:18.386Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30913",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30913,
+    "title": "[good first issue] 🍚 Add new Anime Quote 697 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30913",
+    "comments": 1,
+    "createdAt": "2026-09-24T20:58:39Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-24T22:34:18.386Z"
+  },
+  {
+    "key": "shadcn-labs/pdfcn#76",
+    "tier": 1,
+    "repo": "shadcn-labs/pdfcn",
+    "number": 76,
+    "title": "component: Barcode",
+    "url": "https://github.com/shadcn-labs/pdfcn/issues/76",
+    "comments": 0,
+    "createdAt": "2026-09-24T20:33:18Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 2142,
+    "foundAt": "2026-09-24T22:34:18.861Z"
+  },
+  {
+    "key": "shadcn-labs/pdfcn#75",
+    "tier": 1,
+    "repo": "shadcn-labs/pdfcn",
+    "number": 75,
+    "title": "component: Timeline",
+    "url": "https://github.com/shadcn-labs/pdfcn/issues/75",
+    "comments": 0,
+    "createdAt": "2026-09-24T20:33:16Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 2142,
+    "foundAt": "2026-09-24T22:34:18.861Z"
+  },
+  {
+    "key": "shadcn-labs/pdfcn#74",
+    "tier": 1,
+    "repo": "shadcn-labs/pdfcn",
+    "number": 74,
+    "title": "component: Progress",
+    "url": "https://github.com/shadcn-labs/pdfcn/issues/74",
+    "comments": 0,
+    "createdAt": "2026-09-24T20:33:14Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 2142,
+    "foundAt": "2026-09-24T22:34:18.861Z"
+  },
+  {
+    "key": "shadcn-labs/pdfcn#73",
+    "tier": 1,
+    "repo": "shadcn-labs/pdfcn",
+    "number": 73,
+    "title": "component: Stats",
+    "url": "https://github.com/shadcn-labs/pdfcn/issues/73",
+    "comments": 0,
+    "createdAt": "2026-09-24T20:33:13Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 2142,
+    "foundAt": "2026-09-24T22:34:18.861Z"
+  },
+  {
+    "key": "shadcn-labs/pdfcn#72",
+    "tier": 1,
+    "repo": "shadcn-labs/pdfcn",
+    "number": 72,
+    "title": "component: Totals",
+    "url": "https://github.com/shadcn-labs/pdfcn/issues/72",
+    "comments": 0,
+    "createdAt": "2026-09-24T20:33:11Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 2142,
+    "foundAt": "2026-09-24T22:34:18.861Z"
+  },
+  {
+    "key": "shadcn-labs/pdfcn#71",
+    "tier": 1,
+    "repo": "shadcn-labs/pdfcn",
+    "number": 71,
+    "title": "component: Addresses",
+    "url": "https://github.com/shadcn-labs/pdfcn/issues/71",
+    "comments": 0,
+    "createdAt": "2026-09-24T20:33:09Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 2142,
+    "foundAt": "2026-09-24T22:34:18.861Z"
+  },
+  {
+    "key": "shadcn-labs/pdfcn#70",
+    "tier": 1,
+    "repo": "shadcn-labs/pdfcn",
+    "number": 70,
+    "title": "component: Columns",
+    "url": "https://github.com/shadcn-labs/pdfcn/issues/70",
+    "comments": 0,
+    "createdAt": "2026-09-24T20:33:07Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 2142,
+    "foundAt": "2026-09-24T22:34:18.861Z"
+  },
+  {
+    "key": "shadcn-labs/pdfcn#69",
+    "tier": 1,
+    "repo": "shadcn-labs/pdfcn",
+    "number": 69,
+    "title": "component: Spacer",
+    "url": "https://github.com/shadcn-labs/pdfcn/issues/69",
+    "comments": 0,
+    "createdAt": "2026-09-24T20:33:05Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 2142,
+    "foundAt": "2026-09-24T22:34:18.861Z"
+  },
+  {
+    "key": "shadcn-labs/pdfcn#68",
+    "tier": 1,
+    "repo": "shadcn-labs/pdfcn",
+    "number": 68,
+    "title": "component: Code",
+    "url": "https://github.com/shadcn-labs/pdfcn/issues/68",
+    "comments": 0,
+    "createdAt": "2026-09-24T20:33:04Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 2142,
+    "foundAt": "2026-09-24T22:34:18.861Z"
+  },
+  {
+    "key": "shadcn-labs/pdfcn#67",
+    "tier": 1,
+    "repo": "shadcn-labs/pdfcn",
+    "number": 67,
+    "title": "component: Quote",
+    "url": "https://github.com/shadcn-labs/pdfcn/issues/67",
+    "comments": 0,
+    "createdAt": "2026-09-24T20:33:02Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 2142,
+    "foundAt": "2026-09-24T22:34:18.861Z"
+  },
+  {
+    "key": "shadcn-labs/pdfcn#66",
+    "tier": 1,
+    "repo": "shadcn-labs/pdfcn",
+    "number": 66,
+    "title": "component: Title",
+    "url": "https://github.com/shadcn-labs/pdfcn/issues/66",
+    "comments": 0,
+    "createdAt": "2026-09-24T20:32:59Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 2142,
+    "foundAt": "2026-09-24T22:34:18.861Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30912",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30912,
+    "title": "[good first issue] 🎐 Add new Trivia Question 549 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30912",
+    "comments": 1,
+    "createdAt": "2026-09-24T20:01:00Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-24T22:34:19.206Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30911",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30911,
+    "title": "[good first issue] 🗻 Add new Japanese Proverb 1237 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30911",
+    "comments": 1,
+    "createdAt": "2026-09-24T19:58:04Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-24T22:34:19.206Z"
+  },
+  {
+    "key": "medusajs/medusa#16978",
+    "tier": 1,
+    "repo": "medusajs/medusa",
+    "number": 16978,
+    "title": "[Bug]: getWebhookActionAndData crashes with TypeError on non-string provider",
+    "url": "https://github.com/medusajs/medusa/issues/16978",
+    "comments": 1,
+    "createdAt": "2026-09-24T19:56:49Z",
+    "labels": [
+      "good first issue",
+      "type: bug",
+      "status: needs triaging",
+      "version: 2.0"
+    ],
+    "language": "typescript",
+    "stars": 36448,
+    "foundAt": "2026-09-24T22:34:19.206Z"
+  },
+  {
+    "key": "traceroot-ai/traceroot#2341",
+    "tier": 2,
+    "repo": "traceroot-ai/traceroot",
+    "number": 2341,
+    "title": "Trace Jev (TypeSafe) as a model provider in the Python and TypeScript SDKs",
+    "url": "https://github.com/traceroot-ai/traceroot/issues/2341",
+    "comments": 2,
+    "createdAt": "2026-09-24T21:46:50Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "needs approval"
+    ],
+    "language": "typescript",
+    "stars": 775,
+    "foundAt": "2026-09-24T22:34:20.231Z"
+  },
+  {
+    "key": "micz/ThunderAI#922",
+    "tier": 3,
+    "repo": "micz/ThunderAI",
+    "number": 922,
+    "title": "Add an enterprise policies doc to ThunderAI page on micz.it",
+    "url": "https://github.com/micz/ThunderAI/issues/922",
+    "comments": 1,
+    "createdAt": "2026-09-24T20:36:10Z",
+    "labels": [
+      "docs"
+    ],
+    "language": "javascript",
+    "stars": 345,
+    "foundAt": "2026-09-24T22:34:25.016Z"
+  },
+  {
     "key": "medusajs/medusa#16974",
     "tier": 1,
     "repo": "medusajs/medusa",
@@ -1597,388 +1986,5 @@
     "language": "javascript",
     "stars": 3280,
     "foundAt": "2026-09-23T17:17:58.315Z"
-  },
-  {
-    "key": "neomjs/neo#19130",
-    "tier": 1,
-    "repo": "neomjs/neo",
-    "number": 19130,
-    "title": "ClassHierarchy.isA answers false for ancestors above Neo.component.Base",
-    "url": "https://github.com/neomjs/neo/issues/19130",
-    "comments": 0,
-    "createdAt": "2026-09-23T14:27:05Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "good first issue",
-      "contributor-experience",
-      "hacktoberfest",
-      "ai",
-      "testing"
-    ],
-    "language": "javascript",
-    "stars": 3280,
-    "foundAt": "2026-09-23T17:17:58.315Z"
-  },
-  {
-    "key": "neomjs/neo#19129",
-    "tier": 1,
-    "repo": "neomjs/neo",
-    "number": 19129,
-    "title": "Pin how the currency field parses and renders amounts",
-    "url": "https://github.com/neomjs/neo/issues/19129",
-    "comments": 0,
-    "createdAt": "2026-09-23T14:26:55Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "contributor-experience",
-      "hacktoberfest",
-      "ai",
-      "testing"
-    ],
-    "language": "javascript",
-    "stars": 3280,
-    "foundAt": "2026-09-23T17:17:58.315Z"
-  },
-  {
-    "key": "Orange-OpenSource/Orange-Boosted-Bootstrap#3831",
-    "tier": 1,
-    "repo": "Orange-OpenSource/Orange-Boosted-Bootstrap",
-    "number": 3831,
-    "title": "Fix examples using `.list-unstyled` (with no more `margin-bottom`)",
-    "url": "https://github.com/Orange-OpenSource/Orange-Boosted-Bootstrap/issues/3831",
-    "comments": 0,
-    "createdAt": "2026-09-23T13:05:25Z",
-    "labels": [
-      "🐞 bug",
-      "📖 documentation",
-      "good first issue"
-    ],
-    "language": "css",
-    "stars": 219,
-    "foundAt": "2026-09-23T17:17:59.340Z"
-  },
-  {
-    "key": "rootprint/rootprint#118",
-    "tier": 1,
-    "repo": "rootprint/rootprint",
-    "number": 118,
-    "title": "[Feature]: Export log as text to only contain log lines",
-    "url": "https://github.com/rootprint/rootprint/issues/118",
-    "comments": 1,
-    "createdAt": "2026-09-23T07:52:44Z",
-    "labels": [
-      "enhancement",
-      "good first issue"
-    ],
-    "language": "svelte",
-    "stars": 411,
-    "foundAt": "2026-09-23T17:18:00.074Z"
-  },
-  {
-    "key": "AbdelStark/awesome-typesafe-jev#113",
-    "tier": 1,
-    "repo": "AbdelStark/awesome-typesafe-jev",
-    "number": 113,
-    "title": "Verify six browser-agent listings against their source projects",
-    "url": "https://github.com/AbdelStark/awesome-typesafe-jev/issues/113",
-    "comments": 0,
-    "createdAt": "2026-09-23T06:57:55Z",
-    "labels": [
-      "documentation",
-      "good first issue"
-    ],
-    "language": "html",
-    "stars": 487,
-    "foundAt": "2026-09-23T11:53:05.096Z"
-  },
-  {
-    "key": "layer5io/layer5#8121",
-    "tier": 2,
-    "repo": "layer5io/layer5",
-    "number": 8121,
-    "title": "[Bug] Empty state \"No matching integrations\" text is truncated/pushed off-screen on tablet viewports (991px)",
-    "url": "https://github.com/layer5io/layer5/issues/8121",
-    "comments": 0,
-    "createdAt": "2026-09-23T11:52:46Z",
-    "labels": [
-      "kind/bug",
-      "help wanted",
-      "framework/gatsby"
-    ],
-    "language": "javascript",
-    "stars": 1124,
-    "foundAt": "2026-09-23T11:53:05.096Z"
-  },
-  {
-    "key": "layer5io/layer5#8120",
-    "tier": 2,
-    "repo": "layer5io/layer5",
-    "number": 8120,
-    "title": "[Bug] CTA Book section \"Learn More\" button overflows container and overlaps footer at 1003px viewport",
-    "url": "https://github.com/layer5io/layer5/issues/8120",
-    "comments": 0,
-    "createdAt": "2026-09-23T11:46:54Z",
-    "labels": [
-      "kind/bug",
-      "help wanted",
-      "framework/gatsby"
-    ],
-    "language": "javascript",
-    "stars": 1124,
-    "foundAt": "2026-09-23T11:53:05.096Z"
-  },
-  {
-    "key": "layer5io/layer5#8119",
-    "tier": 2,
-    "repo": "layer5io/layer5",
-    "number": 8119,
-    "title": "[Bug] DataCard checklist items overlap, wrap awkwardly, and icons shrink on tablet/mobile viewports",
-    "url": "https://github.com/layer5io/layer5/issues/8119",
-    "comments": 0,
-    "createdAt": "2026-09-23T11:32:02Z",
-    "labels": [
-      "kind/bug",
-      "help wanted",
-      "framework/gatsby"
-    ],
-    "language": "javascript",
-    "stars": 1124,
-    "foundAt": "2026-09-23T11:53:05.097Z"
-  },
-  {
-    "key": "layer5io/layer5#8118",
-    "tier": 2,
-    "repo": "layer5io/layer5",
-    "number": 8118,
-    "title": "[Bug] Background gradient splits horizontally across text on tablet viewports (iPad Mini, Surface Pro) in HowMesheryWorksSpecs",
-    "url": "https://github.com/layer5io/layer5/issues/8118",
-    "comments": 1,
-    "createdAt": "2026-09-23T11:23:53Z",
-    "labels": [
-      "kind/bug",
-      "help wanted",
-      "framework/gatsby"
-    ],
-    "language": "javascript",
-    "stars": 1124,
-    "foundAt": "2026-09-23T11:53:05.097Z"
-  },
-  {
-    "key": "libredirect/browser_extension#1162",
-    "tier": 2,
-    "repo": "libredirect/browser_extension",
-    "number": 1162,
-    "title": "Create test workflow to check redirections on new build",
-    "url": "https://github.com/libredirect/browser_extension/issues/1162",
-    "comments": 0,
-    "createdAt": "2026-09-23T07:28:17Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "not-urgent"
-    ],
-    "language": "javascript",
-    "stars": 4059,
-    "foundAt": "2026-09-23T11:53:05.298Z"
-  },
-  {
-    "key": "neomjs/neo#19100",
-    "tier": 3,
-    "repo": "neomjs/neo",
-    "number": 19100,
-    "title": "Survey apps, examples and guides since 13.1 for the 13.2 notes",
-    "url": "https://github.com/neomjs/neo/issues/19100",
-    "comments": 1,
-    "createdAt": "2026-09-23T09:26:54Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "ai"
-    ],
-    "language": "javascript",
-    "stars": 3280,
-    "foundAt": "2026-09-23T11:53:06.519Z"
-  },
-  {
-    "key": "neomjs/neo#19099",
-    "tier": 3,
-    "repo": "neomjs/neo",
-    "number": 19099,
-    "title": "Survey components, grid and theming since 13.1 for the 13.2 notes",
-    "url": "https://github.com/neomjs/neo/issues/19099",
-    "comments": 1,
-    "createdAt": "2026-09-23T09:26:52Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "ai"
-    ],
-    "language": "javascript",
-    "stars": 3280,
-    "foundAt": "2026-09-23T11:53:06.519Z"
-  },
-  {
-    "key": "neomjs/neo#19098",
-    "tier": 3,
-    "repo": "neomjs/neo",
-    "number": 19098,
-    "title": "Survey the engine runtime since 13.1 for the 13.2 notes",
-    "url": "https://github.com/neomjs/neo/issues/19098",
-    "comments": 1,
-    "createdAt": "2026-09-23T09:26:50Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "ai"
-    ],
-    "language": "javascript",
-    "stars": 3280,
-    "foundAt": "2026-09-23T11:53:06.519Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30796",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30796,
-    "title": "[good first issue] 🍜 Add new Anime Quote 465 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30796",
-    "comments": 1,
-    "createdAt": "2026-09-23T06:01:02Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-23T06:08:40.216Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30795",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30795,
-    "title": "[good first issue] 🌊 Add new Grammar Point 1137 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30795",
-    "comments": 1,
-    "createdAt": "2026-09-23T05:37:35Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-23T06:08:40.216Z"
-  },
-  {
-    "key": "code-charity/youtube#4356",
-    "tier": 1,
-    "repo": "code-charity/youtube",
-    "number": 4356,
-    "title": "🐞 \"to the left\" sidebar not working, along with player size adjustments",
-    "url": "https://github.com/code-charity/youtube/issues/4356",
-    "comments": 0,
-    "createdAt": "2026-09-23T05:31:56Z",
-    "labels": [
-      "Bug",
-      "Feature request",
-      "help wanted",
-      "good first issue",
-      "up-for-grabs"
-    ],
-    "language": "javascript",
-    "stars": 4594,
-    "foundAt": "2026-09-23T06:08:41.229Z"
-  },
-  {
-    "key": "hackforla/website#8798",
-    "tier": 1,
-    "repo": "hackforla/website",
-    "number": 8798,
-    "title": "Review Needed - New Wins Form Submission",
-    "url": "https://github.com/hackforla/website/issues/8798",
-    "comments": 1,
-    "createdAt": "2026-09-23T01:36:48Z",
-    "labels": [
-      "good first issue",
-      "role: product",
-      "P-Feature: Wins Page",
-      "new-win-submission",
-      "size: missing"
-    ],
-    "language": "javascript",
-    "stars": 363,
-    "foundAt": "2026-09-23T06:08:42.234Z"
-  },
-  {
-    "key": "ariakit/ariakit#7603",
-    "tier": 2,
-    "repo": "ariakit/ariakit",
-    "number": 7603,
-    "title": "Stabilize the Safari dialog tests that check the leave state after Close",
-    "url": "https://github.com/ariakit/ariakit/issues/7603",
-    "comments": 0,
-    "createdAt": "2026-09-23T05:53:41Z",
-    "labels": [
-      "app",
-      "easy"
-    ],
-    "language": "typescript",
-    "stars": 8624,
-    "foundAt": "2026-09-23T06:08:42.701Z"
-  },
-  {
-    "key": "modelcontextprotocol/inspector#2457",
-    "tier": 3,
-    "repo": "modelcontextprotocol/inspector",
-    "number": 2457,
-    "title": "security-advisory: the GHSA draft-card title copies the advisory summary onto the board",
-    "url": "https://github.com/modelcontextprotocol/inspector/issues/2457",
-    "comments": 1,
-    "createdAt": "2026-09-23T05:52:56Z",
-    "labels": [
-      "documentation",
-      "v2"
-    ],
-    "language": "typescript",
-    "stars": 10891,
-    "foundAt": "2026-09-23T06:08:44.498Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30783",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30783,
-    "title": "[good first issue] 🌺 Add new Japanese Idiom 368 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30783",
-    "comments": 1,
-    "createdAt": "2026-09-23T00:37:33Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-23T00:45:50.605Z"
   }
 ]

@@ -4,6 +4,26 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-24 | 🥇 | [[good first issue] 🎋 Add new False Friend Pair 1070 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30916) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-24 | 🥇 | [[good first issue] 🍜 Add new Japanese Idiom 550 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30915) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-24 | 🥇 | [[good first issue] 🍜 Add new Video Game Quote 1022 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30914) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-24 | 🥇 | [[good first issue] 🍚 Add new Anime Quote 697 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30913) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-24 | 🥇 | [component: Barcode](https://github.com/shadcn-labs/pdfcn/issues/76) | `shadcn-labs/pdfcn` | ⭐ 2.1k |
+| 2026-09-24 | 🥇 | [component: Timeline](https://github.com/shadcn-labs/pdfcn/issues/75) | `shadcn-labs/pdfcn` | ⭐ 2.1k |
+| 2026-09-24 | 🥇 | [component: Progress](https://github.com/shadcn-labs/pdfcn/issues/74) | `shadcn-labs/pdfcn` | ⭐ 2.1k |
+| 2026-09-24 | 🥇 | [component: Stats](https://github.com/shadcn-labs/pdfcn/issues/73) | `shadcn-labs/pdfcn` | ⭐ 2.1k |
+| 2026-09-24 | 🥇 | [component: Totals](https://github.com/shadcn-labs/pdfcn/issues/72) | `shadcn-labs/pdfcn` | ⭐ 2.1k |
+| 2026-09-24 | 🥇 | [component: Addresses](https://github.com/shadcn-labs/pdfcn/issues/71) | `shadcn-labs/pdfcn` | ⭐ 2.1k |
+| 2026-09-24 | 🥇 | [component: Columns](https://github.com/shadcn-labs/pdfcn/issues/70) | `shadcn-labs/pdfcn` | ⭐ 2.1k |
+| 2026-09-24 | 🥇 | [component: Spacer](https://github.com/shadcn-labs/pdfcn/issues/69) | `shadcn-labs/pdfcn` | ⭐ 2.1k |
+| 2026-09-24 | 🥇 | [component: Code](https://github.com/shadcn-labs/pdfcn/issues/68) | `shadcn-labs/pdfcn` | ⭐ 2.1k |
+| 2026-09-24 | 🥇 | [component: Quote](https://github.com/shadcn-labs/pdfcn/issues/67) | `shadcn-labs/pdfcn` | ⭐ 2.1k |
+| 2026-09-24 | 🥇 | [component: Title](https://github.com/shadcn-labs/pdfcn/issues/66) | `shadcn-labs/pdfcn` | ⭐ 2.1k |
+| 2026-09-24 | 🥇 | [[good first issue] 🎐 Add new Trivia Question 549 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30912) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-24 | 🥇 | [[good first issue] 🗻 Add new Japanese Proverb 1237 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30911) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-24 | 🥇 | [[Bug]: getWebhookActionAndData crashes with TypeError on non-string provider](https://github.com/medusajs/medusa/issues/16978) | `medusajs/medusa` | ⭐ 36.4k |
+| 2026-09-24 | 🥈 | [Trace Jev (TypeSafe) as a model provider in the Python and TypeScript SDKs](https://github.com/traceroot-ai/traceroot/issues/2341) | `traceroot-ai/traceroot` | ⭐ 775 |
+| 2026-09-24 | 🥉 | [Add an enterprise policies doc to ThunderAI page on micz.it](https://github.com/micz/ThunderAI/issues/922) | `micz/ThunderAI` | ⭐ 345 |
 | 2026-09-24 | 🥇 | [[Bug]: roundToCurrencyPrecision breaks under non-en locales and zero-decimal cur](https://github.com/medusajs/medusa/issues/16974) | `medusajs/medusa` | ⭐ 36.4k |
 | 2026-09-24 | 🥇 | [[good first issue] 🧧 Add new Japan Fact 2449 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30908) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-24 | 🥇 | [[good first issue] 🎍 Add new Theme: Kintsugi Gold (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30907) | `lingdojo/kana-dojo` | ⭐ 3.5k |
@@ -84,23 +104,3 @@
 | 2026-09-23 | 🥇 | [Pin the ways ClassSystem.beforeSetInstance turns a config into an instance](https://github.com/neomjs/neo/issues/19134) | `neomjs/neo` | ⭐ 3.3k |
 | 2026-09-23 | 🥇 | [Pin Neo.util.Performance: timing samples, averages and the sample window](https://github.com/neomjs/neo/issues/19133) | `neomjs/neo` | ⭐ 3.3k |
 | 2026-09-23 | 🥇 | [Pin HashHistory: one route stack per browser window](https://github.com/neomjs/neo/issues/19132) | `neomjs/neo` | ⭐ 3.3k |
-| 2026-09-23 | 🥇 | [ClassHierarchy.isA answers false for ancestors above Neo.component.Base](https://github.com/neomjs/neo/issues/19130) | `neomjs/neo` | ⭐ 3.3k |
-| 2026-09-23 | 🥇 | [Pin how the currency field parses and renders amounts](https://github.com/neomjs/neo/issues/19129) | `neomjs/neo` | ⭐ 3.3k |
-| 2026-09-23 | 🥇 | [Fix examples using `.list-unstyled` (with no more `margin-bottom`)](https://github.com/Orange-OpenSource/Orange-Boosted-Bootstrap/issues/3831) | `Orange-OpenSource/Orange-Boosted-Bootstrap` | ⭐ 219 |
-| 2026-09-23 | 🥇 | [[Feature]: Export log as text to only contain log lines](https://github.com/rootprint/rootprint/issues/118) | `rootprint/rootprint` | ⭐ 411 |
-| 2026-09-23 | 🥇 | [Verify six browser-agent listings against their source projects](https://github.com/AbdelStark/awesome-typesafe-jev/issues/113) | `AbdelStark/awesome-typesafe-jev` | ⭐ 487 |
-| 2026-09-23 | 🥈 | [[Bug] Empty state "No matching integrations" text is truncated/pushed off-screen](https://github.com/layer5io/layer5/issues/8121) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-23 | 🥈 | [[Bug] CTA Book section "Learn More" button overflows container and overlaps foot](https://github.com/layer5io/layer5/issues/8120) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-23 | 🥈 | [[Bug] DataCard checklist items overlap, wrap awkwardly, and icons shrink on tabl](https://github.com/layer5io/layer5/issues/8119) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-23 | 🥈 | [[Bug] Background gradient splits horizontally across text on tablet viewports (i](https://github.com/layer5io/layer5/issues/8118) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-23 | 🥈 | [Create test workflow to check redirections on new build](https://github.com/libredirect/browser_extension/issues/1162) | `libredirect/browser_extension` | ⭐ 4.1k |
-| 2026-09-23 | 🥉 | [Survey apps, examples and guides since 13.1 for the 13.2 notes](https://github.com/neomjs/neo/issues/19100) | `neomjs/neo` | ⭐ 3.3k |
-| 2026-09-23 | 🥉 | [Survey components, grid and theming since 13.1 for the 13.2 notes](https://github.com/neomjs/neo/issues/19099) | `neomjs/neo` | ⭐ 3.3k |
-| 2026-09-23 | 🥉 | [Survey the engine runtime since 13.1 for the 13.2 notes](https://github.com/neomjs/neo/issues/19098) | `neomjs/neo` | ⭐ 3.3k |
-| 2026-09-23 | 🥇 | [[good first issue] 🍜 Add new Anime Quote 465 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30796) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-23 | 🥇 | [[good first issue] 🌊 Add new Grammar Point 1137 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30795) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-23 | 🥇 | [🐞 "to the left" sidebar not working, along with player size adjustments](https://github.com/code-charity/youtube/issues/4356) | `code-charity/youtube` | ⭐ 4.6k |
-| 2026-09-23 | 🥇 | [Review Needed - New Wins Form Submission](https://github.com/hackforla/website/issues/8798) | `hackforla/website` | ⭐ 363 |
-| 2026-09-23 | 🥈 | [Stabilize the Safari dialog tests that check the leave state after Close](https://github.com/ariakit/ariakit/issues/7603) | `ariakit/ariakit` | ⭐ 8.6k |
-| 2026-09-23 | 🥉 | [security-advisory: the GHSA draft-card title copies the advisory summary onto th](https://github.com/modelcontextprotocol/inspector/issues/2457) | `modelcontextprotocol/inspector` | ⭐ 10.9k |
-| 2026-09-23 | 🥇 | [[good first issue] 🌺 Add new Japanese Idiom 368 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30783) | `lingdojo/kana-dojo` | ⭐ 3.4k |
