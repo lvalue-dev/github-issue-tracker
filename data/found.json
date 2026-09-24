@@ -1,5 +1,648 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30878",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30878,
+    "title": "[good first issue] 🎑 Add new Japanese Idiom 484 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30878",
+    "comments": 1,
+    "createdAt": "2026-09-24T10:01:01Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-24T10:15:10.412Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30877",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30877,
+    "title": "[good first issue] 🐉 Add new Video Game Quote 735 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30877",
+    "comments": 1,
+    "createdAt": "2026-09-24T09:57:28Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-24T10:15:10.619Z"
+  },
+  {
+    "key": "shadcn-labs/ogimagecn#55",
+    "tier": 1,
+    "repo": "shadcn-labs/ogimagecn",
+    "number": 55,
+    "title": "Add shadcn and prompt tabs to the install command block",
+    "url": "https://github.com/shadcn-labs/ogimagecn/issues/55",
+    "comments": 0,
+    "createdAt": "2026-09-24T09:02:18Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 229,
+    "foundAt": "2026-09-24T10:15:11.113Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30872",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30872,
+    "title": "[good first issue] 🎎 Add new Grammar Point 1124 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30872",
+    "comments": 1,
+    "createdAt": "2026-09-24T09:00:59Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-24T10:15:11.113Z"
+  },
+  {
+    "key": "apache/shenyu-dashboard#653",
+    "tier": 1,
+    "repo": "apache/shenyu-dashboard",
+    "number": 653,
+    "title": "[BUG] `/exception/trigger` page: `isloading` is never reset and the error model drops it",
+    "url": "https://github.com/apache/shenyu-dashboard/issues/653",
+    "comments": 0,
+    "createdAt": "2026-09-24T06:43:25Z",
+    "labels": [
+      "type: bug",
+      "good first issue",
+      "priority: low"
+    ],
+    "language": "javascript",
+    "stars": 201,
+    "foundAt": "2026-09-24T10:15:12.639Z"
+  },
+  {
+    "key": "apache/shenyu-dashboard#652",
+    "tier": 1,
+    "repo": "apache/shenyu-dashboard",
+    "number": 652,
+    "title": "[BUG] e2e tests are stale Ant Design Pro leftovers – `npm run test:all` always fails",
+    "url": "https://github.com/apache/shenyu-dashboard/issues/652",
+    "comments": 0,
+    "createdAt": "2026-09-24T06:43:16Z",
+    "labels": [
+      "type: bug",
+      "good first issue",
+      "priority: low"
+    ],
+    "language": "javascript",
+    "stars": 201,
+    "foundAt": "2026-09-24T10:15:12.639Z"
+  },
+  {
+    "key": "apache/shenyu-dashboard#651",
+    "tier": 1,
+    "repo": "apache/shenyu-dashboard",
+    "number": 651,
+    "title": "[BUG] Missing i18n keys render empty strings (login verification code, Registry modal, Instance page, en-US SELECT.WAY)",
+    "url": "https://github.com/apache/shenyu-dashboard/issues/651",
+    "comments": 0,
+    "createdAt": "2026-09-24T06:43:10Z",
+    "labels": [
+      "type: bug",
+      "good first issue",
+      "priority: low"
+    ],
+    "language": "javascript",
+    "stars": 201,
+    "foundAt": "2026-09-24T10:15:12.639Z"
+  },
+  {
+    "key": "apache/shenyu-dashboard#650",
+    "tier": 1,
+    "repo": "apache/shenyu-dashboard",
+    "number": 650,
+    "title": "[BUG] AddAndUpdateApiDoc / AddAndUpdateTag declare PropTypes validators in `static defaultProps`",
+    "url": "https://github.com/apache/shenyu-dashboard/issues/650",
+    "comments": 0,
+    "createdAt": "2026-09-24T06:42:57Z",
+    "labels": [
+      "type: bug",
+      "good first issue",
+      "priority: low"
+    ],
+    "language": "javascript",
+    "stars": 201,
+    "foundAt": "2026-09-24T10:15:12.639Z"
+  },
+  {
+    "key": "apache/shenyu-dashboard#649",
+    "tier": 1,
+    "repo": "apache/shenyu-dashboard",
+    "number": 649,
+    "title": "[BUG] AuthRoute `removeEmptyMenu` return value is discarded – parent menus with no authorized children remain",
+    "url": "https://github.com/apache/shenyu-dashboard/issues/649",
+    "comments": 0,
+    "createdAt": "2026-09-24T06:42:48Z",
+    "labels": [
+      "type: bug",
+      "good first issue",
+      "priority: low"
+    ],
+    "language": "javascript",
+    "stars": 201,
+    "foundAt": "2026-09-24T10:15:12.639Z"
+  },
+  {
+    "key": "apache/shenyu-dashboard#648",
+    "tier": 1,
+    "repo": "apache/shenyu-dashboard",
+    "number": 648,
+    "title": "[BUG] AuthButton cache writes `buttonCache.perms` instead of `buttonCache[perms]` – cache never hits",
+    "url": "https://github.com/apache/shenyu-dashboard/issues/648",
+    "comments": 0,
+    "createdAt": "2026-09-24T06:42:43Z",
+    "labels": [
+      "type: bug",
+      "good first issue",
+      "priority: low"
+    ],
+    "language": "javascript",
+    "stars": 201,
+    "foundAt": "2026-09-24T10:15:12.639Z"
+  },
+  {
+    "key": "apache/shenyu-dashboard#647",
+    "tier": 1,
+    "repo": "apache/shenyu-dashboard",
+    "number": 647,
+    "title": "[BUG] PluginHandle table renders the literal string \"text\" instead of `{text}` when no plugin matches",
+    "url": "https://github.com/apache/shenyu-dashboard/issues/647",
+    "comments": 1,
+    "createdAt": "2026-09-24T06:42:32Z",
+    "labels": [
+      "type: bug",
+      "good first issue",
+      "priority: low"
+    ],
+    "language": "javascript",
+    "stars": 201,
+    "foundAt": "2026-09-24T10:15:12.639Z"
+  },
+  {
+    "key": "apache/shenyu-dashboard#646",
+    "tier": 1,
+    "repo": "apache/shenyu-dashboard",
+    "number": 646,
+    "title": "[BUG] SearchApi `handleApiCancel` resets `tagForm` instead of `apiForm`",
+    "url": "https://github.com/apache/shenyu-dashboard/issues/646",
+    "comments": 0,
+    "createdAt": "2026-09-24T06:42:26Z",
+    "labels": [
+      "type: bug",
+      "good first issue",
+      "priority: low"
+    ],
+    "language": "javascript",
+    "stars": 201,
+    "foundAt": "2026-09-24T10:15:12.639Z"
+  },
+  {
+    "key": "apache/shenyu-dashboard#645",
+    "tier": 1,
+    "repo": "apache/shenyu-dashboard",
+    "number": 645,
+    "title": "[BUG] ApiDebug error toasts use `rs.msg` instead of `rs.message`",
+    "url": "https://github.com/apache/shenyu-dashboard/issues/645",
+    "comments": 0,
+    "createdAt": "2026-09-24T06:42:19Z",
+    "labels": [
+      "type: bug",
+      "good first issue",
+      "priority: low"
+    ],
+    "language": "javascript",
+    "stars": 201,
+    "foundAt": "2026-09-24T10:15:12.639Z"
+  },
+  {
+    "key": "apache/shenyu-dashboard#644",
+    "tier": 1,
+    "repo": "apache/shenyu-dashboard",
+    "number": 644,
+    "title": "[BUG] Null dereferences on optional server fields (ApiInfo tags, ProxySelectorModal props/handlerArray)",
+    "url": "https://github.com/apache/shenyu-dashboard/issues/644",
+    "comments": 0,
+    "createdAt": "2026-09-24T06:42:12Z",
+    "labels": [
+      "type: bug",
+      "good first issue",
+      "priority: medium"
+    ],
+    "language": "javascript",
+    "stars": 201,
+    "foundAt": "2026-09-24T10:15:12.639Z"
+  },
+  {
+    "key": "apache/shenyu-dashboard#642",
+    "tier": 1,
+    "repo": "apache/shenyu-dashboard",
+    "number": 642,
+    "title": "[BUG] SiderMenu `flatMenuKeys` is computed once in the constructor, so plugin menu items are never highlighted",
+    "url": "https://github.com/apache/shenyu-dashboard/issues/642",
+    "comments": 0,
+    "createdAt": "2026-09-24T06:41:57Z",
+    "labels": [
+      "type: bug",
+      "good first issue",
+      "priority: medium"
+    ],
+    "language": "javascript",
+    "stars": 201,
+    "foundAt": "2026-09-24T10:15:12.639Z"
+  },
+  {
+    "key": "apache/shenyu-dashboard#641",
+    "tier": 1,
+    "repo": "apache/shenyu-dashboard",
+    "number": 641,
+    "title": "[BUG] BasicLayout `getBaseRedirect` picks the first authorized key in `routerData` – logo click can land on McpServer instead of Home",
+    "url": "https://github.com/apache/shenyu-dashboard/issues/641",
+    "comments": 0,
+    "createdAt": "2026-09-24T06:41:49Z",
+    "labels": [
+      "type: bug",
+      "good first issue",
+      "priority: medium"
+    ],
+    "language": "javascript",
+    "stars": 201,
+    "foundAt": "2026-09-24T10:15:12.640Z"
+  },
+  {
+    "key": "apache/shenyu-dashboard#640",
+    "tier": 1,
+    "repo": "apache/shenyu-dashboard",
+    "number": 640,
+    "title": "[BUG] mcpServer model treats any response as success and never checks `code`",
+    "url": "https://github.com/apache/shenyu-dashboard/issues/640",
+    "comments": 0,
+    "createdAt": "2026-09-24T06:41:41Z",
+    "labels": [
+      "type: bug",
+      "good first issue",
+      "priority: medium"
+    ],
+    "language": "javascript",
+    "stars": 201,
+    "foundAt": "2026-09-24T10:15:12.640Z"
+  },
+  {
+    "key": "apache/shenyu-dashboard#639",
+    "tier": 1,
+    "repo": "apache/shenyu-dashboard",
+    "number": 639,
+    "title": "[BUG] CommonRuleHandle JSON validator calls `callback` twice and parses `undefined`",
+    "url": "https://github.com/apache/shenyu-dashboard/issues/639",
+    "comments": 0,
+    "createdAt": "2026-09-24T06:41:35Z",
+    "labels": [
+      "type: bug",
+      "good first issue",
+      "priority: medium"
+    ],
+    "language": "javascript",
+    "stars": 201,
+    "foundAt": "2026-09-24T10:15:12.640Z"
+  },
+  {
+    "key": "apache/shenyu-dashboard#636",
+    "tier": 1,
+    "repo": "apache/shenyu-dashboard",
+    "number": 636,
+    "title": "[BUG] Namespace page: cancelling the modal resets `currentPage` without refetching; delete mutates `selectedRowKeys`",
+    "url": "https://github.com/apache/shenyu-dashboard/issues/636",
+    "comments": 0,
+    "createdAt": "2026-09-24T06:41:09Z",
+    "labels": [
+      "type: bug",
+      "good first issue",
+      "priority: medium"
+    ],
+    "language": "javascript",
+    "stars": 201,
+    "foundAt": "2026-09-24T10:15:12.640Z"
+  },
+  {
+    "key": "apache/shenyu-dashboard#635",
+    "tier": 1,
+    "repo": "apache/shenyu-dashboard",
+    "number": 635,
+    "title": "[BUG] Table sorters compare the wrong field (Instance, Plugin, NamespacePlugin, PluginHandle)",
+    "url": "https://github.com/apache/shenyu-dashboard/issues/635",
+    "comments": 0,
+    "createdAt": "2026-09-24T06:41:00Z",
+    "labels": [
+      "type: bug",
+      "good first issue",
+      "priority: medium"
+    ],
+    "language": "javascript",
+    "stars": 201,
+    "foundAt": "2026-09-24T10:15:12.640Z"
+  },
+  {
+    "key": "apache/shenyu-dashboard#634",
+    "tier": 1,
+    "repo": "apache/shenyu-dashboard",
+    "number": 634,
+    "title": "[BUG] `date-fns` is imported but not declared in package.json",
+    "url": "https://github.com/apache/shenyu-dashboard/issues/634",
+    "comments": 0,
+    "createdAt": "2026-09-24T06:40:52Z",
+    "labels": [
+      "type: bug",
+      "good first issue",
+      "priority: medium"
+    ],
+    "language": "javascript",
+    "stars": 201,
+    "foundAt": "2026-09-24T10:15:12.640Z"
+  },
+  {
+    "key": "apache/shenyu-dashboard#633",
+    "tier": 1,
+    "repo": "apache/shenyu-dashboard",
+    "number": 633,
+    "title": "[BUG] Instance page adds a window `resize` listener on every chart render and never disposes echarts instances",
+    "url": "https://github.com/apache/shenyu-dashboard/issues/633",
+    "comments": 0,
+    "createdAt": "2026-09-24T06:40:43Z",
+    "labels": [
+      "type: bug",
+      "good first issue",
+      "priority: medium"
+    ],
+    "language": "javascript",
+    "stars": 201,
+    "foundAt": "2026-09-24T10:15:12.640Z"
+  },
+  {
+    "key": "apache/shenyu-dashboard#632",
+    "tier": 1,
+    "repo": "apache/shenyu-dashboard",
+    "number": 632,
+    "title": "[BUG] Config export modal never closes; import success with `data: null` calls `JSON.parse(undefined)`",
+    "url": "https://github.com/apache/shenyu-dashboard/issues/632",
+    "comments": 0,
+    "createdAt": "2026-09-24T06:40:36Z",
+    "labels": [
+      "type: bug",
+      "good first issue",
+      "priority: medium"
+    ],
+    "language": "javascript",
+    "stars": 201,
+    "foundAt": "2026-09-24T10:15:12.640Z"
+  },
+  {
+    "key": "apache/shenyu-dashboard#630",
+    "tier": 1,
+    "repo": "apache/shenyu-dashboard",
+    "number": 630,
+    "title": "[BUG] ApiDebug `[apiDetail.apiPath]` effect overwrites the whole `initialValue`, losing mock id/host/header/query",
+    "url": "https://github.com/apache/shenyu-dashboard/issues/630",
+    "comments": 0,
+    "createdAt": "2026-09-24T06:40:17Z",
+    "labels": [
+      "type: bug",
+      "good first issue",
+      "priority: medium"
+    ],
+    "language": "javascript",
+    "stars": 201,
+    "foundAt": "2026-09-24T10:15:12.640Z"
+  },
+  {
+    "key": "apache/shenyu-dashboard#629",
+    "tier": 1,
+    "repo": "apache/shenyu-dashboard",
+    "number": 629,
+    "title": "[BUG] ApiDebug builds the request host with `url.port || \"80\"` – wrong for HTTPS environments",
+    "url": "https://github.com/apache/shenyu-dashboard/issues/629",
+    "comments": 0,
+    "createdAt": "2026-09-24T06:40:06Z",
+    "labels": [
+      "type: bug",
+      "good first issue",
+      "priority: medium"
+    ],
+    "language": "javascript",
+    "stars": 201,
+    "foundAt": "2026-09-24T10:15:12.640Z"
+  },
+  {
+    "key": "apache/shenyu-dashboard#627",
+    "tier": 1,
+    "repo": "apache/shenyu-dashboard",
+    "number": 627,
+    "title": "[BUG] Selecting another selector does not reset the rule/tool page and fetches with `selectorPageSize`",
+    "url": "https://github.com/apache/shenyu-dashboard/issues/627",
+    "comments": 0,
+    "createdAt": "2026-09-24T06:39:52Z",
+    "labels": [
+      "type: bug",
+      "good first issue",
+      "priority: medium"
+    ],
+    "language": "javascript",
+    "stars": 201,
+    "foundAt": "2026-09-24T10:15:12.640Z"
+  },
+  {
+    "key": "apache/shenyu-dashboard#625",
+    "tier": 1,
+    "repo": "apache/shenyu-dashboard",
+    "number": 625,
+    "title": "[BUG] discovery model `reload` and the TCP page `fetchValue` drop `namespaceId`",
+    "url": "https://github.com/apache/shenyu-dashboard/issues/625",
+    "comments": 0,
+    "createdAt": "2026-09-24T06:39:33Z",
+    "labels": [
+      "type: bug",
+      "good first issue",
+      "priority: medium"
+    ],
+    "language": "javascript",
+    "stars": 201,
+    "foundAt": "2026-09-24T10:15:12.640Z"
+  },
+  {
+    "key": "apache/shenyu-dashboard#623",
+    "tier": 1,
+    "repo": "apache/shenyu-dashboard",
+    "number": 623,
+    "title": "[BUG] DiscoveryImportModal reads a `currentNamespaceId` prop that is never provided – fetchDiscovery always uses `namespaceId: undefined`",
+    "url": "https://github.com/apache/shenyu-dashboard/issues/623",
+    "comments": 0,
+    "createdAt": "2026-09-24T06:39:17Z",
+    "labels": [
+      "type: bug",
+      "good first issue",
+      "priority: medium"
+    ],
+    "language": "javascript",
+    "stars": 201,
+    "foundAt": "2026-09-24T10:15:12.640Z"
+  },
+  {
+    "key": "apache/shenyu-dashboard#622",
+    "tier": 1,
+    "repo": "apache/shenyu-dashboard",
+    "number": 622,
+    "title": "[BUG] RuleCopy reads `currentNamespaceId` from props instead of state, and dereferences unguarded `.find()` results",
+    "url": "https://github.com/apache/shenyu-dashboard/issues/622",
+    "comments": 0,
+    "createdAt": "2026-09-24T06:39:02Z",
+    "labels": [
+      "type: bug",
+      "good first issue",
+      "priority: medium"
+    ],
+    "language": "javascript",
+    "stars": 201,
+    "foundAt": "2026-09-24T10:15:12.640Z"
+  },
+  {
+    "key": "apache/shenyu-dashboard#621",
+    "tier": 1,
+    "repo": "apache/shenyu-dashboard",
+    "number": 621,
+    "title": "[BUG] metadata model `reload` drops the `path` filter and forwards `appName`",
+    "url": "https://github.com/apache/shenyu-dashboard/issues/621",
+    "comments": 0,
+    "createdAt": "2026-09-24T06:38:53Z",
+    "labels": [
+      "type: bug",
+      "good first issue",
+      "priority: medium"
+    ],
+    "language": "javascript",
+    "stars": 201,
+    "foundAt": "2026-09-24T10:15:12.640Z"
+  },
+  {
+    "key": "apache/shenyu-dashboard#620",
+    "tier": 1,
+    "repo": "apache/shenyu-dashboard",
+    "number": 620,
+    "title": "[BUG] `download()` does not check the HTTP status before saving the response body as a file",
+    "url": "https://github.com/apache/shenyu-dashboard/issues/620",
+    "comments": 0,
+    "createdAt": "2026-09-24T06:38:45Z",
+    "labels": [
+      "type: bug",
+      "good first issue",
+      "priority: medium"
+    ],
+    "language": "javascript",
+    "stars": 201,
+    "foundAt": "2026-09-24T10:15:12.640Z"
+  },
+  {
+    "key": "apache/shenyu-dashboard#619",
+    "tier": 1,
+    "repo": "apache/shenyu-dashboard",
+    "number": 619,
+    "title": "[BUG] Password fields rendered with plain `Input` and prefilled from the server response (User / Registry modals)",
+    "url": "https://github.com/apache/shenyu-dashboard/issues/619",
+    "comments": 0,
+    "createdAt": "2026-09-24T06:38:36Z",
+    "labels": [
+      "type: bug",
+      "good first issue",
+      "priority: medium"
+    ],
+    "language": "javascript",
+    "stars": 201,
+    "foundAt": "2026-09-24T10:15:12.640Z"
+  },
+  {
+    "key": "apache/shenyu-dashboard#617",
+    "tier": 1,
+    "repo": "apache/shenyu-dashboard",
+    "number": 617,
+    "title": "[BUG] McpServer tool table reads non-existent `toolTotal` from the common model – pagination is capped at one page",
+    "url": "https://github.com/apache/shenyu-dashboard/issues/617",
+    "comments": 0,
+    "createdAt": "2026-09-24T06:38:21Z",
+    "labels": [
+      "type: bug",
+      "good first issue",
+      "priority: high"
+    ],
+    "language": "javascript",
+    "stars": 201,
+    "foundAt": "2026-09-24T10:15:12.640Z"
+  },
+  {
+    "key": "shadcn-labs/ogimagecn#56",
+    "tier": 2,
+    "repo": "shadcn-labs/ogimagecn",
+    "number": 56,
+    "title": "Add a /playground page to edit and customize every template",
+    "url": "https://github.com/shadcn-labs/ogimagecn/issues/56",
+    "comments": 0,
+    "createdAt": "2026-09-24T09:15:16Z",
+    "labels": [
+      "enhancement",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 229,
+    "foundAt": "2026-09-24T10:15:13.575Z"
+  },
+  {
+    "key": "prettier/prettier#20149",
+    "tier": 2,
+    "repo": "prettier/prettier",
+    "number": 20149,
+    "title": "Support directives in MDX parser",
+    "url": "https://github.com/prettier/prettier/issues/20149",
+    "comments": 0,
+    "createdAt": "2026-09-24T06:26:10Z",
+    "labels": [
+      "help wanted",
+      "lang:mdx"
+    ],
+    "language": "javascript",
+    "stars": 52276,
+    "foundAt": "2026-09-24T10:15:14.881Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30861",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1336,719 +1979,5 @@
     "language": "typescript",
     "stars": 3404,
     "foundAt": "2026-09-22T21:30:47.458Z"
-  },
-  {
-    "key": "awslabs/aidlc-workflows#1334",
-    "tier": 3,
-    "repo": "awslabs/aidlc-workflows",
-    "number": 1334,
-    "title": "[Docs]: Integrate a visual stage/artifact guide into official docs",
-    "url": "https://github.com/awslabs/aidlc-workflows/issues/1334",
-    "comments": 0,
-    "createdAt": "2026-09-22T21:21:49Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "typescript",
-    "stars": 4763,
-    "foundAt": "2026-09-22T21:30:50.964Z"
-  },
-  {
-    "key": "awslabs/aidlc-workflows#1331",
-    "tier": 3,
-    "repo": "awslabs/aidlc-workflows",
-    "number": 1331,
-    "title": "[Docs]: V1→V2 migration guide; default experience should work from the README alone",
-    "url": "https://github.com/awslabs/aidlc-workflows/issues/1331",
-    "comments": 0,
-    "createdAt": "2026-09-22T21:08:47Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "typescript",
-    "stars": 4763,
-    "foundAt": "2026-09-22T21:30:50.964Z"
-  },
-  {
-    "key": "quarto-dev/quarto-cli#14932",
-    "tier": 3,
-    "repo": "quarto-dev/quarto-cli",
-    "number": 14932,
-    "title": "Code cell numbering in embeds is invisible in dark themes",
-    "url": "https://github.com/quarto-dev/quarto-cli/issues/14932",
-    "comments": 0,
-    "createdAt": "2026-09-22T20:07:03Z",
-    "labels": [
-      "bug",
-      "accessibility",
-      "html",
-      "themes"
-    ],
-    "language": "javascript",
-    "stars": 6016,
-    "foundAt": "2026-09-22T21:30:51.777Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30766",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30766,
-    "title": "[good first issue] ⛩️ Add new Video Game Quote 264 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30766",
-    "comments": 1,
-    "createdAt": "2026-09-22T18:01:08Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-22T18:10:53.845Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30762",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30762,
-    "title": "[good first issue] 🍛 Add new Anime Quote 512 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30762",
-    "comments": 1,
-    "createdAt": "2026-09-22T17:37:32Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-22T18:10:54.413Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30760",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30760,
-    "title": "[good first issue] 🎋 Add new Grammar Point 1145 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30760",
-    "comments": 1,
-    "createdAt": "2026-09-22T17:01:10Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-22T18:10:56.393Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30746",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30746,
-    "title": "[good first issue] 🏮 Add new False Friend Pair 733 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30746",
-    "comments": 1,
-    "createdAt": "2026-09-22T13:01:07Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-22T13:30:48.624Z"
-  },
-  {
-    "key": "libredb/libredb-studio#1075",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 1075,
-    "title": "[BUG] The PostgreSQL object surface builds its rows with json_*, so no column can be read on RisingWave",
-    "url": "https://github.com/libredb/libredb-studio/issues/1075",
-    "comments": 0,
-    "createdAt": "2026-09-22T11:49:47Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "help wanted",
-      "database-provider"
-    ],
-    "language": "typescript",
-    "stars": 754,
-    "foundAt": "2026-09-22T13:30:49.112Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30738",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30738,
-    "title": "[good first issue] 🎎 Add new Grammar Point 1288 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30738",
-    "comments": 1,
-    "createdAt": "2026-09-22T11:01:03Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-22T13:30:49.517Z"
-  },
-  {
-    "key": "elastic/kibana#292645",
-    "tier": 1,
-    "repo": "elastic/kibana",
-    "number": 292645,
-    "title": "[APM] Show overflow service count in services capacity warning",
-    "url": "https://github.com/elastic/kibana/issues/292645",
-    "comments": 1,
-    "createdAt": "2026-09-22T10:59:14Z",
-    "labels": [
-      "good first issue",
-      "enhancement",
-      "Team:obs-signals-traces"
-    ],
-    "language": "typescript",
-    "stars": 21295,
-    "foundAt": "2026-09-22T13:30:49.708Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30735",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30735,
-    "title": "[good first issue] 🏯 Add new Trivia Question 768 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30735",
-    "comments": 1,
-    "createdAt": "2026-09-22T10:37:30Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-22T13:30:49.708Z"
-  },
-  {
-    "key": "meshery/meshery.io#3008",
-    "tier": 2,
-    "repo": "meshery/meshery.io",
-    "number": 3008,
-    "title": "[Accessibility] Catalog fullscreen image viewer does not close with Escape",
-    "url": "https://github.com/meshery/meshery.io/issues/3008",
-    "comments": 2,
-    "createdAt": "2026-09-22T10:33:42Z",
-    "labels": [
-      "kind/bug",
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 861,
-    "foundAt": "2026-09-22T13:30:52.930Z"
-  },
-  {
-    "key": "vaadin/web-components#12808",
-    "tier": 3,
-    "repo": "vaadin/web-components",
-    "number": 12808,
-    "title": "Populate cssProperties, cssParts and slots in the Custom Elements Manifest",
-    "url": "https://github.com/vaadin/web-components/issues/12808",
-    "comments": 1,
-    "createdAt": "2026-09-22T12:36:42Z",
-    "labels": [
-      "documentation",
-      "DX",
-      "internal"
-    ],
-    "language": "javascript",
-    "stars": 582,
-    "foundAt": "2026-09-22T13:30:56.118Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30728",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30728,
-    "title": "[good first issue] 🎑 Add new Example Sentence 386 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30728",
-    "comments": 1,
-    "createdAt": "2026-09-22T07:37:31Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-22T07:49:12.824Z"
-  },
-  {
-    "key": "fedify-dev/fedify#1049",
-    "tier": 1,
-    "repo": "fedify-dev/fedify",
-    "number": 1049,
-    "title": "Test the queue message wrapper round trip in `@fedify/cfworkers`",
-    "url": "https://github.com/fedify-dev/fedify/issues/1049",
-    "comments": 0,
-    "createdAt": "2026-09-22T07:22:57Z",
-    "labels": [
-      "good first issue",
-      "component/mq",
-      "runtime/cfworkers",
-      "difficulty/beginner",
-      "component/testing"
-    ],
-    "language": "typescript",
-    "stars": 1026,
-    "foundAt": "2026-09-22T07:49:13.468Z"
-  },
-  {
-    "key": "dreamhunter2333/cloudflare_temp_email#1155",
-    "tier": 1,
-    "repo": "dreamhunter2333/cloudflare_temp_email",
-    "number": 1155,
-    "title": "[Feature]收到邮件后进行过滤再推送，最好可以实现简单的工作流",
-    "url": "https://github.com/dreamhunter2333/cloudflare_temp_email/issues/1155",
-    "comments": 1,
-    "createdAt": "2026-09-22T07:07:09Z",
-    "labels": [
-      "enhancement",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 11814,
-    "foundAt": "2026-09-22T07:49:13.940Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30720",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30720,
-    "title": "[good first issue] 🌊 Add new Dialect Entry 837 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30720",
-    "comments": 1,
-    "createdAt": "2026-09-22T06:01:03Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-22T07:49:14.423Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30718",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30718,
-    "title": "[good first issue] 🍣 Add new Japanese Idiom 616 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30718",
-    "comments": 1,
-    "createdAt": "2026-09-22T05:37:44Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-22T07:49:14.423Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30717",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30717,
-    "title": "[good first issue] 🍜 Add new Anime Quote 532 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30717",
-    "comments": 1,
-    "createdAt": "2026-09-22T05:01:03Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-22T07:49:14.423Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30715",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30715,
-    "title": "[good first issue] 🍱 Add new Grammar Point 1303 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30715",
-    "comments": 1,
-    "createdAt": "2026-09-22T04:37:33Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-22T07:49:14.642Z"
-  },
-  {
-    "key": "fossasia/scrum_helper#864",
-    "tier": 1,
-    "repo": "fossasia/scrum_helper",
-    "number": 864,
-    "title": "Add unit tests for `emailClientAdapter.js` client matchers",
-    "url": "https://github.com/fossasia/scrum_helper/issues/864",
-    "comments": 0,
-    "createdAt": "2026-09-22T01:42:42Z",
-    "labels": [
-      "enhancement",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 1323,
-    "foundAt": "2026-09-22T01:43:27.685Z"
-  },
-  {
-    "key": "fossasia/scrum_helper#863",
-    "tier": 1,
-    "repo": "fossasia/scrum_helper",
-    "number": 863,
-    "title": "[Docs]: Add testing, linting, and desktop build instructions to CONTRIBUTING.md",
-    "url": "https://github.com/fossasia/scrum_helper/issues/863",
-    "comments": 0,
-    "createdAt": "2026-09-22T01:40:45Z",
-    "labels": [
-      "enhancement",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 1323,
-    "foundAt": "2026-09-22T01:43:27.685Z"
-  },
-  {
-    "key": "code-charity/youtube#4353",
-    "tier": 1,
-    "repo": "code-charity/youtube",
-    "number": 4353,
-    "title": "Interesting plugin, couple bugs - 'Cinema Mode' and 'Reverse Playlist'🐞",
-    "url": "https://github.com/code-charity/youtube/issues/4353",
-    "comments": 0,
-    "createdAt": "2026-09-22T01:38:31Z",
-    "labels": [
-      "Bug",
-      "help wanted",
-      "good first issue",
-      "up-for-grabs"
-    ],
-    "language": "javascript",
-    "stars": 4594,
-    "foundAt": "2026-09-22T01:43:27.890Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30705",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30705,
-    "title": "[good first issue] 🍁 Add new Learner Mistake 1090 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30705",
-    "comments": 1,
-    "createdAt": "2026-09-22T01:37:33Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-22T01:43:26.655Z"
-  },
-  {
-    "key": "fossasia/scrum_helper#862",
-    "tier": 1,
-    "repo": "fossasia/scrum_helper",
-    "number": 862,
-    "title": "[i18n]: Add missing localization keys for GitLab, Codeberg, and filter options",
-    "url": "https://github.com/fossasia/scrum_helper/issues/862",
-    "comments": 0,
-    "createdAt": "2026-09-22T01:32:32Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "javascript",
-    "stars": 1323,
-    "foundAt": "2026-09-22T01:43:27.890Z"
-  },
-  {
-    "key": "fossasia/scrum_helper#861",
-    "tier": 1,
-    "repo": "fossasia/scrum_helper",
-    "number": 861,
-    "title": "[Docs]: Update README.md to document GitLab and Codeberg platform support",
-    "url": "https://github.com/fossasia/scrum_helper/issues/861",
-    "comments": 0,
-    "createdAt": "2026-09-22T01:29:49Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hold"
-    ],
-    "language": "javascript",
-    "stars": 1323,
-    "foundAt": "2026-09-22T01:43:27.890Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30703",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30703,
-    "title": "[good first issue] 🥢 Add new Example Sentence 486 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30703",
-    "comments": 1,
-    "createdAt": "2026-09-22T01:00:57Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-22T01:43:26.655Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30702",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30702,
-    "title": "[good first issue] 🎑 Add new Etiquette Tip 1059 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30702",
-    "comments": 1,
-    "createdAt": "2026-09-22T00:37:29Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-22T01:43:27.065Z"
-  },
-  {
-    "key": "stdlib-js/stdlib#15414",
-    "tier": 1,
-    "repo": "stdlib-js/stdlib",
-    "number": 15414,
-    "title": "Fix JavaScript lint errors",
-    "url": "https://github.com/stdlib-js/stdlib/issues/15414",
-    "comments": 1,
-    "createdAt": "2026-09-22T00:16:03Z",
-    "labels": [
-      "Good First Issue"
-    ],
-    "language": "javascript",
-    "stars": 5968,
-    "foundAt": "2026-09-22T01:43:27.890Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30701",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30701,
-    "title": "[good first issue] 🗻 Add new False Friend Pair 195 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30701",
-    "comments": 1,
-    "createdAt": "2026-09-22T00:01:45Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-22T01:43:27.299Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30700",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30700,
-    "title": "[good first issue] 🌸 Add new Dialect Entry 561 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30700",
-    "comments": 1,
-    "createdAt": "2026-09-21T23:37:50Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-22T01:43:27.496Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30697",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30697,
-    "title": "[good first issue] 🍜 Add new Japanese Idiom 796 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30697",
-    "comments": 1,
-    "createdAt": "2026-09-21T23:01:05Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-21T23:24:07.811Z"
-  },
-  {
-    "key": "Smaug6739/Alexandrie#781",
-    "tier": 1,
-    "repo": "Smaug6739/Alexandrie",
-    "number": 781,
-    "title": "Backend should not abort when S3 object storage does not support PutBucketPolicy",
-    "url": "https://github.com/Smaug6739/Alexandrie/issues/781",
-    "comments": 0,
-    "createdAt": "2026-09-21T20:20:53Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "backend"
-    ],
-    "language": "vue",
-    "stars": 2763,
-    "foundAt": "2026-09-21T23:24:08.723Z"
-  },
-  {
-    "key": "orval-labs/orval#4177",
-    "tier": 2,
-    "repo": "orval-labs/orval",
-    "number": 4177,
-    "title": "Multipart file uploads with shared request body schema do not get `File` type",
-    "url": "https://github.com/orval-labs/orval/issues/4177",
-    "comments": 0,
-    "createdAt": "2026-09-21T22:37:47Z",
-    "labels": [
-      "help wanted",
-      "fetch"
-    ],
-    "language": "typescript",
-    "stars": 6466,
-    "foundAt": "2026-09-21T23:24:08.962Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30696",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30696,
-    "title": "[good first issue] 🌋 Add new Video Game Quote 614 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30696",
-    "comments": 1,
-    "createdAt": "2026-09-21T22:37:29Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-21T23:24:08.962Z"
   }
 ]

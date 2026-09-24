@@ -4,6 +4,41 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-24 | 🥇 | [[good first issue] 🎑 Add new Japanese Idiom 484 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30878) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-24 | 🥇 | [[good first issue] 🐉 Add new Video Game Quote 735 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30877) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-24 | 🥇 | [Add shadcn and prompt tabs to the install command block](https://github.com/shadcn-labs/ogimagecn/issues/55) | `shadcn-labs/ogimagecn` | ⭐ 229 |
+| 2026-09-24 | 🥇 | [[good first issue] 🎎 Add new Grammar Point 1124 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30872) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-24 | 🥇 | [[BUG] `/exception/trigger` page: `isloading` is never reset and the error model ](https://github.com/apache/shenyu-dashboard/issues/653) | `apache/shenyu-dashboard` | ⭐ 201 |
+| 2026-09-24 | 🥇 | [[BUG] e2e tests are stale Ant Design Pro leftovers – `npm run test:all` always f](https://github.com/apache/shenyu-dashboard/issues/652) | `apache/shenyu-dashboard` | ⭐ 201 |
+| 2026-09-24 | 🥇 | [[BUG] Missing i18n keys render empty strings (login verification code, Registry ](https://github.com/apache/shenyu-dashboard/issues/651) | `apache/shenyu-dashboard` | ⭐ 201 |
+| 2026-09-24 | 🥇 | [[BUG] AddAndUpdateApiDoc / AddAndUpdateTag declare PropTypes validators in `stat](https://github.com/apache/shenyu-dashboard/issues/650) | `apache/shenyu-dashboard` | ⭐ 201 |
+| 2026-09-24 | 🥇 | [[BUG] AuthRoute `removeEmptyMenu` return value is discarded – parent menus with ](https://github.com/apache/shenyu-dashboard/issues/649) | `apache/shenyu-dashboard` | ⭐ 201 |
+| 2026-09-24 | 🥇 | [[BUG] AuthButton cache writes `buttonCache.perms` instead of `buttonCache[perms]](https://github.com/apache/shenyu-dashboard/issues/648) | `apache/shenyu-dashboard` | ⭐ 201 |
+| 2026-09-24 | 🥇 | [[BUG] PluginHandle table renders the literal string "text" instead of `{text}` w](https://github.com/apache/shenyu-dashboard/issues/647) | `apache/shenyu-dashboard` | ⭐ 201 |
+| 2026-09-24 | 🥇 | [[BUG] SearchApi `handleApiCancel` resets `tagForm` instead of `apiForm`](https://github.com/apache/shenyu-dashboard/issues/646) | `apache/shenyu-dashboard` | ⭐ 201 |
+| 2026-09-24 | 🥇 | [[BUG] ApiDebug error toasts use `rs.msg` instead of `rs.message`](https://github.com/apache/shenyu-dashboard/issues/645) | `apache/shenyu-dashboard` | ⭐ 201 |
+| 2026-09-24 | 🥇 | [[BUG] Null dereferences on optional server fields (ApiInfo tags, ProxySelectorMo](https://github.com/apache/shenyu-dashboard/issues/644) | `apache/shenyu-dashboard` | ⭐ 201 |
+| 2026-09-24 | 🥇 | [[BUG] SiderMenu `flatMenuKeys` is computed once in the constructor, so plugin me](https://github.com/apache/shenyu-dashboard/issues/642) | `apache/shenyu-dashboard` | ⭐ 201 |
+| 2026-09-24 | 🥇 | [[BUG] BasicLayout `getBaseRedirect` picks the first authorized key in `routerDat](https://github.com/apache/shenyu-dashboard/issues/641) | `apache/shenyu-dashboard` | ⭐ 201 |
+| 2026-09-24 | 🥇 | [[BUG] mcpServer model treats any response as success and never checks `code`](https://github.com/apache/shenyu-dashboard/issues/640) | `apache/shenyu-dashboard` | ⭐ 201 |
+| 2026-09-24 | 🥇 | [[BUG] CommonRuleHandle JSON validator calls `callback` twice and parses `undefin](https://github.com/apache/shenyu-dashboard/issues/639) | `apache/shenyu-dashboard` | ⭐ 201 |
+| 2026-09-24 | 🥇 | [[BUG] Namespace page: cancelling the modal resets `currentPage` without refetchi](https://github.com/apache/shenyu-dashboard/issues/636) | `apache/shenyu-dashboard` | ⭐ 201 |
+| 2026-09-24 | 🥇 | [[BUG] Table sorters compare the wrong field (Instance, Plugin, NamespacePlugin, ](https://github.com/apache/shenyu-dashboard/issues/635) | `apache/shenyu-dashboard` | ⭐ 201 |
+| 2026-09-24 | 🥇 | [[BUG] `date-fns` is imported but not declared in package.json](https://github.com/apache/shenyu-dashboard/issues/634) | `apache/shenyu-dashboard` | ⭐ 201 |
+| 2026-09-24 | 🥇 | [[BUG] Instance page adds a window `resize` listener on every chart render and ne](https://github.com/apache/shenyu-dashboard/issues/633) | `apache/shenyu-dashboard` | ⭐ 201 |
+| 2026-09-24 | 🥇 | [[BUG] Config export modal never closes; import success with `data: null` calls `](https://github.com/apache/shenyu-dashboard/issues/632) | `apache/shenyu-dashboard` | ⭐ 201 |
+| 2026-09-24 | 🥇 | [[BUG] ApiDebug `[apiDetail.apiPath]` effect overwrites the whole `initialValue`,](https://github.com/apache/shenyu-dashboard/issues/630) | `apache/shenyu-dashboard` | ⭐ 201 |
+| 2026-09-24 | 🥇 | [[BUG] ApiDebug builds the request host with `url.port \|\| "80"` – wrong for HTT](https://github.com/apache/shenyu-dashboard/issues/629) | `apache/shenyu-dashboard` | ⭐ 201 |
+| 2026-09-24 | 🥇 | [[BUG] Selecting another selector does not reset the rule/tool page and fetches w](https://github.com/apache/shenyu-dashboard/issues/627) | `apache/shenyu-dashboard` | ⭐ 201 |
+| 2026-09-24 | 🥇 | [[BUG] discovery model `reload` and the TCP page `fetchValue` drop `namespaceId`](https://github.com/apache/shenyu-dashboard/issues/625) | `apache/shenyu-dashboard` | ⭐ 201 |
+| 2026-09-24 | 🥇 | [[BUG] DiscoveryImportModal reads a `currentNamespaceId` prop that is never provi](https://github.com/apache/shenyu-dashboard/issues/623) | `apache/shenyu-dashboard` | ⭐ 201 |
+| 2026-09-24 | 🥇 | [[BUG] RuleCopy reads `currentNamespaceId` from props instead of state, and deref](https://github.com/apache/shenyu-dashboard/issues/622) | `apache/shenyu-dashboard` | ⭐ 201 |
+| 2026-09-24 | 🥇 | [[BUG] metadata model `reload` drops the `path` filter and forwards `appName`](https://github.com/apache/shenyu-dashboard/issues/621) | `apache/shenyu-dashboard` | ⭐ 201 |
+| 2026-09-24 | 🥇 | [[BUG] `download()` does not check the HTTP status before saving the response bod](https://github.com/apache/shenyu-dashboard/issues/620) | `apache/shenyu-dashboard` | ⭐ 201 |
+| 2026-09-24 | 🥇 | [[BUG] Password fields rendered with plain `Input` and prefilled from the server ](https://github.com/apache/shenyu-dashboard/issues/619) | `apache/shenyu-dashboard` | ⭐ 201 |
+| 2026-09-24 | 🥇 | [[BUG] McpServer tool table reads non-existent `toolTotal` from the common model ](https://github.com/apache/shenyu-dashboard/issues/617) | `apache/shenyu-dashboard` | ⭐ 201 |
+| 2026-09-24 | 🥈 | [Add a /playground page to edit and customize every template](https://github.com/shadcn-labs/ogimagecn/issues/56) | `shadcn-labs/ogimagecn` | ⭐ 229 |
+| 2026-09-24 | 🥈 | [Support directives in MDX parser](https://github.com/prettier/prettier/issues/20149) | `prettier/prettier` | ⭐ 52.3k |
 | 2026-09-24 | 🥇 | [[good first issue] 🎐 Add new Video Game Quote 136 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30861) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-24 | 🥇 | [[good first issue] 🦊 Add new Anime Quote 1183 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30860) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-24 | 🥇 | [[good first issue] 🦊 Add new Japanese Proverb 1656 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30859) | `lingdojo/kana-dojo` | ⭐ 3.4k |
@@ -69,38 +104,3 @@
 | 2026-09-22 | 🥇 | [Schema Diff's migration copy button scrolls away with a long migration](https://github.com/libredb/libredb-studio/issues/1080) | `libredb/libredb-studio` | ⭐ 754 |
 | 2026-09-22 | 🥇 | [[good first issue] 🏮 Add new Dialect Entry 290 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30768) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-22 | 🥇 | [[good first issue] 🎍 Add new Japanese Idiom 778 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30767) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-22 | 🥉 | [[Docs]: Integrate a visual stage/artifact guide into official docs](https://github.com/awslabs/aidlc-workflows/issues/1334) | `awslabs/aidlc-workflows` | ⭐ 4.8k |
-| 2026-09-22 | 🥉 | [[Docs]: V1→V2 migration guide; default experience should work from the README al](https://github.com/awslabs/aidlc-workflows/issues/1331) | `awslabs/aidlc-workflows` | ⭐ 4.8k |
-| 2026-09-22 | 🥉 | [Code cell numbering in embeds is invisible in dark themes](https://github.com/quarto-dev/quarto-cli/issues/14932) | `quarto-dev/quarto-cli` | ⭐ 6.0k |
-| 2026-09-22 | 🥇 | [[good first issue] ⛩️ Add new Video Game Quote 264 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30766) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-22 | 🥇 | [[good first issue] 🍛 Add new Anime Quote 512 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30762) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-22 | 🥈 | [[good first issue] 🎋 Add new Grammar Point 1145 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30760) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-22 | 🥇 | [[good first issue] 🏮 Add new False Friend Pair 733 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30746) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-22 | 🥇 | [[BUG] The PostgreSQL object surface builds its rows with json_*, so no column ca](https://github.com/libredb/libredb-studio/issues/1075) | `libredb/libredb-studio` | ⭐ 754 |
-| 2026-09-22 | 🥇 | [[good first issue] 🎎 Add new Grammar Point 1288 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30738) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-22 | 🥇 | [[APM] Show overflow service count in services capacity warning](https://github.com/elastic/kibana/issues/292645) | `elastic/kibana` | ⭐ 21.3k |
-| 2026-09-22 | 🥇 | [[good first issue] 🏯 Add new Trivia Question 768 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30735) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-22 | 🥈 | [[Accessibility] Catalog fullscreen image viewer does not close with Escape](https://github.com/meshery/meshery.io/issues/3008) | `meshery/meshery.io` | ⭐ 861 |
-| 2026-09-22 | 🥉 | [Populate cssProperties, cssParts and slots in the Custom Elements Manifest](https://github.com/vaadin/web-components/issues/12808) | `vaadin/web-components` | ⭐ 582 |
-| 2026-09-22 | 🥇 | [[good first issue] 🎑 Add new Example Sentence 386 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30728) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-22 | 🥇 | [Test the queue message wrapper round trip in `@fedify/cfworkers`](https://github.com/fedify-dev/fedify/issues/1049) | `fedify-dev/fedify` | ⭐ 1.0k |
-| 2026-09-22 | 🥇 | [[Feature]收到邮件后进行过滤再推送，最好可以实现简单的工作流](https://github.com/dreamhunter2333/cloudflare_temp_email/issues/1155) | `dreamhunter2333/cloudflare_temp_email` | ⭐ 11.8k |
-| 2026-09-22 | 🥇 | [[good first issue] 🌊 Add new Dialect Entry 837 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30720) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-22 | 🥇 | [[good first issue] 🍣 Add new Japanese Idiom 616 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30718) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-22 | 🥇 | [[good first issue] 🍜 Add new Anime Quote 532 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30717) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-22 | 🥇 | [[good first issue] 🍱 Add new Grammar Point 1303 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30715) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-22 | 🥇 | [Add unit tests for `emailClientAdapter.js` client matchers](https://github.com/fossasia/scrum_helper/issues/864) | `fossasia/scrum_helper` | ⭐ 1.3k |
-| 2026-09-22 | 🥇 | [[Docs]: Add testing, linting, and desktop build instructions to CONTRIBUTING.md](https://github.com/fossasia/scrum_helper/issues/863) | `fossasia/scrum_helper` | ⭐ 1.3k |
-| 2026-09-22 | 🥇 | [Interesting plugin, couple bugs - 'Cinema Mode' and 'Reverse Playlist'🐞](https://github.com/code-charity/youtube/issues/4353) | `code-charity/youtube` | ⭐ 4.6k |
-| 2026-09-22 | 🥇 | [[good first issue] 🍁 Add new Learner Mistake 1090 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30705) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-22 | 🥇 | [[i18n]: Add missing localization keys for GitLab, Codeberg, and filter options](https://github.com/fossasia/scrum_helper/issues/862) | `fossasia/scrum_helper` | ⭐ 1.3k |
-| 2026-09-22 | 🥇 | [[Docs]: Update README.md to document GitLab and Codeberg platform support](https://github.com/fossasia/scrum_helper/issues/861) | `fossasia/scrum_helper` | ⭐ 1.3k |
-| 2026-09-22 | 🥇 | [[good first issue] 🥢 Add new Example Sentence 486 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30703) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-22 | 🥇 | [[good first issue] 🎑 Add new Etiquette Tip 1059 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30702) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-22 | 🥇 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15414) | `stdlib-js/stdlib` | ⭐ 6.0k |
-| 2026-09-22 | 🥇 | [[good first issue] 🗻 Add new False Friend Pair 195 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30701) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-22 | 🥇 | [[good first issue] 🌸 Add new Dialect Entry 561 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30700) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-21 | 🥇 | [[good first issue] 🍜 Add new Japanese Idiom 796 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30697) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-21 | 🥇 | [Backend should not abort when S3 object storage does not support PutBucketPolicy](https://github.com/Smaug6739/Alexandrie/issues/781) | `Smaug6739/Alexandrie` | ⭐ 2.8k |
-| 2026-09-21 | 🥈 | [Multipart file uploads with shared request body schema do not get `File` type](https://github.com/orval-labs/orval/issues/4177) | `orval-labs/orval` | ⭐ 6.5k |
-| 2026-09-21 | 🥈 | [[good first issue] 🌋 Add new Video Game Quote 614 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30696) | `lingdojo/kana-dojo` | ⭐ 3.4k |
