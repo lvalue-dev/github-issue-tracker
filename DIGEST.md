@@ -4,6 +4,18 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-24 | 🥇 | [[good first issue] 🎐 Add new Video Game Quote 136 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30861) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-24 | 🥇 | [[good first issue] 🦊 Add new Anime Quote 1183 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30860) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-24 | 🥇 | [[good first issue] 🦊 Add new Japanese Proverb 1656 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30859) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-24 | 🥇 | [[good first issue] 🥟 Add new Japan Fact 2265 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30858) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-24 | 🥇 | [Kubernetes: /tmp emptyDir lacks sticky protection required by fs-safe, disabling](https://github.com/openclaw/openclaw/issues/156985) | `openclaw/openclaw` | ⭐ 390.3k |
+| 2026-09-24 | 🥇 | [[good first issue] 🍵 Add new Theme: Midnight Ramen (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30857) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-24 | 🥇 | [[good first issue] 🗻 Add new Learner Mistake 571 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30856) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-24 | 🥇 | [[good first issue] 🌺 Add new Etiquette Tip 1041 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30853) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-24 | 🥇 | [[good first issue] 🗾 Add new False Friend Pair 156 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30852) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-24 | 🥇 | [[good first issue] 🍡 Add new Dialect Entry 791 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30851) | `lingdojo/kana-dojo` | ⭐ 3.4k |
+| 2026-09-24 | 🥉 | [Keep focus in the list when a ComboboxSelect popup opens with nothing selected](https://github.com/ariakit/ariakit/issues/7626) | `ariakit/ariakit` | ⭐ 8.6k |
+| 2026-09-24 | 🥉 | [Keep focus inside a popover when it positions again while open](https://github.com/ariakit/ariakit/issues/7625) | `ariakit/ariakit` | ⭐ 8.6k |
 | 2026-09-23 | 🥈 | [[good first issue] 🧧 Add new Etiquette Tip 800 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30841) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-23 | 🥈 | [[good first issue] 🎌 Add new Dialect Entry 165 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30840) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-23 | 🥈 | [`p5.VERSION` reports "2.3.1" in the 2.3.3 release build (build-time version repl](https://github.com/processing/p5.js/issues/9202) | `processing/p5.js` | ⭐ 24.0k |
@@ -92,15 +104,3 @@
 | 2026-09-21 | 🥇 | [Backend should not abort when S3 object storage does not support PutBucketPolicy](https://github.com/Smaug6739/Alexandrie/issues/781) | `Smaug6739/Alexandrie` | ⭐ 2.8k |
 | 2026-09-21 | 🥈 | [Multipart file uploads with shared request body schema do not get `File` type](https://github.com/orval-labs/orval/issues/4177) | `orval-labs/orval` | ⭐ 6.5k |
 | 2026-09-21 | 🥈 | [[good first issue] 🌋 Add new Video Game Quote 614 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30696) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-21 | 🥈 | [[Bug]: ios 27 - blur in header](https://github.com/actualbudget/actual/issues/8989) | `actualbudget/actual` | ⭐ 29.1k |
-| 2026-09-21 | 🥈 | [[good first issue] 🍘 Add new Trivia Question 535 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30695) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-21 | 🥈 | [[good first issue] 🎑 Add new Japanese Haiku 119 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30694) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-21 | 🥈 | [[good first issue] 🎐 Add new Japanese Proverb 583 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30693) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-21 | 🥈 | [[good first issue] 🍙 Add new Japan Fact 2432 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30692) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-21 | 🥈 | [[good first issue] 🍁 Add new Theme: Harbor Lanterns (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30691) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-21 | 🥈 | [Find an alternative to punycode](https://github.com/layer5io/layer5/issues/8108) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-21 | 🥉 | [Kotlin Multiplatform install docs still recommend CocoaPods with no deprecation ](https://github.com/getsentry/sentry-docs/issues/19539) | `getsentry/sentry-docs` | ⭐ 446 |
-| 2026-09-21 | 🥇 | [[good first issue] 🍁 Add new Learner Mistake 135 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30690) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-21 | 🥇 | [[good first issue] 🎎 Add new Example Sentence 767 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30688) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-21 | 🥇 | [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/22036) | `PipedreamHQ/pipedream` | ⭐ 11.7k |
-| 2026-09-21 | 🥇 | [[good first issue] 🐉 Add new Community Note Line #28 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30676) | `lingdojo/kana-dojo` | ⭐ 3.4k |
