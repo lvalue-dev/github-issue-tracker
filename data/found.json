@@ -1,5 +1,157 @@
 [
   {
+    "key": "tortuvshin/open-apps#293",
+    "tier": 1,
+    "repo": "tortuvshin/open-apps",
+    "number": 293,
+    "title": "Real logos for 3–5 high-value apps",
+    "url": "https://github.com/tortuvshin/open-apps/issues/293",
+    "comments": 1,
+    "createdAt": "2026-09-25T17:02:56Z",
+    "labels": [
+      "p0",
+      "ws: detail",
+      "good first issue"
+    ],
+    "language": "astro",
+    "stars": 4353,
+    "foundAt": "2026-09-25T18:45:31.782Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30974",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30974,
+    "title": "[good first issue] 🍢 Add new Grammar Point 360 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30974",
+    "comments": 1,
+    "createdAt": "2026-09-25T18:01:02Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-25T18:45:31.971Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30973",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30973,
+    "title": "[good first issue] 🎏 Add new Japanese Proverb 1067 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30973",
+    "comments": 1,
+    "createdAt": "2026-09-25T17:57:33Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-25T18:45:31.971Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30971",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30971,
+    "title": "[good first issue] 🥢 Add new Japan Fact 2283 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30971",
+    "comments": 1,
+    "createdAt": "2026-09-25T17:01:04Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-25T18:45:32.593Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30969",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30969,
+    "title": "[good first issue] 🍁 Add new Theme: Neon Arcade (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30969",
+    "comments": 1,
+    "createdAt": "2026-09-25T16:57:30Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-25T18:45:32.593Z"
+  },
+  {
+    "key": "webdriverio/webdriverio#15708",
+    "tier": 2,
+    "repo": "webdriverio/webdriverio",
+    "number": 15708,
+    "title": "[🐛 Bug]: mock.respond() in Firefox leaves the request blocked forever: \"body\" in provideResponse is only supported at beforeRequestSent",
+    "url": "https://github.com/webdriverio/webdriverio/issues/15708",
+    "comments": 1,
+    "createdAt": "2026-09-25T16:28:00Z",
+    "labels": [
+      "Bug 🐛",
+      "help wanted",
+      "good first pick",
+      "Protocol Related"
+    ],
+    "language": "typescript",
+    "stars": 9841,
+    "foundAt": "2026-09-25T18:45:32.813Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30967",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30967,
+    "title": "[good first issue] 🍵 Add new False Friend Pair 514 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30967",
+    "comments": 1,
+    "createdAt": "2026-09-25T15:57:32Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-25T18:45:32.814Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30956",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1832,134 +1984,5 @@
     "language": "javascript",
     "stars": 201,
     "foundAt": "2026-09-24T10:15:12.640Z"
-  },
-  {
-    "key": "apache/shenyu-dashboard#621",
-    "tier": 1,
-    "repo": "apache/shenyu-dashboard",
-    "number": 621,
-    "title": "[BUG] metadata model `reload` drops the `path` filter and forwards `appName`",
-    "url": "https://github.com/apache/shenyu-dashboard/issues/621",
-    "comments": 0,
-    "createdAt": "2026-09-24T06:38:53Z",
-    "labels": [
-      "type: bug",
-      "good first issue",
-      "priority: medium"
-    ],
-    "language": "javascript",
-    "stars": 201,
-    "foundAt": "2026-09-24T10:15:12.640Z"
-  },
-  {
-    "key": "apache/shenyu-dashboard#620",
-    "tier": 1,
-    "repo": "apache/shenyu-dashboard",
-    "number": 620,
-    "title": "[BUG] `download()` does not check the HTTP status before saving the response body as a file",
-    "url": "https://github.com/apache/shenyu-dashboard/issues/620",
-    "comments": 0,
-    "createdAt": "2026-09-24T06:38:45Z",
-    "labels": [
-      "type: bug",
-      "good first issue",
-      "priority: medium"
-    ],
-    "language": "javascript",
-    "stars": 201,
-    "foundAt": "2026-09-24T10:15:12.640Z"
-  },
-  {
-    "key": "apache/shenyu-dashboard#619",
-    "tier": 1,
-    "repo": "apache/shenyu-dashboard",
-    "number": 619,
-    "title": "[BUG] Password fields rendered with plain `Input` and prefilled from the server response (User / Registry modals)",
-    "url": "https://github.com/apache/shenyu-dashboard/issues/619",
-    "comments": 0,
-    "createdAt": "2026-09-24T06:38:36Z",
-    "labels": [
-      "type: bug",
-      "good first issue",
-      "priority: medium"
-    ],
-    "language": "javascript",
-    "stars": 201,
-    "foundAt": "2026-09-24T10:15:12.640Z"
-  },
-  {
-    "key": "apache/shenyu-dashboard#617",
-    "tier": 1,
-    "repo": "apache/shenyu-dashboard",
-    "number": 617,
-    "title": "[BUG] McpServer tool table reads non-existent `toolTotal` from the common model – pagination is capped at one page",
-    "url": "https://github.com/apache/shenyu-dashboard/issues/617",
-    "comments": 0,
-    "createdAt": "2026-09-24T06:38:21Z",
-    "labels": [
-      "type: bug",
-      "good first issue",
-      "priority: high"
-    ],
-    "language": "javascript",
-    "stars": 201,
-    "foundAt": "2026-09-24T10:15:12.640Z"
-  },
-  {
-    "key": "shadcn-labs/ogimagecn#56",
-    "tier": 2,
-    "repo": "shadcn-labs/ogimagecn",
-    "number": 56,
-    "title": "Add a /playground page to edit and customize every template",
-    "url": "https://github.com/shadcn-labs/ogimagecn/issues/56",
-    "comments": 0,
-    "createdAt": "2026-09-24T09:15:16Z",
-    "labels": [
-      "enhancement",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 229,
-    "foundAt": "2026-09-24T10:15:13.575Z"
-  },
-  {
-    "key": "prettier/prettier#20149",
-    "tier": 2,
-    "repo": "prettier/prettier",
-    "number": 20149,
-    "title": "Support directives in MDX parser",
-    "url": "https://github.com/prettier/prettier/issues/20149",
-    "comments": 0,
-    "createdAt": "2026-09-24T06:26:10Z",
-    "labels": [
-      "help wanted",
-      "lang:mdx"
-    ],
-    "language": "javascript",
-    "stars": 52276,
-    "foundAt": "2026-09-24T10:15:14.881Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30861",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30861,
-    "title": "[good first issue] 🎐 Add new Video Game Quote 136 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30861",
-    "comments": 1,
-    "createdAt": "2026-09-24T05:00:55Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-24T05:05:39.902Z"
   }
 ]

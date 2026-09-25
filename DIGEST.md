@@ -4,6 +4,13 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-25 | 🥇 | [Real logos for 3–5 high-value apps](https://github.com/tortuvshin/open-apps/issues/293) | `tortuvshin/open-apps` | ⭐ 4.4k |
+| 2026-09-25 | 🥈 | [[good first issue] 🍢 Add new Grammar Point 360 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30974) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-25 | 🥈 | [[good first issue] 🎏 Add new Japanese Proverb 1067 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30973) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-25 | 🥈 | [[good first issue] 🥢 Add new Japan Fact 2283 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30971) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-25 | 🥈 | [[good first issue] 🍁 Add new Theme: Neon Arcade (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30969) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-25 | 🥈 | [[🐛 Bug]: mock.respond() in Firefox leaves the request blocked forever: "body" i](https://github.com/webdriverio/webdriverio/issues/15708) | `webdriverio/webdriverio` | ⭐ 9.8k |
+| 2026-09-25 | 🥈 | [[good first issue] 🍵 Add new False Friend Pair 514 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30967) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-25 | 🥇 | [[good first issue] 🍥 Add new Anime Quote 1401 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30956) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-25 | 🥇 | [[good first issue] ⛩️ Add new Trivia Question 1240 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30953) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-25 | 🥈 | [[UI] Improve vertical alignment of Related Resources card thumbnails](https://github.com/layer5io/layer5/issues/8134) | `layer5io/layer5` | ⭐ 1.1k |
@@ -97,10 +104,3 @@
 | 2026-09-24 | 🥇 | [[BUG] discovery model `reload` and the TCP page `fetchValue` drop `namespaceId`](https://github.com/apache/shenyu-dashboard/issues/625) | `apache/shenyu-dashboard` | ⭐ 201 |
 | 2026-09-24 | 🥇 | [[BUG] DiscoveryImportModal reads a `currentNamespaceId` prop that is never provi](https://github.com/apache/shenyu-dashboard/issues/623) | `apache/shenyu-dashboard` | ⭐ 201 |
 | 2026-09-24 | 🥇 | [[BUG] RuleCopy reads `currentNamespaceId` from props instead of state, and deref](https://github.com/apache/shenyu-dashboard/issues/622) | `apache/shenyu-dashboard` | ⭐ 201 |
-| 2026-09-24 | 🥇 | [[BUG] metadata model `reload` drops the `path` filter and forwards `appName`](https://github.com/apache/shenyu-dashboard/issues/621) | `apache/shenyu-dashboard` | ⭐ 201 |
-| 2026-09-24 | 🥇 | [[BUG] `download()` does not check the HTTP status before saving the response bod](https://github.com/apache/shenyu-dashboard/issues/620) | `apache/shenyu-dashboard` | ⭐ 201 |
-| 2026-09-24 | 🥇 | [[BUG] Password fields rendered with plain `Input` and prefilled from the server ](https://github.com/apache/shenyu-dashboard/issues/619) | `apache/shenyu-dashboard` | ⭐ 201 |
-| 2026-09-24 | 🥇 | [[BUG] McpServer tool table reads non-existent `toolTotal` from the common model ](https://github.com/apache/shenyu-dashboard/issues/617) | `apache/shenyu-dashboard` | ⭐ 201 |
-| 2026-09-24 | 🥈 | [Add a /playground page to edit and customize every template](https://github.com/shadcn-labs/ogimagecn/issues/56) | `shadcn-labs/ogimagecn` | ⭐ 229 |
-| 2026-09-24 | 🥈 | [Support directives in MDX parser](https://github.com/prettier/prettier/issues/20149) | `prettier/prettier` | ⭐ 52.3k |
-| 2026-09-24 | 🥇 | [[good first issue] 🎐 Add new Video Game Quote 136 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30861) | `lingdojo/kana-dojo` | ⭐ 3.4k |
