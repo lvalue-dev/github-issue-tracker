@@ -4,6 +4,11 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-25 | 🥇 | [[good first issue] 🍥 Add new Anime Quote 1401 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30956) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-25 | 🥇 | [[good first issue] ⛩️ Add new Trivia Question 1240 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30953) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-25 | 🥈 | [[UI] Improve vertical alignment of Related Resources card thumbnails](https://github.com/layer5io/layer5/issues/8134) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-25 | 🥈 | [Keep an unrelated Dialog open when Escape closes a Combobox popover with React o](https://github.com/ariakit/ariakit/issues/7646) | `ariakit/ariakit` | ⭐ 8.6k |
+| 2026-09-25 | 🥈 | [Update to Vuetify 4](https://github.com/eclipsesource/jsonforms/issues/2629) | `eclipsesource/jsonforms` | ⭐ 2.7k |
 | 2026-09-25 | 🥇 | [[good first issue] 🍁 Add new Trivia Question 425 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30938) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-25 | 🥇 | [Document how to drive an app with Playwright while Reticle is embedded](https://github.com/reticlehq/reticle/issues/1083) | `reticlehq/reticle` | ⭐ 725 |
 | 2026-09-25 | 🥇 | [[agent] `verify --expect` loses its JSON quotes in PowerShell, and `--expect-fil](https://github.com/reticlehq/reticle/issues/1082) | `reticlehq/reticle` | ⭐ 725 |
@@ -99,8 +104,3 @@
 | 2026-09-24 | 🥈 | [Add a /playground page to edit and customize every template](https://github.com/shadcn-labs/ogimagecn/issues/56) | `shadcn-labs/ogimagecn` | ⭐ 229 |
 | 2026-09-24 | 🥈 | [Support directives in MDX parser](https://github.com/prettier/prettier/issues/20149) | `prettier/prettier` | ⭐ 52.3k |
 | 2026-09-24 | 🥇 | [[good first issue] 🎐 Add new Video Game Quote 136 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30861) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-24 | 🥇 | [[good first issue] 🦊 Add new Anime Quote 1183 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30860) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-24 | 🥇 | [[good first issue] 🦊 Add new Japanese Proverb 1656 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30859) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-24 | 🥇 | [[good first issue] 🥟 Add new Japan Fact 2265 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30858) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-24 | 🥇 | [Kubernetes: /tmp emptyDir lacks sticky protection required by fs-safe, disabling](https://github.com/openclaw/openclaw/issues/156985) | `openclaw/openclaw` | ⭐ 390.3k |
-| 2026-09-24 | 🥇 | [[good first issue] 🍵 Add new Theme: Midnight Ramen (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30857) | `lingdojo/kana-dojo` | ⭐ 3.4k |

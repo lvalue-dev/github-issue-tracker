@@ -1,5 +1,105 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30956",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30956,
+    "title": "[good first issue] 🍥 Add new Anime Quote 1401 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30956",
+    "comments": 1,
+    "createdAt": "2026-09-25T13:57:31Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-25T13:58:22.309Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30953",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30953,
+    "title": "[good first issue] ⛩️ Add new Trivia Question 1240 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30953",
+    "comments": 1,
+    "createdAt": "2026-09-25T12:57:35Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-25T13:58:23.402Z"
+  },
+  {
+    "key": "layer5io/layer5#8134",
+    "tier": 2,
+    "repo": "layer5io/layer5",
+    "number": 8134,
+    "title": "[UI] Improve vertical alignment of Related Resources card thumbnails",
+    "url": "https://github.com/layer5io/layer5/issues/8134",
+    "comments": 1,
+    "createdAt": "2026-09-25T13:21:05Z",
+    "labels": [
+      "kind/bug",
+      "help wanted",
+      "framework/gatsby"
+    ],
+    "language": "javascript",
+    "stars": 1124,
+    "foundAt": "2026-09-25T13:58:27.080Z"
+  },
+  {
+    "key": "ariakit/ariakit#7646",
+    "tier": 2,
+    "repo": "ariakit/ariakit",
+    "number": 7646,
+    "title": "Keep an unrelated Dialog open when Escape closes a Combobox popover with React on document",
+    "url": "https://github.com/ariakit/ariakit/issues/7646",
+    "comments": 0,
+    "createdAt": "2026-09-25T12:48:21Z",
+    "labels": [
+      "bug",
+      "p2",
+      "easy"
+    ],
+    "language": "typescript",
+    "stars": 8624,
+    "foundAt": "2026-09-25T13:58:26.763Z"
+  },
+  {
+    "key": "eclipsesource/jsonforms#2629",
+    "tier": 2,
+    "repo": "eclipsesource/jsonforms",
+    "number": 2629,
+    "title": "Update to Vuetify 4",
+    "url": "https://github.com/eclipsesource/jsonforms/issues/2629",
+    "comments": 0,
+    "createdAt": "2026-09-25T12:41:23Z",
+    "labels": [
+      "help wanted",
+      "vue",
+      "vuetify"
+    ],
+    "language": "typescript",
+    "stars": 2739,
+    "foundAt": "2026-09-25T13:58:27.080Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30938",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1861,120 +1961,5 @@
     "language": "typescript",
     "stars": 3404,
     "foundAt": "2026-09-24T05:05:39.902Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30860",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30860,
-    "title": "[good first issue] 🦊 Add new Anime Quote 1183 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30860",
-    "comments": 1,
-    "createdAt": "2026-09-24T04:57:25Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-24T05:05:39.902Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30859",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30859,
-    "title": "[good first issue] 🦊 Add new Japanese Proverb 1656 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30859",
-    "comments": 1,
-    "createdAt": "2026-09-24T04:00:56Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-24T05:05:40.237Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30858",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30858,
-    "title": "[good first issue] 🥟 Add new Japan Fact 2265 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30858",
-    "comments": 1,
-    "createdAt": "2026-09-24T03:57:27Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-24T05:05:40.237Z"
-  },
-  {
-    "key": "openclaw/openclaw#156985",
-    "tier": 1,
-    "repo": "openclaw/openclaw",
-    "number": 156985,
-    "title": "Kubernetes: /tmp emptyDir lacks sticky protection required by fs-safe, disabling session observer",
-    "url": "https://github.com/openclaw/openclaw/issues/156985",
-    "comments": 3,
-    "createdAt": "2026-09-24T03:42:57Z",
-    "labels": [
-      "good first issue",
-      "no-stale",
-      "P2",
-      "clawsweeper:fix-shape-clear",
-      "clawsweeper:queueable-fix",
-      "impact:session-state",
-      "clawsweeper:current-main-repro",
-      "issue-rating: 🦀 challenger crab"
-    ],
-    "language": "typescript",
-    "stars": 390348,
-    "foundAt": "2026-09-24T05:05:40.449Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30857",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30857,
-    "title": "[good first issue] 🍵 Add new Theme: Midnight Ramen (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30857",
-    "comments": 1,
-    "createdAt": "2026-09-24T03:01:03Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-24T05:05:40.664Z"
   }
 ]
