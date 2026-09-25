@@ -4,6 +4,14 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-25 | 🥇 | [loyalty-plugin: store-credit debits are labeled "Gift card usage"](https://github.com/medusajs/medusa/issues/16987) | `medusajs/medusa` | ⭐ 36.4k |
+| 2026-09-25 | 🥇 | [[good first issue] 🍚 Add new Japanese Proverb 416 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30923) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-25 | 🥇 | [[good first issue] 🎌 Add new Japan Fact 909 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30922) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-25 | 🥈 | [Add Osaurus Support as a Provider](https://github.com/webbrain-one/webbrain/issues/3087) | `webbrain-one/webbrain` | ⭐ 1.1k |
+| 2026-09-25 | 🥈 | [OpenCode 2: what should OpenCode Quota become?](https://github.com/slkiser/opencode-quota/issues/293) | `slkiser/opencode-quota` | ⭐ 982 |
+| 2026-09-25 | 🥈 | [[good first issue] 🐡 Add new Theme: Shinkansen Speed (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30920) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-25 | 🥈 | [[good first issue] 🦊 Add new Learner Mistake 733 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30919) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-25 | 🥈 | [[good first issue] 🎍 Add new Etiquette Tip 579 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30917) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-24 | 🥇 | [[good first issue] 🎋 Add new False Friend Pair 1070 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30916) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-24 | 🥇 | [[good first issue] 🍜 Add new Japanese Idiom 550 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30915) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-24 | 🥇 | [[good first issue] 🍜 Add new Video Game Quote 1022 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30914) | `lingdojo/kana-dojo` | ⭐ 3.5k |
@@ -96,11 +104,3 @@
 | 2026-09-23 | 🥇 | [[good first issue] 🗻 Add new Trivia Question 268 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30832) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-23 | 🥇 | [[good first issue] 🐡 Add new Japanese Proverb 359 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30831) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-23 | 🥇 | [feat(slack-bot): support Claude Agent harness and make it the Slack default](https://github.com/ColeMurray/background-agents/issues/2044) | `ColeMurray/background-agents` | ⭐ 3.3k |
-| 2026-09-23 | 🥇 | [[good first issue] 🌋 Add new Japan Fact 870 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30830) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-23 | 🥇 | [[good first issue] 🍶 Add new Theme: Wasabi Punch (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30829) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-23 | 🥇 | [A number field holding 0 hides its clear button](https://github.com/neomjs/neo/issues/19143) | `neomjs/neo` | ⭐ 3.3k |
-| 2026-09-23 | 🥇 | [Pin which events the calendar's getDayRecords returns for a day](https://github.com/neomjs/neo/issues/19140) | `neomjs/neo` | ⭐ 3.3k |
-| 2026-09-23 | 🥇 | [Pin the icon, icon-link and LinkedIn grid columns](https://github.com/neomjs/neo/issues/19137) | `neomjs/neo` | ⭐ 3.3k |
-| 2026-09-23 | 🥇 | [Pin the ways ClassSystem.beforeSetInstance turns a config into an instance](https://github.com/neomjs/neo/issues/19134) | `neomjs/neo` | ⭐ 3.3k |
-| 2026-09-23 | 🥇 | [Pin Neo.util.Performance: timing samples, averages and the sample window](https://github.com/neomjs/neo/issues/19133) | `neomjs/neo` | ⭐ 3.3k |
-| 2026-09-23 | 🥇 | [Pin HashHistory: one route stack per browser window](https://github.com/neomjs/neo/issues/19132) | `neomjs/neo` | ⭐ 3.3k |

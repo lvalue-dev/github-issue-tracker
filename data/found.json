@@ -1,5 +1,170 @@
 [
   {
+    "key": "medusajs/medusa#16987",
+    "tier": 1,
+    "repo": "medusajs/medusa",
+    "number": 16987,
+    "title": "loyalty-plugin: store-credit debits are labeled \"Gift card usage\"",
+    "url": "https://github.com/medusajs/medusa/issues/16987",
+    "comments": 1,
+    "createdAt": "2026-09-25T01:20:44Z",
+    "labels": [
+      "good first issue",
+      "type: bug"
+    ],
+    "language": "typescript",
+    "stars": 36448,
+    "foundAt": "2026-09-25T01:39:37.531Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30923",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30923,
+    "title": "[good first issue] 🍚 Add new Japanese Proverb 416 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30923",
+    "comments": 1,
+    "createdAt": "2026-09-25T01:00:57Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-25T01:39:37.531Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30922",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30922,
+    "title": "[good first issue] 🎌 Add new Japan Fact 909 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30922",
+    "comments": 1,
+    "createdAt": "2026-09-25T00:57:27Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-25T01:39:37.531Z"
+  },
+  {
+    "key": "webbrain-one/webbrain#3087",
+    "tier": 2,
+    "repo": "webbrain-one/webbrain",
+    "number": 3087,
+    "title": "Add Osaurus Support as a Provider",
+    "url": "https://github.com/webbrain-one/webbrain/issues/3087",
+    "comments": 0,
+    "createdAt": "2026-09-25T00:24:48Z",
+    "labels": [
+      "enhancement",
+      "help wanted"
+    ],
+    "language": "javascript",
+    "stars": 1095,
+    "foundAt": "2026-09-25T01:39:41.158Z"
+  },
+  {
+    "key": "slkiser/opencode-quota#293",
+    "tier": 2,
+    "repo": "slkiser/opencode-quota",
+    "number": 293,
+    "title": "OpenCode 2: what should OpenCode Quota become?",
+    "url": "https://github.com/slkiser/opencode-quota/issues/293",
+    "comments": 0,
+    "createdAt": "2026-09-25T00:13:54Z",
+    "labels": [
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 982,
+    "foundAt": "2026-09-25T01:39:40.957Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30920",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30920,
+    "title": "[good first issue] 🐡 Add new Theme: Shinkansen Speed (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30920",
+    "comments": 1,
+    "createdAt": "2026-09-25T00:01:03Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-25T01:39:40.957Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30919",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30919,
+    "title": "[good first issue] 🦊 Add new Learner Mistake 733 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30919",
+    "comments": 1,
+    "createdAt": "2026-09-24T23:57:29Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-25T01:39:40.957Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30917",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30917,
+    "title": "[good first issue] 🎍 Add new Etiquette Tip 579 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30917",
+    "comments": 1,
+    "createdAt": "2026-09-24T22:57:28Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-25T01:39:41.158Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30916",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1808,183 +1973,5 @@
     "language": "typescript",
     "stars": 3272,
     "foundAt": "2026-09-23T17:17:57.096Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30830",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30830,
-    "title": "[good first issue] 🌋 Add new Japan Fact 870 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30830",
-    "comments": 1,
-    "createdAt": "2026-09-23T16:01:07Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-23T17:17:57.588Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30829",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30829,
-    "title": "[good first issue] 🍶 Add new Theme: Wasabi Punch (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30829",
-    "comments": 1,
-    "createdAt": "2026-09-23T15:57:43Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-23T17:17:57.588Z"
-  },
-  {
-    "key": "neomjs/neo#19143",
-    "tier": 1,
-    "repo": "neomjs/neo",
-    "number": 19143,
-    "title": "A number field holding 0 hides its clear button",
-    "url": "https://github.com/neomjs/neo/issues/19143",
-    "comments": 1,
-    "createdAt": "2026-09-23T14:34:59Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "good first issue",
-      "contributor-experience",
-      "hacktoberfest",
-      "ai",
-      "testing"
-    ],
-    "language": "javascript",
-    "stars": 3280,
-    "foundAt": "2026-09-23T17:17:58.079Z"
-  },
-  {
-    "key": "neomjs/neo#19140",
-    "tier": 1,
-    "repo": "neomjs/neo",
-    "number": 19140,
-    "title": "Pin which events the calendar's getDayRecords returns for a day",
-    "url": "https://github.com/neomjs/neo/issues/19140",
-    "comments": 0,
-    "createdAt": "2026-09-23T14:29:45Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "contributor-experience",
-      "hacktoberfest",
-      "ai",
-      "testing"
-    ],
-    "language": "javascript",
-    "stars": 3280,
-    "foundAt": "2026-09-23T17:17:58.079Z"
-  },
-  {
-    "key": "neomjs/neo#19137",
-    "tier": 1,
-    "repo": "neomjs/neo",
-    "number": 19137,
-    "title": "Pin the icon, icon-link and LinkedIn grid columns",
-    "url": "https://github.com/neomjs/neo/issues/19137",
-    "comments": 0,
-    "createdAt": "2026-09-23T14:29:15Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "contributor-experience",
-      "hacktoberfest",
-      "ai",
-      "testing"
-    ],
-    "language": "javascript",
-    "stars": 3280,
-    "foundAt": "2026-09-23T17:17:58.315Z"
-  },
-  {
-    "key": "neomjs/neo#19134",
-    "tier": 1,
-    "repo": "neomjs/neo",
-    "number": 19134,
-    "title": "Pin the ways ClassSystem.beforeSetInstance turns a config into an instance",
-    "url": "https://github.com/neomjs/neo/issues/19134",
-    "comments": 0,
-    "createdAt": "2026-09-23T14:27:52Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "contributor-experience",
-      "hacktoberfest",
-      "ai",
-      "testing"
-    ],
-    "language": "javascript",
-    "stars": 3280,
-    "foundAt": "2026-09-23T17:17:58.315Z"
-  },
-  {
-    "key": "neomjs/neo#19133",
-    "tier": 1,
-    "repo": "neomjs/neo",
-    "number": 19133,
-    "title": "Pin Neo.util.Performance: timing samples, averages and the sample window",
-    "url": "https://github.com/neomjs/neo/issues/19133",
-    "comments": 0,
-    "createdAt": "2026-09-23T14:27:42Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "contributor-experience",
-      "hacktoberfest",
-      "ai",
-      "testing"
-    ],
-    "language": "javascript",
-    "stars": 3280,
-    "foundAt": "2026-09-23T17:17:58.315Z"
-  },
-  {
-    "key": "neomjs/neo#19132",
-    "tier": 1,
-    "repo": "neomjs/neo",
-    "number": 19132,
-    "title": "Pin HashHistory: one route stack per browser window",
-    "url": "https://github.com/neomjs/neo/issues/19132",
-    "comments": 0,
-    "createdAt": "2026-09-23T14:27:26Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "contributor-experience",
-      "hacktoberfest",
-      "ai",
-      "testing"
-    ],
-    "language": "javascript",
-    "stars": 3280,
-    "foundAt": "2026-09-23T17:17:58.315Z"
   }
 ]
