@@ -1,5 +1,296 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30938",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30938,
+    "title": "[good first issue] 🍁 Add new Trivia Question 425 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30938",
+    "comments": 1,
+    "createdAt": "2026-09-25T07:57:30Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-25T07:59:45.850Z"
+  },
+  {
+    "key": "reticlehq/reticle#1083",
+    "tier": 1,
+    "repo": "reticlehq/reticle",
+    "number": 1083,
+    "title": "Document how to drive an app with Playwright while Reticle is embedded",
+    "url": "https://github.com/reticlehq/reticle/issues/1083",
+    "comments": 0,
+    "createdAt": "2026-09-25T07:32:23Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "help wanted",
+      "agent-reported",
+      "area/docs",
+      "P2"
+    ],
+    "language": "typescript",
+    "stars": 725,
+    "foundAt": "2026-09-25T07:59:46.025Z"
+  },
+  {
+    "key": "reticlehq/reticle#1082",
+    "tier": 1,
+    "repo": "reticlehq/reticle",
+    "number": 1082,
+    "title": "[agent] `verify --expect` loses its JSON quotes in PowerShell, and `--expect-file` (the fix) is undocumented",
+    "url": "https://github.com/reticlehq/reticle/issues/1082",
+    "comments": 1,
+    "createdAt": "2026-09-25T07:32:21Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "help wanted",
+      "agent-reported",
+      "area/docs",
+      "platform/windows",
+      "P2"
+    ],
+    "language": "typescript",
+    "stars": 725,
+    "foundAt": "2026-09-25T07:59:46.025Z"
+  },
+  {
+    "key": "reticlehq/reticle#1080",
+    "tier": 1,
+    "repo": "reticlehq/reticle",
+    "number": 1080,
+    "title": "[agent] The no-session guidance names any port serving a page as \"this app\", including an unrelated static server",
+    "url": "https://github.com/reticlehq/reticle/issues/1080",
+    "comments": 1,
+    "createdAt": "2026-09-25T07:32:17Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "agent-reported",
+      "area/server",
+      "P2"
+    ],
+    "language": "typescript",
+    "stars": 725,
+    "foundAt": "2026-09-25T07:59:46.025Z"
+  },
+  {
+    "key": "reticlehq/reticle#1079",
+    "tier": 1,
+    "repo": "reticlehq/reticle",
+    "number": 1079,
+    "title": "[agent] On Windows, `reticle update` from 3.1.0 or older fails with `spawn EINVAL`, and nothing says how to get out",
+    "url": "https://github.com/reticlehq/reticle/issues/1079",
+    "comments": 0,
+    "createdAt": "2026-09-25T07:32:14Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "agent-reported",
+      "area/server",
+      "area/docs",
+      "platform/windows",
+      "P2"
+    ],
+    "language": "typescript",
+    "stars": 725,
+    "foundAt": "2026-09-25T07:59:46.025Z"
+  },
+  {
+    "key": "fossasia/scrum_helper#877",
+    "tier": 1,
+    "repo": "fossasia/scrum_helper",
+    "number": 877,
+    "title": "[Bug] : Date picker popover does not close after date selection in Tauri desktop app",
+    "url": "https://github.com/fossasia/scrum_helper/issues/877",
+    "comments": 0,
+    "createdAt": "2026-09-25T07:16:48Z",
+    "labels": [
+      "bug",
+      "enhancement",
+      "good first issue"
+    ],
+    "language": "javascript",
+    "stars": 1323,
+    "foundAt": "2026-09-25T07:59:47.408Z"
+  },
+  {
+    "key": "fossasia/scrum_helper#876",
+    "tier": 1,
+    "repo": "fossasia/scrum_helper",
+    "number": 876,
+    "title": "[Bug] : Mail icon alignment, hover cursor, and header icon style inconsistency in Tauri app",
+    "url": "https://github.com/fossasia/scrum_helper/issues/876",
+    "comments": 0,
+    "createdAt": "2026-09-25T07:07:57Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "javascript",
+    "stars": 1323,
+    "foundAt": "2026-09-25T07:59:47.408Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30937",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30937,
+    "title": "[good first issue] 🍘 Add new Japanese Proverb 1625 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30937",
+    "comments": 1,
+    "createdAt": "2026-09-25T07:00:58Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-25T07:59:46.025Z"
+  },
+  {
+    "key": "Comfy-Org/ComfyUI_frontend#18805",
+    "tier": 1,
+    "repo": "Comfy-Org/ComfyUI_frontend",
+    "number": 18805,
+    "title": "Replace the type assertions in agentFollowerHostSocket's docFrameEnvelope with a checked record guard",
+    "url": "https://github.com/Comfy-Org/ComfyUI_frontend/issues/18805",
+    "comments": 0,
+    "createdAt": "2026-09-25T06:58:48Z",
+    "labels": [
+      "good first issue",
+      "area:testing"
+    ],
+    "language": "typescript",
+    "stars": 2034,
+    "foundAt": "2026-09-25T07:59:46.215Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30936",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30936,
+    "title": "[good first issue] 🍤 Add new Japan Fact 539 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30936",
+    "comments": 1,
+    "createdAt": "2026-09-25T06:57:28Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-25T07:59:46.215Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30933",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30933,
+    "title": "[good first issue] 🍡 Add new Learner Mistake 438 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30933",
+    "comments": 1,
+    "createdAt": "2026-09-25T05:57:26Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-25T07:59:46.419Z"
+  },
+  {
+    "key": "layer5io/layer5#8130",
+    "tier": 2,
+    "repo": "layer5io/layer5",
+    "number": 8130,
+    "title": "[Meshery] Features section layout overlap and text overflow on medium/tablet viewports",
+    "url": "https://github.com/layer5io/layer5/issues/8130",
+    "comments": 0,
+    "createdAt": "2026-09-25T07:51:15Z",
+    "labels": [
+      "kind/bug",
+      "help wanted",
+      "framework/gatsby"
+    ],
+    "language": "javascript",
+    "stars": 1124,
+    "foundAt": "2026-09-25T07:59:48.587Z"
+  },
+  {
+    "key": "reticlehq/reticle#1084",
+    "tier": 2,
+    "repo": "reticlehq/reticle",
+    "number": 1084,
+    "title": "[agent] `press` may dispatch a key twice (needs a repro)",
+    "url": "https://github.com/reticlehq/reticle/issues/1084",
+    "comments": 0,
+    "createdAt": "2026-09-25T07:32:26Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "question",
+      "agent-reported",
+      "area/browser",
+      "P2"
+    ],
+    "language": "typescript",
+    "stars": 725,
+    "foundAt": "2026-09-25T07:59:48.000Z"
+  },
+  {
+    "key": "reticlehq/reticle#1081",
+    "tier": 2,
+    "repo": "reticlehq/reticle",
+    "number": 1081,
+    "title": "[agent] A Next.js app wired with `withReticle` still reports `no-source-mapping` (needs a repro)",
+    "url": "https://github.com/reticlehq/reticle/issues/1081",
+    "comments": 0,
+    "createdAt": "2026-09-25T07:32:19Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "agent-reported",
+      "area/next",
+      "fw/next",
+      "P2"
+    ],
+    "language": "typescript",
+    "stars": 725,
+    "foundAt": "2026-09-25T07:59:48.000Z"
+  },
+  {
     "key": "medusajs/medusa#16987",
     "tier": 1,
     "repo": "medusajs/medusa",
@@ -1685,293 +1976,5 @@
     "language": "typescript",
     "stars": 3404,
     "foundAt": "2026-09-24T05:05:40.664Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30856",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30856,
-    "title": "[good first issue] 🗻 Add new Learner Mistake 571 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30856",
-    "comments": 1,
-    "createdAt": "2026-09-24T02:57:25Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-24T05:05:40.664Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30853",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30853,
-    "title": "[good first issue] 🌺 Add new Etiquette Tip 1041 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30853",
-    "comments": 1,
-    "createdAt": "2026-09-24T01:57:29Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-24T05:05:41.126Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30852",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30852,
-    "title": "[good first issue] 🗾 Add new False Friend Pair 156 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30852",
-    "comments": 1,
-    "createdAt": "2026-09-24T01:00:56Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-24T05:05:41.126Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30851",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30851,
-    "title": "[good first issue] 🍡 Add new Dialect Entry 791 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30851",
-    "comments": 1,
-    "createdAt": "2026-09-24T00:57:24Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-24T05:05:41.126Z"
-  },
-  {
-    "key": "ariakit/ariakit#7626",
-    "tier": 3,
-    "repo": "ariakit/ariakit",
-    "number": 7626,
-    "title": "Keep focus in the list when a ComboboxSelect popup opens with nothing selected",
-    "url": "https://github.com/ariakit/ariakit/issues/7626",
-    "comments": 0,
-    "createdAt": "2026-09-24T03:40:33Z",
-    "labels": [
-      "bug",
-      "a11y"
-    ],
-    "language": "typescript",
-    "stars": 8624,
-    "foundAt": "2026-09-24T05:05:44.485Z"
-  },
-  {
-    "key": "ariakit/ariakit#7625",
-    "tier": 3,
-    "repo": "ariakit/ariakit",
-    "number": 7625,
-    "title": "Keep focus inside a popover when it positions again while open",
-    "url": "https://github.com/ariakit/ariakit/issues/7625",
-    "comments": 0,
-    "createdAt": "2026-09-24T03:40:31Z",
-    "labels": [
-      "bug",
-      "a11y"
-    ],
-    "language": "typescript",
-    "stars": 8624,
-    "foundAt": "2026-09-24T05:05:44.485Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30841",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30841,
-    "title": "[good first issue] 🧧 Add new Etiquette Tip 800 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30841",
-    "comments": 1,
-    "createdAt": "2026-09-23T20:01:08Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-23T20:32:41.274Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30840",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30840,
-    "title": "[good first issue] 🎌 Add new Dialect Entry 165 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30840",
-    "comments": 1,
-    "createdAt": "2026-09-23T19:57:28Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-23T20:32:41.499Z"
-  },
-  {
-    "key": "processing/p5.js#9202",
-    "tier": 2,
-    "repo": "processing/p5.js",
-    "number": 9202,
-    "title": "`p5.VERSION` reports \"2.3.1\" in the 2.3.3 release build (build-time version replacement regression)",
-    "url": "https://github.com/processing/p5.js/issues/9202",
-    "comments": 1,
-    "createdAt": "2026-09-23T13:46:39Z",
-    "labels": [
-      "Area:Core",
-      "Help Wanted",
-      "p5.js 2.0+",
-      "Patch"
-    ],
-    "language": "javascript",
-    "stars": 24030,
-    "foundAt": "2026-09-23T20:32:42.343Z"
-  },
-  {
-    "key": "elastic/eui#10078",
-    "tier": 3,
-    "repo": "elastic/eui",
-    "number": 10078,
-    "title": "Docs site has some extraneous panel borders",
-    "url": "https://github.com/elastic/eui/issues/10078",
-    "comments": 0,
-    "createdAt": "2026-09-23T20:31:54Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "typescript",
-    "stars": 6369,
-    "foundAt": "2026-09-23T20:32:42.743Z"
-  },
-  {
-    "key": "quarto-dev/quarto-cli#14944",
-    "tier": 3,
-    "repo": "quarto-dev/quarto-cli",
-    "number": 14944,
-    "title": "revealjs logo option's alt text support is undocumented",
-    "url": "https://github.com/quarto-dev/quarto-cli/issues/14944",
-    "comments": 0,
-    "createdAt": "2026-09-23T20:19:53Z",
-    "labels": [
-      "documentation",
-      "accessibility"
-    ],
-    "language": "javascript",
-    "stars": 6016,
-    "foundAt": "2026-09-23T20:32:42.936Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30832",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30832,
-    "title": "[good first issue] 🗻 Add new Trivia Question 268 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30832",
-    "comments": 1,
-    "createdAt": "2026-09-23T17:01:03Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-23T17:17:56.148Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30831",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30831,
-    "title": "[good first issue] 🐡 Add new Japanese Proverb 359 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30831",
-    "comments": 1,
-    "createdAt": "2026-09-23T16:57:27Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3404,
-    "foundAt": "2026-09-23T17:17:56.148Z"
-  },
-  {
-    "key": "ColeMurray/background-agents#2044",
-    "tier": 1,
-    "repo": "ColeMurray/background-agents",
-    "number": 2044,
-    "title": "feat(slack-bot): support Claude Agent harness and make it the Slack default",
-    "url": "https://github.com/ColeMurray/background-agents/issues/2044",
-    "comments": 0,
-    "createdAt": "2026-09-23T16:29:09Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 3272,
-    "foundAt": "2026-09-23T17:17:57.096Z"
   }
 ]

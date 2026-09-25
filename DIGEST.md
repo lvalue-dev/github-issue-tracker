@@ -4,6 +4,20 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-25 | 🥇 | [[good first issue] 🍁 Add new Trivia Question 425 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30938) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-25 | 🥇 | [Document how to drive an app with Playwright while Reticle is embedded](https://github.com/reticlehq/reticle/issues/1083) | `reticlehq/reticle` | ⭐ 725 |
+| 2026-09-25 | 🥇 | [[agent] `verify --expect` loses its JSON quotes in PowerShell, and `--expect-fil](https://github.com/reticlehq/reticle/issues/1082) | `reticlehq/reticle` | ⭐ 725 |
+| 2026-09-25 | 🥇 | [[agent] The no-session guidance names any port serving a page as "this app", inc](https://github.com/reticlehq/reticle/issues/1080) | `reticlehq/reticle` | ⭐ 725 |
+| 2026-09-25 | 🥇 | [[agent] On Windows, `reticle update` from 3.1.0 or older fails with `spawn EINVA](https://github.com/reticlehq/reticle/issues/1079) | `reticlehq/reticle` | ⭐ 725 |
+| 2026-09-25 | 🥇 | [[Bug] : Date picker popover does not close after date selection in Tauri desktop](https://github.com/fossasia/scrum_helper/issues/877) | `fossasia/scrum_helper` | ⭐ 1.3k |
+| 2026-09-25 | 🥇 | [[Bug] : Mail icon alignment, hover cursor, and header icon style inconsistency i](https://github.com/fossasia/scrum_helper/issues/876) | `fossasia/scrum_helper` | ⭐ 1.3k |
+| 2026-09-25 | 🥇 | [[good first issue] 🍘 Add new Japanese Proverb 1625 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30937) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-25 | 🥇 | [Replace the type assertions in agentFollowerHostSocket's docFrameEnvelope with a](https://github.com/Comfy-Org/ComfyUI_frontend/issues/18805) | `Comfy-Org/ComfyUI_frontend` | ⭐ 2.0k |
+| 2026-09-25 | 🥇 | [[good first issue] 🍤 Add new Japan Fact 539 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30936) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-25 | 🥇 | [[good first issue] 🍡 Add new Learner Mistake 438 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30933) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-25 | 🥈 | [[Meshery] Features section layout overlap and text overflow on medium/tablet vie](https://github.com/layer5io/layer5/issues/8130) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-25 | 🥈 | [[agent] `press` may dispatch a key twice (needs a repro)](https://github.com/reticlehq/reticle/issues/1084) | `reticlehq/reticle` | ⭐ 725 |
+| 2026-09-25 | 🥈 | [[agent] A Next.js app wired with `withReticle` still reports `no-source-mapping`](https://github.com/reticlehq/reticle/issues/1081) | `reticlehq/reticle` | ⭐ 725 |
 | 2026-09-25 | 🥇 | [loyalty-plugin: store-credit debits are labeled "Gift card usage"](https://github.com/medusajs/medusa/issues/16987) | `medusajs/medusa` | ⭐ 36.4k |
 | 2026-09-25 | 🥇 | [[good first issue] 🍚 Add new Japanese Proverb 416 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30923) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-25 | 🥇 | [[good first issue] 🎌 Add new Japan Fact 909 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30922) | `lingdojo/kana-dojo` | ⭐ 3.5k |
@@ -90,17 +104,3 @@
 | 2026-09-24 | 🥇 | [[good first issue] 🥟 Add new Japan Fact 2265 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30858) | `lingdojo/kana-dojo` | ⭐ 3.4k |
 | 2026-09-24 | 🥇 | [Kubernetes: /tmp emptyDir lacks sticky protection required by fs-safe, disabling](https://github.com/openclaw/openclaw/issues/156985) | `openclaw/openclaw` | ⭐ 390.3k |
 | 2026-09-24 | 🥇 | [[good first issue] 🍵 Add new Theme: Midnight Ramen (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30857) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-24 | 🥇 | [[good first issue] 🗻 Add new Learner Mistake 571 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30856) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-24 | 🥇 | [[good first issue] 🌺 Add new Etiquette Tip 1041 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30853) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-24 | 🥇 | [[good first issue] 🗾 Add new False Friend Pair 156 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30852) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-24 | 🥇 | [[good first issue] 🍡 Add new Dialect Entry 791 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30851) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-24 | 🥉 | [Keep focus in the list when a ComboboxSelect popup opens with nothing selected](https://github.com/ariakit/ariakit/issues/7626) | `ariakit/ariakit` | ⭐ 8.6k |
-| 2026-09-24 | 🥉 | [Keep focus inside a popover when it positions again while open](https://github.com/ariakit/ariakit/issues/7625) | `ariakit/ariakit` | ⭐ 8.6k |
-| 2026-09-23 | 🥈 | [[good first issue] 🧧 Add new Etiquette Tip 800 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30841) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-23 | 🥈 | [[good first issue] 🎌 Add new Dialect Entry 165 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30840) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-23 | 🥈 | [`p5.VERSION` reports "2.3.1" in the 2.3.3 release build (build-time version repl](https://github.com/processing/p5.js/issues/9202) | `processing/p5.js` | ⭐ 24.0k |
-| 2026-09-23 | 🥉 | [Docs site has some extraneous panel borders](https://github.com/elastic/eui/issues/10078) | `elastic/eui` | ⭐ 6.4k |
-| 2026-09-23 | 🥉 | [revealjs logo option's alt text support is undocumented](https://github.com/quarto-dev/quarto-cli/issues/14944) | `quarto-dev/quarto-cli` | ⭐ 6.0k |
-| 2026-09-23 | 🥇 | [[good first issue] 🗻 Add new Trivia Question 268 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30832) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-23 | 🥇 | [[good first issue] 🐡 Add new Japanese Proverb 359 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30831) | `lingdojo/kana-dojo` | ⭐ 3.4k |
-| 2026-09-23 | 🥇 | [feat(slack-bot): support Claude Agent harness and make it the Slack default](https://github.com/ColeMurray/background-agents/issues/2044) | `ColeMurray/background-agents` | ⭐ 3.3k |
