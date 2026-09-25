@@ -4,6 +4,29 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-25 | 🥇 | [[good first issue] 🍤 Add new Learner Mistake 849 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30987) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-25 | 🥇 | [[good first issue] 🍣 Add new Example Sentence 1158 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30986) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-25 | 🥇 | [[Integrations/py+ts] OpenRouter — check against latest release, update if stale](https://github.com/traceroot-ai/traceroot/issues/2374) | `traceroot-ai/traceroot` | ⭐ 775 |
+| 2026-09-25 | 🥇 | [[Integrations/py+ts] OpenAI — check against latest release, update if stale](https://github.com/traceroot-ai/traceroot/issues/2373) | `traceroot-ai/traceroot` | ⭐ 775 |
+| 2026-09-25 | 🥇 | [[Integrations/py] Mistral — check against latest release, update if stale](https://github.com/traceroot-ai/traceroot/issues/2372) | `traceroot-ai/traceroot` | ⭐ 775 |
+| 2026-09-25 | 🥇 | [[Integrations/py+ts] Anthropic — check against latest release, update if stale](https://github.com/traceroot-ai/traceroot/issues/2371) | `traceroot-ai/traceroot` | ⭐ 775 |
+| 2026-09-25 | 🥇 | [[Integrations/py] Pydantic AI — check against latest release, update if stale](https://github.com/traceroot-ai/traceroot/issues/2370) | `traceroot-ai/traceroot` | ⭐ 775 |
+| 2026-09-25 | 🥇 | [[Integrations/ts] pi SDK — check against latest release, update if stale](https://github.com/traceroot-ai/traceroot/issues/2369) | `traceroot-ai/traceroot` | ⭐ 775 |
+| 2026-09-25 | 🥇 | [[Integrations/py+ts] OpenAI Agents SDK — check against latest release, update if](https://github.com/traceroot-ai/traceroot/issues/2368) | `traceroot-ai/traceroot` | ⭐ 775 |
+| 2026-09-25 | 🥇 | [[Integrations/ts] Mastra — check against latest release, update if stale](https://github.com/traceroot-ai/traceroot/issues/2367) | `traceroot-ai/traceroot` | ⭐ 775 |
+| 2026-09-25 | 🥇 | [[Integrations/py] Microsoft Agent Framework — check against latest release, upda](https://github.com/traceroot-ai/traceroot/issues/2366) | `traceroot-ai/traceroot` | ⭐ 775 |
+| 2026-09-25 | 🥇 | [[Integrations/py] LlamaIndex — check against latest release, update if stale](https://github.com/traceroot-ai/traceroot/issues/2365) | `traceroot-ai/traceroot` | ⭐ 775 |
+| 2026-09-25 | 🥇 | [[Integrations/py+ts] LangChain DeepAgents — check against latest release, update](https://github.com/traceroot-ai/traceroot/issues/2364) | `traceroot-ai/traceroot` | ⭐ 775 |
+| 2026-09-25 | 🥇 | [[Integrations/py+ts] LangChain & LangGraph — check against latest release, updat](https://github.com/traceroot-ai/traceroot/issues/2363) | `traceroot-ai/traceroot` | ⭐ 775 |
+| 2026-09-25 | 🥇 | [[Integrations/py] DSPy — check against latest release, update if stale](https://github.com/traceroot-ai/traceroot/issues/2362) | `traceroot-ai/traceroot` | ⭐ 775 |
+| 2026-09-25 | 🥇 | [[Integrations/py] CrewAI — check against latest release, update if stale](https://github.com/traceroot-ai/traceroot/issues/2361) | `traceroot-ai/traceroot` | ⭐ 775 |
+| 2026-09-25 | 🥇 | [[Integrations/py+ts] Claude Agent SDK — check against latest release, update if ](https://github.com/traceroot-ai/traceroot/issues/2360) | `traceroot-ai/traceroot` | ⭐ 775 |
+| 2026-09-25 | 🥇 | [[Integrations/py] AutoGen — check against latest release, update if stale](https://github.com/traceroot-ai/traceroot/issues/2359) | `traceroot-ai/traceroot` | ⭐ 775 |
+| 2026-09-25 | 🥇 | [[Integrations/py] Agno — check against latest release, update if stale](https://github.com/traceroot-ai/traceroot/issues/2358) | `traceroot-ai/traceroot` | ⭐ 775 |
+| 2026-09-25 | 🥈 | [[Bug] Stray "f" character visible on Course Overview pages](https://github.com/layer5io/layer5/issues/8138) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-25 | 🥈 | [[Docs] Fix broken/empty links and typos in CONTRIBUTING.md and README.md](https://github.com/layer5io/layer5/issues/8137) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-25 | 🥉 | [Text in revealjs presentations cannot be resized](https://github.com/quarto-dev/quarto-cli/issues/14952) | `quarto-dev/quarto-cli` | ⭐ 6.0k |
+| 2026-09-25 | 🥉 | [Popup close controls use button roles but do not support Space-key activation](https://github.com/EFForg/privacybadger/issues/3241) | `EFForg/privacybadger` | ⭐ 3.8k |
 | 2026-09-25 | 🥇 | [Real logos for 3–5 high-value apps](https://github.com/tortuvshin/open-apps/issues/293) | `tortuvshin/open-apps` | ⭐ 4.4k |
 | 2026-09-25 | 🥈 | [[good first issue] 🍢 Add new Grammar Point 360 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30974) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-25 | 🥈 | [[good first issue] 🎏 Add new Japanese Proverb 1067 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30973) | `lingdojo/kana-dojo` | ⭐ 3.5k |
@@ -81,26 +104,3 @@
 | 2026-09-24 | 🥇 | [[good first issue] 🎎 Add new Grammar Point 1124 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30872) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-24 | 🥇 | [[BUG] `/exception/trigger` page: `isloading` is never reset and the error model ](https://github.com/apache/shenyu-dashboard/issues/653) | `apache/shenyu-dashboard` | ⭐ 201 |
 | 2026-09-24 | 🥇 | [[BUG] e2e tests are stale Ant Design Pro leftovers – `npm run test:all` always f](https://github.com/apache/shenyu-dashboard/issues/652) | `apache/shenyu-dashboard` | ⭐ 201 |
-| 2026-09-24 | 🥇 | [[BUG] Missing i18n keys render empty strings (login verification code, Registry ](https://github.com/apache/shenyu-dashboard/issues/651) | `apache/shenyu-dashboard` | ⭐ 201 |
-| 2026-09-24 | 🥇 | [[BUG] AddAndUpdateApiDoc / AddAndUpdateTag declare PropTypes validators in `stat](https://github.com/apache/shenyu-dashboard/issues/650) | `apache/shenyu-dashboard` | ⭐ 201 |
-| 2026-09-24 | 🥇 | [[BUG] AuthRoute `removeEmptyMenu` return value is discarded – parent menus with ](https://github.com/apache/shenyu-dashboard/issues/649) | `apache/shenyu-dashboard` | ⭐ 201 |
-| 2026-09-24 | 🥇 | [[BUG] AuthButton cache writes `buttonCache.perms` instead of `buttonCache[perms]](https://github.com/apache/shenyu-dashboard/issues/648) | `apache/shenyu-dashboard` | ⭐ 201 |
-| 2026-09-24 | 🥇 | [[BUG] PluginHandle table renders the literal string "text" instead of `{text}` w](https://github.com/apache/shenyu-dashboard/issues/647) | `apache/shenyu-dashboard` | ⭐ 201 |
-| 2026-09-24 | 🥇 | [[BUG] SearchApi `handleApiCancel` resets `tagForm` instead of `apiForm`](https://github.com/apache/shenyu-dashboard/issues/646) | `apache/shenyu-dashboard` | ⭐ 201 |
-| 2026-09-24 | 🥇 | [[BUG] ApiDebug error toasts use `rs.msg` instead of `rs.message`](https://github.com/apache/shenyu-dashboard/issues/645) | `apache/shenyu-dashboard` | ⭐ 201 |
-| 2026-09-24 | 🥇 | [[BUG] Null dereferences on optional server fields (ApiInfo tags, ProxySelectorMo](https://github.com/apache/shenyu-dashboard/issues/644) | `apache/shenyu-dashboard` | ⭐ 201 |
-| 2026-09-24 | 🥇 | [[BUG] SiderMenu `flatMenuKeys` is computed once in the constructor, so plugin me](https://github.com/apache/shenyu-dashboard/issues/642) | `apache/shenyu-dashboard` | ⭐ 201 |
-| 2026-09-24 | 🥇 | [[BUG] BasicLayout `getBaseRedirect` picks the first authorized key in `routerDat](https://github.com/apache/shenyu-dashboard/issues/641) | `apache/shenyu-dashboard` | ⭐ 201 |
-| 2026-09-24 | 🥇 | [[BUG] mcpServer model treats any response as success and never checks `code`](https://github.com/apache/shenyu-dashboard/issues/640) | `apache/shenyu-dashboard` | ⭐ 201 |
-| 2026-09-24 | 🥇 | [[BUG] CommonRuleHandle JSON validator calls `callback` twice and parses `undefin](https://github.com/apache/shenyu-dashboard/issues/639) | `apache/shenyu-dashboard` | ⭐ 201 |
-| 2026-09-24 | 🥇 | [[BUG] Namespace page: cancelling the modal resets `currentPage` without refetchi](https://github.com/apache/shenyu-dashboard/issues/636) | `apache/shenyu-dashboard` | ⭐ 201 |
-| 2026-09-24 | 🥇 | [[BUG] Table sorters compare the wrong field (Instance, Plugin, NamespacePlugin, ](https://github.com/apache/shenyu-dashboard/issues/635) | `apache/shenyu-dashboard` | ⭐ 201 |
-| 2026-09-24 | 🥇 | [[BUG] `date-fns` is imported but not declared in package.json](https://github.com/apache/shenyu-dashboard/issues/634) | `apache/shenyu-dashboard` | ⭐ 201 |
-| 2026-09-24 | 🥇 | [[BUG] Instance page adds a window `resize` listener on every chart render and ne](https://github.com/apache/shenyu-dashboard/issues/633) | `apache/shenyu-dashboard` | ⭐ 201 |
-| 2026-09-24 | 🥇 | [[BUG] Config export modal never closes; import success with `data: null` calls `](https://github.com/apache/shenyu-dashboard/issues/632) | `apache/shenyu-dashboard` | ⭐ 201 |
-| 2026-09-24 | 🥇 | [[BUG] ApiDebug `[apiDetail.apiPath]` effect overwrites the whole `initialValue`,](https://github.com/apache/shenyu-dashboard/issues/630) | `apache/shenyu-dashboard` | ⭐ 201 |
-| 2026-09-24 | 🥇 | [[BUG] ApiDebug builds the request host with `url.port \|\| "80"` – wrong for HTT](https://github.com/apache/shenyu-dashboard/issues/629) | `apache/shenyu-dashboard` | ⭐ 201 |
-| 2026-09-24 | 🥇 | [[BUG] Selecting another selector does not reset the rule/tool page and fetches w](https://github.com/apache/shenyu-dashboard/issues/627) | `apache/shenyu-dashboard` | ⭐ 201 |
-| 2026-09-24 | 🥇 | [[BUG] discovery model `reload` and the TCP page `fetchValue` drop `namespaceId`](https://github.com/apache/shenyu-dashboard/issues/625) | `apache/shenyu-dashboard` | ⭐ 201 |
-| 2026-09-24 | 🥇 | [[BUG] DiscoveryImportModal reads a `currentNamespaceId` prop that is never provi](https://github.com/apache/shenyu-dashboard/issues/623) | `apache/shenyu-dashboard` | ⭐ 201 |
-| 2026-09-24 | 🥇 | [[BUG] RuleCopy reads `currentNamespaceId` from props instead of state, and deref](https://github.com/apache/shenyu-dashboard/issues/622) | `apache/shenyu-dashboard` | ⭐ 201 |

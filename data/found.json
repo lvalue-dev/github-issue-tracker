@@ -1,5 +1,445 @@
 [
   {
+    "key": "lingdojo/kana-dojo#30987",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30987,
+    "title": "[good first issue] 🍤 Add new Learner Mistake 849 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30987",
+    "comments": 1,
+    "createdAt": "2026-09-25T22:00:57Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-25T22:33:29.188Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#30986",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 30986,
+    "title": "[good first issue] 🍣 Add new Example Sentence 1158 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/30986",
+    "comments": 1,
+    "createdAt": "2026-09-25T21:57:30Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-25T22:33:29.188Z"
+  },
+  {
+    "key": "traceroot-ai/traceroot#2374",
+    "tier": 1,
+    "repo": "traceroot-ai/traceroot",
+    "number": 2374,
+    "title": "[Integrations/py+ts] OpenRouter — check against latest release, update if stale",
+    "url": "https://github.com/traceroot-ai/traceroot/issues/2374",
+    "comments": 0,
+    "createdAt": "2026-09-25T21:52:15Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "help wanted",
+      "needs approval"
+    ],
+    "language": "typescript",
+    "stars": 775,
+    "foundAt": "2026-09-25T22:33:29.434Z"
+  },
+  {
+    "key": "traceroot-ai/traceroot#2373",
+    "tier": 1,
+    "repo": "traceroot-ai/traceroot",
+    "number": 2373,
+    "title": "[Integrations/py+ts] OpenAI — check against latest release, update if stale",
+    "url": "https://github.com/traceroot-ai/traceroot/issues/2373",
+    "comments": 0,
+    "createdAt": "2026-09-25T21:52:12Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "help wanted",
+      "needs approval"
+    ],
+    "language": "typescript",
+    "stars": 775,
+    "foundAt": "2026-09-25T22:33:29.434Z"
+  },
+  {
+    "key": "traceroot-ai/traceroot#2372",
+    "tier": 1,
+    "repo": "traceroot-ai/traceroot",
+    "number": 2372,
+    "title": "[Integrations/py] Mistral — check against latest release, update if stale",
+    "url": "https://github.com/traceroot-ai/traceroot/issues/2372",
+    "comments": 0,
+    "createdAt": "2026-09-25T21:52:08Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "help wanted",
+      "needs approval"
+    ],
+    "language": "typescript",
+    "stars": 775,
+    "foundAt": "2026-09-25T22:33:29.434Z"
+  },
+  {
+    "key": "traceroot-ai/traceroot#2371",
+    "tier": 1,
+    "repo": "traceroot-ai/traceroot",
+    "number": 2371,
+    "title": "[Integrations/py+ts] Anthropic — check against latest release, update if stale",
+    "url": "https://github.com/traceroot-ai/traceroot/issues/2371",
+    "comments": 0,
+    "createdAt": "2026-09-25T21:52:05Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "help wanted",
+      "needs approval"
+    ],
+    "language": "typescript",
+    "stars": 775,
+    "foundAt": "2026-09-25T22:33:29.434Z"
+  },
+  {
+    "key": "traceroot-ai/traceroot#2370",
+    "tier": 1,
+    "repo": "traceroot-ai/traceroot",
+    "number": 2370,
+    "title": "[Integrations/py] Pydantic AI — check against latest release, update if stale",
+    "url": "https://github.com/traceroot-ai/traceroot/issues/2370",
+    "comments": 0,
+    "createdAt": "2026-09-25T21:52:02Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "help wanted",
+      "needs approval"
+    ],
+    "language": "typescript",
+    "stars": 775,
+    "foundAt": "2026-09-25T22:33:29.434Z"
+  },
+  {
+    "key": "traceroot-ai/traceroot#2369",
+    "tier": 1,
+    "repo": "traceroot-ai/traceroot",
+    "number": 2369,
+    "title": "[Integrations/ts] pi SDK — check against latest release, update if stale",
+    "url": "https://github.com/traceroot-ai/traceroot/issues/2369",
+    "comments": 0,
+    "createdAt": "2026-09-25T21:51:58Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "help wanted",
+      "needs approval"
+    ],
+    "language": "typescript",
+    "stars": 775,
+    "foundAt": "2026-09-25T22:33:29.434Z"
+  },
+  {
+    "key": "traceroot-ai/traceroot#2368",
+    "tier": 1,
+    "repo": "traceroot-ai/traceroot",
+    "number": 2368,
+    "title": "[Integrations/py+ts] OpenAI Agents SDK — check against latest release, update if stale",
+    "url": "https://github.com/traceroot-ai/traceroot/issues/2368",
+    "comments": 0,
+    "createdAt": "2026-09-25T21:51:55Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "help wanted",
+      "needs approval"
+    ],
+    "language": "typescript",
+    "stars": 775,
+    "foundAt": "2026-09-25T22:33:29.434Z"
+  },
+  {
+    "key": "traceroot-ai/traceroot#2367",
+    "tier": 1,
+    "repo": "traceroot-ai/traceroot",
+    "number": 2367,
+    "title": "[Integrations/ts] Mastra — check against latest release, update if stale",
+    "url": "https://github.com/traceroot-ai/traceroot/issues/2367",
+    "comments": 0,
+    "createdAt": "2026-09-25T21:51:52Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "help wanted",
+      "needs approval"
+    ],
+    "language": "typescript",
+    "stars": 775,
+    "foundAt": "2026-09-25T22:33:29.434Z"
+  },
+  {
+    "key": "traceroot-ai/traceroot#2366",
+    "tier": 1,
+    "repo": "traceroot-ai/traceroot",
+    "number": 2366,
+    "title": "[Integrations/py] Microsoft Agent Framework — check against latest release, update if stale",
+    "url": "https://github.com/traceroot-ai/traceroot/issues/2366",
+    "comments": 0,
+    "createdAt": "2026-09-25T21:51:47Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "help wanted",
+      "needs approval"
+    ],
+    "language": "typescript",
+    "stars": 775,
+    "foundAt": "2026-09-25T22:33:29.434Z"
+  },
+  {
+    "key": "traceroot-ai/traceroot#2365",
+    "tier": 1,
+    "repo": "traceroot-ai/traceroot",
+    "number": 2365,
+    "title": "[Integrations/py] LlamaIndex — check against latest release, update if stale",
+    "url": "https://github.com/traceroot-ai/traceroot/issues/2365",
+    "comments": 0,
+    "createdAt": "2026-09-25T21:51:43Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "help wanted",
+      "needs approval"
+    ],
+    "language": "typescript",
+    "stars": 775,
+    "foundAt": "2026-09-25T22:33:29.434Z"
+  },
+  {
+    "key": "traceroot-ai/traceroot#2364",
+    "tier": 1,
+    "repo": "traceroot-ai/traceroot",
+    "number": 2364,
+    "title": "[Integrations/py+ts] LangChain DeepAgents — check against latest release, update if stale",
+    "url": "https://github.com/traceroot-ai/traceroot/issues/2364",
+    "comments": 0,
+    "createdAt": "2026-09-25T21:51:40Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "help wanted",
+      "needs approval"
+    ],
+    "language": "typescript",
+    "stars": 775,
+    "foundAt": "2026-09-25T22:33:29.435Z"
+  },
+  {
+    "key": "traceroot-ai/traceroot#2363",
+    "tier": 1,
+    "repo": "traceroot-ai/traceroot",
+    "number": 2363,
+    "title": "[Integrations/py+ts] LangChain & LangGraph — check against latest release, update if stale",
+    "url": "https://github.com/traceroot-ai/traceroot/issues/2363",
+    "comments": 0,
+    "createdAt": "2026-09-25T21:51:37Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "help wanted",
+      "needs approval"
+    ],
+    "language": "typescript",
+    "stars": 775,
+    "foundAt": "2026-09-25T22:33:29.435Z"
+  },
+  {
+    "key": "traceroot-ai/traceroot#2362",
+    "tier": 1,
+    "repo": "traceroot-ai/traceroot",
+    "number": 2362,
+    "title": "[Integrations/py] DSPy — check against latest release, update if stale",
+    "url": "https://github.com/traceroot-ai/traceroot/issues/2362",
+    "comments": 0,
+    "createdAt": "2026-09-25T21:51:35Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "help wanted",
+      "needs approval"
+    ],
+    "language": "typescript",
+    "stars": 775,
+    "foundAt": "2026-09-25T22:33:29.435Z"
+  },
+  {
+    "key": "traceroot-ai/traceroot#2361",
+    "tier": 1,
+    "repo": "traceroot-ai/traceroot",
+    "number": 2361,
+    "title": "[Integrations/py] CrewAI — check against latest release, update if stale",
+    "url": "https://github.com/traceroot-ai/traceroot/issues/2361",
+    "comments": 0,
+    "createdAt": "2026-09-25T21:51:31Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "help wanted",
+      "needs approval"
+    ],
+    "language": "typescript",
+    "stars": 775,
+    "foundAt": "2026-09-25T22:33:29.435Z"
+  },
+  {
+    "key": "traceroot-ai/traceroot#2360",
+    "tier": 1,
+    "repo": "traceroot-ai/traceroot",
+    "number": 2360,
+    "title": "[Integrations/py+ts] Claude Agent SDK — check against latest release, update if stale",
+    "url": "https://github.com/traceroot-ai/traceroot/issues/2360",
+    "comments": 0,
+    "createdAt": "2026-09-25T21:51:27Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "help wanted",
+      "needs approval"
+    ],
+    "language": "typescript",
+    "stars": 775,
+    "foundAt": "2026-09-25T22:33:29.435Z"
+  },
+  {
+    "key": "traceroot-ai/traceroot#2359",
+    "tier": 1,
+    "repo": "traceroot-ai/traceroot",
+    "number": 2359,
+    "title": "[Integrations/py] AutoGen — check against latest release, update if stale",
+    "url": "https://github.com/traceroot-ai/traceroot/issues/2359",
+    "comments": 0,
+    "createdAt": "2026-09-25T21:51:24Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "help wanted",
+      "needs approval"
+    ],
+    "language": "typescript",
+    "stars": 775,
+    "foundAt": "2026-09-25T22:33:29.435Z"
+  },
+  {
+    "key": "traceroot-ai/traceroot#2358",
+    "tier": 1,
+    "repo": "traceroot-ai/traceroot",
+    "number": 2358,
+    "title": "[Integrations/py] Agno — check against latest release, update if stale",
+    "url": "https://github.com/traceroot-ai/traceroot/issues/2358",
+    "comments": 0,
+    "createdAt": "2026-09-25T21:51:20Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "help wanted",
+      "needs approval"
+    ],
+    "language": "typescript",
+    "stars": 775,
+    "foundAt": "2026-09-25T22:33:29.435Z"
+  },
+  {
+    "key": "layer5io/layer5#8138",
+    "tier": 2,
+    "repo": "layer5io/layer5",
+    "number": 8138,
+    "title": "[Bug] Stray \"f\" character visible on Course Overview pages",
+    "url": "https://github.com/layer5io/layer5/issues/8138",
+    "comments": 1,
+    "createdAt": "2026-09-25T20:44:48Z",
+    "labels": [
+      "kind/bug",
+      "help wanted",
+      "framework/gatsby"
+    ],
+    "language": "javascript",
+    "stars": 1136,
+    "foundAt": "2026-09-25T22:33:31.599Z"
+  },
+  {
+    "key": "layer5io/layer5#8137",
+    "tier": 2,
+    "repo": "layer5io/layer5",
+    "number": 8137,
+    "title": "[Docs] Fix broken/empty links and typos in CONTRIBUTING.md and README.md",
+    "url": "https://github.com/layer5io/layer5/issues/8137",
+    "comments": 1,
+    "createdAt": "2026-09-25T20:26:38Z",
+    "labels": [
+      "kind/bug",
+      "help wanted",
+      "framework/gatsby"
+    ],
+    "language": "javascript",
+    "stars": 1136,
+    "foundAt": "2026-09-25T22:33:31.600Z"
+  },
+  {
+    "key": "quarto-dev/quarto-cli#14952",
+    "tier": 3,
+    "repo": "quarto-dev/quarto-cli",
+    "number": 14952,
+    "title": "Text in revealjs presentations cannot be resized",
+    "url": "https://github.com/quarto-dev/quarto-cli/issues/14952",
+    "comments": 0,
+    "createdAt": "2026-09-25T21:24:55Z",
+    "labels": [
+      "accessibility",
+      "revealjs"
+    ],
+    "language": "javascript",
+    "stars": 6016,
+    "foundAt": "2026-09-25T22:33:33.279Z"
+  },
+  {
+    "key": "EFForg/privacybadger#3241",
+    "tier": 3,
+    "repo": "EFForg/privacybadger",
+    "number": 3241,
+    "title": "Popup close controls use button roles but do not support Space-key activation",
+    "url": "https://github.com/EFForg/privacybadger/issues/3241",
+    "comments": 0,
+    "createdAt": "2026-09-25T20:51:04Z",
+    "labels": [
+      "bug",
+      "a11y",
+      "ai"
+    ],
+    "language": "javascript",
+    "stars": 3849,
+    "foundAt": "2026-09-25T22:33:33.488Z"
+  },
+  {
     "key": "tortuvshin/open-apps#293",
     "tier": 1,
     "repo": "tortuvshin/open-apps",
@@ -1570,419 +2010,5 @@
     "language": "javascript",
     "stars": 201,
     "foundAt": "2026-09-24T10:15:12.639Z"
-  },
-  {
-    "key": "apache/shenyu-dashboard#651",
-    "tier": 1,
-    "repo": "apache/shenyu-dashboard",
-    "number": 651,
-    "title": "[BUG] Missing i18n keys render empty strings (login verification code, Registry modal, Instance page, en-US SELECT.WAY)",
-    "url": "https://github.com/apache/shenyu-dashboard/issues/651",
-    "comments": 0,
-    "createdAt": "2026-09-24T06:43:10Z",
-    "labels": [
-      "type: bug",
-      "good first issue",
-      "priority: low"
-    ],
-    "language": "javascript",
-    "stars": 201,
-    "foundAt": "2026-09-24T10:15:12.639Z"
-  },
-  {
-    "key": "apache/shenyu-dashboard#650",
-    "tier": 1,
-    "repo": "apache/shenyu-dashboard",
-    "number": 650,
-    "title": "[BUG] AddAndUpdateApiDoc / AddAndUpdateTag declare PropTypes validators in `static defaultProps`",
-    "url": "https://github.com/apache/shenyu-dashboard/issues/650",
-    "comments": 0,
-    "createdAt": "2026-09-24T06:42:57Z",
-    "labels": [
-      "type: bug",
-      "good first issue",
-      "priority: low"
-    ],
-    "language": "javascript",
-    "stars": 201,
-    "foundAt": "2026-09-24T10:15:12.639Z"
-  },
-  {
-    "key": "apache/shenyu-dashboard#649",
-    "tier": 1,
-    "repo": "apache/shenyu-dashboard",
-    "number": 649,
-    "title": "[BUG] AuthRoute `removeEmptyMenu` return value is discarded – parent menus with no authorized children remain",
-    "url": "https://github.com/apache/shenyu-dashboard/issues/649",
-    "comments": 0,
-    "createdAt": "2026-09-24T06:42:48Z",
-    "labels": [
-      "type: bug",
-      "good first issue",
-      "priority: low"
-    ],
-    "language": "javascript",
-    "stars": 201,
-    "foundAt": "2026-09-24T10:15:12.639Z"
-  },
-  {
-    "key": "apache/shenyu-dashboard#648",
-    "tier": 1,
-    "repo": "apache/shenyu-dashboard",
-    "number": 648,
-    "title": "[BUG] AuthButton cache writes `buttonCache.perms` instead of `buttonCache[perms]` – cache never hits",
-    "url": "https://github.com/apache/shenyu-dashboard/issues/648",
-    "comments": 0,
-    "createdAt": "2026-09-24T06:42:43Z",
-    "labels": [
-      "type: bug",
-      "good first issue",
-      "priority: low"
-    ],
-    "language": "javascript",
-    "stars": 201,
-    "foundAt": "2026-09-24T10:15:12.639Z"
-  },
-  {
-    "key": "apache/shenyu-dashboard#647",
-    "tier": 1,
-    "repo": "apache/shenyu-dashboard",
-    "number": 647,
-    "title": "[BUG] PluginHandle table renders the literal string \"text\" instead of `{text}` when no plugin matches",
-    "url": "https://github.com/apache/shenyu-dashboard/issues/647",
-    "comments": 1,
-    "createdAt": "2026-09-24T06:42:32Z",
-    "labels": [
-      "type: bug",
-      "good first issue",
-      "priority: low"
-    ],
-    "language": "javascript",
-    "stars": 201,
-    "foundAt": "2026-09-24T10:15:12.639Z"
-  },
-  {
-    "key": "apache/shenyu-dashboard#646",
-    "tier": 1,
-    "repo": "apache/shenyu-dashboard",
-    "number": 646,
-    "title": "[BUG] SearchApi `handleApiCancel` resets `tagForm` instead of `apiForm`",
-    "url": "https://github.com/apache/shenyu-dashboard/issues/646",
-    "comments": 0,
-    "createdAt": "2026-09-24T06:42:26Z",
-    "labels": [
-      "type: bug",
-      "good first issue",
-      "priority: low"
-    ],
-    "language": "javascript",
-    "stars": 201,
-    "foundAt": "2026-09-24T10:15:12.639Z"
-  },
-  {
-    "key": "apache/shenyu-dashboard#645",
-    "tier": 1,
-    "repo": "apache/shenyu-dashboard",
-    "number": 645,
-    "title": "[BUG] ApiDebug error toasts use `rs.msg` instead of `rs.message`",
-    "url": "https://github.com/apache/shenyu-dashboard/issues/645",
-    "comments": 0,
-    "createdAt": "2026-09-24T06:42:19Z",
-    "labels": [
-      "type: bug",
-      "good first issue",
-      "priority: low"
-    ],
-    "language": "javascript",
-    "stars": 201,
-    "foundAt": "2026-09-24T10:15:12.639Z"
-  },
-  {
-    "key": "apache/shenyu-dashboard#644",
-    "tier": 1,
-    "repo": "apache/shenyu-dashboard",
-    "number": 644,
-    "title": "[BUG] Null dereferences on optional server fields (ApiInfo tags, ProxySelectorModal props/handlerArray)",
-    "url": "https://github.com/apache/shenyu-dashboard/issues/644",
-    "comments": 0,
-    "createdAt": "2026-09-24T06:42:12Z",
-    "labels": [
-      "type: bug",
-      "good first issue",
-      "priority: medium"
-    ],
-    "language": "javascript",
-    "stars": 201,
-    "foundAt": "2026-09-24T10:15:12.639Z"
-  },
-  {
-    "key": "apache/shenyu-dashboard#642",
-    "tier": 1,
-    "repo": "apache/shenyu-dashboard",
-    "number": 642,
-    "title": "[BUG] SiderMenu `flatMenuKeys` is computed once in the constructor, so plugin menu items are never highlighted",
-    "url": "https://github.com/apache/shenyu-dashboard/issues/642",
-    "comments": 0,
-    "createdAt": "2026-09-24T06:41:57Z",
-    "labels": [
-      "type: bug",
-      "good first issue",
-      "priority: medium"
-    ],
-    "language": "javascript",
-    "stars": 201,
-    "foundAt": "2026-09-24T10:15:12.639Z"
-  },
-  {
-    "key": "apache/shenyu-dashboard#641",
-    "tier": 1,
-    "repo": "apache/shenyu-dashboard",
-    "number": 641,
-    "title": "[BUG] BasicLayout `getBaseRedirect` picks the first authorized key in `routerData` – logo click can land on McpServer instead of Home",
-    "url": "https://github.com/apache/shenyu-dashboard/issues/641",
-    "comments": 0,
-    "createdAt": "2026-09-24T06:41:49Z",
-    "labels": [
-      "type: bug",
-      "good first issue",
-      "priority: medium"
-    ],
-    "language": "javascript",
-    "stars": 201,
-    "foundAt": "2026-09-24T10:15:12.640Z"
-  },
-  {
-    "key": "apache/shenyu-dashboard#640",
-    "tier": 1,
-    "repo": "apache/shenyu-dashboard",
-    "number": 640,
-    "title": "[BUG] mcpServer model treats any response as success and never checks `code`",
-    "url": "https://github.com/apache/shenyu-dashboard/issues/640",
-    "comments": 0,
-    "createdAt": "2026-09-24T06:41:41Z",
-    "labels": [
-      "type: bug",
-      "good first issue",
-      "priority: medium"
-    ],
-    "language": "javascript",
-    "stars": 201,
-    "foundAt": "2026-09-24T10:15:12.640Z"
-  },
-  {
-    "key": "apache/shenyu-dashboard#639",
-    "tier": 1,
-    "repo": "apache/shenyu-dashboard",
-    "number": 639,
-    "title": "[BUG] CommonRuleHandle JSON validator calls `callback` twice and parses `undefined`",
-    "url": "https://github.com/apache/shenyu-dashboard/issues/639",
-    "comments": 0,
-    "createdAt": "2026-09-24T06:41:35Z",
-    "labels": [
-      "type: bug",
-      "good first issue",
-      "priority: medium"
-    ],
-    "language": "javascript",
-    "stars": 201,
-    "foundAt": "2026-09-24T10:15:12.640Z"
-  },
-  {
-    "key": "apache/shenyu-dashboard#636",
-    "tier": 1,
-    "repo": "apache/shenyu-dashboard",
-    "number": 636,
-    "title": "[BUG] Namespace page: cancelling the modal resets `currentPage` without refetching; delete mutates `selectedRowKeys`",
-    "url": "https://github.com/apache/shenyu-dashboard/issues/636",
-    "comments": 0,
-    "createdAt": "2026-09-24T06:41:09Z",
-    "labels": [
-      "type: bug",
-      "good first issue",
-      "priority: medium"
-    ],
-    "language": "javascript",
-    "stars": 201,
-    "foundAt": "2026-09-24T10:15:12.640Z"
-  },
-  {
-    "key": "apache/shenyu-dashboard#635",
-    "tier": 1,
-    "repo": "apache/shenyu-dashboard",
-    "number": 635,
-    "title": "[BUG] Table sorters compare the wrong field (Instance, Plugin, NamespacePlugin, PluginHandle)",
-    "url": "https://github.com/apache/shenyu-dashboard/issues/635",
-    "comments": 0,
-    "createdAt": "2026-09-24T06:41:00Z",
-    "labels": [
-      "type: bug",
-      "good first issue",
-      "priority: medium"
-    ],
-    "language": "javascript",
-    "stars": 201,
-    "foundAt": "2026-09-24T10:15:12.640Z"
-  },
-  {
-    "key": "apache/shenyu-dashboard#634",
-    "tier": 1,
-    "repo": "apache/shenyu-dashboard",
-    "number": 634,
-    "title": "[BUG] `date-fns` is imported but not declared in package.json",
-    "url": "https://github.com/apache/shenyu-dashboard/issues/634",
-    "comments": 0,
-    "createdAt": "2026-09-24T06:40:52Z",
-    "labels": [
-      "type: bug",
-      "good first issue",
-      "priority: medium"
-    ],
-    "language": "javascript",
-    "stars": 201,
-    "foundAt": "2026-09-24T10:15:12.640Z"
-  },
-  {
-    "key": "apache/shenyu-dashboard#633",
-    "tier": 1,
-    "repo": "apache/shenyu-dashboard",
-    "number": 633,
-    "title": "[BUG] Instance page adds a window `resize` listener on every chart render and never disposes echarts instances",
-    "url": "https://github.com/apache/shenyu-dashboard/issues/633",
-    "comments": 0,
-    "createdAt": "2026-09-24T06:40:43Z",
-    "labels": [
-      "type: bug",
-      "good first issue",
-      "priority: medium"
-    ],
-    "language": "javascript",
-    "stars": 201,
-    "foundAt": "2026-09-24T10:15:12.640Z"
-  },
-  {
-    "key": "apache/shenyu-dashboard#632",
-    "tier": 1,
-    "repo": "apache/shenyu-dashboard",
-    "number": 632,
-    "title": "[BUG] Config export modal never closes; import success with `data: null` calls `JSON.parse(undefined)`",
-    "url": "https://github.com/apache/shenyu-dashboard/issues/632",
-    "comments": 0,
-    "createdAt": "2026-09-24T06:40:36Z",
-    "labels": [
-      "type: bug",
-      "good first issue",
-      "priority: medium"
-    ],
-    "language": "javascript",
-    "stars": 201,
-    "foundAt": "2026-09-24T10:15:12.640Z"
-  },
-  {
-    "key": "apache/shenyu-dashboard#630",
-    "tier": 1,
-    "repo": "apache/shenyu-dashboard",
-    "number": 630,
-    "title": "[BUG] ApiDebug `[apiDetail.apiPath]` effect overwrites the whole `initialValue`, losing mock id/host/header/query",
-    "url": "https://github.com/apache/shenyu-dashboard/issues/630",
-    "comments": 0,
-    "createdAt": "2026-09-24T06:40:17Z",
-    "labels": [
-      "type: bug",
-      "good first issue",
-      "priority: medium"
-    ],
-    "language": "javascript",
-    "stars": 201,
-    "foundAt": "2026-09-24T10:15:12.640Z"
-  },
-  {
-    "key": "apache/shenyu-dashboard#629",
-    "tier": 1,
-    "repo": "apache/shenyu-dashboard",
-    "number": 629,
-    "title": "[BUG] ApiDebug builds the request host with `url.port || \"80\"` – wrong for HTTPS environments",
-    "url": "https://github.com/apache/shenyu-dashboard/issues/629",
-    "comments": 0,
-    "createdAt": "2026-09-24T06:40:06Z",
-    "labels": [
-      "type: bug",
-      "good first issue",
-      "priority: medium"
-    ],
-    "language": "javascript",
-    "stars": 201,
-    "foundAt": "2026-09-24T10:15:12.640Z"
-  },
-  {
-    "key": "apache/shenyu-dashboard#627",
-    "tier": 1,
-    "repo": "apache/shenyu-dashboard",
-    "number": 627,
-    "title": "[BUG] Selecting another selector does not reset the rule/tool page and fetches with `selectorPageSize`",
-    "url": "https://github.com/apache/shenyu-dashboard/issues/627",
-    "comments": 0,
-    "createdAt": "2026-09-24T06:39:52Z",
-    "labels": [
-      "type: bug",
-      "good first issue",
-      "priority: medium"
-    ],
-    "language": "javascript",
-    "stars": 201,
-    "foundAt": "2026-09-24T10:15:12.640Z"
-  },
-  {
-    "key": "apache/shenyu-dashboard#625",
-    "tier": 1,
-    "repo": "apache/shenyu-dashboard",
-    "number": 625,
-    "title": "[BUG] discovery model `reload` and the TCP page `fetchValue` drop `namespaceId`",
-    "url": "https://github.com/apache/shenyu-dashboard/issues/625",
-    "comments": 0,
-    "createdAt": "2026-09-24T06:39:33Z",
-    "labels": [
-      "type: bug",
-      "good first issue",
-      "priority: medium"
-    ],
-    "language": "javascript",
-    "stars": 201,
-    "foundAt": "2026-09-24T10:15:12.640Z"
-  },
-  {
-    "key": "apache/shenyu-dashboard#623",
-    "tier": 1,
-    "repo": "apache/shenyu-dashboard",
-    "number": 623,
-    "title": "[BUG] DiscoveryImportModal reads a `currentNamespaceId` prop that is never provided – fetchDiscovery always uses `namespaceId: undefined`",
-    "url": "https://github.com/apache/shenyu-dashboard/issues/623",
-    "comments": 0,
-    "createdAt": "2026-09-24T06:39:17Z",
-    "labels": [
-      "type: bug",
-      "good first issue",
-      "priority: medium"
-    ],
-    "language": "javascript",
-    "stars": 201,
-    "foundAt": "2026-09-24T10:15:12.640Z"
-  },
-  {
-    "key": "apache/shenyu-dashboard#622",
-    "tier": 1,
-    "repo": "apache/shenyu-dashboard",
-    "number": 622,
-    "title": "[BUG] RuleCopy reads `currentNamespaceId` from props instead of state, and dereferences unguarded `.find()` results",
-    "url": "https://github.com/apache/shenyu-dashboard/issues/622",
-    "comments": 0,
-    "createdAt": "2026-09-24T06:39:02Z",
-    "labels": [
-      "type: bug",
-      "good first issue",
-      "priority: medium"
-    ],
-    "language": "javascript",
-    "stars": 201,
-    "foundAt": "2026-09-24T10:15:12.640Z"
   }
 ]

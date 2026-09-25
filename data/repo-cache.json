@@ -1,334 +1,4 @@
 {
-  "bastani-inc/atomic": {
-    "fullName": "bastani-inc/atomic",
-    "stars": 805,
-    "pushedAt": "2026-09-18T17:47:22Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 40,
-    "cachedAt": "2026-09-18T19:47:19.977Z"
-  },
-  "Lumos-Programming/lumos-web": {
-    "fullName": "Lumos-Programming/lumos-web",
-    "stars": 1,
-    "pushedAt": "2026-09-18T19:21:05Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 43,
-    "cachedAt": "2026-09-18T19:47:20.257Z"
-  },
-  "kevinmcaleer/Snakie": {
-    "fullName": "kevinmcaleer/Snakie",
-    "stars": 60,
-    "pushedAt": "2026-09-18T19:34:54Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 206,
-    "cachedAt": "2026-09-18T19:47:20.463Z"
-  },
-  "brunoboto96/SceneScout": {
-    "fullName": "brunoboto96/SceneScout",
-    "stars": 0,
-    "pushedAt": "2026-09-18T19:40:45Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 8,
-    "cachedAt": "2026-09-18T19:47:20.708Z"
-  },
-  "reticlehq/reticle": {
-    "fullName": "reticlehq/reticle",
-    "stars": 725,
-    "pushedAt": "2026-09-18T16:49:40Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 108,
-    "cachedAt": "2026-09-18T19:47:20.910Z"
-  },
-  "daksh777f/llm-on-kubernetes": {
-    "fullName": "daksh777f/llm-on-kubernetes",
-    "stars": 0,
-    "pushedAt": "2026-04-19T18:57:53Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 2,
-    "cachedAt": "2026-09-18T19:47:21.132Z"
-  },
-  "shadcn-labs/ogimagecn": {
-    "fullName": "shadcn-labs/ogimagecn",
-    "stars": 229,
-    "pushedAt": "2026-09-18T18:42:10Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 9,
-    "cachedAt": "2026-09-18T19:47:21.420Z"
-  },
-  "mathisthomsen/historian-app": {
-    "fullName": "mathisthomsen/historian-app",
-    "stars": 0,
-    "pushedAt": "2026-09-18T18:06:39Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 73,
-    "cachedAt": "2026-09-18T19:47:21.634Z"
-  },
-  "glouno/clearMyDay": {
-    "fullName": "glouno/clearMyDay",
-    "stars": 0,
-    "pushedAt": "2026-09-18T18:00:50Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 5,
-    "cachedAt": "2026-09-18T19:47:21.863Z"
-  },
-  "Dorisio/frontend": {
-    "fullName": "Dorisio/frontend",
-    "stars": 1,
-    "pushedAt": "2026-09-14T15:14:16Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 80,
-    "cachedAt": "2026-09-18T19:47:22.164Z"
-  },
-  "IntersectMBO/evolution-sdk": {
-    "fullName": "IntersectMBO/evolution-sdk",
-    "stars": 22,
-    "pushedAt": "2026-09-18T17:55:25Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 61,
-    "cachedAt": "2026-09-18T19:47:22.380Z"
-  },
-  "shaynemcp/careconnect-adhd": {
-    "fullName": "shaynemcp/careconnect-adhd",
-    "stars": 0,
-    "pushedAt": "2026-09-18T19:46:43Z",
-    "archived": false,
-    "fork": false,
-    "language": "HTML",
-    "openIssues": 17,
-    "cachedAt": "2026-09-18T19:47:22.603Z"
-  },
-  "flutter/dart-intellij-third-party": {
-    "fullName": "flutter/dart-intellij-third-party",
-    "stars": 25,
-    "pushedAt": "2026-09-18T02:54:05Z",
-    "archived": false,
-    "fork": false,
-    "language": "HTML",
-    "openIssues": 132,
-    "cachedAt": "2026-09-18T19:47:22.826Z"
-  },
-  "kumprj/flight-ai": {
-    "fullName": "kumprj/flight-ai",
-    "stars": 0,
-    "pushedAt": "2026-09-18T19:37:04Z",
-    "archived": false,
-    "fork": false,
-    "language": "HTML",
-    "openIssues": 12,
-    "cachedAt": "2026-09-18T19:47:23.052Z"
-  },
-  "pyOpenSci/pyopensci.github.io": {
-    "fullName": "pyOpenSci/pyopensci.github.io",
-    "stars": 39,
-    "pushedAt": "2026-09-18T18:19:08Z",
-    "archived": false,
-    "fork": false,
-    "language": "HTML",
-    "openIssues": 19,
-    "cachedAt": "2026-09-18T19:47:23.273Z"
-  },
-  "ibloud/pixie-holdings": {
-    "fullName": "ibloud/pixie-holdings",
-    "stars": 0,
-    "pushedAt": "2026-09-18T17:39:23Z",
-    "archived": false,
-    "fork": false,
-    "language": "HTML",
-    "openIssues": 5,
-    "cachedAt": "2026-09-18T19:47:23.492Z"
-  },
-  "yuntao-tech/tech-learning-map": {
-    "fullName": "yuntao-tech/tech-learning-map",
-    "stars": 2,
-    "pushedAt": "2026-09-18T16:29:59Z",
-    "archived": false,
-    "fork": false,
-    "language": "HTML",
-    "openIssues": 7,
-    "cachedAt": "2026-09-18T19:47:23.717Z"
-  },
-  "alilibx/kerstel": {
-    "fullName": "alilibx/kerstel",
-    "stars": 3,
-    "pushedAt": "2026-09-18T18:51:09Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 13,
-    "cachedAt": "2026-09-18T19:47:23.913Z"
-  },
-  "N1k4G/diving-simulator": {
-    "fullName": "N1k4G/diving-simulator",
-    "stars": 0,
-    "pushedAt": "2026-09-18T12:03:09Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 20,
-    "cachedAt": "2026-09-18T19:47:24.154Z"
-  },
-  "ayme-labs/ayme": {
-    "fullName": "ayme-labs/ayme",
-    "stars": 0,
-    "pushedAt": "2026-09-18T19:39:23Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 14,
-    "cachedAt": "2026-09-18T19:47:24.438Z"
-  },
-  "alunduil/projects-v2-sync": {
-    "fullName": "alunduil/projects-v2-sync",
-    "stars": 0,
-    "pushedAt": "2026-09-12T15:26:36Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 9,
-    "cachedAt": "2026-09-18T19:47:24.663Z"
-  },
-  "MeperDonas/MeperPOS": {
-    "fullName": "MeperDonas/MeperPOS",
-    "stars": 1,
-    "pushedAt": "2026-09-18T18:56:23Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 14,
-    "cachedAt": "2026-09-18T19:47:24.877Z"
-  },
-  "dot-stbl/comuki": {
-    "fullName": "dot-stbl/comuki",
-    "stars": 0,
-    "pushedAt": "2026-09-18T17:30:23Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 20,
-    "cachedAt": "2026-09-18T19:47:25.095Z"
-  },
-  "Robbymwangi/connected": {
-    "fullName": "Robbymwangi/connected",
-    "stars": 0,
-    "pushedAt": "2026-09-18T19:46:59Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 32,
-    "cachedAt": "2026-09-18T19:47:25.277Z"
-  },
-  "yashptel/oh-my-t3code": {
-    "fullName": "yashptel/oh-my-t3code",
-    "stars": 1,
-    "pushedAt": "2026-09-18T19:39:32Z",
-    "archived": false,
-    "fork": true,
-    "language": "TypeScript",
-    "openIssues": 34,
-    "cachedAt": "2026-09-18T19:47:25.589Z"
-  },
-  "ValOvinnikov/blog": {
-    "fullName": "ValOvinnikov/blog",
-    "stars": 0,
-    "pushedAt": "2026-09-18T19:36:58Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 148,
-    "cachedAt": "2026-09-18T19:47:25.846Z"
-  },
-  "lordekeen/pi-qdrant-memory": {
-    "fullName": "lordekeen/pi-qdrant-memory",
-    "stars": 0,
-    "pushedAt": "2026-09-18T19:43:11Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 14,
-    "cachedAt": "2026-09-18T19:47:26.072Z"
-  },
-  "SGAOperations/auth": {
-    "fullName": "SGAOperations/auth",
-    "stars": 1,
-    "pushedAt": "2026-09-18T18:54:12Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 110,
-    "cachedAt": "2026-09-18T19:47:26.307Z"
-  },
-  "sveltejs/kit": {
-    "fullName": "sveltejs/kit",
-    "stars": 20817,
-    "pushedAt": "2026-09-18T18:29:19Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 816,
-    "cachedAt": "2026-09-18T19:47:26.543Z"
-  },
-  "GenAI-Security-Project/crosswalk": {
-    "fullName": "GenAI-Security-Project/crosswalk",
-    "stars": 21,
-    "pushedAt": "2026-09-18T19:16:54Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 13,
-    "cachedAt": "2026-09-18T19:47:26.850Z"
-  },
-  "GenvidTechnologies/claude-code-plugin-gvt-dev": {
-    "fullName": "GenvidTechnologies/claude-code-plugin-gvt-dev",
-    "stars": 1,
-    "pushedAt": "2026-09-18T18:28:57Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 224,
-    "cachedAt": "2026-09-18T19:47:27.089Z"
-  },
-  "sebprunier/cartes": {
-    "fullName": "sebprunier/cartes",
-    "stars": 0,
-    "pushedAt": "2026-09-18T19:36:07Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 8,
-    "cachedAt": "2026-09-18T19:47:27.278Z"
-  },
-  "luciano-stefano-meloclaps/platform-argentum": {
-    "fullName": "luciano-stefano-meloclaps/platform-argentum",
-    "stars": 0,
-    "pushedAt": "2026-09-18T17:37:16Z",
-    "archived": false,
-    "fork": false,
-    "language": "MDX",
-    "openIssues": 19,
-    "cachedAt": "2026-09-18T19:47:27.505Z"
-  },
   "ManningWorks/Projex": {
     "fullName": "ManningWorks/Projex",
     "stars": 2,
@@ -11398,5 +11068,255 @@
     "language": "JavaScript",
     "openIssues": 52,
     "cachedAt": "2026-09-25T18:45:34.908Z"
+  },
+  "GiZano/LevelUp": {
+    "fullName": "GiZano/LevelUp",
+    "stars": 2,
+    "pushedAt": "2026-09-25T22:28:34Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 15,
+    "cachedAt": "2026-09-25T22:33:28.994Z"
+  },
+  "monte3l/m3l-groundwork": {
+    "fullName": "monte3l/m3l-groundwork",
+    "stars": 0,
+    "pushedAt": "2026-09-25T21:29:48Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 4,
+    "cachedAt": "2026-09-25T22:33:29.188Z"
+  },
+  "traceroot-ai/traceroot-pi-extension": {
+    "fullName": "traceroot-ai/traceroot-pi-extension",
+    "stars": 4,
+    "pushedAt": "2026-09-10T09:53:02Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 1,
+    "cachedAt": "2026-09-25T22:33:29.434Z"
+  },
+  "abtrader00900/agentos": {
+    "fullName": "abtrader00900/agentos",
+    "stars": 0,
+    "pushedAt": "2026-09-25T22:27:45Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 3,
+    "cachedAt": "2026-09-25T22:33:29.678Z"
+  },
+  "cyz/pokedex-tdc": {
+    "fullName": "cyz/pokedex-tdc",
+    "stars": 0,
+    "pushedAt": "2026-09-25T21:45:47Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 3,
+    "cachedAt": "2026-09-25T22:33:29.876Z"
+  },
+  "crackedstudio/sharibo": {
+    "fullName": "crackedstudio/sharibo",
+    "stars": 2,
+    "pushedAt": "2026-09-25T21:33:14Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 153,
+    "cachedAt": "2026-09-25T22:33:30.105Z"
+  },
+  "femboypuppy/Tessera": {
+    "fullName": "femboypuppy/Tessera",
+    "stars": 0,
+    "pushedAt": "2026-09-25T22:24:06Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 54,
+    "cachedAt": "2026-09-25T22:33:30.369Z"
+  },
+  "vacalaobansDev/claude-tetris": {
+    "fullName": "vacalaobansDev/claude-tetris",
+    "stars": 0,
+    "pushedAt": "2026-09-25T21:33:22Z",
+    "archived": false,
+    "fork": true,
+    "language": "JavaScript",
+    "openIssues": 1,
+    "cachedAt": "2026-09-25T22:33:30.690Z"
+  },
+  "kiinshuk/kinshow": {
+    "fullName": "kiinshuk/kinshow",
+    "stars": 8,
+    "pushedAt": "2026-09-25T20:02:46Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 99,
+    "cachedAt": "2026-09-25T22:33:30.914Z"
+  },
+  "uworxltd/ScrumUpdate": {
+    "fullName": "uworxltd/ScrumUpdate",
+    "stars": 0,
+    "pushedAt": "2026-09-24T14:24:41Z",
+    "archived": false,
+    "fork": false,
+    "language": "CSS",
+    "openIssues": 6,
+    "cachedAt": "2026-09-25T22:33:31.111Z"
+  },
+  "Boston-area-Women-in-Bioinformatics/webpage": {
+    "fullName": "Boston-area-Women-in-Bioinformatics/webpage",
+    "stars": 0,
+    "pushedAt": "2026-09-25T01:12:49Z",
+    "archived": false,
+    "fork": false,
+    "language": "Astro",
+    "openIssues": 7,
+    "cachedAt": "2026-09-25T22:33:31.358Z"
+  },
+  "layer5io/layer5": {
+    "fullName": "layer5io/layer5",
+    "stars": 1136,
+    "pushedAt": "2026-09-25T19:20:26Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 197,
+    "cachedAt": "2026-09-25T22:33:31.599Z"
+  },
+  "kiarash-ej/Ghaltak-": {
+    "fullName": "kiarash-ej/Ghaltak-",
+    "stars": 0,
+    "pushedAt": "2026-09-25T22:31:58Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 7,
+    "cachedAt": "2026-09-25T22:33:31.799Z"
+  },
+  "multiagentcoordinationprotocol/macp-sdk-typescript": {
+    "fullName": "multiagentcoordinationprotocol/macp-sdk-typescript",
+    "stars": 0,
+    "pushedAt": "2026-09-25T21:45:45Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 7,
+    "cachedAt": "2026-09-25T22:33:32.006Z"
+  },
+  "alexseymer/r-best-practice-mcp": {
+    "fullName": "alexseymer/r-best-practice-mcp",
+    "stars": 1,
+    "pushedAt": "2026-09-25T22:15:12Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 6,
+    "cachedAt": "2026-09-25T22:33:32.198Z"
+  },
+  "SJinKim/hanmaum-dn-web-app": {
+    "fullName": "SJinKim/hanmaum-dn-web-app",
+    "stars": 0,
+    "pushedAt": "2026-09-25T22:19:47Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 25,
+    "cachedAt": "2026-09-25T22:33:32.378Z"
+  },
+  "dcruzgalicia/iteraciones-cli": {
+    "fullName": "dcruzgalicia/iteraciones-cli",
+    "stars": 0,
+    "pushedAt": "2026-09-25T19:01:47Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 12,
+    "cachedAt": "2026-09-25T22:33:32.613Z"
+  },
+  "aer35/porto-bot": {
+    "fullName": "aer35/porto-bot",
+    "stars": 0,
+    "pushedAt": "2026-09-25T22:10:58Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 6,
+    "cachedAt": "2026-09-25T22:33:32.828Z"
+  },
+  "loboroboticos/shopify-app-kit": {
+    "fullName": "loboroboticos/shopify-app-kit",
+    "stars": 0,
+    "pushedAt": "2026-09-25T22:28:33Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 14,
+    "cachedAt": "2026-09-25T22:33:33.035Z"
+  },
+  "BlakeHastings/b-fac": {
+    "fullName": "BlakeHastings/b-fac",
+    "stars": 1,
+    "pushedAt": "2026-09-25T22:32:04Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 39,
+    "cachedAt": "2026-09-25T22:33:33.279Z"
+  },
+  "EFForg/privacybadger": {
+    "fullName": "EFForg/privacybadger",
+    "stars": 3849,
+    "pushedAt": "2026-09-25T20:28:15Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 106,
+    "cachedAt": "2026-09-25T22:33:33.488Z"
+  },
+  "pqmcgill/pear-wallpaper": {
+    "fullName": "pqmcgill/pear-wallpaper",
+    "stars": 0,
+    "pushedAt": "2026-09-25T22:27:55Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 25,
+    "cachedAt": "2026-09-25T22:33:33.731Z"
+  },
+  "cpcMomentum/rechnungswerk": {
+    "fullName": "cpcMomentum/rechnungswerk",
+    "stars": 3,
+    "pushedAt": "2026-09-23T12:38:55Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 41,
+    "cachedAt": "2026-09-25T22:33:33.971Z"
+  },
+  "karimarie67/QA-jahnelgroup": {
+    "fullName": "karimarie67/QA-jahnelgroup",
+    "stars": 0,
+    "pushedAt": "2026-09-25T19:57:24Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 29,
+    "cachedAt": "2026-09-25T22:33:34.222Z"
+  },
+  "OpenScribbler/syllago-docs": {
+    "fullName": "OpenScribbler/syllago-docs",
+    "stars": 1,
+    "pushedAt": "2026-09-21T21:16:06Z",
+    "archived": false,
+    "fork": false,
+    "language": "MDX",
+    "openIssues": 25,
+    "cachedAt": "2026-09-25T22:33:34.473Z"
   }
 }
