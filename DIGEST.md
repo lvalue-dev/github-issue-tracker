@@ -4,6 +4,9 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-26 | 🥇 | [[good first issue] 🗾 Add new Learner Mistake 671 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31044) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-26 | 🥈 | [useScrollPosition re-attaches its scroll listener on every frame while scrolling](https://github.com/layer5io/layer5/issues/8142) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-26 | 🥉 | [[Docs]: Bad Formatting in useNavigation Page](https://github.com/remix-run/react-router/issues/15558) | `remix-run/react-router` | ⭐ 56.6k |
 | 2026-09-26 | 🥇 | [[good first issue] 🍁 Add new Grammar Point 595 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31033) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-26 | 🥇 | [The conversion sensor's exit tri-state has no production supplier](https://github.com/neomjs/neo/issues/19245) | `neomjs/neo` | ⭐ 3.3k |
 | 2026-09-26 | 🥈 | [Better error messages for bad property access in p5.strands](https://github.com/processing/p5.js/issues/9218) | `processing/p5.js` | ⭐ 24.0k |
@@ -101,6 +104,3 @@
 | 2026-09-24 | 🥉 | [Add an enterprise policies doc to ThunderAI page on micz.it](https://github.com/micz/ThunderAI/issues/922) | `micz/ThunderAI` | ⭐ 345 |
 | 2026-09-24 | 🥇 | [[Bug]: roundToCurrencyPrecision breaks under non-en locales and zero-decimal cur](https://github.com/medusajs/medusa/issues/16974) | `medusajs/medusa` | ⭐ 36.4k |
 | 2026-09-24 | 🥇 | [[good first issue] 🧧 Add new Japan Fact 2449 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30908) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-24 | 🥇 | [[good first issue] 🎍 Add new Theme: Kintsugi Gold (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30907) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-24 | 🥈 | [[good first issue] 🍚 Add new Learner Mistake 1083 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30905) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-24 | 🥈 | [[good first issue] 🍣 Add new Example Sentence 775 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30904) | `lingdojo/kana-dojo` | ⭐ 3.5k |

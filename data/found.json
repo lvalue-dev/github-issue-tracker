@@ -1,5 +1,62 @@
 [
   {
+    "key": "lingdojo/kana-dojo#31044",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31044,
+    "title": "[good first issue] 🗾 Add new Learner Mistake 671 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31044",
+    "comments": 1,
+    "createdAt": "2026-09-26T16:57:28Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-26T17:17:59.619Z"
+  },
+  {
+    "key": "layer5io/layer5#8142",
+    "tier": 2,
+    "repo": "layer5io/layer5",
+    "number": 8142,
+    "title": "useScrollPosition re-attaches its scroll listener on every frame while scrolling",
+    "url": "https://github.com/layer5io/layer5/issues/8142",
+    "comments": 1,
+    "createdAt": "2026-09-26T14:44:30Z",
+    "labels": [
+      "kind/bug",
+      "help wanted",
+      "framework/gatsby"
+    ],
+    "language": "javascript",
+    "stars": 1136,
+    "foundAt": "2026-09-26T17:18:02.431Z"
+  },
+  {
+    "key": "remix-run/react-router#15558",
+    "tier": 3,
+    "repo": "remix-run/react-router",
+    "number": 15558,
+    "title": "[Docs]: Bad Formatting in useNavigation Page",
+    "url": "https://github.com/remix-run/react-router/issues/15558",
+    "comments": 0,
+    "createdAt": "2026-09-26T16:57:02Z",
+    "labels": [
+      "docs"
+    ],
+    "language": "typescript",
+    "stars": 56588,
+    "foundAt": "2026-09-26T17:18:05.360Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#31033",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1946,74 +2003,5 @@
     "language": "typescript",
     "stars": 3454,
     "foundAt": "2026-09-24T19:20:24.082Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30907",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30907,
-    "title": "[good first issue] 🎍 Add new Theme: Kintsugi Gold (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30907",
-    "comments": 1,
-    "createdAt": "2026-09-24T18:57:33Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-24T19:20:24.374Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30905",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30905,
-    "title": "[good first issue] 🍚 Add new Learner Mistake 1083 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30905",
-    "comments": 1,
-    "createdAt": "2026-09-24T18:01:08Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-24T19:20:27.865Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30904",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30904,
-    "title": "[good first issue] 🍣 Add new Example Sentence 775 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30904",
-    "comments": 1,
-    "createdAt": "2026-09-24T17:57:34Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-24T19:20:27.865Z"
   }
 ]
