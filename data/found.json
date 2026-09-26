@@ -1,5 +1,96 @@
 [
   {
+    "key": "lingdojo/kana-dojo#31033",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31033,
+    "title": "[good first issue] 🍁 Add new Grammar Point 595 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31033",
+    "comments": 1,
+    "createdAt": "2026-09-26T12:57:28Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-26T13:15:03.457Z"
+  },
+  {
+    "key": "neomjs/neo#19245",
+    "tier": 1,
+    "repo": "neomjs/neo",
+    "number": 19245,
+    "title": "The conversion sensor's exit tri-state has no production supplier",
+    "url": "https://github.com/neomjs/neo/issues/19245",
+    "comments": 1,
+    "createdAt": "2026-09-26T08:38:09Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "ai",
+      "dashboard"
+    ],
+    "language": "javascript",
+    "stars": 3280,
+    "foundAt": "2026-09-26T13:15:06.058Z"
+  },
+  {
+    "key": "processing/p5.js#9218",
+    "tier": 2,
+    "repo": "processing/p5.js",
+    "number": 9218,
+    "title": "Better error messages for bad property access in p5.strands",
+    "url": "https://github.com/processing/p5.js/issues/9218",
+    "comments": 0,
+    "createdAt": "2026-09-26T12:57:25Z",
+    "labels": [
+      "Enhancement",
+      "Help Wanted"
+    ],
+    "language": "javascript",
+    "stars": 24030,
+    "foundAt": "2026-09-26T13:15:07.653Z"
+  },
+  {
+    "key": "Timmoth/RackPeek#336",
+    "tier": 2,
+    "repo": "Timmoth/RackPeek",
+    "number": 336,
+    "title": "Docker / System / Proxmox Auto Discovery [Testers Wanted]",
+    "url": "https://github.com/Timmoth/RackPeek/issues/336",
+    "comments": 0,
+    "createdAt": "2026-09-25T19:19:56Z",
+    "labels": [
+      "help wanted"
+    ],
+    "language": "javascript",
+    "stars": 1790,
+    "foundAt": "2026-09-26T13:15:08.044Z"
+  },
+  {
+    "key": "pngwn/MDsveX#837",
+    "tier": 3,
+    "repo": "pngwn/MDsveX",
+    "number": 837,
+    "title": "Tracking: documentation",
+    "url": "https://github.com/pngwn/MDsveX/issues/837",
+    "comments": 0,
+    "createdAt": "2026-09-26T12:28:46Z",
+    "labels": [
+      "docs"
+    ],
+    "language": "javascript",
+    "stars": 3058,
+    "foundAt": "2026-09-26T13:15:11.070Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#31011",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1924,118 +2015,5 @@
     "language": "typescript",
     "stars": 3454,
     "foundAt": "2026-09-24T19:20:27.865Z"
-  },
-  {
-    "key": "meshery/meshery.io#3015",
-    "tier": 2,
-    "repo": "meshery/meshery.io",
-    "number": 3015,
-    "title": "[Website] Add a page title and improve the header description on the Recognition page",
-    "url": "https://github.com/meshery/meshery.io/issues/3015",
-    "comments": 2,
-    "createdAt": "2026-09-24T17:48:32Z",
-    "labels": [
-      "help wanted",
-      "language/javascript",
-      "framework/jekyll",
-      "language/markdown",
-      "area/website",
-      "language/css"
-    ],
-    "language": "javascript",
-    "stars": 867,
-    "foundAt": "2026-09-24T19:20:28.880Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30902",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30902,
-    "title": "[good first issue] 🍙 Add new Etiquette Tip 554 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30902",
-    "comments": 1,
-    "createdAt": "2026-09-24T17:01:00Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-24T19:20:28.649Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30895",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30895,
-    "title": "[good first issue] 🦊 Add new Video Game Quote 155 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30895",
-    "comments": 1,
-    "createdAt": "2026-09-24T15:01:06Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-24T15:18:07.718Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30894",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30894,
-    "title": "[good first issue] 🌋 Add new Grammar Point 670 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30894",
-    "comments": 1,
-    "createdAt": "2026-09-24T14:57:30Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-24T15:18:07.718Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30892",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30892,
-    "title": "[good first issue] 🏯 Add new Trivia Question 351 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30892",
-    "comments": 1,
-    "createdAt": "2026-09-24T14:01:08Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-24T15:18:08.680Z"
   }
 ]

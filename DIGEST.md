@@ -4,6 +4,11 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-26 | 🥇 | [[good first issue] 🍁 Add new Grammar Point 595 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31033) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-26 | 🥇 | [The conversion sensor's exit tri-state has no production supplier](https://github.com/neomjs/neo/issues/19245) | `neomjs/neo` | ⭐ 3.3k |
+| 2026-09-26 | 🥈 | [Better error messages for bad property access in p5.strands](https://github.com/processing/p5.js/issues/9218) | `processing/p5.js` | ⭐ 24.0k |
+| 2026-09-26 | 🥈 | [Docker / System / Proxmox Auto Discovery [Testers Wanted]](https://github.com/Timmoth/RackPeek/issues/336) | `Timmoth/RackPeek` | ⭐ 1.8k |
+| 2026-09-26 | 🥉 | [Tracking: documentation](https://github.com/pngwn/MDsveX/issues/837) | `pngwn/MDsveX` | ⭐ 3.1k |
 | 2026-09-26 | 🥇 | [[good first issue] 🎍 Add new Japanese Idiom 637 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31011) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-26 | 🥇 | [[good first issue] 🍢 Add new Video Game Quote 973 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31010) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-26 | 🥈 | [[RFC] Studio Founding and Closure Dates + Defunct Status](https://github.com/stashapp/stash-box/issues/1279) | `stashapp/stash-box` | ⭐ 370 |
@@ -99,8 +104,3 @@
 | 2026-09-24 | 🥇 | [[good first issue] 🎍 Add new Theme: Kintsugi Gold (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30907) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-24 | 🥈 | [[good first issue] 🍚 Add new Learner Mistake 1083 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30905) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-24 | 🥈 | [[good first issue] 🍣 Add new Example Sentence 775 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30904) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-24 | 🥈 | [[Website] Add a page title and improve the header description on the Recognition](https://github.com/meshery/meshery.io/issues/3015) | `meshery/meshery.io` | ⭐ 867 |
-| 2026-09-24 | 🥈 | [[good first issue] 🍙 Add new Etiquette Tip 554 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30902) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-24 | 🥇 | [[good first issue] 🦊 Add new Video Game Quote 155 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30895) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-24 | 🥇 | [[good first issue] 🌋 Add new Grammar Point 670 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30894) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-24 | 🥇 | [[good first issue] 🏯 Add new Trivia Question 351 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30892) | `lingdojo/kana-dojo` | ⭐ 3.5k |
