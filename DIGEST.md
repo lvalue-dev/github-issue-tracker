@@ -4,6 +4,14 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-26 | 🥇 | [[good first issue] 🎍 Add new Learner Mistake 293 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31061) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-26 | 🥇 | [Create issues to populate 'github-handle' variables in TDM Calculator](https://github.com/hackforla/website/issues/8807) | `hackforla/website` | ⭐ 364 |
+| 2026-09-26 | 🥇 | [Update Project Profile: HackforLA Website](https://github.com/hackforla/website/issues/8806) | `hackforla/website` | ⭐ 364 |
+| 2026-09-26 | 🥇 | [[good first issue] 🀄 Add new Example Sentence 246 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31060) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-26 | 🥇 | [[good first issue] 🧧 Add new Etiquette Tip 289 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31059) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-26 | 🥇 | [[good first issue] 🍤 Add new False Friend Pair 1190 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31057) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-26 | 🥇 | [[good first issue] 🎌 Add new Dialect Entry 788 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31056) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-26 | 🥇 | [[good first issue] 🌊 Add new Japanese Idiom 436 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31054) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-26 | 🥇 | [[good first issue] 🏯 Add new Video Game Quote 463 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31053) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-26 | 🥇 | [[Bug]: Web app crashes on load — raw NUL bytes in useProjectRunStatuses.ts cause](https://github.com/nexu-io/open-design/issues/8475) | `nexu-io/open-design` | ⭐ 98.2k |
 | 2026-09-26 | 🥇 | [Write example prompts and a FAQ for the Zucchetti and TeamSystem satellites](https://github.com/HelpCode-ai/anythingmcp/issues/746) | `HelpCode-ai/anythingmcp` | ⭐ 418 |
@@ -96,11 +104,3 @@
 | 2026-09-25 | 🥈 | [[good first issue] 🦊 Add new Learner Mistake 733 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30919) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-25 | 🥈 | [[good first issue] 🎍 Add new Etiquette Tip 579 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30917) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-24 | 🥇 | [[good first issue] 🎋 Add new False Friend Pair 1070 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30916) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-24 | 🥇 | [[good first issue] 🍜 Add new Japanese Idiom 550 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30915) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-24 | 🥇 | [[good first issue] 🍜 Add new Video Game Quote 1022 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30914) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-24 | 🥇 | [[good first issue] 🍚 Add new Anime Quote 697 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30913) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-24 | 🥇 | [component: Barcode](https://github.com/shadcn-labs/pdfcn/issues/76) | `shadcn-labs/pdfcn` | ⭐ 2.1k |
-| 2026-09-24 | 🥇 | [component: Timeline](https://github.com/shadcn-labs/pdfcn/issues/75) | `shadcn-labs/pdfcn` | ⭐ 2.1k |
-| 2026-09-24 | 🥇 | [component: Progress](https://github.com/shadcn-labs/pdfcn/issues/74) | `shadcn-labs/pdfcn` | ⭐ 2.1k |
-| 2026-09-24 | 🥇 | [component: Stats](https://github.com/shadcn-labs/pdfcn/issues/73) | `shadcn-labs/pdfcn` | ⭐ 2.1k |
-| 2026-09-24 | 🥇 | [component: Totals](https://github.com/shadcn-labs/pdfcn/issues/72) | `shadcn-labs/pdfcn` | ⭐ 2.1k |

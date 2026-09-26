@@ -1,5 +1,192 @@
 [
   {
+    "key": "lingdojo/kana-dojo#31061",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31061,
+    "title": "[good first issue] 🎍 Add new Learner Mistake 293 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31061",
+    "comments": 1,
+    "createdAt": "2026-09-26T22:57:27Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-26T23:00:27.443Z"
+  },
+  {
+    "key": "hackforla/website#8807",
+    "tier": 1,
+    "repo": "hackforla/website",
+    "number": 8807,
+    "title": "Create issues to populate 'github-handle' variables in TDM Calculator",
+    "url": "https://github.com/hackforla/website/issues/8807",
+    "comments": 0,
+    "createdAt": "2026-09-26T22:54:56Z",
+    "labels": [
+      "good first issue",
+      "role: front end",
+      "role: back end/devOps",
+      "P-Feature: Project Info and Page",
+      "size: 0.5pt",
+      "epic",
+      "Issue Making: Level 1",
+      "Complexity: See issue making label",
+      "ready for merge team"
+    ],
+    "language": "javascript",
+    "stars": 364,
+    "foundAt": "2026-09-26T23:00:28.794Z"
+  },
+  {
+    "key": "hackforla/website#8806",
+    "tier": 1,
+    "repo": "hackforla/website",
+    "number": 8806,
+    "title": "Update Project Profile: HackforLA Website",
+    "url": "https://github.com/hackforla/website/issues/8806",
+    "comments": 0,
+    "createdAt": "2026-09-26T22:36:44Z",
+    "labels": [
+      "good first issue",
+      "role: front end",
+      "role: back end/devOps",
+      "P-Feature: Project Info and Page",
+      "time sensitive",
+      "epic",
+      "size: 0.25pt",
+      "Issue Making: Level 1",
+      "Complexity: See issue making label",
+      "non-PR contribution"
+    ],
+    "language": "javascript",
+    "stars": 364,
+    "foundAt": "2026-09-26T23:00:28.975Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31060",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31060,
+    "title": "[good first issue] 🀄 Add new Example Sentence 246 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31060",
+    "comments": 1,
+    "createdAt": "2026-09-26T22:01:13Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-26T23:00:27.903Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31059",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31059,
+    "title": "[good first issue] 🧧 Add new Etiquette Tip 289 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31059",
+    "comments": 1,
+    "createdAt": "2026-09-26T21:57:29Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-26T23:00:27.903Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31057",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31057,
+    "title": "[good first issue] 🍤 Add new False Friend Pair 1190 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31057",
+    "comments": 1,
+    "createdAt": "2026-09-26T21:00:57Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-26T23:00:27.903Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31056",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31056,
+    "title": "[good first issue] 🎌 Add new Dialect Entry 788 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31056",
+    "comments": 1,
+    "createdAt": "2026-09-26T20:57:28Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-26T23:00:27.903Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31054",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31054,
+    "title": "[good first issue] 🌊 Add new Japanese Idiom 436 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31054",
+    "comments": 1,
+    "createdAt": "2026-09-26T20:00:57Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-26T23:00:28.563Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#31053",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1833,164 +2020,5 @@
     "language": "typescript",
     "stars": 3454,
     "foundAt": "2026-09-24T22:34:18.386Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30915",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30915,
-    "title": "[good first issue] 🍜 Add new Japanese Idiom 550 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30915",
-    "comments": 1,
-    "createdAt": "2026-09-24T21:57:29Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-24T22:34:18.386Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30914",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30914,
-    "title": "[good first issue] 🍜 Add new Video Game Quote 1022 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30914",
-    "comments": 1,
-    "createdAt": "2026-09-24T21:01:04Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-24T22:34:18.386Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30913",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30913,
-    "title": "[good first issue] 🍚 Add new Anime Quote 697 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30913",
-    "comments": 1,
-    "createdAt": "2026-09-24T20:58:39Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-24T22:34:18.386Z"
-  },
-  {
-    "key": "shadcn-labs/pdfcn#76",
-    "tier": 1,
-    "repo": "shadcn-labs/pdfcn",
-    "number": 76,
-    "title": "component: Barcode",
-    "url": "https://github.com/shadcn-labs/pdfcn/issues/76",
-    "comments": 0,
-    "createdAt": "2026-09-24T20:33:18Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 2142,
-    "foundAt": "2026-09-24T22:34:18.861Z"
-  },
-  {
-    "key": "shadcn-labs/pdfcn#75",
-    "tier": 1,
-    "repo": "shadcn-labs/pdfcn",
-    "number": 75,
-    "title": "component: Timeline",
-    "url": "https://github.com/shadcn-labs/pdfcn/issues/75",
-    "comments": 0,
-    "createdAt": "2026-09-24T20:33:16Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 2142,
-    "foundAt": "2026-09-24T22:34:18.861Z"
-  },
-  {
-    "key": "shadcn-labs/pdfcn#74",
-    "tier": 1,
-    "repo": "shadcn-labs/pdfcn",
-    "number": 74,
-    "title": "component: Progress",
-    "url": "https://github.com/shadcn-labs/pdfcn/issues/74",
-    "comments": 0,
-    "createdAt": "2026-09-24T20:33:14Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 2142,
-    "foundAt": "2026-09-24T22:34:18.861Z"
-  },
-  {
-    "key": "shadcn-labs/pdfcn#73",
-    "tier": 1,
-    "repo": "shadcn-labs/pdfcn",
-    "number": 73,
-    "title": "component: Stats",
-    "url": "https://github.com/shadcn-labs/pdfcn/issues/73",
-    "comments": 0,
-    "createdAt": "2026-09-24T20:33:13Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 2142,
-    "foundAt": "2026-09-24T22:34:18.861Z"
-  },
-  {
-    "key": "shadcn-labs/pdfcn#72",
-    "tier": 1,
-    "repo": "shadcn-labs/pdfcn",
-    "number": 72,
-    "title": "component: Totals",
-    "url": "https://github.com/shadcn-labs/pdfcn/issues/72",
-    "comments": 0,
-    "createdAt": "2026-09-24T20:33:11Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 2142,
-    "foundAt": "2026-09-24T22:34:18.861Z"
   }
 ]
