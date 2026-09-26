@@ -4,6 +4,19 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-26 | 🥇 | [[good first issue] 🏯 Add new Video Game Quote 463 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31053) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-26 | 🥇 | [[Bug]: Web app crashes on load — raw NUL bytes in useProjectRunStatuses.ts cause](https://github.com/nexu-io/open-design/issues/8475) | `nexu-io/open-design` | ⭐ 98.2k |
+| 2026-09-26 | 🥇 | [Write example prompts and a FAQ for the Zucchetti and TeamSystem satellites](https://github.com/HelpCode-ai/anythingmcp/issues/746) | `HelpCode-ai/anythingmcp` | ⭐ 418 |
+| 2026-09-26 | 🥇 | [Write example prompts and a FAQ for the Exact Online and AFAS satellites](https://github.com/HelpCode-ai/anythingmcp/issues/745) | `HelpCode-ai/anythingmcp` | ⭐ 418 |
+| 2026-09-26 | 🥇 | [[good first issue] 🎍 Add new Anime Quote 148 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31050) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-26 | 🥇 | [[Bug] 有关 IDE 设置总是置顶的问题](https://github.com/1lck/Lithe-IDEA/issues/921) | `1lck/Lithe-IDEA` | ⭐ 1.8k |
+| 2026-09-26 | 🥇 | [New adapter: GetMyInvoices](https://github.com/HelpCode-ai/anythingmcp/issues/738) | `HelpCode-ai/anythingmcp` | ⭐ 418 |
+| 2026-09-26 | 🥇 | [New adapter: easybill](https://github.com/HelpCode-ai/anythingmcp/issues/737) | `HelpCode-ai/anythingmcp` | ⭐ 418 |
+| 2026-09-26 | 🥇 | [weclapp: reject a tenant that is a full hostname](https://github.com/HelpCode-ai/anythingmcp/issues/733) | `HelpCode-ai/anythingmcp` | ⭐ 418 |
+| 2026-09-26 | 🥈 | [SOAP: requests for WSDLs whose input element isn't named after the operation](https://github.com/HelpCode-ai/anythingmcp/issues/736) | `HelpCode-ai/anythingmcp` | ⭐ 418 |
+| 2026-09-26 | 🥈 | [SOAP: send WS-Security UsernameToken headers](https://github.com/HelpCode-ai/anythingmcp/issues/735) | `HelpCode-ai/anythingmcp` | ⭐ 418 |
+| 2026-09-26 | 🥈 | [Verify an "unverified" adapter against your own system](https://github.com/HelpCode-ai/anythingmcp/issues/734) | `HelpCode-ai/anythingmcp` | ⭐ 418 |
+| 2026-09-26 | 🥈 | [Docs: `claude mcp add` example uses a flag that doesn't exist](https://github.com/HelpCode-ai/anythingmcp/issues/732) | `HelpCode-ai/anythingmcp` | ⭐ 418 |
 | 2026-09-26 | 🥇 | [[good first issue] 🗾 Add new Learner Mistake 671 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31044) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-26 | 🥈 | [useScrollPosition re-attaches its scroll listener on every frame while scrolling](https://github.com/layer5io/layer5/issues/8142) | `layer5io/layer5` | ⭐ 1.1k |
 | 2026-09-26 | 🥉 | [[Docs]: Bad Formatting in useNavigation Page](https://github.com/remix-run/react-router/issues/15558) | `remix-run/react-router` | ⭐ 56.6k |
@@ -91,16 +104,3 @@
 | 2026-09-24 | 🥇 | [component: Progress](https://github.com/shadcn-labs/pdfcn/issues/74) | `shadcn-labs/pdfcn` | ⭐ 2.1k |
 | 2026-09-24 | 🥇 | [component: Stats](https://github.com/shadcn-labs/pdfcn/issues/73) | `shadcn-labs/pdfcn` | ⭐ 2.1k |
 | 2026-09-24 | 🥇 | [component: Totals](https://github.com/shadcn-labs/pdfcn/issues/72) | `shadcn-labs/pdfcn` | ⭐ 2.1k |
-| 2026-09-24 | 🥇 | [component: Addresses](https://github.com/shadcn-labs/pdfcn/issues/71) | `shadcn-labs/pdfcn` | ⭐ 2.1k |
-| 2026-09-24 | 🥇 | [component: Columns](https://github.com/shadcn-labs/pdfcn/issues/70) | `shadcn-labs/pdfcn` | ⭐ 2.1k |
-| 2026-09-24 | 🥇 | [component: Spacer](https://github.com/shadcn-labs/pdfcn/issues/69) | `shadcn-labs/pdfcn` | ⭐ 2.1k |
-| 2026-09-24 | 🥇 | [component: Code](https://github.com/shadcn-labs/pdfcn/issues/68) | `shadcn-labs/pdfcn` | ⭐ 2.1k |
-| 2026-09-24 | 🥇 | [component: Quote](https://github.com/shadcn-labs/pdfcn/issues/67) | `shadcn-labs/pdfcn` | ⭐ 2.1k |
-| 2026-09-24 | 🥇 | [component: Title](https://github.com/shadcn-labs/pdfcn/issues/66) | `shadcn-labs/pdfcn` | ⭐ 2.1k |
-| 2026-09-24 | 🥇 | [[good first issue] 🎐 Add new Trivia Question 549 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30912) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-24 | 🥇 | [[good first issue] 🗻 Add new Japanese Proverb 1237 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30911) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-24 | 🥇 | [[Bug]: getWebhookActionAndData crashes with TypeError on non-string provider](https://github.com/medusajs/medusa/issues/16978) | `medusajs/medusa` | ⭐ 36.4k |
-| 2026-09-24 | 🥈 | [Trace Jev (TypeSafe) as a model provider in the Python and TypeScript SDKs](https://github.com/traceroot-ai/traceroot/issues/2341) | `traceroot-ai/traceroot` | ⭐ 775 |
-| 2026-09-24 | 🥉 | [Add an enterprise policies doc to ThunderAI page on micz.it](https://github.com/micz/ThunderAI/issues/922) | `micz/ThunderAI` | ⭐ 345 |
-| 2026-09-24 | 🥇 | [[Bug]: roundToCurrencyPrecision breaks under non-en locales and zero-decimal cur](https://github.com/medusajs/medusa/issues/16974) | `medusajs/medusa` | ⭐ 36.4k |
-| 2026-09-24 | 🥇 | [[good first issue] 🧧 Add new Japan Fact 2449 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30908) | `lingdojo/kana-dojo` | ⭐ 3.5k |
