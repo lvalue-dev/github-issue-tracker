@@ -4,6 +4,13 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-26 | 🥇 | [[good first issue] 🍜 Add new Video Game Quote 470 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30994) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-26 | 🥇 | [[good first issue] 🍙 Add new Anime Quote 589 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30993) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-26 | 🥇 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15547) | `stdlib-js/stdlib` | ⭐ 6.0k |
+| 2026-09-26 | 🥇 | [[good first issue] 🍣 Add new Trivia Question 1182 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30992) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-26 | 🥇 | [[good first issue] 🗻 Add new Japanese Proverb 1801 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30991) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-26 | 🥇 | [[good first issue] 🎑 Add new Theme: Plum Ink (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30988) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-26 | 🥉 | [Docs: `handleValidationError` isn't called for `form`](https://github.com/sveltejs/kit/issues/17220) | `sveltejs/kit` | ⭐ 20.8k |
 | 2026-09-25 | 🥇 | [[good first issue] 🍤 Add new Learner Mistake 849 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30987) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-25 | 🥇 | [[good first issue] 🍣 Add new Example Sentence 1158 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30986) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-25 | 🥇 | [[Integrations/py+ts] OpenRouter — check against latest release, update if stale](https://github.com/traceroot-ai/traceroot/issues/2374) | `traceroot-ai/traceroot` | ⭐ 775 |
@@ -97,10 +104,3 @@
 | 2026-09-24 | 🥈 | [[UI]: MeshMate logo disappears to the left on the MeshMates page](https://github.com/layer5io/layer5/issues/8123) | `layer5io/layer5` | ⭐ 1.1k |
 | 2026-09-24 | 🥈 | [Duplicate `loadedScripts` declaration causes JavaScript syntax errors on WebAsse](https://github.com/meshery/meshery.io/issues/3012) | `meshery/meshery.io` | ⭐ 867 |
 | 2026-09-24 | 🥉 | [[menu] iPhone VoiceOver closes entire menu after last submenu item](https://github.com/mui/base-ui/issues/5794) | `mui/base-ui` | ⭐ 11.0k |
-| 2026-09-24 | 🥉 | [[docs-i18n] docs/roleplay/getting-started.md whisper command](https://github.com/Pasta-Devs/Marinara-Engine/issues/6619) | `Pasta-Devs/Marinara-Engine` | ⭐ 666 |
-| 2026-09-24 | 🥇 | [[good first issue] 🎑 Add new Japanese Idiom 484 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30878) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-24 | 🥇 | [[good first issue] 🐉 Add new Video Game Quote 735 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30877) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-24 | 🥇 | [Add shadcn and prompt tabs to the install command block](https://github.com/shadcn-labs/ogimagecn/issues/55) | `shadcn-labs/ogimagecn` | ⭐ 229 |
-| 2026-09-24 | 🥇 | [[good first issue] 🎎 Add new Grammar Point 1124 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30872) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-24 | 🥇 | [[BUG] `/exception/trigger` page: `isloading` is never reset and the error model ](https://github.com/apache/shenyu-dashboard/issues/653) | `apache/shenyu-dashboard` | ⭐ 201 |
-| 2026-09-24 | 🥇 | [[BUG] e2e tests are stale Ant Design Pro leftovers – `npm run test:all` always f](https://github.com/apache/shenyu-dashboard/issues/652) | `apache/shenyu-dashboard` | ⭐ 201 |
