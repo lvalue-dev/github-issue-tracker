@@ -4,6 +4,12 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-26 | 🥇 | [[good first issue] 🎍 Add new Japanese Idiom 637 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31011) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-26 | 🥇 | [[good first issue] 🍢 Add new Video Game Quote 973 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31010) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-26 | 🥈 | [[RFC] Studio Founding and Closure Dates + Defunct Status](https://github.com/stashapp/stash-box/issues/1279) | `stashapp/stash-box` | ⭐ 370 |
+| 2026-09-26 | 🥈 | [[good first issue] 🎑 Add new Anime Quote 498 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31007) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-26 | 🥈 | [[good first issue] 🍘 Add new Japan Fact 1974 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31001) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-26 | 🥈 | [[good first issue] 🧧 Add new Theme: Digital Oni (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31000) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-26 | 🥇 | [[good first issue] 🍜 Add new Video Game Quote 470 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30994) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-26 | 🥇 | [[good first issue] 🍙 Add new Anime Quote 589 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30993) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-26 | 🥇 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15547) | `stdlib-js/stdlib` | ⭐ 6.0k |
@@ -98,9 +104,3 @@
 | 2026-09-24 | 🥇 | [[good first issue] 🦊 Add new Video Game Quote 155 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30895) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-24 | 🥇 | [[good first issue] 🌋 Add new Grammar Point 670 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30894) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-24 | 🥇 | [[good first issue] 🏯 Add new Trivia Question 351 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30892) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-24 | 🥇 | [[good first issue] 🥟 Add new Japanese Proverb 1606 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30891) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-24 | 🥇 | [[Bug] Local commit creates an empty commit when the repository is not initialize](https://github.com/VoidenHQ/voiden/issues/567) | `VoidenHQ/voiden` | ⭐ 1.8k |
-| 2026-09-24 | 🥇 | [Always set flavour metadata](https://github.com/openzim/mwoffliner/issues/2908) | `openzim/mwoffliner` | ⭐ 486 |
-| 2026-09-24 | 🥈 | [[UI]: MeshMate logo disappears to the left on the MeshMates page](https://github.com/layer5io/layer5/issues/8123) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-24 | 🥈 | [Duplicate `loadedScripts` declaration causes JavaScript syntax errors on WebAsse](https://github.com/meshery/meshery.io/issues/3012) | `meshery/meshery.io` | ⭐ 867 |
-| 2026-09-24 | 🥉 | [[menu] iPhone VoiceOver closes entire menu after last submenu item](https://github.com/mui/base-ui/issues/5794) | `mui/base-ui` | ⭐ 11.0k |

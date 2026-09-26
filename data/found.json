@@ -1,5 +1,136 @@
 [
   {
+    "key": "lingdojo/kana-dojo#31011",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31011,
+    "title": "[good first issue] 🎍 Add new Japanese Idiom 637 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31011",
+    "comments": 1,
+    "createdAt": "2026-09-26T07:00:59Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-26T07:53:01.809Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31010",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31010,
+    "title": "[good first issue] 🍢 Add new Video Game Quote 973 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31010",
+    "comments": 1,
+    "createdAt": "2026-09-26T06:57:28Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-26T07:53:01.809Z"
+  },
+  {
+    "key": "stashapp/stash-box#1279",
+    "tier": 2,
+    "repo": "stashapp/stash-box",
+    "number": 1279,
+    "title": "[RFC] Studio Founding and Closure Dates + Defunct Status",
+    "url": "https://github.com/stashapp/stash-box/issues/1279",
+    "comments": 0,
+    "createdAt": "2026-09-26T06:47:46Z",
+    "labels": [
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 370,
+    "foundAt": "2026-09-26T07:53:03.000Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31007",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31007,
+    "title": "[good first issue] 🎑 Add new Anime Quote 498 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31007",
+    "comments": 1,
+    "createdAt": "2026-09-26T06:00:56Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-26T07:53:03.000Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31001",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31001,
+    "title": "[good first issue] 🍘 Add new Japan Fact 1974 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31001",
+    "comments": 1,
+    "createdAt": "2026-09-26T04:58:01Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-26T07:53:03.179Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31000",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31000,
+    "title": "[good first issue] 🧧 Add new Theme: Digital Oni (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31000",
+    "comments": 1,
+    "createdAt": "2026-09-26T04:00:56Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-26T07:53:03.516Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#30994",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1906,117 +2037,5 @@
     "language": "typescript",
     "stars": 3454,
     "foundAt": "2026-09-24T15:18:08.680Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30891",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30891,
-    "title": "[good first issue] 🥟 Add new Japanese Proverb 1606 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30891",
-    "comments": 1,
-    "createdAt": "2026-09-24T13:57:32Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-24T15:18:09.131Z"
-  },
-  {
-    "key": "VoidenHQ/voiden#567",
-    "tier": 1,
-    "repo": "VoidenHQ/voiden",
-    "number": 567,
-    "title": "[Bug] Local commit creates an empty commit when the repository is not initialized",
-    "url": "https://github.com/VoidenHQ/voiden/issues/567",
-    "comments": 0,
-    "createdAt": "2026-09-24T13:34:46Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "up-for-grabs"
-    ],
-    "language": "typescript",
-    "stars": 1786,
-    "foundAt": "2026-09-24T15:18:09.672Z"
-  },
-  {
-    "key": "openzim/mwoffliner#2908",
-    "tier": 1,
-    "repo": "openzim/mwoffliner",
-    "number": 2908,
-    "title": "Always set flavour metadata",
-    "url": "https://github.com/openzim/mwoffliner/issues/2908",
-    "comments": 0,
-    "createdAt": "2026-09-24T13:28:17Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 486,
-    "foundAt": "2026-09-24T15:18:09.915Z"
-  },
-  {
-    "key": "layer5io/layer5#8123",
-    "tier": 2,
-    "repo": "layer5io/layer5",
-    "number": 8123,
-    "title": "[UI]: MeshMate logo disappears to the left on the MeshMates page",
-    "url": "https://github.com/layer5io/layer5/issues/8123",
-    "comments": 1,
-    "createdAt": "2026-09-24T13:57:25Z",
-    "labels": [
-      "kind/bug",
-      "help wanted",
-      "framework/gatsby"
-    ],
-    "language": "javascript",
-    "stars": 1124,
-    "foundAt": "2026-09-24T15:18:11.499Z"
-  },
-  {
-    "key": "meshery/meshery.io#3012",
-    "tier": 2,
-    "repo": "meshery/meshery.io",
-    "number": 3012,
-    "title": "Duplicate `loadedScripts` declaration causes JavaScript syntax errors on WebAssembly catalog page",
-    "url": "https://github.com/meshery/meshery.io/issues/3012",
-    "comments": 1,
-    "createdAt": "2026-09-24T12:17:40Z",
-    "labels": [
-      "kind/bug",
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 867,
-    "foundAt": "2026-09-24T15:18:11.985Z"
-  },
-  {
-    "key": "mui/base-ui#5794",
-    "tier": 3,
-    "repo": "mui/base-ui",
-    "number": 5794,
-    "title": "[menu] iPhone VoiceOver closes entire menu after last submenu item",
-    "url": "https://github.com/mui/base-ui/issues/5794",
-    "comments": 0,
-    "createdAt": "2026-09-24T14:49:21Z",
-    "labels": [
-      "component: menu",
-      "type: bug",
-      "accessibility",
-      "browser: Safari"
-    ],
-    "language": "typescript",
-    "stars": 10984,
-    "foundAt": "2026-09-24T15:18:15.270Z"
   }
 ]
