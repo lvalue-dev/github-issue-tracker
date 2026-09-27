@@ -1,344 +1,4 @@
 {
-  "snapotter-hq/SnapOtter": {
-    "fullName": "snapotter-hq/SnapOtter",
-    "stars": 2708,
-    "pushedAt": "2026-09-20T06:18:56Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 251,
-    "cachedAt": "2026-09-20T06:29:34.656Z"
-  },
-  "jbouder/holotable": {
-    "fullName": "jbouder/holotable",
-    "stars": 1,
-    "pushedAt": "2026-07-13T11:19:40Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 124,
-    "cachedAt": "2026-09-20T06:29:34.804Z"
-  },
-  "CourtWatchJamaica/court-watch-ja": {
-    "fullName": "CourtWatchJamaica/court-watch-ja",
-    "stars": 3,
-    "pushedAt": "2026-09-20T03:24:18Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 3,
-    "cachedAt": "2026-09-20T06:29:34.960Z"
-  },
-  "Kentucky-ai/opentakeoff": {
-    "fullName": "Kentucky-ai/opentakeoff",
-    "stars": 133,
-    "pushedAt": "2026-09-20T03:42:55Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 6,
-    "cachedAt": "2026-09-20T06:29:35.147Z"
-  },
-  "xlCyanz/cantoral": {
-    "fullName": "xlCyanz/cantoral",
-    "stars": 0,
-    "pushedAt": "2026-09-20T04:35:41Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 30,
-    "cachedAt": "2026-09-20T06:29:35.317Z"
-  },
-  "socai-io/jev-social": {
-    "fullName": "socai-io/jev-social",
-    "stars": 10,
-    "pushedAt": "2026-09-20T04:51:20Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 3,
-    "cachedAt": "2026-09-20T06:29:35.516Z"
-  },
-  "Saidur-droid/MergeEarn": {
-    "fullName": "Saidur-droid/MergeEarn",
-    "stars": 0,
-    "pushedAt": "2026-09-20T06:12:37Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 4,
-    "cachedAt": "2026-09-20T06:29:35.666Z"
-  },
-  "ashlrai/lexicon": {
-    "fullName": "ashlrai/lexicon",
-    "stars": 1,
-    "pushedAt": "2026-09-20T06:12:45Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 12,
-    "cachedAt": "2026-09-20T06:29:35.832Z"
-  },
-  "wuisabel-gif/code-explained": {
-    "fullName": "wuisabel-gif/code-explained",
-    "stars": 0,
-    "pushedAt": "2026-09-20T05:20:24Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 4,
-    "cachedAt": "2026-09-20T06:29:36.011Z"
-  },
-  "entrotter/entrotter.github.io": {
-    "fullName": "entrotter/entrotter.github.io",
-    "stars": 0,
-    "pushedAt": "2026-09-19T23:25:29Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 10,
-    "cachedAt": "2026-09-20T06:29:36.177Z"
-  },
-  "artemis-sh/dispatch": {
-    "fullName": "artemis-sh/dispatch",
-    "stars": 0,
-    "pushedAt": "2026-09-20T06:25:26Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 25,
-    "cachedAt": "2026-09-20T06:29:36.366Z"
-  },
-  "AxelHu/chatgpt-web-agent": {
-    "fullName": "AxelHu/chatgpt-web-agent",
-    "stars": 1,
-    "pushedAt": "2026-09-20T06:22:34Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 1,
-    "cachedAt": "2026-09-20T06:29:36.530Z"
-  },
-  "poco-ai/Agentero": {
-    "fullName": "poco-ai/Agentero",
-    "stars": 604,
-    "pushedAt": "2026-09-20T05:08:31Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 28,
-    "cachedAt": "2026-09-20T06:29:36.702Z"
-  },
-  "enderdev01/mis-servicios-donde": {
-    "fullName": "enderdev01/mis-servicios-donde",
-    "stars": 0,
-    "pushedAt": "2026-09-20T04:11:05Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 3,
-    "cachedAt": "2026-09-20T06:29:36.868Z"
-  },
-  "juhyeonni/gas-app-kit": {
-    "fullName": "juhyeonni/gas-app-kit",
-    "stars": 1,
-    "pushedAt": "2026-09-20T05:56:36Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 15,
-    "cachedAt": "2026-09-20T06:29:37.028Z"
-  },
-  "RRdav/personal-portoflio-v2": {
-    "fullName": "RRdav/personal-portoflio-v2",
-    "stars": 1,
-    "pushedAt": "2026-09-20T06:05:28Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 8,
-    "cachedAt": "2026-09-20T06:29:37.198Z"
-  },
-  "shivam2014/pi-files": {
-    "fullName": "shivam2014/pi-files",
-    "stars": 0,
-    "pushedAt": "2026-09-20T06:25:21Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 32,
-    "cachedAt": "2026-09-20T06:29:37.347Z"
-  },
-  "rizafahmi/pi-jev-task-router": {
-    "fullName": "rizafahmi/pi-jev-task-router",
-    "stars": 0,
-    "pushedAt": "2026-09-20T04:19:35Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 15,
-    "cachedAt": "2026-09-20T06:29:37.517Z"
-  },
-  "dadajam4/fastkit": {
-    "fullName": "dadajam4/fastkit",
-    "stars": 6,
-    "pushedAt": "2026-09-20T06:25:40Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 12,
-    "cachedAt": "2026-09-20T06:29:37.674Z"
-  },
-  "0xnicholas/daypaw-pro": {
-    "fullName": "0xnicholas/daypaw-pro",
-    "stars": 0,
-    "pushedAt": "2026-09-20T05:58:36Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 2,
-    "cachedAt": "2026-09-20T06:29:37.830Z"
-  },
-  "Moikapy/lich": {
-    "fullName": "Moikapy/lich",
-    "stars": 1,
-    "pushedAt": "2026-09-20T06:21:20Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 12,
-    "cachedAt": "2026-09-20T06:29:37.986Z"
-  },
-  "brndnsh-labs/Ensemble": {
-    "fullName": "brndnsh-labs/Ensemble",
-    "stars": 1,
-    "pushedAt": "2026-09-20T06:16:26Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 24,
-    "cachedAt": "2026-09-20T06:29:38.155Z"
-  },
-  "sortedcord/ada": {
-    "fullName": "sortedcord/ada",
-    "stars": 0,
-    "pushedAt": "2026-09-20T06:19:56Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 34,
-    "cachedAt": "2026-09-20T06:29:38.308Z"
-  },
-  "boardsesh/boardsesh": {
-    "fullName": "boardsesh/boardsesh",
-    "stars": 156,
-    "pushedAt": "2026-09-20T06:26:57Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 628,
-    "cachedAt": "2026-09-20T06:29:38.475Z"
-  },
-  "elisaleao/SINA_IA": {
-    "fullName": "elisaleao/SINA_IA",
-    "stars": 0,
-    "pushedAt": "2026-09-20T05:01:34Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 6,
-    "cachedAt": "2026-09-20T06:29:38.625Z"
-  },
-  "jwh3times/holland-vip": {
-    "fullName": "jwh3times/holland-vip",
-    "stars": 1,
-    "pushedAt": "2026-09-20T06:00:06Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 6,
-    "cachedAt": "2026-09-20T06:29:38.773Z"
-  },
-  "macmam1/MAGoCo-Self-Evo-2": {
-    "fullName": "macmam1/MAGoCo-Self-Evo-2",
-    "stars": 0,
-    "pushedAt": "2026-09-20T05:43:24Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 133,
-    "cachedAt": "2026-09-20T06:29:38.927Z"
-  },
-  "Click-In-Studio/clickin-project-manager": {
-    "fullName": "Click-In-Studio/clickin-project-manager",
-    "stars": 1,
-    "pushedAt": "2026-09-20T05:45:36Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 82,
-    "cachedAt": "2026-09-20T06:29:39.112Z"
-  },
-  "mimish0778/after-flow": {
-    "fullName": "mimish0778/after-flow",
-    "stars": 1,
-    "pushedAt": "2026-09-20T06:26:51Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 31,
-    "cachedAt": "2026-09-20T06:29:39.281Z"
-  },
-  "e0ipso/kenkeep": {
-    "fullName": "e0ipso/kenkeep",
-    "stars": 31,
-    "pushedAt": "2026-09-18T15:18:43Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 10,
-    "cachedAt": "2026-09-20T06:29:39.430Z"
-  },
-  "zentetsukenz/agent": {
-    "fullName": "zentetsukenz/agent",
-    "stars": 1,
-    "pushedAt": "2026-09-11T07:26:18Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 14,
-    "cachedAt": "2026-09-20T06:29:39.594Z"
-  },
-  "islahnexus/campuseats-task-tracker": {
-    "fullName": "islahnexus/campuseats-task-tracker",
-    "stars": 0,
-    "pushedAt": "2026-09-20T06:14:22Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 3,
-    "cachedAt": "2026-09-20T06:29:39.751Z"
-  },
-  "link-assistant/hive-mind": {
-    "fullName": "link-assistant/hive-mind",
-    "stars": 87,
-    "pushedAt": "2026-09-20T06:06:42Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 162,
-    "cachedAt": "2026-09-20T06:29:39.933Z"
-  },
-  "fuzzywigg/g0p-ai": {
-    "fullName": "fuzzywigg/g0p-ai",
-    "stars": 0,
-    "pushedAt": "2026-09-19T20:28:06Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 8,
-    "cachedAt": "2026-09-20T06:29:40.098Z"
-  },
   "ONEARMY/community-platform": {
     "fullName": "ONEARMY/community-platform",
     "stars": 1403,
@@ -11238,5 +10898,265 @@
     "language": "JavaScript",
     "openIssues": 27,
     "cachedAt": "2026-09-27T01:35:34.855Z"
+  },
+  "Dfunder/stellarAid-web": {
+    "fullName": "Dfunder/stellarAid-web",
+    "stars": 1,
+    "pushedAt": "2026-09-26T20:24:21Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 141,
+    "cachedAt": "2026-09-27T08:23:37.660Z"
+  },
+  "efegokdemir/shopify-app-changeguard": {
+    "fullName": "efegokdemir/shopify-app-changeguard",
+    "stars": 1,
+    "pushedAt": "2026-09-27T08:23:06Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 3,
+    "cachedAt": "2026-09-27T08:23:37.903Z"
+  },
+  "StudentSuite/awesome-skills-plugins-for-students": {
+    "fullName": "StudentSuite/awesome-skills-plugins-for-students",
+    "stars": 20,
+    "pushedAt": "2026-09-27T05:58:10Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 42,
+    "cachedAt": "2026-09-27T08:23:38.140Z"
+  },
+  "StudentSuite/awesome-study-resources": {
+    "fullName": "StudentSuite/awesome-study-resources",
+    "stars": 21,
+    "pushedAt": "2026-09-27T05:58:52Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 20,
+    "cachedAt": "2026-09-27T08:23:38.348Z"
+  },
+  "StudentSuite/awesome-student-resources": {
+    "fullName": "StudentSuite/awesome-student-resources",
+    "stars": 22,
+    "pushedAt": "2026-09-27T05:51:30Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 27,
+    "cachedAt": "2026-09-27T08:23:38.586Z"
+  },
+  "xaviercallens/rust-linux-mini-kernel": {
+    "fullName": "xaviercallens/rust-linux-mini-kernel",
+    "stars": 0,
+    "pushedAt": "2026-09-27T08:10:41Z",
+    "archived": false,
+    "fork": false,
+    "language": "HTML",
+    "openIssues": 18,
+    "cachedAt": "2026-09-27T08:23:38.833Z"
+  },
+  "shouvik12/devtv": {
+    "fullName": "shouvik12/devtv",
+    "stars": 10,
+    "pushedAt": "2026-09-27T03:37:34Z",
+    "archived": false,
+    "fork": false,
+    "language": "HTML",
+    "openIssues": 1,
+    "cachedAt": "2026-09-27T08:23:39.030Z"
+  },
+  "kingrishabdugar/fizzdoc": {
+    "fullName": "kingrishabdugar/fizzdoc",
+    "stars": 9,
+    "pushedAt": "2026-09-27T08:06:04Z",
+    "archived": false,
+    "fork": false,
+    "language": "HTML",
+    "openIssues": 16,
+    "cachedAt": "2026-09-27T08:23:39.236Z"
+  },
+  "Rupam-It/microcks-website": {
+    "fullName": "Rupam-It/microcks-website",
+    "stars": 1,
+    "pushedAt": "2025-05-09T19:18:45Z",
+    "archived": false,
+    "fork": true,
+    "language": "JavaScript",
+    "openIssues": 86,
+    "cachedAt": "2026-09-27T08:23:39.481Z"
+  },
+  "Ricky1800/leadbox": {
+    "fullName": "Ricky1800/leadbox",
+    "stars": 0,
+    "pushedAt": "2026-09-27T06:37:16Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 8,
+    "cachedAt": "2026-09-27T08:23:39.693Z"
+  },
+  "danilogiles/enki-browser": {
+    "fullName": "danilogiles/enki-browser",
+    "stars": 0,
+    "pushedAt": "2026-09-27T05:43:21Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 5,
+    "cachedAt": "2026-09-27T08:23:39.880Z"
+  },
+  "amponce/archive-movie-browser": {
+    "fullName": "amponce/archive-movie-browser",
+    "stars": 143,
+    "pushedAt": "2026-09-27T07:48:13Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 36,
+    "cachedAt": "2026-09-27T08:23:40.108Z"
+  },
+  "languaojs/litewire": {
+    "fullName": "languaojs/litewire",
+    "stars": 0,
+    "pushedAt": "2026-09-27T02:27:02Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 1,
+    "cachedAt": "2026-09-27T08:23:40.337Z"
+  },
+  "MasonLee3721/quant-market-observer": {
+    "fullName": "MasonLee3721/quant-market-observer",
+    "stars": 0,
+    "pushedAt": "2026-09-27T05:05:49Z",
+    "archived": false,
+    "fork": false,
+    "language": "Python",
+    "openIssues": 6,
+    "cachedAt": "2026-09-27T08:23:40.533Z"
+  },
+  "lindorm-io/monorepo": {
+    "fullName": "lindorm-io/monorepo",
+    "stars": 0,
+    "pushedAt": "2026-09-26T08:09:59Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 145,
+    "cachedAt": "2026-09-27T08:23:40.741Z"
+  },
+  "jma49/Open-CR-Agent": {
+    "fullName": "jma49/Open-CR-Agent",
+    "stars": 1,
+    "pushedAt": "2026-09-27T08:21:15Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 20,
+    "cachedAt": "2026-09-27T08:23:40.934Z"
+  },
+  "woojubb/robota": {
+    "fullName": "woojubb/robota",
+    "stars": 19,
+    "pushedAt": "2026-09-27T08:21:27Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 3,
+    "cachedAt": "2026-09-27T08:23:41.141Z"
+  },
+  "NovaLux12/spotify-mcp-server": {
+    "fullName": "NovaLux12/spotify-mcp-server",
+    "stars": 1,
+    "pushedAt": "2026-09-27T08:23:18Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 82,
+    "cachedAt": "2026-09-27T08:23:41.323Z"
+  },
+  "JKR2311380/sadiconstruction-2.0": {
+    "fullName": "JKR2311380/sadiconstruction-2.0",
+    "stars": 0,
+    "pushedAt": "2026-09-26T19:49:14Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 19,
+    "cachedAt": "2026-09-27T08:23:41.532Z"
+  },
+  "Senthil455/Project-management-tool": {
+    "fullName": "Senthil455/Project-management-tool",
+    "stars": 2,
+    "pushedAt": "2026-08-23T12:12:48Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 30,
+    "cachedAt": "2026-09-27T08:23:41.759Z"
+  },
+  "MatheusBBarni/knot-node-tooling": {
+    "fullName": "MatheusBBarni/knot-node-tooling",
+    "stars": 1,
+    "pushedAt": "2026-09-27T07:12:46Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 3,
+    "cachedAt": "2026-09-27T08:23:41.970Z"
+  },
+  "LouisMoretti/AI-Activity": {
+    "fullName": "LouisMoretti/AI-Activity",
+    "stars": 2,
+    "pushedAt": "2026-09-27T08:22:39Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 30,
+    "cachedAt": "2026-09-27T08:23:42.163Z"
+  },
+  "BinaryOutlook/binary-markdown": {
+    "fullName": "BinaryOutlook/binary-markdown",
+    "stars": 3,
+    "pushedAt": "2026-09-27T06:30:34Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 20,
+    "cachedAt": "2026-09-27T08:23:42.346Z"
+  },
+  "dryvist/docs": {
+    "fullName": "dryvist/docs",
+    "stars": 0,
+    "pushedAt": "2026-09-25T23:27:41Z",
+    "archived": false,
+    "fork": false,
+    "language": "MDX",
+    "openIssues": 2,
+    "cachedAt": "2026-09-27T08:23:42.563Z"
+  },
+  "fedecruz1981/msp-tutorials-es": {
+    "fullName": "fedecruz1981/msp-tutorials-es",
+    "stars": 0,
+    "pushedAt": "2026-09-27T04:31:46Z",
+    "archived": false,
+    "fork": false,
+    "language": "MDX",
+    "openIssues": 6,
+    "cachedAt": "2026-09-27T08:23:42.772Z"
+  },
+  "adulbrich/cs-capstone-handbook": {
+    "fullName": "adulbrich/cs-capstone-handbook",
+    "stars": 1,
+    "pushedAt": "2026-09-25T23:54:32Z",
+    "archived": false,
+    "fork": false,
+    "language": "MDX",
+    "openIssues": 29,
+    "cachedAt": "2026-09-27T08:23:42.993Z"
   }
 }

@@ -4,6 +4,8 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-27 | 🥈 | [[Bug]: Integration component icons have poor contrast in dark mode and inconsist](https://github.com/layer5io/layer5/issues/8146) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-27 | 🥈 | [[Performance] Convert oversized GIFs to video to cut ~53 MB of first-load image ](https://github.com/layer5io/layer5/issues/8144) | `layer5io/layer5` | ⭐ 1.1k |
 | 2026-09-27 | 🥇 | [The Kafka provider doc never says how a read of a partition the topic does not h](https://github.com/libredb/libredb-studio/issues/1146) | `libredb/libredb-studio` | ⭐ 890 |
 | 2026-09-27 | 🥇 | [[good first issue] 🍜 Add new Grammar Point 1405 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31066) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-27 | 🥇 | [[good first issue] 🐡 Add new Trivia Question 508 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31065) | `lingdojo/kana-dojo` | ⭐ 3.5k |
@@ -102,5 +104,3 @@
 | 2026-09-25 | 🥇 | [loyalty-plugin: store-credit debits are labeled "Gift card usage"](https://github.com/medusajs/medusa/issues/16987) | `medusajs/medusa` | ⭐ 36.4k |
 | 2026-09-25 | 🥇 | [[good first issue] 🍚 Add new Japanese Proverb 416 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30923) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-25 | 🥇 | [[good first issue] 🎌 Add new Japan Fact 909 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30922) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-25 | 🥈 | [Add Osaurus Support as a Provider](https://github.com/webbrain-one/webbrain/issues/3087) | `webbrain-one/webbrain` | ⭐ 1.1k |
-| 2026-09-25 | 🥈 | [OpenCode 2: what should OpenCode Quota become?](https://github.com/slkiser/opencode-quota/issues/293) | `slkiser/opencode-quota` | ⭐ 982 |

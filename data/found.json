@@ -1,5 +1,41 @@
 [
   {
+    "key": "layer5io/layer5#8146",
+    "tier": 2,
+    "repo": "layer5io/layer5",
+    "number": 8146,
+    "title": "[Bug]: Integration component icons have poor contrast in dark mode and inconsistent styling",
+    "url": "https://github.com/layer5io/layer5/issues/8146",
+    "comments": 1,
+    "createdAt": "2026-09-27T07:09:57Z",
+    "labels": [
+      "kind/bug",
+      "help wanted",
+      "framework/gatsby"
+    ],
+    "language": "javascript",
+    "stars": 1136,
+    "foundAt": "2026-09-27T08:23:39.236Z"
+  },
+  {
+    "key": "layer5io/layer5#8144",
+    "tier": 2,
+    "repo": "layer5io/layer5",
+    "number": 8144,
+    "title": "[Performance] Convert oversized GIFs to video to cut ~53 MB of first-load image payload across product pages",
+    "url": "https://github.com/layer5io/layer5/issues/8144",
+    "comments": 0,
+    "createdAt": "2026-09-27T06:31:36Z",
+    "labels": [
+      "kind/bug",
+      "help wanted",
+      "framework/gatsby"
+    ],
+    "language": "javascript",
+    "stars": 1136,
+    "foundAt": "2026-09-27T08:23:39.236Z"
+  },
+  {
     "key": "libredb/libredb-studio#1146",
     "tier": 1,
     "repo": "libredb/libredb-studio",
@@ -1978,38 +2014,5 @@
     "language": "typescript",
     "stars": 3454,
     "foundAt": "2026-09-25T01:39:37.531Z"
-  },
-  {
-    "key": "webbrain-one/webbrain#3087",
-    "tier": 2,
-    "repo": "webbrain-one/webbrain",
-    "number": 3087,
-    "title": "Add Osaurus Support as a Provider",
-    "url": "https://github.com/webbrain-one/webbrain/issues/3087",
-    "comments": 0,
-    "createdAt": "2026-09-25T00:24:48Z",
-    "labels": [
-      "enhancement",
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 1095,
-    "foundAt": "2026-09-25T01:39:41.158Z"
-  },
-  {
-    "key": "slkiser/opencode-quota#293",
-    "tier": 2,
-    "repo": "slkiser/opencode-quota",
-    "number": 293,
-    "title": "OpenCode 2: what should OpenCode Quota become?",
-    "url": "https://github.com/slkiser/opencode-quota/issues/293",
-    "comments": 0,
-    "createdAt": "2026-09-25T00:13:54Z",
-    "labels": [
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 982,
-    "foundAt": "2026-09-25T01:39:40.957Z"
   }
 ]
