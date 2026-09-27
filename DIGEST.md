@@ -4,6 +4,15 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-27 | 🥇 | [[good first issue] 🗻 Add new Anime Quote 905 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31130) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-27 | 🥇 | [[good first issue] 🎍 Add new Grammar Point 304 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31129) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-27 | 🥇 | [[good first issue] 🍜 Add new Japanese Proverb 1193 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31126) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-27 | 🥇 | [[good first issue] 🍣 Add new Japan Fact 714 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31125) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-27 | 🥇 | [[good first issue] 🎍 Add new Theme: Matcha Cream (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31124) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-27 | 🥇 | [Editing a connection after another edit target keeps the first one's SSH tunnel ](https://github.com/libredb/libredb-studio/issues/1156) | `libredb/libredb-studio` | ⭐ 890 |
+| 2026-09-27 | 🥇 | [[Bug]: db:migrate exits 0 when a migration script fails (db:migrate:scripts exit](https://github.com/medusajs/medusa/issues/17033) | `medusajs/medusa` | ⭐ 36.4k |
+| 2026-09-27 | 🥈 | [[v10] Re-enable the component-testing mock suite (`test:browser:misc`)](https://github.com/webdriverio/webdriverio/issues/15739) | `webdriverio/webdriverio` | ⭐ 9.8k |
+| 2026-09-27 | 🥈 | [Saving a new connection with the dialog left open keeps its host, TLS and SSH tu](https://github.com/libredb/libredb-studio/issues/1155) | `libredb/libredb-studio` | ⭐ 890 |
 | 2026-09-27 | 🥇 | [[agent] `reticle_clock` cannot advance timers the page scheduled before `freeze`](https://github.com/reticlehq/reticle/issues/1156) | `reticlehq/reticle` | ⭐ 900 |
 | 2026-09-27 | 🥇 | [[agent] `verify --help` and the `--expect` refusal should point at the HTTP tran](https://github.com/reticlehq/reticle/issues/1155) | `reticlehq/reticle` | ⭐ 900 |
 | 2026-09-27 | 🥇 | [[agent] A skill lists docs pages as bare relative names, and agents compose `too](https://github.com/reticlehq/reticle/issues/1154) | `reticlehq/reticle` | ⭐ 900 |
@@ -95,12 +104,3 @@
 | 2026-09-25 | 🥇 | [[Integrations/py+ts] OpenAI — check against latest release, update if stale](https://github.com/traceroot-ai/traceroot/issues/2373) | `traceroot-ai/traceroot` | ⭐ 775 |
 | 2026-09-25 | 🥇 | [[Integrations/py] Mistral — check against latest release, update if stale](https://github.com/traceroot-ai/traceroot/issues/2372) | `traceroot-ai/traceroot` | ⭐ 775 |
 | 2026-09-25 | 🥇 | [[Integrations/py+ts] Anthropic — check against latest release, update if stale](https://github.com/traceroot-ai/traceroot/issues/2371) | `traceroot-ai/traceroot` | ⭐ 775 |
-| 2026-09-25 | 🥇 | [[Integrations/py] Pydantic AI — check against latest release, update if stale](https://github.com/traceroot-ai/traceroot/issues/2370) | `traceroot-ai/traceroot` | ⭐ 775 |
-| 2026-09-25 | 🥇 | [[Integrations/ts] pi SDK — check against latest release, update if stale](https://github.com/traceroot-ai/traceroot/issues/2369) | `traceroot-ai/traceroot` | ⭐ 775 |
-| 2026-09-25 | 🥇 | [[Integrations/py+ts] OpenAI Agents SDK — check against latest release, update if](https://github.com/traceroot-ai/traceroot/issues/2368) | `traceroot-ai/traceroot` | ⭐ 775 |
-| 2026-09-25 | 🥇 | [[Integrations/ts] Mastra — check against latest release, update if stale](https://github.com/traceroot-ai/traceroot/issues/2367) | `traceroot-ai/traceroot` | ⭐ 775 |
-| 2026-09-25 | 🥇 | [[Integrations/py] Microsoft Agent Framework — check against latest release, upda](https://github.com/traceroot-ai/traceroot/issues/2366) | `traceroot-ai/traceroot` | ⭐ 775 |
-| 2026-09-25 | 🥇 | [[Integrations/py] LlamaIndex — check against latest release, update if stale](https://github.com/traceroot-ai/traceroot/issues/2365) | `traceroot-ai/traceroot` | ⭐ 775 |
-| 2026-09-25 | 🥇 | [[Integrations/py+ts] LangChain DeepAgents — check against latest release, update](https://github.com/traceroot-ai/traceroot/issues/2364) | `traceroot-ai/traceroot` | ⭐ 775 |
-| 2026-09-25 | 🥇 | [[Integrations/py+ts] LangChain & LangGraph — check against latest release, updat](https://github.com/traceroot-ai/traceroot/issues/2363) | `traceroot-ai/traceroot` | ⭐ 775 |
-| 2026-09-25 | 🥇 | [[Integrations/py] DSPy — check against latest release, update if stale](https://github.com/traceroot-ai/traceroot/issues/2362) | `traceroot-ai/traceroot` | ⭐ 775 |

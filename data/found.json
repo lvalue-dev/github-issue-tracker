@@ -1,5 +1,193 @@
 [
   {
+    "key": "lingdojo/kana-dojo#31130",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31130,
+    "title": "[good first issue] 🗻 Add new Anime Quote 905 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31130",
+    "comments": 1,
+    "createdAt": "2026-09-27T18:00:57Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-27T18:32:48.846Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31129",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31129,
+    "title": "[good first issue] 🎍 Add new Grammar Point 304 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31129",
+    "comments": 1,
+    "createdAt": "2026-09-27T17:57:27Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-27T18:32:48.846Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31126",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31126,
+    "title": "[good first issue] 🍜 Add new Japanese Proverb 1193 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31126",
+    "comments": 1,
+    "createdAt": "2026-09-27T16:58:08Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-27T18:32:50.054Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31125",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31125,
+    "title": "[good first issue] 🍣 Add new Japan Fact 714 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31125",
+    "comments": 1,
+    "createdAt": "2026-09-27T16:01:03Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-27T18:32:50.257Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31124",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31124,
+    "title": "[good first issue] 🎍 Add new Theme: Matcha Cream (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31124",
+    "comments": 1,
+    "createdAt": "2026-09-27T15:57:31Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-27T18:32:50.257Z"
+  },
+  {
+    "key": "libredb/libredb-studio#1156",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 1156,
+    "title": "Editing a connection after another edit target keeps the first one's SSH tunnel and TLS settings",
+    "url": "https://github.com/libredb/libredb-studio/issues/1156",
+    "comments": 2,
+    "createdAt": "2026-09-27T15:24:53Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 890,
+    "foundAt": "2026-09-27T18:32:50.675Z"
+  },
+  {
+    "key": "medusajs/medusa#17033",
+    "tier": 1,
+    "repo": "medusajs/medusa",
+    "number": 17033,
+    "title": "[Bug]: db:migrate exits 0 when a migration script fails (db:migrate:scripts exit code is discarded)",
+    "url": "https://github.com/medusajs/medusa/issues/17033",
+    "comments": 2,
+    "createdAt": "2026-09-27T14:27:56Z",
+    "labels": [
+      "good first issue",
+      "type: bug"
+    ],
+    "language": "typescript",
+    "stars": 36448,
+    "foundAt": "2026-09-27T18:32:51.048Z"
+  },
+  {
+    "key": "webdriverio/webdriverio#15739",
+    "tier": 2,
+    "repo": "webdriverio/webdriverio",
+    "number": 15739,
+    "title": "[v10] Re-enable the component-testing mock suite (`test:browser:misc`)",
+    "url": "https://github.com/webdriverio/webdriverio/issues/15739",
+    "comments": 1,
+    "createdAt": "2026-09-27T15:43:38Z",
+    "labels": [
+      "Bug 🐛",
+      "help wanted",
+      "Protocol Related",
+      "Tracking 🗒",
+      "v10"
+    ],
+    "language": "typescript",
+    "stars": 9841,
+    "foundAt": "2026-09-27T18:32:52.524Z"
+  },
+  {
+    "key": "libredb/libredb-studio#1155",
+    "tier": 2,
+    "repo": "libredb/libredb-studio",
+    "number": 1155,
+    "title": "Saving a new connection with the dialog left open keeps its host, TLS and SSH tunnel for the next one",
+    "url": "https://github.com/libredb/libredb-studio/issues/1155",
+    "comments": 0,
+    "createdAt": "2026-09-27T15:24:51Z",
+    "labels": [
+      "bug",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 890,
+    "foundAt": "2026-09-27T18:32:52.524Z"
+  },
+  {
     "key": "reticlehq/reticle#1156",
     "tier": 1,
     "repo": "reticlehq/reticle",
@@ -1882,176 +2070,5 @@
     "language": "typescript",
     "stars": 775,
     "foundAt": "2026-09-25T22:33:29.434Z"
-  },
-  {
-    "key": "traceroot-ai/traceroot#2370",
-    "tier": 1,
-    "repo": "traceroot-ai/traceroot",
-    "number": 2370,
-    "title": "[Integrations/py] Pydantic AI — check against latest release, update if stale",
-    "url": "https://github.com/traceroot-ai/traceroot/issues/2370",
-    "comments": 0,
-    "createdAt": "2026-09-25T21:52:02Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "help wanted",
-      "needs approval"
-    ],
-    "language": "typescript",
-    "stars": 775,
-    "foundAt": "2026-09-25T22:33:29.434Z"
-  },
-  {
-    "key": "traceroot-ai/traceroot#2369",
-    "tier": 1,
-    "repo": "traceroot-ai/traceroot",
-    "number": 2369,
-    "title": "[Integrations/ts] pi SDK — check against latest release, update if stale",
-    "url": "https://github.com/traceroot-ai/traceroot/issues/2369",
-    "comments": 0,
-    "createdAt": "2026-09-25T21:51:58Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "help wanted",
-      "needs approval"
-    ],
-    "language": "typescript",
-    "stars": 775,
-    "foundAt": "2026-09-25T22:33:29.434Z"
-  },
-  {
-    "key": "traceroot-ai/traceroot#2368",
-    "tier": 1,
-    "repo": "traceroot-ai/traceroot",
-    "number": 2368,
-    "title": "[Integrations/py+ts] OpenAI Agents SDK — check against latest release, update if stale",
-    "url": "https://github.com/traceroot-ai/traceroot/issues/2368",
-    "comments": 0,
-    "createdAt": "2026-09-25T21:51:55Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "help wanted",
-      "needs approval"
-    ],
-    "language": "typescript",
-    "stars": 775,
-    "foundAt": "2026-09-25T22:33:29.434Z"
-  },
-  {
-    "key": "traceroot-ai/traceroot#2367",
-    "tier": 1,
-    "repo": "traceroot-ai/traceroot",
-    "number": 2367,
-    "title": "[Integrations/ts] Mastra — check against latest release, update if stale",
-    "url": "https://github.com/traceroot-ai/traceroot/issues/2367",
-    "comments": 0,
-    "createdAt": "2026-09-25T21:51:52Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "help wanted",
-      "needs approval"
-    ],
-    "language": "typescript",
-    "stars": 775,
-    "foundAt": "2026-09-25T22:33:29.434Z"
-  },
-  {
-    "key": "traceroot-ai/traceroot#2366",
-    "tier": 1,
-    "repo": "traceroot-ai/traceroot",
-    "number": 2366,
-    "title": "[Integrations/py] Microsoft Agent Framework — check against latest release, update if stale",
-    "url": "https://github.com/traceroot-ai/traceroot/issues/2366",
-    "comments": 0,
-    "createdAt": "2026-09-25T21:51:47Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "help wanted",
-      "needs approval"
-    ],
-    "language": "typescript",
-    "stars": 775,
-    "foundAt": "2026-09-25T22:33:29.434Z"
-  },
-  {
-    "key": "traceroot-ai/traceroot#2365",
-    "tier": 1,
-    "repo": "traceroot-ai/traceroot",
-    "number": 2365,
-    "title": "[Integrations/py] LlamaIndex — check against latest release, update if stale",
-    "url": "https://github.com/traceroot-ai/traceroot/issues/2365",
-    "comments": 0,
-    "createdAt": "2026-09-25T21:51:43Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "help wanted",
-      "needs approval"
-    ],
-    "language": "typescript",
-    "stars": 775,
-    "foundAt": "2026-09-25T22:33:29.434Z"
-  },
-  {
-    "key": "traceroot-ai/traceroot#2364",
-    "tier": 1,
-    "repo": "traceroot-ai/traceroot",
-    "number": 2364,
-    "title": "[Integrations/py+ts] LangChain DeepAgents — check against latest release, update if stale",
-    "url": "https://github.com/traceroot-ai/traceroot/issues/2364",
-    "comments": 0,
-    "createdAt": "2026-09-25T21:51:40Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "help wanted",
-      "needs approval"
-    ],
-    "language": "typescript",
-    "stars": 775,
-    "foundAt": "2026-09-25T22:33:29.435Z"
-  },
-  {
-    "key": "traceroot-ai/traceroot#2363",
-    "tier": 1,
-    "repo": "traceroot-ai/traceroot",
-    "number": 2363,
-    "title": "[Integrations/py+ts] LangChain & LangGraph — check against latest release, update if stale",
-    "url": "https://github.com/traceroot-ai/traceroot/issues/2363",
-    "comments": 0,
-    "createdAt": "2026-09-25T21:51:37Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "help wanted",
-      "needs approval"
-    ],
-    "language": "typescript",
-    "stars": 775,
-    "foundAt": "2026-09-25T22:33:29.435Z"
-  },
-  {
-    "key": "traceroot-ai/traceroot#2362",
-    "tier": 1,
-    "repo": "traceroot-ai/traceroot",
-    "number": 2362,
-    "title": "[Integrations/py] DSPy — check against latest release, update if stale",
-    "url": "https://github.com/traceroot-ai/traceroot/issues/2362",
-    "comments": 0,
-    "createdAt": "2026-09-25T21:51:35Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "help wanted",
-      "needs approval"
-    ],
-    "language": "typescript",
-    "stars": 775,
-    "foundAt": "2026-09-25T22:33:29.435Z"
   }
 ]
