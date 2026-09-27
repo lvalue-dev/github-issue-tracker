@@ -4,6 +4,11 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-27 | 🥇 | [[good first issue] 🥟 Add new Japan Fact 2367 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31143) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-27 | 🥇 | [[good first issue] 🍛 Add new Theme: Sake Glass (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31142) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-27 | 🥇 | [Small Web back button has no keyboard access; remove dead Discover code and unus](https://github.com/amatya-aditya/obsidian-rss-dashboard/issues/503) | `amatya-aditya/obsidian-rss-dashboard` | ⭐ 670 |
+| 2026-09-27 | 🥇 | [docs: Add tutorial and introduction video links to README](https://github.com/vycdev/Kromacut/issues/81) | `vycdev/Kromacut` | ⭐ 283 |
+| 2026-09-27 | 🥈 | [[good first issue] 🦊 Add new Learner Mistake 728 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31140) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-27 | 🥇 | [[good first issue] 🗻 Add new Anime Quote 905 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31130) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-27 | 🥇 | [[good first issue] 🎍 Add new Grammar Point 304 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31129) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-27 | 🥇 | [[good first issue] 🍜 Add new Japanese Proverb 1193 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31126) | `lingdojo/kana-dojo` | ⭐ 3.5k |
@@ -99,8 +104,3 @@
 | 2026-09-26 | 🥇 | [[good first issue] 🎑 Add new Theme: Plum Ink (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30988) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-26 | 🥉 | [Docs: `handleValidationError` isn't called for `form`](https://github.com/sveltejs/kit/issues/17220) | `sveltejs/kit` | ⭐ 20.8k |
 | 2026-09-25 | 🥇 | [[good first issue] 🍤 Add new Learner Mistake 849 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30987) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-25 | 🥇 | [[good first issue] 🍣 Add new Example Sentence 1158 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30986) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-25 | 🥇 | [[Integrations/py+ts] OpenRouter — check against latest release, update if stale](https://github.com/traceroot-ai/traceroot/issues/2374) | `traceroot-ai/traceroot` | ⭐ 775 |
-| 2026-09-25 | 🥇 | [[Integrations/py+ts] OpenAI — check against latest release, update if stale](https://github.com/traceroot-ai/traceroot/issues/2373) | `traceroot-ai/traceroot` | ⭐ 775 |
-| 2026-09-25 | 🥇 | [[Integrations/py] Mistral — check against latest release, update if stale](https://github.com/traceroot-ai/traceroot/issues/2372) | `traceroot-ai/traceroot` | ⭐ 775 |
-| 2026-09-25 | 🥇 | [[Integrations/py+ts] Anthropic — check against latest release, update if stale](https://github.com/traceroot-ai/traceroot/issues/2371) | `traceroot-ai/traceroot` | ⭐ 775 |

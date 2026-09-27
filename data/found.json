@@ -1,5 +1,112 @@
 [
   {
+    "key": "lingdojo/kana-dojo#31143",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31143,
+    "title": "[good first issue] 🥟 Add new Japan Fact 2367 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31143",
+    "comments": 1,
+    "createdAt": "2026-09-27T22:00:58Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-27T22:23:35.817Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31142",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31142,
+    "title": "[good first issue] 🍛 Add new Theme: Sake Glass (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31142",
+    "comments": 1,
+    "createdAt": "2026-09-27T21:57:34Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-27T22:23:36.027Z"
+  },
+  {
+    "key": "amatya-aditya/obsidian-rss-dashboard#503",
+    "tier": 1,
+    "repo": "amatya-aditya/obsidian-rss-dashboard",
+    "number": 503,
+    "title": "Small Web back button has no keyboard access; remove dead Discover code and unused CSS",
+    "url": "https://github.com/amatya-aditya/obsidian-rss-dashboard/issues/503",
+    "comments": 0,
+    "createdAt": "2026-09-27T21:33:52Z",
+    "labels": [
+      "bug",
+      "status: accepted",
+      "priority: low",
+      "good first issue",
+      "area: dashboard",
+      "accessibility"
+    ],
+    "language": "typescript",
+    "stars": 670,
+    "foundAt": "2026-09-27T22:23:36.517Z"
+  },
+  {
+    "key": "vycdev/Kromacut#81",
+    "tier": 1,
+    "repo": "vycdev/Kromacut",
+    "number": 81,
+    "title": "docs: Add tutorial and introduction video links to README",
+    "url": "https://github.com/vycdev/Kromacut/issues/81",
+    "comments": 0,
+    "createdAt": "2026-09-27T21:08:39Z",
+    "labels": [
+      "documentation",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 283,
+    "foundAt": "2026-09-27T22:23:36.693Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31140",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31140,
+    "title": "[good first issue] 🦊 Add new Learner Mistake 728 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31140",
+    "comments": 1,
+    "createdAt": "2026-09-27T21:00:59Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-27T22:23:38.595Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#31130",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1971,104 +2078,5 @@
     "language": "typescript",
     "stars": 3454,
     "foundAt": "2026-09-25T22:33:29.188Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30986",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30986,
-    "title": "[good first issue] 🍣 Add new Example Sentence 1158 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30986",
-    "comments": 1,
-    "createdAt": "2026-09-25T21:57:30Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-25T22:33:29.188Z"
-  },
-  {
-    "key": "traceroot-ai/traceroot#2374",
-    "tier": 1,
-    "repo": "traceroot-ai/traceroot",
-    "number": 2374,
-    "title": "[Integrations/py+ts] OpenRouter — check against latest release, update if stale",
-    "url": "https://github.com/traceroot-ai/traceroot/issues/2374",
-    "comments": 0,
-    "createdAt": "2026-09-25T21:52:15Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "help wanted",
-      "needs approval"
-    ],
-    "language": "typescript",
-    "stars": 775,
-    "foundAt": "2026-09-25T22:33:29.434Z"
-  },
-  {
-    "key": "traceroot-ai/traceroot#2373",
-    "tier": 1,
-    "repo": "traceroot-ai/traceroot",
-    "number": 2373,
-    "title": "[Integrations/py+ts] OpenAI — check against latest release, update if stale",
-    "url": "https://github.com/traceroot-ai/traceroot/issues/2373",
-    "comments": 0,
-    "createdAt": "2026-09-25T21:52:12Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "help wanted",
-      "needs approval"
-    ],
-    "language": "typescript",
-    "stars": 775,
-    "foundAt": "2026-09-25T22:33:29.434Z"
-  },
-  {
-    "key": "traceroot-ai/traceroot#2372",
-    "tier": 1,
-    "repo": "traceroot-ai/traceroot",
-    "number": 2372,
-    "title": "[Integrations/py] Mistral — check against latest release, update if stale",
-    "url": "https://github.com/traceroot-ai/traceroot/issues/2372",
-    "comments": 0,
-    "createdAt": "2026-09-25T21:52:08Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "help wanted",
-      "needs approval"
-    ],
-    "language": "typescript",
-    "stars": 775,
-    "foundAt": "2026-09-25T22:33:29.434Z"
-  },
-  {
-    "key": "traceroot-ai/traceroot#2371",
-    "tier": 1,
-    "repo": "traceroot-ai/traceroot",
-    "number": 2371,
-    "title": "[Integrations/py+ts] Anthropic — check against latest release, update if stale",
-    "url": "https://github.com/traceroot-ai/traceroot/issues/2371",
-    "comments": 0,
-    "createdAt": "2026-09-25T21:52:05Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "help wanted",
-      "needs approval"
-    ],
-    "language": "typescript",
-    "stars": 775,
-    "foundAt": "2026-09-25T22:33:29.434Z"
   }
 ]
