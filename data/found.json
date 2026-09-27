@@ -1,5 +1,88 @@
 [
   {
+    "key": "libredb/libredb-studio#1146",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 1146,
+    "title": "The Kafka provider doc never says how a read of a partition the topic does not have is refused",
+    "url": "https://github.com/libredb/libredb-studio/issues/1146",
+    "comments": 0,
+    "createdAt": "2026-09-27T01:17:56Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "hacktoberfest",
+      "database-provider"
+    ],
+    "language": "typescript",
+    "stars": 890,
+    "foundAt": "2026-09-27T01:35:31.261Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31066",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31066,
+    "title": "[good first issue] 🍜 Add new Grammar Point 1405 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31066",
+    "comments": 1,
+    "createdAt": "2026-09-27T01:00:56Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-27T01:35:31.514Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31065",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31065,
+    "title": "[good first issue] 🐡 Add new Trivia Question 508 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31065",
+    "comments": 1,
+    "createdAt": "2026-09-27T00:57:27Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-27T01:35:31.514Z"
+  },
+  {
+    "key": "libredb/libredb-studio#1145",
+    "tier": 2,
+    "repo": "libredb/libredb-studio",
+    "number": 1145,
+    "title": "A PostgreSQL query that times out is reported as a user cancel, and keeps the previous rows",
+    "url": "https://github.com/libredb/libredb-studio/issues/1145",
+    "comments": 0,
+    "createdAt": "2026-09-27T01:06:36Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "database-provider"
+    ],
+    "language": "typescript",
+    "stars": 890,
+    "foundAt": "2026-09-27T01:35:33.377Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#31061",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1928,97 +2011,5 @@
     "language": "typescript",
     "stars": 982,
     "foundAt": "2026-09-25T01:39:40.957Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30920",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30920,
-    "title": "[good first issue] 🐡 Add new Theme: Shinkansen Speed (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30920",
-    "comments": 1,
-    "createdAt": "2026-09-25T00:01:03Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-25T01:39:40.957Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30919",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30919,
-    "title": "[good first issue] 🦊 Add new Learner Mistake 733 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30919",
-    "comments": 1,
-    "createdAt": "2026-09-24T23:57:29Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-25T01:39:40.957Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30917",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30917,
-    "title": "[good first issue] 🎍 Add new Etiquette Tip 579 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30917",
-    "comments": 1,
-    "createdAt": "2026-09-24T22:57:28Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-25T01:39:41.158Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#30916",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 30916,
-    "title": "[good first issue] 🎋 Add new False Friend Pair 1070 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/30916",
-    "comments": 1,
-    "createdAt": "2026-09-24T22:00:55Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-24T22:34:18.386Z"
   }
 ]

@@ -4,6 +4,10 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-27 | 🥇 | [The Kafka provider doc never says how a read of a partition the topic does not h](https://github.com/libredb/libredb-studio/issues/1146) | `libredb/libredb-studio` | ⭐ 890 |
+| 2026-09-27 | 🥇 | [[good first issue] 🍜 Add new Grammar Point 1405 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31066) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-27 | 🥇 | [[good first issue] 🐡 Add new Trivia Question 508 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31065) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-27 | 🥈 | [A PostgreSQL query that times out is reported as a user cancel, and keeps the pr](https://github.com/libredb/libredb-studio/issues/1145) | `libredb/libredb-studio` | ⭐ 890 |
 | 2026-09-26 | 🥇 | [[good first issue] 🎍 Add new Learner Mistake 293 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31061) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-26 | 🥇 | [Create issues to populate 'github-handle' variables in TDM Calculator](https://github.com/hackforla/website/issues/8807) | `hackforla/website` | ⭐ 364 |
 | 2026-09-26 | 🥇 | [Update Project Profile: HackforLA Website](https://github.com/hackforla/website/issues/8806) | `hackforla/website` | ⭐ 364 |
@@ -100,7 +104,3 @@
 | 2026-09-25 | 🥇 | [[good first issue] 🎌 Add new Japan Fact 909 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30922) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-25 | 🥈 | [Add Osaurus Support as a Provider](https://github.com/webbrain-one/webbrain/issues/3087) | `webbrain-one/webbrain` | ⭐ 1.1k |
 | 2026-09-25 | 🥈 | [OpenCode 2: what should OpenCode Quota become?](https://github.com/slkiser/opencode-quota/issues/293) | `slkiser/opencode-quota` | ⭐ 982 |
-| 2026-09-25 | 🥈 | [[good first issue] 🐡 Add new Theme: Shinkansen Speed (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30920) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-25 | 🥈 | [[good first issue] 🦊 Add new Learner Mistake 733 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30919) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-25 | 🥈 | [[good first issue] 🎍 Add new Etiquette Tip 579 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30917) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-24 | 🥇 | [[good first issue] 🎋 Add new False Friend Pair 1070 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30916) | `lingdojo/kana-dojo` | ⭐ 3.5k |
