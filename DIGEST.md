@@ -4,6 +4,43 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-27 | 🥇 | [[agent] `reticle_clock` cannot advance timers the page scheduled before `freeze`](https://github.com/reticlehq/reticle/issues/1156) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-09-27 | 🥇 | [[agent] `verify --help` and the `--expect` refusal should point at the HTTP tran](https://github.com/reticlehq/reticle/issues/1155) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-09-27 | 🥇 | [[agent] A skill lists docs pages as bare relative names, and agents compose `too](https://github.com/reticlehq/reticle/issues/1154) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-09-27 | 🥇 | [[agent] `init --app <dir>` pointed at a Flutter (or other non-JS) app reports a ](https://github.com/reticlehq/reticle/issues/1153) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-09-27 | 🥇 | [[agent] On a plain `index.html` project, `init` says "wrong directory" and then ](https://github.com/reticlehq/reticle/issues/1152) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-09-27 | 🥇 | [[agent] `@reticlehq/vite-plugin` has no `present` option, so hiding the panel me](https://github.com/reticlehq/reticle/issues/1151) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-09-27 | 🥇 | [[agent] Re-running `init` on a Next app wired before 3.3.0 says "file exists" an](https://github.com/reticlehq/reticle/issues/1150) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-09-27 | 🥇 | [[agent] A store registered with a bare getter is reported as "no store is regist](https://github.com/reticlehq/reticle/issues/1146) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-09-27 | 🥇 | [[agent] A button named by `<label for>` is reported as unnamed](https://github.com/reticlehq/reticle/issues/1145) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-09-27 | 🥇 | [[agent] The `element` predicate has no `pressed` state, so a correct toggle butt](https://github.com/reticlehq/reticle/issues/1144) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-09-27 | 🥇 | [[agent] `reticle_screenshot` on a leased tab ignores `ref` and `clip`, and saves](https://github.com/reticlehq/reticle/issues/1143) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-09-27 | 🥇 | [[agent] `reticle_lease` silently ignores a `seedStorage` it does not recognise, ](https://github.com/reticlehq/reticle/issues/1142) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-09-27 | 🥇 | [[agent] `bootSession()` from @reticlehq/test dies with a raw EADDRINUSE stack wh](https://github.com/reticlehq/reticle/issues/1141) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-09-27 | 🥇 | [[agent] `reticle_navigate` says the page "did not arrive" when it arrived and th](https://github.com/reticlehq/reticle/issues/1139) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-09-27 | 🥇 | [[agent] The MCP handshake tells the agent no app has ever connected while a sess](https://github.com/reticlehq/reticle/issues/1138) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-09-27 | 🥇 | [[agent] The version-skew paragraph is printed twice in every tool response while](https://github.com/reticlehq/reticle/issues/1137) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-09-27 | 🥇 | [[agent] `init` says the CSP is missing the bridge when a development-only `conne](https://github.com/reticlehq/reticle/issues/1133) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-09-27 | 🥇 | [[agent] crawl reports every silent control on a background tab as `dead-control`](https://github.com/reticlehq/reticle/issues/1130) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-09-27 | 🥇 | [`verify { action: "change" }` answers `no` from a contradiction in flows it cann](https://github.com/reticlehq/reticle/issues/1127) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-09-27 | 🥇 | [[agent] A synthetic Escape does not close a modal `<dialog>`, so a working dialo](https://github.com/reticlehq/reticle/issues/1123) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-09-27 | 🥇 | [[agent] `reticle_assert { action: "wait" }` returns `pass` with no `verified`, a](https://github.com/reticlehq/reticle/issues/1119) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-09-27 | 🥇 | [[agent] `reticle_run` skips the target tool's type checks: a viewport of "1440" ](https://github.com/reticlehq/reticle/issues/1118) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-09-27 | 🥇 | [[good first issue] 🥟 Add new False Friend Pair 805 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31114) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-27 | 🥇 | [[good first issue] 🍶 Add new Dialect Entry 417 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31113) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-27 | 🥈 | [[agent] `init` refuses a corepack-managed pnpm on Windows when `corepack enable`](https://github.com/reticlehq/reticle/issues/1149) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-09-27 | 🥈 | [[agent] `init` at a monorepo root refuses when the only other "app" is a backend](https://github.com/reticlehq/reticle/issues/1148) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-09-27 | 🥈 | [[agent] A CLI-only caller cannot move a connected tab: `reticle open <url>` leav](https://github.com/reticlehq/reticle/issues/1140) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-09-27 | 🥈 | [[agent] A daemon-skew warning about one agent's MCP server is delivered to a dif](https://github.com/reticlehq/reticle/issues/1136) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-09-27 | 🥈 | [[agent] The version-skew fix names `@reticlehq/browser` for a project that depen](https://github.com/reticlehq/reticle/issues/1135) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-09-27 | 🥈 | [[agent] `init` waits the whole connect budget for a page whose served CSP blocks](https://github.com/reticlehq/reticle/issues/1134) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-09-27 | 🥈 | [[agent] The dev server `init` hands over writes into pipes nobody reads, and han](https://github.com/reticlehq/reticle/issues/1132) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-09-27 | 🥈 | [[agent] crawl reports working controls as dead (file pickers, controls behind a ](https://github.com/reticlehq/reticle/issues/1131) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-09-27 | 🥈 | [[agent] `verify { action: "change" }` times out on `query` every run while the s](https://github.com/reticlehq/reticle/issues/1129) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-09-27 | 🥈 | [[agent] A change to a file that renders nothing is never attributed to a flow, s](https://github.com/reticlehq/reticle/issues/1128) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-09-27 | 🥈 | [[Bug] Back-navigation chevron ("<") invisible in dark mode on Learning Path cour](https://github.com/layer5io/layer5/issues/8147) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-27 | 🥉 | [docs: a series kept as one repository per book fails story links in every workfl](https://github.com/danjdewhurst/story-skills/issues/242) | `danjdewhurst/story-skills` | ⭐ 247 |
+| 2026-09-27 | 🥉 | [docs: review-copy paragraph labels are called stable, but any earlier edit renum](https://github.com/danjdewhurst/story-skills/issues/240) | `danjdewhurst/story-skills` | ⭐ 247 |
 | 2026-09-27 | 🥈 | [[Bug]: Integration component icons have poor contrast in dark mode and inconsist](https://github.com/layer5io/layer5/issues/8146) | `layer5io/layer5` | ⭐ 1.1k |
 | 2026-09-27 | 🥈 | [[Performance] Convert oversized GIFs to video to cut ~53 MB of first-load image ](https://github.com/layer5io/layer5/issues/8144) | `layer5io/layer5` | ⭐ 1.1k |
 | 2026-09-27 | 🥇 | [The Kafka provider doc never says how a read of a partition the topic does not h](https://github.com/libredb/libredb-studio/issues/1146) | `libredb/libredb-studio` | ⭐ 890 |
@@ -67,40 +104,3 @@
 | 2026-09-25 | 🥇 | [[Integrations/py+ts] LangChain DeepAgents — check against latest release, update](https://github.com/traceroot-ai/traceroot/issues/2364) | `traceroot-ai/traceroot` | ⭐ 775 |
 | 2026-09-25 | 🥇 | [[Integrations/py+ts] LangChain & LangGraph — check against latest release, updat](https://github.com/traceroot-ai/traceroot/issues/2363) | `traceroot-ai/traceroot` | ⭐ 775 |
 | 2026-09-25 | 🥇 | [[Integrations/py] DSPy — check against latest release, update if stale](https://github.com/traceroot-ai/traceroot/issues/2362) | `traceroot-ai/traceroot` | ⭐ 775 |
-| 2026-09-25 | 🥇 | [[Integrations/py] CrewAI — check against latest release, update if stale](https://github.com/traceroot-ai/traceroot/issues/2361) | `traceroot-ai/traceroot` | ⭐ 775 |
-| 2026-09-25 | 🥇 | [[Integrations/py+ts] Claude Agent SDK — check against latest release, update if ](https://github.com/traceroot-ai/traceroot/issues/2360) | `traceroot-ai/traceroot` | ⭐ 775 |
-| 2026-09-25 | 🥇 | [[Integrations/py] AutoGen — check against latest release, update if stale](https://github.com/traceroot-ai/traceroot/issues/2359) | `traceroot-ai/traceroot` | ⭐ 775 |
-| 2026-09-25 | 🥇 | [[Integrations/py] Agno — check against latest release, update if stale](https://github.com/traceroot-ai/traceroot/issues/2358) | `traceroot-ai/traceroot` | ⭐ 775 |
-| 2026-09-25 | 🥈 | [[Bug] Stray "f" character visible on Course Overview pages](https://github.com/layer5io/layer5/issues/8138) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-25 | 🥈 | [[Docs] Fix broken/empty links and typos in CONTRIBUTING.md and README.md](https://github.com/layer5io/layer5/issues/8137) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-25 | 🥉 | [Text in revealjs presentations cannot be resized](https://github.com/quarto-dev/quarto-cli/issues/14952) | `quarto-dev/quarto-cli` | ⭐ 6.0k |
-| 2026-09-25 | 🥉 | [Popup close controls use button roles but do not support Space-key activation](https://github.com/EFForg/privacybadger/issues/3241) | `EFForg/privacybadger` | ⭐ 3.8k |
-| 2026-09-25 | 🥇 | [Real logos for 3–5 high-value apps](https://github.com/tortuvshin/open-apps/issues/293) | `tortuvshin/open-apps` | ⭐ 4.4k |
-| 2026-09-25 | 🥈 | [[good first issue] 🍢 Add new Grammar Point 360 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30974) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-25 | 🥈 | [[good first issue] 🎏 Add new Japanese Proverb 1067 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30973) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-25 | 🥈 | [[good first issue] 🥢 Add new Japan Fact 2283 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30971) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-25 | 🥈 | [[good first issue] 🍁 Add new Theme: Neon Arcade (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30969) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-25 | 🥈 | [[🐛 Bug]: mock.respond() in Firefox leaves the request blocked forever: "body" i](https://github.com/webdriverio/webdriverio/issues/15708) | `webdriverio/webdriverio` | ⭐ 9.8k |
-| 2026-09-25 | 🥈 | [[good first issue] 🍵 Add new False Friend Pair 514 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30967) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-25 | 🥇 | [[good first issue] 🍥 Add new Anime Quote 1401 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30956) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-25 | 🥇 | [[good first issue] ⛩️ Add new Trivia Question 1240 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30953) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-25 | 🥈 | [[UI] Improve vertical alignment of Related Resources card thumbnails](https://github.com/layer5io/layer5/issues/8134) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-25 | 🥈 | [Keep an unrelated Dialog open when Escape closes a Combobox popover with React o](https://github.com/ariakit/ariakit/issues/7646) | `ariakit/ariakit` | ⭐ 8.6k |
-| 2026-09-25 | 🥈 | [Update to Vuetify 4](https://github.com/eclipsesource/jsonforms/issues/2629) | `eclipsesource/jsonforms` | ⭐ 2.7k |
-| 2026-09-25 | 🥇 | [[good first issue] 🍁 Add new Trivia Question 425 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30938) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-25 | 🥇 | [Document how to drive an app with Playwright while Reticle is embedded](https://github.com/reticlehq/reticle/issues/1083) | `reticlehq/reticle` | ⭐ 725 |
-| 2026-09-25 | 🥇 | [[agent] `verify --expect` loses its JSON quotes in PowerShell, and `--expect-fil](https://github.com/reticlehq/reticle/issues/1082) | `reticlehq/reticle` | ⭐ 725 |
-| 2026-09-25 | 🥇 | [[agent] The no-session guidance names any port serving a page as "this app", inc](https://github.com/reticlehq/reticle/issues/1080) | `reticlehq/reticle` | ⭐ 725 |
-| 2026-09-25 | 🥇 | [[agent] On Windows, `reticle update` from 3.1.0 or older fails with `spawn EINVA](https://github.com/reticlehq/reticle/issues/1079) | `reticlehq/reticle` | ⭐ 725 |
-| 2026-09-25 | 🥇 | [[Bug] : Date picker popover does not close after date selection in Tauri desktop](https://github.com/fossasia/scrum_helper/issues/877) | `fossasia/scrum_helper` | ⭐ 1.3k |
-| 2026-09-25 | 🥇 | [[Bug] : Mail icon alignment, hover cursor, and header icon style inconsistency i](https://github.com/fossasia/scrum_helper/issues/876) | `fossasia/scrum_helper` | ⭐ 1.3k |
-| 2026-09-25 | 🥇 | [[good first issue] 🍘 Add new Japanese Proverb 1625 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30937) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-25 | 🥇 | [Replace the type assertions in agentFollowerHostSocket's docFrameEnvelope with a](https://github.com/Comfy-Org/ComfyUI_frontend/issues/18805) | `Comfy-Org/ComfyUI_frontend` | ⭐ 2.0k |
-| 2026-09-25 | 🥇 | [[good first issue] 🍤 Add new Japan Fact 539 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30936) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-25 | 🥇 | [[good first issue] 🍡 Add new Learner Mistake 438 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30933) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-25 | 🥈 | [[Meshery] Features section layout overlap and text overflow on medium/tablet vie](https://github.com/layer5io/layer5/issues/8130) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-25 | 🥈 | [[agent] `press` may dispatch a key twice (needs a repro)](https://github.com/reticlehq/reticle/issues/1084) | `reticlehq/reticle` | ⭐ 725 |
-| 2026-09-25 | 🥈 | [[agent] A Next.js app wired with `withReticle` still reports `no-source-mapping`](https://github.com/reticlehq/reticle/issues/1081) | `reticlehq/reticle` | ⭐ 725 |
-| 2026-09-25 | 🥇 | [loyalty-plugin: store-credit debits are labeled "Gift card usage"](https://github.com/medusajs/medusa/issues/16987) | `medusajs/medusa` | ⭐ 36.4k |
-| 2026-09-25 | 🥇 | [[good first issue] 🍚 Add new Japanese Proverb 416 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30923) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-25 | 🥇 | [[good first issue] 🎌 Add new Japan Fact 909 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30922) | `lingdojo/kana-dojo` | ⭐ 3.5k |
