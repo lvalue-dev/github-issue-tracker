@@ -4,6 +4,37 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-28 | 🥇 | [[good first issue] 🌊 Add new Japan Fact 2989 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31227) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-28 | 🥇 | [[good first issue] 🎌 Add new Theme: Sushi Counter (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31226) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-28 | 🥇 | [Use one source for country names: Regions list and details currently disagree](https://github.com/medusajs/medusa/issues/17060) | `medusajs/medusa` | ⭐ 36.4k |
+| 2026-09-28 | 🥇 | [[good first issue] 🎴 Add new Wallpaper URL #28 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31225) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-28 | 🥇 | [[good first issue] 🍢 Add new Learner Mistake 514 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31224) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-28 | 🥇 | [[Markdown] Code block inside an ordered list item gains a leading space on every](https://github.com/ueberdosis/tiptap/issues/8404) | `ueberdosis/tiptap` | ⭐ 38.6k |
+| 2026-09-28 | 🥇 | [feat(block): add `impact-report` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/178) | `shadcn-labs/ogimagecn` | ⭐ 235 |
+| 2026-09-28 | 🥇 | [feat(block): add `annual-report` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/177) | `shadcn-labs/ogimagecn` | ⭐ 235 |
+| 2026-09-28 | 🥇 | [feat(block): add `funding-round` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/176) | `shadcn-labs/ogimagecn` | ⭐ 235 |
+| 2026-09-28 | 🥈 | [[bug] renaming team: in teamai.yaml orphans members' model gateway keys](https://github.com/Tencent/teamai-cli/issues/894) | `Tencent/teamai-cli` | ⭐ 5.0k |
+| 2026-09-28 | 🥈 | [feat(block): add `rewards-program` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/175) | `shadcn-labs/ogimagecn` | ⭐ 235 |
+| 2026-09-28 | 🥈 | [feat(block): add `gift-guide` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/172) | `shadcn-labs/ogimagecn` | ⭐ 235 |
+| 2026-09-28 | 🥈 | [feat(block): add `workshop` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/169) | `shadcn-labs/ogimagecn` | ⭐ 235 |
+| 2026-09-28 | 🥈 | [feat(block): add `community-ama` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/166) | `shadcn-labs/ogimagecn` | ⭐ 235 |
+| 2026-09-28 | 🥈 | [feat(block): add `panel` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/165) | `shadcn-labs/ogimagecn` | ⭐ 235 |
+| 2026-09-28 | 🥈 | [feat(block): add `website-template` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/164) | `shadcn-labs/ogimagecn` | ⭐ 235 |
+| 2026-09-28 | 🥈 | [feat(block): add `design-system` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/163) | `shadcn-labs/ogimagecn` | ⭐ 235 |
+| 2026-09-28 | 🥈 | [feat(block): add `integration` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/162) | `shadcn-labs/ogimagecn` | ⭐ 235 |
+| 2026-09-28 | 🥈 | [feat(block): add `feature-update` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/161) | `shadcn-labs/ogimagecn` | ⭐ 235 |
+| 2026-09-28 | 🥈 | [feat(block): add `certification` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/160) | `shadcn-labs/ogimagecn` | ⭐ 235 |
+| 2026-09-28 | 🥈 | [feat(block): add `award` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/159) | `shadcn-labs/ogimagecn` | ⭐ 235 |
+| 2026-09-28 | 🥈 | [feat(block): add `bundle` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/158) | `shadcn-labs/ogimagecn` | ⭐ 235 |
+| 2026-09-28 | 🥈 | [feat(block): add `referral` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/157) | `shadcn-labs/ogimagecn` | ⭐ 235 |
+| 2026-09-28 | 🥈 | [feat(block): add `gift-card` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/156) | `shadcn-labs/ogimagecn` | ⭐ 235 |
+| 2026-09-28 | 🥈 | [feat(block): add `event-ticket-qr` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/155) | `shadcn-labs/ogimagecn` | ⭐ 235 |
+| 2026-09-28 | 🥈 | [feat(block): add `browser-extension` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/154) | `shadcn-labs/ogimagecn` | ⭐ 235 |
+| 2026-09-28 | 🥈 | [feat(block): add `mobile-app` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/153) | `shadcn-labs/ogimagecn` | ⭐ 235 |
+| 2026-09-28 | 🥈 | [feat(block): add `earnings` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/152) | `shadcn-labs/ogimagecn` | ⭐ 235 |
+| 2026-09-28 | 🥈 | [feat(block): add `market-update` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/151) | `shadcn-labs/ogimagecn` | ⭐ 235 |
+| 2026-09-28 | 🥈 | [feat(block): add `dashboard` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/150) | `shadcn-labs/ogimagecn` | ⭐ 235 |
+| 2026-09-28 | 🥉 | [Revealjs line highlighting cannot meet WCAG contrast](https://github.com/quarto-dev/quarto-cli/issues/14959) | `quarto-dev/quarto-cli` | ⭐ 6.0k |
 | 2026-09-28 | 🥇 | [[good first issue] 🏮 Add new Learner Mistake 350 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31200) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-28 | 🥇 | [[UI Migration] CharacterCount](https://github.com/ONEARMY/community-platform/issues/4933) | `ONEARMY/community-platform` | ⭐ 1.4k |
 | 2026-09-28 | 🥇 | [[good first issue] 🌺 Add new Example Sentence 358 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31198) | `lingdojo/kana-dojo` | ⭐ 3.5k |
@@ -73,34 +104,3 @@
 | 2026-09-27 | 🥇 | [[agent] `reticle_navigate` says the page "did not arrive" when it arrived and th](https://github.com/reticlehq/reticle/issues/1139) | `reticlehq/reticle` | ⭐ 900 |
 | 2026-09-27 | 🥇 | [[agent] The MCP handshake tells the agent no app has ever connected while a sess](https://github.com/reticlehq/reticle/issues/1138) | `reticlehq/reticle` | ⭐ 900 |
 | 2026-09-27 | 🥇 | [[agent] The version-skew paragraph is printed twice in every tool response while](https://github.com/reticlehq/reticle/issues/1137) | `reticlehq/reticle` | ⭐ 900 |
-| 2026-09-27 | 🥇 | [[agent] `init` says the CSP is missing the bridge when a development-only `conne](https://github.com/reticlehq/reticle/issues/1133) | `reticlehq/reticle` | ⭐ 900 |
-| 2026-09-27 | 🥇 | [[agent] crawl reports every silent control on a background tab as `dead-control`](https://github.com/reticlehq/reticle/issues/1130) | `reticlehq/reticle` | ⭐ 900 |
-| 2026-09-27 | 🥇 | [`verify { action: "change" }` answers `no` from a contradiction in flows it cann](https://github.com/reticlehq/reticle/issues/1127) | `reticlehq/reticle` | ⭐ 900 |
-| 2026-09-27 | 🥇 | [[agent] A synthetic Escape does not close a modal `<dialog>`, so a working dialo](https://github.com/reticlehq/reticle/issues/1123) | `reticlehq/reticle` | ⭐ 900 |
-| 2026-09-27 | 🥇 | [[agent] `reticle_assert { action: "wait" }` returns `pass` with no `verified`, a](https://github.com/reticlehq/reticle/issues/1119) | `reticlehq/reticle` | ⭐ 900 |
-| 2026-09-27 | 🥇 | [[agent] `reticle_run` skips the target tool's type checks: a viewport of "1440" ](https://github.com/reticlehq/reticle/issues/1118) | `reticlehq/reticle` | ⭐ 900 |
-| 2026-09-27 | 🥇 | [[good first issue] 🥟 Add new False Friend Pair 805 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31114) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-27 | 🥇 | [[good first issue] 🍶 Add new Dialect Entry 417 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31113) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-27 | 🥈 | [[agent] `init` refuses a corepack-managed pnpm on Windows when `corepack enable`](https://github.com/reticlehq/reticle/issues/1149) | `reticlehq/reticle` | ⭐ 900 |
-| 2026-09-27 | 🥈 | [[agent] `init` at a monorepo root refuses when the only other "app" is a backend](https://github.com/reticlehq/reticle/issues/1148) | `reticlehq/reticle` | ⭐ 900 |
-| 2026-09-27 | 🥈 | [[agent] A CLI-only caller cannot move a connected tab: `reticle open <url>` leav](https://github.com/reticlehq/reticle/issues/1140) | `reticlehq/reticle` | ⭐ 900 |
-| 2026-09-27 | 🥈 | [[agent] A daemon-skew warning about one agent's MCP server is delivered to a dif](https://github.com/reticlehq/reticle/issues/1136) | `reticlehq/reticle` | ⭐ 900 |
-| 2026-09-27 | 🥈 | [[agent] The version-skew fix names `@reticlehq/browser` for a project that depen](https://github.com/reticlehq/reticle/issues/1135) | `reticlehq/reticle` | ⭐ 900 |
-| 2026-09-27 | 🥈 | [[agent] `init` waits the whole connect budget for a page whose served CSP blocks](https://github.com/reticlehq/reticle/issues/1134) | `reticlehq/reticle` | ⭐ 900 |
-| 2026-09-27 | 🥈 | [[agent] The dev server `init` hands over writes into pipes nobody reads, and han](https://github.com/reticlehq/reticle/issues/1132) | `reticlehq/reticle` | ⭐ 900 |
-| 2026-09-27 | 🥈 | [[agent] crawl reports working controls as dead (file pickers, controls behind a ](https://github.com/reticlehq/reticle/issues/1131) | `reticlehq/reticle` | ⭐ 900 |
-| 2026-09-27 | 🥈 | [[agent] `verify { action: "change" }` times out on `query` every run while the s](https://github.com/reticlehq/reticle/issues/1129) | `reticlehq/reticle` | ⭐ 900 |
-| 2026-09-27 | 🥈 | [[agent] A change to a file that renders nothing is never attributed to a flow, s](https://github.com/reticlehq/reticle/issues/1128) | `reticlehq/reticle` | ⭐ 900 |
-| 2026-09-27 | 🥈 | [[Bug] Back-navigation chevron ("<") invisible in dark mode on Learning Path cour](https://github.com/layer5io/layer5/issues/8147) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-27 | 🥉 | [docs: a series kept as one repository per book fails story links in every workfl](https://github.com/danjdewhurst/story-skills/issues/242) | `danjdewhurst/story-skills` | ⭐ 247 |
-| 2026-09-27 | 🥉 | [docs: review-copy paragraph labels are called stable, but any earlier edit renum](https://github.com/danjdewhurst/story-skills/issues/240) | `danjdewhurst/story-skills` | ⭐ 247 |
-| 2026-09-27 | 🥈 | [[Bug]: Integration component icons have poor contrast in dark mode and inconsist](https://github.com/layer5io/layer5/issues/8146) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-27 | 🥈 | [[Performance] Convert oversized GIFs to video to cut ~53 MB of first-load image ](https://github.com/layer5io/layer5/issues/8144) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-27 | 🥇 | [The Kafka provider doc never says how a read of a partition the topic does not h](https://github.com/libredb/libredb-studio/issues/1146) | `libredb/libredb-studio` | ⭐ 890 |
-| 2026-09-27 | 🥇 | [[good first issue] 🍜 Add new Grammar Point 1405 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31066) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-27 | 🥇 | [[good first issue] 🐡 Add new Trivia Question 508 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31065) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-27 | 🥈 | [A PostgreSQL query that times out is reported as a user cancel, and keeps the pr](https://github.com/libredb/libredb-studio/issues/1145) | `libredb/libredb-studio` | ⭐ 890 |
-| 2026-09-26 | 🥇 | [[good first issue] 🎍 Add new Learner Mistake 293 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31061) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-26 | 🥇 | [Create issues to populate 'github-handle' variables in TDM Calculator](https://github.com/hackforla/website/issues/8807) | `hackforla/website` | ⭐ 364 |
-| 2026-09-26 | 🥇 | [Update Project Profile: HackforLA Website](https://github.com/hackforla/website/issues/8806) | `hackforla/website` | ⭐ 364 |
-| 2026-09-26 | 🥇 | [[good first issue] 🀄 Add new Example Sentence 246 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31060) | `lingdojo/kana-dojo` | ⭐ 3.5k |

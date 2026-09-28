@@ -1,5 +1,605 @@
 [
   {
+    "key": "lingdojo/kana-dojo#31227",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31227,
+    "title": "[good first issue] 🌊 Add new Japan Fact 2989 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31227",
+    "comments": 1,
+    "createdAt": "2026-09-28T22:00:59Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-28T22:10:44.914Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31226",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31226,
+    "title": "[good first issue] 🎌 Add new Theme: Sushi Counter (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31226",
+    "comments": 1,
+    "createdAt": "2026-09-28T21:57:33Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-28T22:10:44.914Z"
+  },
+  {
+    "key": "medusajs/medusa#17060",
+    "tier": 1,
+    "repo": "medusajs/medusa",
+    "number": 17060,
+    "title": "Use one source for country names: Regions list and details currently disagree",
+    "url": "https://github.com/medusajs/medusa/issues/17060",
+    "comments": 1,
+    "createdAt": "2026-09-28T21:54:13Z",
+    "labels": [
+      "good first issue",
+      "type: bug"
+    ],
+    "language": "typescript",
+    "stars": 36448,
+    "foundAt": "2026-09-28T22:10:44.914Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31225",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31225,
+    "title": "[good first issue] 🎴 Add new Wallpaper URL #28 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31225",
+    "comments": 1,
+    "createdAt": "2026-09-28T21:01:04Z",
+    "labels": [
+      "documentation",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-28T22:10:45.351Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31224",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31224,
+    "title": "[good first issue] 🍢 Add new Learner Mistake 514 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31224",
+    "comments": 1,
+    "createdAt": "2026-09-28T20:57:36Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-28T22:10:45.351Z"
+  },
+  {
+    "key": "ueberdosis/tiptap#8404",
+    "tier": 1,
+    "repo": "ueberdosis/tiptap",
+    "number": 8404,
+    "title": "[Markdown] Code block inside an ordered list item gains a leading space on every parse",
+    "url": "https://github.com/ueberdosis/tiptap/issues/8404",
+    "comments": 1,
+    "createdAt": "2026-09-28T20:26:03Z",
+    "labels": [
+      "good first issue",
+      "area: markdown",
+      "complexity: easy",
+      "impact: medium"
+    ],
+    "language": "typescript",
+    "stars": 38569,
+    "foundAt": "2026-09-28T22:10:45.785Z"
+  },
+  {
+    "key": "shadcn-labs/ogimagecn#178",
+    "tier": 1,
+    "repo": "shadcn-labs/ogimagecn",
+    "number": 178,
+    "title": "feat(block): add `impact-report` OG image template",
+    "url": "https://github.com/shadcn-labs/ogimagecn/issues/178",
+    "comments": 0,
+    "createdAt": "2026-09-28T20:21:10Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "block"
+    ],
+    "language": "typescript",
+    "stars": 235,
+    "foundAt": "2026-09-28T22:10:46.051Z"
+  },
+  {
+    "key": "shadcn-labs/ogimagecn#177",
+    "tier": 1,
+    "repo": "shadcn-labs/ogimagecn",
+    "number": 177,
+    "title": "feat(block): add `annual-report` OG image template",
+    "url": "https://github.com/shadcn-labs/ogimagecn/issues/177",
+    "comments": 0,
+    "createdAt": "2026-09-28T20:21:08Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "block"
+    ],
+    "language": "typescript",
+    "stars": 235,
+    "foundAt": "2026-09-28T22:10:46.051Z"
+  },
+  {
+    "key": "shadcn-labs/ogimagecn#176",
+    "tier": 1,
+    "repo": "shadcn-labs/ogimagecn",
+    "number": 176,
+    "title": "feat(block): add `funding-round` OG image template",
+    "url": "https://github.com/shadcn-labs/ogimagecn/issues/176",
+    "comments": 0,
+    "createdAt": "2026-09-28T20:21:05Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "block"
+    ],
+    "language": "typescript",
+    "stars": 235,
+    "foundAt": "2026-09-28T22:10:46.051Z"
+  },
+  {
+    "key": "Tencent/teamai-cli#894",
+    "tier": 2,
+    "repo": "Tencent/teamai-cli",
+    "number": 894,
+    "title": "[bug] renaming team: in teamai.yaml orphans members' model gateway keys",
+    "url": "https://github.com/Tencent/teamai-cli/issues/894",
+    "comments": 0,
+    "createdAt": "2026-09-28T20:35:07Z",
+    "labels": [
+      "bug",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 5046,
+    "foundAt": "2026-09-28T22:10:46.992Z"
+  },
+  {
+    "key": "shadcn-labs/ogimagecn#175",
+    "tier": 2,
+    "repo": "shadcn-labs/ogimagecn",
+    "number": 175,
+    "title": "feat(block): add `rewards-program` OG image template",
+    "url": "https://github.com/shadcn-labs/ogimagecn/issues/175",
+    "comments": 0,
+    "createdAt": "2026-09-28T20:21:03Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "block"
+    ],
+    "language": "typescript",
+    "stars": 235,
+    "foundAt": "2026-09-28T22:10:46.992Z"
+  },
+  {
+    "key": "shadcn-labs/ogimagecn#172",
+    "tier": 2,
+    "repo": "shadcn-labs/ogimagecn",
+    "number": 172,
+    "title": "feat(block): add `gift-guide` OG image template",
+    "url": "https://github.com/shadcn-labs/ogimagecn/issues/172",
+    "comments": 0,
+    "createdAt": "2026-09-28T20:20:56Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "block"
+    ],
+    "language": "typescript",
+    "stars": 235,
+    "foundAt": "2026-09-28T22:10:46.992Z"
+  },
+  {
+    "key": "shadcn-labs/ogimagecn#169",
+    "tier": 2,
+    "repo": "shadcn-labs/ogimagecn",
+    "number": 169,
+    "title": "feat(block): add `workshop` OG image template",
+    "url": "https://github.com/shadcn-labs/ogimagecn/issues/169",
+    "comments": 0,
+    "createdAt": "2026-09-28T20:20:49Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "block"
+    ],
+    "language": "typescript",
+    "stars": 235,
+    "foundAt": "2026-09-28T22:10:46.992Z"
+  },
+  {
+    "key": "shadcn-labs/ogimagecn#166",
+    "tier": 2,
+    "repo": "shadcn-labs/ogimagecn",
+    "number": 166,
+    "title": "feat(block): add `community-ama` OG image template",
+    "url": "https://github.com/shadcn-labs/ogimagecn/issues/166",
+    "comments": 0,
+    "createdAt": "2026-09-28T20:20:41Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "block"
+    ],
+    "language": "typescript",
+    "stars": 235,
+    "foundAt": "2026-09-28T22:10:46.992Z"
+  },
+  {
+    "key": "shadcn-labs/ogimagecn#165",
+    "tier": 2,
+    "repo": "shadcn-labs/ogimagecn",
+    "number": 165,
+    "title": "feat(block): add `panel` OG image template",
+    "url": "https://github.com/shadcn-labs/ogimagecn/issues/165",
+    "comments": 0,
+    "createdAt": "2026-09-28T20:20:39Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "block"
+    ],
+    "language": "typescript",
+    "stars": 235,
+    "foundAt": "2026-09-28T22:10:46.992Z"
+  },
+  {
+    "key": "shadcn-labs/ogimagecn#164",
+    "tier": 2,
+    "repo": "shadcn-labs/ogimagecn",
+    "number": 164,
+    "title": "feat(block): add `website-template` OG image template",
+    "url": "https://github.com/shadcn-labs/ogimagecn/issues/164",
+    "comments": 0,
+    "createdAt": "2026-09-28T20:20:37Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "block"
+    ],
+    "language": "typescript",
+    "stars": 235,
+    "foundAt": "2026-09-28T22:10:46.992Z"
+  },
+  {
+    "key": "shadcn-labs/ogimagecn#163",
+    "tier": 2,
+    "repo": "shadcn-labs/ogimagecn",
+    "number": 163,
+    "title": "feat(block): add `design-system` OG image template",
+    "url": "https://github.com/shadcn-labs/ogimagecn/issues/163",
+    "comments": 0,
+    "createdAt": "2026-09-28T20:20:34Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "block"
+    ],
+    "language": "typescript",
+    "stars": 235,
+    "foundAt": "2026-09-28T22:10:46.992Z"
+  },
+  {
+    "key": "shadcn-labs/ogimagecn#162",
+    "tier": 2,
+    "repo": "shadcn-labs/ogimagecn",
+    "number": 162,
+    "title": "feat(block): add `integration` OG image template",
+    "url": "https://github.com/shadcn-labs/ogimagecn/issues/162",
+    "comments": 0,
+    "createdAt": "2026-09-28T20:20:31Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "block"
+    ],
+    "language": "typescript",
+    "stars": 235,
+    "foundAt": "2026-09-28T22:10:46.992Z"
+  },
+  {
+    "key": "shadcn-labs/ogimagecn#161",
+    "tier": 2,
+    "repo": "shadcn-labs/ogimagecn",
+    "number": 161,
+    "title": "feat(block): add `feature-update` OG image template",
+    "url": "https://github.com/shadcn-labs/ogimagecn/issues/161",
+    "comments": 0,
+    "createdAt": "2026-09-28T20:20:29Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "block"
+    ],
+    "language": "typescript",
+    "stars": 235,
+    "foundAt": "2026-09-28T22:10:46.992Z"
+  },
+  {
+    "key": "shadcn-labs/ogimagecn#160",
+    "tier": 2,
+    "repo": "shadcn-labs/ogimagecn",
+    "number": 160,
+    "title": "feat(block): add `certification` OG image template",
+    "url": "https://github.com/shadcn-labs/ogimagecn/issues/160",
+    "comments": 0,
+    "createdAt": "2026-09-28T20:20:26Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "block"
+    ],
+    "language": "typescript",
+    "stars": 235,
+    "foundAt": "2026-09-28T22:10:46.992Z"
+  },
+  {
+    "key": "shadcn-labs/ogimagecn#159",
+    "tier": 2,
+    "repo": "shadcn-labs/ogimagecn",
+    "number": 159,
+    "title": "feat(block): add `award` OG image template",
+    "url": "https://github.com/shadcn-labs/ogimagecn/issues/159",
+    "comments": 0,
+    "createdAt": "2026-09-28T20:20:24Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "block"
+    ],
+    "language": "typescript",
+    "stars": 235,
+    "foundAt": "2026-09-28T22:10:46.992Z"
+  },
+  {
+    "key": "shadcn-labs/ogimagecn#158",
+    "tier": 2,
+    "repo": "shadcn-labs/ogimagecn",
+    "number": 158,
+    "title": "feat(block): add `bundle` OG image template",
+    "url": "https://github.com/shadcn-labs/ogimagecn/issues/158",
+    "comments": 0,
+    "createdAt": "2026-09-28T20:20:21Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "block"
+    ],
+    "language": "typescript",
+    "stars": 235,
+    "foundAt": "2026-09-28T22:10:46.992Z"
+  },
+  {
+    "key": "shadcn-labs/ogimagecn#157",
+    "tier": 2,
+    "repo": "shadcn-labs/ogimagecn",
+    "number": 157,
+    "title": "feat(block): add `referral` OG image template",
+    "url": "https://github.com/shadcn-labs/ogimagecn/issues/157",
+    "comments": 0,
+    "createdAt": "2026-09-28T20:20:19Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "block"
+    ],
+    "language": "typescript",
+    "stars": 235,
+    "foundAt": "2026-09-28T22:10:46.992Z"
+  },
+  {
+    "key": "shadcn-labs/ogimagecn#156",
+    "tier": 2,
+    "repo": "shadcn-labs/ogimagecn",
+    "number": 156,
+    "title": "feat(block): add `gift-card` OG image template",
+    "url": "https://github.com/shadcn-labs/ogimagecn/issues/156",
+    "comments": 0,
+    "createdAt": "2026-09-28T20:20:16Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "block"
+    ],
+    "language": "typescript",
+    "stars": 235,
+    "foundAt": "2026-09-28T22:10:46.992Z"
+  },
+  {
+    "key": "shadcn-labs/ogimagecn#155",
+    "tier": 2,
+    "repo": "shadcn-labs/ogimagecn",
+    "number": 155,
+    "title": "feat(block): add `event-ticket-qr` OG image template",
+    "url": "https://github.com/shadcn-labs/ogimagecn/issues/155",
+    "comments": 0,
+    "createdAt": "2026-09-28T20:20:13Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "block"
+    ],
+    "language": "typescript",
+    "stars": 235,
+    "foundAt": "2026-09-28T22:10:46.992Z"
+  },
+  {
+    "key": "shadcn-labs/ogimagecn#154",
+    "tier": 2,
+    "repo": "shadcn-labs/ogimagecn",
+    "number": 154,
+    "title": "feat(block): add `browser-extension` OG image template",
+    "url": "https://github.com/shadcn-labs/ogimagecn/issues/154",
+    "comments": 0,
+    "createdAt": "2026-09-28T20:20:10Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "block"
+    ],
+    "language": "typescript",
+    "stars": 235,
+    "foundAt": "2026-09-28T22:10:46.992Z"
+  },
+  {
+    "key": "shadcn-labs/ogimagecn#153",
+    "tier": 2,
+    "repo": "shadcn-labs/ogimagecn",
+    "number": 153,
+    "title": "feat(block): add `mobile-app` OG image template",
+    "url": "https://github.com/shadcn-labs/ogimagecn/issues/153",
+    "comments": 0,
+    "createdAt": "2026-09-28T20:20:07Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "block"
+    ],
+    "language": "typescript",
+    "stars": 235,
+    "foundAt": "2026-09-28T22:10:46.992Z"
+  },
+  {
+    "key": "shadcn-labs/ogimagecn#152",
+    "tier": 2,
+    "repo": "shadcn-labs/ogimagecn",
+    "number": 152,
+    "title": "feat(block): add `earnings` OG image template",
+    "url": "https://github.com/shadcn-labs/ogimagecn/issues/152",
+    "comments": 0,
+    "createdAt": "2026-09-28T20:20:05Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "block"
+    ],
+    "language": "typescript",
+    "stars": 235,
+    "foundAt": "2026-09-28T22:10:46.992Z"
+  },
+  {
+    "key": "shadcn-labs/ogimagecn#151",
+    "tier": 2,
+    "repo": "shadcn-labs/ogimagecn",
+    "number": 151,
+    "title": "feat(block): add `market-update` OG image template",
+    "url": "https://github.com/shadcn-labs/ogimagecn/issues/151",
+    "comments": 0,
+    "createdAt": "2026-09-28T20:20:01Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "block"
+    ],
+    "language": "typescript",
+    "stars": 235,
+    "foundAt": "2026-09-28T22:10:46.992Z"
+  },
+  {
+    "key": "shadcn-labs/ogimagecn#150",
+    "tier": 2,
+    "repo": "shadcn-labs/ogimagecn",
+    "number": 150,
+    "title": "feat(block): add `dashboard` OG image template",
+    "url": "https://github.com/shadcn-labs/ogimagecn/issues/150",
+    "comments": 0,
+    "createdAt": "2026-09-28T20:19:58Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "block"
+    ],
+    "language": "typescript",
+    "stars": 235,
+    "foundAt": "2026-09-28T22:10:46.992Z"
+  },
+  {
+    "key": "quarto-dev/quarto-cli#14959",
+    "tier": 3,
+    "repo": "quarto-dev/quarto-cli",
+    "number": 14959,
+    "title": "Revealjs line highlighting cannot meet WCAG contrast",
+    "url": "https://github.com/quarto-dev/quarto-cli/issues/14959",
+    "comments": 0,
+    "createdAt": "2026-09-28T21:58:28Z",
+    "labels": [
+      "accessibility",
+      "revealjs"
+    ],
+    "language": "javascript",
+    "stars": 6016,
+    "foundAt": "2026-09-28T22:10:49.435Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#31200",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1449,649 +2049,5 @@
     "language": "typescript",
     "stars": 900,
     "foundAt": "2026-09-27T14:11:11.143Z"
-  },
-  {
-    "key": "reticlehq/reticle#1133",
-    "tier": 1,
-    "repo": "reticlehq/reticle",
-    "number": 1133,
-    "title": "[agent] `init` says the CSP is missing the bridge when a development-only `connect-src` already includes it",
-    "url": "https://github.com/reticlehq/reticle/issues/1133",
-    "comments": 0,
-    "createdAt": "2026-09-27T14:04:49Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "help wanted",
-      "agent-reported",
-      "P2",
-      "area/init",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 900,
-    "foundAt": "2026-09-27T14:11:11.143Z"
-  },
-  {
-    "key": "reticlehq/reticle#1130",
-    "tier": 1,
-    "repo": "reticlehq/reticle",
-    "number": 1130,
-    "title": "[agent] crawl reports every silent control on a background tab as `dead-control`",
-    "url": "https://github.com/reticlehq/reticle/issues/1130",
-    "comments": 0,
-    "createdAt": "2026-09-27T14:04:43Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "help wanted",
-      "agent-reported",
-      "area/server",
-      "P2",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 900,
-    "foundAt": "2026-09-27T14:11:11.143Z"
-  },
-  {
-    "key": "reticlehq/reticle#1127",
-    "tier": 1,
-    "repo": "reticlehq/reticle",
-    "number": 1127,
-    "title": "`verify { action: \"change\" }` answers `no` from a contradiction in flows it cannot tie to the change",
-    "url": "https://github.com/reticlehq/reticle/issues/1127",
-    "comments": 0,
-    "createdAt": "2026-09-27T14:04:37Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "help wanted",
-      "area/server",
-      "P1",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 900,
-    "foundAt": "2026-09-27T14:11:11.143Z"
-  },
-  {
-    "key": "reticlehq/reticle#1123",
-    "tier": 1,
-    "repo": "reticlehq/reticle",
-    "number": 1123,
-    "title": "[agent] A synthetic Escape does not close a modal `<dialog>`, so a working dialog reads as `verified: \"no\"`",
-    "url": "https://github.com/reticlehq/reticle/issues/1123",
-    "comments": 0,
-    "createdAt": "2026-09-27T14:04:30Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "help wanted",
-      "agent-reported",
-      "area/browser",
-      "P1",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 900,
-    "foundAt": "2026-09-27T14:11:11.143Z"
-  },
-  {
-    "key": "reticlehq/reticle#1119",
-    "tier": 1,
-    "repo": "reticlehq/reticle",
-    "number": 1119,
-    "title": "[agent] `reticle_assert { action: \"wait\" }` returns `pass` with no `verified`, although the tool says both actions return a verdict",
-    "url": "https://github.com/reticlehq/reticle/issues/1119",
-    "comments": 0,
-    "createdAt": "2026-09-27T14:04:21Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "help wanted",
-      "agent-reported",
-      "area/server",
-      "P1",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 900,
-    "foundAt": "2026-09-27T14:11:11.143Z"
-  },
-  {
-    "key": "reticlehq/reticle#1118",
-    "tier": 1,
-    "repo": "reticlehq/reticle",
-    "number": 1118,
-    "title": "[agent] `reticle_run` skips the target tool's type checks: a viewport of \"1440\" becomes 64px, and an intent declare stores nothing and reports success",
-    "url": "https://github.com/reticlehq/reticle/issues/1118",
-    "comments": 0,
-    "createdAt": "2026-09-27T14:04:19Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "help wanted",
-      "agent-reported",
-      "area/server",
-      "P1",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 900,
-    "foundAt": "2026-09-27T14:11:11.143Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31114",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31114,
-    "title": "[good first issue] 🥟 Add new False Friend Pair 805 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31114",
-    "comments": 1,
-    "createdAt": "2026-09-27T14:01:02Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-27T14:11:11.143Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31113",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31113,
-    "title": "[good first issue] 🍶 Add new Dialect Entry 417 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31113",
-    "comments": 1,
-    "createdAt": "2026-09-27T13:57:28Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-27T14:11:11.143Z"
-  },
-  {
-    "key": "reticlehq/reticle#1149",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 1149,
-    "title": "[agent] `init` refuses a corepack-managed pnpm on Windows when `corepack enable` cannot write its shims",
-    "url": "https://github.com/reticlehq/reticle/issues/1149",
-    "comments": 0,
-    "createdAt": "2026-09-27T14:05:19Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "agent-reported",
-      "platform/windows",
-      "P2",
-      "area/init"
-    ],
-    "language": "typescript",
-    "stars": 900,
-    "foundAt": "2026-09-27T14:11:12.748Z"
-  },
-  {
-    "key": "reticlehq/reticle#1148",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 1148,
-    "title": "[agent] `init` at a monorepo root refuses when the only other \"app\" is a backend with a `dev` script",
-    "url": "https://github.com/reticlehq/reticle/issues/1148",
-    "comments": 0,
-    "createdAt": "2026-09-27T14:05:17Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "agent-reported",
-      "P2",
-      "area/init"
-    ],
-    "language": "typescript",
-    "stars": 900,
-    "foundAt": "2026-09-27T14:11:12.748Z"
-  },
-  {
-    "key": "reticlehq/reticle#1140",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 1140,
-    "title": "[agent] A CLI-only caller cannot move a connected tab: `reticle open <url>` leaves it where it is and points at an MCP tool",
-    "url": "https://github.com/reticlehq/reticle/issues/1140",
-    "comments": 0,
-    "createdAt": "2026-09-27T14:05:02Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "agent-reported",
-      "area/server",
-      "P2"
-    ],
-    "language": "typescript",
-    "stars": 900,
-    "foundAt": "2026-09-27T14:11:12.748Z"
-  },
-  {
-    "key": "reticlehq/reticle#1136",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 1136,
-    "title": "[agent] A daemon-skew warning about one agent's MCP server is delivered to a different agent, and a matching agent never clears it",
-    "url": "https://github.com/reticlehq/reticle/issues/1136",
-    "comments": 0,
-    "createdAt": "2026-09-27T14:04:54Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "agent-reported",
-      "area/server",
-      "P2"
-    ],
-    "language": "typescript",
-    "stars": 900,
-    "foundAt": "2026-09-27T14:11:12.748Z"
-  },
-  {
-    "key": "reticlehq/reticle#1135",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 1135,
-    "title": "[agent] The version-skew fix names `@reticlehq/browser` for a project that depends on `@reticlehq/next`, because it reads the daemon's directory",
-    "url": "https://github.com/reticlehq/reticle/issues/1135",
-    "comments": 0,
-    "createdAt": "2026-09-27T14:04:52Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "agent-reported",
-      "area/server",
-      "P2"
-    ],
-    "language": "typescript",
-    "stars": 900,
-    "foundAt": "2026-09-27T14:11:12.748Z"
-  },
-  {
-    "key": "reticlehq/reticle#1134",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 1134,
-    "title": "[agent] `init` waits the whole connect budget for a page whose served CSP blocks the bridge",
-    "url": "https://github.com/reticlehq/reticle/issues/1134",
-    "comments": 0,
-    "createdAt": "2026-09-27T14:04:51Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "agent-reported",
-      "area/server",
-      "P1",
-      "area/init"
-    ],
-    "language": "typescript",
-    "stars": 900,
-    "foundAt": "2026-09-27T14:11:12.748Z"
-  },
-  {
-    "key": "reticlehq/reticle#1132",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 1132,
-    "title": "[agent] The dev server `init` hands over writes into pipes nobody reads, and hangs on its next log line",
-    "url": "https://github.com/reticlehq/reticle/issues/1132",
-    "comments": 0,
-    "createdAt": "2026-09-27T14:04:47Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "agent-reported",
-      "area/server",
-      "P1",
-      "area/init"
-    ],
-    "language": "typescript",
-    "stars": 900,
-    "foundAt": "2026-09-27T14:11:12.748Z"
-  },
-  {
-    "key": "reticlehq/reticle#1131",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 1131,
-    "title": "[agent] crawl reports working controls as dead (file pickers, controls behind a modal) and spends its budget on `<option>`s and nav links",
-    "url": "https://github.com/reticlehq/reticle/issues/1131",
-    "comments": 0,
-    "createdAt": "2026-09-27T14:04:45Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "agent-reported",
-      "area/server",
-      "P1"
-    ],
-    "language": "typescript",
-    "stars": 900,
-    "foundAt": "2026-09-27T14:11:12.748Z"
-  },
-  {
-    "key": "reticlehq/reticle#1129",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 1129,
-    "title": "[agent] `verify { action: \"change\" }` times out on `query` every run while the same session answers live tools (needs a repro)",
-    "url": "https://github.com/reticlehq/reticle/issues/1129",
-    "comments": 0,
-    "createdAt": "2026-09-27T14:04:41Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "agent-reported",
-      "area/server",
-      "P1"
-    ],
-    "language": "typescript",
-    "stars": 900,
-    "foundAt": "2026-09-27T14:11:12.748Z"
-  },
-  {
-    "key": "reticlehq/reticle#1128",
-    "tier": 2,
-    "repo": "reticlehq/reticle",
-    "number": 1128,
-    "title": "[agent] A change to a file that renders nothing is never attributed to a flow, so `verify change` replays every unattributed flow to answer `unknown`",
-    "url": "https://github.com/reticlehq/reticle/issues/1128",
-    "comments": 0,
-    "createdAt": "2026-09-27T14:04:39Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "agent-reported",
-      "area/server",
-      "P2"
-    ],
-    "language": "typescript",
-    "stars": 900,
-    "foundAt": "2026-09-27T14:11:12.748Z"
-  },
-  {
-    "key": "layer5io/layer5#8147",
-    "tier": 2,
-    "repo": "layer5io/layer5",
-    "number": 8147,
-    "title": "[Bug] Back-navigation chevron (\"<\") invisible in dark mode on Learning Path course pages",
-    "url": "https://github.com/layer5io/layer5/issues/8147",
-    "comments": 0,
-    "createdAt": "2026-09-27T12:16:28Z",
-    "labels": [
-      "kind/bug",
-      "help wanted",
-      "framework/gatsby"
-    ],
-    "language": "javascript",
-    "stars": 1136,
-    "foundAt": "2026-09-27T14:11:12.748Z"
-  },
-  {
-    "key": "danjdewhurst/story-skills#242",
-    "tier": 3,
-    "repo": "danjdewhurst/story-skills",
-    "number": 242,
-    "title": "docs: a series kept as one repository per book fails story links in every workflow template",
-    "url": "https://github.com/danjdewhurst/story-skills/issues/242",
-    "comments": 0,
-    "createdAt": "2026-09-27T12:35:25Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "javascript",
-    "stars": 247,
-    "foundAt": "2026-09-27T14:11:13.963Z"
-  },
-  {
-    "key": "danjdewhurst/story-skills#240",
-    "tier": 3,
-    "repo": "danjdewhurst/story-skills",
-    "number": 240,
-    "title": "docs: review-copy paragraph labels are called stable, but any earlier edit renumbers them",
-    "url": "https://github.com/danjdewhurst/story-skills/issues/240",
-    "comments": 0,
-    "createdAt": "2026-09-27T12:35:23Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "javascript",
-    "stars": 247,
-    "foundAt": "2026-09-27T14:11:13.963Z"
-  },
-  {
-    "key": "layer5io/layer5#8146",
-    "tier": 2,
-    "repo": "layer5io/layer5",
-    "number": 8146,
-    "title": "[Bug]: Integration component icons have poor contrast in dark mode and inconsistent styling",
-    "url": "https://github.com/layer5io/layer5/issues/8146",
-    "comments": 1,
-    "createdAt": "2026-09-27T07:09:57Z",
-    "labels": [
-      "kind/bug",
-      "help wanted",
-      "framework/gatsby"
-    ],
-    "language": "javascript",
-    "stars": 1136,
-    "foundAt": "2026-09-27T08:23:39.236Z"
-  },
-  {
-    "key": "layer5io/layer5#8144",
-    "tier": 2,
-    "repo": "layer5io/layer5",
-    "number": 8144,
-    "title": "[Performance] Convert oversized GIFs to video to cut ~53 MB of first-load image payload across product pages",
-    "url": "https://github.com/layer5io/layer5/issues/8144",
-    "comments": 0,
-    "createdAt": "2026-09-27T06:31:36Z",
-    "labels": [
-      "kind/bug",
-      "help wanted",
-      "framework/gatsby"
-    ],
-    "language": "javascript",
-    "stars": 1136,
-    "foundAt": "2026-09-27T08:23:39.236Z"
-  },
-  {
-    "key": "libredb/libredb-studio#1146",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 1146,
-    "title": "The Kafka provider doc never says how a read of a partition the topic does not have is refused",
-    "url": "https://github.com/libredb/libredb-studio/issues/1146",
-    "comments": 0,
-    "createdAt": "2026-09-27T01:17:56Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "hacktoberfest",
-      "database-provider"
-    ],
-    "language": "typescript",
-    "stars": 890,
-    "foundAt": "2026-09-27T01:35:31.261Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31066",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31066,
-    "title": "[good first issue] 🍜 Add new Grammar Point 1405 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31066",
-    "comments": 1,
-    "createdAt": "2026-09-27T01:00:56Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-27T01:35:31.514Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31065",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31065,
-    "title": "[good first issue] 🐡 Add new Trivia Question 508 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31065",
-    "comments": 1,
-    "createdAt": "2026-09-27T00:57:27Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-27T01:35:31.514Z"
-  },
-  {
-    "key": "libredb/libredb-studio#1145",
-    "tier": 2,
-    "repo": "libredb/libredb-studio",
-    "number": 1145,
-    "title": "A PostgreSQL query that times out is reported as a user cancel, and keeps the previous rows",
-    "url": "https://github.com/libredb/libredb-studio/issues/1145",
-    "comments": 0,
-    "createdAt": "2026-09-27T01:06:36Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "database-provider"
-    ],
-    "language": "typescript",
-    "stars": 890,
-    "foundAt": "2026-09-27T01:35:33.377Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31061",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31061,
-    "title": "[good first issue] 🎍 Add new Learner Mistake 293 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31061",
-    "comments": 1,
-    "createdAt": "2026-09-26T22:57:27Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-26T23:00:27.443Z"
-  },
-  {
-    "key": "hackforla/website#8807",
-    "tier": 1,
-    "repo": "hackforla/website",
-    "number": 8807,
-    "title": "Create issues to populate 'github-handle' variables in TDM Calculator",
-    "url": "https://github.com/hackforla/website/issues/8807",
-    "comments": 0,
-    "createdAt": "2026-09-26T22:54:56Z",
-    "labels": [
-      "good first issue",
-      "role: front end",
-      "role: back end/devOps",
-      "P-Feature: Project Info and Page",
-      "size: 0.5pt",
-      "epic",
-      "Issue Making: Level 1",
-      "Complexity: See issue making label",
-      "ready for merge team"
-    ],
-    "language": "javascript",
-    "stars": 364,
-    "foundAt": "2026-09-26T23:00:28.794Z"
-  },
-  {
-    "key": "hackforla/website#8806",
-    "tier": 1,
-    "repo": "hackforla/website",
-    "number": 8806,
-    "title": "Update Project Profile: HackforLA Website",
-    "url": "https://github.com/hackforla/website/issues/8806",
-    "comments": 0,
-    "createdAt": "2026-09-26T22:36:44Z",
-    "labels": [
-      "good first issue",
-      "role: front end",
-      "role: back end/devOps",
-      "P-Feature: Project Info and Page",
-      "time sensitive",
-      "epic",
-      "size: 0.25pt",
-      "Issue Making: Level 1",
-      "Complexity: See issue making label",
-      "non-PR contribution"
-    ],
-    "language": "javascript",
-    "stars": 364,
-    "foundAt": "2026-09-26T23:00:28.975Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31060",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31060,
-    "title": "[good first issue] 🀄 Add new Example Sentence 246 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31060",
-    "comments": 1,
-    "createdAt": "2026-09-26T22:01:13Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-26T23:00:27.903Z"
   }
 ]
