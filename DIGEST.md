@@ -4,6 +4,18 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-28 | 🥇 | [[good first issue] 🐉 Add new Video Game Quote 626 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31148) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-28 | 🥈 | [[good first issue] 🍣 Add new Anime Quote 153 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31147) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-28 | 🥈 | [[good first issue] 🏮 Add new Grammar Point 639 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31146) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-28 | 🥈 | [[good first issue] 🍵 Add new Trivia Question 254 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31145) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-28 | 🥈 | [[good first issue] 🍘 Add new Japanese Proverb 1733 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31144) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-28 | 🥈 | [Backlog D39 and D44 point at lines that moved, and D44's remaining list is out o](https://github.com/libredb/libredb-studio/issues/1165) | `libredb/libredb-studio` | ⭐ 890 |
+| 2026-09-28 | 🥈 | [Redis: the confirmation dialog asks about blocking commands the provider now ref](https://github.com/libredb/libredb-studio/issues/1164) | `libredb/libredb-studio` | ⭐ 890 |
+| 2026-09-28 | 🥉 | [Feature: Pause Other Players When One Starts](https://github.com/videojs/v10/issues/3004) | `videojs/v10` | ⭐ 961 |
+| 2026-09-28 | 🥉 | [Docs: React Media Event Props Are Only Documented in Migration Guides](https://github.com/videojs/v10/issues/3003) | `videojs/v10` | ⭐ 961 |
+| 2026-09-28 | 🥉 | [Bug: Default Skin Hides the Captions Button on Players Narrower Than 32rem](https://github.com/videojs/v10/issues/3002) | `videojs/v10` | ⭐ 961 |
+| 2026-09-28 | 🥉 | [Bug: Agents Init Decision Guide Skips Multi-App Workspaces, Existing Video.js 8,](https://github.com/videojs/v10/issues/2999) | `videojs/v10` | ⭐ 961 |
+| 2026-09-28 | 🥉 | [Bug: usePlayer Resolves to Any in the Published @videojs/react Declarations](https://github.com/videojs/v10/issues/2997) | `videojs/v10` | ⭐ 961 |
 | 2026-09-27 | 🥇 | [[good first issue] 🥟 Add new Japan Fact 2367 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31143) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-27 | 🥇 | [[good first issue] 🍛 Add new Theme: Sake Glass (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31142) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-27 | 🥇 | [Small Web back button has no keyboard access; remove dead Discover code and unus](https://github.com/amatya-aditya/obsidian-rss-dashboard/issues/503) | `amatya-aditya/obsidian-rss-dashboard` | ⭐ 670 |
@@ -92,15 +104,3 @@
 | 2026-09-26 | 🥉 | [Tracking: documentation](https://github.com/pngwn/MDsveX/issues/837) | `pngwn/MDsveX` | ⭐ 3.1k |
 | 2026-09-26 | 🥇 | [[good first issue] 🎍 Add new Japanese Idiom 637 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31011) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-26 | 🥇 | [[good first issue] 🍢 Add new Video Game Quote 973 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31010) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-26 | 🥈 | [[RFC] Studio Founding and Closure Dates + Defunct Status](https://github.com/stashapp/stash-box/issues/1279) | `stashapp/stash-box` | ⭐ 370 |
-| 2026-09-26 | 🥈 | [[good first issue] 🎑 Add new Anime Quote 498 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31007) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-26 | 🥈 | [[good first issue] 🍘 Add new Japan Fact 1974 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31001) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-26 | 🥈 | [[good first issue] 🧧 Add new Theme: Digital Oni (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31000) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-26 | 🥇 | [[good first issue] 🍜 Add new Video Game Quote 470 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30994) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-26 | 🥇 | [[good first issue] 🍙 Add new Anime Quote 589 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30993) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-26 | 🥇 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15547) | `stdlib-js/stdlib` | ⭐ 6.0k |
-| 2026-09-26 | 🥇 | [[good first issue] 🍣 Add new Trivia Question 1182 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30992) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-26 | 🥇 | [[good first issue] 🗻 Add new Japanese Proverb 1801 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30991) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-26 | 🥇 | [[good first issue] 🎑 Add new Theme: Plum Ink (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30988) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-26 | 🥉 | [Docs: `handleValidationError` isn't called for `form`](https://github.com/sveltejs/kit/issues/17220) | `sveltejs/kit` | ⭐ 20.8k |
-| 2026-09-25 | 🥇 | [[good first issue] 🍤 Add new Learner Mistake 849 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/30987) | `lingdojo/kana-dojo` | ⭐ 3.5k |
