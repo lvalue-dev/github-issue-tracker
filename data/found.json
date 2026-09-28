@@ -1,5 +1,181 @@
 [
   {
+    "key": "lingdojo/kana-dojo#31167",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31167,
+    "title": "[good first issue] 🥟 Add new Japanese Idiom 304 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31167",
+    "comments": 1,
+    "createdAt": "2026-09-28T07:00:58Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-28T07:06:32.991Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31166",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31166,
+    "title": "[good first issue] 🎎 Add new Video Game Quote 1195 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31166",
+    "comments": 1,
+    "createdAt": "2026-09-28T06:57:29Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-28T07:06:33.248Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31164",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31164,
+    "title": "[good first issue] 🦑 Add new Anime Quote 865 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31164",
+    "comments": 1,
+    "createdAt": "2026-09-28T06:01:02Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-28T07:06:33.485Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31163",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31163,
+    "title": "[good first issue] 🎍 Add new Grammar Point 1146 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31163",
+    "comments": 1,
+    "createdAt": "2026-09-28T05:57:27Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-28T07:06:33.485Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31158",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31158,
+    "title": "[good first issue] 🧧 Add new Trivia Question 1137 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31158",
+    "comments": 1,
+    "createdAt": "2026-09-28T05:00:54Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-28T07:06:34.015Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31157",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31157,
+    "title": "[good first issue] 🏯 Add new Japanese Haiku 103 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31157",
+    "comments": 1,
+    "createdAt": "2026-09-28T04:57:29Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-28T07:06:34.015Z"
+  },
+  {
+    "key": "code-charity/youtube#4363",
+    "tier": 1,
+    "repo": "code-charity/youtube",
+    "number": 4363,
+    "title": "💡 Add Option to Block OPUS Audio Codec.",
+    "url": "https://github.com/code-charity/youtube/issues/4363",
+    "comments": 1,
+    "createdAt": "2026-09-28T03:34:01Z",
+    "labels": [
+      "Feature request",
+      "help wanted",
+      "good first issue",
+      "up-for-grabs"
+    ],
+    "language": "javascript",
+    "stars": 4594,
+    "foundAt": "2026-09-28T07:06:34.440Z"
+  },
+  {
+    "key": "can1357/oh-my-pi#13588",
+    "tier": 3,
+    "repo": "can1357/oh-my-pi",
+    "number": 13588,
+    "title": "jevify notice example uses removed judge() handle API and fails with TypeError",
+    "url": "https://github.com/can1357/oh-my-pi/issues/13588",
+    "comments": 0,
+    "createdAt": "2026-09-28T06:34:39Z",
+    "labels": [
+      "documentation",
+      "tool",
+      "prompting",
+      "triaged"
+    ],
+    "language": "typescript",
+    "stars": 33540,
+    "foundAt": "2026-09-28T07:06:37.083Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#31148",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1920,158 +2096,5 @@
     "language": "javascript",
     "stars": 1136,
     "foundAt": "2026-09-26T17:18:02.431Z"
-  },
-  {
-    "key": "remix-run/react-router#15558",
-    "tier": 3,
-    "repo": "remix-run/react-router",
-    "number": 15558,
-    "title": "[Docs]: Bad Formatting in useNavigation Page",
-    "url": "https://github.com/remix-run/react-router/issues/15558",
-    "comments": 0,
-    "createdAt": "2026-09-26T16:57:02Z",
-    "labels": [
-      "docs"
-    ],
-    "language": "typescript",
-    "stars": 56588,
-    "foundAt": "2026-09-26T17:18:05.360Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31033",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31033,
-    "title": "[good first issue] 🍁 Add new Grammar Point 595 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31033",
-    "comments": 1,
-    "createdAt": "2026-09-26T12:57:28Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-26T13:15:03.457Z"
-  },
-  {
-    "key": "neomjs/neo#19245",
-    "tier": 1,
-    "repo": "neomjs/neo",
-    "number": 19245,
-    "title": "The conversion sensor's exit tri-state has no production supplier",
-    "url": "https://github.com/neomjs/neo/issues/19245",
-    "comments": 1,
-    "createdAt": "2026-09-26T08:38:09Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "ai",
-      "dashboard"
-    ],
-    "language": "javascript",
-    "stars": 3280,
-    "foundAt": "2026-09-26T13:15:06.058Z"
-  },
-  {
-    "key": "processing/p5.js#9218",
-    "tier": 2,
-    "repo": "processing/p5.js",
-    "number": 9218,
-    "title": "Better error messages for bad property access in p5.strands",
-    "url": "https://github.com/processing/p5.js/issues/9218",
-    "comments": 0,
-    "createdAt": "2026-09-26T12:57:25Z",
-    "labels": [
-      "Enhancement",
-      "Help Wanted"
-    ],
-    "language": "javascript",
-    "stars": 24030,
-    "foundAt": "2026-09-26T13:15:07.653Z"
-  },
-  {
-    "key": "Timmoth/RackPeek#336",
-    "tier": 2,
-    "repo": "Timmoth/RackPeek",
-    "number": 336,
-    "title": "Docker / System / Proxmox Auto Discovery [Testers Wanted]",
-    "url": "https://github.com/Timmoth/RackPeek/issues/336",
-    "comments": 0,
-    "createdAt": "2026-09-25T19:19:56Z",
-    "labels": [
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 1790,
-    "foundAt": "2026-09-26T13:15:08.044Z"
-  },
-  {
-    "key": "pngwn/MDsveX#837",
-    "tier": 3,
-    "repo": "pngwn/MDsveX",
-    "number": 837,
-    "title": "Tracking: documentation",
-    "url": "https://github.com/pngwn/MDsveX/issues/837",
-    "comments": 0,
-    "createdAt": "2026-09-26T12:28:46Z",
-    "labels": [
-      "docs"
-    ],
-    "language": "javascript",
-    "stars": 3058,
-    "foundAt": "2026-09-26T13:15:11.070Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31011",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31011,
-    "title": "[good first issue] 🎍 Add new Japanese Idiom 637 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31011",
-    "comments": 1,
-    "createdAt": "2026-09-26T07:00:59Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-26T07:53:01.809Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31010",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31010,
-    "title": "[good first issue] 🍢 Add new Video Game Quote 973 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31010",
-    "comments": 1,
-    "createdAt": "2026-09-26T06:57:28Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-26T07:53:01.809Z"
   }
 ]

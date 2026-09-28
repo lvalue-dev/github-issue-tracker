@@ -4,6 +4,14 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-28 | 🥇 | [[good first issue] 🥟 Add new Japanese Idiom 304 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31167) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-28 | 🥇 | [[good first issue] 🎎 Add new Video Game Quote 1195 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31166) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-28 | 🥇 | [[good first issue] 🦑 Add new Anime Quote 865 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31164) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-28 | 🥇 | [[good first issue] 🎍 Add new Grammar Point 1146 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31163) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-28 | 🥇 | [[good first issue] 🧧 Add new Trivia Question 1137 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31158) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-28 | 🥇 | [[good first issue] 🏯 Add new Japanese Haiku 103 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31157) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-28 | 🥇 | [💡 Add Option to Block OPUS Audio Codec.](https://github.com/code-charity/youtube/issues/4363) | `code-charity/youtube` | ⭐ 4.6k |
+| 2026-09-28 | 🥉 | [jevify notice example uses removed judge() handle API and fails with TypeError](https://github.com/can1357/oh-my-pi/issues/13588) | `can1357/oh-my-pi` | ⭐ 33.5k |
 | 2026-09-28 | 🥇 | [[good first issue] 🐉 Add new Video Game Quote 626 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31148) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-28 | 🥈 | [[good first issue] 🍣 Add new Anime Quote 153 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31147) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-28 | 🥈 | [[good first issue] 🏮 Add new Grammar Point 639 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31146) | `lingdojo/kana-dojo` | ⭐ 3.5k |
@@ -96,11 +104,3 @@
 | 2026-09-26 | 🥈 | [Docs: `claude mcp add` example uses a flag that doesn't exist](https://github.com/HelpCode-ai/anythingmcp/issues/732) | `HelpCode-ai/anythingmcp` | ⭐ 418 |
 | 2026-09-26 | 🥇 | [[good first issue] 🗾 Add new Learner Mistake 671 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31044) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-26 | 🥈 | [useScrollPosition re-attaches its scroll listener on every frame while scrolling](https://github.com/layer5io/layer5/issues/8142) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-26 | 🥉 | [[Docs]: Bad Formatting in useNavigation Page](https://github.com/remix-run/react-router/issues/15558) | `remix-run/react-router` | ⭐ 56.6k |
-| 2026-09-26 | 🥇 | [[good first issue] 🍁 Add new Grammar Point 595 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31033) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-26 | 🥇 | [The conversion sensor's exit tri-state has no production supplier](https://github.com/neomjs/neo/issues/19245) | `neomjs/neo` | ⭐ 3.3k |
-| 2026-09-26 | 🥈 | [Better error messages for bad property access in p5.strands](https://github.com/processing/p5.js/issues/9218) | `processing/p5.js` | ⭐ 24.0k |
-| 2026-09-26 | 🥈 | [Docker / System / Proxmox Auto Discovery [Testers Wanted]](https://github.com/Timmoth/RackPeek/issues/336) | `Timmoth/RackPeek` | ⭐ 1.8k |
-| 2026-09-26 | 🥉 | [Tracking: documentation](https://github.com/pngwn/MDsveX/issues/837) | `pngwn/MDsveX` | ⭐ 3.1k |
-| 2026-09-26 | 🥇 | [[good first issue] 🎍 Add new Japanese Idiom 637 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31011) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-26 | 🥇 | [[good first issue] 🍢 Add new Video Game Quote 973 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31010) | `lingdojo/kana-dojo` | ⭐ 3.5k |
