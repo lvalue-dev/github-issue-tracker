@@ -4,6 +4,25 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-28 | 🥇 | [[good first issue] 🏮 Add new Learner Mistake 350 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31200) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-28 | 🥇 | [[UI Migration] CharacterCount](https://github.com/ONEARMY/community-platform/issues/4933) | `ONEARMY/community-platform` | ⭐ 1.4k |
+| 2026-09-28 | 🥇 | [[good first issue] 🌺 Add new Example Sentence 358 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31198) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-28 | 🥇 | [[good first issue] 🥢 Add new False Friend Pair 1004 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31195) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-28 | 🥈 | [[Bug] Meshery installer fails when MESHERY_INSTALL_DIR contains spaces](https://github.com/meshery/meshery.io/issues/3019) | `meshery/meshery.io` | ⭐ 867 |
+| 2026-09-28 | 🥈 | [Skill docs list an invalid npm corsair command](https://github.com/corsairdev/corsair/issues/1784) | `corsairdev/corsair` | ⭐ 12.6k |
+| 2026-09-28 | 🥈 | [formatRelativeTime renders NaNmo ago and never shows years](https://github.com/corsairdev/corsair/issues/1783) | `corsairdev/corsair` | ⭐ 12.6k |
+| 2026-09-28 | 🥈 | [Studio ScriptPage has duplicate aria-label props](https://github.com/corsairdev/corsair/issues/1782) | `corsairdev/corsair` | ⭐ 12.6k |
+| 2026-09-28 | 🥈 | [Twilio credential split truncates tokens with colons](https://github.com/corsairdev/corsair/issues/1781) | `corsairdev/corsair` | ⭐ 12.6k |
+| 2026-09-28 | 🥈 | [Twilio keyBuilder returns empty string on missing auth](https://github.com/corsairdev/corsair/issues/1780) | `corsairdev/corsair` | ⭐ 12.6k |
+| 2026-09-28 | 🥈 | [Airtable webhooks.getPayloads schema key does not match runtime](https://github.com/corsairdev/corsair/issues/1779) | `corsairdev/corsair` | ⭐ 12.6k |
+| 2026-09-28 | 🥈 | [Gmail usersGetProfile has schemas but no runtime endpoint](https://github.com/corsairdev/corsair/issues/1778) | `corsairdev/corsair` | ⭐ 12.6k |
+| 2026-09-28 | 🥈 | [Discord rate limits never retry because the client drops status](https://github.com/corsairdev/corsair/issues/1777) | `corsairdev/corsair` | ⭐ 12.6k |
+| 2026-09-28 | 🥈 | [CLI http rejects ports with surrounding whitespace](https://github.com/corsairdev/corsair/issues/1776) | `corsairdev/corsair` | ⭐ 12.6k |
+| 2026-09-28 | 🥈 | [MCP run_script formatter throws on BigInt and circular results](https://github.com/corsairdev/corsair/issues/1775) | `corsairdev/corsair` | ⭐ 12.6k |
+| 2026-09-28 | 🥈 | [[good first issue] 🐡 Add new Video Game Quote 1042 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31191) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-28 | 🥉 | [[docs] Clarify when an LLM key / token subscription is required vs not](https://github.com/getnao/nao/issues/1759) | `getnao/nao` | ⭐ 1.7k |
+| 2026-09-28 | 🥉 | [Document how to load data from huggingface](https://github.com/vitessce/vitessce/issues/2619) | `vitessce/vitessce` | ⭐ 269 |
+| 2026-09-28 | 🥉 | [mTLS page with reference to Github repo that does not exist](https://github.com/cloudflare/cloudflare-docs/issues/33736) | `cloudflare/cloudflare-docs` | ⭐ 5.3k |
 | 2026-09-28 | 🥇 | [[good first issue] 🥟 Add new Japanese Idiom 304 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31167) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-28 | 🥇 | [[good first issue] 🎎 Add new Video Game Quote 1195 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31166) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-28 | 🥇 | [[good first issue] 🦑 Add new Anime Quote 865 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31164) | `lingdojo/kana-dojo` | ⭐ 3.5k |
@@ -85,22 +104,3 @@
 | 2026-09-26 | 🥇 | [Create issues to populate 'github-handle' variables in TDM Calculator](https://github.com/hackforla/website/issues/8807) | `hackforla/website` | ⭐ 364 |
 | 2026-09-26 | 🥇 | [Update Project Profile: HackforLA Website](https://github.com/hackforla/website/issues/8806) | `hackforla/website` | ⭐ 364 |
 | 2026-09-26 | 🥇 | [[good first issue] 🀄 Add new Example Sentence 246 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31060) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-26 | 🥇 | [[good first issue] 🧧 Add new Etiquette Tip 289 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31059) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-26 | 🥇 | [[good first issue] 🍤 Add new False Friend Pair 1190 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31057) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-26 | 🥇 | [[good first issue] 🎌 Add new Dialect Entry 788 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31056) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-26 | 🥇 | [[good first issue] 🌊 Add new Japanese Idiom 436 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31054) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-26 | 🥇 | [[good first issue] 🏯 Add new Video Game Quote 463 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31053) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-26 | 🥇 | [[Bug]: Web app crashes on load — raw NUL bytes in useProjectRunStatuses.ts cause](https://github.com/nexu-io/open-design/issues/8475) | `nexu-io/open-design` | ⭐ 98.2k |
-| 2026-09-26 | 🥇 | [Write example prompts and a FAQ for the Zucchetti and TeamSystem satellites](https://github.com/HelpCode-ai/anythingmcp/issues/746) | `HelpCode-ai/anythingmcp` | ⭐ 418 |
-| 2026-09-26 | 🥇 | [Write example prompts and a FAQ for the Exact Online and AFAS satellites](https://github.com/HelpCode-ai/anythingmcp/issues/745) | `HelpCode-ai/anythingmcp` | ⭐ 418 |
-| 2026-09-26 | 🥇 | [[good first issue] 🎍 Add new Anime Quote 148 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31050) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-26 | 🥇 | [[Bug] 有关 IDE 设置总是置顶的问题](https://github.com/1lck/Lithe-IDEA/issues/921) | `1lck/Lithe-IDEA` | ⭐ 1.8k |
-| 2026-09-26 | 🥇 | [New adapter: GetMyInvoices](https://github.com/HelpCode-ai/anythingmcp/issues/738) | `HelpCode-ai/anythingmcp` | ⭐ 418 |
-| 2026-09-26 | 🥇 | [New adapter: easybill](https://github.com/HelpCode-ai/anythingmcp/issues/737) | `HelpCode-ai/anythingmcp` | ⭐ 418 |
-| 2026-09-26 | 🥇 | [weclapp: reject a tenant that is a full hostname](https://github.com/HelpCode-ai/anythingmcp/issues/733) | `HelpCode-ai/anythingmcp` | ⭐ 418 |
-| 2026-09-26 | 🥈 | [SOAP: requests for WSDLs whose input element isn't named after the operation](https://github.com/HelpCode-ai/anythingmcp/issues/736) | `HelpCode-ai/anythingmcp` | ⭐ 418 |
-| 2026-09-26 | 🥈 | [SOAP: send WS-Security UsernameToken headers](https://github.com/HelpCode-ai/anythingmcp/issues/735) | `HelpCode-ai/anythingmcp` | ⭐ 418 |
-| 2026-09-26 | 🥈 | [Verify an "unverified" adapter against your own system](https://github.com/HelpCode-ai/anythingmcp/issues/734) | `HelpCode-ai/anythingmcp` | ⭐ 418 |
-| 2026-09-26 | 🥈 | [Docs: `claude mcp add` example uses a flag that doesn't exist](https://github.com/HelpCode-ai/anythingmcp/issues/732) | `HelpCode-ai/anythingmcp` | ⭐ 418 |
-| 2026-09-26 | 🥇 | [[good first issue] 🗾 Add new Learner Mistake 671 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31044) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-26 | 🥈 | [useScrollPosition re-attaches its scroll listener on every frame while scrolling](https://github.com/layer5io/layer5/issues/8142) | `layer5io/layer5` | ⭐ 1.1k |

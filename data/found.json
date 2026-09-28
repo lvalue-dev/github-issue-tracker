@@ -1,5 +1,373 @@
 [
   {
+    "key": "lingdojo/kana-dojo#31200",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31200,
+    "title": "[good first issue] 🏮 Add new Learner Mistake 350 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31200",
+    "comments": 1,
+    "createdAt": "2026-09-28T15:01:03Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-28T15:40:49.321Z"
+  },
+  {
+    "key": "ONEARMY/community-platform#4933",
+    "tier": 1,
+    "repo": "ONEARMY/community-platform",
+    "number": 4933,
+    "title": "[UI Migration] CharacterCount",
+    "url": "https://github.com/ONEARMY/community-platform/issues/4933",
+    "comments": 0,
+    "createdAt": "2026-09-28T14:58:14Z",
+    "labels": [
+      "Good first issue",
+      "Help wanted",
+      "Difficulty: Easy",
+      "UI Migration"
+    ],
+    "language": "typescript",
+    "stars": 1403,
+    "foundAt": "2026-09-28T15:40:49.567Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31198",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31198,
+    "title": "[good first issue] 🌺 Add new Example Sentence 358 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31198",
+    "comments": 1,
+    "createdAt": "2026-09-28T14:57:34Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-28T15:40:49.567Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31195",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31195,
+    "title": "[good first issue] 🥢 Add new False Friend Pair 1004 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31195",
+    "comments": 1,
+    "createdAt": "2026-09-28T13:57:32Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-28T15:40:50.878Z"
+  },
+  {
+    "key": "meshery/meshery.io#3019",
+    "tier": 2,
+    "repo": "meshery/meshery.io",
+    "number": 3019,
+    "title": "[Bug] Meshery installer fails when MESHERY_INSTALL_DIR contains spaces",
+    "url": "https://github.com/meshery/meshery.io/issues/3019",
+    "comments": 0,
+    "createdAt": "2026-09-28T13:39:17Z",
+    "labels": [
+      "kind/bug",
+      "help wanted"
+    ],
+    "language": "javascript",
+    "stars": 867,
+    "foundAt": "2026-09-28T15:40:55.782Z"
+  },
+  {
+    "key": "corsairdev/corsair#1784",
+    "tier": 2,
+    "repo": "corsairdev/corsair",
+    "number": 1784,
+    "title": "Skill docs list an invalid npm corsair command",
+    "url": "https://github.com/corsairdev/corsair/issues/1784",
+    "comments": 0,
+    "createdAt": "2026-09-28T13:10:59Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "docs",
+      "difficulty: easy"
+    ],
+    "language": "typescript",
+    "stars": 12632,
+    "foundAt": "2026-09-28T15:40:55.500Z"
+  },
+  {
+    "key": "corsairdev/corsair#1783",
+    "tier": 2,
+    "repo": "corsairdev/corsair",
+    "number": 1783,
+    "title": "formatRelativeTime renders NaNmo ago and never shows years",
+    "url": "https://github.com/corsairdev/corsair/issues/1783",
+    "comments": 0,
+    "createdAt": "2026-09-28T13:10:50Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "difficulty: easy"
+    ],
+    "language": "typescript",
+    "stars": 12632,
+    "foundAt": "2026-09-28T15:40:55.500Z"
+  },
+  {
+    "key": "corsairdev/corsair#1782",
+    "tier": 2,
+    "repo": "corsairdev/corsair",
+    "number": 1782,
+    "title": "Studio ScriptPage has duplicate aria-label props",
+    "url": "https://github.com/corsairdev/corsair/issues/1782",
+    "comments": 0,
+    "createdAt": "2026-09-28T13:10:40Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "app",
+      "difficulty: easy"
+    ],
+    "language": "typescript",
+    "stars": 12632,
+    "foundAt": "2026-09-28T15:40:55.500Z"
+  },
+  {
+    "key": "corsairdev/corsair#1781",
+    "tier": 2,
+    "repo": "corsairdev/corsair",
+    "number": 1781,
+    "title": "Twilio credential split truncates tokens with colons",
+    "url": "https://github.com/corsairdev/corsair/issues/1781",
+    "comments": 0,
+    "createdAt": "2026-09-28T13:10:29Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "plugin",
+      "difficulty: easy"
+    ],
+    "language": "typescript",
+    "stars": 12632,
+    "foundAt": "2026-09-28T15:40:55.500Z"
+  },
+  {
+    "key": "corsairdev/corsair#1780",
+    "tier": 2,
+    "repo": "corsairdev/corsair",
+    "number": 1780,
+    "title": "Twilio keyBuilder returns empty string on missing auth",
+    "url": "https://github.com/corsairdev/corsair/issues/1780",
+    "comments": 0,
+    "createdAt": "2026-09-28T13:10:20Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "plugin",
+      "difficulty: easy"
+    ],
+    "language": "typescript",
+    "stars": 12632,
+    "foundAt": "2026-09-28T15:40:55.500Z"
+  },
+  {
+    "key": "corsairdev/corsair#1779",
+    "tier": 2,
+    "repo": "corsairdev/corsair",
+    "number": 1779,
+    "title": "Airtable webhooks.getPayloads schema key does not match runtime",
+    "url": "https://github.com/corsairdev/corsair/issues/1779",
+    "comments": 0,
+    "createdAt": "2026-09-28T13:10:11Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "plugin",
+      "difficulty: easy"
+    ],
+    "language": "typescript",
+    "stars": 12632,
+    "foundAt": "2026-09-28T15:40:55.500Z"
+  },
+  {
+    "key": "corsairdev/corsair#1778",
+    "tier": 2,
+    "repo": "corsairdev/corsair",
+    "number": 1778,
+    "title": "Gmail usersGetProfile has schemas but no runtime endpoint",
+    "url": "https://github.com/corsairdev/corsair/issues/1778",
+    "comments": 0,
+    "createdAt": "2026-09-28T13:10:01Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "plugin",
+      "difficulty: easy"
+    ],
+    "language": "typescript",
+    "stars": 12632,
+    "foundAt": "2026-09-28T15:40:55.500Z"
+  },
+  {
+    "key": "corsairdev/corsair#1777",
+    "tier": 2,
+    "repo": "corsairdev/corsair",
+    "number": 1777,
+    "title": "Discord rate limits never retry because the client drops status",
+    "url": "https://github.com/corsairdev/corsair/issues/1777",
+    "comments": 0,
+    "createdAt": "2026-09-28T13:09:52Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "plugin",
+      "difficulty: easy"
+    ],
+    "language": "typescript",
+    "stars": 12632,
+    "foundAt": "2026-09-28T15:40:55.500Z"
+  },
+  {
+    "key": "corsairdev/corsair#1776",
+    "tier": 2,
+    "repo": "corsairdev/corsair",
+    "number": 1776,
+    "title": "CLI http rejects ports with surrounding whitespace",
+    "url": "https://github.com/corsairdev/corsair/issues/1776",
+    "comments": 0,
+    "createdAt": "2026-09-28T13:08:15Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "difficulty: easy"
+    ],
+    "language": "typescript",
+    "stars": 12632,
+    "foundAt": "2026-09-28T15:40:55.500Z"
+  },
+  {
+    "key": "corsairdev/corsair#1775",
+    "tier": 2,
+    "repo": "corsairdev/corsair",
+    "number": 1775,
+    "title": "MCP run_script formatter throws on BigInt and circular results",
+    "url": "https://github.com/corsairdev/corsair/issues/1775",
+    "comments": 0,
+    "createdAt": "2026-09-28T13:05:12Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "difficulty: easy"
+    ],
+    "language": "typescript",
+    "stars": 12632,
+    "foundAt": "2026-09-28T15:40:55.500Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31191",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31191,
+    "title": "[good first issue] 🐡 Add new Video Game Quote 1042 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31191",
+    "comments": 1,
+    "createdAt": "2026-09-28T12:57:33Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-28T15:40:55.500Z"
+  },
+  {
+    "key": "getnao/nao#1759",
+    "tier": 3,
+    "repo": "getnao/nao",
+    "number": 1759,
+    "title": "[docs] Clarify when an LLM key / token subscription is required vs not",
+    "url": "https://github.com/getnao/nao/issues/1759",
+    "comments": 0,
+    "createdAt": "2026-09-28T15:20:16Z",
+    "labels": [
+      "documentation",
+      "nao cli / context",
+      "P2:medium",
+      "user request"
+    ],
+    "language": "typescript",
+    "stars": 1702,
+    "foundAt": "2026-09-28T15:40:58.756Z"
+  },
+  {
+    "key": "vitessce/vitessce#2619",
+    "tier": 3,
+    "repo": "vitessce/vitessce",
+    "number": 2619,
+    "title": "Document how to load data from huggingface",
+    "url": "https://github.com/vitessce/vitessce/issues/2619",
+    "comments": 0,
+    "createdAt": "2026-09-28T15:02:50Z",
+    "labels": [
+      "docs"
+    ],
+    "language": "javascript",
+    "stars": 269,
+    "foundAt": "2026-09-28T15:41:01.396Z"
+  },
+  {
+    "key": "cloudflare/cloudflare-docs#33736",
+    "tier": 3,
+    "repo": "cloudflare/cloudflare-docs",
+    "number": 33736,
+    "title": "mTLS page with reference to Github repo that does not exist",
+    "url": "https://github.com/cloudflare/cloudflare-docs/issues/33736",
+    "comments": 0,
+    "createdAt": "2026-09-28T13:05:24Z",
+    "labels": [
+      "documentation",
+      "content:edit",
+      "product:learning-paths"
+    ],
+    "language": "mdx",
+    "stars": 5260,
+    "foundAt": "2026-09-28T15:41:03.016Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#31167",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1725,376 +2093,5 @@
     "language": "typescript",
     "stars": 3454,
     "foundAt": "2026-09-26T23:00:27.903Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31059",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31059,
-    "title": "[good first issue] 🧧 Add new Etiquette Tip 289 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31059",
-    "comments": 1,
-    "createdAt": "2026-09-26T21:57:29Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-26T23:00:27.903Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31057",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31057,
-    "title": "[good first issue] 🍤 Add new False Friend Pair 1190 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31057",
-    "comments": 1,
-    "createdAt": "2026-09-26T21:00:57Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-26T23:00:27.903Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31056",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31056,
-    "title": "[good first issue] 🎌 Add new Dialect Entry 788 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31056",
-    "comments": 1,
-    "createdAt": "2026-09-26T20:57:28Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-26T23:00:27.903Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31054",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31054,
-    "title": "[good first issue] 🌊 Add new Japanese Idiom 436 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31054",
-    "comments": 1,
-    "createdAt": "2026-09-26T20:00:57Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-26T23:00:28.563Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31053",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31053,
-    "title": "[good first issue] 🏯 Add new Video Game Quote 463 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31053",
-    "comments": 1,
-    "createdAt": "2026-09-26T19:57:28Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-26T19:59:33.788Z"
-  },
-  {
-    "key": "nexu-io/open-design#8475",
-    "tier": 1,
-    "repo": "nexu-io/open-design",
-    "number": 8475,
-    "title": "[Bug]: Web app crashes on load — raw NUL bytes in useProjectRunStatuses.ts cause 'literal not terminated' SyntaxError",
-    "url": "https://github.com/nexu-io/open-design/issues/8475",
-    "comments": 3,
-    "createdAt": "2026-09-26T19:49:28Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 98186,
-    "foundAt": "2026-09-26T19:59:34.136Z"
-  },
-  {
-    "key": "HelpCode-ai/anythingmcp#746",
-    "tier": 1,
-    "repo": "HelpCode-ai/anythingmcp",
-    "number": 746,
-    "title": "Write example prompts and a FAQ for the Zucchetti and TeamSystem satellites",
-    "url": "https://github.com/HelpCode-ai/anythingmcp/issues/746",
-    "comments": 0,
-    "createdAt": "2026-09-26T19:04:13Z",
-    "labels": [
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 418,
-    "foundAt": "2026-09-26T19:59:35.268Z"
-  },
-  {
-    "key": "HelpCode-ai/anythingmcp#745",
-    "tier": 1,
-    "repo": "HelpCode-ai/anythingmcp",
-    "number": 745,
-    "title": "Write example prompts and a FAQ for the Exact Online and AFAS satellites",
-    "url": "https://github.com/HelpCode-ai/anythingmcp/issues/745",
-    "comments": 0,
-    "createdAt": "2026-09-26T19:04:12Z",
-    "labels": [
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 418,
-    "foundAt": "2026-09-26T19:59:35.268Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31050",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31050,
-    "title": "[good first issue] 🎍 Add new Anime Quote 148 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31050",
-    "comments": 1,
-    "createdAt": "2026-09-26T19:00:54Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-26T19:59:35.537Z"
-  },
-  {
-    "key": "1lck/Lithe-IDEA#921",
-    "tier": 1,
-    "repo": "1lck/Lithe-IDEA",
-    "number": 921,
-    "title": "[Bug] 有关 IDE 设置总是置顶的问题",
-    "url": "https://github.com/1lck/Lithe-IDEA/issues/921",
-    "comments": 0,
-    "createdAt": "2026-09-26T18:31:54Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "P2",
-      "area:editor",
-      "platform:cross-platform",
-      "review: high"
-    ],
-    "language": "typescript",
-    "stars": 1790,
-    "foundAt": "2026-09-26T19:59:36.353Z"
-  },
-  {
-    "key": "HelpCode-ai/anythingmcp#738",
-    "tier": 1,
-    "repo": "HelpCode-ai/anythingmcp",
-    "number": 738,
-    "title": "New adapter: GetMyInvoices",
-    "url": "https://github.com/HelpCode-ai/anythingmcp/issues/738",
-    "comments": 0,
-    "createdAt": "2026-09-26T18:26:01Z",
-    "labels": [
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 418,
-    "foundAt": "2026-09-26T19:59:36.353Z"
-  },
-  {
-    "key": "HelpCode-ai/anythingmcp#737",
-    "tier": 1,
-    "repo": "HelpCode-ai/anythingmcp",
-    "number": 737,
-    "title": "New adapter: easybill",
-    "url": "https://github.com/HelpCode-ai/anythingmcp/issues/737",
-    "comments": 0,
-    "createdAt": "2026-09-26T18:26:00Z",
-    "labels": [
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 418,
-    "foundAt": "2026-09-26T19:59:36.353Z"
-  },
-  {
-    "key": "HelpCode-ai/anythingmcp#733",
-    "tier": 1,
-    "repo": "HelpCode-ai/anythingmcp",
-    "number": 733,
-    "title": "weclapp: reject a tenant that is a full hostname",
-    "url": "https://github.com/HelpCode-ai/anythingmcp/issues/733",
-    "comments": 0,
-    "createdAt": "2026-09-26T18:25:55Z",
-    "labels": [
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 418,
-    "foundAt": "2026-09-26T19:59:36.353Z"
-  },
-  {
-    "key": "HelpCode-ai/anythingmcp#736",
-    "tier": 2,
-    "repo": "HelpCode-ai/anythingmcp",
-    "number": 736,
-    "title": "SOAP: requests for WSDLs whose input element isn't named after the operation",
-    "url": "https://github.com/HelpCode-ai/anythingmcp/issues/736",
-    "comments": 0,
-    "createdAt": "2026-09-26T18:25:59Z",
-    "labels": [
-      "help wanted",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 418,
-    "foundAt": "2026-09-26T19:59:38.640Z"
-  },
-  {
-    "key": "HelpCode-ai/anythingmcp#735",
-    "tier": 2,
-    "repo": "HelpCode-ai/anythingmcp",
-    "number": 735,
-    "title": "SOAP: send WS-Security UsernameToken headers",
-    "url": "https://github.com/HelpCode-ai/anythingmcp/issues/735",
-    "comments": 0,
-    "createdAt": "2026-09-26T18:25:58Z",
-    "labels": [
-      "help wanted",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 418,
-    "foundAt": "2026-09-26T19:59:38.640Z"
-  },
-  {
-    "key": "HelpCode-ai/anythingmcp#734",
-    "tier": 2,
-    "repo": "HelpCode-ai/anythingmcp",
-    "number": 734,
-    "title": "Verify an \"unverified\" adapter against your own system",
-    "url": "https://github.com/HelpCode-ai/anythingmcp/issues/734",
-    "comments": 0,
-    "createdAt": "2026-09-26T18:25:57Z",
-    "labels": [
-      "help wanted",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 418,
-    "foundAt": "2026-09-26T19:59:38.640Z"
-  },
-  {
-    "key": "HelpCode-ai/anythingmcp#732",
-    "tier": 2,
-    "repo": "HelpCode-ai/anythingmcp",
-    "number": 732,
-    "title": "Docs: `claude mcp add` example uses a flag that doesn't exist",
-    "url": "https://github.com/HelpCode-ai/anythingmcp/issues/732",
-    "comments": 0,
-    "createdAt": "2026-09-26T18:25:54Z",
-    "labels": [
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 418,
-    "foundAt": "2026-09-26T19:59:38.640Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31044",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31044,
-    "title": "[good first issue] 🗾 Add new Learner Mistake 671 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31044",
-    "comments": 1,
-    "createdAt": "2026-09-26T16:57:28Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-26T17:17:59.619Z"
-  },
-  {
-    "key": "layer5io/layer5#8142",
-    "tier": 2,
-    "repo": "layer5io/layer5",
-    "number": 8142,
-    "title": "useScrollPosition re-attaches its scroll listener on every frame while scrolling",
-    "url": "https://github.com/layer5io/layer5/issues/8142",
-    "comments": 1,
-    "createdAt": "2026-09-26T14:44:30Z",
-    "labels": [
-      "kind/bug",
-      "help wanted",
-      "framework/gatsby"
-    ],
-    "language": "javascript",
-    "stars": 1136,
-    "foundAt": "2026-09-26T17:18:02.431Z"
   }
 ]
