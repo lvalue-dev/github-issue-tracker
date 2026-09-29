@@ -4,6 +4,21 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-29 | 🥇 | [[good first issue] 🍡 Add new Etiquette Tip 453 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31236) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-29 | 🥇 | [[good first issue] 🍚 Add new False Friend Pair 754 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31235) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-29 | 🥇 | [[good first issue] 🎌 Add new Dialect Entry 1018 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31234) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-29 | 🥇 | [[good first issue] 🎋 Add new Japanese Idiom 275 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31233) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-29 | 🥇 | [move specs to docs](https://github.com/F3-Nation/f3-nation/issues/1107) | `F3-Nation/f3-nation` | ⭐ 208 |
+| 2026-09-29 | 🥇 | [README_pt.md: bring the transport security paragraph up to date with README.md](https://github.com/libredb/libredb-studio/issues/1201) | `libredb/libredb-studio` | ⭐ 890 |
+| 2026-09-29 | 🥇 | [[good first issue] 🎏 Add new Anime Quote 844 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31231) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-29 | 🥇 | [[good first issue] 🍚 Add new Grammar Point 173 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31230) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-29 | 🥈 | [Anthropic prompt caching: uncached input tokens are dropped and never priced whe](https://github.com/traceroot-ai/traceroot/issues/2392) | `traceroot-ai/traceroot` | ⭐ 775 |
+| 2026-09-29 | 🥈 | [[good first issue] 🧧 Add new Trivia Question 310 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31229) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-29 | 🥈 | [Cancel in four confirmation dialogs takes the wrong background when the OS is in](https://github.com/libredb/libredb-studio/issues/1199) | `libredb/libredb-studio` | ⭐ 890 |
+| 2026-09-29 | 🥈 | [Three confirmation dialogs drop focus to the page body when they close](https://github.com/libredb/libredb-studio/issues/1198) | `libredb/libredb-studio` | ⭐ 890 |
+| 2026-09-29 | 🥈 | [[good first issue] 🌊 Add new Japanese Proverb 1203 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31228) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-29 | 🥈 | [Thanks for watching](https://github.com/Pelski/ytzero/issues/240) | `Pelski/ytzero` | ⭐ 638 |
+| 2026-09-29 | 🥉 | [Test class namespace collision](https://github.com/thecodingmachine/graphqlite/issues/837) | `thecodingmachine/graphqlite` | ⭐ 577 |
 | 2026-09-28 | 🥇 | [[good first issue] 🌊 Add new Japan Fact 2989 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31227) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-28 | 🥇 | [[good first issue] 🎌 Add new Theme: Sushi Counter (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31226) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-28 | 🥇 | [Use one source for country names: Regions list and details currently disagree](https://github.com/medusajs/medusa/issues/17060) | `medusajs/medusa` | ⭐ 36.4k |
@@ -89,18 +104,3 @@
 | 2026-09-27 | 🥈 | [[v10] Re-enable the component-testing mock suite (`test:browser:misc`)](https://github.com/webdriverio/webdriverio/issues/15739) | `webdriverio/webdriverio` | ⭐ 9.8k |
 | 2026-09-27 | 🥈 | [Saving a new connection with the dialog left open keeps its host, TLS and SSH tu](https://github.com/libredb/libredb-studio/issues/1155) | `libredb/libredb-studio` | ⭐ 890 |
 | 2026-09-27 | 🥇 | [[agent] `reticle_clock` cannot advance timers the page scheduled before `freeze`](https://github.com/reticlehq/reticle/issues/1156) | `reticlehq/reticle` | ⭐ 900 |
-| 2026-09-27 | 🥇 | [[agent] `verify --help` and the `--expect` refusal should point at the HTTP tran](https://github.com/reticlehq/reticle/issues/1155) | `reticlehq/reticle` | ⭐ 900 |
-| 2026-09-27 | 🥇 | [[agent] A skill lists docs pages as bare relative names, and agents compose `too](https://github.com/reticlehq/reticle/issues/1154) | `reticlehq/reticle` | ⭐ 900 |
-| 2026-09-27 | 🥇 | [[agent] `init --app <dir>` pointed at a Flutter (or other non-JS) app reports a ](https://github.com/reticlehq/reticle/issues/1153) | `reticlehq/reticle` | ⭐ 900 |
-| 2026-09-27 | 🥇 | [[agent] On a plain `index.html` project, `init` says "wrong directory" and then ](https://github.com/reticlehq/reticle/issues/1152) | `reticlehq/reticle` | ⭐ 900 |
-| 2026-09-27 | 🥇 | [[agent] `@reticlehq/vite-plugin` has no `present` option, so hiding the panel me](https://github.com/reticlehq/reticle/issues/1151) | `reticlehq/reticle` | ⭐ 900 |
-| 2026-09-27 | 🥇 | [[agent] Re-running `init` on a Next app wired before 3.3.0 says "file exists" an](https://github.com/reticlehq/reticle/issues/1150) | `reticlehq/reticle` | ⭐ 900 |
-| 2026-09-27 | 🥇 | [[agent] A store registered with a bare getter is reported as "no store is regist](https://github.com/reticlehq/reticle/issues/1146) | `reticlehq/reticle` | ⭐ 900 |
-| 2026-09-27 | 🥇 | [[agent] A button named by `<label for>` is reported as unnamed](https://github.com/reticlehq/reticle/issues/1145) | `reticlehq/reticle` | ⭐ 900 |
-| 2026-09-27 | 🥇 | [[agent] The `element` predicate has no `pressed` state, so a correct toggle butt](https://github.com/reticlehq/reticle/issues/1144) | `reticlehq/reticle` | ⭐ 900 |
-| 2026-09-27 | 🥇 | [[agent] `reticle_screenshot` on a leased tab ignores `ref` and `clip`, and saves](https://github.com/reticlehq/reticle/issues/1143) | `reticlehq/reticle` | ⭐ 900 |
-| 2026-09-27 | 🥇 | [[agent] `reticle_lease` silently ignores a `seedStorage` it does not recognise, ](https://github.com/reticlehq/reticle/issues/1142) | `reticlehq/reticle` | ⭐ 900 |
-| 2026-09-27 | 🥇 | [[agent] `bootSession()` from @reticlehq/test dies with a raw EADDRINUSE stack wh](https://github.com/reticlehq/reticle/issues/1141) | `reticlehq/reticle` | ⭐ 900 |
-| 2026-09-27 | 🥇 | [[agent] `reticle_navigate` says the page "did not arrive" when it arrived and th](https://github.com/reticlehq/reticle/issues/1139) | `reticlehq/reticle` | ⭐ 900 |
-| 2026-09-27 | 🥇 | [[agent] The MCP handshake tells the agent no app has ever connected while a sess](https://github.com/reticlehq/reticle/issues/1138) | `reticlehq/reticle` | ⭐ 900 |
-| 2026-09-27 | 🥇 | [[agent] The version-skew paragraph is printed twice in every tool response while](https://github.com/reticlehq/reticle/issues/1137) | `reticlehq/reticle` | ⭐ 900 |
