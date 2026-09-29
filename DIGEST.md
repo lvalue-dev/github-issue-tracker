@@ -4,6 +4,36 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-29 | 🥇 | [[good first issue] 🍵 Add new Theme: Gingko Gold (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31278) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-29 | 🥇 | [[good first issue] 🎍 Add new Etiquette Tip 1079 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31275) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-29 | 🥇 | [[good first issue] 🍢 Add new False Friend Pair 272 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31274) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-29 | 🥇 | [[good first issue] 🍚 Add new Japanese Idiom 256 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31273) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-29 | 🥇 | [`Failed to upload file to GCS: File buffer is empty or invalid` logged about 5.4](https://github.com/juspay/xyne-spaces/issues/2452) | `juspay/xyne-spaces` | ⭐ 794 |
+| 2026-09-29 | 🥇 | [Some Activity event types have no renderer, so they show as blank rows](https://github.com/juspay/xyne-spaces/issues/2451) | `juspay/xyne-spaces` | ⭐ 794 |
+| 2026-09-29 | 🥇 | [Old recordings show a spinner forever instead of a "not available" message](https://github.com/juspay/xyne-spaces/issues/2450) | `juspay/xyne-spaces` | ⭐ 794 |
+| 2026-09-29 | 🥇 | [Creating a canvas has no loading state, so clicking more than once creates dupli](https://github.com/juspay/xyne-spaces/issues/2449) | `juspay/xyne-spaces` | ⭐ 794 |
+| 2026-09-29 | 🥇 | [The Windows desktop app still uses the default Electron icon](https://github.com/juspay/xyne-spaces/issues/2448) | `juspay/xyne-spaces` | ⭐ 794 |
+| 2026-09-29 | 🥇 | [Text pasted into a Desk email reply becomes unreadable in dark mode](https://github.com/juspay/xyne-spaces/issues/2447) | `juspay/xyne-spaces` | ⭐ 794 |
+| 2026-09-29 | 🥇 | [fix(cli): validate-portals.mjs has no --help and silently ignores mistyped flags](https://github.com/career-ops-hq/career-ops/issues/4601) | `career-ops-hq/career-ops` | ⭐ 73.1k |
+| 2026-09-29 | 🥇 | [fix(cli): rank-pipeline.mjs silently ignores mistyped flags: delegate to lib/cli](https://github.com/career-ops-hq/career-ops/issues/4600) | `career-ops-hq/career-ops` | ⭐ 73.1k |
+| 2026-09-29 | 🥇 | [fix(cli): scan-interamt.mjs runs a live scan on --help or a mistyped --dry-run: ](https://github.com/career-ops-hq/career-ops/issues/4599) | `career-ops-hq/career-ops` | ⭐ 73.1k |
+| 2026-09-29 | 🥇 | [fix(cli): scan-hn.mjs has no --help, so --help runs a live scan: delegate to lib](https://github.com/career-ops-hq/career-ops/issues/4598) | `career-ops-hq/career-ops` | ⭐ 73.1k |
+| 2026-09-29 | 🥇 | [docs: ARCHITECTURE.md gives applied-date-local-vs-utc.test.mjs as a naming examp](https://github.com/career-ops-hq/career-ops/issues/4597) | `career-ops-hq/career-ops` | ⭐ 73.1k |
+| 2026-09-29 | 🥇 | [docs(i18n): the German and Chinese interview READMEs point to ../interview-prep.](https://github.com/career-ops-hq/career-ops/issues/4596) | `career-ops-hq/career-ops` | ⭐ 73.1k |
+| 2026-09-29 | 🥇 | [docs(docker): DOCKER.md suggests ./cops npm test, but there is no test script](https://github.com/career-ops-hq/career-ops/issues/4595) | `career-ops-hq/career-ops` | ⭐ 73.1k |
+| 2026-09-29 | 🥇 | [docs(setup): the prerequisites miss the Node 22.5+ of the tracker index and the ](https://github.com/career-ops-hq/career-ops/issues/4594) | `career-ops-hq/career-ops` | ⭐ 73.1k |
+| 2026-09-29 | 🥇 | [docs: the READMEs and SKILL.md advertise an eu-fintech preset that does not exis](https://github.com/career-ops-hq/career-ops/issues/4593) | `career-ops-hq/career-ops` | ⭐ 73.1k |
+| 2026-09-29 | 🥈 | [[Bug] Catalog modal uses light snapshot for dark mode](https://github.com/meshery/meshery.io/issues/3024) | `meshery/meshery.io` | ⭐ 867 |
+| 2026-09-29 | 🥈 | [`.fig` uploads are silently rejected (missing from the upload allow-list)](https://github.com/juspay/xyne-spaces/issues/2443) | `juspay/xyne-spaces` | ⭐ 794 |
+| 2026-09-29 | 🥈 | [[Blog] Clear stale search results when query drops below two characters](https://github.com/meshery/meshery.io/issues/3023) | `meshery/meshery.io` | ⭐ 867 |
+| 2026-09-29 | 🥈 | [OpenAI logo is not visible in dark mode](https://github.com/ToolJet/ToolJet/issues/18153) | `ToolJet/ToolJet` | ⭐ 41.0k |
+| 2026-09-29 | 🥈 | [Anthropic logo is not visible in dark mode](https://github.com/ToolJet/ToolJet/issues/18152) | `ToolJet/ToolJet` | ⭐ 41.0k |
+| 2026-09-29 | 🥈 | [Icon colour on disabled buttons is incorrect](https://github.com/ToolJet/ToolJet/issues/18151) | `ToolJet/ToolJet` | ⭐ 41.0k |
+| 2026-09-29 | 🥈 | [Glitch: Tabs are moving on hover](https://github.com/ToolJet/ToolJet/issues/18149) | `ToolJet/ToolJet` | ⭐ 41.0k |
+| 2026-09-29 | 🥈 | [Dark mode: Scroll colours](https://github.com/ToolJet/ToolJet/issues/18148) | `ToolJet/ToolJet` | ⭐ 41.0k |
+| 2026-09-29 | 🥈 | [Dark mode: Toggle not visible](https://github.com/ToolJet/ToolJet/issues/18146) | `ToolJet/ToolJet` | ⭐ 41.0k |
+| 2026-09-29 | 🥈 | [Dark mode: Workspace login](https://github.com/ToolJet/ToolJet/issues/18145) | `ToolJet/ToolJet` | ⭐ 41.0k |
+| 2026-09-29 | 🥉 | [Create complete `cf` CLI, configuration, and migration documentation](https://github.com/cloudflare/cloudflare-docs/issues/33790) | `cloudflare/cloudflare-docs` | ⭐ 5.3k |
 | 2026-09-29 | 🥈 | [Snyk vulnerability [SNYK-JS-BRACEEXPANSION-20244950]](https://github.com/backstage/backstage/issues/35918) | `backstage/backstage` | ⭐ 34.5k |
 | 2026-09-29 | 🥈 | [Snyk vulnerability [SNYK-JS-BRACEEXPANSION-20244952]](https://github.com/backstage/backstage/issues/35917) | `backstage/backstage` | ⭐ 34.5k |
 | 2026-09-29 | 🥈 | [Snyk vulnerability [SNYK-JS-BRACEEXPANSION-20244948]](https://github.com/backstage/backstage/issues/35916) | `backstage/backstage` | ⭐ 34.5k |
@@ -74,33 +104,3 @@
 | 2026-09-28 | 🥈 | [MCP run_script formatter throws on BigInt and circular results](https://github.com/corsairdev/corsair/issues/1775) | `corsairdev/corsair` | ⭐ 12.6k |
 | 2026-09-28 | 🥈 | [[good first issue] 🐡 Add new Video Game Quote 1042 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31191) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-28 | 🥉 | [[docs] Clarify when an LLM key / token subscription is required vs not](https://github.com/getnao/nao/issues/1759) | `getnao/nao` | ⭐ 1.7k |
-| 2026-09-28 | 🥉 | [Document how to load data from huggingface](https://github.com/vitessce/vitessce/issues/2619) | `vitessce/vitessce` | ⭐ 269 |
-| 2026-09-28 | 🥉 | [mTLS page with reference to Github repo that does not exist](https://github.com/cloudflare/cloudflare-docs/issues/33736) | `cloudflare/cloudflare-docs` | ⭐ 5.3k |
-| 2026-09-28 | 🥇 | [[good first issue] 🥟 Add new Japanese Idiom 304 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31167) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-28 | 🥇 | [[good first issue] 🎎 Add new Video Game Quote 1195 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31166) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-28 | 🥇 | [[good first issue] 🦑 Add new Anime Quote 865 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31164) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-28 | 🥇 | [[good first issue] 🎍 Add new Grammar Point 1146 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31163) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-28 | 🥇 | [[good first issue] 🧧 Add new Trivia Question 1137 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31158) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-28 | 🥇 | [[good first issue] 🏯 Add new Japanese Haiku 103 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31157) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-28 | 🥇 | [💡 Add Option to Block OPUS Audio Codec.](https://github.com/code-charity/youtube/issues/4363) | `code-charity/youtube` | ⭐ 4.6k |
-| 2026-09-28 | 🥉 | [jevify notice example uses removed judge() handle API and fails with TypeError](https://github.com/can1357/oh-my-pi/issues/13588) | `can1357/oh-my-pi` | ⭐ 33.5k |
-| 2026-09-28 | 🥇 | [[good first issue] 🐉 Add new Video Game Quote 626 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31148) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-28 | 🥈 | [[good first issue] 🍣 Add new Anime Quote 153 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31147) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-28 | 🥈 | [[good first issue] 🏮 Add new Grammar Point 639 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31146) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-28 | 🥈 | [[good first issue] 🍵 Add new Trivia Question 254 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31145) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-28 | 🥈 | [[good first issue] 🍘 Add new Japanese Proverb 1733 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31144) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-28 | 🥈 | [Backlog D39 and D44 point at lines that moved, and D44's remaining list is out o](https://github.com/libredb/libredb-studio/issues/1165) | `libredb/libredb-studio` | ⭐ 890 |
-| 2026-09-28 | 🥈 | [Redis: the confirmation dialog asks about blocking commands the provider now ref](https://github.com/libredb/libredb-studio/issues/1164) | `libredb/libredb-studio` | ⭐ 890 |
-| 2026-09-28 | 🥉 | [Feature: Pause Other Players When One Starts](https://github.com/videojs/v10/issues/3004) | `videojs/v10` | ⭐ 961 |
-| 2026-09-28 | 🥉 | [Docs: React Media Event Props Are Only Documented in Migration Guides](https://github.com/videojs/v10/issues/3003) | `videojs/v10` | ⭐ 961 |
-| 2026-09-28 | 🥉 | [Bug: Default Skin Hides the Captions Button on Players Narrower Than 32rem](https://github.com/videojs/v10/issues/3002) | `videojs/v10` | ⭐ 961 |
-| 2026-09-28 | 🥉 | [Bug: Agents Init Decision Guide Skips Multi-App Workspaces, Existing Video.js 8,](https://github.com/videojs/v10/issues/2999) | `videojs/v10` | ⭐ 961 |
-| 2026-09-28 | 🥉 | [Bug: usePlayer Resolves to Any in the Published @videojs/react Declarations](https://github.com/videojs/v10/issues/2997) | `videojs/v10` | ⭐ 961 |
-| 2026-09-27 | 🥇 | [[good first issue] 🥟 Add new Japan Fact 2367 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31143) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-27 | 🥇 | [[good first issue] 🍛 Add new Theme: Sake Glass (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31142) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-27 | 🥇 | [Small Web back button has no keyboard access; remove dead Discover code and unus](https://github.com/amatya-aditya/obsidian-rss-dashboard/issues/503) | `amatya-aditya/obsidian-rss-dashboard` | ⭐ 670 |
-| 2026-09-27 | 🥇 | [docs: Add tutorial and introduction video links to README](https://github.com/vycdev/Kromacut/issues/81) | `vycdev/Kromacut` | ⭐ 283 |
-| 2026-09-27 | 🥈 | [[good first issue] 🦊 Add new Learner Mistake 728 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31140) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-27 | 🥇 | [[good first issue] 🗻 Add new Anime Quote 905 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31130) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-27 | 🥇 | [[good first issue] 🎍 Add new Grammar Point 304 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31129) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-27 | 🥇 | [[good first issue] 🍜 Add new Japanese Proverb 1193 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31126) | `lingdojo/kana-dojo` | ⭐ 3.5k |

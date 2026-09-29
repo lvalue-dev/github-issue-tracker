@@ -1,5 +1,548 @@
 [
   {
+    "key": "lingdojo/kana-dojo#31278",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31278,
+    "title": "[good first issue] 🍵 Add new Theme: Gingko Gold (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31278",
+    "comments": 1,
+    "createdAt": "2026-09-29T15:58:07Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-29T16:00:55.752Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31275",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31275,
+    "title": "[good first issue] 🎍 Add new Etiquette Tip 1079 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31275",
+    "comments": 1,
+    "createdAt": "2026-09-29T14:57:33Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-29T16:00:56.407Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31274",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31274,
+    "title": "[good first issue] 🍢 Add new False Friend Pair 272 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31274",
+    "comments": 1,
+    "createdAt": "2026-09-29T14:01:01Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-29T16:00:57.365Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31273",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31273,
+    "title": "[good first issue] 🍚 Add new Japanese Idiom 256 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31273",
+    "comments": 1,
+    "createdAt": "2026-09-29T13:57:35Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-29T16:00:57.609Z"
+  },
+  {
+    "key": "juspay/xyne-spaces#2452",
+    "tier": 1,
+    "repo": "juspay/xyne-spaces",
+    "number": 2452,
+    "title": "`Failed to upload file to GCS: File buffer is empty or invalid` logged about 5.4k times a day",
+    "url": "https://github.com/juspay/xyne-spaces/issues/2452",
+    "comments": 0,
+    "createdAt": "2026-09-29T13:54:45Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 794,
+    "foundAt": "2026-09-29T16:00:57.986Z"
+  },
+  {
+    "key": "juspay/xyne-spaces#2451",
+    "tier": 1,
+    "repo": "juspay/xyne-spaces",
+    "number": 2451,
+    "title": "Some Activity event types have no renderer, so they show as blank rows",
+    "url": "https://github.com/juspay/xyne-spaces/issues/2451",
+    "comments": 0,
+    "createdAt": "2026-09-29T13:54:42Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 794,
+    "foundAt": "2026-09-29T16:00:57.986Z"
+  },
+  {
+    "key": "juspay/xyne-spaces#2450",
+    "tier": 1,
+    "repo": "juspay/xyne-spaces",
+    "number": 2450,
+    "title": "Old recordings show a spinner forever instead of a \"not available\" message",
+    "url": "https://github.com/juspay/xyne-spaces/issues/2450",
+    "comments": 0,
+    "createdAt": "2026-09-29T13:54:40Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 794,
+    "foundAt": "2026-09-29T16:00:57.986Z"
+  },
+  {
+    "key": "juspay/xyne-spaces#2449",
+    "tier": 1,
+    "repo": "juspay/xyne-spaces",
+    "number": 2449,
+    "title": "Creating a canvas has no loading state, so clicking more than once creates duplicates",
+    "url": "https://github.com/juspay/xyne-spaces/issues/2449",
+    "comments": 0,
+    "createdAt": "2026-09-29T13:54:38Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 794,
+    "foundAt": "2026-09-29T16:00:57.986Z"
+  },
+  {
+    "key": "juspay/xyne-spaces#2448",
+    "tier": 1,
+    "repo": "juspay/xyne-spaces",
+    "number": 2448,
+    "title": "The Windows desktop app still uses the default Electron icon",
+    "url": "https://github.com/juspay/xyne-spaces/issues/2448",
+    "comments": 0,
+    "createdAt": "2026-09-29T13:54:36Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 794,
+    "foundAt": "2026-09-29T16:00:57.986Z"
+  },
+  {
+    "key": "juspay/xyne-spaces#2447",
+    "tier": 1,
+    "repo": "juspay/xyne-spaces",
+    "number": 2447,
+    "title": "Text pasted into a Desk email reply becomes unreadable in dark mode",
+    "url": "https://github.com/juspay/xyne-spaces/issues/2447",
+    "comments": 0,
+    "createdAt": "2026-09-29T13:54:33Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 794,
+    "foundAt": "2026-09-29T16:00:57.986Z"
+  },
+  {
+    "key": "career-ops-hq/career-ops#4601",
+    "tier": 1,
+    "repo": "career-ops-hq/career-ops",
+    "number": 4601,
+    "title": "fix(cli): validate-portals.mjs has no --help and silently ignores mistyped flags: delegate to lib/cli-flags.mjs",
+    "url": "https://github.com/career-ops-hq/career-ops/issues/4601",
+    "comments": 2,
+    "createdAt": "2026-09-29T11:13:26Z",
+    "labels": [
+      "good first issue",
+      "first-timers-only"
+    ],
+    "language": "javascript",
+    "stars": 73057,
+    "foundAt": "2026-09-29T16:00:58.975Z"
+  },
+  {
+    "key": "career-ops-hq/career-ops#4600",
+    "tier": 1,
+    "repo": "career-ops-hq/career-ops",
+    "number": 4600,
+    "title": "fix(cli): rank-pipeline.mjs silently ignores mistyped flags: delegate to lib/cli-flags.mjs",
+    "url": "https://github.com/career-ops-hq/career-ops/issues/4600",
+    "comments": 0,
+    "createdAt": "2026-09-29T11:13:12Z",
+    "labels": [
+      "good first issue",
+      "first-timers-only"
+    ],
+    "language": "javascript",
+    "stars": 73057,
+    "foundAt": "2026-09-29T16:00:58.975Z"
+  },
+  {
+    "key": "career-ops-hq/career-ops#4599",
+    "tier": 1,
+    "repo": "career-ops-hq/career-ops",
+    "number": 4599,
+    "title": "fix(cli): scan-interamt.mjs runs a live scan on --help or a mistyped --dry-run: delegate to lib/cli-flags.mjs",
+    "url": "https://github.com/career-ops-hq/career-ops/issues/4599",
+    "comments": 0,
+    "createdAt": "2026-09-29T11:12:59Z",
+    "labels": [
+      "good first issue",
+      "first-timers-only"
+    ],
+    "language": "javascript",
+    "stars": 73057,
+    "foundAt": "2026-09-29T16:00:58.975Z"
+  },
+  {
+    "key": "career-ops-hq/career-ops#4598",
+    "tier": 1,
+    "repo": "career-ops-hq/career-ops",
+    "number": 4598,
+    "title": "fix(cli): scan-hn.mjs has no --help, so --help runs a live scan: delegate to lib/cli-flags.mjs",
+    "url": "https://github.com/career-ops-hq/career-ops/issues/4598",
+    "comments": 0,
+    "createdAt": "2026-09-29T11:12:44Z",
+    "labels": [
+      "good first issue",
+      "first-timers-only"
+    ],
+    "language": "javascript",
+    "stars": 73057,
+    "foundAt": "2026-09-29T16:00:58.975Z"
+  },
+  {
+    "key": "career-ops-hq/career-ops#4597",
+    "tier": 1,
+    "repo": "career-ops-hq/career-ops",
+    "number": 4597,
+    "title": "docs: ARCHITECTURE.md gives applied-date-local-vs-utc.test.mjs as a naming example, but no such suite exists",
+    "url": "https://github.com/career-ops-hq/career-ops/issues/4597",
+    "comments": 0,
+    "createdAt": "2026-09-29T11:12:30Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "first-timers-only"
+    ],
+    "language": "javascript",
+    "stars": 73057,
+    "foundAt": "2026-09-29T16:00:58.975Z"
+  },
+  {
+    "key": "career-ops-hq/career-ops#4596",
+    "tier": 1,
+    "repo": "career-ops-hq/career-ops",
+    "number": 4596,
+    "title": "docs(i18n): the German and Chinese interview READMEs point to ../interview-prep.md, which does not exist from there",
+    "url": "https://github.com/career-ops-hq/career-ops/issues/4596",
+    "comments": 0,
+    "createdAt": "2026-09-29T11:12:16Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "first-timers-only"
+    ],
+    "language": "javascript",
+    "stars": 73057,
+    "foundAt": "2026-09-29T16:00:58.975Z"
+  },
+  {
+    "key": "career-ops-hq/career-ops#4595",
+    "tier": 1,
+    "repo": "career-ops-hq/career-ops",
+    "number": 4595,
+    "title": "docs(docker): DOCKER.md suggests ./cops npm test, but there is no test script",
+    "url": "https://github.com/career-ops-hq/career-ops/issues/4595",
+    "comments": 0,
+    "createdAt": "2026-09-29T11:12:01Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "first-timers-only"
+    ],
+    "language": "javascript",
+    "stars": 73057,
+    "foundAt": "2026-09-29T16:00:58.975Z"
+  },
+  {
+    "key": "career-ops-hq/career-ops#4594",
+    "tier": 1,
+    "repo": "career-ops-hq/career-ops",
+    "number": 4594,
+    "title": "docs(setup): the prerequisites miss the Node 22.5+ of the tracker index and the 22.6+ of the web UI",
+    "url": "https://github.com/career-ops-hq/career-ops/issues/4594",
+    "comments": 0,
+    "createdAt": "2026-09-29T11:11:47Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "first-timers-only"
+    ],
+    "language": "javascript",
+    "stars": 73057,
+    "foundAt": "2026-09-29T16:00:58.975Z"
+  },
+  {
+    "key": "career-ops-hq/career-ops#4593",
+    "tier": 1,
+    "repo": "career-ops-hq/career-ops",
+    "number": 4593,
+    "title": "docs: the READMEs and SKILL.md advertise an eu-fintech preset that does not exist",
+    "url": "https://github.com/career-ops-hq/career-ops/issues/4593",
+    "comments": 0,
+    "createdAt": "2026-09-29T11:11:33Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "first-timers-only"
+    ],
+    "language": "javascript",
+    "stars": 73057,
+    "foundAt": "2026-09-29T16:00:58.975Z"
+  },
+  {
+    "key": "meshery/meshery.io#3024",
+    "tier": 2,
+    "repo": "meshery/meshery.io",
+    "number": 3024,
+    "title": "[Bug] Catalog modal uses light snapshot for dark mode",
+    "url": "https://github.com/meshery/meshery.io/issues/3024",
+    "comments": 0,
+    "createdAt": "2026-09-29T15:45:31Z",
+    "labels": [
+      "kind/bug",
+      "help wanted"
+    ],
+    "language": "javascript",
+    "stars": 867,
+    "foundAt": "2026-09-29T16:01:00.319Z"
+  },
+  {
+    "key": "juspay/xyne-spaces#2443",
+    "tier": 2,
+    "repo": "juspay/xyne-spaces",
+    "number": 2443,
+    "title": "`.fig` uploads are silently rejected (missing from the upload allow-list)",
+    "url": "https://github.com/juspay/xyne-spaces/issues/2443",
+    "comments": 0,
+    "createdAt": "2026-09-29T13:52:34Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 794,
+    "foundAt": "2026-09-29T16:01:00.319Z"
+  },
+  {
+    "key": "meshery/meshery.io#3023",
+    "tier": 2,
+    "repo": "meshery/meshery.io",
+    "number": 3023,
+    "title": "[Blog] Clear stale search results when query drops below two characters",
+    "url": "https://github.com/meshery/meshery.io/issues/3023",
+    "comments": 1,
+    "createdAt": "2026-09-29T13:02:47Z",
+    "labels": [
+      "kind/bug",
+      "help wanted"
+    ],
+    "language": "javascript",
+    "stars": 867,
+    "foundAt": "2026-09-29T16:01:00.712Z"
+  },
+  {
+    "key": "ToolJet/ToolJet#18153",
+    "tier": 2,
+    "repo": "ToolJet/ToolJet",
+    "number": 18153,
+    "title": "OpenAI logo is not visible in dark mode",
+    "url": "https://github.com/ToolJet/ToolJet/issues/18153",
+    "comments": 0,
+    "createdAt": "2026-09-29T11:09:40Z",
+    "labels": [
+      "bug",
+      "hacktoberfest"
+    ],
+    "language": "javascript",
+    "stars": 41012,
+    "foundAt": "2026-09-29T16:01:00.998Z"
+  },
+  {
+    "key": "ToolJet/ToolJet#18152",
+    "tier": 2,
+    "repo": "ToolJet/ToolJet",
+    "number": 18152,
+    "title": "Anthropic logo is not visible in dark mode",
+    "url": "https://github.com/ToolJet/ToolJet/issues/18152",
+    "comments": 0,
+    "createdAt": "2026-09-29T11:08:43Z",
+    "labels": [
+      "bug",
+      "hacktoberfest"
+    ],
+    "language": "javascript",
+    "stars": 41012,
+    "foundAt": "2026-09-29T16:01:00.998Z"
+  },
+  {
+    "key": "ToolJet/ToolJet#18151",
+    "tier": 2,
+    "repo": "ToolJet/ToolJet",
+    "number": 18151,
+    "title": "Icon colour on disabled buttons is incorrect",
+    "url": "https://github.com/ToolJet/ToolJet/issues/18151",
+    "comments": 0,
+    "createdAt": "2026-09-29T10:55:18Z",
+    "labels": [
+      "bug",
+      "hacktoberfest"
+    ],
+    "language": "javascript",
+    "stars": 41012,
+    "foundAt": "2026-09-29T16:01:00.999Z"
+  },
+  {
+    "key": "ToolJet/ToolJet#18149",
+    "tier": 2,
+    "repo": "ToolJet/ToolJet",
+    "number": 18149,
+    "title": "Glitch: Tabs are moving on hover",
+    "url": "https://github.com/ToolJet/ToolJet/issues/18149",
+    "comments": 0,
+    "createdAt": "2026-09-29T10:46:37Z",
+    "labels": [
+      "bug",
+      "hacktoberfest"
+    ],
+    "language": "javascript",
+    "stars": 41012,
+    "foundAt": "2026-09-29T16:01:00.999Z"
+  },
+  {
+    "key": "ToolJet/ToolJet#18148",
+    "tier": 2,
+    "repo": "ToolJet/ToolJet",
+    "number": 18148,
+    "title": "Dark mode: Scroll colours",
+    "url": "https://github.com/ToolJet/ToolJet/issues/18148",
+    "comments": 0,
+    "createdAt": "2026-09-29T10:41:56Z",
+    "labels": [
+      "bug",
+      "hacktoberfest"
+    ],
+    "language": "javascript",
+    "stars": 41012,
+    "foundAt": "2026-09-29T16:01:00.999Z"
+  },
+  {
+    "key": "ToolJet/ToolJet#18146",
+    "tier": 2,
+    "repo": "ToolJet/ToolJet",
+    "number": 18146,
+    "title": "Dark mode: Toggle not visible",
+    "url": "https://github.com/ToolJet/ToolJet/issues/18146",
+    "comments": 0,
+    "createdAt": "2026-09-29T10:28:59Z",
+    "labels": [
+      "bug",
+      "hacktoberfest"
+    ],
+    "language": "javascript",
+    "stars": 41012,
+    "foundAt": "2026-09-29T16:01:00.999Z"
+  },
+  {
+    "key": "ToolJet/ToolJet#18145",
+    "tier": 2,
+    "repo": "ToolJet/ToolJet",
+    "number": 18145,
+    "title": "Dark mode: Workspace login",
+    "url": "https://github.com/ToolJet/ToolJet/issues/18145",
+    "comments": 0,
+    "createdAt": "2026-09-29T10:21:03Z",
+    "labels": [
+      "bug",
+      "hacktoberfest"
+    ],
+    "language": "javascript",
+    "stars": 41012,
+    "foundAt": "2026-09-29T16:01:00.999Z"
+  },
+  {
+    "key": "cloudflare/cloudflare-docs#33790",
+    "tier": 3,
+    "repo": "cloudflare/cloudflare-docs",
+    "number": 33790,
+    "title": "Create complete `cf` CLI, configuration, and migration documentation",
+    "url": "https://github.com/cloudflare/cloudflare-docs/issues/33790",
+    "comments": 0,
+    "createdAt": "2026-09-29T11:10:23Z",
+    "labels": [
+      "documentation",
+      "product:workers",
+      "content strategy",
+      "product:migration-guides",
+      "wrangler-commands"
+    ],
+    "language": "mdx",
+    "stars": 5260,
+    "foundAt": "2026-09-29T16:01:06.100Z"
+  },
+  {
     "key": "backstage/backstage#35918",
     "tier": 2,
     "repo": "backstage/backstage",
@@ -1357,641 +1900,5 @@
     "language": "typescript",
     "stars": 1702,
     "foundAt": "2026-09-28T15:40:58.756Z"
-  },
-  {
-    "key": "vitessce/vitessce#2619",
-    "tier": 3,
-    "repo": "vitessce/vitessce",
-    "number": 2619,
-    "title": "Document how to load data from huggingface",
-    "url": "https://github.com/vitessce/vitessce/issues/2619",
-    "comments": 0,
-    "createdAt": "2026-09-28T15:02:50Z",
-    "labels": [
-      "docs"
-    ],
-    "language": "javascript",
-    "stars": 269,
-    "foundAt": "2026-09-28T15:41:01.396Z"
-  },
-  {
-    "key": "cloudflare/cloudflare-docs#33736",
-    "tier": 3,
-    "repo": "cloudflare/cloudflare-docs",
-    "number": 33736,
-    "title": "mTLS page with reference to Github repo that does not exist",
-    "url": "https://github.com/cloudflare/cloudflare-docs/issues/33736",
-    "comments": 0,
-    "createdAt": "2026-09-28T13:05:24Z",
-    "labels": [
-      "documentation",
-      "content:edit",
-      "product:learning-paths"
-    ],
-    "language": "mdx",
-    "stars": 5260,
-    "foundAt": "2026-09-28T15:41:03.016Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31167",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31167,
-    "title": "[good first issue] 🥟 Add new Japanese Idiom 304 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31167",
-    "comments": 1,
-    "createdAt": "2026-09-28T07:00:58Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-28T07:06:32.991Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31166",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31166,
-    "title": "[good first issue] 🎎 Add new Video Game Quote 1195 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31166",
-    "comments": 1,
-    "createdAt": "2026-09-28T06:57:29Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-28T07:06:33.248Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31164",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31164,
-    "title": "[good first issue] 🦑 Add new Anime Quote 865 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31164",
-    "comments": 1,
-    "createdAt": "2026-09-28T06:01:02Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-28T07:06:33.485Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31163",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31163,
-    "title": "[good first issue] 🎍 Add new Grammar Point 1146 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31163",
-    "comments": 1,
-    "createdAt": "2026-09-28T05:57:27Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-28T07:06:33.485Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31158",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31158,
-    "title": "[good first issue] 🧧 Add new Trivia Question 1137 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31158",
-    "comments": 1,
-    "createdAt": "2026-09-28T05:00:54Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-28T07:06:34.015Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31157",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31157,
-    "title": "[good first issue] 🏯 Add new Japanese Haiku 103 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31157",
-    "comments": 1,
-    "createdAt": "2026-09-28T04:57:29Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-28T07:06:34.015Z"
-  },
-  {
-    "key": "code-charity/youtube#4363",
-    "tier": 1,
-    "repo": "code-charity/youtube",
-    "number": 4363,
-    "title": "💡 Add Option to Block OPUS Audio Codec.",
-    "url": "https://github.com/code-charity/youtube/issues/4363",
-    "comments": 1,
-    "createdAt": "2026-09-28T03:34:01Z",
-    "labels": [
-      "Feature request",
-      "help wanted",
-      "good first issue",
-      "up-for-grabs"
-    ],
-    "language": "javascript",
-    "stars": 4594,
-    "foundAt": "2026-09-28T07:06:34.440Z"
-  },
-  {
-    "key": "can1357/oh-my-pi#13588",
-    "tier": 3,
-    "repo": "can1357/oh-my-pi",
-    "number": 13588,
-    "title": "jevify notice example uses removed judge() handle API and fails with TypeError",
-    "url": "https://github.com/can1357/oh-my-pi/issues/13588",
-    "comments": 0,
-    "createdAt": "2026-09-28T06:34:39Z",
-    "labels": [
-      "documentation",
-      "tool",
-      "prompting",
-      "triaged"
-    ],
-    "language": "typescript",
-    "stars": 33540,
-    "foundAt": "2026-09-28T07:06:37.083Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31148",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31148,
-    "title": "[good first issue] 🐉 Add new Video Game Quote 626 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31148",
-    "comments": 1,
-    "createdAt": "2026-09-28T00:57:29Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-28T01:00:56.571Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31147",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31147,
-    "title": "[good first issue] 🍣 Add new Anime Quote 153 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31147",
-    "comments": 1,
-    "createdAt": "2026-09-28T00:00:57Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-28T01:00:57.347Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31146",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31146,
-    "title": "[good first issue] 🏮 Add new Grammar Point 639 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31146",
-    "comments": 1,
-    "createdAt": "2026-09-27T23:57:28Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-28T01:00:57.347Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31145",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31145,
-    "title": "[good first issue] 🍵 Add new Trivia Question 254 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31145",
-    "comments": 1,
-    "createdAt": "2026-09-27T23:00:57Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-28T01:00:57.347Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31144",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31144,
-    "title": "[good first issue] 🍘 Add new Japanese Proverb 1733 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31144",
-    "comments": 1,
-    "createdAt": "2026-09-27T22:57:28Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-28T01:00:57.347Z"
-  },
-  {
-    "key": "libredb/libredb-studio#1165",
-    "tier": 2,
-    "repo": "libredb/libredb-studio",
-    "number": 1165,
-    "title": "Backlog D39 and D44 point at lines that moved, and D44's remaining list is out of date",
-    "url": "https://github.com/libredb/libredb-studio/issues/1165",
-    "comments": 0,
-    "createdAt": "2026-09-27T22:30:36Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 890,
-    "foundAt": "2026-09-28T01:00:57.347Z"
-  },
-  {
-    "key": "libredb/libredb-studio#1164",
-    "tier": 2,
-    "repo": "libredb/libredb-studio",
-    "number": 1164,
-    "title": "Redis: the confirmation dialog asks about blocking commands the provider now refuses",
-    "url": "https://github.com/libredb/libredb-studio/issues/1164",
-    "comments": 0,
-    "createdAt": "2026-09-27T22:30:35Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "hacktoberfest",
-      "redis"
-    ],
-    "language": "typescript",
-    "stars": 890,
-    "foundAt": "2026-09-28T01:00:57.347Z"
-  },
-  {
-    "key": "videojs/v10#3004",
-    "tier": 3,
-    "repo": "videojs/v10",
-    "number": 3004,
-    "title": "Feature: Pause Other Players When One Starts",
-    "url": "https://github.com/videojs/v10/issues/3004",
-    "comments": 1,
-    "createdAt": "2026-09-28T00:54:27Z",
-    "labels": [
-      "docs",
-      "api",
-      "site",
-      "dx",
-      "pkg:core",
-      "pkg:html",
-      "pkg:react",
-      "media"
-    ],
-    "language": "typescript",
-    "stars": 961,
-    "foundAt": "2026-09-28T01:00:57.767Z"
-  },
-  {
-    "key": "videojs/v10#3003",
-    "tier": 3,
-    "repo": "videojs/v10",
-    "number": 3003,
-    "title": "Docs: React Media Event Props Are Only Documented in Migration Guides",
-    "url": "https://github.com/videojs/v10/issues/3003",
-    "comments": 1,
-    "createdAt": "2026-09-28T00:54:25Z",
-    "labels": [
-      "docs",
-      "api",
-      "pkg:react"
-    ],
-    "language": "typescript",
-    "stars": 961,
-    "foundAt": "2026-09-28T01:00:57.767Z"
-  },
-  {
-    "key": "videojs/v10#3002",
-    "tier": 3,
-    "repo": "videojs/v10",
-    "number": 3002,
-    "title": "Bug: Default Skin Hides the Captions Button on Players Narrower Than 32rem",
-    "url": "https://github.com/videojs/v10/issues/3002",
-    "comments": 1,
-    "createdAt": "2026-09-28T00:54:23Z",
-    "labels": [
-      "a11y",
-      "skin",
-      "bug"
-    ],
-    "language": "typescript",
-    "stars": 961,
-    "foundAt": "2026-09-28T01:00:57.767Z"
-  },
-  {
-    "key": "videojs/v10#2999",
-    "tier": 3,
-    "repo": "videojs/v10",
-    "number": 2999,
-    "title": "Bug: Agents Init Decision Guide Skips Multi-App Workspaces, Existing Video.js 8, and Editable Source Trade-Offs",
-    "url": "https://github.com/videojs/v10/issues/2999",
-    "comments": 1,
-    "createdAt": "2026-09-28T00:54:14Z",
-    "labels": [
-      "docs",
-      "site",
-      "dx",
-      "cli",
-      "bug"
-    ],
-    "language": "typescript",
-    "stars": 961,
-    "foundAt": "2026-09-28T01:00:57.767Z"
-  },
-  {
-    "key": "videojs/v10#2997",
-    "tier": 3,
-    "repo": "videojs/v10",
-    "number": 2997,
-    "title": "Bug: usePlayer Resolves to Any in the Published @videojs/react Declarations",
-    "url": "https://github.com/videojs/v10/issues/2997",
-    "comments": 1,
-    "createdAt": "2026-09-28T00:54:10Z",
-    "labels": [
-      "types",
-      "dx",
-      "pkg:react",
-      "bug"
-    ],
-    "language": "typescript",
-    "stars": 961,
-    "foundAt": "2026-09-28T01:00:57.767Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31143",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31143,
-    "title": "[good first issue] 🥟 Add new Japan Fact 2367 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31143",
-    "comments": 1,
-    "createdAt": "2026-09-27T22:00:58Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-27T22:23:35.817Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31142",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31142,
-    "title": "[good first issue] 🍛 Add new Theme: Sake Glass (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31142",
-    "comments": 1,
-    "createdAt": "2026-09-27T21:57:34Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-27T22:23:36.027Z"
-  },
-  {
-    "key": "amatya-aditya/obsidian-rss-dashboard#503",
-    "tier": 1,
-    "repo": "amatya-aditya/obsidian-rss-dashboard",
-    "number": 503,
-    "title": "Small Web back button has no keyboard access; remove dead Discover code and unused CSS",
-    "url": "https://github.com/amatya-aditya/obsidian-rss-dashboard/issues/503",
-    "comments": 0,
-    "createdAt": "2026-09-27T21:33:52Z",
-    "labels": [
-      "bug",
-      "status: accepted",
-      "priority: low",
-      "good first issue",
-      "area: dashboard",
-      "accessibility"
-    ],
-    "language": "typescript",
-    "stars": 670,
-    "foundAt": "2026-09-27T22:23:36.517Z"
-  },
-  {
-    "key": "vycdev/Kromacut#81",
-    "tier": 1,
-    "repo": "vycdev/Kromacut",
-    "number": 81,
-    "title": "docs: Add tutorial and introduction video links to README",
-    "url": "https://github.com/vycdev/Kromacut/issues/81",
-    "comments": 0,
-    "createdAt": "2026-09-27T21:08:39Z",
-    "labels": [
-      "documentation",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 283,
-    "foundAt": "2026-09-27T22:23:36.693Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31140",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31140,
-    "title": "[good first issue] 🦊 Add new Learner Mistake 728 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31140",
-    "comments": 1,
-    "createdAt": "2026-09-27T21:00:59Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-27T22:23:38.595Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31130",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31130,
-    "title": "[good first issue] 🗻 Add new Anime Quote 905 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31130",
-    "comments": 1,
-    "createdAt": "2026-09-27T18:00:57Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-27T18:32:48.846Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31129",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31129,
-    "title": "[good first issue] 🎍 Add new Grammar Point 304 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31129",
-    "comments": 1,
-    "createdAt": "2026-09-27T17:57:27Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-27T18:32:48.846Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31126",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31126,
-    "title": "[good first issue] 🍜 Add new Japanese Proverb 1193 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31126",
-    "comments": 1,
-    "createdAt": "2026-09-27T16:58:08Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-27T18:32:50.054Z"
   }
 ]
