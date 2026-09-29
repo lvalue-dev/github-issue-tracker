@@ -1,5 +1,123 @@
 [
   {
+    "key": "lingdojo/kana-dojo#31289",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31289,
+    "title": "[good first issue] 🐙 Add new Community Note Line #24 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31289",
+    "comments": 1,
+    "createdAt": "2026-09-29T20:01:01Z",
+    "labels": [
+      "documentation",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-29T20:55:42.339Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31288",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31288,
+    "title": "[good first issue] 🥢 Add new Learner Mistake 1024 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31288",
+    "comments": 1,
+    "createdAt": "2026-09-29T19:57:30Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-29T20:55:42.515Z"
+  },
+  {
+    "key": "layer5io/layer5#8158",
+    "tier": 2,
+    "repo": "layer5io/layer5",
+    "number": 8158,
+    "title": "Unwanted white border around \"Join the Conversation\" (Discuss) card on Learn, Community & FAQ pages",
+    "url": "https://github.com/layer5io/layer5/issues/8158",
+    "comments": 1,
+    "createdAt": "2026-09-29T18:43:58Z",
+    "labels": [
+      "kind/bug",
+      "help wanted",
+      "framework/gatsby"
+    ],
+    "language": "javascript",
+    "stars": 1136,
+    "foundAt": "2026-09-29T20:55:42.925Z"
+  },
+  {
+    "key": "quarto-dev/quarto-cli#14964",
+    "tier": 3,
+    "repo": "quarto-dev/quarto-cli",
+    "number": 14964,
+    "title": "The axe check misses revealjs contrast at desktop viewports",
+    "url": "https://github.com/quarto-dev/quarto-cli/issues/14964",
+    "comments": 0,
+    "createdAt": "2026-09-29T20:38:52Z",
+    "labels": [
+      "accessibility",
+      "revealjs"
+    ],
+    "language": "javascript",
+    "stars": 6016,
+    "foundAt": "2026-09-29T20:55:43.814Z"
+  },
+  {
+    "key": "quarto-dev/quarto-cli#14963",
+    "tier": 3,
+    "repo": "quarto-dev/quarto-cli",
+    "number": 14963,
+    "title": "Selected revealjs tab fails contrast on narrow screens",
+    "url": "https://github.com/quarto-dev/quarto-cli/issues/14963",
+    "comments": 0,
+    "createdAt": "2026-09-29T20:19:39Z",
+    "labels": [
+      "accessibility",
+      "revealjs",
+      "themes"
+    ],
+    "language": "javascript",
+    "stars": 6016,
+    "foundAt": "2026-09-29T20:55:44.452Z"
+  },
+  {
+    "key": "quarto-dev/quarto-cli#14962",
+    "tier": 3,
+    "repo": "quarto-dev/quarto-cli",
+    "number": 14962,
+    "title": "Default revealjs link colour fails text contrast at normal sizes",
+    "url": "https://github.com/quarto-dev/quarto-cli/issues/14962",
+    "comments": 0,
+    "createdAt": "2026-09-29T20:19:37Z",
+    "labels": [
+      "accessibility",
+      "revealjs",
+      "themes"
+    ],
+    "language": "javascript",
+    "stars": 6016,
+    "foundAt": "2026-09-29T20:55:44.452Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#31278",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1784,121 +1902,5 @@
     "language": "typescript",
     "stars": 12632,
     "foundAt": "2026-09-28T15:40:55.500Z"
-  },
-  {
-    "key": "corsairdev/corsair#1778",
-    "tier": 2,
-    "repo": "corsairdev/corsair",
-    "number": 1778,
-    "title": "Gmail usersGetProfile has schemas but no runtime endpoint",
-    "url": "https://github.com/corsairdev/corsair/issues/1778",
-    "comments": 0,
-    "createdAt": "2026-09-28T13:10:01Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "plugin",
-      "difficulty: easy"
-    ],
-    "language": "typescript",
-    "stars": 12632,
-    "foundAt": "2026-09-28T15:40:55.500Z"
-  },
-  {
-    "key": "corsairdev/corsair#1777",
-    "tier": 2,
-    "repo": "corsairdev/corsair",
-    "number": 1777,
-    "title": "Discord rate limits never retry because the client drops status",
-    "url": "https://github.com/corsairdev/corsair/issues/1777",
-    "comments": 0,
-    "createdAt": "2026-09-28T13:09:52Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "plugin",
-      "difficulty: easy"
-    ],
-    "language": "typescript",
-    "stars": 12632,
-    "foundAt": "2026-09-28T15:40:55.500Z"
-  },
-  {
-    "key": "corsairdev/corsair#1776",
-    "tier": 2,
-    "repo": "corsairdev/corsair",
-    "number": 1776,
-    "title": "CLI http rejects ports with surrounding whitespace",
-    "url": "https://github.com/corsairdev/corsair/issues/1776",
-    "comments": 0,
-    "createdAt": "2026-09-28T13:08:15Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "difficulty: easy"
-    ],
-    "language": "typescript",
-    "stars": 12632,
-    "foundAt": "2026-09-28T15:40:55.500Z"
-  },
-  {
-    "key": "corsairdev/corsair#1775",
-    "tier": 2,
-    "repo": "corsairdev/corsair",
-    "number": 1775,
-    "title": "MCP run_script formatter throws on BigInt and circular results",
-    "url": "https://github.com/corsairdev/corsair/issues/1775",
-    "comments": 0,
-    "createdAt": "2026-09-28T13:05:12Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "difficulty: easy"
-    ],
-    "language": "typescript",
-    "stars": 12632,
-    "foundAt": "2026-09-28T15:40:55.500Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31191",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31191,
-    "title": "[good first issue] 🐡 Add new Video Game Quote 1042 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31191",
-    "comments": 1,
-    "createdAt": "2026-09-28T12:57:33Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-28T15:40:55.500Z"
-  },
-  {
-    "key": "getnao/nao#1759",
-    "tier": 3,
-    "repo": "getnao/nao",
-    "number": 1759,
-    "title": "[docs] Clarify when an LLM key / token subscription is required vs not",
-    "url": "https://github.com/getnao/nao/issues/1759",
-    "comments": 0,
-    "createdAt": "2026-09-28T15:20:16Z",
-    "labels": [
-      "documentation",
-      "nao cli / context",
-      "P2:medium",
-      "user request"
-    ],
-    "language": "typescript",
-    "stars": 1702,
-    "foundAt": "2026-09-28T15:40:58.756Z"
   }
 ]

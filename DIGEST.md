@@ -4,6 +4,12 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-29 | 🥈 | [[good first issue] 🐙 Add new Community Note Line #24 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31289) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-29 | 🥈 | [[good first issue] 🥢 Add new Learner Mistake 1024 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31288) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-29 | 🥈 | [Unwanted white border around "Join the Conversation" (Discuss) card on Learn, Co](https://github.com/layer5io/layer5/issues/8158) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-29 | 🥉 | [The axe check misses revealjs contrast at desktop viewports](https://github.com/quarto-dev/quarto-cli/issues/14964) | `quarto-dev/quarto-cli` | ⭐ 6.0k |
+| 2026-09-29 | 🥉 | [Selected revealjs tab fails contrast on narrow screens](https://github.com/quarto-dev/quarto-cli/issues/14963) | `quarto-dev/quarto-cli` | ⭐ 6.0k |
+| 2026-09-29 | 🥉 | [Default revealjs link colour fails text contrast at normal sizes](https://github.com/quarto-dev/quarto-cli/issues/14962) | `quarto-dev/quarto-cli` | ⭐ 6.0k |
 | 2026-09-29 | 🥇 | [[good first issue] 🍵 Add new Theme: Gingko Gold (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31278) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-29 | 🥇 | [[good first issue] 🎍 Add new Etiquette Tip 1079 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31275) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-29 | 🥇 | [[good first issue] 🍢 Add new False Friend Pair 272 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31274) | `lingdojo/kana-dojo` | ⭐ 3.5k |
@@ -98,9 +104,3 @@
 | 2026-09-28 | 🥈 | [Twilio credential split truncates tokens with colons](https://github.com/corsairdev/corsair/issues/1781) | `corsairdev/corsair` | ⭐ 12.6k |
 | 2026-09-28 | 🥈 | [Twilio keyBuilder returns empty string on missing auth](https://github.com/corsairdev/corsair/issues/1780) | `corsairdev/corsair` | ⭐ 12.6k |
 | 2026-09-28 | 🥈 | [Airtable webhooks.getPayloads schema key does not match runtime](https://github.com/corsairdev/corsair/issues/1779) | `corsairdev/corsair` | ⭐ 12.6k |
-| 2026-09-28 | 🥈 | [Gmail usersGetProfile has schemas but no runtime endpoint](https://github.com/corsairdev/corsair/issues/1778) | `corsairdev/corsair` | ⭐ 12.6k |
-| 2026-09-28 | 🥈 | [Discord rate limits never retry because the client drops status](https://github.com/corsairdev/corsair/issues/1777) | `corsairdev/corsair` | ⭐ 12.6k |
-| 2026-09-28 | 🥈 | [CLI http rejects ports with surrounding whitespace](https://github.com/corsairdev/corsair/issues/1776) | `corsairdev/corsair` | ⭐ 12.6k |
-| 2026-09-28 | 🥈 | [MCP run_script formatter throws on BigInt and circular results](https://github.com/corsairdev/corsair/issues/1775) | `corsairdev/corsair` | ⭐ 12.6k |
-| 2026-09-28 | 🥈 | [[good first issue] 🐡 Add new Video Game Quote 1042 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31191) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-28 | 🥉 | [[docs] Clarify when an LLM key / token subscription is required vs not](https://github.com/getnao/nao/issues/1759) | `getnao/nao` | ⭐ 1.7k |
