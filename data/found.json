@@ -1,5 +1,124 @@
 [
   {
+    "key": "backstage/backstage#35918",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35918,
+    "title": "Snyk vulnerability [SNYK-JS-BRACEEXPANSION-20244950]",
+    "url": "https://github.com/backstage/backstage/issues/35918",
+    "comments": 0,
+    "createdAt": "2026-09-29T08:13:20Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34522,
+    "foundAt": "2026-09-29T08:45:36.483Z"
+  },
+  {
+    "key": "backstage/backstage#35917",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35917,
+    "title": "Snyk vulnerability [SNYK-JS-BRACEEXPANSION-20244952]",
+    "url": "https://github.com/backstage/backstage/issues/35917",
+    "comments": 0,
+    "createdAt": "2026-09-29T08:13:12Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34522,
+    "foundAt": "2026-09-29T08:45:36.483Z"
+  },
+  {
+    "key": "backstage/backstage#35916",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35916,
+    "title": "Snyk vulnerability [SNYK-JS-BRACEEXPANSION-20244948]",
+    "url": "https://github.com/backstage/backstage/issues/35916",
+    "comments": 0,
+    "createdAt": "2026-09-29T08:13:10Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34522,
+    "foundAt": "2026-09-29T08:45:36.483Z"
+  },
+  {
+    "key": "XCQ0607/lxserver#409",
+    "tier": 2,
+    "repo": "XCQ0607/lxserver",
+    "number": 409,
+    "title": "[help] 同步提示不明",
+    "url": "https://github.com/XCQ0607/lxserver/issues/409",
+    "comments": 0,
+    "createdAt": "2026-09-29T06:23:22Z",
+    "labels": [
+      "help wanted",
+      "question"
+    ],
+    "language": "javascript",
+    "stars": 875,
+    "foundAt": "2026-09-29T08:45:36.871Z"
+  },
+  {
+    "key": "layer5io/layer5#8155",
+    "tier": 2,
+    "repo": "layer5io/layer5",
+    "number": 8155,
+    "title": "[UI]: \"Learn more →\" link misaligned on mobile/responsive view of Cloud Native Deployments by Diagram page",
+    "url": "https://github.com/layer5io/layer5/issues/8155",
+    "comments": 1,
+    "createdAt": "2026-09-29T02:10:48Z",
+    "labels": [
+      "kind/bug",
+      "help wanted",
+      "framework/gatsby"
+    ],
+    "language": "javascript",
+    "stars": 1136,
+    "foundAt": "2026-09-29T08:45:36.871Z"
+  },
+  {
+    "key": "cloudflare/cf#37",
+    "tier": 3,
+    "repo": "cloudflare/cf",
+    "number": 37,
+    "title": "Document supported `cf` environment variables",
+    "url": "https://github.com/cloudflare/cf/issues/37",
+    "comments": 0,
+    "createdAt": "2026-09-29T08:18:57Z",
+    "labels": [
+      "documentation",
+      "priority: p2"
+    ],
+    "language": "typescript",
+    "stars": 360,
+    "foundAt": "2026-09-29T08:45:37.998Z"
+  },
+  {
+    "key": "upstash/context7#3258",
+    "tier": 3,
+    "repo": "upstash/context7",
+    "number": 3258,
+    "title": "[Docs]: https://financialfilings.com/developers/",
+    "url": "https://github.com/upstash/context7/issues/3258",
+    "comments": 0,
+    "createdAt": "2026-09-29T08:04:32Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "typescript",
+    "stars": 62510,
+    "foundAt": "2026-09-29T08:45:39.145Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#31236",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1874,147 +1993,5 @@
     "language": "typescript",
     "stars": 3454,
     "foundAt": "2026-09-27T18:32:50.054Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31125",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31125,
-    "title": "[good first issue] 🍣 Add new Japan Fact 714 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31125",
-    "comments": 1,
-    "createdAt": "2026-09-27T16:01:03Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-27T18:32:50.257Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31124",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31124,
-    "title": "[good first issue] 🎍 Add new Theme: Matcha Cream (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31124",
-    "comments": 1,
-    "createdAt": "2026-09-27T15:57:31Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-27T18:32:50.257Z"
-  },
-  {
-    "key": "libredb/libredb-studio#1156",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 1156,
-    "title": "Editing a connection after another edit target keeps the first one's SSH tunnel and TLS settings",
-    "url": "https://github.com/libredb/libredb-studio/issues/1156",
-    "comments": 2,
-    "createdAt": "2026-09-27T15:24:53Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "help wanted",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 890,
-    "foundAt": "2026-09-27T18:32:50.675Z"
-  },
-  {
-    "key": "medusajs/medusa#17033",
-    "tier": 1,
-    "repo": "medusajs/medusa",
-    "number": 17033,
-    "title": "[Bug]: db:migrate exits 0 when a migration script fails (db:migrate:scripts exit code is discarded)",
-    "url": "https://github.com/medusajs/medusa/issues/17033",
-    "comments": 2,
-    "createdAt": "2026-09-27T14:27:56Z",
-    "labels": [
-      "good first issue",
-      "type: bug"
-    ],
-    "language": "typescript",
-    "stars": 36448,
-    "foundAt": "2026-09-27T18:32:51.048Z"
-  },
-  {
-    "key": "webdriverio/webdriverio#15739",
-    "tier": 2,
-    "repo": "webdriverio/webdriverio",
-    "number": 15739,
-    "title": "[v10] Re-enable the component-testing mock suite (`test:browser:misc`)",
-    "url": "https://github.com/webdriverio/webdriverio/issues/15739",
-    "comments": 1,
-    "createdAt": "2026-09-27T15:43:38Z",
-    "labels": [
-      "Bug 🐛",
-      "help wanted",
-      "Protocol Related",
-      "Tracking 🗒",
-      "v10"
-    ],
-    "language": "typescript",
-    "stars": 9841,
-    "foundAt": "2026-09-27T18:32:52.524Z"
-  },
-  {
-    "key": "libredb/libredb-studio#1155",
-    "tier": 2,
-    "repo": "libredb/libredb-studio",
-    "number": 1155,
-    "title": "Saving a new connection with the dialog left open keeps its host, TLS and SSH tunnel for the next one",
-    "url": "https://github.com/libredb/libredb-studio/issues/1155",
-    "comments": 0,
-    "createdAt": "2026-09-27T15:24:51Z",
-    "labels": [
-      "bug",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 890,
-    "foundAt": "2026-09-27T18:32:52.524Z"
-  },
-  {
-    "key": "reticlehq/reticle#1156",
-    "tier": 1,
-    "repo": "reticlehq/reticle",
-    "number": 1156,
-    "title": "[agent] `reticle_clock` cannot advance timers the page scheduled before `freeze`, and the docs do not say so",
-    "url": "https://github.com/reticlehq/reticle/issues/1156",
-    "comments": 0,
-    "createdAt": "2026-09-27T14:05:34Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "help wanted",
-      "agent-reported",
-      "area/browser",
-      "area/docs",
-      "P2",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 900,
-    "foundAt": "2026-09-27T14:11:11.143Z"
   }
 ]

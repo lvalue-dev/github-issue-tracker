@@ -4,6 +4,13 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-29 | 🥈 | [Snyk vulnerability [SNYK-JS-BRACEEXPANSION-20244950]](https://github.com/backstage/backstage/issues/35918) | `backstage/backstage` | ⭐ 34.5k |
+| 2026-09-29 | 🥈 | [Snyk vulnerability [SNYK-JS-BRACEEXPANSION-20244952]](https://github.com/backstage/backstage/issues/35917) | `backstage/backstage` | ⭐ 34.5k |
+| 2026-09-29 | 🥈 | [Snyk vulnerability [SNYK-JS-BRACEEXPANSION-20244948]](https://github.com/backstage/backstage/issues/35916) | `backstage/backstage` | ⭐ 34.5k |
+| 2026-09-29 | 🥈 | [[help] 同步提示不明](https://github.com/XCQ0607/lxserver/issues/409) | `XCQ0607/lxserver` | ⭐ 875 |
+| 2026-09-29 | 🥈 | [[UI]: "Learn more →" link misaligned on mobile/responsive view of Cloud Native D](https://github.com/layer5io/layer5/issues/8155) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-09-29 | 🥉 | [Document supported `cf` environment variables](https://github.com/cloudflare/cf/issues/37) | `cloudflare/cf` | ⭐ 360 |
+| 2026-09-29 | 🥉 | [[Docs]: https://financialfilings.com/developers/](https://github.com/upstash/context7/issues/3258) | `upstash/context7` | ⭐ 62.5k |
 | 2026-09-29 | 🥇 | [[good first issue] 🍡 Add new Etiquette Tip 453 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31236) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-29 | 🥇 | [[good first issue] 🍚 Add new False Friend Pair 754 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31235) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-29 | 🥇 | [[good first issue] 🎌 Add new Dialect Entry 1018 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31234) | `lingdojo/kana-dojo` | ⭐ 3.5k |
@@ -97,10 +104,3 @@
 | 2026-09-27 | 🥇 | [[good first issue] 🗻 Add new Anime Quote 905 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31130) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-27 | 🥇 | [[good first issue] 🎍 Add new Grammar Point 304 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31129) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-27 | 🥇 | [[good first issue] 🍜 Add new Japanese Proverb 1193 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31126) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-27 | 🥇 | [[good first issue] 🍣 Add new Japan Fact 714 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31125) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-27 | 🥇 | [[good first issue] 🎍 Add new Theme: Matcha Cream (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31124) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-27 | 🥇 | [Editing a connection after another edit target keeps the first one's SSH tunnel ](https://github.com/libredb/libredb-studio/issues/1156) | `libredb/libredb-studio` | ⭐ 890 |
-| 2026-09-27 | 🥇 | [[Bug]: db:migrate exits 0 when a migration script fails (db:migrate:scripts exit](https://github.com/medusajs/medusa/issues/17033) | `medusajs/medusa` | ⭐ 36.4k |
-| 2026-09-27 | 🥈 | [[v10] Re-enable the component-testing mock suite (`test:browser:misc`)](https://github.com/webdriverio/webdriverio/issues/15739) | `webdriverio/webdriverio` | ⭐ 9.8k |
-| 2026-09-27 | 🥈 | [Saving a new connection with the dialog left open keeps its host, TLS and SSH tu](https://github.com/libredb/libredb-studio/issues/1155) | `libredb/libredb-studio` | ⭐ 890 |
-| 2026-09-27 | 🥇 | [[agent] `reticle_clock` cannot advance timers the page scheduled before `freeze`](https://github.com/reticlehq/reticle/issues/1156) | `reticlehq/reticle` | ⭐ 900 |
