@@ -4,6 +4,23 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-30 | 🥇 | [[good first issue] 🎎 Add new Dialect Entry 1188 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31318) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-30 | 🥇 | [[good first issue] 🍢 Add new Japanese Idiom 943 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31317) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-30 | 🥇 | [[good first issue] 🀄 Add new Grammar Point 355 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31315) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-30 | 🥇 | [[good first issue] 🍙 Add new Japanese Proverb 1635 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31314) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-30 | 🥇 | [📢 Request for New Additions & Updates](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026/issues/332) | `ARUNAGIRINATHAN-K/awesome-ai-agents-2026` | ⭐ 349 |
+| 2026-09-30 | 🥇 | [[good first issue] 🌺 Add new Japan Fact 2325 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31313) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-30 | 🥇 | [[good first issue] 🍵 Add new Theme: Ramen Steam (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31312) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-30 | 🥇 | [[good first issue] 🎴 Add new Wallpaper URL #43 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31305) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-30 | 🥇 | [[good first issue] 🌋 Add new Learner Mistake 279 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31304) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-30 | 🥇 | [[good first issue] 🎴 Add new Example Sentence 192 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31303) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-30 | 🥈 | [[Marketplace] Add Segment plugin](https://github.com/ToolJet/ToolJet/issues/18172) | `ToolJet/ToolJet` | ⭐ 41.0k |
+| 2026-09-30 | 🥈 | [[Marketplace] Add Dropbox plugin](https://github.com/ToolJet/ToolJet/issues/18171) | `ToolJet/ToolJet` | ⭐ 41.0k |
+| 2026-09-30 | 🥈 | [[Marketplace] Add Smartsheet plugin](https://github.com/ToolJet/ToolJet/issues/18170) | `ToolJet/ToolJet` | ⭐ 41.0k |
+| 2026-09-30 | 🥈 | [[Marketplace] Add GitLab plugin](https://github.com/ToolJet/ToolJet/issues/18169) | `ToolJet/ToolJet` | ⭐ 41.0k |
+| 2026-09-30 | 🥈 | [[Marketplace] Add Linear plugin](https://github.com/ToolJet/ToolJet/issues/18168) | `ToolJet/ToolJet` | ⭐ 41.0k |
+| 2026-09-30 | 🥈 | [Help wanted: test API-first content workflows across nine CMS platforms](https://github.com/webbrain-one/webbrain/issues/3115) | `webbrain-one/webbrain` | ⭐ 1.1k |
+| 2026-09-30 | 🥉 | [[DOC]Rungrot Saisukhon:0105546149531_B030300002A1729.m51A0L917924692](https://github.com/Studio-42/elFinder/issues/3805) | `Studio-42/elFinder` | ⭐ 4.8k |
 | 2026-09-30 | 🥇 | [[good first issue] 🍶 Add new Japanese Idiom 455 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31299) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-30 | 🥇 | [[good first issue] 🍥 Add new Video Game Quote 1072 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31298) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-30 | 🥇 | [[good first issue] 🦊 Add new Anime Quote 686 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31296) | `lingdojo/kana-dojo` | ⭐ 3.5k |
@@ -87,20 +104,3 @@
 | 2026-09-28 | 🥈 | [feat(block): add `design-system` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/163) | `shadcn-labs/ogimagecn` | ⭐ 235 |
 | 2026-09-28 | 🥈 | [feat(block): add `integration` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/162) | `shadcn-labs/ogimagecn` | ⭐ 235 |
 | 2026-09-28 | 🥈 | [feat(block): add `feature-update` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/161) | `shadcn-labs/ogimagecn` | ⭐ 235 |
-| 2026-09-28 | 🥈 | [feat(block): add `certification` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/160) | `shadcn-labs/ogimagecn` | ⭐ 235 |
-| 2026-09-28 | 🥈 | [feat(block): add `award` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/159) | `shadcn-labs/ogimagecn` | ⭐ 235 |
-| 2026-09-28 | 🥈 | [feat(block): add `bundle` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/158) | `shadcn-labs/ogimagecn` | ⭐ 235 |
-| 2026-09-28 | 🥈 | [feat(block): add `referral` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/157) | `shadcn-labs/ogimagecn` | ⭐ 235 |
-| 2026-09-28 | 🥈 | [feat(block): add `gift-card` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/156) | `shadcn-labs/ogimagecn` | ⭐ 235 |
-| 2026-09-28 | 🥈 | [feat(block): add `event-ticket-qr` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/155) | `shadcn-labs/ogimagecn` | ⭐ 235 |
-| 2026-09-28 | 🥈 | [feat(block): add `browser-extension` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/154) | `shadcn-labs/ogimagecn` | ⭐ 235 |
-| 2026-09-28 | 🥈 | [feat(block): add `mobile-app` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/153) | `shadcn-labs/ogimagecn` | ⭐ 235 |
-| 2026-09-28 | 🥈 | [feat(block): add `earnings` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/152) | `shadcn-labs/ogimagecn` | ⭐ 235 |
-| 2026-09-28 | 🥈 | [feat(block): add `market-update` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/151) | `shadcn-labs/ogimagecn` | ⭐ 235 |
-| 2026-09-28 | 🥈 | [feat(block): add `dashboard` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/150) | `shadcn-labs/ogimagecn` | ⭐ 235 |
-| 2026-09-28 | 🥉 | [Revealjs line highlighting cannot meet WCAG contrast](https://github.com/quarto-dev/quarto-cli/issues/14959) | `quarto-dev/quarto-cli` | ⭐ 6.0k |
-| 2026-09-28 | 🥇 | [[good first issue] 🏮 Add new Learner Mistake 350 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31200) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-28 | 🥇 | [[UI Migration] CharacterCount](https://github.com/ONEARMY/community-platform/issues/4933) | `ONEARMY/community-platform` | ⭐ 1.4k |
-| 2026-09-28 | 🥇 | [[good first issue] 🌺 Add new Example Sentence 358 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31198) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-28 | 🥇 | [[good first issue] 🥢 Add new False Friend Pair 1004 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31195) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-28 | 🥈 | [[Bug] Meshery installer fails when MESHERY_INSTALL_DIR contains spaces](https://github.com/meshery/meshery.io/issues/3019) | `meshery/meshery.io` | ⭐ 867 |

@@ -1,5 +1,365 @@
 [
   {
+    "key": "lingdojo/kana-dojo#31318",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31318,
+    "title": "[good first issue] 🎎 Add new Dialect Entry 1188 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31318",
+    "comments": 1,
+    "createdAt": "2026-09-30T06:01:00Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-30T06:54:26.160Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31317",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31317,
+    "title": "[good first issue] 🍢 Add new Japanese Idiom 943 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31317",
+    "comments": 1,
+    "createdAt": "2026-09-30T05:57:32Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-30T06:54:26.160Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31315",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31315,
+    "title": "[good first issue] 🀄 Add new Grammar Point 355 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31315",
+    "comments": 1,
+    "createdAt": "2026-09-30T05:00:56Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-30T06:54:26.447Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31314",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31314,
+    "title": "[good first issue] 🍙 Add new Japanese Proverb 1635 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31314",
+    "comments": 1,
+    "createdAt": "2026-09-30T04:57:35Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-30T06:54:26.447Z"
+  },
+  {
+    "key": "ARUNAGIRINATHAN-K/awesome-ai-agents-2026#332",
+    "tier": 1,
+    "repo": "ARUNAGIRINATHAN-K/awesome-ai-agents-2026",
+    "number": 332,
+    "title": "📢 Request for New Additions & Updates",
+    "url": "https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026/issues/332",
+    "comments": 0,
+    "createdAt": "2026-09-30T04:08:42Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "maintenance"
+    ],
+    "language": "typescript",
+    "stars": 349,
+    "foundAt": "2026-09-30T06:54:26.947Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31313",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31313,
+    "title": "[good first issue] 🌺 Add new Japan Fact 2325 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31313",
+    "comments": 1,
+    "createdAt": "2026-09-30T04:00:57Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-30T06:54:26.947Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31312",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31312,
+    "title": "[good first issue] 🍵 Add new Theme: Ramen Steam (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31312",
+    "comments": 1,
+    "createdAt": "2026-09-30T03:57:28Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-30T06:54:26.947Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31305",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31305,
+    "title": "[good first issue] 🎴 Add new Wallpaper URL #43 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31305",
+    "comments": 1,
+    "createdAt": "2026-09-30T02:57:27Z",
+    "labels": [
+      "documentation",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-30T06:54:28.350Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31304",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31304,
+    "title": "[good first issue] 🌋 Add new Learner Mistake 279 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31304",
+    "comments": 1,
+    "createdAt": "2026-09-30T02:01:01Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-30T06:54:28.350Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31303",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31303,
+    "title": "[good first issue] 🎴 Add new Example Sentence 192 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31303",
+    "comments": 1,
+    "createdAt": "2026-09-30T01:57:28Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-30T06:54:28.350Z"
+  },
+  {
+    "key": "ToolJet/ToolJet#18172",
+    "tier": 2,
+    "repo": "ToolJet/ToolJet",
+    "number": 18172,
+    "title": "[Marketplace] Add Segment plugin",
+    "url": "https://github.com/ToolJet/ToolJet/issues/18172",
+    "comments": 0,
+    "createdAt": "2026-09-30T06:22:49Z",
+    "labels": [
+      "feature request",
+      "hacktoberfest",
+      "up-for-grabs",
+      "marketplace",
+      "community contribution"
+    ],
+    "language": "javascript",
+    "stars": 41012,
+    "foundAt": "2026-09-30T06:54:37.116Z"
+  },
+  {
+    "key": "ToolJet/ToolJet#18171",
+    "tier": 2,
+    "repo": "ToolJet/ToolJet",
+    "number": 18171,
+    "title": "[Marketplace] Add Dropbox plugin",
+    "url": "https://github.com/ToolJet/ToolJet/issues/18171",
+    "comments": 0,
+    "createdAt": "2026-09-30T06:21:36Z",
+    "labels": [
+      "feature request",
+      "hacktoberfest",
+      "up-for-grabs",
+      "marketplace",
+      "community contribution"
+    ],
+    "language": "javascript",
+    "stars": 41012,
+    "foundAt": "2026-09-30T06:54:37.116Z"
+  },
+  {
+    "key": "ToolJet/ToolJet#18170",
+    "tier": 2,
+    "repo": "ToolJet/ToolJet",
+    "number": 18170,
+    "title": "[Marketplace] Add Smartsheet plugin",
+    "url": "https://github.com/ToolJet/ToolJet/issues/18170",
+    "comments": 0,
+    "createdAt": "2026-09-30T06:20:09Z",
+    "labels": [
+      "feature request",
+      "hacktoberfest",
+      "up-for-grabs",
+      "marketplace",
+      "community contribution"
+    ],
+    "language": "javascript",
+    "stars": 41012,
+    "foundAt": "2026-09-30T06:54:37.116Z"
+  },
+  {
+    "key": "ToolJet/ToolJet#18169",
+    "tier": 2,
+    "repo": "ToolJet/ToolJet",
+    "number": 18169,
+    "title": "[Marketplace] Add GitLab plugin",
+    "url": "https://github.com/ToolJet/ToolJet/issues/18169",
+    "comments": 0,
+    "createdAt": "2026-09-30T06:19:27Z",
+    "labels": [
+      "feature request",
+      "hacktoberfest",
+      "up-for-grabs",
+      "marketplace",
+      "community contribution"
+    ],
+    "language": "javascript",
+    "stars": 41012,
+    "foundAt": "2026-09-30T06:54:37.116Z"
+  },
+  {
+    "key": "ToolJet/ToolJet#18168",
+    "tier": 2,
+    "repo": "ToolJet/ToolJet",
+    "number": 18168,
+    "title": "[Marketplace] Add Linear plugin",
+    "url": "https://github.com/ToolJet/ToolJet/issues/18168",
+    "comments": 0,
+    "createdAt": "2026-09-30T06:18:13Z",
+    "labels": [
+      "feature request",
+      "hacktoberfest",
+      "up-for-grabs",
+      "marketplace",
+      "community contribution"
+    ],
+    "language": "javascript",
+    "stars": 41012,
+    "foundAt": "2026-09-30T06:54:37.116Z"
+  },
+  {
+    "key": "webbrain-one/webbrain#3115",
+    "tier": 2,
+    "repo": "webbrain-one/webbrain",
+    "number": 3115,
+    "title": "Help wanted: test API-first content workflows across nine CMS platforms",
+    "url": "https://github.com/webbrain-one/webbrain/issues/3115",
+    "comments": 1,
+    "createdAt": "2026-09-30T03:48:00Z",
+    "labels": [
+      "help wanted"
+    ],
+    "language": "javascript",
+    "stars": 1143,
+    "foundAt": "2026-09-30T06:54:37.339Z"
+  },
+  {
+    "key": "Studio-42/elFinder#3805",
+    "tier": 3,
+    "repo": "Studio-42/elFinder",
+    "number": 3805,
+    "title": "[DOC]Rungrot Saisukhon:0105546149531_B030300002A1729.m51A0L917924692",
+    "url": "https://github.com/Studio-42/elFinder/issues/3805",
+    "comments": 0,
+    "createdAt": "2026-09-30T05:55:04Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "javascript",
+    "stars": 4805,
+    "foundAt": "2026-09-30T06:54:41.737Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#31299",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1591,336 +1951,5 @@
     "language": "typescript",
     "stars": 235,
     "foundAt": "2026-09-28T22:10:46.992Z"
-  },
-  {
-    "key": "shadcn-labs/ogimagecn#160",
-    "tier": 2,
-    "repo": "shadcn-labs/ogimagecn",
-    "number": 160,
-    "title": "feat(block): add `certification` OG image template",
-    "url": "https://github.com/shadcn-labs/ogimagecn/issues/160",
-    "comments": 0,
-    "createdAt": "2026-09-28T20:20:26Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted",
-      "block"
-    ],
-    "language": "typescript",
-    "stars": 235,
-    "foundAt": "2026-09-28T22:10:46.992Z"
-  },
-  {
-    "key": "shadcn-labs/ogimagecn#159",
-    "tier": 2,
-    "repo": "shadcn-labs/ogimagecn",
-    "number": 159,
-    "title": "feat(block): add `award` OG image template",
-    "url": "https://github.com/shadcn-labs/ogimagecn/issues/159",
-    "comments": 0,
-    "createdAt": "2026-09-28T20:20:24Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted",
-      "block"
-    ],
-    "language": "typescript",
-    "stars": 235,
-    "foundAt": "2026-09-28T22:10:46.992Z"
-  },
-  {
-    "key": "shadcn-labs/ogimagecn#158",
-    "tier": 2,
-    "repo": "shadcn-labs/ogimagecn",
-    "number": 158,
-    "title": "feat(block): add `bundle` OG image template",
-    "url": "https://github.com/shadcn-labs/ogimagecn/issues/158",
-    "comments": 0,
-    "createdAt": "2026-09-28T20:20:21Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted",
-      "block"
-    ],
-    "language": "typescript",
-    "stars": 235,
-    "foundAt": "2026-09-28T22:10:46.992Z"
-  },
-  {
-    "key": "shadcn-labs/ogimagecn#157",
-    "tier": 2,
-    "repo": "shadcn-labs/ogimagecn",
-    "number": 157,
-    "title": "feat(block): add `referral` OG image template",
-    "url": "https://github.com/shadcn-labs/ogimagecn/issues/157",
-    "comments": 0,
-    "createdAt": "2026-09-28T20:20:19Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted",
-      "block"
-    ],
-    "language": "typescript",
-    "stars": 235,
-    "foundAt": "2026-09-28T22:10:46.992Z"
-  },
-  {
-    "key": "shadcn-labs/ogimagecn#156",
-    "tier": 2,
-    "repo": "shadcn-labs/ogimagecn",
-    "number": 156,
-    "title": "feat(block): add `gift-card` OG image template",
-    "url": "https://github.com/shadcn-labs/ogimagecn/issues/156",
-    "comments": 0,
-    "createdAt": "2026-09-28T20:20:16Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted",
-      "block"
-    ],
-    "language": "typescript",
-    "stars": 235,
-    "foundAt": "2026-09-28T22:10:46.992Z"
-  },
-  {
-    "key": "shadcn-labs/ogimagecn#155",
-    "tier": 2,
-    "repo": "shadcn-labs/ogimagecn",
-    "number": 155,
-    "title": "feat(block): add `event-ticket-qr` OG image template",
-    "url": "https://github.com/shadcn-labs/ogimagecn/issues/155",
-    "comments": 0,
-    "createdAt": "2026-09-28T20:20:13Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted",
-      "block"
-    ],
-    "language": "typescript",
-    "stars": 235,
-    "foundAt": "2026-09-28T22:10:46.992Z"
-  },
-  {
-    "key": "shadcn-labs/ogimagecn#154",
-    "tier": 2,
-    "repo": "shadcn-labs/ogimagecn",
-    "number": 154,
-    "title": "feat(block): add `browser-extension` OG image template",
-    "url": "https://github.com/shadcn-labs/ogimagecn/issues/154",
-    "comments": 0,
-    "createdAt": "2026-09-28T20:20:10Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted",
-      "block"
-    ],
-    "language": "typescript",
-    "stars": 235,
-    "foundAt": "2026-09-28T22:10:46.992Z"
-  },
-  {
-    "key": "shadcn-labs/ogimagecn#153",
-    "tier": 2,
-    "repo": "shadcn-labs/ogimagecn",
-    "number": 153,
-    "title": "feat(block): add `mobile-app` OG image template",
-    "url": "https://github.com/shadcn-labs/ogimagecn/issues/153",
-    "comments": 0,
-    "createdAt": "2026-09-28T20:20:07Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted",
-      "block"
-    ],
-    "language": "typescript",
-    "stars": 235,
-    "foundAt": "2026-09-28T22:10:46.992Z"
-  },
-  {
-    "key": "shadcn-labs/ogimagecn#152",
-    "tier": 2,
-    "repo": "shadcn-labs/ogimagecn",
-    "number": 152,
-    "title": "feat(block): add `earnings` OG image template",
-    "url": "https://github.com/shadcn-labs/ogimagecn/issues/152",
-    "comments": 0,
-    "createdAt": "2026-09-28T20:20:05Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted",
-      "block"
-    ],
-    "language": "typescript",
-    "stars": 235,
-    "foundAt": "2026-09-28T22:10:46.992Z"
-  },
-  {
-    "key": "shadcn-labs/ogimagecn#151",
-    "tier": 2,
-    "repo": "shadcn-labs/ogimagecn",
-    "number": 151,
-    "title": "feat(block): add `market-update` OG image template",
-    "url": "https://github.com/shadcn-labs/ogimagecn/issues/151",
-    "comments": 0,
-    "createdAt": "2026-09-28T20:20:01Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted",
-      "block"
-    ],
-    "language": "typescript",
-    "stars": 235,
-    "foundAt": "2026-09-28T22:10:46.992Z"
-  },
-  {
-    "key": "shadcn-labs/ogimagecn#150",
-    "tier": 2,
-    "repo": "shadcn-labs/ogimagecn",
-    "number": 150,
-    "title": "feat(block): add `dashboard` OG image template",
-    "url": "https://github.com/shadcn-labs/ogimagecn/issues/150",
-    "comments": 0,
-    "createdAt": "2026-09-28T20:19:58Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted",
-      "block"
-    ],
-    "language": "typescript",
-    "stars": 235,
-    "foundAt": "2026-09-28T22:10:46.992Z"
-  },
-  {
-    "key": "quarto-dev/quarto-cli#14959",
-    "tier": 3,
-    "repo": "quarto-dev/quarto-cli",
-    "number": 14959,
-    "title": "Revealjs line highlighting cannot meet WCAG contrast",
-    "url": "https://github.com/quarto-dev/quarto-cli/issues/14959",
-    "comments": 0,
-    "createdAt": "2026-09-28T21:58:28Z",
-    "labels": [
-      "accessibility",
-      "revealjs"
-    ],
-    "language": "javascript",
-    "stars": 6016,
-    "foundAt": "2026-09-28T22:10:49.435Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31200",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31200,
-    "title": "[good first issue] 🏮 Add new Learner Mistake 350 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31200",
-    "comments": 1,
-    "createdAt": "2026-09-28T15:01:03Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-28T15:40:49.321Z"
-  },
-  {
-    "key": "ONEARMY/community-platform#4933",
-    "tier": 1,
-    "repo": "ONEARMY/community-platform",
-    "number": 4933,
-    "title": "[UI Migration] CharacterCount",
-    "url": "https://github.com/ONEARMY/community-platform/issues/4933",
-    "comments": 0,
-    "createdAt": "2026-09-28T14:58:14Z",
-    "labels": [
-      "Good first issue",
-      "Help wanted",
-      "Difficulty: Easy",
-      "UI Migration"
-    ],
-    "language": "typescript",
-    "stars": 1403,
-    "foundAt": "2026-09-28T15:40:49.567Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31198",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31198,
-    "title": "[good first issue] 🌺 Add new Example Sentence 358 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31198",
-    "comments": 1,
-    "createdAt": "2026-09-28T14:57:34Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-28T15:40:49.567Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31195",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31195,
-    "title": "[good first issue] 🥢 Add new False Friend Pair 1004 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31195",
-    "comments": 1,
-    "createdAt": "2026-09-28T13:57:32Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-28T15:40:50.878Z"
-  },
-  {
-    "key": "meshery/meshery.io#3019",
-    "tier": 2,
-    "repo": "meshery/meshery.io",
-    "number": 3019,
-    "title": "[Bug] Meshery installer fails when MESHERY_INSTALL_DIR contains spaces",
-    "url": "https://github.com/meshery/meshery.io/issues/3019",
-    "comments": 0,
-    "createdAt": "2026-09-28T13:39:17Z",
-    "labels": [
-      "kind/bug",
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 867,
-    "foundAt": "2026-09-28T15:40:55.782Z"
   }
 ]
