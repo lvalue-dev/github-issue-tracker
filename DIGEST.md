@@ -4,6 +4,21 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-30 | 🥇 | [[good first issue] 🍣 Add new Community Note Line #38 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31337) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-30 | 🥇 | [[Bug]: Admin region details show empty Payment providers after visiting Settings](https://github.com/medusajs/medusa/issues/17082) | `medusajs/medusa` | ⭐ 36.4k |
+| 2026-09-30 | 🥇 | [[good first issue] 🌊 Add new Example Sentence 179 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31336) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-30 | 🥇 | [[good first issue] 🐡 Add new Etiquette Tip 309 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31335) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-30 | 🥇 | [chore(overrides): three behaviour-neutral tidy-ups in the OA008 detector and ver](https://github.com/OWASP/cve-lite-cli/issues/1256) | `OWASP/cve-lite-cli` | ⭐ 750 |
+| 2026-09-30 | 🥇 | [test(version): pin the prerelease fix in positionAgainstRange so it cannot silen](https://github.com/OWASP/cve-lite-cli/issues/1255) | `OWASP/cve-lite-cli` | ⭐ 750 |
+| 2026-09-30 | 🥇 | [chore(cli): use the flag constants in validate.ts instead of string literals](https://github.com/OWASP/cve-lite-cli/issues/1254) | `OWASP/cve-lite-cli` | ⭐ 750 |
+| 2026-09-30 | 🥈 | [provider: align reported sources with bounded model context](https://github.com/jzjzzzzzzz/agent-me/issues/160) | `jzjzzzzzzz/agent-me` | ⭐ 416 |
+| 2026-09-30 | 🥈 | [personal: do not evict confirmed preferences behind 20 matching facts](https://github.com/jzjzzzzzzz/agent-me/issues/159) | `jzjzzzzzzz/agent-me` | ⭐ 416 |
+| 2026-09-30 | 🥈 | [retrieval: keep matched terms inside capped excerpts](https://github.com/jzjzzzzzzz/agent-me/issues/158) | `jzjzzzzzzz/agent-me` | ⭐ 416 |
+| 2026-09-30 | 🥈 | [[good first issue] 🍛 Add new False Friend Pair 467 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31332) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-30 | 🥈 | [[good first issue] 🎴 Add new Dialect Entry 616 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31331) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-30 | 🥉 | [[agent] desktop WP-12: docs and the acceptance runbook](https://github.com/KeepSoftwareSimple/compass-calendar/issues/4162) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
+| 2026-09-30 | 🥉 | [[agent] desktop WP-03: release-desktop.yml builds a signed, notarized universal ](https://github.com/KeepSoftwareSimple/compass-calendar/issues/4153) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
+| 2026-09-30 | 🥉 | [[agent] desktop WP-00: loop and verify know about apps/calendar-desktop](https://github.com/KeepSoftwareSimple/compass-calendar/issues/4150) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
 | 2026-09-30 | 🥇 | [[good first issue] 🎎 Add new Dialect Entry 1188 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31318) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-30 | 🥇 | [[good first issue] 🍢 Add new Japanese Idiom 943 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31317) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-30 | 🥇 | [[good first issue] 🀄 Add new Grammar Point 355 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31315) | `lingdojo/kana-dojo` | ⭐ 3.5k |
@@ -89,18 +104,3 @@
 | 2026-09-28 | 🥇 | [[good first issue] 🎌 Add new Theme: Sushi Counter (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31226) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-28 | 🥇 | [Use one source for country names: Regions list and details currently disagree](https://github.com/medusajs/medusa/issues/17060) | `medusajs/medusa` | ⭐ 36.4k |
 | 2026-09-28 | 🥇 | [[good first issue] 🎴 Add new Wallpaper URL #28 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31225) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-28 | 🥇 | [[good first issue] 🍢 Add new Learner Mistake 514 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31224) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-28 | 🥇 | [[Markdown] Code block inside an ordered list item gains a leading space on every](https://github.com/ueberdosis/tiptap/issues/8404) | `ueberdosis/tiptap` | ⭐ 38.6k |
-| 2026-09-28 | 🥇 | [feat(block): add `impact-report` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/178) | `shadcn-labs/ogimagecn` | ⭐ 235 |
-| 2026-09-28 | 🥇 | [feat(block): add `annual-report` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/177) | `shadcn-labs/ogimagecn` | ⭐ 235 |
-| 2026-09-28 | 🥇 | [feat(block): add `funding-round` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/176) | `shadcn-labs/ogimagecn` | ⭐ 235 |
-| 2026-09-28 | 🥈 | [[bug] renaming team: in teamai.yaml orphans members' model gateway keys](https://github.com/Tencent/teamai-cli/issues/894) | `Tencent/teamai-cli` | ⭐ 5.0k |
-| 2026-09-28 | 🥈 | [feat(block): add `rewards-program` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/175) | `shadcn-labs/ogimagecn` | ⭐ 235 |
-| 2026-09-28 | 🥈 | [feat(block): add `gift-guide` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/172) | `shadcn-labs/ogimagecn` | ⭐ 235 |
-| 2026-09-28 | 🥈 | [feat(block): add `workshop` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/169) | `shadcn-labs/ogimagecn` | ⭐ 235 |
-| 2026-09-28 | 🥈 | [feat(block): add `community-ama` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/166) | `shadcn-labs/ogimagecn` | ⭐ 235 |
-| 2026-09-28 | 🥈 | [feat(block): add `panel` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/165) | `shadcn-labs/ogimagecn` | ⭐ 235 |
-| 2026-09-28 | 🥈 | [feat(block): add `website-template` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/164) | `shadcn-labs/ogimagecn` | ⭐ 235 |
-| 2026-09-28 | 🥈 | [feat(block): add `design-system` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/163) | `shadcn-labs/ogimagecn` | ⭐ 235 |
-| 2026-09-28 | 🥈 | [feat(block): add `integration` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/162) | `shadcn-labs/ogimagecn` | ⭐ 235 |
-| 2026-09-28 | 🥈 | [feat(block): add `feature-update` OG image template](https://github.com/shadcn-labs/ogimagecn/issues/161) | `shadcn-labs/ogimagecn` | ⭐ 235 |

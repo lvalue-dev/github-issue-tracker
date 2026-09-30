@@ -1,5 +1,301 @@
 [
   {
+    "key": "lingdojo/kana-dojo#31337",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31337,
+    "title": "[good first issue] 🍣 Add new Community Note Line #38 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31337",
+    "comments": 1,
+    "createdAt": "2026-09-30T13:57:28Z",
+    "labels": [
+      "documentation",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-30T13:58:08.830Z"
+  },
+  {
+    "key": "medusajs/medusa#17082",
+    "tier": 1,
+    "repo": "medusajs/medusa",
+    "number": 17082,
+    "title": "[Bug]: Admin region details show empty Payment providers after visiting Settings → Store (default region set)",
+    "url": "https://github.com/medusajs/medusa/issues/17082",
+    "comments": 1,
+    "createdAt": "2026-09-30T13:20:09Z",
+    "labels": [
+      "good first issue",
+      "type: bug"
+    ],
+    "language": "typescript",
+    "stars": 36448,
+    "foundAt": "2026-09-30T13:58:10.010Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31336",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31336,
+    "title": "[good first issue] 🌊 Add new Example Sentence 179 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31336",
+    "comments": 1,
+    "createdAt": "2026-09-30T13:01:04Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-30T13:58:10.431Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31335",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31335,
+    "title": "[good first issue] 🐡 Add new Etiquette Tip 309 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31335",
+    "comments": 1,
+    "createdAt": "2026-09-30T12:57:30Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-30T13:58:10.431Z"
+  },
+  {
+    "key": "OWASP/cve-lite-cli#1256",
+    "tier": 1,
+    "repo": "OWASP/cve-lite-cli",
+    "number": 1256,
+    "title": "chore(overrides): three behaviour-neutral tidy-ups in the OA008 detector and version utils",
+    "url": "https://github.com/OWASP/cve-lite-cli/issues/1256",
+    "comments": 1,
+    "createdAt": "2026-09-30T12:51:32Z",
+    "labels": [
+      "help wanted",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 750,
+    "foundAt": "2026-09-30T13:58:11.026Z"
+  },
+  {
+    "key": "OWASP/cve-lite-cli#1255",
+    "tier": 1,
+    "repo": "OWASP/cve-lite-cli",
+    "number": 1255,
+    "title": "test(version): pin the prerelease fix in positionAgainstRange so it cannot silently regress",
+    "url": "https://github.com/OWASP/cve-lite-cli/issues/1255",
+    "comments": 0,
+    "createdAt": "2026-09-30T12:51:30Z",
+    "labels": [
+      "good first issue",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 750,
+    "foundAt": "2026-09-30T13:58:11.026Z"
+  },
+  {
+    "key": "OWASP/cve-lite-cli#1254",
+    "tier": 1,
+    "repo": "OWASP/cve-lite-cli",
+    "number": 1254,
+    "title": "chore(cli): use the flag constants in validate.ts instead of string literals",
+    "url": "https://github.com/OWASP/cve-lite-cli/issues/1254",
+    "comments": 0,
+    "createdAt": "2026-09-30T12:38:20Z",
+    "labels": [
+      "good first issue",
+      "first-timers-only"
+    ],
+    "language": "typescript",
+    "stars": 750,
+    "foundAt": "2026-09-30T13:58:11.026Z"
+  },
+  {
+    "key": "jzjzzzzzzz/agent-me#160",
+    "tier": 2,
+    "repo": "jzjzzzzzzz/agent-me",
+    "number": 160,
+    "title": "provider: align reported sources with bounded model context",
+    "url": "https://github.com/jzjzzzzzzz/agent-me/issues/160",
+    "comments": 0,
+    "createdAt": "2026-09-30T12:05:19Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "python",
+      "backend"
+    ],
+    "language": "typescript",
+    "stars": 416,
+    "foundAt": "2026-09-30T13:58:16.474Z"
+  },
+  {
+    "key": "jzjzzzzzzz/agent-me#159",
+    "tier": 2,
+    "repo": "jzjzzzzzzz/agent-me",
+    "number": 159,
+    "title": "personal: do not evict confirmed preferences behind 20 matching facts",
+    "url": "https://github.com/jzjzzzzzzz/agent-me/issues/159",
+    "comments": 0,
+    "createdAt": "2026-09-30T12:05:18Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "python",
+      "backend"
+    ],
+    "language": "typescript",
+    "stars": 416,
+    "foundAt": "2026-09-30T13:58:16.474Z"
+  },
+  {
+    "key": "jzjzzzzzzz/agent-me#158",
+    "tier": 2,
+    "repo": "jzjzzzzzzz/agent-me",
+    "number": 158,
+    "title": "retrieval: keep matched terms inside capped excerpts",
+    "url": "https://github.com/jzjzzzzzzz/agent-me/issues/158",
+    "comments": 0,
+    "createdAt": "2026-09-30T12:05:16Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "python",
+      "backend"
+    ],
+    "language": "typescript",
+    "stars": 416,
+    "foundAt": "2026-09-30T13:58:16.474Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31332",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31332,
+    "title": "[good first issue] 🍛 Add new False Friend Pair 467 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31332",
+    "comments": 1,
+    "createdAt": "2026-09-30T12:01:02Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-30T13:58:16.765Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31331",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31331,
+    "title": "[good first issue] 🎴 Add new Dialect Entry 616 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31331",
+    "comments": 1,
+    "createdAt": "2026-09-30T11:57:31Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-30T13:58:16.765Z"
+  },
+  {
+    "key": "KeepSoftwareSimple/compass-calendar#4162",
+    "tier": 3,
+    "repo": "KeepSoftwareSimple/compass-calendar",
+    "number": 4162,
+    "title": "[agent] desktop WP-12: docs and the acceptance runbook",
+    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/4162",
+    "comments": 0,
+    "createdAt": "2026-09-30T13:55:40Z",
+    "labels": [
+      "agent-ready",
+      "docs",
+      "desktop"
+    ],
+    "language": "typescript",
+    "stars": 228,
+    "foundAt": "2026-09-30T13:58:18.790Z"
+  },
+  {
+    "key": "KeepSoftwareSimple/compass-calendar#4153",
+    "tier": 3,
+    "repo": "KeepSoftwareSimple/compass-calendar",
+    "number": 4153,
+    "title": "[agent] desktop WP-03: release-desktop.yml builds a signed, notarized universal DMG",
+    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/4153",
+    "comments": 0,
+    "createdAt": "2026-09-30T13:55:29Z",
+    "labels": [
+      "agent-ready",
+      "docs",
+      "desktop"
+    ],
+    "language": "typescript",
+    "stars": 228,
+    "foundAt": "2026-09-30T13:58:18.790Z"
+  },
+  {
+    "key": "KeepSoftwareSimple/compass-calendar#4150",
+    "tier": 3,
+    "repo": "KeepSoftwareSimple/compass-calendar",
+    "number": 4150,
+    "title": "[agent] desktop WP-00: loop and verify know about apps/calendar-desktop",
+    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/4150",
+    "comments": 0,
+    "createdAt": "2026-09-30T13:55:26Z",
+    "labels": [
+      "agent-ready",
+      "scripts",
+      "docs",
+      "desktop"
+    ],
+    "language": "typescript",
+    "stars": 228,
+    "foundAt": "2026-09-30T13:58:18.790Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#31318",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1664,292 +1960,5 @@
     "language": "typescript",
     "stars": 3454,
     "foundAt": "2026-09-28T22:10:45.351Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31224",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31224,
-    "title": "[good first issue] 🍢 Add new Learner Mistake 514 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31224",
-    "comments": 1,
-    "createdAt": "2026-09-28T20:57:36Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-28T22:10:45.351Z"
-  },
-  {
-    "key": "ueberdosis/tiptap#8404",
-    "tier": 1,
-    "repo": "ueberdosis/tiptap",
-    "number": 8404,
-    "title": "[Markdown] Code block inside an ordered list item gains a leading space on every parse",
-    "url": "https://github.com/ueberdosis/tiptap/issues/8404",
-    "comments": 1,
-    "createdAt": "2026-09-28T20:26:03Z",
-    "labels": [
-      "good first issue",
-      "area: markdown",
-      "complexity: easy",
-      "impact: medium"
-    ],
-    "language": "typescript",
-    "stars": 38569,
-    "foundAt": "2026-09-28T22:10:45.785Z"
-  },
-  {
-    "key": "shadcn-labs/ogimagecn#178",
-    "tier": 1,
-    "repo": "shadcn-labs/ogimagecn",
-    "number": 178,
-    "title": "feat(block): add `impact-report` OG image template",
-    "url": "https://github.com/shadcn-labs/ogimagecn/issues/178",
-    "comments": 0,
-    "createdAt": "2026-09-28T20:21:10Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted",
-      "block"
-    ],
-    "language": "typescript",
-    "stars": 235,
-    "foundAt": "2026-09-28T22:10:46.051Z"
-  },
-  {
-    "key": "shadcn-labs/ogimagecn#177",
-    "tier": 1,
-    "repo": "shadcn-labs/ogimagecn",
-    "number": 177,
-    "title": "feat(block): add `annual-report` OG image template",
-    "url": "https://github.com/shadcn-labs/ogimagecn/issues/177",
-    "comments": 0,
-    "createdAt": "2026-09-28T20:21:08Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted",
-      "block"
-    ],
-    "language": "typescript",
-    "stars": 235,
-    "foundAt": "2026-09-28T22:10:46.051Z"
-  },
-  {
-    "key": "shadcn-labs/ogimagecn#176",
-    "tier": 1,
-    "repo": "shadcn-labs/ogimagecn",
-    "number": 176,
-    "title": "feat(block): add `funding-round` OG image template",
-    "url": "https://github.com/shadcn-labs/ogimagecn/issues/176",
-    "comments": 0,
-    "createdAt": "2026-09-28T20:21:05Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted",
-      "block"
-    ],
-    "language": "typescript",
-    "stars": 235,
-    "foundAt": "2026-09-28T22:10:46.051Z"
-  },
-  {
-    "key": "Tencent/teamai-cli#894",
-    "tier": 2,
-    "repo": "Tencent/teamai-cli",
-    "number": 894,
-    "title": "[bug] renaming team: in teamai.yaml orphans members' model gateway keys",
-    "url": "https://github.com/Tencent/teamai-cli/issues/894",
-    "comments": 0,
-    "createdAt": "2026-09-28T20:35:07Z",
-    "labels": [
-      "bug",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 5046,
-    "foundAt": "2026-09-28T22:10:46.992Z"
-  },
-  {
-    "key": "shadcn-labs/ogimagecn#175",
-    "tier": 2,
-    "repo": "shadcn-labs/ogimagecn",
-    "number": 175,
-    "title": "feat(block): add `rewards-program` OG image template",
-    "url": "https://github.com/shadcn-labs/ogimagecn/issues/175",
-    "comments": 0,
-    "createdAt": "2026-09-28T20:21:03Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted",
-      "block"
-    ],
-    "language": "typescript",
-    "stars": 235,
-    "foundAt": "2026-09-28T22:10:46.992Z"
-  },
-  {
-    "key": "shadcn-labs/ogimagecn#172",
-    "tier": 2,
-    "repo": "shadcn-labs/ogimagecn",
-    "number": 172,
-    "title": "feat(block): add `gift-guide` OG image template",
-    "url": "https://github.com/shadcn-labs/ogimagecn/issues/172",
-    "comments": 0,
-    "createdAt": "2026-09-28T20:20:56Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted",
-      "block"
-    ],
-    "language": "typescript",
-    "stars": 235,
-    "foundAt": "2026-09-28T22:10:46.992Z"
-  },
-  {
-    "key": "shadcn-labs/ogimagecn#169",
-    "tier": 2,
-    "repo": "shadcn-labs/ogimagecn",
-    "number": 169,
-    "title": "feat(block): add `workshop` OG image template",
-    "url": "https://github.com/shadcn-labs/ogimagecn/issues/169",
-    "comments": 0,
-    "createdAt": "2026-09-28T20:20:49Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted",
-      "block"
-    ],
-    "language": "typescript",
-    "stars": 235,
-    "foundAt": "2026-09-28T22:10:46.992Z"
-  },
-  {
-    "key": "shadcn-labs/ogimagecn#166",
-    "tier": 2,
-    "repo": "shadcn-labs/ogimagecn",
-    "number": 166,
-    "title": "feat(block): add `community-ama` OG image template",
-    "url": "https://github.com/shadcn-labs/ogimagecn/issues/166",
-    "comments": 0,
-    "createdAt": "2026-09-28T20:20:41Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted",
-      "block"
-    ],
-    "language": "typescript",
-    "stars": 235,
-    "foundAt": "2026-09-28T22:10:46.992Z"
-  },
-  {
-    "key": "shadcn-labs/ogimagecn#165",
-    "tier": 2,
-    "repo": "shadcn-labs/ogimagecn",
-    "number": 165,
-    "title": "feat(block): add `panel` OG image template",
-    "url": "https://github.com/shadcn-labs/ogimagecn/issues/165",
-    "comments": 0,
-    "createdAt": "2026-09-28T20:20:39Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted",
-      "block"
-    ],
-    "language": "typescript",
-    "stars": 235,
-    "foundAt": "2026-09-28T22:10:46.992Z"
-  },
-  {
-    "key": "shadcn-labs/ogimagecn#164",
-    "tier": 2,
-    "repo": "shadcn-labs/ogimagecn",
-    "number": 164,
-    "title": "feat(block): add `website-template` OG image template",
-    "url": "https://github.com/shadcn-labs/ogimagecn/issues/164",
-    "comments": 0,
-    "createdAt": "2026-09-28T20:20:37Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted",
-      "block"
-    ],
-    "language": "typescript",
-    "stars": 235,
-    "foundAt": "2026-09-28T22:10:46.992Z"
-  },
-  {
-    "key": "shadcn-labs/ogimagecn#163",
-    "tier": 2,
-    "repo": "shadcn-labs/ogimagecn",
-    "number": 163,
-    "title": "feat(block): add `design-system` OG image template",
-    "url": "https://github.com/shadcn-labs/ogimagecn/issues/163",
-    "comments": 0,
-    "createdAt": "2026-09-28T20:20:34Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted",
-      "block"
-    ],
-    "language": "typescript",
-    "stars": 235,
-    "foundAt": "2026-09-28T22:10:46.992Z"
-  },
-  {
-    "key": "shadcn-labs/ogimagecn#162",
-    "tier": 2,
-    "repo": "shadcn-labs/ogimagecn",
-    "number": 162,
-    "title": "feat(block): add `integration` OG image template",
-    "url": "https://github.com/shadcn-labs/ogimagecn/issues/162",
-    "comments": 0,
-    "createdAt": "2026-09-28T20:20:31Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted",
-      "block"
-    ],
-    "language": "typescript",
-    "stars": 235,
-    "foundAt": "2026-09-28T22:10:46.992Z"
-  },
-  {
-    "key": "shadcn-labs/ogimagecn#161",
-    "tier": 2,
-    "repo": "shadcn-labs/ogimagecn",
-    "number": 161,
-    "title": "feat(block): add `feature-update` OG image template",
-    "url": "https://github.com/shadcn-labs/ogimagecn/issues/161",
-    "comments": 0,
-    "createdAt": "2026-09-28T20:20:29Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "help wanted",
-      "block"
-    ],
-    "language": "typescript",
-    "stars": 235,
-    "foundAt": "2026-09-28T22:10:46.992Z"
   }
 ]
