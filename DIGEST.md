@@ -4,6 +4,12 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-30 | 🥇 | [Five provider docs tell readers to run bare bun test over a directory](https://github.com/libredb/libredb-studio/issues/1216) | `libredb/libredb-studio` | ⭐ 890 |
+| 2026-09-30 | 🥇 | [docs/providers/libsql.md: "the other sixteen engines" is out of date](https://github.com/libredb/libredb-studio/issues/1215) | `libredb/libredb-studio` | ⭐ 890 |
+| 2026-09-30 | 🥇 | [docs/ui/login-page.md: NEXT_PUBLIC_APP_VERSION is listed as a setting, but next.](https://github.com/libredb/libredb-studio/issues/1214) | `libredb/libredb-studio` | ⭐ 890 |
+| 2026-09-30 | 🥈 | [High memory usage on logging in to an existing large group for the first time](https://github.com/okTurtles/group-income/issues/3173) | `okTurtles/group-income` | ⭐ 349 |
+| 2026-09-30 | 🥉 | [components: <text pressable> gets no link role by default](https://github.com/ng-native/ng-native/issues/117) | `ng-native/ng-native` | ⭐ 291 |
+| 2026-09-30 | 🥉 | [components: aria-disabled wins over disabled when they disagree, but React Nativ](https://github.com/ng-native/ng-native/issues/116) | `ng-native/ng-native` | ⭐ 291 |
 | 2026-09-30 | 🥇 | [[good first issue] 🍣 Add new Community Note Line #38 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31337) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-30 | 🥇 | [[Bug]: Admin region details show empty Payment providers after visiting Settings](https://github.com/medusajs/medusa/issues/17082) | `medusajs/medusa` | ⭐ 36.4k |
 | 2026-09-30 | 🥇 | [[good first issue] 🌊 Add new Example Sentence 179 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31336) | `lingdojo/kana-dojo` | ⭐ 3.5k |
@@ -98,9 +104,3 @@
 | 2026-09-29 | 🥈 | [Cancel in four confirmation dialogs takes the wrong background when the OS is in](https://github.com/libredb/libredb-studio/issues/1199) | `libredb/libredb-studio` | ⭐ 890 |
 | 2026-09-29 | 🥈 | [Three confirmation dialogs drop focus to the page body when they close](https://github.com/libredb/libredb-studio/issues/1198) | `libredb/libredb-studio` | ⭐ 890 |
 | 2026-09-29 | 🥈 | [[good first issue] 🌊 Add new Japanese Proverb 1203 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31228) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-29 | 🥈 | [Thanks for watching](https://github.com/Pelski/ytzero/issues/240) | `Pelski/ytzero` | ⭐ 638 |
-| 2026-09-29 | 🥉 | [Test class namespace collision](https://github.com/thecodingmachine/graphqlite/issues/837) | `thecodingmachine/graphqlite` | ⭐ 577 |
-| 2026-09-28 | 🥇 | [[good first issue] 🌊 Add new Japan Fact 2989 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31227) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-28 | 🥇 | [[good first issue] 🎌 Add new Theme: Sushi Counter (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31226) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-28 | 🥇 | [Use one source for country names: Regions list and details currently disagree](https://github.com/medusajs/medusa/issues/17060) | `medusajs/medusa` | ⭐ 36.4k |
-| 2026-09-28 | 🥇 | [[good first issue] 🎴 Add new Wallpaper URL #28 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31225) | `lingdojo/kana-dojo` | ⭐ 3.5k |

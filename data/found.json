@@ -1,5 +1,121 @@
 [
   {
+    "key": "libredb/libredb-studio#1216",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 1216,
+    "title": "Five provider docs tell readers to run bare bun test over a directory",
+    "url": "https://github.com/libredb/libredb-studio/issues/1216",
+    "comments": 0,
+    "createdAt": "2026-09-30T19:06:22Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "hacktoberfest",
+      "database-provider"
+    ],
+    "language": "typescript",
+    "stars": 890,
+    "foundAt": "2026-09-30T19:31:03.739Z"
+  },
+  {
+    "key": "libredb/libredb-studio#1215",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 1215,
+    "title": "docs/providers/libsql.md: \"the other sixteen engines\" is out of date",
+    "url": "https://github.com/libredb/libredb-studio/issues/1215",
+    "comments": 0,
+    "createdAt": "2026-09-30T19:06:20Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "help wanted",
+      "hacktoberfest",
+      "database-provider"
+    ],
+    "language": "typescript",
+    "stars": 890,
+    "foundAt": "2026-09-30T19:31:03.739Z"
+  },
+  {
+    "key": "libredb/libredb-studio#1214",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 1214,
+    "title": "docs/ui/login-page.md: NEXT_PUBLIC_APP_VERSION is listed as a setting, but next.config.ts sets it",
+    "url": "https://github.com/libredb/libredb-studio/issues/1214",
+    "comments": 0,
+    "createdAt": "2026-09-30T19:06:18Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "help wanted",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 890,
+    "foundAt": "2026-09-30T19:31:03.739Z"
+  },
+  {
+    "key": "okTurtles/group-income#3173",
+    "tier": 2,
+    "repo": "okTurtles/group-income",
+    "number": 3173,
+    "title": "High memory usage on logging in to an existing large group for the first time",
+    "url": "https://github.com/okTurtles/group-income/issues/3173",
+    "comments": 0,
+    "createdAt": "2026-09-30T18:00:02Z",
+    "labels": [
+      "Kind:Bug",
+      "Kind:Enhancement",
+      "Priority:High",
+      "Note:Research",
+      "Level:Advanced",
+      "Kind:Core",
+      "help wanted"
+    ],
+    "language": "javascript",
+    "stars": 349,
+    "foundAt": "2026-09-30T19:31:06.393Z"
+  },
+  {
+    "key": "ng-native/ng-native#117",
+    "tier": 3,
+    "repo": "ng-native/ng-native",
+    "number": 117,
+    "title": "components: <text pressable> gets no link role by default",
+    "url": "https://github.com/ng-native/ng-native/issues/117",
+    "comments": 0,
+    "createdAt": "2026-09-30T19:29:44Z",
+    "labels": [
+      "accessibility",
+      "bug",
+      "pkg: components"
+    ],
+    "language": "typescript",
+    "stars": 291,
+    "foundAt": "2026-09-30T19:31:07.055Z"
+  },
+  {
+    "key": "ng-native/ng-native#116",
+    "tier": 3,
+    "repo": "ng-native/ng-native",
+    "number": 116,
+    "title": "components: aria-disabled wins over disabled when they disagree, but React Native lets disabled win",
+    "url": "https://github.com/ng-native/ng-native/issues/116",
+    "comments": 0,
+    "createdAt": "2026-09-30T19:29:43Z",
+    "labels": [
+      "accessibility",
+      "bug",
+      "pkg: components"
+    ],
+    "language": "typescript",
+    "stars": 291,
+    "foundAt": "2026-09-30T19:31:07.055Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#31337",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1840,125 +1956,5 @@
     "language": "typescript",
     "stars": 3454,
     "foundAt": "2026-09-29T02:06:19.234Z"
-  },
-  {
-    "key": "Pelski/ytzero#240",
-    "tier": 2,
-    "repo": "Pelski/ytzero",
-    "number": 240,
-    "title": "Thanks for watching",
-    "url": "https://github.com/Pelski/ytzero/issues/240",
-    "comments": 1,
-    "createdAt": "2026-09-28T22:45:06Z",
-    "labels": [
-      "help wanted",
-      "other"
-    ],
-    "language": "typescript",
-    "stars": 638,
-    "foundAt": "2026-09-29T02:06:19.457Z"
-  },
-  {
-    "key": "thecodingmachine/graphqlite#837",
-    "tier": 3,
-    "repo": "thecodingmachine/graphqlite",
-    "number": 837,
-    "title": "Test class namespace collision",
-    "url": "https://github.com/thecodingmachine/graphqlite/issues/837",
-    "comments": 0,
-    "createdAt": "2026-09-29T01:24:51Z",
-    "labels": [
-      "good first issue"
-    ],
-    "language": "mdx",
-    "stars": 577,
-    "foundAt": "2026-09-29T02:06:23.581Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31227",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31227,
-    "title": "[good first issue] 🌊 Add new Japan Fact 2989 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31227",
-    "comments": 1,
-    "createdAt": "2026-09-28T22:00:59Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-28T22:10:44.914Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31226",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31226,
-    "title": "[good first issue] 🎌 Add new Theme: Sushi Counter (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31226",
-    "comments": 1,
-    "createdAt": "2026-09-28T21:57:33Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-28T22:10:44.914Z"
-  },
-  {
-    "key": "medusajs/medusa#17060",
-    "tier": 1,
-    "repo": "medusajs/medusa",
-    "number": 17060,
-    "title": "Use one source for country names: Regions list and details currently disagree",
-    "url": "https://github.com/medusajs/medusa/issues/17060",
-    "comments": 1,
-    "createdAt": "2026-09-28T21:54:13Z",
-    "labels": [
-      "good first issue",
-      "type: bug"
-    ],
-    "language": "typescript",
-    "stars": 36448,
-    "foundAt": "2026-09-28T22:10:44.914Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31225",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31225,
-    "title": "[good first issue] 🎴 Add new Wallpaper URL #28 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31225",
-    "comments": 1,
-    "createdAt": "2026-09-28T21:01:04Z",
-    "labels": [
-      "documentation",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-28T22:10:45.351Z"
   }
 ]
