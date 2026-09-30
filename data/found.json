@@ -1,5 +1,138 @@
 [
   {
+    "key": "lingdojo/kana-dojo#31299",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31299,
+    "title": "[good first issue] 🍶 Add new Japanese Idiom 455 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31299",
+    "comments": 1,
+    "createdAt": "2026-09-30T00:01:02Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-30T00:36:31.309Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31298",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31298,
+    "title": "[good first issue] 🍥 Add new Video Game Quote 1072 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31298",
+    "comments": 1,
+    "createdAt": "2026-09-29T23:57:29Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-30T00:36:31.309Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31296",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31296,
+    "title": "[good first issue] 🦊 Add new Anime Quote 686 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31296",
+    "comments": 1,
+    "createdAt": "2026-09-29T23:00:58Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-30T00:36:31.495Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31295",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31295,
+    "title": "[good first issue] 🍥 Add new Grammar Point 1312 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31295",
+    "comments": 1,
+    "createdAt": "2026-09-29T22:57:33Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-30T00:36:31.495Z"
+  },
+  {
+    "key": "libredb/libredb-studio#1209",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 1209,
+    "title": "Oracle: UROWID(n) and VECTOR(n, format) read back without their size, so SchemaDiff recreates a different column",
+    "url": "https://github.com/libredb/libredb-studio/issues/1209",
+    "comments": 0,
+    "createdAt": "2026-09-29T22:24:19Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 890,
+    "foundAt": "2026-09-30T00:36:31.922Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31294",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31294,
+    "title": "[good first issue] 🍢 Add new Trivia Question 169 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31294",
+    "comments": 1,
+    "createdAt": "2026-09-29T22:00:58Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-09-30T00:36:32.140Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#31289",
     "tier": 2,
     "repo": "lingdojo/kana-dojo",
@@ -1789,118 +1922,5 @@
     "language": "javascript",
     "stars": 867,
     "foundAt": "2026-09-28T15:40:55.782Z"
-  },
-  {
-    "key": "corsairdev/corsair#1784",
-    "tier": 2,
-    "repo": "corsairdev/corsair",
-    "number": 1784,
-    "title": "Skill docs list an invalid npm corsair command",
-    "url": "https://github.com/corsairdev/corsair/issues/1784",
-    "comments": 0,
-    "createdAt": "2026-09-28T13:10:59Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "docs",
-      "difficulty: easy"
-    ],
-    "language": "typescript",
-    "stars": 12632,
-    "foundAt": "2026-09-28T15:40:55.500Z"
-  },
-  {
-    "key": "corsairdev/corsair#1783",
-    "tier": 2,
-    "repo": "corsairdev/corsair",
-    "number": 1783,
-    "title": "formatRelativeTime renders NaNmo ago and never shows years",
-    "url": "https://github.com/corsairdev/corsair/issues/1783",
-    "comments": 0,
-    "createdAt": "2026-09-28T13:10:50Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "difficulty: easy"
-    ],
-    "language": "typescript",
-    "stars": 12632,
-    "foundAt": "2026-09-28T15:40:55.500Z"
-  },
-  {
-    "key": "corsairdev/corsair#1782",
-    "tier": 2,
-    "repo": "corsairdev/corsair",
-    "number": 1782,
-    "title": "Studio ScriptPage has duplicate aria-label props",
-    "url": "https://github.com/corsairdev/corsair/issues/1782",
-    "comments": 0,
-    "createdAt": "2026-09-28T13:10:40Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "app",
-      "difficulty: easy"
-    ],
-    "language": "typescript",
-    "stars": 12632,
-    "foundAt": "2026-09-28T15:40:55.500Z"
-  },
-  {
-    "key": "corsairdev/corsair#1781",
-    "tier": 2,
-    "repo": "corsairdev/corsair",
-    "number": 1781,
-    "title": "Twilio credential split truncates tokens with colons",
-    "url": "https://github.com/corsairdev/corsair/issues/1781",
-    "comments": 0,
-    "createdAt": "2026-09-28T13:10:29Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "plugin",
-      "difficulty: easy"
-    ],
-    "language": "typescript",
-    "stars": 12632,
-    "foundAt": "2026-09-28T15:40:55.500Z"
-  },
-  {
-    "key": "corsairdev/corsair#1780",
-    "tier": 2,
-    "repo": "corsairdev/corsair",
-    "number": 1780,
-    "title": "Twilio keyBuilder returns empty string on missing auth",
-    "url": "https://github.com/corsairdev/corsair/issues/1780",
-    "comments": 0,
-    "createdAt": "2026-09-28T13:10:20Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "plugin",
-      "difficulty: easy"
-    ],
-    "language": "typescript",
-    "stars": 12632,
-    "foundAt": "2026-09-28T15:40:55.500Z"
-  },
-  {
-    "key": "corsairdev/corsair#1779",
-    "tier": 2,
-    "repo": "corsairdev/corsair",
-    "number": 1779,
-    "title": "Airtable webhooks.getPayloads schema key does not match runtime",
-    "url": "https://github.com/corsairdev/corsair/issues/1779",
-    "comments": 0,
-    "createdAt": "2026-09-28T13:10:11Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "plugin",
-      "difficulty: easy"
-    ],
-    "language": "typescript",
-    "stars": 12632,
-    "foundAt": "2026-09-28T15:40:55.500Z"
   }
 ]

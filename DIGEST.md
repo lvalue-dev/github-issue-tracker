@@ -4,6 +4,12 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-09-30 | 🥇 | [[good first issue] 🍶 Add new Japanese Idiom 455 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31299) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-30 | 🥇 | [[good first issue] 🍥 Add new Video Game Quote 1072 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31298) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-30 | 🥇 | [[good first issue] 🦊 Add new Anime Quote 686 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31296) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-30 | 🥇 | [[good first issue] 🍥 Add new Grammar Point 1312 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31295) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-09-30 | 🥇 | [Oracle: UROWID(n) and VECTOR(n, format) read back without their size, so SchemaD](https://github.com/libredb/libredb-studio/issues/1209) | `libredb/libredb-studio` | ⭐ 890 |
+| 2026-09-30 | 🥇 | [[good first issue] 🍢 Add new Trivia Question 169 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31294) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-29 | 🥈 | [[good first issue] 🐙 Add new Community Note Line #24 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31289) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-29 | 🥈 | [[good first issue] 🥢 Add new Learner Mistake 1024 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31288) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-29 | 🥈 | [Unwanted white border around "Join the Conversation" (Discuss) card on Learn, Co](https://github.com/layer5io/layer5/issues/8158) | `layer5io/layer5` | ⭐ 1.1k |
@@ -98,9 +104,3 @@
 | 2026-09-28 | 🥇 | [[good first issue] 🌺 Add new Example Sentence 358 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31198) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-28 | 🥇 | [[good first issue] 🥢 Add new False Friend Pair 1004 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31195) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-28 | 🥈 | [[Bug] Meshery installer fails when MESHERY_INSTALL_DIR contains spaces](https://github.com/meshery/meshery.io/issues/3019) | `meshery/meshery.io` | ⭐ 867 |
-| 2026-09-28 | 🥈 | [Skill docs list an invalid npm corsair command](https://github.com/corsairdev/corsair/issues/1784) | `corsairdev/corsair` | ⭐ 12.6k |
-| 2026-09-28 | 🥈 | [formatRelativeTime renders NaNmo ago and never shows years](https://github.com/corsairdev/corsair/issues/1783) | `corsairdev/corsair` | ⭐ 12.6k |
-| 2026-09-28 | 🥈 | [Studio ScriptPage has duplicate aria-label props](https://github.com/corsairdev/corsair/issues/1782) | `corsairdev/corsair` | ⭐ 12.6k |
-| 2026-09-28 | 🥈 | [Twilio credential split truncates tokens with colons](https://github.com/corsairdev/corsair/issues/1781) | `corsairdev/corsair` | ⭐ 12.6k |
-| 2026-09-28 | 🥈 | [Twilio keyBuilder returns empty string on missing auth](https://github.com/corsairdev/corsair/issues/1780) | `corsairdev/corsair` | ⭐ 12.6k |
-| 2026-09-28 | 🥈 | [Airtable webhooks.getPayloads schema key does not match runtime](https://github.com/corsairdev/corsair/issues/1779) | `corsairdev/corsair` | ⭐ 12.6k |
