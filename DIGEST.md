@@ -4,6 +4,25 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-10-01 | 🥇 | [[good first issue] ⛩️ Add new False Friend Pair 688 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31369) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-01 | 🥇 | [[good first issue] 🎌 Add new Dialect Entry 665 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31368) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-01 | 🥇 | [[good first issue] ⛩️ Add new Japanese Idiom 1081 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31367) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-01 | 🥇 | [Stopped-chat desktop notifications are always in English](https://github.com/totec448-spec/chat-on-steroids/issues/855) | `totec448-spec/chat-on-steroids` | ⭐ 4.2k |
+| 2026-10-01 | 🥇 | [[good first issue] 🏮 Add new Anime Quote 1215 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31366) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-01 | 🥇 | [[good first issue] 🗻 Add new Grammar Point 850 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31365) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-01 | 🥇 | [[good first issue] 🍥 Add new Japanese Proverb 1789 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31363) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-01 | 🥇 | [[good first issue] 🍛 Add new Japan Fact 1065 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31362) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-01 | 🥇 | [download.py fails to consider errors failures](https://github.com/decompme/decomp.me/issues/2118) | `decompme/decomp.me` | ⭐ 614 |
+| 2026-10-01 | 🥇 | [Loop pause message blames the tunnel when ChatGPT simply asked a question](https://github.com/totec448-spec/chat-on-steroids/issues/842) | `totec448-spec/chat-on-steroids` | ⭐ 4.2k |
+| 2026-10-01 | 🥇 | [[good first issue] 🎐 Add new Theme: Sumi Charcoal (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31360) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-01 | 🥇 | [[good first issue] 🍡 Add new Community Note Line #54 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31359) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-01 | 🥉 | [Stepper - Error state text doesn't meet contrast requirements](https://github.com/grommet/grommet/issues/8169) | `grommet/grommet` | ⭐ 8.3k |
+| 2026-10-01 | 🥉 | [docs: helm list sample output in intro/using_helm uses Helm 2 table format](https://github.com/helm/helm-www/issues/2263) | `helm/helm-www` | ⭐ 230 |
+| 2026-10-01 | 🥉 | [docs: update English cheat sheet for Helm 4](https://github.com/helm/helm-www/issues/2262) | `helm/helm-www` | ⭐ 230 |
+| 2026-10-01 | 🥉 | [Document how to avoid an empty `<h2>` on revealjs slides without a visible title](https://github.com/quarto-dev/quarto-cli/issues/14971) | `quarto-dev/quarto-cli` | ⭐ 6.0k |
+| 2026-10-01 | 🥉 | [revealjs tabset tabs get positive tabindex values](https://github.com/quarto-dev/quarto-cli/issues/14970) | `quarto-dev/quarto-cli` | ⭐ 6.0k |
+| 2026-10-01 | 🥉 | [a11y: the collapsed "On this page" toggle cannot be used with a keyboard](https://github.com/quarto-dev/quarto-cli/issues/14969) | `quarto-dev/quarto-cli` | ⭐ 6.0k |
+| 2026-10-01 | 🥉 | [a11y: notebook preview header is outside any landmark](https://github.com/quarto-dev/quarto-cli/issues/14968) | `quarto-dev/quarto-cli` | ⭐ 6.0k |
 | 2026-09-30 | 🥇 | [Five provider docs tell readers to run bare bun test over a directory](https://github.com/libredb/libredb-studio/issues/1216) | `libredb/libredb-studio` | ⭐ 890 |
 | 2026-09-30 | 🥇 | [docs/providers/libsql.md: "the other sixteen engines" is out of date](https://github.com/libredb/libredb-studio/issues/1215) | `libredb/libredb-studio` | ⭐ 890 |
 | 2026-09-30 | 🥇 | [docs/ui/login-page.md: NEXT_PUBLIC_APP_VERSION is listed as a setting, but next.](https://github.com/libredb/libredb-studio/issues/1214) | `libredb/libredb-studio` | ⭐ 890 |
@@ -85,22 +104,3 @@
 | 2026-09-29 | 🥈 | [Dark mode: Workspace login](https://github.com/ToolJet/ToolJet/issues/18145) | `ToolJet/ToolJet` | ⭐ 41.0k |
 | 2026-09-29 | 🥉 | [Create complete `cf` CLI, configuration, and migration documentation](https://github.com/cloudflare/cloudflare-docs/issues/33790) | `cloudflare/cloudflare-docs` | ⭐ 5.3k |
 | 2026-09-29 | 🥈 | [Snyk vulnerability [SNYK-JS-BRACEEXPANSION-20244950]](https://github.com/backstage/backstage/issues/35918) | `backstage/backstage` | ⭐ 34.5k |
-| 2026-09-29 | 🥈 | [Snyk vulnerability [SNYK-JS-BRACEEXPANSION-20244952]](https://github.com/backstage/backstage/issues/35917) | `backstage/backstage` | ⭐ 34.5k |
-| 2026-09-29 | 🥈 | [Snyk vulnerability [SNYK-JS-BRACEEXPANSION-20244948]](https://github.com/backstage/backstage/issues/35916) | `backstage/backstage` | ⭐ 34.5k |
-| 2026-09-29 | 🥈 | [[help] 同步提示不明](https://github.com/XCQ0607/lxserver/issues/409) | `XCQ0607/lxserver` | ⭐ 875 |
-| 2026-09-29 | 🥈 | [[UI]: "Learn more →" link misaligned on mobile/responsive view of Cloud Native D](https://github.com/layer5io/layer5/issues/8155) | `layer5io/layer5` | ⭐ 1.1k |
-| 2026-09-29 | 🥉 | [Document supported `cf` environment variables](https://github.com/cloudflare/cf/issues/37) | `cloudflare/cf` | ⭐ 360 |
-| 2026-09-29 | 🥉 | [[Docs]: https://financialfilings.com/developers/](https://github.com/upstash/context7/issues/3258) | `upstash/context7` | ⭐ 62.5k |
-| 2026-09-29 | 🥇 | [[good first issue] 🍡 Add new Etiquette Tip 453 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31236) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-29 | 🥇 | [[good first issue] 🍚 Add new False Friend Pair 754 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31235) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-29 | 🥇 | [[good first issue] 🎌 Add new Dialect Entry 1018 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31234) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-29 | 🥇 | [[good first issue] 🎋 Add new Japanese Idiom 275 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31233) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-29 | 🥇 | [move specs to docs](https://github.com/F3-Nation/f3-nation/issues/1107) | `F3-Nation/f3-nation` | ⭐ 208 |
-| 2026-09-29 | 🥇 | [README_pt.md: bring the transport security paragraph up to date with README.md](https://github.com/libredb/libredb-studio/issues/1201) | `libredb/libredb-studio` | ⭐ 890 |
-| 2026-09-29 | 🥇 | [[good first issue] 🎏 Add new Anime Quote 844 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31231) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-29 | 🥇 | [[good first issue] 🍚 Add new Grammar Point 173 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31230) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-29 | 🥈 | [Anthropic prompt caching: uncached input tokens are dropped and never priced whe](https://github.com/traceroot-ai/traceroot/issues/2392) | `traceroot-ai/traceroot` | ⭐ 775 |
-| 2026-09-29 | 🥈 | [[good first issue] 🧧 Add new Trivia Question 310 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31229) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-29 | 🥈 | [Cancel in four confirmation dialogs takes the wrong background when the OS is in](https://github.com/libredb/libredb-studio/issues/1199) | `libredb/libredb-studio` | ⭐ 890 |
-| 2026-09-29 | 🥈 | [Three confirmation dialogs drop focus to the page body when they close](https://github.com/libredb/libredb-studio/issues/1198) | `libredb/libredb-studio` | ⭐ 890 |
-| 2026-09-29 | 🥈 | [[good first issue] 🌊 Add new Japanese Proverb 1203 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31228) | `lingdojo/kana-dojo` | ⭐ 3.5k |

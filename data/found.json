@@ -1,5 +1,385 @@
 [
   {
+    "key": "lingdojo/kana-dojo#31369",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31369,
+    "title": "[good first issue] ⛩️ Add new False Friend Pair 688 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31369",
+    "comments": 1,
+    "createdAt": "2026-09-30T23:57:33Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-10-01T00:00:04.090Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31368",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31368,
+    "title": "[good first issue] 🎌 Add new Dialect Entry 665 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31368",
+    "comments": 1,
+    "createdAt": "2026-09-30T23:00:59Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-10-01T00:00:04.851Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31367",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31367,
+    "title": "[good first issue] ⛩️ Add new Japanese Idiom 1081 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31367",
+    "comments": 1,
+    "createdAt": "2026-09-30T22:57:31Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-10-01T00:00:04.851Z"
+  },
+  {
+    "key": "totec448-spec/chat-on-steroids#855",
+    "tier": 1,
+    "repo": "totec448-spec/chat-on-steroids",
+    "number": 855,
+    "title": "Stopped-chat desktop notifications are always in English",
+    "url": "https://github.com/totec448-spec/chat-on-steroids/issues/855",
+    "comments": 0,
+    "createdAt": "2026-09-30T22:47:48Z",
+    "labels": [
+      "enhancement",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 4214,
+    "foundAt": "2026-10-01T00:00:05.105Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31366",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31366,
+    "title": "[good first issue] 🏮 Add new Anime Quote 1215 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31366",
+    "comments": 1,
+    "createdAt": "2026-09-30T22:01:03Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-10-01T00:00:05.689Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31365",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31365,
+    "title": "[good first issue] 🗻 Add new Grammar Point 850 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31365",
+    "comments": 1,
+    "createdAt": "2026-09-30T21:57:29Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-10-01T00:00:05.689Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31363",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31363,
+    "title": "[good first issue] 🍥 Add new Japanese Proverb 1789 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31363",
+    "comments": 1,
+    "createdAt": "2026-09-30T21:01:01Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-10-01T00:00:05.959Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31362",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31362,
+    "title": "[good first issue] 🍛 Add new Japan Fact 1065 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31362",
+    "comments": 1,
+    "createdAt": "2026-09-30T20:57:33Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-10-01T00:00:05.959Z"
+  },
+  {
+    "key": "decompme/decomp.me#2118",
+    "tier": 1,
+    "repo": "decompme/decomp.me",
+    "number": 2118,
+    "title": "download.py fails to consider errors failures",
+    "url": "https://github.com/decompme/decomp.me/issues/2118",
+    "comments": 0,
+    "createdAt": "2026-09-30T20:38:47Z",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 614,
+    "foundAt": "2026-10-01T00:00:06.885Z"
+  },
+  {
+    "key": "totec448-spec/chat-on-steroids#842",
+    "tier": 1,
+    "repo": "totec448-spec/chat-on-steroids",
+    "number": 842,
+    "title": "Loop pause message blames the tunnel when ChatGPT simply asked a question",
+    "url": "https://github.com/totec448-spec/chat-on-steroids/issues/842",
+    "comments": 0,
+    "createdAt": "2026-09-30T20:28:04Z",
+    "labels": [
+      "enhancement",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 4214,
+    "foundAt": "2026-10-01T00:00:06.885Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31360",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31360,
+    "title": "[good first issue] 🎐 Add new Theme: Sumi Charcoal (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31360",
+    "comments": 1,
+    "createdAt": "2026-09-30T20:01:03Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-10-01T00:00:07.340Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31359",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31359,
+    "title": "[good first issue] 🍡 Add new Community Note Line #54 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31359",
+    "comments": 1,
+    "createdAt": "2026-09-30T19:57:31Z",
+    "labels": [
+      "documentation",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-10-01T00:00:07.340Z"
+  },
+  {
+    "key": "grommet/grommet#8169",
+    "tier": 3,
+    "repo": "grommet/grommet",
+    "number": 8169,
+    "title": "Stepper - Error state text doesn't meet contrast requirements",
+    "url": "https://github.com/grommet/grommet/issues/8169",
+    "comments": 0,
+    "createdAt": "2026-09-30T22:39:54Z",
+    "labels": [
+      "accessibility"
+    ],
+    "language": "javascript",
+    "stars": 8348,
+    "foundAt": "2026-10-01T00:00:15.622Z"
+  },
+  {
+    "key": "helm/helm-www#2263",
+    "tier": 3,
+    "repo": "helm/helm-www",
+    "number": 2263,
+    "title": "docs: helm list sample output in intro/using_helm uses Helm 2 table format",
+    "url": "https://github.com/helm/helm-www/issues/2263",
+    "comments": 0,
+    "createdAt": "2026-09-30T22:12:01Z",
+    "labels": [
+      "help wanted",
+      "good first issue"
+    ],
+    "language": "mdx",
+    "stars": 230,
+    "foundAt": "2026-10-01T00:00:17.599Z"
+  },
+  {
+    "key": "helm/helm-www#2262",
+    "tier": 3,
+    "repo": "helm/helm-www",
+    "number": 2262,
+    "title": "docs: update English cheat sheet for Helm 4",
+    "url": "https://github.com/helm/helm-www/issues/2262",
+    "comments": 0,
+    "createdAt": "2026-09-30T22:09:06Z",
+    "labels": [
+      "help wanted",
+      "docs",
+      "good first issue",
+      "v4"
+    ],
+    "language": "mdx",
+    "stars": 230,
+    "foundAt": "2026-10-01T00:00:17.599Z"
+  },
+  {
+    "key": "quarto-dev/quarto-cli#14971",
+    "tier": 3,
+    "repo": "quarto-dev/quarto-cli",
+    "number": 14971,
+    "title": "Document how to avoid an empty `<h2>` on revealjs slides without a visible title",
+    "url": "https://github.com/quarto-dev/quarto-cli/issues/14971",
+    "comments": 0,
+    "createdAt": "2026-09-30T21:58:09Z",
+    "labels": [
+      "documentation",
+      "accessibility",
+      "revealjs"
+    ],
+    "language": "javascript",
+    "stars": 6042,
+    "foundAt": "2026-10-01T00:00:16.532Z"
+  },
+  {
+    "key": "quarto-dev/quarto-cli#14970",
+    "tier": 3,
+    "repo": "quarto-dev/quarto-cli",
+    "number": 14970,
+    "title": "revealjs tabset tabs get positive tabindex values",
+    "url": "https://github.com/quarto-dev/quarto-cli/issues/14970",
+    "comments": 0,
+    "createdAt": "2026-09-30T21:25:16Z",
+    "labels": [
+      "accessibility",
+      "revealjs"
+    ],
+    "language": "javascript",
+    "stars": 6042,
+    "foundAt": "2026-10-01T00:00:16.718Z"
+  },
+  {
+    "key": "quarto-dev/quarto-cli#14969",
+    "tier": 3,
+    "repo": "quarto-dev/quarto-cli",
+    "number": 14969,
+    "title": "a11y: the collapsed \"On this page\" toggle cannot be used with a keyboard",
+    "url": "https://github.com/quarto-dev/quarto-cli/issues/14969",
+    "comments": 0,
+    "createdAt": "2026-09-30T21:12:26Z",
+    "labels": [
+      "accessibility",
+      "html"
+    ],
+    "language": "javascript",
+    "stars": 6042,
+    "foundAt": "2026-10-01T00:00:16.934Z"
+  },
+  {
+    "key": "quarto-dev/quarto-cli#14968",
+    "tier": 3,
+    "repo": "quarto-dev/quarto-cli",
+    "number": 14968,
+    "title": "a11y: notebook preview header is outside any landmark",
+    "url": "https://github.com/quarto-dev/quarto-cli/issues/14968",
+    "comments": 0,
+    "createdAt": "2026-09-30T20:59:56Z",
+    "labels": [
+      "accessibility",
+      "embed"
+    ],
+    "language": "javascript",
+    "stars": 6042,
+    "foundAt": "2026-10-01T00:00:16.934Z"
+  },
+  {
     "key": "libredb/libredb-studio#1216",
     "tier": 1,
     "repo": "libredb/libredb-studio",
@@ -1581,380 +1961,5 @@
     "language": "typescript",
     "stars": 34522,
     "foundAt": "2026-09-29T08:45:36.483Z"
-  },
-  {
-    "key": "backstage/backstage#35917",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35917,
-    "title": "Snyk vulnerability [SNYK-JS-BRACEEXPANSION-20244952]",
-    "url": "https://github.com/backstage/backstage/issues/35917",
-    "comments": 0,
-    "createdAt": "2026-09-29T08:13:12Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34522,
-    "foundAt": "2026-09-29T08:45:36.483Z"
-  },
-  {
-    "key": "backstage/backstage#35916",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35916,
-    "title": "Snyk vulnerability [SNYK-JS-BRACEEXPANSION-20244948]",
-    "url": "https://github.com/backstage/backstage/issues/35916",
-    "comments": 0,
-    "createdAt": "2026-09-29T08:13:10Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34522,
-    "foundAt": "2026-09-29T08:45:36.483Z"
-  },
-  {
-    "key": "XCQ0607/lxserver#409",
-    "tier": 2,
-    "repo": "XCQ0607/lxserver",
-    "number": 409,
-    "title": "[help] 同步提示不明",
-    "url": "https://github.com/XCQ0607/lxserver/issues/409",
-    "comments": 0,
-    "createdAt": "2026-09-29T06:23:22Z",
-    "labels": [
-      "help wanted",
-      "question"
-    ],
-    "language": "javascript",
-    "stars": 875,
-    "foundAt": "2026-09-29T08:45:36.871Z"
-  },
-  {
-    "key": "layer5io/layer5#8155",
-    "tier": 2,
-    "repo": "layer5io/layer5",
-    "number": 8155,
-    "title": "[UI]: \"Learn more →\" link misaligned on mobile/responsive view of Cloud Native Deployments by Diagram page",
-    "url": "https://github.com/layer5io/layer5/issues/8155",
-    "comments": 1,
-    "createdAt": "2026-09-29T02:10:48Z",
-    "labels": [
-      "kind/bug",
-      "help wanted",
-      "framework/gatsby"
-    ],
-    "language": "javascript",
-    "stars": 1136,
-    "foundAt": "2026-09-29T08:45:36.871Z"
-  },
-  {
-    "key": "cloudflare/cf#37",
-    "tier": 3,
-    "repo": "cloudflare/cf",
-    "number": 37,
-    "title": "Document supported `cf` environment variables",
-    "url": "https://github.com/cloudflare/cf/issues/37",
-    "comments": 0,
-    "createdAt": "2026-09-29T08:18:57Z",
-    "labels": [
-      "documentation",
-      "priority: p2"
-    ],
-    "language": "typescript",
-    "stars": 360,
-    "foundAt": "2026-09-29T08:45:37.998Z"
-  },
-  {
-    "key": "upstash/context7#3258",
-    "tier": 3,
-    "repo": "upstash/context7",
-    "number": 3258,
-    "title": "[Docs]: https://financialfilings.com/developers/",
-    "url": "https://github.com/upstash/context7/issues/3258",
-    "comments": 0,
-    "createdAt": "2026-09-29T08:04:32Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "typescript",
-    "stars": 62510,
-    "foundAt": "2026-09-29T08:45:39.145Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31236",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31236,
-    "title": "[good first issue] 🍡 Add new Etiquette Tip 453 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31236",
-    "comments": 1,
-    "createdAt": "2026-09-29T02:01:00Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-29T02:06:15.768Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31235",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31235,
-    "title": "[good first issue] 🍚 Add new False Friend Pair 754 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31235",
-    "comments": 1,
-    "createdAt": "2026-09-29T01:57:39Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-29T02:06:15.768Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31234",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31234,
-    "title": "[good first issue] 🎌 Add new Dialect Entry 1018 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31234",
-    "comments": 1,
-    "createdAt": "2026-09-29T01:00:58Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-29T02:06:16.499Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31233",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31233,
-    "title": "[good first issue] 🎋 Add new Japanese Idiom 275 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31233",
-    "comments": 1,
-    "createdAt": "2026-09-29T00:57:33Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-29T02:06:16.499Z"
-  },
-  {
-    "key": "F3-Nation/f3-nation#1107",
-    "tier": 1,
-    "repo": "F3-Nation/f3-nation",
-    "number": 1107,
-    "title": "move specs to docs",
-    "url": "https://github.com/F3-Nation/f3-nation/issues/1107",
-    "comments": 0,
-    "createdAt": "2026-09-29T00:50:58Z",
-    "labels": [
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 208,
-    "foundAt": "2026-09-29T02:06:16.764Z"
-  },
-  {
-    "key": "libredb/libredb-studio#1201",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 1201,
-    "title": "README_pt.md: bring the transport security paragraph up to date with README.md",
-    "url": "https://github.com/libredb/libredb-studio/issues/1201",
-    "comments": 0,
-    "createdAt": "2026-09-29T00:29:50Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "help wanted",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 890,
-    "foundAt": "2026-09-29T02:06:17.000Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31231",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31231,
-    "title": "[good first issue] 🎏 Add new Anime Quote 844 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31231",
-    "comments": 1,
-    "createdAt": "2026-09-29T00:00:56Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-29T02:06:17.525Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31230",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31230,
-    "title": "[good first issue] 🍚 Add new Grammar Point 173 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31230",
-    "comments": 1,
-    "createdAt": "2026-09-28T23:57:38Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-29T02:06:17.525Z"
-  },
-  {
-    "key": "traceroot-ai/traceroot#2392",
-    "tier": 2,
-    "repo": "traceroot-ai/traceroot",
-    "number": 2392,
-    "title": "Anthropic prompt caching: uncached input tokens are dropped and never priced when the emitter reports `input_tokens` net of cache (Pi, Traceloop TS, Vercel AI + Anthropic, hand-made spans)",
-    "url": "https://github.com/traceroot-ai/traceroot/issues/2392",
-    "comments": 0,
-    "createdAt": "2026-09-29T01:25:26Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "P1"
-    ],
-    "language": "typescript",
-    "stars": 775,
-    "foundAt": "2026-09-29T02:06:19.025Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31229",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31229,
-    "title": "[good first issue] 🧧 Add new Trivia Question 310 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31229",
-    "comments": 1,
-    "createdAt": "2026-09-28T23:00:53Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-29T02:06:19.025Z"
-  },
-  {
-    "key": "libredb/libredb-studio#1199",
-    "tier": 2,
-    "repo": "libredb/libredb-studio",
-    "number": 1199,
-    "title": "Cancel in four confirmation dialogs takes the wrong background when the OS is in dark mode",
-    "url": "https://github.com/libredb/libredb-studio/issues/1199",
-    "comments": 1,
-    "createdAt": "2026-09-28T23:00:35Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 890,
-    "foundAt": "2026-09-29T02:06:19.025Z"
-  },
-  {
-    "key": "libredb/libredb-studio#1198",
-    "tier": 2,
-    "repo": "libredb/libredb-studio",
-    "number": 1198,
-    "title": "Three confirmation dialogs drop focus to the page body when they close",
-    "url": "https://github.com/libredb/libredb-studio/issues/1198",
-    "comments": 1,
-    "createdAt": "2026-09-28T23:00:33Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 890,
-    "foundAt": "2026-09-29T02:06:19.025Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31228",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31228,
-    "title": "[good first issue] 🌊 Add new Japanese Proverb 1203 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31228",
-    "comments": 1,
-    "createdAt": "2026-09-28T22:57:29Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-29T02:06:19.234Z"
   }
 ]
