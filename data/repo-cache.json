@@ -1,354 +1,4 @@
 {
-  "blockchain-maxis/signet": {
-    "fullName": "blockchain-maxis/signet",
-    "stars": 2,
-    "pushedAt": "2026-09-24T22:19:09Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 26,
-    "cachedAt": "2026-09-24T22:34:18.386Z"
-  },
-  "lonestill/onyx-launcher": {
-    "fullName": "lonestill/onyx-launcher",
-    "stars": 11,
-    "pushedAt": "2026-09-24T20:38:02Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 7,
-    "cachedAt": "2026-09-24T22:34:18.579Z"
-  },
-  "shadcn-labs/pdfcn": {
-    "fullName": "shadcn-labs/pdfcn",
-    "stars": 2142,
-    "pushedAt": "2026-09-24T12:40:45Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 35,
-    "cachedAt": "2026-09-24T22:34:18.861Z"
-  },
-  "TheChyeahhh/code-skater": {
-    "fullName": "TheChyeahhh/code-skater",
-    "stars": 0,
-    "pushedAt": "2026-09-24T20:19:15Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 8,
-    "cachedAt": "2026-09-24T22:34:19.037Z"
-  },
-  "griffinwork40/agent-afk": {
-    "fullName": "griffinwork40/agent-afk",
-    "stars": 55,
-    "pushedAt": "2026-09-24T22:31:32Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 60,
-    "cachedAt": "2026-09-24T22:34:19.206Z"
-  },
-  "Muse-Nexus/witness": {
-    "fullName": "Muse-Nexus/witness",
-    "stars": 0,
-    "pushedAt": "2026-09-24T21:45:53Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 15,
-    "cachedAt": "2026-09-24T22:34:19.401Z"
-  },
-  "nobuddyorg/BikeBuddy": {
-    "fullName": "nobuddyorg/BikeBuddy",
-    "stars": 0,
-    "pushedAt": "2026-09-24T22:22:24Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 80,
-    "cachedAt": "2026-09-24T22:34:19.575Z"
-  },
-  "AdamoElProfesor/SmartBnB": {
-    "fullName": "AdamoElProfesor/SmartBnB",
-    "stars": 1,
-    "pushedAt": "2026-09-24T21:10:28Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 14,
-    "cachedAt": "2026-09-24T22:34:19.827Z"
-  },
-  "arkaslittlemind/ScholarLens": {
-    "fullName": "arkaslittlemind/ScholarLens",
-    "stars": 1,
-    "pushedAt": "2026-09-24T22:30:20Z",
-    "archived": false,
-    "fork": false,
-    "language": "HTML",
-    "openIssues": 7,
-    "cachedAt": "2026-09-24T22:34:20.025Z"
-  },
-  "RevenantLabs/RevyHub": {
-    "fullName": "RevenantLabs/RevyHub",
-    "stars": 2,
-    "pushedAt": "2026-09-13T03:14:21Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 122,
-    "cachedAt": "2026-09-24T22:34:20.231Z"
-  },
-  "evb0110/evb-viewer": {
-    "fullName": "evb0110/evb-viewer",
-    "stars": 5,
-    "pushedAt": "2026-09-24T22:21:41Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 82,
-    "cachedAt": "2026-09-24T22:34:20.404Z"
-  },
-  "CIVRA-INC/LumenHealth": {
-    "fullName": "CIVRA-INC/LumenHealth",
-    "stars": 10,
-    "pushedAt": "2026-09-03T10:36:21Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 125,
-    "cachedAt": "2026-09-24T22:34:20.579Z"
-  },
-  "nrosier/Balancr": {
-    "fullName": "nrosier/Balancr",
-    "stars": 0,
-    "pushedAt": "2026-09-24T22:06:13Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 9,
-    "cachedAt": "2026-09-24T22:34:20.752Z"
-  },
-  "MatthewT1/matts-openrct2-plugins": {
-    "fullName": "MatthewT1/matts-openrct2-plugins",
-    "stars": 0,
-    "pushedAt": "2026-09-24T22:33:33Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 15,
-    "cachedAt": "2026-09-24T22:34:20.906Z"
-  },
-  "parca16/la-barca-de-la-parca": {
-    "fullName": "parca16/la-barca-de-la-parca",
-    "stars": 0,
-    "pushedAt": "2026-09-24T14:51:53Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 35,
-    "cachedAt": "2026-09-24T22:34:21.109Z"
-  },
-  "AntoineROYERB/dofus.js": {
-    "fullName": "AntoineROYERB/dofus.js",
-    "stars": 8,
-    "pushedAt": "2026-09-24T22:22:25Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 18,
-    "cachedAt": "2026-09-24T22:34:21.271Z"
-  },
-  "qodeca/erfana": {
-    "fullName": "qodeca/erfana",
-    "stars": 2,
-    "pushedAt": "2026-09-24T22:32:48Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 68,
-    "cachedAt": "2026-09-24T22:34:21.460Z"
-  },
-  "fga-eps-mds/2026.2-MeasureSoftGram-DOC": {
-    "fullName": "fga-eps-mds/2026.2-MeasureSoftGram-DOC",
-    "stars": 0,
-    "pushedAt": "2026-09-24T03:05:58Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 46,
-    "cachedAt": "2026-09-24T22:34:21.684Z"
-  },
-  "corbitsdev/corbits-solution-builder": {
-    "fullName": "corbitsdev/corbits-solution-builder",
-    "stars": 0,
-    "pushedAt": "2026-09-24T21:04:32Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 21,
-    "cachedAt": "2026-09-24T22:34:21.909Z"
-  },
-  "whisper-sec/whisper-n8n": {
-    "fullName": "whisper-sec/whisper-n8n",
-    "stars": 0,
-    "pushedAt": "2026-08-22T17:26:41Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 4,
-    "cachedAt": "2026-09-24T22:34:22.131Z"
-  },
-  "whisper-sec/whisper-edge": {
-    "fullName": "whisper-sec/whisper-edge",
-    "stars": 0,
-    "pushedAt": "2026-08-21T21:21:23Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 1,
-    "cachedAt": "2026-09-24T22:34:22.354Z"
-  },
-  "horribleCodes/gardener": {
-    "fullName": "horribleCodes/gardener",
-    "stars": 0,
-    "pushedAt": "2026-09-24T22:02:09Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 12,
-    "cachedAt": "2026-09-24T22:34:22.501Z"
-  },
-  "clossys/foundry": {
-    "fullName": "clossys/foundry",
-    "stars": 0,
-    "pushedAt": "2026-09-24T22:34:21Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 215,
-    "cachedAt": "2026-09-24T22:34:22.697Z"
-  },
-  "Skizmo229/Creature-Sweeper": {
-    "fullName": "Skizmo229/Creature-Sweeper",
-    "stars": 0,
-    "pushedAt": "2026-09-24T22:27:36Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 3,
-    "cachedAt": "2026-09-24T22:34:22.901Z"
-  },
-  "sgort/ronl-business-api": {
-    "fullName": "sgort/ronl-business-api",
-    "stars": 1,
-    "pushedAt": "2026-09-24T21:29:15Z",
-    "archived": false,
-    "fork": false,
-    "language": "TypeScript",
-    "openIssues": 29,
-    "cachedAt": "2026-09-24T22:34:23.073Z"
-  },
-  "TOTALLYMAJOR/QuotePilot": {
-    "fullName": "TOTALLYMAJOR/QuotePilot",
-    "stars": 1,
-    "pushedAt": "2026-09-19T05:27:28Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 52,
-    "cachedAt": "2026-09-24T22:34:23.250Z"
-  },
-  "netwrix/docs": {
-    "fullName": "netwrix/docs",
-    "stars": 9,
-    "pushedAt": "2026-09-24T22:16:55Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 97,
-    "cachedAt": "2026-09-24T22:34:23.431Z"
-  },
-  "whisper-sec/whisper-pi": {
-    "fullName": "whisper-sec/whisper-pi",
-    "stars": 0,
-    "pushedAt": "2026-07-19T01:09:24Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 3,
-    "cachedAt": "2026-09-24T22:34:23.612Z"
-  },
-  "whisper-sec/whisper-node": {
-    "fullName": "whisper-sec/whisper-node",
-    "stars": 0,
-    "pushedAt": "2026-09-02T19:44:06Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 3,
-    "cachedAt": "2026-09-24T22:34:23.784Z"
-  },
-  "stellarkit-lab-devtools/stellarkit-api": {
-    "fullName": "stellarkit-lab-devtools/stellarkit-api",
-    "stars": 1,
-    "pushedAt": "2026-09-07T23:01:07Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 87,
-    "cachedAt": "2026-09-24T22:34:23.995Z"
-  },
-  "dhague/wiki-knowledge": {
-    "fullName": "dhague/wiki-knowledge",
-    "stars": 8,
-    "pushedAt": "2026-09-24T22:27:48Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 32,
-    "cachedAt": "2026-09-24T22:34:24.221Z"
-  },
-  "inference-gateway/schemas": {
-    "fullName": "inference-gateway/schemas",
-    "stars": 1,
-    "pushedAt": "2026-09-24T16:56:43Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 2,
-    "cachedAt": "2026-09-24T22:34:24.466Z"
-  },
-  "sbstndalton/noevia": {
-    "fullName": "sbstndalton/noevia",
-    "stars": 0,
-    "pushedAt": "2026-09-24T22:03:06Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 25,
-    "cachedAt": "2026-09-24T22:34:24.654Z"
-  },
-  "jcelano/bridge-advisor": {
-    "fullName": "jcelano/bridge-advisor",
-    "stars": 0,
-    "pushedAt": "2026-09-24T21:25:59Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 13,
-    "cachedAt": "2026-09-24T22:34:24.820Z"
-  },
-  "micz/ThunderAI": {
-    "fullName": "micz/ThunderAI",
-    "stars": 345,
-    "pushedAt": "2026-09-24T21:34:07Z",
-    "archived": false,
-    "fork": false,
-    "language": "JavaScript",
-    "openIssues": 48,
-    "cachedAt": "2026-09-24T22:34:25.016Z"
-  },
   "TerraByte-Dev/TerraPlayer": {
     "fullName": "TerraByte-Dev/TerraPlayer",
     "stars": 4,
@@ -11498,5 +11148,225 @@
     "language": "MDX",
     "openIssues": 2,
     "cachedAt": "2026-10-01T19:39:18.992Z"
+  },
+  "pietervw/supportseal": {
+    "fullName": "pietervw/supportseal",
+    "stars": 0,
+    "pushedAt": "2026-10-01T23:06:00Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 13,
+    "cachedAt": "2026-10-01T23:59:00.336Z"
+  },
+  "microsoft/scope": {
+    "fullName": "microsoft/scope",
+    "stars": 6,
+    "pushedAt": "2026-10-01T19:36:10Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 307,
+    "cachedAt": "2026-10-01T23:59:00.593Z"
+  },
+  "Dhruv8525-Dex/8bitSpace-a-pixel-themed-cloud-storage-app": {
+    "fullName": "Dhruv8525-Dex/8bitSpace-a-pixel-themed-cloud-storage-app",
+    "stars": 1,
+    "pushedAt": "2026-10-01T23:45:56Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 13,
+    "cachedAt": "2026-10-01T23:59:00.813Z"
+  },
+  "emmggew-svg/artificial-pack-skills-tr": {
+    "fullName": "emmggew-svg/artificial-pack-skills-tr",
+    "stars": 0,
+    "pushedAt": "2026-10-01T22:42:16Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 25,
+    "cachedAt": "2026-10-01T23:59:01.013Z"
+  },
+  "mofagovt/https-apostille.mofa.gov.pk.verify-attested": {
+    "fullName": "mofagovt/https-apostille.mofa.gov.pk.verify-attested",
+    "stars": 0,
+    "pushedAt": "2026-10-01T22:39:34Z",
+    "archived": false,
+    "fork": false,
+    "language": "HTML",
+    "openIssues": 5,
+    "cachedAt": "2026-10-01T23:59:01.224Z"
+  },
+  "jonathasrochadesouza/revai": {
+    "fullName": "jonathasrochadesouza/revai",
+    "stars": 1,
+    "pushedAt": "2026-10-01T22:37:11Z",
+    "archived": false,
+    "fork": false,
+    "language": "HTML",
+    "openIssues": 8,
+    "cachedAt": "2026-10-01T23:59:01.443Z"
+  },
+  "kubestellar/console": {
+    "fullName": "kubestellar/console",
+    "stars": 140,
+    "pushedAt": "2026-10-01T23:40:34Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 7,
+    "cachedAt": "2026-10-01T23:59:01.656Z"
+  },
+  "lucas-pospor/travel-phrases": {
+    "fullName": "lucas-pospor/travel-phrases",
+    "stars": 0,
+    "pushedAt": "2026-10-01T23:04:31Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 27,
+    "cachedAt": "2026-10-01T23:59:01.819Z"
+  },
+  "PranavMin/LazyTO": {
+    "fullName": "PranavMin/LazyTO",
+    "stars": 1,
+    "pushedAt": "2026-10-01T23:02:31Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 4,
+    "cachedAt": "2026-10-01T23:59:02.003Z"
+  },
+  "jasonjgardner/blockbench-mcp-plugin": {
+    "fullName": "jasonjgardner/blockbench-mcp-plugin",
+    "stars": 471,
+    "pushedAt": "2026-10-01T22:43:23Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 2,
+    "cachedAt": "2026-10-01T23:59:02.192Z"
+  },
+  "munzzyy/starling": {
+    "fullName": "munzzyy/starling",
+    "stars": 40,
+    "pushedAt": "2026-10-01T20:40:18Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 5,
+    "cachedAt": "2026-10-01T23:59:02.389Z"
+  },
+  "mcguinness/mission-bound-authorization": {
+    "fullName": "mcguinness/mission-bound-authorization",
+    "stars": 4,
+    "pushedAt": "2026-10-01T23:56:16Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 89,
+    "cachedAt": "2026-10-01T23:59:02.644Z"
+  },
+  "adcontextprotocol/adcp": {
+    "fullName": "adcontextprotocol/adcp",
+    "stars": 253,
+    "pushedAt": "2026-10-01T23:56:07Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 422,
+    "cachedAt": "2026-10-01T23:59:02.886Z"
+  },
+  "hannahro15/Job-tools-platform": {
+    "fullName": "hannahro15/Job-tools-platform",
+    "stars": 1,
+    "pushedAt": "2026-10-01T23:58:36Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 21,
+    "cachedAt": "2026-10-01T23:59:03.071Z"
+  },
+  "zgeoff/imp": {
+    "fullName": "zgeoff/imp",
+    "stars": 0,
+    "pushedAt": "2026-10-01T23:58:37Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 41,
+    "cachedAt": "2026-10-01T23:59:03.272Z"
+  },
+  "di-framework/docs": {
+    "fullName": "di-framework/docs",
+    "stars": 0,
+    "pushedAt": "2026-10-01T23:40:01Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 2,
+    "cachedAt": "2026-10-01T23:59:03.539Z"
+  },
+  "kompiro/karasu": {
+    "fullName": "kompiro/karasu",
+    "stars": 1,
+    "pushedAt": "2026-10-01T23:24:34Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 61,
+    "cachedAt": "2026-10-01T23:59:03.716Z"
+  },
+  "a-man-called-q/vern": {
+    "fullName": "a-man-called-q/vern",
+    "stars": 0,
+    "pushedAt": "2026-10-01T21:50:28Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 9,
+    "cachedAt": "2026-10-01T23:59:03.929Z"
+  },
+  "rome-os/rome": {
+    "fullName": "rome-os/rome",
+    "stars": 669,
+    "pushedAt": "2026-10-01T23:22:21Z",
+    "archived": false,
+    "fork": false,
+    "language": "TypeScript",
+    "openIssues": 95,
+    "cachedAt": "2026-10-01T23:59:04.121Z"
+  },
+  "jennifer-mckinney/pulse-of-ai": {
+    "fullName": "jennifer-mckinney/pulse-of-ai",
+    "stars": 0,
+    "pushedAt": "2026-10-01T23:56:11Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 20,
+    "cachedAt": "2026-10-01T23:59:04.271Z"
+  },
+  "BenSheridanEdwards/StyleProof": {
+    "fullName": "BenSheridanEdwards/StyleProof",
+    "stars": 3,
+    "pushedAt": "2026-10-01T23:49:16Z",
+    "archived": false,
+    "fork": false,
+    "language": "JavaScript",
+    "openIssues": 5,
+    "cachedAt": "2026-10-01T23:59:04.464Z"
+  },
+  "The-Swarm-Corporation/swarms-framework-docs": {
+    "fullName": "The-Swarm-Corporation/swarms-framework-docs",
+    "stars": 6,
+    "pushedAt": "2026-09-29T23:58:44Z",
+    "archived": false,
+    "fork": false,
+    "language": "MDX",
+    "openIssues": 209,
+    "cachedAt": "2026-10-01T23:59:04.670Z"
   }
 }

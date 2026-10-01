@@ -1,5 +1,125 @@
 [
   {
+    "key": "lingdojo/kana-dojo#31439",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31439,
+    "title": "[good first issue] 🀄 Add new Video Game Quote 1140 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31439",
+    "comments": 1,
+    "createdAt": "2026-10-01T23:57:32Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-01T23:59:00.108Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31438",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31438,
+    "title": "[good first issue] 🌋 Add new Grammar Point 1371 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31438",
+    "comments": 1,
+    "createdAt": "2026-10-01T23:00:56Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-01T23:59:00.593Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31437",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31437,
+    "title": "[good first issue] 🎎 Add new Japanese Proverb 852 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31437",
+    "comments": 1,
+    "createdAt": "2026-10-01T22:57:31Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-01T23:59:01.819Z"
+  },
+  {
+    "key": "jasonjgardner/blockbench-mcp-plugin#76",
+    "tier": 2,
+    "repo": "jasonjgardner/blockbench-mcp-plugin",
+    "number": 76,
+    "title": "Improve agent use of Undo System",
+    "url": "https://github.com/jasonjgardner/blockbench-mcp-plugin/issues/76",
+    "comments": 0,
+    "createdAt": "2026-10-01T22:28:04Z",
+    "labels": [
+      "enhancement",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 471,
+    "foundAt": "2026-10-01T23:59:02.192Z"
+  },
+  {
+    "key": "adcontextprotocol/adcp#7875",
+    "tier": 3,
+    "repo": "adcontextprotocol/adcp",
+    "number": 7875,
+    "title": "a2a-guide documents the pre-1.0 agent card path; suggest deprecating /.well-known/agent.json in favour of A2A 1.x canonical",
+    "url": "https://github.com/adcontextprotocol/adcp/issues/7875",
+    "comments": 1,
+    "createdAt": "2026-10-01T23:47:51Z",
+    "labels": [
+      "documentation",
+      "claude-triaged"
+    ],
+    "language": "typescript",
+    "stars": 253,
+    "foundAt": "2026-10-01T23:59:02.886Z"
+  },
+  {
+    "key": "rome-os/rome#613",
+    "tier": 3,
+    "repo": "rome-os/rome",
+    "number": 613,
+    "title": "app_creation REFERENCE.md: the `system:create_routine` examples omit the required `trigger.tzMode`, so copying them is rejected",
+    "url": "https://github.com/rome-os/rome/issues/613",
+    "comments": 0,
+    "createdAt": "2026-10-01T23:15:47Z",
+    "labels": [
+      "documentation",
+      "P2"
+    ],
+    "language": "typescript",
+    "stars": 669,
+    "foundAt": "2026-10-01T23:59:04.121Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#31429",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1914,126 +2034,5 @@
     "language": "typescript",
     "stars": 404,
     "foundAt": "2026-10-01T06:12:17.108Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31372",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31372,
-    "title": "[good first issue] 🎴 Add new Learner Mistake 759 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31372",
-    "comments": 1,
-    "createdAt": "2026-10-01T00:57:29Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-10-01T06:12:17.587Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31371",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31371,
-    "title": "[good first issue] 🧧 Add new Etiquette Tip 406 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31371",
-    "comments": 1,
-    "createdAt": "2026-10-01T00:01:01Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-10-01T06:12:18.989Z"
-  },
-  {
-    "key": "meshery/meshery.io#3030",
-    "tier": 2,
-    "repo": "meshery/meshery.io",
-    "number": 3030,
-    "title": "[UI] Horizontal overflow and content clipping on /community/newcomers at tablet viewports",
-    "url": "https://github.com/meshery/meshery.io/issues/3030",
-    "comments": 1,
-    "createdAt": "2026-10-01T05:40:02Z",
-    "labels": [
-      "kind/bug",
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 867,
-    "foundAt": "2026-10-01T06:12:20.910Z"
-  },
-  {
-    "key": "backstage/backstage#35952",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35952,
-    "title": "Snyk vulnerability [SNYK-JS-URIJS-20341609]",
-    "url": "https://github.com/backstage/backstage/issues/35952",
-    "comments": 0,
-    "createdAt": "2026-10-01T04:13:15Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34522,
-    "foundAt": "2026-10-01T06:12:20.910Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8321",
-    "tier": 2,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8321,
-    "title": "Fork, Commit, Merge - Medium Issue (Ada)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8321",
-    "comments": 0,
-    "createdAt": "2026-10-01T03:20:19Z",
-    "labels": [
-      "help wanted",
-      "first-contributors",
-      "first-contributor",
-      "medium",
-      "up-for-grabs",
-      "ada"
-    ],
-    "language": "css",
-    "stars": 510,
-    "foundAt": "2026-10-01T06:12:21.244Z"
-  },
-  {
-    "key": "webdriverio/webdriverio#15844",
-    "tier": 2,
-    "repo": "webdriverio/webdriverio",
-    "number": 15844,
-    "title": "[🐛 Bug]: execute() on a multi-remote browser fails when an argument is a multi-remote element",
-    "url": "https://github.com/webdriverio/webdriverio/issues/15844",
-    "comments": 2,
-    "createdAt": "2026-10-01T00:43:30Z",
-    "labels": [
-      "Bug 🐛",
-      "help wanted",
-      "good first pick",
-      "Protocol Related",
-      "multi remote"
-    ],
-    "language": "typescript",
-    "stars": 9841,
-    "foundAt": "2026-10-01T06:12:20.910Z"
   }
 ]

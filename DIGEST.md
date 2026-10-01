@@ -4,6 +4,12 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-10-01 | 🥇 | [[good first issue] 🀄 Add new Video Game Quote 1140 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31439) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-01 | 🥇 | [[good first issue] 🌋 Add new Grammar Point 1371 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31438) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-01 | 🥈 | [[good first issue] 🎎 Add new Japanese Proverb 852 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31437) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-01 | 🥈 | [Improve agent use of Undo System](https://github.com/jasonjgardner/blockbench-mcp-plugin/issues/76) | `jasonjgardner/blockbench-mcp-plugin` | ⭐ 471 |
+| 2026-10-01 | 🥉 | [a2a-guide documents the pre-1.0 agent card path; suggest deprecating /.well-know](https://github.com/adcontextprotocol/adcp/issues/7875) | `adcontextprotocol/adcp` | ⭐ 253 |
+| 2026-10-01 | 🥉 | [app_creation REFERENCE.md: the `system:create_routine` examples omit the require](https://github.com/rome-os/rome/issues/613) | `rome-os/rome` | ⭐ 669 |
 | 2026-10-01 | 🥇 | [[good first issue] 🍛 Add new Dialect Entry 983 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31429) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-10-01 | 🥇 | [[good first issue] 🍜 Add new Japanese Idiom 1161 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31428) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-10-01 | 🥇 | [Agentic score: report turns per run](https://github.com/JayPokale/Chisle/issues/26) | `JayPokale/Chisle` | ⭐ 588 |
@@ -98,9 +104,3 @@
 | 2026-10-01 | 🥇 | [[good first issue] 🍁 Add new Japanese Proverb 186 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31377) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-10-01 | 🥇 | [[good first issue] 🗾 Add new Japan Fact 1754 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31376) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-10-01 | 🥇 | [add custom lookback ranges](https://github.com/elmohq/elmo/issues/834) | `elmohq/elmo` | ⭐ 404 |
-| 2026-10-01 | 🥇 | [[good first issue] 🎴 Add new Learner Mistake 759 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31372) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-10-01 | 🥇 | [[good first issue] 🧧 Add new Etiquette Tip 406 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31371) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-10-01 | 🥈 | [[UI] Horizontal overflow and content clipping on /community/newcomers at tablet ](https://github.com/meshery/meshery.io/issues/3030) | `meshery/meshery.io` | ⭐ 867 |
-| 2026-10-01 | 🥈 | [Snyk vulnerability [SNYK-JS-URIJS-20341609]](https://github.com/backstage/backstage/issues/35952) | `backstage/backstage` | ⭐ 34.5k |
-| 2026-10-01 | 🥈 | [Fork, Commit, Merge - Medium Issue (Ada)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8321) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
-| 2026-10-01 | 🥈 | [[🐛 Bug]: execute() on a multi-remote browser fails when an argument is a multi-](https://github.com/webdriverio/webdriverio/issues/15844) | `webdriverio/webdriverio` | ⭐ 9.8k |
