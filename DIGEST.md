@@ -4,6 +4,37 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-10-01 | 🥇 | [[good first issue] 🍛 Add new Dialect Entry 983 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31429) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-01 | 🥇 | [[good first issue] 🍜 Add new Japanese Idiom 1161 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31428) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-01 | 🥇 | [Agentic score: report turns per run](https://github.com/JayPokale/Chisle/issues/26) | `JayPokale/Chisle` | ⭐ 588 |
+| 2026-10-01 | 🥇 | [run-live.sh: a failed call is cached and never retried](https://github.com/JayPokale/Chisle/issues/25) | `JayPokale/Chisle` | ⭐ 588 |
+| 2026-10-01 | 🥇 | [Replay: break savings down per tool](https://github.com/JayPokale/Chisle/issues/21) | `JayPokale/Chisle` | ⭐ 588 |
+| 2026-10-01 | 🥇 | [Chart the 2026-10-01 re-run in the README](https://github.com/JayPokale/Chisle/issues/20) | `JayPokale/Chisle` | ⭐ 588 |
+| 2026-10-01 | 🥇 | [Run existing quality checks on documentation-only PRs](https://github.com/Observal/Axl/issues/471) | `Observal/Axl` | ⭐ 1.2k |
+| 2026-10-01 | 🥇 | [Accept `axl run -p` as a spelling of the existing print path](https://github.com/Observal/Axl/issues/470) | `Observal/Axl` | ⭐ 1.2k |
+| 2026-10-01 | 🥇 | [Show the active session's other-client count in the TUI](https://github.com/Observal/Axl/issues/469) | `Observal/Axl` | ⭐ 1.2k |
+| 2026-10-01 | 🥇 | [Expose the active web control-center section to assistive technology](https://github.com/Observal/Axl/issues/468) | `Observal/Axl` | ⭐ 1.2k |
+| 2026-10-01 | 🥇 | [Give the web control-center switches accessible names and states](https://github.com/Observal/Axl/issues/467) | `Observal/Axl` | ⭐ 1.2k |
+| 2026-10-01 | 🥇 | [Record VS Code integrated-terminal compatibility evidence](https://github.com/Observal/Axl/issues/466) | `Observal/Axl` | ⭐ 1.2k |
+| 2026-10-01 | 🥇 | [Record Kitty graphics and cleanup evidence](https://github.com/Observal/Axl/issues/465) | `Observal/Axl` | ⭐ 1.2k |
+| 2026-10-01 | 🥇 | [Record Apple Terminal compatibility evidence](https://github.com/Observal/Axl/issues/464) | `Observal/Axl` | ⭐ 1.2k |
+| 2026-10-01 | 🥇 | [[good first issue] 🍱 Add new Anime Quote 556 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31424) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-01 | 🥇 | [Developer manual: mention the org's appstore-build-publish workflow](https://github.com/nextcloud/documentation/issues/15687) | `nextcloud/documentation` | ⭐ 632 |
+| 2026-10-01 | 🥇 | [Developer manual: recommend a SECURITY.md in publishing.rst](https://github.com/nextcloud/documentation/issues/15686) | `nextcloud/documentation` | ⭐ 632 |
+| 2026-10-01 | 🥇 | [Developer manual: what to clean up on uninstall in repair.rst](https://github.com/nextcloud/documentation/issues/15685) | `nextcloud/documentation` | ⭐ 632 |
+| 2026-10-01 | 🥇 | [Developer manual: copyable setup for PHP-CS-Fixer and ESLint](https://github.com/nextcloud/documentation/issues/15684) | `nextcloud/documentation` | ⭐ 632 |
+| 2026-10-01 | 🥇 | [Developer manual: validate and rate-limit outgoing mail in email.rst](https://github.com/nextcloud/documentation/issues/15683) | `nextcloud/documentation` | ⭐ 632 |
+| 2026-10-01 | 🥇 | [Developer manual: allowlist user-supplied columns and sort orders in database.rs](https://github.com/nextcloud/documentation/issues/15682) | `nextcloud/documentation` | ⭐ 632 |
+| 2026-10-01 | 🥇 | [Developer manual: add crypto APIs, unserialize and CSV injection to security.rst](https://github.com/nextcloud/documentation/issues/15681) | `nextcloud/documentation` | ⭐ 632 |
+| 2026-10-01 | 🥇 | [Developer manual: document registerSensitiveMethods() in logging.rst](https://github.com/nextcloud/documentation/issues/15680) | `nextcloud/documentation` | ⭐ 632 |
+| 2026-10-01 | 🥇 | [Developer manual: fix the attribute and CSP examples in controllers.rst](https://github.com/nextcloud/documentation/issues/15679) | `nextcloud/documentation` | ⭐ 632 |
+| 2026-10-01 | 🥈 | [OpenCode: does the compressor reach failed tool calls?](https://github.com/JayPokale/Chisle/issues/29) | `JayPokale/Chisle` | ⭐ 588 |
+| 2026-10-01 | 🥈 | [Make the Sonnet suite reproducible](https://github.com/JayPokale/Chisle/issues/28) | `JayPokale/Chisle` | ⭐ 588 |
+| 2026-10-01 | 🥈 | [Site: show October transcripts in the Compare section](https://github.com/JayPokale/Chisle/issues/27) | `JayPokale/Chisle` | ⭐ 588 |
+| 2026-10-01 | 🥈 | [Installer: register the Copilot CLI compression hook](https://github.com/JayPokale/Chisle/issues/24) | `JayPokale/Chisle` | ⭐ 588 |
+| 2026-10-01 | 🥈 | [Pi: can a failed tool result be rewritten?](https://github.com/JayPokale/Chisle/issues/23) | `JayPokale/Chisle` | ⭐ 588 |
+| 2026-10-01 | 🥈 | [Agentic suite: add a fixture with a large file](https://github.com/JayPokale/Chisle/issues/22) | `JayPokale/Chisle` | ⭐ 588 |
+| 2026-10-01 | 🥈 | [🕰️ last_verified staleness (automated monthly check)](https://github.com/ch-bas/cctv-camera-database/issues/399) | `ch-bas/cctv-camera-database` | ⭐ 275 |
 | 2026-10-01 | 🥇 | [feat: Per-repository sync and persistence modes](https://github.com/goatplatform/goatdb/issues/65) | `goatplatform/goatdb` | ⭐ 579 |
 | 2026-10-01 | 🥇 | [Batch insert can exceed SQL Server's 2,100-parameter limit and Postgres's 65,535](https://github.com/Rohithgilla12/data-peek/issues/279) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
 | 2026-10-01 | 🥇 | [Data generator: seeded runs are not reproducible, plus an unused duplicate heuri](https://github.com/Rohithgilla12/data-peek/issues/278) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
@@ -73,34 +104,3 @@
 | 2026-10-01 | 🥈 | [Snyk vulnerability [SNYK-JS-URIJS-20341609]](https://github.com/backstage/backstage/issues/35952) | `backstage/backstage` | ⭐ 34.5k |
 | 2026-10-01 | 🥈 | [Fork, Commit, Merge - Medium Issue (Ada)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8321) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
 | 2026-10-01 | 🥈 | [[🐛 Bug]: execute() on a multi-remote browser fails when an argument is a multi-](https://github.com/webdriverio/webdriverio/issues/15844) | `webdriverio/webdriverio` | ⭐ 9.8k |
-| 2026-10-01 | 🥉 | [Could you please confirm whether you have verified this as a vulnerability](https://github.com/actualbudget/actual/issues/9055) | `actualbudget/actual` | ⭐ 29.2k |
-| 2026-10-01 | 🥉 | [Workflow args limits aren't visible up front, and validate doesn't check args](https://github.com/nicobailon/pi-subagents/issues/2608) | `nicobailon/pi-subagents` | ⭐ 3.8k |
-| 2026-10-01 | 🥉 | [Keep server memory proportional to recent use, and show the benefit over Pi's bu](https://github.com/nicobailon/pi-mcp-adapter/issues/783) | `nicobailon/pi-mcp-adapter` | ⭐ 1.6k |
-| 2026-10-01 | 🥇 | [[good first issue] ⛩️ Add new False Friend Pair 688 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31369) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-10-01 | 🥇 | [[good first issue] 🎌 Add new Dialect Entry 665 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31368) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-10-01 | 🥇 | [[good first issue] ⛩️ Add new Japanese Idiom 1081 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31367) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-10-01 | 🥇 | [Stopped-chat desktop notifications are always in English](https://github.com/totec448-spec/chat-on-steroids/issues/855) | `totec448-spec/chat-on-steroids` | ⭐ 4.2k |
-| 2026-10-01 | 🥇 | [[good first issue] 🏮 Add new Anime Quote 1215 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31366) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-10-01 | 🥇 | [[good first issue] 🗻 Add new Grammar Point 850 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31365) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-10-01 | 🥇 | [[good first issue] 🍥 Add new Japanese Proverb 1789 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31363) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-10-01 | 🥇 | [[good first issue] 🍛 Add new Japan Fact 1065 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31362) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-10-01 | 🥇 | [download.py fails to consider errors failures](https://github.com/decompme/decomp.me/issues/2118) | `decompme/decomp.me` | ⭐ 614 |
-| 2026-10-01 | 🥇 | [Loop pause message blames the tunnel when ChatGPT simply asked a question](https://github.com/totec448-spec/chat-on-steroids/issues/842) | `totec448-spec/chat-on-steroids` | ⭐ 4.2k |
-| 2026-10-01 | 🥇 | [[good first issue] 🎐 Add new Theme: Sumi Charcoal (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31360) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-10-01 | 🥇 | [[good first issue] 🍡 Add new Community Note Line #54 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31359) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-10-01 | 🥉 | [Stepper - Error state text doesn't meet contrast requirements](https://github.com/grommet/grommet/issues/8169) | `grommet/grommet` | ⭐ 8.3k |
-| 2026-10-01 | 🥉 | [docs: helm list sample output in intro/using_helm uses Helm 2 table format](https://github.com/helm/helm-www/issues/2263) | `helm/helm-www` | ⭐ 230 |
-| 2026-10-01 | 🥉 | [docs: update English cheat sheet for Helm 4](https://github.com/helm/helm-www/issues/2262) | `helm/helm-www` | ⭐ 230 |
-| 2026-10-01 | 🥉 | [Document how to avoid an empty `<h2>` on revealjs slides without a visible title](https://github.com/quarto-dev/quarto-cli/issues/14971) | `quarto-dev/quarto-cli` | ⭐ 6.0k |
-| 2026-10-01 | 🥉 | [revealjs tabset tabs get positive tabindex values](https://github.com/quarto-dev/quarto-cli/issues/14970) | `quarto-dev/quarto-cli` | ⭐ 6.0k |
-| 2026-10-01 | 🥉 | [a11y: the collapsed "On this page" toggle cannot be used with a keyboard](https://github.com/quarto-dev/quarto-cli/issues/14969) | `quarto-dev/quarto-cli` | ⭐ 6.0k |
-| 2026-10-01 | 🥉 | [a11y: notebook preview header is outside any landmark](https://github.com/quarto-dev/quarto-cli/issues/14968) | `quarto-dev/quarto-cli` | ⭐ 6.0k |
-| 2026-09-30 | 🥇 | [Five provider docs tell readers to run bare bun test over a directory](https://github.com/libredb/libredb-studio/issues/1216) | `libredb/libredb-studio` | ⭐ 890 |
-| 2026-09-30 | 🥇 | [docs/providers/libsql.md: "the other sixteen engines" is out of date](https://github.com/libredb/libredb-studio/issues/1215) | `libredb/libredb-studio` | ⭐ 890 |
-| 2026-09-30 | 🥇 | [docs/ui/login-page.md: NEXT_PUBLIC_APP_VERSION is listed as a setting, but next.](https://github.com/libredb/libredb-studio/issues/1214) | `libredb/libredb-studio` | ⭐ 890 |
-| 2026-09-30 | 🥈 | [High memory usage on logging in to an existing large group for the first time](https://github.com/okTurtles/group-income/issues/3173) | `okTurtles/group-income` | ⭐ 349 |
-| 2026-09-30 | 🥉 | [components: <text pressable> gets no link role by default](https://github.com/ng-native/ng-native/issues/117) | `ng-native/ng-native` | ⭐ 291 |
-| 2026-09-30 | 🥉 | [components: aria-disabled wins over disabled when they disagree, but React Nativ](https://github.com/ng-native/ng-native/issues/116) | `ng-native/ng-native` | ⭐ 291 |
-| 2026-09-30 | 🥇 | [[good first issue] 🍣 Add new Community Note Line #38 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31337) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-30 | 🥇 | [[Bug]: Admin region details show empty Payment providers after visiting Settings](https://github.com/medusajs/medusa/issues/17082) | `medusajs/medusa` | ⭐ 36.4k |
-| 2026-09-30 | 🥇 | [[good first issue] 🌊 Add new Example Sentence 179 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31336) | `lingdojo/kana-dojo` | ⭐ 3.5k |

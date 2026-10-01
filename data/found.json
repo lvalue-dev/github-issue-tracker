@@ -1,5 +1,602 @@
 [
   {
+    "key": "lingdojo/kana-dojo#31429",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31429,
+    "title": "[good first issue] 🍛 Add new Dialect Entry 983 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31429",
+    "comments": 1,
+    "createdAt": "2026-10-01T19:00:59Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-01T19:39:09.714Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31428",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31428,
+    "title": "[good first issue] 🍜 Add new Japanese Idiom 1161 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31428",
+    "comments": 1,
+    "createdAt": "2026-10-01T18:57:36Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-01T19:39:09.714Z"
+  },
+  {
+    "key": "JayPokale/Chisle#26",
+    "tier": 1,
+    "repo": "JayPokale/Chisle",
+    "number": 26,
+    "title": "Agentic score: report turns per run",
+    "url": "https://github.com/JayPokale/Chisle/issues/26",
+    "comments": 1,
+    "createdAt": "2026-10-01T18:48:59Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "javascript",
+    "stars": 588,
+    "foundAt": "2026-10-01T19:39:11.440Z"
+  },
+  {
+    "key": "JayPokale/Chisle#25",
+    "tier": 1,
+    "repo": "JayPokale/Chisle",
+    "number": 25,
+    "title": "run-live.sh: a failed call is cached and never retried",
+    "url": "https://github.com/JayPokale/Chisle/issues/25",
+    "comments": 0,
+    "createdAt": "2026-10-01T18:48:58Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "javascript",
+    "stars": 588,
+    "foundAt": "2026-10-01T19:39:11.440Z"
+  },
+  {
+    "key": "JayPokale/Chisle#21",
+    "tier": 1,
+    "repo": "JayPokale/Chisle",
+    "number": 21,
+    "title": "Replay: break savings down per tool",
+    "url": "https://github.com/JayPokale/Chisle/issues/21",
+    "comments": 0,
+    "createdAt": "2026-10-01T18:32:13Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "javascript",
+    "stars": 588,
+    "foundAt": "2026-10-01T19:39:11.661Z"
+  },
+  {
+    "key": "JayPokale/Chisle#20",
+    "tier": 1,
+    "repo": "JayPokale/Chisle",
+    "number": 20,
+    "title": "Chart the 2026-10-01 re-run in the README",
+    "url": "https://github.com/JayPokale/Chisle/issues/20",
+    "comments": 0,
+    "createdAt": "2026-10-01T18:32:10Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "javascript",
+    "stars": 588,
+    "foundAt": "2026-10-01T19:39:11.661Z"
+  },
+  {
+    "key": "Observal/Axl#471",
+    "tier": 1,
+    "repo": "Observal/Axl",
+    "number": 471,
+    "title": "Run existing quality checks on documentation-only PRs",
+    "url": "https://github.com/Observal/Axl/issues/471",
+    "comments": 1,
+    "createdAt": "2026-10-01T18:32:05Z",
+    "labels": [
+      "good first issue",
+      "help wanted",
+      "ci/cd",
+      "tests"
+    ],
+    "language": "typescript",
+    "stars": 1154,
+    "foundAt": "2026-10-01T19:39:09.911Z"
+  },
+  {
+    "key": "Observal/Axl#470",
+    "tier": 1,
+    "repo": "Observal/Axl",
+    "number": 470,
+    "title": "Accept `axl run -p` as a spelling of the existing print path",
+    "url": "https://github.com/Observal/Axl/issues/470",
+    "comments": 1,
+    "createdAt": "2026-10-01T18:31:37Z",
+    "labels": [
+      "good first issue",
+      "help wanted",
+      "cli",
+      "tests"
+    ],
+    "language": "typescript",
+    "stars": 1154,
+    "foundAt": "2026-10-01T19:39:09.911Z"
+  },
+  {
+    "key": "Observal/Axl#469",
+    "tier": 1,
+    "repo": "Observal/Axl",
+    "number": 469,
+    "title": "Show the active session's other-client count in the TUI",
+    "url": "https://github.com/Observal/Axl/issues/469",
+    "comments": 1,
+    "createdAt": "2026-10-01T18:31:09Z",
+    "labels": [
+      "good first issue",
+      "help wanted",
+      "tests",
+      "client:tui"
+    ],
+    "language": "typescript",
+    "stars": 1154,
+    "foundAt": "2026-10-01T19:39:09.911Z"
+  },
+  {
+    "key": "Observal/Axl#468",
+    "tier": 1,
+    "repo": "Observal/Axl",
+    "number": 468,
+    "title": "Expose the active web control-center section to assistive technology",
+    "url": "https://github.com/Observal/Axl/issues/468",
+    "comments": 1,
+    "createdAt": "2026-10-01T18:30:50Z",
+    "labels": [
+      "good first issue",
+      "help wanted",
+      "tests",
+      "client:web-app"
+    ],
+    "language": "typescript",
+    "stars": 1154,
+    "foundAt": "2026-10-01T19:39:09.911Z"
+  },
+  {
+    "key": "Observal/Axl#467",
+    "tier": 1,
+    "repo": "Observal/Axl",
+    "number": 467,
+    "title": "Give the web control-center switches accessible names and states",
+    "url": "https://github.com/Observal/Axl/issues/467",
+    "comments": 1,
+    "createdAt": "2026-10-01T18:30:22Z",
+    "labels": [
+      "good first issue",
+      "help wanted",
+      "tests",
+      "client:web-app"
+    ],
+    "language": "typescript",
+    "stars": 1154,
+    "foundAt": "2026-10-01T19:39:09.911Z"
+  },
+  {
+    "key": "Observal/Axl#466",
+    "tier": 1,
+    "repo": "Observal/Axl",
+    "number": 466,
+    "title": "Record VS Code integrated-terminal compatibility evidence",
+    "url": "https://github.com/Observal/Axl/issues/466",
+    "comments": 1,
+    "createdAt": "2026-10-01T18:29:44Z",
+    "labels": [
+      "good first issue",
+      "help wanted",
+      "tests",
+      "client:tui"
+    ],
+    "language": "typescript",
+    "stars": 1154,
+    "foundAt": "2026-10-01T19:39:09.911Z"
+  },
+  {
+    "key": "Observal/Axl#465",
+    "tier": 1,
+    "repo": "Observal/Axl",
+    "number": 465,
+    "title": "Record Kitty graphics and cleanup evidence",
+    "url": "https://github.com/Observal/Axl/issues/465",
+    "comments": 1,
+    "createdAt": "2026-10-01T18:29:23Z",
+    "labels": [
+      "good first issue",
+      "help wanted",
+      "tests",
+      "client:tui"
+    ],
+    "language": "typescript",
+    "stars": 1154,
+    "foundAt": "2026-10-01T19:39:09.911Z"
+  },
+  {
+    "key": "Observal/Axl#464",
+    "tier": 1,
+    "repo": "Observal/Axl",
+    "number": 464,
+    "title": "Record Apple Terminal compatibility evidence",
+    "url": "https://github.com/Observal/Axl/issues/464",
+    "comments": 1,
+    "createdAt": "2026-10-01T18:29:04Z",
+    "labels": [
+      "good first issue",
+      "help wanted",
+      "tests",
+      "client:tui"
+    ],
+    "language": "typescript",
+    "stars": 1154,
+    "foundAt": "2026-10-01T19:39:09.911Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31424",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31424,
+    "title": "[good first issue] 🍱 Add new Anime Quote 556 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31424",
+    "comments": 1,
+    "createdAt": "2026-10-01T17:57:31Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-01T19:39:10.355Z"
+  },
+  {
+    "key": "nextcloud/documentation#15687",
+    "tier": 1,
+    "repo": "nextcloud/documentation",
+    "number": 15687,
+    "title": "Developer manual: mention the org's appstore-build-publish workflow",
+    "url": "https://github.com/nextcloud/documentation/issues/15687",
+    "comments": 0,
+    "createdAt": "2026-10-01T15:59:09Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "0. needs triage",
+      "manual: developer",
+      "developer experience"
+    ],
+    "language": "javascript",
+    "stars": 632,
+    "foundAt": "2026-10-01T19:39:12.101Z"
+  },
+  {
+    "key": "nextcloud/documentation#15686",
+    "tier": 1,
+    "repo": "nextcloud/documentation",
+    "number": 15686,
+    "title": "Developer manual: recommend a SECURITY.md in publishing.rst",
+    "url": "https://github.com/nextcloud/documentation/issues/15686",
+    "comments": 0,
+    "createdAt": "2026-10-01T15:59:07Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "0. needs triage",
+      "manual: developer",
+      "security"
+    ],
+    "language": "javascript",
+    "stars": 632,
+    "foundAt": "2026-10-01T19:39:12.101Z"
+  },
+  {
+    "key": "nextcloud/documentation#15685",
+    "tier": 1,
+    "repo": "nextcloud/documentation",
+    "number": 15685,
+    "title": "Developer manual: what to clean up on uninstall in repair.rst",
+    "url": "https://github.com/nextcloud/documentation/issues/15685",
+    "comments": 0,
+    "createdAt": "2026-10-01T15:59:05Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "0. needs triage",
+      "manual: developer"
+    ],
+    "language": "javascript",
+    "stars": 632,
+    "foundAt": "2026-10-01T19:39:12.101Z"
+  },
+  {
+    "key": "nextcloud/documentation#15684",
+    "tier": 1,
+    "repo": "nextcloud/documentation",
+    "number": 15684,
+    "title": "Developer manual: copyable setup for PHP-CS-Fixer and ESLint",
+    "url": "https://github.com/nextcloud/documentation/issues/15684",
+    "comments": 0,
+    "createdAt": "2026-10-01T15:59:02Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "0. needs triage",
+      "manual: developer",
+      "developer experience"
+    ],
+    "language": "javascript",
+    "stars": 632,
+    "foundAt": "2026-10-01T19:39:12.101Z"
+  },
+  {
+    "key": "nextcloud/documentation#15683",
+    "tier": 1,
+    "repo": "nextcloud/documentation",
+    "number": 15683,
+    "title": "Developer manual: validate and rate-limit outgoing mail in email.rst",
+    "url": "https://github.com/nextcloud/documentation/issues/15683",
+    "comments": 0,
+    "createdAt": "2026-10-01T15:58:59Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "0. needs triage",
+      "manual: developer",
+      "security",
+      "feature: emails"
+    ],
+    "language": "javascript",
+    "stars": 632,
+    "foundAt": "2026-10-01T19:39:12.101Z"
+  },
+  {
+    "key": "nextcloud/documentation#15682",
+    "tier": 1,
+    "repo": "nextcloud/documentation",
+    "number": 15682,
+    "title": "Developer manual: allowlist user-supplied columns and sort orders in database.rst",
+    "url": "https://github.com/nextcloud/documentation/issues/15682",
+    "comments": 0,
+    "createdAt": "2026-10-01T15:58:57Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "0. needs triage",
+      "manual: developer",
+      "security"
+    ],
+    "language": "javascript",
+    "stars": 632,
+    "foundAt": "2026-10-01T19:39:12.101Z"
+  },
+  {
+    "key": "nextcloud/documentation#15681",
+    "tier": 1,
+    "repo": "nextcloud/documentation",
+    "number": 15681,
+    "title": "Developer manual: add crypto APIs, unserialize and CSV injection to security.rst",
+    "url": "https://github.com/nextcloud/documentation/issues/15681",
+    "comments": 0,
+    "createdAt": "2026-10-01T15:58:55Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "0. needs triage",
+      "manual: developer",
+      "security"
+    ],
+    "language": "javascript",
+    "stars": 632,
+    "foundAt": "2026-10-01T19:39:12.101Z"
+  },
+  {
+    "key": "nextcloud/documentation#15680",
+    "tier": 1,
+    "repo": "nextcloud/documentation",
+    "number": 15680,
+    "title": "Developer manual: document registerSensitiveMethods() in logging.rst",
+    "url": "https://github.com/nextcloud/documentation/issues/15680",
+    "comments": 0,
+    "createdAt": "2026-10-01T15:58:53Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "0. needs triage",
+      "manual: developer",
+      "security",
+      "feature: logging"
+    ],
+    "language": "javascript",
+    "stars": 632,
+    "foundAt": "2026-10-01T19:39:12.101Z"
+  },
+  {
+    "key": "nextcloud/documentation#15679",
+    "tier": 1,
+    "repo": "nextcloud/documentation",
+    "number": 15679,
+    "title": "Developer manual: fix the attribute and CSP examples in controllers.rst",
+    "url": "https://github.com/nextcloud/documentation/issues/15679",
+    "comments": 0,
+    "createdAt": "2026-10-01T15:58:51Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "0. needs triage",
+      "manual: developer"
+    ],
+    "language": "javascript",
+    "stars": 632,
+    "foundAt": "2026-10-01T19:39:12.101Z"
+  },
+  {
+    "key": "JayPokale/Chisle#29",
+    "tier": 2,
+    "repo": "JayPokale/Chisle",
+    "number": 29,
+    "title": "OpenCode: does the compressor reach failed tool calls?",
+    "url": "https://github.com/JayPokale/Chisle/issues/29",
+    "comments": 0,
+    "createdAt": "2026-10-01T18:49:05Z",
+    "labels": [
+      "help wanted",
+      "question",
+      "hacktoberfest"
+    ],
+    "language": "javascript",
+    "stars": 588,
+    "foundAt": "2026-10-01T19:39:13.512Z"
+  },
+  {
+    "key": "JayPokale/Chisle#28",
+    "tier": 2,
+    "repo": "JayPokale/Chisle",
+    "number": 28,
+    "title": "Make the Sonnet suite reproducible",
+    "url": "https://github.com/JayPokale/Chisle/issues/28",
+    "comments": 0,
+    "createdAt": "2026-10-01T18:49:03Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "hacktoberfest"
+    ],
+    "language": "javascript",
+    "stars": 588,
+    "foundAt": "2026-10-01T19:39:13.512Z"
+  },
+  {
+    "key": "JayPokale/Chisle#27",
+    "tier": 2,
+    "repo": "JayPokale/Chisle",
+    "number": 27,
+    "title": "Site: show October transcripts in the Compare section",
+    "url": "https://github.com/JayPokale/Chisle/issues/27",
+    "comments": 0,
+    "createdAt": "2026-10-01T18:49:01Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "hacktoberfest"
+    ],
+    "language": "javascript",
+    "stars": 588,
+    "foundAt": "2026-10-01T19:39:13.512Z"
+  },
+  {
+    "key": "JayPokale/Chisle#24",
+    "tier": 2,
+    "repo": "JayPokale/Chisle",
+    "number": 24,
+    "title": "Installer: register the Copilot CLI compression hook",
+    "url": "https://github.com/JayPokale/Chisle/issues/24",
+    "comments": 0,
+    "createdAt": "2026-10-01T18:32:19Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "hacktoberfest"
+    ],
+    "language": "javascript",
+    "stars": 588,
+    "foundAt": "2026-10-01T19:39:13.512Z"
+  },
+  {
+    "key": "JayPokale/Chisle#23",
+    "tier": 2,
+    "repo": "JayPokale/Chisle",
+    "number": 23,
+    "title": "Pi: can a failed tool result be rewritten?",
+    "url": "https://github.com/JayPokale/Chisle/issues/23",
+    "comments": 0,
+    "createdAt": "2026-10-01T18:32:17Z",
+    "labels": [
+      "help wanted",
+      "question",
+      "hacktoberfest"
+    ],
+    "language": "javascript",
+    "stars": 588,
+    "foundAt": "2026-10-01T19:39:13.512Z"
+  },
+  {
+    "key": "JayPokale/Chisle#22",
+    "tier": 2,
+    "repo": "JayPokale/Chisle",
+    "number": 22,
+    "title": "Agentic suite: add a fixture with a large file",
+    "url": "https://github.com/JayPokale/Chisle/issues/22",
+    "comments": 0,
+    "createdAt": "2026-10-01T18:32:15Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "hacktoberfest"
+    ],
+    "language": "javascript",
+    "stars": 588,
+    "foundAt": "2026-10-01T19:39:13.512Z"
+  },
+  {
+    "key": "ch-bas/cctv-camera-database#399",
+    "tier": 2,
+    "repo": "ch-bas/cctv-camera-database",
+    "number": 399,
+    "title": "🕰️ last_verified staleness (automated monthly check)",
+    "url": "https://github.com/ch-bas/cctv-camera-database/issues/399",
+    "comments": 0,
+    "createdAt": "2026-10-01T15:03:48Z",
+    "labels": [
+      "help wanted"
+    ],
+    "language": "javascript",
+    "stars": 275,
+    "foundAt": "2026-10-01T19:39:13.696Z"
+  },
+  {
     "key": "goatplatform/goatdb#65",
     "tier": 1,
     "repo": "goatplatform/goatdb",
@@ -1438,615 +2035,5 @@
     "language": "typescript",
     "stars": 9841,
     "foundAt": "2026-10-01T06:12:20.910Z"
-  },
-  {
-    "key": "actualbudget/actual#9055",
-    "tier": 3,
-    "repo": "actualbudget/actual",
-    "number": 9055,
-    "title": "Could you please confirm whether you have verified this as a vulnerability",
-    "url": "https://github.com/actualbudget/actual/issues/9055",
-    "comments": 0,
-    "createdAt": "2026-10-01T06:09:54Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "typescript",
-    "stars": 29238,
-    "foundAt": "2026-10-01T06:12:21.445Z"
-  },
-  {
-    "key": "nicobailon/pi-subagents#2608",
-    "tier": 3,
-    "repo": "nicobailon/pi-subagents",
-    "number": 2608,
-    "title": "Workflow args limits aren't visible up front, and validate doesn't check args",
-    "url": "https://github.com/nicobailon/pi-subagents/issues/2608",
-    "comments": 0,
-    "createdAt": "2026-10-01T06:08:12Z",
-    "labels": [
-      "documentation",
-      "enhancement"
-    ],
-    "language": "typescript",
-    "stars": 3801,
-    "foundAt": "2026-10-01T06:12:21.603Z"
-  },
-  {
-    "key": "nicobailon/pi-mcp-adapter#783",
-    "tier": 3,
-    "repo": "nicobailon/pi-mcp-adapter",
-    "number": 783,
-    "title": "Keep server memory proportional to recent use, and show the benefit over Pi's built-in MCP",
-    "url": "https://github.com/nicobailon/pi-mcp-adapter/issues/783",
-    "comments": 0,
-    "createdAt": "2026-10-01T05:01:55Z",
-    "labels": [
-      "documentation",
-      "enhancement"
-    ],
-    "language": "typescript",
-    "stars": 1570,
-    "foundAt": "2026-10-01T06:12:24.852Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31369",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31369,
-    "title": "[good first issue] ⛩️ Add new False Friend Pair 688 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31369",
-    "comments": 1,
-    "createdAt": "2026-09-30T23:57:33Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-10-01T00:00:04.090Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31368",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31368,
-    "title": "[good first issue] 🎌 Add new Dialect Entry 665 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31368",
-    "comments": 1,
-    "createdAt": "2026-09-30T23:00:59Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-10-01T00:00:04.851Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31367",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31367,
-    "title": "[good first issue] ⛩️ Add new Japanese Idiom 1081 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31367",
-    "comments": 1,
-    "createdAt": "2026-09-30T22:57:31Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-10-01T00:00:04.851Z"
-  },
-  {
-    "key": "totec448-spec/chat-on-steroids#855",
-    "tier": 1,
-    "repo": "totec448-spec/chat-on-steroids",
-    "number": 855,
-    "title": "Stopped-chat desktop notifications are always in English",
-    "url": "https://github.com/totec448-spec/chat-on-steroids/issues/855",
-    "comments": 0,
-    "createdAt": "2026-09-30T22:47:48Z",
-    "labels": [
-      "enhancement",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 4214,
-    "foundAt": "2026-10-01T00:00:05.105Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31366",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31366,
-    "title": "[good first issue] 🏮 Add new Anime Quote 1215 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31366",
-    "comments": 1,
-    "createdAt": "2026-09-30T22:01:03Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-10-01T00:00:05.689Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31365",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31365,
-    "title": "[good first issue] 🗻 Add new Grammar Point 850 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31365",
-    "comments": 1,
-    "createdAt": "2026-09-30T21:57:29Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-10-01T00:00:05.689Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31363",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31363,
-    "title": "[good first issue] 🍥 Add new Japanese Proverb 1789 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31363",
-    "comments": 1,
-    "createdAt": "2026-09-30T21:01:01Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-10-01T00:00:05.959Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31362",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31362,
-    "title": "[good first issue] 🍛 Add new Japan Fact 1065 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31362",
-    "comments": 1,
-    "createdAt": "2026-09-30T20:57:33Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-10-01T00:00:05.959Z"
-  },
-  {
-    "key": "decompme/decomp.me#2118",
-    "tier": 1,
-    "repo": "decompme/decomp.me",
-    "number": 2118,
-    "title": "download.py fails to consider errors failures",
-    "url": "https://github.com/decompme/decomp.me/issues/2118",
-    "comments": 0,
-    "createdAt": "2026-09-30T20:38:47Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 614,
-    "foundAt": "2026-10-01T00:00:06.885Z"
-  },
-  {
-    "key": "totec448-spec/chat-on-steroids#842",
-    "tier": 1,
-    "repo": "totec448-spec/chat-on-steroids",
-    "number": 842,
-    "title": "Loop pause message blames the tunnel when ChatGPT simply asked a question",
-    "url": "https://github.com/totec448-spec/chat-on-steroids/issues/842",
-    "comments": 0,
-    "createdAt": "2026-09-30T20:28:04Z",
-    "labels": [
-      "enhancement",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 4214,
-    "foundAt": "2026-10-01T00:00:06.885Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31360",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31360,
-    "title": "[good first issue] 🎐 Add new Theme: Sumi Charcoal (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31360",
-    "comments": 1,
-    "createdAt": "2026-09-30T20:01:03Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-10-01T00:00:07.340Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31359",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31359,
-    "title": "[good first issue] 🍡 Add new Community Note Line #54 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31359",
-    "comments": 1,
-    "createdAt": "2026-09-30T19:57:31Z",
-    "labels": [
-      "documentation",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-10-01T00:00:07.340Z"
-  },
-  {
-    "key": "grommet/grommet#8169",
-    "tier": 3,
-    "repo": "grommet/grommet",
-    "number": 8169,
-    "title": "Stepper - Error state text doesn't meet contrast requirements",
-    "url": "https://github.com/grommet/grommet/issues/8169",
-    "comments": 0,
-    "createdAt": "2026-09-30T22:39:54Z",
-    "labels": [
-      "accessibility"
-    ],
-    "language": "javascript",
-    "stars": 8348,
-    "foundAt": "2026-10-01T00:00:15.622Z"
-  },
-  {
-    "key": "helm/helm-www#2263",
-    "tier": 3,
-    "repo": "helm/helm-www",
-    "number": 2263,
-    "title": "docs: helm list sample output in intro/using_helm uses Helm 2 table format",
-    "url": "https://github.com/helm/helm-www/issues/2263",
-    "comments": 0,
-    "createdAt": "2026-09-30T22:12:01Z",
-    "labels": [
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "mdx",
-    "stars": 230,
-    "foundAt": "2026-10-01T00:00:17.599Z"
-  },
-  {
-    "key": "helm/helm-www#2262",
-    "tier": 3,
-    "repo": "helm/helm-www",
-    "number": 2262,
-    "title": "docs: update English cheat sheet for Helm 4",
-    "url": "https://github.com/helm/helm-www/issues/2262",
-    "comments": 0,
-    "createdAt": "2026-09-30T22:09:06Z",
-    "labels": [
-      "help wanted",
-      "docs",
-      "good first issue",
-      "v4"
-    ],
-    "language": "mdx",
-    "stars": 230,
-    "foundAt": "2026-10-01T00:00:17.599Z"
-  },
-  {
-    "key": "quarto-dev/quarto-cli#14971",
-    "tier": 3,
-    "repo": "quarto-dev/quarto-cli",
-    "number": 14971,
-    "title": "Document how to avoid an empty `<h2>` on revealjs slides without a visible title",
-    "url": "https://github.com/quarto-dev/quarto-cli/issues/14971",
-    "comments": 0,
-    "createdAt": "2026-09-30T21:58:09Z",
-    "labels": [
-      "documentation",
-      "accessibility",
-      "revealjs"
-    ],
-    "language": "javascript",
-    "stars": 6042,
-    "foundAt": "2026-10-01T00:00:16.532Z"
-  },
-  {
-    "key": "quarto-dev/quarto-cli#14970",
-    "tier": 3,
-    "repo": "quarto-dev/quarto-cli",
-    "number": 14970,
-    "title": "revealjs tabset tabs get positive tabindex values",
-    "url": "https://github.com/quarto-dev/quarto-cli/issues/14970",
-    "comments": 0,
-    "createdAt": "2026-09-30T21:25:16Z",
-    "labels": [
-      "accessibility",
-      "revealjs"
-    ],
-    "language": "javascript",
-    "stars": 6042,
-    "foundAt": "2026-10-01T00:00:16.718Z"
-  },
-  {
-    "key": "quarto-dev/quarto-cli#14969",
-    "tier": 3,
-    "repo": "quarto-dev/quarto-cli",
-    "number": 14969,
-    "title": "a11y: the collapsed \"On this page\" toggle cannot be used with a keyboard",
-    "url": "https://github.com/quarto-dev/quarto-cli/issues/14969",
-    "comments": 0,
-    "createdAt": "2026-09-30T21:12:26Z",
-    "labels": [
-      "accessibility",
-      "html"
-    ],
-    "language": "javascript",
-    "stars": 6042,
-    "foundAt": "2026-10-01T00:00:16.934Z"
-  },
-  {
-    "key": "quarto-dev/quarto-cli#14968",
-    "tier": 3,
-    "repo": "quarto-dev/quarto-cli",
-    "number": 14968,
-    "title": "a11y: notebook preview header is outside any landmark",
-    "url": "https://github.com/quarto-dev/quarto-cli/issues/14968",
-    "comments": 0,
-    "createdAt": "2026-09-30T20:59:56Z",
-    "labels": [
-      "accessibility",
-      "embed"
-    ],
-    "language": "javascript",
-    "stars": 6042,
-    "foundAt": "2026-10-01T00:00:16.934Z"
-  },
-  {
-    "key": "libredb/libredb-studio#1216",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 1216,
-    "title": "Five provider docs tell readers to run bare bun test over a directory",
-    "url": "https://github.com/libredb/libredb-studio/issues/1216",
-    "comments": 0,
-    "createdAt": "2026-09-30T19:06:22Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "hacktoberfest",
-      "database-provider"
-    ],
-    "language": "typescript",
-    "stars": 890,
-    "foundAt": "2026-09-30T19:31:03.739Z"
-  },
-  {
-    "key": "libredb/libredb-studio#1215",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 1215,
-    "title": "docs/providers/libsql.md: \"the other sixteen engines\" is out of date",
-    "url": "https://github.com/libredb/libredb-studio/issues/1215",
-    "comments": 0,
-    "createdAt": "2026-09-30T19:06:20Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "help wanted",
-      "hacktoberfest",
-      "database-provider"
-    ],
-    "language": "typescript",
-    "stars": 890,
-    "foundAt": "2026-09-30T19:31:03.739Z"
-  },
-  {
-    "key": "libredb/libredb-studio#1214",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 1214,
-    "title": "docs/ui/login-page.md: NEXT_PUBLIC_APP_VERSION is listed as a setting, but next.config.ts sets it",
-    "url": "https://github.com/libredb/libredb-studio/issues/1214",
-    "comments": 0,
-    "createdAt": "2026-09-30T19:06:18Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "help wanted",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 890,
-    "foundAt": "2026-09-30T19:31:03.739Z"
-  },
-  {
-    "key": "okTurtles/group-income#3173",
-    "tier": 2,
-    "repo": "okTurtles/group-income",
-    "number": 3173,
-    "title": "High memory usage on logging in to an existing large group for the first time",
-    "url": "https://github.com/okTurtles/group-income/issues/3173",
-    "comments": 0,
-    "createdAt": "2026-09-30T18:00:02Z",
-    "labels": [
-      "Kind:Bug",
-      "Kind:Enhancement",
-      "Priority:High",
-      "Note:Research",
-      "Level:Advanced",
-      "Kind:Core",
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 349,
-    "foundAt": "2026-09-30T19:31:06.393Z"
-  },
-  {
-    "key": "ng-native/ng-native#117",
-    "tier": 3,
-    "repo": "ng-native/ng-native",
-    "number": 117,
-    "title": "components: <text pressable> gets no link role by default",
-    "url": "https://github.com/ng-native/ng-native/issues/117",
-    "comments": 0,
-    "createdAt": "2026-09-30T19:29:44Z",
-    "labels": [
-      "accessibility",
-      "bug",
-      "pkg: components"
-    ],
-    "language": "typescript",
-    "stars": 291,
-    "foundAt": "2026-09-30T19:31:07.055Z"
-  },
-  {
-    "key": "ng-native/ng-native#116",
-    "tier": 3,
-    "repo": "ng-native/ng-native",
-    "number": 116,
-    "title": "components: aria-disabled wins over disabled when they disagree, but React Native lets disabled win",
-    "url": "https://github.com/ng-native/ng-native/issues/116",
-    "comments": 0,
-    "createdAt": "2026-09-30T19:29:43Z",
-    "labels": [
-      "accessibility",
-      "bug",
-      "pkg: components"
-    ],
-    "language": "typescript",
-    "stars": 291,
-    "foundAt": "2026-09-30T19:31:07.055Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31337",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31337,
-    "title": "[good first issue] 🍣 Add new Community Note Line #38 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31337",
-    "comments": 1,
-    "createdAt": "2026-09-30T13:57:28Z",
-    "labels": [
-      "documentation",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-30T13:58:08.830Z"
-  },
-  {
-    "key": "medusajs/medusa#17082",
-    "tier": 1,
-    "repo": "medusajs/medusa",
-    "number": 17082,
-    "title": "[Bug]: Admin region details show empty Payment providers after visiting Settings → Store (default region set)",
-    "url": "https://github.com/medusajs/medusa/issues/17082",
-    "comments": 1,
-    "createdAt": "2026-09-30T13:20:09Z",
-    "labels": [
-      "good first issue",
-      "type: bug"
-    ],
-    "language": "typescript",
-    "stars": 36448,
-    "foundAt": "2026-09-30T13:58:10.010Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31336",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31336,
-    "title": "[good first issue] 🌊 Add new Example Sentence 179 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31336",
-    "comments": 1,
-    "createdAt": "2026-09-30T13:01:04Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-30T13:58:10.431Z"
   }
 ]
