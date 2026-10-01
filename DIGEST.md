@@ -4,6 +4,29 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-10-01 | 🥇 | [feat: Per-repository sync and persistence modes](https://github.com/goatplatform/goatdb/issues/65) | `goatplatform/goatdb` | ⭐ 579 |
+| 2026-10-01 | 🥇 | [Batch insert can exceed SQL Server's 2,100-parameter limit and Postgres's 65,535](https://github.com/Rohithgilla12/data-peek/issues/279) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
+| 2026-10-01 | 🥇 | [Data generator: seeded runs are not reproducible, plus an unused duplicate heuri](https://github.com/Rohithgilla12/data-peek/issues/278) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
+| 2026-10-01 | 🥇 | [Docs: document the Default Schema (search_path) connection setting](https://github.com/Rohithgilla12/data-peek/issues/277) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
+| 2026-10-01 | 🥇 | [Docs: add a Schema Intel feature page and README entry](https://github.com/Rohithgilla12/data-peek/issues/276) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
+| 2026-10-01 | 🥇 | [Docs: merge the two keyboard shortcut pages and document missing shortcuts](https://github.com/Rohithgilla12/data-peek/issues/275) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
+| 2026-10-01 | 🥇 | [Docs drift: Excel export claim, Health Monitor database support, SQL Server cust](https://github.com/Rohithgilla12/data-peek/issues/274) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
+| 2026-10-01 | 🥇 | [Export: add a Markdown table format](https://github.com/Rohithgilla12/data-peek/issues/273) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
+| 2026-10-01 | 🥇 | [Application menu: five items do nothing, and Clear Results collides with the com](https://github.com/Rohithgilla12/data-peek/issues/272) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
+| 2026-10-01 | 🥇 | [SQL Server: list sequences (sys.sequences) instead of returning an empty array](https://github.com/Rohithgilla12/data-peek/issues/271) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
+| 2026-10-01 | 🥇 | [Health Monitor: show a clear not-supported state on SQLite instead of raw errors](https://github.com/Rohithgilla12/data-peek/issues/270) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
+| 2026-10-01 | 🥇 | [Health Monitor: implement getTableSizes for SQLite using dbstat](https://github.com/Rohithgilla12/data-peek/issues/269) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
+| 2026-10-01 | 🥇 | [Schema Intel for SQLite: implement the structural checks with PRAGMAs](https://github.com/Rohithgilla12/data-peek/issues/268) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
+| 2026-10-01 | 🥇 | [Schema Intel for MySQL: add an unused_indexes check](https://github.com/Rohithgilla12/data-peek/issues/267) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
+| 2026-10-01 | 🥇 | [Schema Intel for SQL Server: add duplicate_indexes and unused_indexes checks](https://github.com/Rohithgilla12/data-peek/issues/266) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
+| 2026-10-01 | 🥇 | [Schema Intel for SQL Server: add nullable_fks and missing_fk_indexes checks](https://github.com/Rohithgilla12/data-peek/issues/265) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
+| 2026-10-01 | 🥇 | [[good first issue] 🌋 Add new Japanese Idiom 717 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31409) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-01 | 🥇 | [[good first issue] 🪭 Add new Video Game Quote 353 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31408) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-01 | 🥇 | [[good first issue] 🍛 Add new Anime Quote 929 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31407) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-01 | 🥇 | [[good first issue] 🎴 Add new Trivia Question 239 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31406) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-01 | 🥈 | [Hacktoberfest 2026: start here](https://github.com/Rohithgilla12/data-peek/issues/280) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
+| 2026-10-01 | 🥈 | [[🐛 Bug]: On multi-remote, custom$, react$, shadow$ and their $$ variants give o](https://github.com/webdriverio/webdriverio/issues/15851) | `webdriverio/webdriverio` | ⭐ 9.8k |
+| 2026-10-01 | 🥉 | [Vanta EU integration not available anymore](https://github.com/getsentry/sentry-docs/issues/19757) | `getsentry/sentry-docs` | ⭐ 447 |
 | 2026-10-01 | 🥇 | [[good first issue] 🎑 Add new Theme: Yuzu Mist (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31391) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-10-01 | 🥇 | [[good first issue] 🎏 Add new Learner Mistake 704 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31390) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-10-01 | 🥇 | [[good first issue] 🍤 Add new Japanese Idiom 774 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31381) | `lingdojo/kana-dojo` | ⭐ 3.5k |
@@ -81,26 +104,3 @@
 | 2026-09-30 | 🥇 | [[good first issue] 🍣 Add new Community Note Line #38 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31337) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-09-30 | 🥇 | [[Bug]: Admin region details show empty Payment providers after visiting Settings](https://github.com/medusajs/medusa/issues/17082) | `medusajs/medusa` | ⭐ 36.4k |
 | 2026-09-30 | 🥇 | [[good first issue] 🌊 Add new Example Sentence 179 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31336) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-30 | 🥇 | [[good first issue] 🐡 Add new Etiquette Tip 309 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31335) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-30 | 🥇 | [chore(overrides): three behaviour-neutral tidy-ups in the OA008 detector and ver](https://github.com/OWASP/cve-lite-cli/issues/1256) | `OWASP/cve-lite-cli` | ⭐ 750 |
-| 2026-09-30 | 🥇 | [test(version): pin the prerelease fix in positionAgainstRange so it cannot silen](https://github.com/OWASP/cve-lite-cli/issues/1255) | `OWASP/cve-lite-cli` | ⭐ 750 |
-| 2026-09-30 | 🥇 | [chore(cli): use the flag constants in validate.ts instead of string literals](https://github.com/OWASP/cve-lite-cli/issues/1254) | `OWASP/cve-lite-cli` | ⭐ 750 |
-| 2026-09-30 | 🥈 | [provider: align reported sources with bounded model context](https://github.com/jzjzzzzzzz/agent-me/issues/160) | `jzjzzzzzzz/agent-me` | ⭐ 416 |
-| 2026-09-30 | 🥈 | [personal: do not evict confirmed preferences behind 20 matching facts](https://github.com/jzjzzzzzzz/agent-me/issues/159) | `jzjzzzzzzz/agent-me` | ⭐ 416 |
-| 2026-09-30 | 🥈 | [retrieval: keep matched terms inside capped excerpts](https://github.com/jzjzzzzzzz/agent-me/issues/158) | `jzjzzzzzzz/agent-me` | ⭐ 416 |
-| 2026-09-30 | 🥈 | [[good first issue] 🍛 Add new False Friend Pair 467 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31332) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-30 | 🥈 | [[good first issue] 🎴 Add new Dialect Entry 616 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31331) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-30 | 🥉 | [[agent] desktop WP-12: docs and the acceptance runbook](https://github.com/KeepSoftwareSimple/compass-calendar/issues/4162) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
-| 2026-09-30 | 🥉 | [[agent] desktop WP-03: release-desktop.yml builds a signed, notarized universal ](https://github.com/KeepSoftwareSimple/compass-calendar/issues/4153) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
-| 2026-09-30 | 🥉 | [[agent] desktop WP-00: loop and verify know about apps/calendar-desktop](https://github.com/KeepSoftwareSimple/compass-calendar/issues/4150) | `KeepSoftwareSimple/compass-calendar` | ⭐ 228 |
-| 2026-09-30 | 🥇 | [[good first issue] 🎎 Add new Dialect Entry 1188 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31318) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-30 | 🥇 | [[good first issue] 🍢 Add new Japanese Idiom 943 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31317) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-30 | 🥇 | [[good first issue] 🀄 Add new Grammar Point 355 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31315) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-30 | 🥇 | [[good first issue] 🍙 Add new Japanese Proverb 1635 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31314) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-30 | 🥇 | [📢 Request for New Additions & Updates](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026/issues/332) | `ARUNAGIRINATHAN-K/awesome-ai-agents-2026` | ⭐ 349 |
-| 2026-09-30 | 🥇 | [[good first issue] 🌺 Add new Japan Fact 2325 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31313) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-30 | 🥇 | [[good first issue] 🍵 Add new Theme: Ramen Steam (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31312) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-30 | 🥇 | [[good first issue] 🎴 Add new Wallpaper URL #43 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31305) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-30 | 🥇 | [[good first issue] 🌋 Add new Learner Mistake 279 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31304) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-30 | 🥇 | [[good first issue] 🎴 Add new Example Sentence 192 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31303) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-09-30 | 🥈 | [[Marketplace] Add Segment plugin](https://github.com/ToolJet/ToolJet/issues/18172) | `ToolJet/ToolJet` | ⭐ 41.0k |

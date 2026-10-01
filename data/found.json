@@ -1,5 +1,439 @@
 [
   {
+    "key": "goatplatform/goatdb#65",
+    "tier": 1,
+    "repo": "goatplatform/goatdb",
+    "number": 65,
+    "title": "feat: Per-repository sync and persistence modes",
+    "url": "https://github.com/goatplatform/goatdb/issues/65",
+    "comments": 0,
+    "createdAt": "2026-10-01T13:28:50Z",
+    "labels": [
+      "enhancement",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 579,
+    "foundAt": "2026-10-01T13:35:38.217Z"
+  },
+  {
+    "key": "Rohithgilla12/data-peek#279",
+    "tier": 1,
+    "repo": "Rohithgilla12/data-peek",
+    "number": 279,
+    "title": "Batch insert can exceed SQL Server's 2,100-parameter limit and Postgres's 65,535",
+    "url": "https://github.com/Rohithgilla12/data-peek/issues/279",
+    "comments": 1,
+    "createdAt": "2026-10-01T13:03:00Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 1675,
+    "foundAt": "2026-10-01T13:35:38.689Z"
+  },
+  {
+    "key": "Rohithgilla12/data-peek#278",
+    "tier": 1,
+    "repo": "Rohithgilla12/data-peek",
+    "number": 278,
+    "title": "Data generator: seeded runs are not reproducible, plus an unused duplicate heuristics module",
+    "url": "https://github.com/Rohithgilla12/data-peek/issues/278",
+    "comments": 1,
+    "createdAt": "2026-10-01T13:02:58Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "refactor",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 1675,
+    "foundAt": "2026-10-01T13:35:38.689Z"
+  },
+  {
+    "key": "Rohithgilla12/data-peek#277",
+    "tier": 1,
+    "repo": "Rohithgilla12/data-peek",
+    "number": 277,
+    "title": "Docs: document the Default Schema (search_path) connection setting",
+    "url": "https://github.com/Rohithgilla12/data-peek/issues/277",
+    "comments": 1,
+    "createdAt": "2026-10-01T13:02:56Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 1675,
+    "foundAt": "2026-10-01T13:35:38.689Z"
+  },
+  {
+    "key": "Rohithgilla12/data-peek#276",
+    "tier": 1,
+    "repo": "Rohithgilla12/data-peek",
+    "number": 276,
+    "title": "Docs: add a Schema Intel feature page and README entry",
+    "url": "https://github.com/Rohithgilla12/data-peek/issues/276",
+    "comments": 1,
+    "createdAt": "2026-10-01T13:02:54Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 1675,
+    "foundAt": "2026-10-01T13:35:38.689Z"
+  },
+  {
+    "key": "Rohithgilla12/data-peek#275",
+    "tier": 1,
+    "repo": "Rohithgilla12/data-peek",
+    "number": 275,
+    "title": "Docs: merge the two keyboard shortcut pages and document missing shortcuts",
+    "url": "https://github.com/Rohithgilla12/data-peek/issues/275",
+    "comments": 1,
+    "createdAt": "2026-10-01T13:02:52Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 1675,
+    "foundAt": "2026-10-01T13:35:38.689Z"
+  },
+  {
+    "key": "Rohithgilla12/data-peek#274",
+    "tier": 1,
+    "repo": "Rohithgilla12/data-peek",
+    "number": 274,
+    "title": "Docs drift: Excel export claim, Health Monitor database support, SQL Server custom types",
+    "url": "https://github.com/Rohithgilla12/data-peek/issues/274",
+    "comments": 1,
+    "createdAt": "2026-10-01T13:02:50Z",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 1675,
+    "foundAt": "2026-10-01T13:35:38.689Z"
+  },
+  {
+    "key": "Rohithgilla12/data-peek#273",
+    "tier": 1,
+    "repo": "Rohithgilla12/data-peek",
+    "number": 273,
+    "title": "Export: add a Markdown table format",
+    "url": "https://github.com/Rohithgilla12/data-peek/issues/273",
+    "comments": 1,
+    "createdAt": "2026-10-01T13:02:48Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 1675,
+    "foundAt": "2026-10-01T13:35:38.689Z"
+  },
+  {
+    "key": "Rohithgilla12/data-peek#272",
+    "tier": 1,
+    "repo": "Rohithgilla12/data-peek",
+    "number": 272,
+    "title": "Application menu: five items do nothing, and Clear Results collides with the command palette shortcut",
+    "url": "https://github.com/Rohithgilla12/data-peek/issues/272",
+    "comments": 1,
+    "createdAt": "2026-10-01T13:02:45Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 1675,
+    "foundAt": "2026-10-01T13:35:38.689Z"
+  },
+  {
+    "key": "Rohithgilla12/data-peek#271",
+    "tier": 1,
+    "repo": "Rohithgilla12/data-peek",
+    "number": 271,
+    "title": "SQL Server: list sequences (sys.sequences) instead of returning an empty array",
+    "url": "https://github.com/Rohithgilla12/data-peek/issues/271",
+    "comments": 1,
+    "createdAt": "2026-10-01T13:02:43Z",
+    "labels": [
+      "bug",
+      "enhancement",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 1675,
+    "foundAt": "2026-10-01T13:35:38.689Z"
+  },
+  {
+    "key": "Rohithgilla12/data-peek#270",
+    "tier": 1,
+    "repo": "Rohithgilla12/data-peek",
+    "number": 270,
+    "title": "Health Monitor: show a clear not-supported state on SQLite instead of raw errors",
+    "url": "https://github.com/Rohithgilla12/data-peek/issues/270",
+    "comments": 1,
+    "createdAt": "2026-10-01T13:02:41Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 1675,
+    "foundAt": "2026-10-01T13:35:38.689Z"
+  },
+  {
+    "key": "Rohithgilla12/data-peek#269",
+    "tier": 1,
+    "repo": "Rohithgilla12/data-peek",
+    "number": 269,
+    "title": "Health Monitor: implement getTableSizes for SQLite using dbstat",
+    "url": "https://github.com/Rohithgilla12/data-peek/issues/269",
+    "comments": 1,
+    "createdAt": "2026-10-01T13:02:39Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 1675,
+    "foundAt": "2026-10-01T13:35:38.689Z"
+  },
+  {
+    "key": "Rohithgilla12/data-peek#268",
+    "tier": 1,
+    "repo": "Rohithgilla12/data-peek",
+    "number": 268,
+    "title": "Schema Intel for SQLite: implement the structural checks with PRAGMAs",
+    "url": "https://github.com/Rohithgilla12/data-peek/issues/268",
+    "comments": 1,
+    "createdAt": "2026-10-01T13:02:37Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 1675,
+    "foundAt": "2026-10-01T13:35:38.689Z"
+  },
+  {
+    "key": "Rohithgilla12/data-peek#267",
+    "tier": 1,
+    "repo": "Rohithgilla12/data-peek",
+    "number": 267,
+    "title": "Schema Intel for MySQL: add an unused_indexes check",
+    "url": "https://github.com/Rohithgilla12/data-peek/issues/267",
+    "comments": 1,
+    "createdAt": "2026-10-01T13:02:35Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 1675,
+    "foundAt": "2026-10-01T13:35:38.689Z"
+  },
+  {
+    "key": "Rohithgilla12/data-peek#266",
+    "tier": 1,
+    "repo": "Rohithgilla12/data-peek",
+    "number": 266,
+    "title": "Schema Intel for SQL Server: add duplicate_indexes and unused_indexes checks",
+    "url": "https://github.com/Rohithgilla12/data-peek/issues/266",
+    "comments": 1,
+    "createdAt": "2026-10-01T13:02:33Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 1675,
+    "foundAt": "2026-10-01T13:35:38.689Z"
+  },
+  {
+    "key": "Rohithgilla12/data-peek#265",
+    "tier": 1,
+    "repo": "Rohithgilla12/data-peek",
+    "number": 265,
+    "title": "Schema Intel for SQL Server: add nullable_fks and missing_fk_indexes checks",
+    "url": "https://github.com/Rohithgilla12/data-peek/issues/265",
+    "comments": 1,
+    "createdAt": "2026-10-01T13:02:31Z",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 1675,
+    "foundAt": "2026-10-01T13:35:38.690Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31409",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31409,
+    "title": "[good first issue] 🌋 Add new Japanese Idiom 717 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31409",
+    "comments": 1,
+    "createdAt": "2026-10-01T13:01:00Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-01T13:35:38.903Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31408",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31408,
+    "title": "[good first issue] 🪭 Add new Video Game Quote 353 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31408",
+    "comments": 1,
+    "createdAt": "2026-10-01T12:57:30Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-01T13:35:38.903Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31407",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31407,
+    "title": "[good first issue] 🍛 Add new Anime Quote 929 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31407",
+    "comments": 1,
+    "createdAt": "2026-10-01T12:01:04Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-01T13:35:39.169Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31406",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31406,
+    "title": "[good first issue] 🎴 Add new Trivia Question 239 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31406",
+    "comments": 1,
+    "createdAt": "2026-10-01T11:57:34Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-01T13:35:39.169Z"
+  },
+  {
+    "key": "Rohithgilla12/data-peek#280",
+    "tier": 2,
+    "repo": "Rohithgilla12/data-peek",
+    "number": 280,
+    "title": "Hacktoberfest 2026: start here",
+    "url": "https://github.com/Rohithgilla12/data-peek/issues/280",
+    "comments": 1,
+    "createdAt": "2026-10-01T13:03:22Z",
+    "labels": [
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 1675,
+    "foundAt": "2026-10-01T13:35:41.818Z"
+  },
+  {
+    "key": "webdriverio/webdriverio#15851",
+    "tier": 2,
+    "repo": "webdriverio/webdriverio",
+    "number": 15851,
+    "title": "[🐛 Bug]: On multi-remote, custom$, react$, shadow$ and their $$ variants give one result per instance, not a multi-remote element or list",
+    "url": "https://github.com/webdriverio/webdriverio/issues/15851",
+    "comments": 2,
+    "createdAt": "2026-10-01T12:51:22Z",
+    "labels": [
+      "Bug 🐛",
+      "help wanted",
+      "good first pick",
+      "multi remote",
+      "v10"
+    ],
+    "language": "typescript",
+    "stars": 9841,
+    "foundAt": "2026-10-01T13:35:41.818Z"
+  },
+  {
+    "key": "getsentry/sentry-docs#19757",
+    "tier": 3,
+    "repo": "getsentry/sentry-docs",
+    "number": 19757,
+    "title": "Vanta EU integration not available anymore",
+    "url": "https://github.com/getsentry/sentry-docs/issues/19757",
+    "comments": 1,
+    "createdAt": "2026-10-01T12:41:53Z",
+    "labels": [
+      "Product",
+      "Docs"
+    ],
+    "language": "mdx",
+    "stars": 447,
+    "foundAt": "2026-10-01T13:35:47.883Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#31391",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1614,485 +2048,5 @@
     "language": "typescript",
     "stars": 3454,
     "foundAt": "2026-09-30T13:58:10.431Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31335",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31335,
-    "title": "[good first issue] 🐡 Add new Etiquette Tip 309 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31335",
-    "comments": 1,
-    "createdAt": "2026-09-30T12:57:30Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-30T13:58:10.431Z"
-  },
-  {
-    "key": "OWASP/cve-lite-cli#1256",
-    "tier": 1,
-    "repo": "OWASP/cve-lite-cli",
-    "number": 1256,
-    "title": "chore(overrides): three behaviour-neutral tidy-ups in the OA008 detector and version utils",
-    "url": "https://github.com/OWASP/cve-lite-cli/issues/1256",
-    "comments": 1,
-    "createdAt": "2026-09-30T12:51:32Z",
-    "labels": [
-      "help wanted",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 750,
-    "foundAt": "2026-09-30T13:58:11.026Z"
-  },
-  {
-    "key": "OWASP/cve-lite-cli#1255",
-    "tier": 1,
-    "repo": "OWASP/cve-lite-cli",
-    "number": 1255,
-    "title": "test(version): pin the prerelease fix in positionAgainstRange so it cannot silently regress",
-    "url": "https://github.com/OWASP/cve-lite-cli/issues/1255",
-    "comments": 0,
-    "createdAt": "2026-09-30T12:51:30Z",
-    "labels": [
-      "good first issue",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 750,
-    "foundAt": "2026-09-30T13:58:11.026Z"
-  },
-  {
-    "key": "OWASP/cve-lite-cli#1254",
-    "tier": 1,
-    "repo": "OWASP/cve-lite-cli",
-    "number": 1254,
-    "title": "chore(cli): use the flag constants in validate.ts instead of string literals",
-    "url": "https://github.com/OWASP/cve-lite-cli/issues/1254",
-    "comments": 0,
-    "createdAt": "2026-09-30T12:38:20Z",
-    "labels": [
-      "good first issue",
-      "first-timers-only"
-    ],
-    "language": "typescript",
-    "stars": 750,
-    "foundAt": "2026-09-30T13:58:11.026Z"
-  },
-  {
-    "key": "jzjzzzzzzz/agent-me#160",
-    "tier": 2,
-    "repo": "jzjzzzzzzz/agent-me",
-    "number": 160,
-    "title": "provider: align reported sources with bounded model context",
-    "url": "https://github.com/jzjzzzzzzz/agent-me/issues/160",
-    "comments": 0,
-    "createdAt": "2026-09-30T12:05:19Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "python",
-      "backend"
-    ],
-    "language": "typescript",
-    "stars": 416,
-    "foundAt": "2026-09-30T13:58:16.474Z"
-  },
-  {
-    "key": "jzjzzzzzzz/agent-me#159",
-    "tier": 2,
-    "repo": "jzjzzzzzzz/agent-me",
-    "number": 159,
-    "title": "personal: do not evict confirmed preferences behind 20 matching facts",
-    "url": "https://github.com/jzjzzzzzzz/agent-me/issues/159",
-    "comments": 0,
-    "createdAt": "2026-09-30T12:05:18Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "python",
-      "backend"
-    ],
-    "language": "typescript",
-    "stars": 416,
-    "foundAt": "2026-09-30T13:58:16.474Z"
-  },
-  {
-    "key": "jzjzzzzzzz/agent-me#158",
-    "tier": 2,
-    "repo": "jzjzzzzzzz/agent-me",
-    "number": 158,
-    "title": "retrieval: keep matched terms inside capped excerpts",
-    "url": "https://github.com/jzjzzzzzzz/agent-me/issues/158",
-    "comments": 0,
-    "createdAt": "2026-09-30T12:05:16Z",
-    "labels": [
-      "bug",
-      "help wanted",
-      "python",
-      "backend"
-    ],
-    "language": "typescript",
-    "stars": 416,
-    "foundAt": "2026-09-30T13:58:16.474Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31332",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31332,
-    "title": "[good first issue] 🍛 Add new False Friend Pair 467 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31332",
-    "comments": 1,
-    "createdAt": "2026-09-30T12:01:02Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-30T13:58:16.765Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31331",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31331,
-    "title": "[good first issue] 🎴 Add new Dialect Entry 616 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31331",
-    "comments": 1,
-    "createdAt": "2026-09-30T11:57:31Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-30T13:58:16.765Z"
-  },
-  {
-    "key": "KeepSoftwareSimple/compass-calendar#4162",
-    "tier": 3,
-    "repo": "KeepSoftwareSimple/compass-calendar",
-    "number": 4162,
-    "title": "[agent] desktop WP-12: docs and the acceptance runbook",
-    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/4162",
-    "comments": 0,
-    "createdAt": "2026-09-30T13:55:40Z",
-    "labels": [
-      "agent-ready",
-      "docs",
-      "desktop"
-    ],
-    "language": "typescript",
-    "stars": 228,
-    "foundAt": "2026-09-30T13:58:18.790Z"
-  },
-  {
-    "key": "KeepSoftwareSimple/compass-calendar#4153",
-    "tier": 3,
-    "repo": "KeepSoftwareSimple/compass-calendar",
-    "number": 4153,
-    "title": "[agent] desktop WP-03: release-desktop.yml builds a signed, notarized universal DMG",
-    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/4153",
-    "comments": 0,
-    "createdAt": "2026-09-30T13:55:29Z",
-    "labels": [
-      "agent-ready",
-      "docs",
-      "desktop"
-    ],
-    "language": "typescript",
-    "stars": 228,
-    "foundAt": "2026-09-30T13:58:18.790Z"
-  },
-  {
-    "key": "KeepSoftwareSimple/compass-calendar#4150",
-    "tier": 3,
-    "repo": "KeepSoftwareSimple/compass-calendar",
-    "number": 4150,
-    "title": "[agent] desktop WP-00: loop and verify know about apps/calendar-desktop",
-    "url": "https://github.com/KeepSoftwareSimple/compass-calendar/issues/4150",
-    "comments": 0,
-    "createdAt": "2026-09-30T13:55:26Z",
-    "labels": [
-      "agent-ready",
-      "scripts",
-      "docs",
-      "desktop"
-    ],
-    "language": "typescript",
-    "stars": 228,
-    "foundAt": "2026-09-30T13:58:18.790Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31318",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31318,
-    "title": "[good first issue] 🎎 Add new Dialect Entry 1188 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31318",
-    "comments": 1,
-    "createdAt": "2026-09-30T06:01:00Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-30T06:54:26.160Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31317",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31317,
-    "title": "[good first issue] 🍢 Add new Japanese Idiom 943 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31317",
-    "comments": 1,
-    "createdAt": "2026-09-30T05:57:32Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-30T06:54:26.160Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31315",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31315,
-    "title": "[good first issue] 🀄 Add new Grammar Point 355 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31315",
-    "comments": 1,
-    "createdAt": "2026-09-30T05:00:56Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-30T06:54:26.447Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31314",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31314,
-    "title": "[good first issue] 🍙 Add new Japanese Proverb 1635 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31314",
-    "comments": 1,
-    "createdAt": "2026-09-30T04:57:35Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-30T06:54:26.447Z"
-  },
-  {
-    "key": "ARUNAGIRINATHAN-K/awesome-ai-agents-2026#332",
-    "tier": 1,
-    "repo": "ARUNAGIRINATHAN-K/awesome-ai-agents-2026",
-    "number": 332,
-    "title": "📢 Request for New Additions & Updates",
-    "url": "https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026/issues/332",
-    "comments": 0,
-    "createdAt": "2026-09-30T04:08:42Z",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "maintenance"
-    ],
-    "language": "typescript",
-    "stars": 349,
-    "foundAt": "2026-09-30T06:54:26.947Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31313",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31313,
-    "title": "[good first issue] 🌺 Add new Japan Fact 2325 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31313",
-    "comments": 1,
-    "createdAt": "2026-09-30T04:00:57Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-30T06:54:26.947Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31312",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31312,
-    "title": "[good first issue] 🍵 Add new Theme: Ramen Steam (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31312",
-    "comments": 1,
-    "createdAt": "2026-09-30T03:57:28Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-30T06:54:26.947Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31305",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31305,
-    "title": "[good first issue] 🎴 Add new Wallpaper URL #43 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31305",
-    "comments": 1,
-    "createdAt": "2026-09-30T02:57:27Z",
-    "labels": [
-      "documentation",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-30T06:54:28.350Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31304",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31304,
-    "title": "[good first issue] 🌋 Add new Learner Mistake 279 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31304",
-    "comments": 1,
-    "createdAt": "2026-09-30T02:01:01Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-30T06:54:28.350Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31303",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31303,
-    "title": "[good first issue] 🎴 Add new Example Sentence 192 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31303",
-    "comments": 1,
-    "createdAt": "2026-09-30T01:57:28Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-30T06:54:28.350Z"
-  },
-  {
-    "key": "ToolJet/ToolJet#18172",
-    "tier": 2,
-    "repo": "ToolJet/ToolJet",
-    "number": 18172,
-    "title": "[Marketplace] Add Segment plugin",
-    "url": "https://github.com/ToolJet/ToolJet/issues/18172",
-    "comments": 0,
-    "createdAt": "2026-09-30T06:22:49Z",
-    "labels": [
-      "feature request",
-      "hacktoberfest",
-      "up-for-grabs",
-      "marketplace",
-      "community contribution"
-    ],
-    "language": "javascript",
-    "stars": 41012,
-    "foundAt": "2026-09-30T06:54:37.116Z"
   }
 ]
