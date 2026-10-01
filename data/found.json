@@ -1,5 +1,1061 @@
 [
   {
+    "key": "lingdojo/kana-dojo#31391",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31391,
+    "title": "[good first issue] 🎑 Add new Theme: Yuzu Mist (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31391",
+    "comments": 1,
+    "createdAt": "2026-10-01T06:00:57Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-10-01T06:12:16.092Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31390",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31390,
+    "title": "[good first issue] 🎏 Add new Learner Mistake 704 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31390",
+    "comments": 1,
+    "createdAt": "2026-10-01T05:57:29Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-10-01T06:12:16.092Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31381",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31381,
+    "title": "[good first issue] 🍤 Add new Japanese Idiom 774 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31381",
+    "comments": 1,
+    "createdAt": "2026-10-01T04:00:57Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-10-01T06:12:16.542Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31380",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31380,
+    "title": "[good first issue] 🏯 Add new Anime Quote 103 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31380",
+    "comments": 1,
+    "createdAt": "2026-10-01T03:57:46Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-10-01T06:12:16.542Z"
+  },
+  {
+    "key": "fork-commit-merge/fork-commit-merge#8322",
+    "tier": 1,
+    "repo": "fork-commit-merge/fork-commit-merge",
+    "number": 8322,
+    "title": "Fork, Commit, Merge - Medium Issue 3 (JavaScript)",
+    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8322",
+    "comments": 0,
+    "createdAt": "2026-10-01T03:20:20Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "first-contributors",
+      "first-contributor",
+      "medium",
+      "javascript",
+      "up-for-grabs"
+    ],
+    "language": "css",
+    "stars": 510,
+    "foundAt": "2026-10-01T06:12:20.696Z"
+  },
+  {
+    "key": "fork-commit-merge/fork-commit-merge#8320",
+    "tier": 1,
+    "repo": "fork-commit-merge/fork-commit-merge",
+    "number": 8320,
+    "title": "Fork, Commit, Merge - Easy Issue 3 (JavaScript)",
+    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8320",
+    "comments": 0,
+    "createdAt": "2026-10-01T03:20:17Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "first-contributors",
+      "first-contributor",
+      "javascript",
+      "up-for-grabs"
+    ],
+    "language": "css",
+    "stars": 510,
+    "foundAt": "2026-10-01T06:12:20.696Z"
+  },
+  {
+    "key": "fork-commit-merge/fork-commit-merge#8319",
+    "tier": 1,
+    "repo": "fork-commit-merge/fork-commit-merge",
+    "number": 8319,
+    "title": "Fork, Commit, Merge - Easy Issue 2 (JavaScript)",
+    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8319",
+    "comments": 0,
+    "createdAt": "2026-10-01T03:20:16Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "first-contributors",
+      "first-contributor",
+      "javascript",
+      "up-for-grabs"
+    ],
+    "language": "css",
+    "stars": 510,
+    "foundAt": "2026-10-01T06:12:20.696Z"
+  },
+  {
+    "key": "fork-commit-merge/fork-commit-merge#8318",
+    "tier": 1,
+    "repo": "fork-commit-merge/fork-commit-merge",
+    "number": 8318,
+    "title": "Fork, Commit, Merge - Easy Issue (MATLAB)",
+    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8318",
+    "comments": 2,
+    "createdAt": "2026-10-01T03:20:14Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "first-contributors",
+      "first-contributor",
+      "easy",
+      "matlab",
+      "up-for-grabs"
+    ],
+    "language": "css",
+    "stars": 510,
+    "foundAt": "2026-10-01T06:12:20.696Z"
+  },
+  {
+    "key": "fork-commit-merge/fork-commit-merge#8317",
+    "tier": 1,
+    "repo": "fork-commit-merge/fork-commit-merge",
+    "number": 8317,
+    "title": "Fork, Commit, Merge - Easy Issue (Smalltalk)",
+    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8317",
+    "comments": 0,
+    "createdAt": "2026-10-01T03:20:13Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "first-contributors",
+      "first-contributor",
+      "easy",
+      "smalltalk",
+      "up-for-grabs"
+    ],
+    "language": "css",
+    "stars": 510,
+    "foundAt": "2026-10-01T06:12:20.696Z"
+  },
+  {
+    "key": "fork-commit-merge/fork-commit-merge#8316",
+    "tier": 1,
+    "repo": "fork-commit-merge/fork-commit-merge",
+    "number": 8316,
+    "title": "Fork, Commit, Merge - Easy Issue (Crystal)",
+    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8316",
+    "comments": 0,
+    "createdAt": "2026-10-01T03:20:11Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "first-contributors",
+      "first-contributor",
+      "easy",
+      "crystal",
+      "up-for-grabs"
+    ],
+    "language": "css",
+    "stars": 510,
+    "foundAt": "2026-10-01T06:12:20.696Z"
+  },
+  {
+    "key": "fork-commit-merge/fork-commit-merge#8315",
+    "tier": 1,
+    "repo": "fork-commit-merge/fork-commit-merge",
+    "number": 8315,
+    "title": "Fork, Commit, Merge - Easy Issue (Vyper)",
+    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8315",
+    "comments": 0,
+    "createdAt": "2026-10-01T03:20:10Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "first-contributors",
+      "first-contributor",
+      "easy",
+      "blockchain",
+      "vyper",
+      "up-for-grabs"
+    ],
+    "language": "css",
+    "stars": 510,
+    "foundAt": "2026-10-01T06:12:20.696Z"
+  },
+  {
+    "key": "fork-commit-merge/fork-commit-merge#8314",
+    "tier": 1,
+    "repo": "fork-commit-merge/fork-commit-merge",
+    "number": 8314,
+    "title": "Fork, Commit, Merge - Easy Issue (D)",
+    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8314",
+    "comments": 0,
+    "createdAt": "2026-10-01T03:20:08Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "first-contributors",
+      "first-contributor",
+      "easy",
+      "d",
+      "up-for-grabs"
+    ],
+    "language": "css",
+    "stars": 510,
+    "foundAt": "2026-10-01T06:12:20.696Z"
+  },
+  {
+    "key": "fork-commit-merge/fork-commit-merge#8313",
+    "tier": 1,
+    "repo": "fork-commit-merge/fork-commit-merge",
+    "number": 8313,
+    "title": "Fork, Commit, Merge - Hard Issue (CSS)",
+    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8313",
+    "comments": 0,
+    "createdAt": "2026-10-01T03:20:06Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "first-contributors",
+      "first-contributor",
+      "hard",
+      "css",
+      "up-for-grabs"
+    ],
+    "language": "css",
+    "stars": 510,
+    "foundAt": "2026-10-01T06:12:20.696Z"
+  },
+  {
+    "key": "fork-commit-merge/fork-commit-merge#8312",
+    "tier": 1,
+    "repo": "fork-commit-merge/fork-commit-merge",
+    "number": 8312,
+    "title": "Fork, Commit, Merge - Hard Issue (HTML)",
+    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8312",
+    "comments": 0,
+    "createdAt": "2026-10-01T03:20:04Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "first-contributors",
+      "first-contributor",
+      "hard",
+      "html",
+      "up-for-grabs"
+    ],
+    "language": "css",
+    "stars": 510,
+    "foundAt": "2026-10-01T06:12:20.696Z"
+  },
+  {
+    "key": "fork-commit-merge/fork-commit-merge#8311",
+    "tier": 1,
+    "repo": "fork-commit-merge/fork-commit-merge",
+    "number": 8311,
+    "title": "Fork, Commit, Merge - Hard Issue (C++)",
+    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8311",
+    "comments": 0,
+    "createdAt": "2026-10-01T03:20:03Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "first-contributors",
+      "first-contributor",
+      "hard",
+      "c++",
+      "up-for-grabs"
+    ],
+    "language": "css",
+    "stars": 510,
+    "foundAt": "2026-10-01T06:12:20.696Z"
+  },
+  {
+    "key": "fork-commit-merge/fork-commit-merge#8310",
+    "tier": 1,
+    "repo": "fork-commit-merge/fork-commit-merge",
+    "number": 8310,
+    "title": "Fork, Commit, Merge - Easy Issue (SQL)",
+    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8310",
+    "comments": 0,
+    "createdAt": "2026-10-01T03:20:01Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "first-contributors",
+      "first-contributor",
+      "easy",
+      "sql",
+      "sqlite",
+      "up-for-grabs"
+    ],
+    "language": "css",
+    "stars": 510,
+    "foundAt": "2026-10-01T06:12:20.696Z"
+  },
+  {
+    "key": "fork-commit-merge/fork-commit-merge#8309",
+    "tier": 1,
+    "repo": "fork-commit-merge/fork-commit-merge",
+    "number": 8309,
+    "title": "Fork, Commit, Merge - Medium Issue (Haskell)",
+    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8309",
+    "comments": 0,
+    "createdAt": "2026-10-01T03:20:00Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "first-contributors",
+      "first-contributor",
+      "medium",
+      "haskell",
+      "up-for-grabs"
+    ],
+    "language": "css",
+    "stars": 510,
+    "foundAt": "2026-10-01T06:12:20.696Z"
+  },
+  {
+    "key": "fork-commit-merge/fork-commit-merge#8308",
+    "tier": 1,
+    "repo": "fork-commit-merge/fork-commit-merge",
+    "number": 8308,
+    "title": "Fork, Commit, Merge - Medium Issue (Bootstrap CSS)",
+    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8308",
+    "comments": 0,
+    "createdAt": "2026-10-01T03:19:59Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "first-contributors",
+      "first-contributor",
+      "medium",
+      "css",
+      "bootstrap",
+      "up-for-grabs"
+    ],
+    "language": "css",
+    "stars": 510,
+    "foundAt": "2026-10-01T06:12:20.696Z"
+  },
+  {
+    "key": "fork-commit-merge/fork-commit-merge#8307",
+    "tier": 1,
+    "repo": "fork-commit-merge/fork-commit-merge",
+    "number": 8307,
+    "title": "Fork, Commit, Merge - Hard Issue (Markdown)",
+    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8307",
+    "comments": 0,
+    "createdAt": "2026-10-01T03:19:57Z",
+    "labels": [
+      "documentation",
+      "help wanted",
+      "good first issue",
+      "first-contributors",
+      "first-contributor",
+      "hard",
+      "markdown",
+      "up-for-grabs"
+    ],
+    "language": "css",
+    "stars": 510,
+    "foundAt": "2026-10-01T06:12:20.696Z"
+  },
+  {
+    "key": "fork-commit-merge/fork-commit-merge#8306",
+    "tier": 1,
+    "repo": "fork-commit-merge/fork-commit-merge",
+    "number": 8306,
+    "title": "Fork, Commit, Merge - Easy Issue (Elixir)",
+    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8306",
+    "comments": 0,
+    "createdAt": "2026-10-01T03:19:56Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "first-contributors",
+      "first-contributor",
+      "easy",
+      "elixir",
+      "up-for-grabs"
+    ],
+    "language": "css",
+    "stars": 510,
+    "foundAt": "2026-10-01T06:12:20.696Z"
+  },
+  {
+    "key": "fork-commit-merge/fork-commit-merge#8305",
+    "tier": 1,
+    "repo": "fork-commit-merge/fork-commit-merge",
+    "number": 8305,
+    "title": "Fork, Commit, Merge - Easy Issue (Haskell)",
+    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8305",
+    "comments": 0,
+    "createdAt": "2026-10-01T03:19:54Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "first-contributors",
+      "first-contributor",
+      "easy",
+      "haskell",
+      "up-for-grabs"
+    ],
+    "language": "css",
+    "stars": 510,
+    "foundAt": "2026-10-01T06:12:20.696Z"
+  },
+  {
+    "key": "fork-commit-merge/fork-commit-merge#8304",
+    "tier": 1,
+    "repo": "fork-commit-merge/fork-commit-merge",
+    "number": 8304,
+    "title": "Fork, Commit, Merge - Easy Issue (Kotlin)",
+    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8304",
+    "comments": 0,
+    "createdAt": "2026-10-01T03:19:53Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "first-contributors",
+      "first-contributor",
+      "easy",
+      "kotlin",
+      "up-for-grabs"
+    ],
+    "language": "css",
+    "stars": 510,
+    "foundAt": "2026-10-01T06:12:20.696Z"
+  },
+  {
+    "key": "fork-commit-merge/fork-commit-merge#8303",
+    "tier": 1,
+    "repo": "fork-commit-merge/fork-commit-merge",
+    "number": 8303,
+    "title": "Fork, Commit, Merge - Easy Issue (Scala)",
+    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8303",
+    "comments": 0,
+    "createdAt": "2026-10-01T03:19:51Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "first-contributors",
+      "first-contributor",
+      "easy",
+      "scala",
+      "up-for-grabs"
+    ],
+    "language": "css",
+    "stars": 510,
+    "foundAt": "2026-10-01T06:12:20.696Z"
+  },
+  {
+    "key": "fork-commit-merge/fork-commit-merge#8302",
+    "tier": 1,
+    "repo": "fork-commit-merge/fork-commit-merge",
+    "number": 8302,
+    "title": "Fork, Commit, Merge - Easy Issue (Lua)",
+    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8302",
+    "comments": 0,
+    "createdAt": "2026-10-01T03:19:50Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "first-contributors",
+      "first-contributor",
+      "easy",
+      "lua",
+      "up-for-grabs"
+    ],
+    "language": "css",
+    "stars": 510,
+    "foundAt": "2026-10-01T06:12:20.696Z"
+  },
+  {
+    "key": "fork-commit-merge/fork-commit-merge#8301",
+    "tier": 1,
+    "repo": "fork-commit-merge/fork-commit-merge",
+    "number": 8301,
+    "title": "Fork, Commit, Merge - Easy Issue (Clojure)",
+    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8301",
+    "comments": 0,
+    "createdAt": "2026-10-01T03:19:48Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "first-contributors",
+      "first-contributor",
+      "easy",
+      "clojure",
+      "up-for-grabs"
+    ],
+    "language": "css",
+    "stars": 510,
+    "foundAt": "2026-10-01T06:12:20.696Z"
+  },
+  {
+    "key": "fork-commit-merge/fork-commit-merge#8300",
+    "tier": 1,
+    "repo": "fork-commit-merge/fork-commit-merge",
+    "number": 8300,
+    "title": "Fork, Commit, Merge - Medium Issue (CoffeeScript)",
+    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8300",
+    "comments": 0,
+    "createdAt": "2026-10-01T03:19:47Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "first-contributors",
+      "first-contributor",
+      "medium",
+      "coffeescript",
+      "up-for-grabs"
+    ],
+    "language": "css",
+    "stars": 510,
+    "foundAt": "2026-10-01T06:12:20.696Z"
+  },
+  {
+    "key": "fork-commit-merge/fork-commit-merge#8299",
+    "tier": 1,
+    "repo": "fork-commit-merge/fork-commit-merge",
+    "number": 8299,
+    "title": "Fork, Commit, Merge - Easy Issue (Perl)",
+    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8299",
+    "comments": 0,
+    "createdAt": "2026-10-01T03:19:45Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "first-contributors",
+      "first-contributor",
+      "easy",
+      "shell",
+      "perl",
+      "up-for-grabs"
+    ],
+    "language": "css",
+    "stars": 510,
+    "foundAt": "2026-10-01T06:12:20.696Z"
+  },
+  {
+    "key": "fork-commit-merge/fork-commit-merge#8298",
+    "tier": 1,
+    "repo": "fork-commit-merge/fork-commit-merge",
+    "number": 8298,
+    "title": "Fork, Commit, Merge - Easy Issue (Vue)",
+    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8298",
+    "comments": 0,
+    "createdAt": "2026-10-01T03:19:44Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "first-contributors",
+      "first-contributor",
+      "easy",
+      "vue",
+      "up-for-grabs"
+    ],
+    "language": "css",
+    "stars": 510,
+    "foundAt": "2026-10-01T06:12:20.696Z"
+  },
+  {
+    "key": "fork-commit-merge/fork-commit-merge#8297",
+    "tier": 1,
+    "repo": "fork-commit-merge/fork-commit-merge",
+    "number": 8297,
+    "title": "Fork, Commit, Merge - Easy Issue (Svelte)",
+    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8297",
+    "comments": 0,
+    "createdAt": "2026-10-01T03:19:42Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "first-contributors",
+      "first-contributor",
+      "easy",
+      "html",
+      "vite",
+      "svelte",
+      "up-for-grabs"
+    ],
+    "language": "css",
+    "stars": 510,
+    "foundAt": "2026-10-01T06:12:20.696Z"
+  },
+  {
+    "key": "fork-commit-merge/fork-commit-merge#8296",
+    "tier": 1,
+    "repo": "fork-commit-merge/fork-commit-merge",
+    "number": 8296,
+    "title": "Fork, Commit, Merge - Easy Issue (Angular)",
+    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8296",
+    "comments": 0,
+    "createdAt": "2026-10-01T03:19:41Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "first-contributors",
+      "first-contributor",
+      "easy",
+      "html",
+      "angular",
+      "up-for-grabs"
+    ],
+    "language": "css",
+    "stars": 510,
+    "foundAt": "2026-10-01T06:12:20.696Z"
+  },
+  {
+    "key": "fork-commit-merge/fork-commit-merge#8295",
+    "tier": 1,
+    "repo": "fork-commit-merge/fork-commit-merge",
+    "number": 8295,
+    "title": "Fork, Commit, Merge - Easy Issue (TLA+)",
+    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8295",
+    "comments": 0,
+    "createdAt": "2026-10-01T03:19:39Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "first-contributors",
+      "first-contributor",
+      "easy",
+      "tla+",
+      "testing",
+      "up-for-grabs"
+    ],
+    "language": "css",
+    "stars": 510,
+    "foundAt": "2026-10-01T06:12:20.696Z"
+  },
+  {
+    "key": "fork-commit-merge/fork-commit-merge#8294",
+    "tier": 1,
+    "repo": "fork-commit-merge/fork-commit-merge",
+    "number": 8294,
+    "title": "Fork, Commit, Merge - Easy Issue (Astro)",
+    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8294",
+    "comments": 0,
+    "createdAt": "2026-10-01T03:19:38Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "first-contributors",
+      "first-contributor",
+      "easy",
+      "html",
+      "astro",
+      "up-for-grabs"
+    ],
+    "language": "css",
+    "stars": 510,
+    "foundAt": "2026-10-01T06:12:20.696Z"
+  },
+  {
+    "key": "fork-commit-merge/fork-commit-merge#8293",
+    "tier": 1,
+    "repo": "fork-commit-merge/fork-commit-merge",
+    "number": 8293,
+    "title": "Fork, Commit, Merge - Easy Issue (Nim)",
+    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8293",
+    "comments": 0,
+    "createdAt": "2026-10-01T03:19:36Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "first-contributors",
+      "first-contributor",
+      "easy",
+      "nim",
+      "up-for-grabs"
+    ],
+    "language": "css",
+    "stars": 510,
+    "foundAt": "2026-10-01T06:12:20.696Z"
+  },
+  {
+    "key": "fork-commit-merge/fork-commit-merge#8292",
+    "tier": 1,
+    "repo": "fork-commit-merge/fork-commit-merge",
+    "number": 8292,
+    "title": "Fork, Commit, Merge - Easy Issue (Groovy)",
+    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8292",
+    "comments": 0,
+    "createdAt": "2026-10-01T03:19:35Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "first-contributors",
+      "first-contributor",
+      "easy",
+      "groovy",
+      "up-for-grabs"
+    ],
+    "language": "css",
+    "stars": 510,
+    "foundAt": "2026-10-01T06:12:20.696Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31379",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31379,
+    "title": "[good first issue] 🥟 Add new Grammar Point 943 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31379",
+    "comments": 1,
+    "createdAt": "2026-10-01T03:01:30Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-10-01T06:12:16.542Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31378",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31378,
+    "title": "[good first issue] 🪭 Add new Trivia Question 914 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31378",
+    "comments": 1,
+    "createdAt": "2026-10-01T02:57:31Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-10-01T06:12:16.542Z"
+  },
+  {
+    "key": "stdlib-js/stdlib#15714",
+    "tier": 1,
+    "repo": "stdlib-js/stdlib",
+    "number": 15714,
+    "title": "Fix broken Markdown link: https://www.khronos.org/vulkan/",
+    "url": "https://github.com/stdlib-js/stdlib/issues/15714",
+    "comments": 2,
+    "createdAt": "2026-10-01T02:29:57Z",
+    "labels": [
+      "Good First Issue"
+    ],
+    "language": "javascript",
+    "stars": 5982,
+    "foundAt": "2026-10-01T06:12:20.021Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31377",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31377,
+    "title": "[good first issue] 🍁 Add new Japanese Proverb 186 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31377",
+    "comments": 1,
+    "createdAt": "2026-10-01T02:00:59Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-10-01T06:12:16.747Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31376",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31376,
+    "title": "[good first issue] 🗾 Add new Japan Fact 1754 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31376",
+    "comments": 1,
+    "createdAt": "2026-10-01T01:57:29Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-10-01T06:12:16.747Z"
+  },
+  {
+    "key": "elmohq/elmo#834",
+    "tier": 1,
+    "repo": "elmohq/elmo",
+    "number": 834,
+    "title": "add custom lookback ranges",
+    "url": "https://github.com/elmohq/elmo/issues/834",
+    "comments": 0,
+    "createdAt": "2026-10-01T01:30:54Z",
+    "labels": [
+      "good first issue",
+      "area/core"
+    ],
+    "language": "typescript",
+    "stars": 404,
+    "foundAt": "2026-10-01T06:12:17.108Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31372",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31372,
+    "title": "[good first issue] 🎴 Add new Learner Mistake 759 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31372",
+    "comments": 1,
+    "createdAt": "2026-10-01T00:57:29Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-10-01T06:12:17.587Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31371",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31371,
+    "title": "[good first issue] 🧧 Add new Etiquette Tip 406 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31371",
+    "comments": 1,
+    "createdAt": "2026-10-01T00:01:01Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3454,
+    "foundAt": "2026-10-01T06:12:18.989Z"
+  },
+  {
+    "key": "meshery/meshery.io#3030",
+    "tier": 2,
+    "repo": "meshery/meshery.io",
+    "number": 3030,
+    "title": "[UI] Horizontal overflow and content clipping on /community/newcomers at tablet viewports",
+    "url": "https://github.com/meshery/meshery.io/issues/3030",
+    "comments": 1,
+    "createdAt": "2026-10-01T05:40:02Z",
+    "labels": [
+      "kind/bug",
+      "help wanted"
+    ],
+    "language": "javascript",
+    "stars": 867,
+    "foundAt": "2026-10-01T06:12:20.910Z"
+  },
+  {
+    "key": "backstage/backstage#35952",
+    "tier": 2,
+    "repo": "backstage/backstage",
+    "number": 35952,
+    "title": "Snyk vulnerability [SNYK-JS-URIJS-20341609]",
+    "url": "https://github.com/backstage/backstage/issues/35952",
+    "comments": 0,
+    "createdAt": "2026-10-01T04:13:15Z",
+    "labels": [
+      "snyk-vulnerability",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 34522,
+    "foundAt": "2026-10-01T06:12:20.910Z"
+  },
+  {
+    "key": "fork-commit-merge/fork-commit-merge#8321",
+    "tier": 2,
+    "repo": "fork-commit-merge/fork-commit-merge",
+    "number": 8321,
+    "title": "Fork, Commit, Merge - Medium Issue (Ada)",
+    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8321",
+    "comments": 0,
+    "createdAt": "2026-10-01T03:20:19Z",
+    "labels": [
+      "help wanted",
+      "first-contributors",
+      "first-contributor",
+      "medium",
+      "up-for-grabs",
+      "ada"
+    ],
+    "language": "css",
+    "stars": 510,
+    "foundAt": "2026-10-01T06:12:21.244Z"
+  },
+  {
+    "key": "webdriverio/webdriverio#15844",
+    "tier": 2,
+    "repo": "webdriverio/webdriverio",
+    "number": 15844,
+    "title": "[🐛 Bug]: execute() on a multi-remote browser fails when an argument is a multi-remote element",
+    "url": "https://github.com/webdriverio/webdriverio/issues/15844",
+    "comments": 2,
+    "createdAt": "2026-10-01T00:43:30Z",
+    "labels": [
+      "Bug 🐛",
+      "help wanted",
+      "good first pick",
+      "Protocol Related",
+      "multi remote"
+    ],
+    "language": "typescript",
+    "stars": 9841,
+    "foundAt": "2026-10-01T06:12:20.910Z"
+  },
+  {
+    "key": "actualbudget/actual#9055",
+    "tier": 3,
+    "repo": "actualbudget/actual",
+    "number": 9055,
+    "title": "Could you please confirm whether you have verified this as a vulnerability",
+    "url": "https://github.com/actualbudget/actual/issues/9055",
+    "comments": 0,
+    "createdAt": "2026-10-01T06:09:54Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "typescript",
+    "stars": 29238,
+    "foundAt": "2026-10-01T06:12:21.445Z"
+  },
+  {
+    "key": "nicobailon/pi-subagents#2608",
+    "tier": 3,
+    "repo": "nicobailon/pi-subagents",
+    "number": 2608,
+    "title": "Workflow args limits aren't visible up front, and validate doesn't check args",
+    "url": "https://github.com/nicobailon/pi-subagents/issues/2608",
+    "comments": 0,
+    "createdAt": "2026-10-01T06:08:12Z",
+    "labels": [
+      "documentation",
+      "enhancement"
+    ],
+    "language": "typescript",
+    "stars": 3801,
+    "foundAt": "2026-10-01T06:12:21.603Z"
+  },
+  {
+    "key": "nicobailon/pi-mcp-adapter#783",
+    "tier": 3,
+    "repo": "nicobailon/pi-mcp-adapter",
+    "number": 783,
+    "title": "Keep server memory proportional to recent use, and show the benefit over Pi's built-in MCP",
+    "url": "https://github.com/nicobailon/pi-mcp-adapter/issues/783",
+    "comments": 0,
+    "createdAt": "2026-10-01T05:01:55Z",
+    "labels": [
+      "documentation",
+      "enhancement"
+    ],
+    "language": "typescript",
+    "stars": 1570,
+    "foundAt": "2026-10-01T06:12:24.852Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#31369",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1038,928 +2094,5 @@
     "language": "javascript",
     "stars": 41012,
     "foundAt": "2026-09-30T06:54:37.116Z"
-  },
-  {
-    "key": "ToolJet/ToolJet#18171",
-    "tier": 2,
-    "repo": "ToolJet/ToolJet",
-    "number": 18171,
-    "title": "[Marketplace] Add Dropbox plugin",
-    "url": "https://github.com/ToolJet/ToolJet/issues/18171",
-    "comments": 0,
-    "createdAt": "2026-09-30T06:21:36Z",
-    "labels": [
-      "feature request",
-      "hacktoberfest",
-      "up-for-grabs",
-      "marketplace",
-      "community contribution"
-    ],
-    "language": "javascript",
-    "stars": 41012,
-    "foundAt": "2026-09-30T06:54:37.116Z"
-  },
-  {
-    "key": "ToolJet/ToolJet#18170",
-    "tier": 2,
-    "repo": "ToolJet/ToolJet",
-    "number": 18170,
-    "title": "[Marketplace] Add Smartsheet plugin",
-    "url": "https://github.com/ToolJet/ToolJet/issues/18170",
-    "comments": 0,
-    "createdAt": "2026-09-30T06:20:09Z",
-    "labels": [
-      "feature request",
-      "hacktoberfest",
-      "up-for-grabs",
-      "marketplace",
-      "community contribution"
-    ],
-    "language": "javascript",
-    "stars": 41012,
-    "foundAt": "2026-09-30T06:54:37.116Z"
-  },
-  {
-    "key": "ToolJet/ToolJet#18169",
-    "tier": 2,
-    "repo": "ToolJet/ToolJet",
-    "number": 18169,
-    "title": "[Marketplace] Add GitLab plugin",
-    "url": "https://github.com/ToolJet/ToolJet/issues/18169",
-    "comments": 0,
-    "createdAt": "2026-09-30T06:19:27Z",
-    "labels": [
-      "feature request",
-      "hacktoberfest",
-      "up-for-grabs",
-      "marketplace",
-      "community contribution"
-    ],
-    "language": "javascript",
-    "stars": 41012,
-    "foundAt": "2026-09-30T06:54:37.116Z"
-  },
-  {
-    "key": "ToolJet/ToolJet#18168",
-    "tier": 2,
-    "repo": "ToolJet/ToolJet",
-    "number": 18168,
-    "title": "[Marketplace] Add Linear plugin",
-    "url": "https://github.com/ToolJet/ToolJet/issues/18168",
-    "comments": 0,
-    "createdAt": "2026-09-30T06:18:13Z",
-    "labels": [
-      "feature request",
-      "hacktoberfest",
-      "up-for-grabs",
-      "marketplace",
-      "community contribution"
-    ],
-    "language": "javascript",
-    "stars": 41012,
-    "foundAt": "2026-09-30T06:54:37.116Z"
-  },
-  {
-    "key": "webbrain-one/webbrain#3115",
-    "tier": 2,
-    "repo": "webbrain-one/webbrain",
-    "number": 3115,
-    "title": "Help wanted: test API-first content workflows across nine CMS platforms",
-    "url": "https://github.com/webbrain-one/webbrain/issues/3115",
-    "comments": 1,
-    "createdAt": "2026-09-30T03:48:00Z",
-    "labels": [
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 1143,
-    "foundAt": "2026-09-30T06:54:37.339Z"
-  },
-  {
-    "key": "Studio-42/elFinder#3805",
-    "tier": 3,
-    "repo": "Studio-42/elFinder",
-    "number": 3805,
-    "title": "[DOC]Rungrot Saisukhon:0105546149531_B030300002A1729.m51A0L917924692",
-    "url": "https://github.com/Studio-42/elFinder/issues/3805",
-    "comments": 0,
-    "createdAt": "2026-09-30T05:55:04Z",
-    "labels": [
-      "documentation"
-    ],
-    "language": "javascript",
-    "stars": 4805,
-    "foundAt": "2026-09-30T06:54:41.737Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31299",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31299,
-    "title": "[good first issue] 🍶 Add new Japanese Idiom 455 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31299",
-    "comments": 1,
-    "createdAt": "2026-09-30T00:01:02Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-30T00:36:31.309Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31298",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31298,
-    "title": "[good first issue] 🍥 Add new Video Game Quote 1072 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31298",
-    "comments": 1,
-    "createdAt": "2026-09-29T23:57:29Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-30T00:36:31.309Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31296",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31296,
-    "title": "[good first issue] 🦊 Add new Anime Quote 686 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31296",
-    "comments": 1,
-    "createdAt": "2026-09-29T23:00:58Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-30T00:36:31.495Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31295",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31295,
-    "title": "[good first issue] 🍥 Add new Grammar Point 1312 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31295",
-    "comments": 1,
-    "createdAt": "2026-09-29T22:57:33Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-30T00:36:31.495Z"
-  },
-  {
-    "key": "libredb/libredb-studio#1209",
-    "tier": 1,
-    "repo": "libredb/libredb-studio",
-    "number": 1209,
-    "title": "Oracle: UROWID(n) and VECTOR(n, format) read back without their size, so SchemaDiff recreates a different column",
-    "url": "https://github.com/libredb/libredb-studio/issues/1209",
-    "comments": 0,
-    "createdAt": "2026-09-29T22:24:19Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 890,
-    "foundAt": "2026-09-30T00:36:31.922Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31294",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31294,
-    "title": "[good first issue] 🍢 Add new Trivia Question 169 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31294",
-    "comments": 1,
-    "createdAt": "2026-09-29T22:00:58Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-30T00:36:32.140Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31289",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31289,
-    "title": "[good first issue] 🐙 Add new Community Note Line #24 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31289",
-    "comments": 1,
-    "createdAt": "2026-09-29T20:01:01Z",
-    "labels": [
-      "documentation",
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-29T20:55:42.339Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31288",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31288,
-    "title": "[good first issue] 🥢 Add new Learner Mistake 1024 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31288",
-    "comments": 1,
-    "createdAt": "2026-09-29T19:57:30Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-29T20:55:42.515Z"
-  },
-  {
-    "key": "layer5io/layer5#8158",
-    "tier": 2,
-    "repo": "layer5io/layer5",
-    "number": 8158,
-    "title": "Unwanted white border around \"Join the Conversation\" (Discuss) card on Learn, Community & FAQ pages",
-    "url": "https://github.com/layer5io/layer5/issues/8158",
-    "comments": 1,
-    "createdAt": "2026-09-29T18:43:58Z",
-    "labels": [
-      "kind/bug",
-      "help wanted",
-      "framework/gatsby"
-    ],
-    "language": "javascript",
-    "stars": 1136,
-    "foundAt": "2026-09-29T20:55:42.925Z"
-  },
-  {
-    "key": "quarto-dev/quarto-cli#14964",
-    "tier": 3,
-    "repo": "quarto-dev/quarto-cli",
-    "number": 14964,
-    "title": "The axe check misses revealjs contrast at desktop viewports",
-    "url": "https://github.com/quarto-dev/quarto-cli/issues/14964",
-    "comments": 0,
-    "createdAt": "2026-09-29T20:38:52Z",
-    "labels": [
-      "accessibility",
-      "revealjs"
-    ],
-    "language": "javascript",
-    "stars": 6016,
-    "foundAt": "2026-09-29T20:55:43.814Z"
-  },
-  {
-    "key": "quarto-dev/quarto-cli#14963",
-    "tier": 3,
-    "repo": "quarto-dev/quarto-cli",
-    "number": 14963,
-    "title": "Selected revealjs tab fails contrast on narrow screens",
-    "url": "https://github.com/quarto-dev/quarto-cli/issues/14963",
-    "comments": 0,
-    "createdAt": "2026-09-29T20:19:39Z",
-    "labels": [
-      "accessibility",
-      "revealjs",
-      "themes"
-    ],
-    "language": "javascript",
-    "stars": 6016,
-    "foundAt": "2026-09-29T20:55:44.452Z"
-  },
-  {
-    "key": "quarto-dev/quarto-cli#14962",
-    "tier": 3,
-    "repo": "quarto-dev/quarto-cli",
-    "number": 14962,
-    "title": "Default revealjs link colour fails text contrast at normal sizes",
-    "url": "https://github.com/quarto-dev/quarto-cli/issues/14962",
-    "comments": 0,
-    "createdAt": "2026-09-29T20:19:37Z",
-    "labels": [
-      "accessibility",
-      "revealjs",
-      "themes"
-    ],
-    "language": "javascript",
-    "stars": 6016,
-    "foundAt": "2026-09-29T20:55:44.452Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31278",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31278,
-    "title": "[good first issue] 🍵 Add new Theme: Gingko Gold (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31278",
-    "comments": 1,
-    "createdAt": "2026-09-29T15:58:07Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-29T16:00:55.752Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31275",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31275,
-    "title": "[good first issue] 🎍 Add new Etiquette Tip 1079 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31275",
-    "comments": 1,
-    "createdAt": "2026-09-29T14:57:33Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-29T16:00:56.407Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31274",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31274,
-    "title": "[good first issue] 🍢 Add new False Friend Pair 272 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31274",
-    "comments": 1,
-    "createdAt": "2026-09-29T14:01:01Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-29T16:00:57.365Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31273",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31273,
-    "title": "[good first issue] 🍚 Add new Japanese Idiom 256 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31273",
-    "comments": 1,
-    "createdAt": "2026-09-29T13:57:35Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-09-29T16:00:57.609Z"
-  },
-  {
-    "key": "juspay/xyne-spaces#2452",
-    "tier": 1,
-    "repo": "juspay/xyne-spaces",
-    "number": 2452,
-    "title": "`Failed to upload file to GCS: File buffer is empty or invalid` logged about 5.4k times a day",
-    "url": "https://github.com/juspay/xyne-spaces/issues/2452",
-    "comments": 0,
-    "createdAt": "2026-09-29T13:54:45Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 794,
-    "foundAt": "2026-09-29T16:00:57.986Z"
-  },
-  {
-    "key": "juspay/xyne-spaces#2451",
-    "tier": 1,
-    "repo": "juspay/xyne-spaces",
-    "number": 2451,
-    "title": "Some Activity event types have no renderer, so they show as blank rows",
-    "url": "https://github.com/juspay/xyne-spaces/issues/2451",
-    "comments": 0,
-    "createdAt": "2026-09-29T13:54:42Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 794,
-    "foundAt": "2026-09-29T16:00:57.986Z"
-  },
-  {
-    "key": "juspay/xyne-spaces#2450",
-    "tier": 1,
-    "repo": "juspay/xyne-spaces",
-    "number": 2450,
-    "title": "Old recordings show a spinner forever instead of a \"not available\" message",
-    "url": "https://github.com/juspay/xyne-spaces/issues/2450",
-    "comments": 0,
-    "createdAt": "2026-09-29T13:54:40Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 794,
-    "foundAt": "2026-09-29T16:00:57.986Z"
-  },
-  {
-    "key": "juspay/xyne-spaces#2449",
-    "tier": 1,
-    "repo": "juspay/xyne-spaces",
-    "number": 2449,
-    "title": "Creating a canvas has no loading state, so clicking more than once creates duplicates",
-    "url": "https://github.com/juspay/xyne-spaces/issues/2449",
-    "comments": 0,
-    "createdAt": "2026-09-29T13:54:38Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 794,
-    "foundAt": "2026-09-29T16:00:57.986Z"
-  },
-  {
-    "key": "juspay/xyne-spaces#2448",
-    "tier": 1,
-    "repo": "juspay/xyne-spaces",
-    "number": 2448,
-    "title": "The Windows desktop app still uses the default Electron icon",
-    "url": "https://github.com/juspay/xyne-spaces/issues/2448",
-    "comments": 0,
-    "createdAt": "2026-09-29T13:54:36Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 794,
-    "foundAt": "2026-09-29T16:00:57.986Z"
-  },
-  {
-    "key": "juspay/xyne-spaces#2447",
-    "tier": 1,
-    "repo": "juspay/xyne-spaces",
-    "number": 2447,
-    "title": "Text pasted into a Desk email reply becomes unreadable in dark mode",
-    "url": "https://github.com/juspay/xyne-spaces/issues/2447",
-    "comments": 0,
-    "createdAt": "2026-09-29T13:54:33Z",
-    "labels": [
-      "bug",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 794,
-    "foundAt": "2026-09-29T16:00:57.986Z"
-  },
-  {
-    "key": "career-ops-hq/career-ops#4601",
-    "tier": 1,
-    "repo": "career-ops-hq/career-ops",
-    "number": 4601,
-    "title": "fix(cli): validate-portals.mjs has no --help and silently ignores mistyped flags: delegate to lib/cli-flags.mjs",
-    "url": "https://github.com/career-ops-hq/career-ops/issues/4601",
-    "comments": 2,
-    "createdAt": "2026-09-29T11:13:26Z",
-    "labels": [
-      "good first issue",
-      "first-timers-only"
-    ],
-    "language": "javascript",
-    "stars": 73057,
-    "foundAt": "2026-09-29T16:00:58.975Z"
-  },
-  {
-    "key": "career-ops-hq/career-ops#4600",
-    "tier": 1,
-    "repo": "career-ops-hq/career-ops",
-    "number": 4600,
-    "title": "fix(cli): rank-pipeline.mjs silently ignores mistyped flags: delegate to lib/cli-flags.mjs",
-    "url": "https://github.com/career-ops-hq/career-ops/issues/4600",
-    "comments": 0,
-    "createdAt": "2026-09-29T11:13:12Z",
-    "labels": [
-      "good first issue",
-      "first-timers-only"
-    ],
-    "language": "javascript",
-    "stars": 73057,
-    "foundAt": "2026-09-29T16:00:58.975Z"
-  },
-  {
-    "key": "career-ops-hq/career-ops#4599",
-    "tier": 1,
-    "repo": "career-ops-hq/career-ops",
-    "number": 4599,
-    "title": "fix(cli): scan-interamt.mjs runs a live scan on --help or a mistyped --dry-run: delegate to lib/cli-flags.mjs",
-    "url": "https://github.com/career-ops-hq/career-ops/issues/4599",
-    "comments": 0,
-    "createdAt": "2026-09-29T11:12:59Z",
-    "labels": [
-      "good first issue",
-      "first-timers-only"
-    ],
-    "language": "javascript",
-    "stars": 73057,
-    "foundAt": "2026-09-29T16:00:58.975Z"
-  },
-  {
-    "key": "career-ops-hq/career-ops#4598",
-    "tier": 1,
-    "repo": "career-ops-hq/career-ops",
-    "number": 4598,
-    "title": "fix(cli): scan-hn.mjs has no --help, so --help runs a live scan: delegate to lib/cli-flags.mjs",
-    "url": "https://github.com/career-ops-hq/career-ops/issues/4598",
-    "comments": 0,
-    "createdAt": "2026-09-29T11:12:44Z",
-    "labels": [
-      "good first issue",
-      "first-timers-only"
-    ],
-    "language": "javascript",
-    "stars": 73057,
-    "foundAt": "2026-09-29T16:00:58.975Z"
-  },
-  {
-    "key": "career-ops-hq/career-ops#4597",
-    "tier": 1,
-    "repo": "career-ops-hq/career-ops",
-    "number": 4597,
-    "title": "docs: ARCHITECTURE.md gives applied-date-local-vs-utc.test.mjs as a naming example, but no such suite exists",
-    "url": "https://github.com/career-ops-hq/career-ops/issues/4597",
-    "comments": 0,
-    "createdAt": "2026-09-29T11:12:30Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "first-timers-only"
-    ],
-    "language": "javascript",
-    "stars": 73057,
-    "foundAt": "2026-09-29T16:00:58.975Z"
-  },
-  {
-    "key": "career-ops-hq/career-ops#4596",
-    "tier": 1,
-    "repo": "career-ops-hq/career-ops",
-    "number": 4596,
-    "title": "docs(i18n): the German and Chinese interview READMEs point to ../interview-prep.md, which does not exist from there",
-    "url": "https://github.com/career-ops-hq/career-ops/issues/4596",
-    "comments": 0,
-    "createdAt": "2026-09-29T11:12:16Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "first-timers-only"
-    ],
-    "language": "javascript",
-    "stars": 73057,
-    "foundAt": "2026-09-29T16:00:58.975Z"
-  },
-  {
-    "key": "career-ops-hq/career-ops#4595",
-    "tier": 1,
-    "repo": "career-ops-hq/career-ops",
-    "number": 4595,
-    "title": "docs(docker): DOCKER.md suggests ./cops npm test, but there is no test script",
-    "url": "https://github.com/career-ops-hq/career-ops/issues/4595",
-    "comments": 0,
-    "createdAt": "2026-09-29T11:12:01Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "first-timers-only"
-    ],
-    "language": "javascript",
-    "stars": 73057,
-    "foundAt": "2026-09-29T16:00:58.975Z"
-  },
-  {
-    "key": "career-ops-hq/career-ops#4594",
-    "tier": 1,
-    "repo": "career-ops-hq/career-ops",
-    "number": 4594,
-    "title": "docs(setup): the prerequisites miss the Node 22.5+ of the tracker index and the 22.6+ of the web UI",
-    "url": "https://github.com/career-ops-hq/career-ops/issues/4594",
-    "comments": 0,
-    "createdAt": "2026-09-29T11:11:47Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "first-timers-only"
-    ],
-    "language": "javascript",
-    "stars": 73057,
-    "foundAt": "2026-09-29T16:00:58.975Z"
-  },
-  {
-    "key": "career-ops-hq/career-ops#4593",
-    "tier": 1,
-    "repo": "career-ops-hq/career-ops",
-    "number": 4593,
-    "title": "docs: the READMEs and SKILL.md advertise an eu-fintech preset that does not exist",
-    "url": "https://github.com/career-ops-hq/career-ops/issues/4593",
-    "comments": 0,
-    "createdAt": "2026-09-29T11:11:33Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "first-timers-only"
-    ],
-    "language": "javascript",
-    "stars": 73057,
-    "foundAt": "2026-09-29T16:00:58.975Z"
-  },
-  {
-    "key": "meshery/meshery.io#3024",
-    "tier": 2,
-    "repo": "meshery/meshery.io",
-    "number": 3024,
-    "title": "[Bug] Catalog modal uses light snapshot for dark mode",
-    "url": "https://github.com/meshery/meshery.io/issues/3024",
-    "comments": 0,
-    "createdAt": "2026-09-29T15:45:31Z",
-    "labels": [
-      "kind/bug",
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 867,
-    "foundAt": "2026-09-29T16:01:00.319Z"
-  },
-  {
-    "key": "juspay/xyne-spaces#2443",
-    "tier": 2,
-    "repo": "juspay/xyne-spaces",
-    "number": 2443,
-    "title": "`.fig` uploads are silently rejected (missing from the upload allow-list)",
-    "url": "https://github.com/juspay/xyne-spaces/issues/2443",
-    "comments": 0,
-    "createdAt": "2026-09-29T13:52:34Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 794,
-    "foundAt": "2026-09-29T16:01:00.319Z"
-  },
-  {
-    "key": "meshery/meshery.io#3023",
-    "tier": 2,
-    "repo": "meshery/meshery.io",
-    "number": 3023,
-    "title": "[Blog] Clear stale search results when query drops below two characters",
-    "url": "https://github.com/meshery/meshery.io/issues/3023",
-    "comments": 1,
-    "createdAt": "2026-09-29T13:02:47Z",
-    "labels": [
-      "kind/bug",
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 867,
-    "foundAt": "2026-09-29T16:01:00.712Z"
-  },
-  {
-    "key": "ToolJet/ToolJet#18153",
-    "tier": 2,
-    "repo": "ToolJet/ToolJet",
-    "number": 18153,
-    "title": "OpenAI logo is not visible in dark mode",
-    "url": "https://github.com/ToolJet/ToolJet/issues/18153",
-    "comments": 0,
-    "createdAt": "2026-09-29T11:09:40Z",
-    "labels": [
-      "bug",
-      "hacktoberfest"
-    ],
-    "language": "javascript",
-    "stars": 41012,
-    "foundAt": "2026-09-29T16:01:00.998Z"
-  },
-  {
-    "key": "ToolJet/ToolJet#18152",
-    "tier": 2,
-    "repo": "ToolJet/ToolJet",
-    "number": 18152,
-    "title": "Anthropic logo is not visible in dark mode",
-    "url": "https://github.com/ToolJet/ToolJet/issues/18152",
-    "comments": 0,
-    "createdAt": "2026-09-29T11:08:43Z",
-    "labels": [
-      "bug",
-      "hacktoberfest"
-    ],
-    "language": "javascript",
-    "stars": 41012,
-    "foundAt": "2026-09-29T16:01:00.998Z"
-  },
-  {
-    "key": "ToolJet/ToolJet#18151",
-    "tier": 2,
-    "repo": "ToolJet/ToolJet",
-    "number": 18151,
-    "title": "Icon colour on disabled buttons is incorrect",
-    "url": "https://github.com/ToolJet/ToolJet/issues/18151",
-    "comments": 0,
-    "createdAt": "2026-09-29T10:55:18Z",
-    "labels": [
-      "bug",
-      "hacktoberfest"
-    ],
-    "language": "javascript",
-    "stars": 41012,
-    "foundAt": "2026-09-29T16:01:00.999Z"
-  },
-  {
-    "key": "ToolJet/ToolJet#18149",
-    "tier": 2,
-    "repo": "ToolJet/ToolJet",
-    "number": 18149,
-    "title": "Glitch: Tabs are moving on hover",
-    "url": "https://github.com/ToolJet/ToolJet/issues/18149",
-    "comments": 0,
-    "createdAt": "2026-09-29T10:46:37Z",
-    "labels": [
-      "bug",
-      "hacktoberfest"
-    ],
-    "language": "javascript",
-    "stars": 41012,
-    "foundAt": "2026-09-29T16:01:00.999Z"
-  },
-  {
-    "key": "ToolJet/ToolJet#18148",
-    "tier": 2,
-    "repo": "ToolJet/ToolJet",
-    "number": 18148,
-    "title": "Dark mode: Scroll colours",
-    "url": "https://github.com/ToolJet/ToolJet/issues/18148",
-    "comments": 0,
-    "createdAt": "2026-09-29T10:41:56Z",
-    "labels": [
-      "bug",
-      "hacktoberfest"
-    ],
-    "language": "javascript",
-    "stars": 41012,
-    "foundAt": "2026-09-29T16:01:00.999Z"
-  },
-  {
-    "key": "ToolJet/ToolJet#18146",
-    "tier": 2,
-    "repo": "ToolJet/ToolJet",
-    "number": 18146,
-    "title": "Dark mode: Toggle not visible",
-    "url": "https://github.com/ToolJet/ToolJet/issues/18146",
-    "comments": 0,
-    "createdAt": "2026-09-29T10:28:59Z",
-    "labels": [
-      "bug",
-      "hacktoberfest"
-    ],
-    "language": "javascript",
-    "stars": 41012,
-    "foundAt": "2026-09-29T16:01:00.999Z"
-  },
-  {
-    "key": "ToolJet/ToolJet#18145",
-    "tier": 2,
-    "repo": "ToolJet/ToolJet",
-    "number": 18145,
-    "title": "Dark mode: Workspace login",
-    "url": "https://github.com/ToolJet/ToolJet/issues/18145",
-    "comments": 0,
-    "createdAt": "2026-09-29T10:21:03Z",
-    "labels": [
-      "bug",
-      "hacktoberfest"
-    ],
-    "language": "javascript",
-    "stars": 41012,
-    "foundAt": "2026-09-29T16:01:00.999Z"
-  },
-  {
-    "key": "cloudflare/cloudflare-docs#33790",
-    "tier": 3,
-    "repo": "cloudflare/cloudflare-docs",
-    "number": 33790,
-    "title": "Create complete `cf` CLI, configuration, and migration documentation",
-    "url": "https://github.com/cloudflare/cloudflare-docs/issues/33790",
-    "comments": 0,
-    "createdAt": "2026-09-29T11:10:23Z",
-    "labels": [
-      "documentation",
-      "product:workers",
-      "content strategy",
-      "product:migration-guides",
-      "wrangler-commands"
-    ],
-    "language": "mdx",
-    "stars": 5260,
-    "foundAt": "2026-09-29T16:01:06.100Z"
-  },
-  {
-    "key": "backstage/backstage#35918",
-    "tier": 2,
-    "repo": "backstage/backstage",
-    "number": 35918,
-    "title": "Snyk vulnerability [SNYK-JS-BRACEEXPANSION-20244950]",
-    "url": "https://github.com/backstage/backstage/issues/35918",
-    "comments": 0,
-    "createdAt": "2026-09-29T08:13:20Z",
-    "labels": [
-      "snyk-vulnerability",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 34522,
-    "foundAt": "2026-09-29T08:45:36.483Z"
   }
 ]
