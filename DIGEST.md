@@ -4,6 +4,22 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-10-02 | 🥇 | [OP secondary code is not displayed when TOD is opened](https://github.com/OpenRailAssociation/osrd/issues/18941) | `OpenRailAssociation/osrd` | ⭐ 663 |
+| 2026-10-02 | 🥇 | [fix(gitignore): vim and emacs litter beside CLAUDE.md is still committable](https://github.com/OWASP/cve-lite-cli/issues/1267) | `OWASP/cve-lite-cli` | ⭐ 750 |
+| 2026-10-02 | 🥇 | [fix(gitignore): .claude/ is not ignored, only a machine-local exclude keeps it o](https://github.com/OWASP/cve-lite-cli/issues/1266) | `OWASP/cve-lite-cli` | ⭐ 750 |
+| 2026-10-02 | 🥇 | [fix(version): positionAgainstRange throws on a version component above MAX_SAFE_](https://github.com/OWASP/cve-lite-cli/issues/1265) | `OWASP/cve-lite-cli` | ⭐ 750 |
+| 2026-10-02 | 🥇 | [fix(report): report.json lost lockfileSource when it was unified with --json](https://github.com/OWASP/cve-lite-cli/issues/1263) | `OWASP/cve-lite-cli` | ⭐ 750 |
+| 2026-10-02 | 🥇 | [[good first issue, hacktoberfest] 🀄 Add new Theme: Bento Sage (good-first-issue](https://github.com/lingdojo/kana-dojo/issues/31485) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-02 | 🥇 | [calm-lab navbar overlaps and wraps on narrow screens (below ~460px)](https://github.com/finos/architecture-as-code/issues/3205) | `finos/architecture-as-code` | ⭐ 411 |
+| 2026-10-02 | 🥇 | [Tutorial 08 (controls) architecture fails `calm validate`](https://github.com/finos/architecture-as-code/issues/3203) | `finos/architecture-as-code` | ⭐ 411 |
+| 2026-10-02 | 🥇 | [[good first issue, hacktoberfest] 🍙 Add new Learner Mistake 463 (good-first-iss](https://github.com/lingdojo/kana-dojo/issues/31484) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-02 | 🥇 | [Discovery confuses session names beginning with = with tmux target syntax](https://github.com/mvschwarz/openrig/issues/492) | `mvschwarz/openrig` | ⭐ 4.0k |
+| 2026-10-02 | 🥇 | [[good first issue, hacktoberfest] 🦊 Add new False Friend Pair 883 (good-first-i](https://github.com/lingdojo/kana-dojo/issues/31477) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-02 | 🥈 | [`calm diff` summary and `--exit-code` ignore ADR, control and metadata changes](https://github.com/finos/architecture-as-code/issues/3210) | `finos/architecture-as-code` | ⭐ 411 |
+| 2026-10-02 | 🥈 | [VS Code extension README and AGENTS.md describe features that CALM Canvas remove](https://github.com/finos/architecture-as-code/issues/3209) | `finos/architecture-as-code` | ⭐ 411 |
+| 2026-10-02 | 🥈 | [[good first issue, hacktoberfest] 🍙 Add new Video Game Quote 885 (good-first-is](https://github.com/lingdojo/kana-dojo/issues/31475) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-02 | 🥈 | [[good first issue, hacktoberfest] 🍶 Add new Theme: Kabuki Drama (good-first-iss](https://github.com/lingdojo/kana-dojo/issues/31470) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-02 | 🥉 | [Add capo as a Python R2-client](https://github.com/cloudflare/cloudflare-docs/issues/33929) | `cloudflare/cloudflare-docs` | ⭐ 5.3k |
 | 2026-10-02 | 🥇 | [fix(settings): PUT /workspace/config accepts resources.idleTimeoutMinutes but ne](https://github.com/open-mercato/cezar/issues/1232) | `open-mercato/cezar` | ⭐ 293 |
 | 2026-10-02 | 🥇 | [Menu items with no renderer listener: Format SQL (Shift+Alt+F) does nothing](https://github.com/Rohithgilla12/data-peek/issues/287) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
 | 2026-10-02 | 🥇 | [Data generator: random-date is still non-reproducible under a seed when bounds a](https://github.com/Rohithgilla12/data-peek/issues/286) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
@@ -88,19 +104,3 @@
 | 2026-10-01 | 🥇 | [Fork, Commit, Merge - Hard Issue (C++)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8311) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
 | 2026-10-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (SQL)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8310) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
 | 2026-10-01 | 🥇 | [Fork, Commit, Merge - Medium Issue (Haskell)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8309) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
-| 2026-10-01 | 🥇 | [Fork, Commit, Merge - Medium Issue (Bootstrap CSS)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8308) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
-| 2026-10-01 | 🥇 | [Fork, Commit, Merge - Hard Issue (Markdown)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8307) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
-| 2026-10-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Elixir)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8306) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
-| 2026-10-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Haskell)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8305) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
-| 2026-10-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Kotlin)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8304) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
-| 2026-10-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Scala)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8303) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
-| 2026-10-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Lua)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8302) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
-| 2026-10-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Clojure)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8301) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
-| 2026-10-01 | 🥇 | [Fork, Commit, Merge - Medium Issue (CoffeeScript)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8300) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
-| 2026-10-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Perl)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8299) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
-| 2026-10-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Vue)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8298) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
-| 2026-10-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Svelte)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8297) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
-| 2026-10-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Angular)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8296) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
-| 2026-10-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (TLA+)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8295) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
-| 2026-10-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Astro)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8294) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
-| 2026-10-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Nim)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8293) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
