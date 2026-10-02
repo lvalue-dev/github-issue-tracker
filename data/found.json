@@ -1,5 +1,325 @@
 [
   {
+    "key": "lingdojo/kana-dojo#31518",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31518,
+    "title": "[good first issue, hacktoberfest] 🎑 Add new Learner Mistake 948 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31518",
+    "comments": 1,
+    "createdAt": "2026-10-02T23:00:53Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-02T23:06:07.764Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31517",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31517,
+    "title": "[good first issue, hacktoberfest] 🌸 Add new Example Sentence 797 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31517",
+    "comments": 1,
+    "createdAt": "2026-10-02T22:57:30Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-02T23:06:07.764Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31514",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31514,
+    "title": "[good first issue, hacktoberfest] 🀄 Add new False Friend Pair 545 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31514",
+    "comments": 1,
+    "createdAt": "2026-10-02T21:58:03Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-02T23:06:08.459Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31508",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31508,
+    "title": "[good first issue, hacktoberfest] 🎎 Add new Video Game Quote 109 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31508",
+    "comments": 1,
+    "createdAt": "2026-10-02T20:00:57Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-02T23:06:09.043Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31507",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31507,
+    "title": "[good first issue, hacktoberfest] 🌸 Add new Anime Quote 1171 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31507",
+    "comments": 1,
+    "createdAt": "2026-10-02T19:57:31Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-02T23:06:09.043Z"
+  },
+  {
+    "key": "React95/React95#561",
+    "tier": 1,
+    "repo": "React95/React95",
+    "number": 561,
+    "title": "Documentation stories",
+    "url": "https://github.com/React95/React95/issues/561",
+    "comments": 1,
+    "createdAt": "2026-10-02T19:34:38Z",
+    "labels": [
+      "good first issue",
+      "@react95/core"
+    ],
+    "language": "typescript",
+    "stars": 3830,
+    "foundAt": "2026-10-02T23:06:09.250Z"
+  },
+  {
+    "key": "React95/React95#560",
+    "tier": 1,
+    "repo": "React95/React95",
+    "number": 560,
+    "title": "TitleBar: icon-only link without text in the story",
+    "url": "https://github.com/React95/React95/issues/560",
+    "comments": 0,
+    "createdAt": "2026-10-02T19:34:35Z",
+    "labels": [
+      "good first issue",
+      "@react95/core"
+    ],
+    "language": "typescript",
+    "stars": 3830,
+    "foundAt": "2026-10-02T23:06:09.250Z"
+  },
+  {
+    "key": "React95/React95#559",
+    "tier": 1,
+    "repo": "React95/React95",
+    "number": 559,
+    "title": "Tabs: select without an accessible name in the story content",
+    "url": "https://github.com/React95/React95/issues/559",
+    "comments": 0,
+    "createdAt": "2026-10-02T19:34:32Z",
+    "labels": [
+      "good first issue",
+      "@react95/core"
+    ],
+    "language": "typescript",
+    "stars": 3830,
+    "foundAt": "2026-10-02T23:06:09.250Z"
+  },
+  {
+    "key": "React95/React95#558",
+    "tier": 1,
+    "repo": "React95/React95",
+    "number": 558,
+    "title": "Dropdown: select without an accessible name in the story",
+    "url": "https://github.com/React95/React95/issues/558",
+    "comments": 0,
+    "createdAt": "2026-10-02T19:34:29Z",
+    "labels": [
+      "good first issue",
+      "@react95/core"
+    ],
+    "language": "typescript",
+    "stars": 3830,
+    "foundAt": "2026-10-02T23:06:09.250Z"
+  },
+  {
+    "key": "React95/React95#557",
+    "tier": 1,
+    "repo": "React95/React95",
+    "number": 557,
+    "title": "Range: slider without a label in the story",
+    "url": "https://github.com/React95/React95/issues/557",
+    "comments": 0,
+    "createdAt": "2026-10-02T19:34:26Z",
+    "labels": [
+      "good first issue",
+      "@react95/core"
+    ],
+    "language": "typescript",
+    "stars": 3830,
+    "foundAt": "2026-10-02T23:06:09.250Z"
+  },
+  {
+    "key": "React95/React95#556",
+    "tier": 1,
+    "repo": "React95/React95",
+    "number": 556,
+    "title": "TextArea: field without a label in the story",
+    "url": "https://github.com/React95/React95/issues/556",
+    "comments": 0,
+    "createdAt": "2026-10-02T19:34:23Z",
+    "labels": [
+      "good first issue",
+      "@react95/core"
+    ],
+    "language": "typescript",
+    "stars": 3830,
+    "foundAt": "2026-10-02T23:06:09.250Z"
+  },
+  {
+    "key": "webdriverio/webdriverio#15883",
+    "tier": 2,
+    "repo": "webdriverio/webdriverio",
+    "number": 15883,
+    "title": "Deprecate react$ and react$$ in v10 and remove them in v11?",
+    "url": "https://github.com/webdriverio/webdriverio/issues/15883",
+    "comments": 1,
+    "createdAt": "2026-10-02T22:14:18Z",
+    "labels": [
+      "help wanted",
+      "Blocked",
+      "Idea 💡",
+      "v10"
+    ],
+    "language": "typescript",
+    "stars": 9844,
+    "foundAt": "2026-10-02T23:06:11.066Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31505",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31505,
+    "title": "[good first issue, hacktoberfest] 🏯 Add new Grammar Point 310 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31505",
+    "comments": 1,
+    "createdAt": "2026-10-02T19:01:00Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-02T23:06:11.242Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31504",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31504,
+    "title": "[good first issue, hacktoberfest] 🎏 Add new Trivia Question 207 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31504",
+    "comments": 1,
+    "createdAt": "2026-10-02T18:57:27Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-02T23:06:11.242Z"
+  },
+  {
+    "key": "amatya-aditya/obsidian-rss-dashboard#689",
+    "tier": 3,
+    "repo": "amatya-aditya/obsidian-rss-dashboard",
+    "number": 689,
+    "title": "Dashboard article star hit target is too narrow on touch layouts",
+    "url": "https://github.com/amatya-aditya/obsidian-rss-dashboard/issues/689",
+    "comments": 1,
+    "createdAt": "2026-10-02T22:58:52Z",
+    "labels": [
+      "bug",
+      "status: in-progress",
+      "area: dashboard",
+      "accessibility"
+    ],
+    "language": "typescript",
+    "stars": 670,
+    "foundAt": "2026-10-02T23:06:11.921Z"
+  },
+  {
+    "key": "amatya-aditya/obsidian-rss-dashboard#688",
+    "tier": 3,
+    "repo": "amatya-aditya/obsidian-rss-dashboard",
+    "number": 688,
+    "title": "Reader star toggle is not keyboard reachable or operable",
+    "url": "https://github.com/amatya-aditya/obsidian-rss-dashboard/issues/688",
+    "comments": 1,
+    "createdAt": "2026-10-02T22:58:24Z",
+    "labels": [
+      "bug",
+      "status: in-progress",
+      "area: reader",
+      "accessibility"
+    ],
+    "language": "typescript",
+    "stars": 670,
+    "foundAt": "2026-10-02T23:06:11.921Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#31499",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1630,350 +1950,5 @@
     "language": "typescript",
     "stars": 1675,
     "foundAt": "2026-10-01T13:35:38.690Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31409",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31409,
-    "title": "[good first issue] 🌋 Add new Japanese Idiom 717 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31409",
-    "comments": 1,
-    "createdAt": "2026-10-01T13:01:00Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3532,
-    "foundAt": "2026-10-01T13:35:38.903Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31408",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31408,
-    "title": "[good first issue] 🪭 Add new Video Game Quote 353 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31408",
-    "comments": 1,
-    "createdAt": "2026-10-01T12:57:30Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3532,
-    "foundAt": "2026-10-01T13:35:38.903Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31407",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31407,
-    "title": "[good first issue] 🍛 Add new Anime Quote 929 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31407",
-    "comments": 1,
-    "createdAt": "2026-10-01T12:01:04Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3532,
-    "foundAt": "2026-10-01T13:35:39.169Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31406",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31406,
-    "title": "[good first issue] 🎴 Add new Trivia Question 239 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31406",
-    "comments": 1,
-    "createdAt": "2026-10-01T11:57:34Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3532,
-    "foundAt": "2026-10-01T13:35:39.169Z"
-  },
-  {
-    "key": "Rohithgilla12/data-peek#280",
-    "tier": 2,
-    "repo": "Rohithgilla12/data-peek",
-    "number": 280,
-    "title": "Hacktoberfest 2026: start here",
-    "url": "https://github.com/Rohithgilla12/data-peek/issues/280",
-    "comments": 1,
-    "createdAt": "2026-10-01T13:03:22Z",
-    "labels": [
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 1675,
-    "foundAt": "2026-10-01T13:35:41.818Z"
-  },
-  {
-    "key": "webdriverio/webdriverio#15851",
-    "tier": 2,
-    "repo": "webdriverio/webdriverio",
-    "number": 15851,
-    "title": "[🐛 Bug]: On multi-remote, custom$, react$, shadow$ and their $$ variants give one result per instance, not a multi-remote element or list",
-    "url": "https://github.com/webdriverio/webdriverio/issues/15851",
-    "comments": 2,
-    "createdAt": "2026-10-01T12:51:22Z",
-    "labels": [
-      "Bug 🐛",
-      "help wanted",
-      "good first pick",
-      "multi remote",
-      "v10"
-    ],
-    "language": "typescript",
-    "stars": 9841,
-    "foundAt": "2026-10-01T13:35:41.818Z"
-  },
-  {
-    "key": "getsentry/sentry-docs#19757",
-    "tier": 3,
-    "repo": "getsentry/sentry-docs",
-    "number": 19757,
-    "title": "Vanta EU integration not available anymore",
-    "url": "https://github.com/getsentry/sentry-docs/issues/19757",
-    "comments": 1,
-    "createdAt": "2026-10-01T12:41:53Z",
-    "labels": [
-      "Product",
-      "Docs"
-    ],
-    "language": "mdx",
-    "stars": 447,
-    "foundAt": "2026-10-01T13:35:47.883Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31391",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31391,
-    "title": "[good first issue] 🎑 Add new Theme: Yuzu Mist (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31391",
-    "comments": 1,
-    "createdAt": "2026-10-01T06:00:57Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-10-01T06:12:16.092Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31390",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31390,
-    "title": "[good first issue] 🎏 Add new Learner Mistake 704 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31390",
-    "comments": 1,
-    "createdAt": "2026-10-01T05:57:29Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-10-01T06:12:16.092Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31381",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31381,
-    "title": "[good first issue] 🍤 Add new Japanese Idiom 774 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31381",
-    "comments": 1,
-    "createdAt": "2026-10-01T04:00:57Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-10-01T06:12:16.542Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31380",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31380,
-    "title": "[good first issue] 🏯 Add new Anime Quote 103 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31380",
-    "comments": 1,
-    "createdAt": "2026-10-01T03:57:46Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-10-01T06:12:16.542Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8322",
-    "tier": 1,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8322,
-    "title": "Fork, Commit, Merge - Medium Issue 3 (JavaScript)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8322",
-    "comments": 0,
-    "createdAt": "2026-10-01T03:20:20Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "medium",
-      "javascript",
-      "up-for-grabs"
-    ],
-    "language": "css",
-    "stars": 510,
-    "foundAt": "2026-10-01T06:12:20.696Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8320",
-    "tier": 1,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8320,
-    "title": "Fork, Commit, Merge - Easy Issue 3 (JavaScript)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8320",
-    "comments": 0,
-    "createdAt": "2026-10-01T03:20:17Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "javascript",
-      "up-for-grabs"
-    ],
-    "language": "css",
-    "stars": 510,
-    "foundAt": "2026-10-01T06:12:20.696Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8319",
-    "tier": 1,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8319,
-    "title": "Fork, Commit, Merge - Easy Issue 2 (JavaScript)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8319",
-    "comments": 0,
-    "createdAt": "2026-10-01T03:20:16Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "javascript",
-      "up-for-grabs"
-    ],
-    "language": "css",
-    "stars": 510,
-    "foundAt": "2026-10-01T06:12:20.696Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8318",
-    "tier": 1,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8318,
-    "title": "Fork, Commit, Merge - Easy Issue (MATLAB)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8318",
-    "comments": 2,
-    "createdAt": "2026-10-01T03:20:14Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "easy",
-      "matlab",
-      "up-for-grabs"
-    ],
-    "language": "css",
-    "stars": 510,
-    "foundAt": "2026-10-01T06:12:20.696Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8317",
-    "tier": 1,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8317,
-    "title": "Fork, Commit, Merge - Easy Issue (Smalltalk)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8317",
-    "comments": 0,
-    "createdAt": "2026-10-01T03:20:13Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "easy",
-      "smalltalk",
-      "up-for-grabs"
-    ],
-    "language": "css",
-    "stars": 510,
-    "foundAt": "2026-10-01T06:12:20.696Z"
   }
 ]

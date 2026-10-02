@@ -4,6 +4,22 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-10-02 | 🥇 | [[good first issue, hacktoberfest] 🎑 Add new Learner Mistake 948 (good-first-iss](https://github.com/lingdojo/kana-dojo/issues/31518) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-02 | 🥇 | [[good first issue, hacktoberfest] 🌸 Add new Example Sentence 797 (good-first-is](https://github.com/lingdojo/kana-dojo/issues/31517) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-02 | 🥇 | [[good first issue, hacktoberfest] 🀄 Add new False Friend Pair 545 (good-first-i](https://github.com/lingdojo/kana-dojo/issues/31514) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-02 | 🥇 | [[good first issue, hacktoberfest] 🎎 Add new Video Game Quote 109 (good-first-is](https://github.com/lingdojo/kana-dojo/issues/31508) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-02 | 🥇 | [[good first issue, hacktoberfest] 🌸 Add new Anime Quote 1171 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31507) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-02 | 🥇 | [Documentation stories](https://github.com/React95/React95/issues/561) | `React95/React95` | ⭐ 3.8k |
+| 2026-10-02 | 🥇 | [TitleBar: icon-only link without text in the story](https://github.com/React95/React95/issues/560) | `React95/React95` | ⭐ 3.8k |
+| 2026-10-02 | 🥇 | [Tabs: select without an accessible name in the story content](https://github.com/React95/React95/issues/559) | `React95/React95` | ⭐ 3.8k |
+| 2026-10-02 | 🥇 | [Dropdown: select without an accessible name in the story](https://github.com/React95/React95/issues/558) | `React95/React95` | ⭐ 3.8k |
+| 2026-10-02 | 🥇 | [Range: slider without a label in the story](https://github.com/React95/React95/issues/557) | `React95/React95` | ⭐ 3.8k |
+| 2026-10-02 | 🥇 | [TextArea: field without a label in the story](https://github.com/React95/React95/issues/556) | `React95/React95` | ⭐ 3.8k |
+| 2026-10-02 | 🥈 | [Deprecate react$ and react$$ in v10 and remove them in v11?](https://github.com/webdriverio/webdriverio/issues/15883) | `webdriverio/webdriverio` | ⭐ 9.8k |
+| 2026-10-02 | 🥈 | [[good first issue, hacktoberfest] 🏯 Add new Grammar Point 310 (good-first-issue](https://github.com/lingdojo/kana-dojo/issues/31505) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-02 | 🥈 | [[good first issue, hacktoberfest] 🎏 Add new Trivia Question 207 (good-first-iss](https://github.com/lingdojo/kana-dojo/issues/31504) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-02 | 🥉 | [Dashboard article star hit target is too narrow on touch layouts](https://github.com/amatya-aditya/obsidian-rss-dashboard/issues/689) | `amatya-aditya/obsidian-rss-dashboard` | ⭐ 670 |
+| 2026-10-02 | 🥉 | [Reader star toggle is not keyboard reachable or operable](https://github.com/amatya-aditya/obsidian-rss-dashboard/issues/688) | `amatya-aditya/obsidian-rss-dashboard` | ⭐ 670 |
 | 2026-10-02 | 🥇 | [[good first issue, hacktoberfest] 🍛 Add new Japan Fact 1101 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31499) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-10-02 | 🥇 | [[good first issue, hacktoberfest] 🀄 Add new Theme: Fuji Sunrise (good-first-iss](https://github.com/lingdojo/kana-dojo/issues/31497) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-10-02 | 🥈 | [[CI/CD] Fix invalid repository guard in copilot-pr-handler workflow and remove d](https://github.com/layer5io/layer5/issues/8173) | `layer5io/layer5` | ⭐ 1.1k |
@@ -88,19 +104,3 @@
 | 2026-10-01 | 🥇 | [Schema Intel for MySQL: add an unused_indexes check](https://github.com/Rohithgilla12/data-peek/issues/267) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
 | 2026-10-01 | 🥇 | [Schema Intel for SQL Server: add duplicate_indexes and unused_indexes checks](https://github.com/Rohithgilla12/data-peek/issues/266) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
 | 2026-10-01 | 🥇 | [Schema Intel for SQL Server: add nullable_fks and missing_fk_indexes checks](https://github.com/Rohithgilla12/data-peek/issues/265) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
-| 2026-10-01 | 🥇 | [[good first issue] 🌋 Add new Japanese Idiom 717 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31409) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-10-01 | 🥇 | [[good first issue] 🪭 Add new Video Game Quote 353 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31408) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-10-01 | 🥇 | [[good first issue] 🍛 Add new Anime Quote 929 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31407) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-10-01 | 🥇 | [[good first issue] 🎴 Add new Trivia Question 239 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31406) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-10-01 | 🥈 | [Hacktoberfest 2026: start here](https://github.com/Rohithgilla12/data-peek/issues/280) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
-| 2026-10-01 | 🥈 | [[🐛 Bug]: On multi-remote, custom$, react$, shadow$ and their $$ variants give o](https://github.com/webdriverio/webdriverio/issues/15851) | `webdriverio/webdriverio` | ⭐ 9.8k |
-| 2026-10-01 | 🥉 | [Vanta EU integration not available anymore](https://github.com/getsentry/sentry-docs/issues/19757) | `getsentry/sentry-docs` | ⭐ 447 |
-| 2026-10-01 | 🥇 | [[good first issue] 🎑 Add new Theme: Yuzu Mist (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31391) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-10-01 | 🥇 | [[good first issue] 🎏 Add new Learner Mistake 704 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31390) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-10-01 | 🥇 | [[good first issue] 🍤 Add new Japanese Idiom 774 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31381) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-10-01 | 🥇 | [[good first issue] 🏯 Add new Anime Quote 103 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31380) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-10-01 | 🥇 | [Fork, Commit, Merge - Medium Issue 3 (JavaScript)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8322) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
-| 2026-10-01 | 🥇 | [Fork, Commit, Merge - Easy Issue 3 (JavaScript)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8320) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
-| 2026-10-01 | 🥇 | [Fork, Commit, Merge - Easy Issue 2 (JavaScript)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8319) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
-| 2026-10-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (MATLAB)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8318) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
-| 2026-10-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Smalltalk)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8317) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
