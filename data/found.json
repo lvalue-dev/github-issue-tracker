@@ -1,5 +1,145 @@
 [
   {
+    "key": "open-mercato/cezar#1232",
+    "tier": 1,
+    "repo": "open-mercato/cezar",
+    "number": 1232,
+    "title": "fix(settings): PUT /workspace/config accepts resources.idleTimeoutMinutes but never applies it",
+    "url": "https://github.com/open-mercato/cezar/issues/1232",
+    "comments": 1,
+    "createdAt": "2026-10-02T05:43:02Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "priority-medium",
+      "risk-low"
+    ],
+    "language": "typescript",
+    "stars": 293,
+    "foundAt": "2026-10-02T05:55:18.712Z"
+  },
+  {
+    "key": "Rohithgilla12/data-peek#287",
+    "tier": 1,
+    "repo": "Rohithgilla12/data-peek",
+    "number": 287,
+    "title": "Menu items with no renderer listener: Format SQL (Shift+Alt+F) does nothing",
+    "url": "https://github.com/Rohithgilla12/data-peek/issues/287",
+    "comments": 1,
+    "createdAt": "2026-10-02T05:28:05Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "tech-debt",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 1675,
+    "foundAt": "2026-10-02T05:55:18.712Z"
+  },
+  {
+    "key": "Rohithgilla12/data-peek#286",
+    "tier": 1,
+    "repo": "Rohithgilla12/data-peek",
+    "number": 286,
+    "title": "Data generator: random-date is still non-reproducible under a seed when bounds are unset",
+    "url": "https://github.com/Rohithgilla12/data-peek/issues/286",
+    "comments": 2,
+    "createdAt": "2026-10-02T05:28:03Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 1675,
+    "foundAt": "2026-10-02T05:55:18.712Z"
+  },
+  {
+    "key": "medusajs/medusa#17094",
+    "tier": 1,
+    "repo": "medusajs/medusa",
+    "number": 17094,
+    "title": "[Bug]: Collection edit form silently swallows server errors (no toast, no message)",
+    "url": "https://github.com/medusajs/medusa/issues/17094",
+    "comments": 2,
+    "createdAt": "2026-10-02T03:57:56Z",
+    "labels": [
+      "good first issue",
+      "type: bug",
+      "status: needs triaging",
+      "version: 2.0"
+    ],
+    "language": "typescript",
+    "stars": 36547,
+    "foundAt": "2026-10-02T05:55:19.274Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31441",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31441,
+    "title": "[good first issue] 🎎 Add new False Friend Pair 1018 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31441",
+    "comments": 1,
+    "createdAt": "2026-10-02T00:57:28Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-02T05:55:21.409Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31440",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31440,
+    "title": "[good first issue] 🍵 Add new Japanese Idiom 994 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31440",
+    "comments": 1,
+    "createdAt": "2026-10-02T00:01:01Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-02T05:55:21.409Z"
+  },
+  {
+    "key": "webdriverio/webdriverio#15858",
+    "tier": 2,
+    "repo": "webdriverio/webdriverio",
+    "number": 15858,
+    "title": "[💡 Feature]: role/ selector for role + accessible name, backed by the BiDi accessibility locator",
+    "url": "https://github.com/webdriverio/webdriverio/issues/15858",
+    "comments": 2,
+    "createdAt": "2026-10-02T00:39:40Z",
+    "labels": [
+      "help wanted",
+      "Tracking 🗒",
+      "Idea 💡",
+      "v10"
+    ],
+    "language": "typescript",
+    "stars": 9841,
+    "foundAt": "2026-10-02T05:55:22.892Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#31439",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1887,152 +2027,5 @@
     "language": "css",
     "stars": 510,
     "foundAt": "2026-10-01T06:12:20.696Z"
-  },
-  {
-    "key": "fork-commit-merge/fork-commit-merge#8292",
-    "tier": 1,
-    "repo": "fork-commit-merge/fork-commit-merge",
-    "number": 8292,
-    "title": "Fork, Commit, Merge - Easy Issue (Groovy)",
-    "url": "https://github.com/fork-commit-merge/fork-commit-merge/issues/8292",
-    "comments": 0,
-    "createdAt": "2026-10-01T03:19:35Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "first-contributors",
-      "first-contributor",
-      "easy",
-      "groovy",
-      "up-for-grabs"
-    ],
-    "language": "css",
-    "stars": 510,
-    "foundAt": "2026-10-01T06:12:20.696Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31379",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31379,
-    "title": "[good first issue] 🥟 Add new Grammar Point 943 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31379",
-    "comments": 1,
-    "createdAt": "2026-10-01T03:01:30Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-10-01T06:12:16.542Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31378",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31378,
-    "title": "[good first issue] 🪭 Add new Trivia Question 914 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31378",
-    "comments": 1,
-    "createdAt": "2026-10-01T02:57:31Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-10-01T06:12:16.542Z"
-  },
-  {
-    "key": "stdlib-js/stdlib#15714",
-    "tier": 1,
-    "repo": "stdlib-js/stdlib",
-    "number": 15714,
-    "title": "Fix broken Markdown link: https://www.khronos.org/vulkan/",
-    "url": "https://github.com/stdlib-js/stdlib/issues/15714",
-    "comments": 2,
-    "createdAt": "2026-10-01T02:29:57Z",
-    "labels": [
-      "Good First Issue"
-    ],
-    "language": "javascript",
-    "stars": 5982,
-    "foundAt": "2026-10-01T06:12:20.021Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31377",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31377,
-    "title": "[good first issue] 🍁 Add new Japanese Proverb 186 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31377",
-    "comments": 1,
-    "createdAt": "2026-10-01T02:00:59Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-10-01T06:12:16.747Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31376",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31376,
-    "title": "[good first issue] 🗾 Add new Japan Fact 1754 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31376",
-    "comments": 1,
-    "createdAt": "2026-10-01T01:57:29Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3454,
-    "foundAt": "2026-10-01T06:12:16.747Z"
-  },
-  {
-    "key": "elmohq/elmo#834",
-    "tier": 1,
-    "repo": "elmohq/elmo",
-    "number": 834,
-    "title": "add custom lookback ranges",
-    "url": "https://github.com/elmohq/elmo/issues/834",
-    "comments": 0,
-    "createdAt": "2026-10-01T01:30:54Z",
-    "labels": [
-      "good first issue",
-      "area/core"
-    ],
-    "language": "typescript",
-    "stars": 404,
-    "foundAt": "2026-10-01T06:12:17.108Z"
   }
 ]

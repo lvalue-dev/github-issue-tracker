@@ -4,6 +4,13 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-10-02 | 🥇 | [fix(settings): PUT /workspace/config accepts resources.idleTimeoutMinutes but ne](https://github.com/open-mercato/cezar/issues/1232) | `open-mercato/cezar` | ⭐ 293 |
+| 2026-10-02 | 🥇 | [Menu items with no renderer listener: Format SQL (Shift+Alt+F) does nothing](https://github.com/Rohithgilla12/data-peek/issues/287) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
+| 2026-10-02 | 🥇 | [Data generator: random-date is still non-reproducible under a seed when bounds a](https://github.com/Rohithgilla12/data-peek/issues/286) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
+| 2026-10-02 | 🥇 | [[Bug]: Collection edit form silently swallows server errors (no toast, no messag](https://github.com/medusajs/medusa/issues/17094) | `medusajs/medusa` | ⭐ 36.5k |
+| 2026-10-02 | 🥇 | [[good first issue] 🎎 Add new False Friend Pair 1018 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31441) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-02 | 🥇 | [[good first issue] 🍵 Add new Japanese Idiom 994 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31440) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-02 | 🥈 | [[💡 Feature]: role/ selector for role + accessible name, backed by the BiDi acce](https://github.com/webdriverio/webdriverio/issues/15858) | `webdriverio/webdriverio` | ⭐ 9.8k |
 | 2026-10-01 | 🥇 | [[good first issue] 🀄 Add new Video Game Quote 1140 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31439) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-10-01 | 🥇 | [[good first issue] 🌋 Add new Grammar Point 1371 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31438) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-10-01 | 🥈 | [[good first issue] 🎎 Add new Japanese Proverb 852 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31437) | `lingdojo/kana-dojo` | ⭐ 3.5k |
@@ -97,10 +104,3 @@
 | 2026-10-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (TLA+)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8295) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
 | 2026-10-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Astro)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8294) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
 | 2026-10-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Nim)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8293) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
-| 2026-10-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Groovy)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8292) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
-| 2026-10-01 | 🥇 | [[good first issue] 🥟 Add new Grammar Point 943 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31379) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-10-01 | 🥇 | [[good first issue] 🪭 Add new Trivia Question 914 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31378) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-10-01 | 🥇 | [Fix broken Markdown link: https://www.khronos.org/vulkan/](https://github.com/stdlib-js/stdlib/issues/15714) | `stdlib-js/stdlib` | ⭐ 6.0k |
-| 2026-10-01 | 🥇 | [[good first issue] 🍁 Add new Japanese Proverb 186 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31377) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-10-01 | 🥇 | [[good first issue] 🗾 Add new Japan Fact 1754 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31376) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-10-01 | 🥇 | [add custom lookback ranges](https://github.com/elmohq/elmo/issues/834) | `elmohq/elmo` | ⭐ 404 |
