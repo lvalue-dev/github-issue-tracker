@@ -4,6 +4,14 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-10-02 | 🥇 | [[good first issue, hacktoberfest] 🍛 Add new Japan Fact 1101 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31499) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-02 | 🥇 | [[good first issue, hacktoberfest] 🀄 Add new Theme: Fuji Sunrise (good-first-iss](https://github.com/lingdojo/kana-dojo/issues/31497) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-02 | 🥈 | [[CI/CD] Fix invalid repository guard in copilot-pr-handler workflow and remove d](https://github.com/layer5io/layer5/issues/8173) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-10-02 | 🥈 | [[good first issue, hacktoberfest] 🍙 Add new Learner Mistake 914 (good-first-iss](https://github.com/lingdojo/kana-dojo/issues/31496) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-02 | 🥈 | [[good first issue, hacktoberfest] 🗻 Add new Etiquette Tip 649 (good-first-issue](https://github.com/lingdojo/kana-dojo/issues/31494) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-02 | 🥈 | [docs/providers: twelve in-page links in mssql.md and redis.md go nowhere on GitH](https://github.com/libredb/libredb-studio/issues/1233) | `libredb/libredb-studio` | ⭐ 890 |
+| 2026-10-02 | 🥈 | [[good first issue, hacktoberfest] 🎎 Add new False Friend Pair 476 (good-first-i](https://github.com/lingdojo/kana-dojo/issues/31493) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-02 | 🥈 | [[good first issue, hacktoberfest] 🥟 Add new Dialect Entry 686 (good-first-issue](https://github.com/lingdojo/kana-dojo/issues/31492) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-10-02 | 🥇 | [OP secondary code is not displayed when TOD is opened](https://github.com/OpenRailAssociation/osrd/issues/18941) | `OpenRailAssociation/osrd` | ⭐ 663 |
 | 2026-10-02 | 🥇 | [fix(gitignore): vim and emacs litter beside CLAUDE.md is still committable](https://github.com/OWASP/cve-lite-cli/issues/1267) | `OWASP/cve-lite-cli` | ⭐ 750 |
 | 2026-10-02 | 🥇 | [fix(gitignore): .claude/ is not ignored, only a machine-local exclude keeps it o](https://github.com/OWASP/cve-lite-cli/issues/1266) | `OWASP/cve-lite-cli` | ⭐ 750 |
@@ -96,11 +104,3 @@
 | 2026-10-01 | 🥇 | [Fork, Commit, Merge - Easy Issue 2 (JavaScript)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8319) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
 | 2026-10-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (MATLAB)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8318) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
 | 2026-10-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Smalltalk)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8317) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
-| 2026-10-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Crystal)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8316) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
-| 2026-10-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (Vyper)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8315) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
-| 2026-10-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (D)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8314) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
-| 2026-10-01 | 🥇 | [Fork, Commit, Merge - Hard Issue (CSS)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8313) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
-| 2026-10-01 | 🥇 | [Fork, Commit, Merge - Hard Issue (HTML)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8312) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
-| 2026-10-01 | 🥇 | [Fork, Commit, Merge - Hard Issue (C++)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8311) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
-| 2026-10-01 | 🥇 | [Fork, Commit, Merge - Easy Issue (SQL)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8310) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
-| 2026-10-01 | 🥇 | [Fork, Commit, Merge - Medium Issue (Haskell)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8309) | `fork-commit-merge/fork-commit-merge` | ⭐ 510 |
