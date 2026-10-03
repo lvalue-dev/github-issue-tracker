@@ -1,5 +1,264 @@
 [
   {
+    "key": "lingdojo/kana-dojo#31543",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31543,
+    "title": "[good first issue, hacktoberfest] 🪭 Add new Example Sentence 746 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31543",
+    "comments": 1,
+    "createdAt": "2026-10-03T08:01:00Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-03T08:20:55.379Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31542",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31542,
+    "title": "[good first issue, hacktoberfest] 🎌 Add new False Friend Pair 969 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31542",
+    "comments": 1,
+    "createdAt": "2026-10-03T07:57:30Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-03T08:20:55.379Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31539",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31539,
+    "title": "[good first issue, hacktoberfest] 🦊 Add new Japanese Idiom 334 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31539",
+    "comments": 1,
+    "createdAt": "2026-10-03T06:57:33Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-03T08:20:55.625Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31536",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31536,
+    "title": "[good first issue, hacktoberfest] 🎋 Add new Grammar Point 872 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31536",
+    "comments": 1,
+    "createdAt": "2026-10-03T06:00:57Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-03T08:20:56.087Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31535",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31535,
+    "title": "[good first issue, hacktoberfest] 🧧 Add new Trivia Question 1158 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31535",
+    "comments": 1,
+    "createdAt": "2026-10-03T05:57:28Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-03T08:20:56.087Z"
+  },
+  {
+    "key": "Rohithgilla12/data-peek#292",
+    "tier": 1,
+    "repo": "Rohithgilla12/data-peek",
+    "number": 292,
+    "title": "Data generator: faker date methods still read the clock under a seed",
+    "url": "https://github.com/Rohithgilla12/data-peek/issues/292",
+    "comments": 1,
+    "createdAt": "2026-10-03T05:47:14Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 1675,
+    "foundAt": "2026-10-03T08:20:56.087Z"
+  },
+  {
+    "key": "reticlehq/reticle#1323",
+    "tier": 2,
+    "repo": "reticlehq/reticle",
+    "number": 1323,
+    "title": "Leased tab refs can resolve in look but fail every action as non-elements",
+    "url": "https://github.com/reticlehq/reticle/issues/1323",
+    "comments": 0,
+    "createdAt": "2026-10-03T07:48:18Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "agent-reported",
+      "P1",
+      "hacktoberfest",
+      "v3.6.0"
+    ],
+    "language": "typescript",
+    "stars": 900,
+    "foundAt": "2026-10-03T08:20:58.914Z"
+  },
+  {
+    "key": "reticlehq/reticle#1322",
+    "tier": 2,
+    "repo": "reticlehq/reticle",
+    "number": 1322,
+    "title": "Scoped text predicates must evaluate full DOM text, not display-truncated text",
+    "url": "https://github.com/reticlehq/reticle/issues/1322",
+    "comments": 0,
+    "createdAt": "2026-10-03T07:48:16Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "agent-reported",
+      "P1",
+      "hacktoberfest",
+      "v3.6.0"
+    ],
+    "language": "typescript",
+    "stars": 900,
+    "foundAt": "2026-10-03T08:20:58.914Z"
+  },
+  {
+    "key": "reticlehq/reticle#1320",
+    "tier": 2,
+    "repo": "reticlehq/reticle",
+    "number": 1320,
+    "title": "A same-URL navigate must not confirm before document replacement",
+    "url": "https://github.com/reticlehq/reticle/issues/1320",
+    "comments": 0,
+    "createdAt": "2026-10-03T07:48:11Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "agent-reported",
+      "P1",
+      "hacktoberfest",
+      "v3.6.0"
+    ],
+    "language": "typescript",
+    "stars": 900,
+    "foundAt": "2026-10-03T08:20:58.914Z"
+  },
+  {
+    "key": "reticlehq/reticle#1319",
+    "tier": 2,
+    "repo": "reticlehq/reticle",
+    "number": 1319,
+    "title": "Replay stale refs must retain completed step verdicts and re-resolve semantic anchors",
+    "url": "https://github.com/reticlehq/reticle/issues/1319",
+    "comments": 0,
+    "createdAt": "2026-10-03T07:48:08Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "agent-reported",
+      "P1",
+      "hacktoberfest",
+      "v3.6.0"
+    ],
+    "language": "typescript",
+    "stars": 900,
+    "foundAt": "2026-10-03T08:20:58.914Z"
+  },
+  {
+    "key": "reticlehq/reticle#1318",
+    "tier": 2,
+    "repo": "reticlehq/reticle",
+    "number": 1318,
+    "title": "Replay should choose a visible actionable option over a hidden native duplicate",
+    "url": "https://github.com/reticlehq/reticle/issues/1318",
+    "comments": 0,
+    "createdAt": "2026-10-03T07:48:06Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "agent-reported",
+      "P1",
+      "hacktoberfest",
+      "v3.6.0"
+    ],
+    "language": "typescript",
+    "stars": 900,
+    "foundAt": "2026-10-03T08:20:58.914Z"
+  },
+  {
+    "key": "reticlehq/reticle#1317",
+    "tier": 2,
+    "repo": "reticlehq/reticle",
+    "number": 1317,
+    "title": "Replay must preserve the recorded wait budget for each step",
+    "url": "https://github.com/reticlehq/reticle/issues/1317",
+    "comments": 0,
+    "createdAt": "2026-10-03T07:48:05Z",
+    "labels": [
+      "bug",
+      "help wanted",
+      "agent-reported",
+      "P1",
+      "hacktoberfest",
+      "v3.6.0"
+    ],
+    "language": "typescript",
+    "stars": 900,
+    "foundAt": "2026-10-03T08:20:58.914Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#31526",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1762,219 +2021,5 @@
     "language": "javascript",
     "stars": 588,
     "foundAt": "2026-10-01T19:39:13.512Z"
-  },
-  {
-    "key": "JayPokale/Chisle#24",
-    "tier": 2,
-    "repo": "JayPokale/Chisle",
-    "number": 24,
-    "title": "Installer: register the Copilot CLI compression hook",
-    "url": "https://github.com/JayPokale/Chisle/issues/24",
-    "comments": 0,
-    "createdAt": "2026-10-01T18:32:19Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "hacktoberfest"
-    ],
-    "language": "javascript",
-    "stars": 588,
-    "foundAt": "2026-10-01T19:39:13.512Z"
-  },
-  {
-    "key": "JayPokale/Chisle#23",
-    "tier": 2,
-    "repo": "JayPokale/Chisle",
-    "number": 23,
-    "title": "Pi: can a failed tool result be rewritten?",
-    "url": "https://github.com/JayPokale/Chisle/issues/23",
-    "comments": 0,
-    "createdAt": "2026-10-01T18:32:17Z",
-    "labels": [
-      "help wanted",
-      "question",
-      "hacktoberfest"
-    ],
-    "language": "javascript",
-    "stars": 588,
-    "foundAt": "2026-10-01T19:39:13.512Z"
-  },
-  {
-    "key": "JayPokale/Chisle#22",
-    "tier": 2,
-    "repo": "JayPokale/Chisle",
-    "number": 22,
-    "title": "Agentic suite: add a fixture with a large file",
-    "url": "https://github.com/JayPokale/Chisle/issues/22",
-    "comments": 0,
-    "createdAt": "2026-10-01T18:32:15Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "hacktoberfest"
-    ],
-    "language": "javascript",
-    "stars": 588,
-    "foundAt": "2026-10-01T19:39:13.512Z"
-  },
-  {
-    "key": "ch-bas/cctv-camera-database#399",
-    "tier": 2,
-    "repo": "ch-bas/cctv-camera-database",
-    "number": 399,
-    "title": "🕰️ last_verified staleness (automated monthly check)",
-    "url": "https://github.com/ch-bas/cctv-camera-database/issues/399",
-    "comments": 0,
-    "createdAt": "2026-10-01T15:03:48Z",
-    "labels": [
-      "help wanted"
-    ],
-    "language": "javascript",
-    "stars": 275,
-    "foundAt": "2026-10-01T19:39:13.696Z"
-  },
-  {
-    "key": "goatplatform/goatdb#65",
-    "tier": 1,
-    "repo": "goatplatform/goatdb",
-    "number": 65,
-    "title": "feat: Per-repository sync and persistence modes",
-    "url": "https://github.com/goatplatform/goatdb/issues/65",
-    "comments": 0,
-    "createdAt": "2026-10-01T13:28:50Z",
-    "labels": [
-      "enhancement",
-      "good first issue"
-    ],
-    "language": "typescript",
-    "stars": 579,
-    "foundAt": "2026-10-01T13:35:38.217Z"
-  },
-  {
-    "key": "Rohithgilla12/data-peek#279",
-    "tier": 1,
-    "repo": "Rohithgilla12/data-peek",
-    "number": 279,
-    "title": "Batch insert can exceed SQL Server's 2,100-parameter limit and Postgres's 65,535",
-    "url": "https://github.com/Rohithgilla12/data-peek/issues/279",
-    "comments": 1,
-    "createdAt": "2026-10-01T13:03:00Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 1675,
-    "foundAt": "2026-10-01T13:35:38.689Z"
-  },
-  {
-    "key": "Rohithgilla12/data-peek#278",
-    "tier": 1,
-    "repo": "Rohithgilla12/data-peek",
-    "number": 278,
-    "title": "Data generator: seeded runs are not reproducible, plus an unused duplicate heuristics module",
-    "url": "https://github.com/Rohithgilla12/data-peek/issues/278",
-    "comments": 1,
-    "createdAt": "2026-10-01T13:02:58Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "refactor",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 1675,
-    "foundAt": "2026-10-01T13:35:38.689Z"
-  },
-  {
-    "key": "Rohithgilla12/data-peek#277",
-    "tier": 1,
-    "repo": "Rohithgilla12/data-peek",
-    "number": 277,
-    "title": "Docs: document the Default Schema (search_path) connection setting",
-    "url": "https://github.com/Rohithgilla12/data-peek/issues/277",
-    "comments": 1,
-    "createdAt": "2026-10-01T13:02:56Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 1675,
-    "foundAt": "2026-10-01T13:35:38.689Z"
-  },
-  {
-    "key": "Rohithgilla12/data-peek#276",
-    "tier": 1,
-    "repo": "Rohithgilla12/data-peek",
-    "number": 276,
-    "title": "Docs: add a Schema Intel feature page and README entry",
-    "url": "https://github.com/Rohithgilla12/data-peek/issues/276",
-    "comments": 1,
-    "createdAt": "2026-10-01T13:02:54Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 1675,
-    "foundAt": "2026-10-01T13:35:38.689Z"
-  },
-  {
-    "key": "Rohithgilla12/data-peek#275",
-    "tier": 1,
-    "repo": "Rohithgilla12/data-peek",
-    "number": 275,
-    "title": "Docs: merge the two keyboard shortcut pages and document missing shortcuts",
-    "url": "https://github.com/Rohithgilla12/data-peek/issues/275",
-    "comments": 1,
-    "createdAt": "2026-10-01T13:02:52Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 1675,
-    "foundAt": "2026-10-01T13:35:38.689Z"
-  },
-  {
-    "key": "Rohithgilla12/data-peek#274",
-    "tier": 1,
-    "repo": "Rohithgilla12/data-peek",
-    "number": 274,
-    "title": "Docs drift: Excel export claim, Health Monitor database support, SQL Server custom types",
-    "url": "https://github.com/Rohithgilla12/data-peek/issues/274",
-    "comments": 1,
-    "createdAt": "2026-10-01T13:02:50Z",
-    "labels": [
-      "documentation",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 1675,
-    "foundAt": "2026-10-01T13:35:38.689Z"
-  },
-  {
-    "key": "Rohithgilla12/data-peek#273",
-    "tier": 1,
-    "repo": "Rohithgilla12/data-peek",
-    "number": 273,
-    "title": "Export: add a Markdown table format",
-    "url": "https://github.com/Rohithgilla12/data-peek/issues/273",
-    "comments": 1,
-    "createdAt": "2026-10-01T13:02:48Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 1675,
-    "foundAt": "2026-10-01T13:35:38.689Z"
   }
 ]

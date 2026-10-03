@@ -4,6 +4,18 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-10-03 | 🥇 | [[good first issue, hacktoberfest] 🪭 Add new Example Sentence 746 (good-first-is](https://github.com/lingdojo/kana-dojo/issues/31543) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-03 | 🥇 | [[good first issue, hacktoberfest] 🎌 Add new False Friend Pair 969 (good-first-i](https://github.com/lingdojo/kana-dojo/issues/31542) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-03 | 🥇 | [[good first issue, hacktoberfest] 🦊 Add new Japanese Idiom 334 (good-first-issu](https://github.com/lingdojo/kana-dojo/issues/31539) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-03 | 🥇 | [[good first issue, hacktoberfest] 🎋 Add new Grammar Point 872 (good-first-issue](https://github.com/lingdojo/kana-dojo/issues/31536) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-03 | 🥇 | [[good first issue, hacktoberfest] 🧧 Add new Trivia Question 1158 (good-first-is](https://github.com/lingdojo/kana-dojo/issues/31535) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-03 | 🥇 | [Data generator: faker date methods still read the clock under a seed](https://github.com/Rohithgilla12/data-peek/issues/292) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
+| 2026-10-03 | 🥈 | [Leased tab refs can resolve in look but fail every action as non-elements](https://github.com/reticlehq/reticle/issues/1323) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-10-03 | 🥈 | [Scoped text predicates must evaluate full DOM text, not display-truncated text](https://github.com/reticlehq/reticle/issues/1322) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-10-03 | 🥈 | [A same-URL navigate must not confirm before document replacement](https://github.com/reticlehq/reticle/issues/1320) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-10-03 | 🥈 | [Replay stale refs must retain completed step verdicts and re-resolve semantic an](https://github.com/reticlehq/reticle/issues/1319) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-10-03 | 🥈 | [Replay should choose a visible actionable option over a hidden native duplicate](https://github.com/reticlehq/reticle/issues/1318) | `reticlehq/reticle` | ⭐ 900 |
+| 2026-10-03 | 🥈 | [Replay must preserve the recorded wait budget for each step](https://github.com/reticlehq/reticle/issues/1317) | `reticlehq/reticle` | ⭐ 900 |
 | 2026-10-03 | 🥇 | [[good first issue, hacktoberfest] 🀄 Add new Anime Quote 1112 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31526) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-10-03 | 🥇 | [[good first issue, hacktoberfest] 🍢 Add new Grammar Point 115 (good-first-issue](https://github.com/lingdojo/kana-dojo/issues/31525) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-10-03 | 🥇 | [[good first issue, hacktoberfest] 🍥 Add new Trivia Question 1107 (good-first-is](https://github.com/lingdojo/kana-dojo/issues/31524) | `lingdojo/kana-dojo` | ⭐ 3.5k |
@@ -92,15 +104,3 @@
 | 2026-10-01 | 🥈 | [OpenCode: does the compressor reach failed tool calls?](https://github.com/JayPokale/Chisle/issues/29) | `JayPokale/Chisle` | ⭐ 588 |
 | 2026-10-01 | 🥈 | [Make the Sonnet suite reproducible](https://github.com/JayPokale/Chisle/issues/28) | `JayPokale/Chisle` | ⭐ 588 |
 | 2026-10-01 | 🥈 | [Site: show October transcripts in the Compare section](https://github.com/JayPokale/Chisle/issues/27) | `JayPokale/Chisle` | ⭐ 588 |
-| 2026-10-01 | 🥈 | [Installer: register the Copilot CLI compression hook](https://github.com/JayPokale/Chisle/issues/24) | `JayPokale/Chisle` | ⭐ 588 |
-| 2026-10-01 | 🥈 | [Pi: can a failed tool result be rewritten?](https://github.com/JayPokale/Chisle/issues/23) | `JayPokale/Chisle` | ⭐ 588 |
-| 2026-10-01 | 🥈 | [Agentic suite: add a fixture with a large file](https://github.com/JayPokale/Chisle/issues/22) | `JayPokale/Chisle` | ⭐ 588 |
-| 2026-10-01 | 🥈 | [🕰️ last_verified staleness (automated monthly check)](https://github.com/ch-bas/cctv-camera-database/issues/399) | `ch-bas/cctv-camera-database` | ⭐ 275 |
-| 2026-10-01 | 🥇 | [feat: Per-repository sync and persistence modes](https://github.com/goatplatform/goatdb/issues/65) | `goatplatform/goatdb` | ⭐ 579 |
-| 2026-10-01 | 🥇 | [Batch insert can exceed SQL Server's 2,100-parameter limit and Postgres's 65,535](https://github.com/Rohithgilla12/data-peek/issues/279) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
-| 2026-10-01 | 🥇 | [Data generator: seeded runs are not reproducible, plus an unused duplicate heuri](https://github.com/Rohithgilla12/data-peek/issues/278) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
-| 2026-10-01 | 🥇 | [Docs: document the Default Schema (search_path) connection setting](https://github.com/Rohithgilla12/data-peek/issues/277) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
-| 2026-10-01 | 🥇 | [Docs: add a Schema Intel feature page and README entry](https://github.com/Rohithgilla12/data-peek/issues/276) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
-| 2026-10-01 | 🥇 | [Docs: merge the two keyboard shortcut pages and document missing shortcuts](https://github.com/Rohithgilla12/data-peek/issues/275) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
-| 2026-10-01 | 🥇 | [Docs drift: Excel export claim, Health Monitor database support, SQL Server cust](https://github.com/Rohithgilla12/data-peek/issues/274) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
-| 2026-10-01 | 🥇 | [Export: add a Markdown table format](https://github.com/Rohithgilla12/data-peek/issues/273) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
