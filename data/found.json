@@ -1,5 +1,228 @@
 [
   {
+    "key": "lingdojo/kana-dojo#31559",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31559,
+    "title": "[good first issue, hacktoberfest] 🍣 Add new Etiquette Tip 446 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31559",
+    "comments": 1,
+    "createdAt": "2026-10-03T12:57:28Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-03T13:33:57.598Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31558",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31558,
+    "title": "[good first issue, hacktoberfest] 🍙 Add new False Friend Pair 369 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31558",
+    "comments": 1,
+    "createdAt": "2026-10-03T12:00:59Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-03T13:33:57.598Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31557",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31557,
+    "title": "[good first issue, hacktoberfest] 🌸 Add new Dialect Entry 310 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31557",
+    "comments": 1,
+    "createdAt": "2026-10-03T11:57:32Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-03T13:33:57.598Z"
+  },
+  {
+    "key": "pingdotgg/t3code#15159",
+    "tier": 1,
+    "repo": "pingdotgg/t3code",
+    "number": 15159,
+    "title": "[Bug]: Subagent parent link lacks pointer cursor and visible hover feedback on Windows",
+    "url": "https://github.com/pingdotgg/t3code/issues/15159",
+    "comments": 1,
+    "createdAt": "2026-10-03T11:42:50Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "via-triage"
+    ],
+    "language": "typescript",
+    "stars": 24454,
+    "foundAt": "2026-10-03T13:33:57.802Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31553",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31553,
+    "title": "[good first issue, hacktoberfest] 🦑 Add new Trivia Question 1177 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31553",
+    "comments": 1,
+    "createdAt": "2026-10-03T10:57:34Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-03T13:33:58.397Z"
+  },
+  {
+    "key": "shadcn-labs/editorcn#49",
+    "tier": 1,
+    "repo": "shadcn-labs/editorcn",
+    "number": 49,
+    "title": "Improve the landing page",
+    "url": "https://github.com/shadcn-labs/editorcn/issues/49",
+    "comments": 0,
+    "createdAt": "2026-10-03T10:29:09Z",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 329,
+    "foundAt": "2026-10-03T13:33:58.727Z"
+  },
+  {
+    "key": "lfnovo/open-notebook#1430",
+    "tier": 1,
+    "repo": "lfnovo/open-notebook",
+    "number": 1430,
+    "title": "Podcasts router: route catch-all 500s through typed exceptions",
+    "url": "https://github.com/lfnovo/open-notebook/issues/1430",
+    "comments": 0,
+    "createdAt": "2026-10-03T10:26:43Z",
+    "labels": [
+      "good first issue",
+      "ready",
+      "area: podcast"
+    ],
+    "language": "typescript",
+    "stars": 39756,
+    "foundAt": "2026-10-03T13:33:58.904Z"
+  },
+  {
+    "key": "libredb/libredb-studio#1240",
+    "tier": 1,
+    "repo": "libredb/libredb-studio",
+    "number": 1240,
+    "title": "Oracle: SchemaDiff MODIFY restates the nullability, so a type change on a nullable column is refused with ORA-01451",
+    "url": "https://github.com/libredb/libredb-studio/issues/1240",
+    "comments": 1,
+    "createdAt": "2026-10-03T10:13:57Z",
+    "labels": [
+      "bug",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "language": "typescript",
+    "stars": 890,
+    "foundAt": "2026-10-03T13:33:59.064Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31550",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31550,
+    "title": "[good first issue, hacktoberfest] 🎏 Add new Japanese Proverb 1504 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31550",
+    "comments": 1,
+    "createdAt": "2026-10-03T10:00:58Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-03T13:33:59.065Z"
+  },
+  {
+    "key": "meshery/meshery.io#3044",
+    "tier": 2,
+    "repo": "meshery/meshery.io",
+    "number": 3044,
+    "title": "## Bug: SMI Conformance page remains stuck in loading state when results API fails",
+    "url": "https://github.com/meshery/meshery.io/issues/3044",
+    "comments": 1,
+    "createdAt": "2026-10-03T12:39:34Z",
+    "labels": [
+      "kind/bug",
+      "help wanted"
+    ],
+    "language": "javascript",
+    "stars": 869,
+    "foundAt": "2026-10-03T13:34:00.118Z"
+  },
+  {
+    "key": "webdriverio/webdriverio#15890",
+    "tier": 2,
+    "repo": "webdriverio/webdriverio",
+    "number": 15890,
+    "title": "[v10] Docs: the v10 migration guide misses 5 changes of `$()` / `$$()` types and element lists",
+    "url": "https://github.com/webdriverio/webdriverio/issues/15890",
+    "comments": 2,
+    "createdAt": "2026-10-03T11:40:02Z",
+    "labels": [
+      "Docs 📖",
+      "help wanted",
+      "good first pick",
+      "v10"
+    ],
+    "language": "typescript",
+    "stars": 9844,
+    "foundAt": "2026-10-03T13:33:59.936Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#31543",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1807,219 +2030,5 @@
     "language": "javascript",
     "stars": 632,
     "foundAt": "2026-10-01T19:39:12.101Z"
-  },
-  {
-    "key": "nextcloud/documentation#15686",
-    "tier": 1,
-    "repo": "nextcloud/documentation",
-    "number": 15686,
-    "title": "Developer manual: recommend a SECURITY.md in publishing.rst",
-    "url": "https://github.com/nextcloud/documentation/issues/15686",
-    "comments": 0,
-    "createdAt": "2026-10-01T15:59:07Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "0. needs triage",
-      "manual: developer",
-      "security"
-    ],
-    "language": "javascript",
-    "stars": 632,
-    "foundAt": "2026-10-01T19:39:12.101Z"
-  },
-  {
-    "key": "nextcloud/documentation#15685",
-    "tier": 1,
-    "repo": "nextcloud/documentation",
-    "number": 15685,
-    "title": "Developer manual: what to clean up on uninstall in repair.rst",
-    "url": "https://github.com/nextcloud/documentation/issues/15685",
-    "comments": 0,
-    "createdAt": "2026-10-01T15:59:05Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "0. needs triage",
-      "manual: developer"
-    ],
-    "language": "javascript",
-    "stars": 632,
-    "foundAt": "2026-10-01T19:39:12.101Z"
-  },
-  {
-    "key": "nextcloud/documentation#15684",
-    "tier": 1,
-    "repo": "nextcloud/documentation",
-    "number": 15684,
-    "title": "Developer manual: copyable setup for PHP-CS-Fixer and ESLint",
-    "url": "https://github.com/nextcloud/documentation/issues/15684",
-    "comments": 0,
-    "createdAt": "2026-10-01T15:59:02Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "0. needs triage",
-      "manual: developer",
-      "developer experience"
-    ],
-    "language": "javascript",
-    "stars": 632,
-    "foundAt": "2026-10-01T19:39:12.101Z"
-  },
-  {
-    "key": "nextcloud/documentation#15683",
-    "tier": 1,
-    "repo": "nextcloud/documentation",
-    "number": 15683,
-    "title": "Developer manual: validate and rate-limit outgoing mail in email.rst",
-    "url": "https://github.com/nextcloud/documentation/issues/15683",
-    "comments": 0,
-    "createdAt": "2026-10-01T15:58:59Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "0. needs triage",
-      "manual: developer",
-      "security",
-      "feature: emails"
-    ],
-    "language": "javascript",
-    "stars": 632,
-    "foundAt": "2026-10-01T19:39:12.101Z"
-  },
-  {
-    "key": "nextcloud/documentation#15682",
-    "tier": 1,
-    "repo": "nextcloud/documentation",
-    "number": 15682,
-    "title": "Developer manual: allowlist user-supplied columns and sort orders in database.rst",
-    "url": "https://github.com/nextcloud/documentation/issues/15682",
-    "comments": 0,
-    "createdAt": "2026-10-01T15:58:57Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "0. needs triage",
-      "manual: developer",
-      "security"
-    ],
-    "language": "javascript",
-    "stars": 632,
-    "foundAt": "2026-10-01T19:39:12.101Z"
-  },
-  {
-    "key": "nextcloud/documentation#15681",
-    "tier": 1,
-    "repo": "nextcloud/documentation",
-    "number": 15681,
-    "title": "Developer manual: add crypto APIs, unserialize and CSV injection to security.rst",
-    "url": "https://github.com/nextcloud/documentation/issues/15681",
-    "comments": 0,
-    "createdAt": "2026-10-01T15:58:55Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "0. needs triage",
-      "manual: developer",
-      "security"
-    ],
-    "language": "javascript",
-    "stars": 632,
-    "foundAt": "2026-10-01T19:39:12.101Z"
-  },
-  {
-    "key": "nextcloud/documentation#15680",
-    "tier": 1,
-    "repo": "nextcloud/documentation",
-    "number": 15680,
-    "title": "Developer manual: document registerSensitiveMethods() in logging.rst",
-    "url": "https://github.com/nextcloud/documentation/issues/15680",
-    "comments": 0,
-    "createdAt": "2026-10-01T15:58:53Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "0. needs triage",
-      "manual: developer",
-      "security",
-      "feature: logging"
-    ],
-    "language": "javascript",
-    "stars": 632,
-    "foundAt": "2026-10-01T19:39:12.101Z"
-  },
-  {
-    "key": "nextcloud/documentation#15679",
-    "tier": 1,
-    "repo": "nextcloud/documentation",
-    "number": 15679,
-    "title": "Developer manual: fix the attribute and CSP examples in controllers.rst",
-    "url": "https://github.com/nextcloud/documentation/issues/15679",
-    "comments": 0,
-    "createdAt": "2026-10-01T15:58:51Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "0. needs triage",
-      "manual: developer"
-    ],
-    "language": "javascript",
-    "stars": 632,
-    "foundAt": "2026-10-01T19:39:12.101Z"
-  },
-  {
-    "key": "JayPokale/Chisle#29",
-    "tier": 2,
-    "repo": "JayPokale/Chisle",
-    "number": 29,
-    "title": "OpenCode: does the compressor reach failed tool calls?",
-    "url": "https://github.com/JayPokale/Chisle/issues/29",
-    "comments": 0,
-    "createdAt": "2026-10-01T18:49:05Z",
-    "labels": [
-      "help wanted",
-      "question",
-      "hacktoberfest"
-    ],
-    "language": "javascript",
-    "stars": 588,
-    "foundAt": "2026-10-01T19:39:13.512Z"
-  },
-  {
-    "key": "JayPokale/Chisle#28",
-    "tier": 2,
-    "repo": "JayPokale/Chisle",
-    "number": 28,
-    "title": "Make the Sonnet suite reproducible",
-    "url": "https://github.com/JayPokale/Chisle/issues/28",
-    "comments": 0,
-    "createdAt": "2026-10-01T18:49:03Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "hacktoberfest"
-    ],
-    "language": "javascript",
-    "stars": 588,
-    "foundAt": "2026-10-01T19:39:13.512Z"
-  },
-  {
-    "key": "JayPokale/Chisle#27",
-    "tier": 2,
-    "repo": "JayPokale/Chisle",
-    "number": 27,
-    "title": "Site: show October transcripts in the Compare section",
-    "url": "https://github.com/JayPokale/Chisle/issues/27",
-    "comments": 0,
-    "createdAt": "2026-10-01T18:49:01Z",
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "hacktoberfest"
-    ],
-    "language": "javascript",
-    "stars": 588,
-    "foundAt": "2026-10-01T19:39:13.512Z"
   }
 ]

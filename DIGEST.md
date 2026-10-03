@@ -4,6 +4,17 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-10-03 | 🥇 | [[good first issue, hacktoberfest] 🍣 Add new Etiquette Tip 446 (good-first-issue](https://github.com/lingdojo/kana-dojo/issues/31559) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-03 | 🥇 | [[good first issue, hacktoberfest] 🍙 Add new False Friend Pair 369 (good-first-i](https://github.com/lingdojo/kana-dojo/issues/31558) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-03 | 🥇 | [[good first issue, hacktoberfest] 🌸 Add new Dialect Entry 310 (good-first-issue](https://github.com/lingdojo/kana-dojo/issues/31557) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-03 | 🥇 | [[Bug]: Subagent parent link lacks pointer cursor and visible hover feedback on W](https://github.com/pingdotgg/t3code/issues/15159) | `pingdotgg/t3code` | ⭐ 24.5k |
+| 2026-10-03 | 🥇 | [[good first issue, hacktoberfest] 🦑 Add new Trivia Question 1177 (good-first-is](https://github.com/lingdojo/kana-dojo/issues/31553) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-03 | 🥇 | [Improve the landing page](https://github.com/shadcn-labs/editorcn/issues/49) | `shadcn-labs/editorcn` | ⭐ 329 |
+| 2026-10-03 | 🥇 | [Podcasts router: route catch-all 500s through typed exceptions](https://github.com/lfnovo/open-notebook/issues/1430) | `lfnovo/open-notebook` | ⭐ 39.8k |
+| 2026-10-03 | 🥇 | [Oracle: SchemaDiff MODIFY restates the nullability, so a type change on a nullab](https://github.com/libredb/libredb-studio/issues/1240) | `libredb/libredb-studio` | ⭐ 890 |
+| 2026-10-03 | 🥇 | [[good first issue, hacktoberfest] 🎏 Add new Japanese Proverb 1504 (good-first-i](https://github.com/lingdojo/kana-dojo/issues/31550) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-03 | 🥈 | [## Bug: SMI Conformance page remains stuck in loading state when results API fai](https://github.com/meshery/meshery.io/issues/3044) | `meshery/meshery.io` | ⭐ 869 |
+| 2026-10-03 | 🥈 | [[v10] Docs: the v10 migration guide misses 5 changes of `$()` / `$$()` types and](https://github.com/webdriverio/webdriverio/issues/15890) | `webdriverio/webdriverio` | ⭐ 9.8k |
 | 2026-10-03 | 🥇 | [[good first issue, hacktoberfest] 🪭 Add new Example Sentence 746 (good-first-is](https://github.com/lingdojo/kana-dojo/issues/31543) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-10-03 | 🥇 | [[good first issue, hacktoberfest] 🎌 Add new False Friend Pair 969 (good-first-i](https://github.com/lingdojo/kana-dojo/issues/31542) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-10-03 | 🥇 | [[good first issue, hacktoberfest] 🦊 Add new Japanese Idiom 334 (good-first-issu](https://github.com/lingdojo/kana-dojo/issues/31539) | `lingdojo/kana-dojo` | ⭐ 3.5k |
@@ -93,14 +104,3 @@
 | 2026-10-01 | 🥇 | [Record Apple Terminal compatibility evidence](https://github.com/Observal/Axl/issues/464) | `Observal/Axl` | ⭐ 1.2k |
 | 2026-10-01 | 🥇 | [[good first issue] 🍱 Add new Anime Quote 556 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31424) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-10-01 | 🥇 | [Developer manual: mention the org's appstore-build-publish workflow](https://github.com/nextcloud/documentation/issues/15687) | `nextcloud/documentation` | ⭐ 632 |
-| 2026-10-01 | 🥇 | [Developer manual: recommend a SECURITY.md in publishing.rst](https://github.com/nextcloud/documentation/issues/15686) | `nextcloud/documentation` | ⭐ 632 |
-| 2026-10-01 | 🥇 | [Developer manual: what to clean up on uninstall in repair.rst](https://github.com/nextcloud/documentation/issues/15685) | `nextcloud/documentation` | ⭐ 632 |
-| 2026-10-01 | 🥇 | [Developer manual: copyable setup for PHP-CS-Fixer and ESLint](https://github.com/nextcloud/documentation/issues/15684) | `nextcloud/documentation` | ⭐ 632 |
-| 2026-10-01 | 🥇 | [Developer manual: validate and rate-limit outgoing mail in email.rst](https://github.com/nextcloud/documentation/issues/15683) | `nextcloud/documentation` | ⭐ 632 |
-| 2026-10-01 | 🥇 | [Developer manual: allowlist user-supplied columns and sort orders in database.rs](https://github.com/nextcloud/documentation/issues/15682) | `nextcloud/documentation` | ⭐ 632 |
-| 2026-10-01 | 🥇 | [Developer manual: add crypto APIs, unserialize and CSV injection to security.rst](https://github.com/nextcloud/documentation/issues/15681) | `nextcloud/documentation` | ⭐ 632 |
-| 2026-10-01 | 🥇 | [Developer manual: document registerSensitiveMethods() in logging.rst](https://github.com/nextcloud/documentation/issues/15680) | `nextcloud/documentation` | ⭐ 632 |
-| 2026-10-01 | 🥇 | [Developer manual: fix the attribute and CSP examples in controllers.rst](https://github.com/nextcloud/documentation/issues/15679) | `nextcloud/documentation` | ⭐ 632 |
-| 2026-10-01 | 🥈 | [OpenCode: does the compressor reach failed tool calls?](https://github.com/JayPokale/Chisle/issues/29) | `JayPokale/Chisle` | ⭐ 588 |
-| 2026-10-01 | 🥈 | [Make the Sonnet suite reproducible](https://github.com/JayPokale/Chisle/issues/28) | `JayPokale/Chisle` | ⭐ 588 |
-| 2026-10-01 | 🥈 | [Site: show October transcripts in the Compare section](https://github.com/JayPokale/Chisle/issues/27) | `JayPokale/Chisle` | ⭐ 588 |
