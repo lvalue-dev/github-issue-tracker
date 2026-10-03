@@ -4,6 +4,15 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-10-03 | 🥇 | [[good first issue, hacktoberfest] 🎌 Add new Anime Quote 1169 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31591) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-03 | 🥇 | [Vault: trim whitespace from VAULT_K8S_TOKEN_PATH and VAULT_K8S_AUTH_PATH](https://github.com/libredb/libredb-studio/issues/1291) | `libredb/libredb-studio` | ⭐ 890 |
+| 2026-10-03 | 🥇 | [CONTRIBUTING.md: say that a new *_PATH, *_DIR or *_FILE variable must be classif](https://github.com/libredb/libredb-studio/issues/1290) | `libredb/libredb-studio` | ⭐ 890 |
+| 2026-10-03 | 🥇 | [[good first issue, hacktoberfest] 🍡 Add new Grammar Point 763 (good-first-issue](https://github.com/lingdojo/kana-dojo/issues/31590) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-03 | 🥇 | [[good first issue, hacktoberfest] 🎏 Add new Trivia Question 281 (good-first-iss](https://github.com/lingdojo/kana-dojo/issues/31588) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-03 | 🥇 | [[good first issue, hacktoberfest] 🎴 Add new Japanese Proverb 886 (good-first-is](https://github.com/lingdojo/kana-dojo/issues/31586) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-03 | 🥈 | [Run react-doctor and fix issues](https://github.com/npmgraph/npmgraph/issues/475) | `npmgraph/npmgraph` | ⭐ 792 |
+| 2026-10-03 | 🥈 | [📦[模型适配] 欢迎贡献新型号适配/[Model Adaptation] Contributions Welcome for New Models](https://github.com/Playa-Cyrene/Cyrene-Agent/issues/152) | `Playa-Cyrene/Cyrene-Agent` | ⭐ 651 |
+| 2026-10-03 | 🥉 | [continuity.md says every chapter reference is a number](https://github.com/danjdewhurst/story-skills/issues/350) | `danjdewhurst/story-skills` | ⭐ 247 |
 | 2026-10-03 | 🥇 | [[good first issue, hacktoberfest] 🎎 Add new Wallpaper URL #36 (good-first-issue](https://github.com/lingdojo/kana-dojo/issues/31582) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-10-03 | 🥇 | [💡](https://github.com/code-charity/youtube/issues/4370) | `code-charity/youtube` | ⭐ 4.6k |
 | 2026-10-03 | 🥈 | [[good first issue, hacktoberfest] 🦑 Add new False Friend Pair 261 (good-first-i](https://github.com/lingdojo/kana-dojo/issues/31580) | `lingdojo/kana-dojo` | ⭐ 3.5k |
@@ -95,12 +104,3 @@
 | 2026-10-01 | 🥈 | [Improve agent use of Undo System](https://github.com/jasonjgardner/blockbench-mcp-plugin/issues/76) | `jasonjgardner/blockbench-mcp-plugin` | ⭐ 471 |
 | 2026-10-01 | 🥉 | [a2a-guide documents the pre-1.0 agent card path; suggest deprecating /.well-know](https://github.com/adcontextprotocol/adcp/issues/7875) | `adcontextprotocol/adcp` | ⭐ 253 |
 | 2026-10-01 | 🥉 | [app_creation REFERENCE.md: the `system:create_routine` examples omit the require](https://github.com/rome-os/rome/issues/613) | `rome-os/rome` | ⭐ 669 |
-| 2026-10-01 | 🥇 | [[good first issue] 🍛 Add new Dialect Entry 983 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31429) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-10-01 | 🥇 | [[good first issue] 🍜 Add new Japanese Idiom 1161 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31428) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-10-01 | 🥇 | [Agentic score: report turns per run](https://github.com/JayPokale/Chisle/issues/26) | `JayPokale/Chisle` | ⭐ 588 |
-| 2026-10-01 | 🥇 | [run-live.sh: a failed call is cached and never retried](https://github.com/JayPokale/Chisle/issues/25) | `JayPokale/Chisle` | ⭐ 588 |
-| 2026-10-01 | 🥇 | [Replay: break savings down per tool](https://github.com/JayPokale/Chisle/issues/21) | `JayPokale/Chisle` | ⭐ 588 |
-| 2026-10-01 | 🥇 | [Chart the 2026-10-01 re-run in the README](https://github.com/JayPokale/Chisle/issues/20) | `JayPokale/Chisle` | ⭐ 588 |
-| 2026-10-01 | 🥇 | [Run existing quality checks on documentation-only PRs](https://github.com/Observal/Axl/issues/471) | `Observal/Axl` | ⭐ 1.2k |
-| 2026-10-01 | 🥇 | [Accept `axl run -p` as a spelling of the existing print path](https://github.com/Observal/Axl/issues/470) | `Observal/Axl` | ⭐ 1.2k |
-| 2026-10-01 | 🥇 | [Show the active session's other-client count in the TUI](https://github.com/Observal/Axl/issues/469) | `Observal/Axl` | ⭐ 1.2k |
