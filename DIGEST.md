@@ -4,6 +4,13 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-10-03 | 🥇 | [[good first issue, hacktoberfest] 🎎 Add new Wallpaper URL #36 (good-first-issue](https://github.com/lingdojo/kana-dojo/issues/31582) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-03 | 🥇 | [💡](https://github.com/code-charity/youtube/issues/4370) | `code-charity/youtube` | ⭐ 4.6k |
+| 2026-10-03 | 🥈 | [[good first issue, hacktoberfest] 🦑 Add new False Friend Pair 261 (good-first-i](https://github.com/lingdojo/kana-dojo/issues/31580) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-03 | 🥈 | [[🐛 Bug]: Browser install retry removes the wrong folder (backport #15893 to v9)](https://github.com/webdriverio/webdriverio/issues/15894) | `webdriverio/webdriverio` | ⭐ 9.8k |
+| 2026-10-03 | 🥈 | [chore: replace the em dashes in shipped source and output strings](https://github.com/OWASP/cve-lite-cli/issues/1283) | `OWASP/cve-lite-cli` | ⭐ 750 |
+| 2026-10-03 | 🥉 | [Migration guide from version 2x to 3x](https://github.com/Shopify/react-native-skia/issues/4119) | `Shopify/react-native-skia` | ⭐ 8.6k |
+| 2026-10-03 | 🥉 | [Make article card content accessible by keyboard](https://github.com/amatya-aditya/obsidian-rss-dashboard/issues/720) | `amatya-aditya/obsidian-rss-dashboard` | ⭐ 670 |
 | 2026-10-03 | 🥇 | [[good first issue, hacktoberfest] 🍣 Add new Etiquette Tip 446 (good-first-issue](https://github.com/lingdojo/kana-dojo/issues/31559) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-10-03 | 🥇 | [[good first issue, hacktoberfest] 🍙 Add new False Friend Pair 369 (good-first-i](https://github.com/lingdojo/kana-dojo/issues/31558) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-10-03 | 🥇 | [[good first issue, hacktoberfest] 🌸 Add new Dialect Entry 310 (good-first-issue](https://github.com/lingdojo/kana-dojo/issues/31557) | `lingdojo/kana-dojo` | ⭐ 3.5k |
@@ -97,10 +104,3 @@
 | 2026-10-01 | 🥇 | [Run existing quality checks on documentation-only PRs](https://github.com/Observal/Axl/issues/471) | `Observal/Axl` | ⭐ 1.2k |
 | 2026-10-01 | 🥇 | [Accept `axl run -p` as a spelling of the existing print path](https://github.com/Observal/Axl/issues/470) | `Observal/Axl` | ⭐ 1.2k |
 | 2026-10-01 | 🥇 | [Show the active session's other-client count in the TUI](https://github.com/Observal/Axl/issues/469) | `Observal/Axl` | ⭐ 1.2k |
-| 2026-10-01 | 🥇 | [Expose the active web control-center section to assistive technology](https://github.com/Observal/Axl/issues/468) | `Observal/Axl` | ⭐ 1.2k |
-| 2026-10-01 | 🥇 | [Give the web control-center switches accessible names and states](https://github.com/Observal/Axl/issues/467) | `Observal/Axl` | ⭐ 1.2k |
-| 2026-10-01 | 🥇 | [Record VS Code integrated-terminal compatibility evidence](https://github.com/Observal/Axl/issues/466) | `Observal/Axl` | ⭐ 1.2k |
-| 2026-10-01 | 🥇 | [Record Kitty graphics and cleanup evidence](https://github.com/Observal/Axl/issues/465) | `Observal/Axl` | ⭐ 1.2k |
-| 2026-10-01 | 🥇 | [Record Apple Terminal compatibility evidence](https://github.com/Observal/Axl/issues/464) | `Observal/Axl` | ⭐ 1.2k |
-| 2026-10-01 | 🥇 | [[good first issue] 🍱 Add new Anime Quote 556 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31424) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-10-01 | 🥇 | [Developer manual: mention the org's appstore-build-publish workflow](https://github.com/nextcloud/documentation/issues/15687) | `nextcloud/documentation` | ⭐ 632 |

@@ -1,5 +1,142 @@
 [
   {
+    "key": "lingdojo/kana-dojo#31582",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31582,
+    "title": "[good first issue, hacktoberfest] 🎎 Add new Wallpaper URL #36 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31582",
+    "comments": 1,
+    "createdAt": "2026-10-03T18:00:55Z",
+    "labels": [
+      "documentation",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-03T18:02:36.906Z"
+  },
+  {
+    "key": "code-charity/youtube#4370",
+    "tier": 1,
+    "repo": "code-charity/youtube",
+    "number": 4370,
+    "title": "💡",
+    "url": "https://github.com/code-charity/youtube/issues/4370",
+    "comments": 1,
+    "createdAt": "2026-10-03T16:08:46Z",
+    "labels": [
+      "Feature request",
+      "help wanted",
+      "good first issue",
+      "up-for-grabs"
+    ],
+    "language": "javascript",
+    "stars": 4612,
+    "foundAt": "2026-10-03T18:02:38.629Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31580",
+    "tier": 2,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31580,
+    "title": "[good first issue, hacktoberfest] 🦑 Add new False Friend Pair 261 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31580",
+    "comments": 1,
+    "createdAt": "2026-10-03T17:57:28Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-03T18:02:39.639Z"
+  },
+  {
+    "key": "webdriverio/webdriverio#15894",
+    "tier": 2,
+    "repo": "webdriverio/webdriverio",
+    "number": 15894,
+    "title": "[🐛 Bug]: Browser install retry removes the wrong folder (backport #15893 to v9)",
+    "url": "https://github.com/webdriverio/webdriverio/issues/15894",
+    "comments": 2,
+    "createdAt": "2026-10-03T17:00:30Z",
+    "labels": [
+      "Bug 🐛",
+      "help wanted",
+      "good first pick"
+    ],
+    "language": "typescript",
+    "stars": 9844,
+    "foundAt": "2026-10-03T18:02:40.221Z"
+  },
+  {
+    "key": "OWASP/cve-lite-cli#1283",
+    "tier": 2,
+    "repo": "OWASP/cve-lite-cli",
+    "number": 1283,
+    "title": "chore: replace the em dashes in shipped source and output strings",
+    "url": "https://github.com/OWASP/cve-lite-cli/issues/1283",
+    "comments": 1,
+    "createdAt": "2026-10-03T16:57:09Z",
+    "labels": [
+      "documentation",
+      "help wanted",
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 750,
+    "foundAt": "2026-10-03T18:02:40.411Z"
+  },
+  {
+    "key": "Shopify/react-native-skia#4119",
+    "tier": 3,
+    "repo": "Shopify/react-native-skia",
+    "number": 4119,
+    "title": "Migration guide from version 2x to 3x",
+    "url": "https://github.com/Shopify/react-native-skia/issues/4119",
+    "comments": 0,
+    "createdAt": "2026-10-03T18:00:10Z",
+    "labels": [
+      "documentation"
+    ],
+    "language": "typescript",
+    "stars": 8636,
+    "foundAt": "2026-10-03T18:02:41.278Z"
+  },
+  {
+    "key": "amatya-aditya/obsidian-rss-dashboard#720",
+    "tier": 3,
+    "repo": "amatya-aditya/obsidian-rss-dashboard",
+    "number": 720,
+    "title": "Make article card content accessible by keyboard",
+    "url": "https://github.com/amatya-aditya/obsidian-rss-dashboard/issues/720",
+    "comments": 0,
+    "createdAt": "2026-10-03T17:58:29Z",
+    "labels": [
+      "bug",
+      "status: needs-triage",
+      "area: dashboard",
+      "accessibility"
+    ],
+    "language": "typescript",
+    "stars": 670,
+    "foundAt": "2026-10-03T18:02:41.278Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#31559",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1892,143 +2029,5 @@
     "language": "typescript",
     "stars": 1154,
     "foundAt": "2026-10-01T19:39:09.911Z"
-  },
-  {
-    "key": "Observal/Axl#468",
-    "tier": 1,
-    "repo": "Observal/Axl",
-    "number": 468,
-    "title": "Expose the active web control-center section to assistive technology",
-    "url": "https://github.com/Observal/Axl/issues/468",
-    "comments": 1,
-    "createdAt": "2026-10-01T18:30:50Z",
-    "labels": [
-      "good first issue",
-      "help wanted",
-      "tests",
-      "client:web-app"
-    ],
-    "language": "typescript",
-    "stars": 1154,
-    "foundAt": "2026-10-01T19:39:09.911Z"
-  },
-  {
-    "key": "Observal/Axl#467",
-    "tier": 1,
-    "repo": "Observal/Axl",
-    "number": 467,
-    "title": "Give the web control-center switches accessible names and states",
-    "url": "https://github.com/Observal/Axl/issues/467",
-    "comments": 1,
-    "createdAt": "2026-10-01T18:30:22Z",
-    "labels": [
-      "good first issue",
-      "help wanted",
-      "tests",
-      "client:web-app"
-    ],
-    "language": "typescript",
-    "stars": 1154,
-    "foundAt": "2026-10-01T19:39:09.911Z"
-  },
-  {
-    "key": "Observal/Axl#466",
-    "tier": 1,
-    "repo": "Observal/Axl",
-    "number": 466,
-    "title": "Record VS Code integrated-terminal compatibility evidence",
-    "url": "https://github.com/Observal/Axl/issues/466",
-    "comments": 1,
-    "createdAt": "2026-10-01T18:29:44Z",
-    "labels": [
-      "good first issue",
-      "help wanted",
-      "tests",
-      "client:tui"
-    ],
-    "language": "typescript",
-    "stars": 1154,
-    "foundAt": "2026-10-01T19:39:09.911Z"
-  },
-  {
-    "key": "Observal/Axl#465",
-    "tier": 1,
-    "repo": "Observal/Axl",
-    "number": 465,
-    "title": "Record Kitty graphics and cleanup evidence",
-    "url": "https://github.com/Observal/Axl/issues/465",
-    "comments": 1,
-    "createdAt": "2026-10-01T18:29:23Z",
-    "labels": [
-      "good first issue",
-      "help wanted",
-      "tests",
-      "client:tui"
-    ],
-    "language": "typescript",
-    "stars": 1154,
-    "foundAt": "2026-10-01T19:39:09.911Z"
-  },
-  {
-    "key": "Observal/Axl#464",
-    "tier": 1,
-    "repo": "Observal/Axl",
-    "number": 464,
-    "title": "Record Apple Terminal compatibility evidence",
-    "url": "https://github.com/Observal/Axl/issues/464",
-    "comments": 1,
-    "createdAt": "2026-10-01T18:29:04Z",
-    "labels": [
-      "good first issue",
-      "help wanted",
-      "tests",
-      "client:tui"
-    ],
-    "language": "typescript",
-    "stars": 1154,
-    "foundAt": "2026-10-01T19:39:09.911Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31424",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31424,
-    "title": "[good first issue] 🍱 Add new Anime Quote 556 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31424",
-    "comments": 1,
-    "createdAt": "2026-10-01T17:57:31Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3532,
-    "foundAt": "2026-10-01T19:39:10.355Z"
-  },
-  {
-    "key": "nextcloud/documentation#15687",
-    "tier": 1,
-    "repo": "nextcloud/documentation",
-    "number": 15687,
-    "title": "Developer manual: mention the org's appstore-build-publish workflow",
-    "url": "https://github.com/nextcloud/documentation/issues/15687",
-    "comments": 0,
-    "createdAt": "2026-10-01T15:59:09Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "0. needs triage",
-      "manual: developer",
-      "developer experience"
-    ],
-    "language": "javascript",
-    "stars": 632,
-    "foundAt": "2026-10-01T19:39:12.101Z"
   }
 ]
