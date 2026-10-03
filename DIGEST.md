@@ -4,6 +4,14 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-10-03 | 🥇 | [[good first issue, hacktoberfest] 🀄 Add new Anime Quote 1112 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31526) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-03 | 🥇 | [[good first issue, hacktoberfest] 🍢 Add new Grammar Point 115 (good-first-issue](https://github.com/lingdojo/kana-dojo/issues/31525) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-03 | 🥇 | [[good first issue, hacktoberfest] 🍥 Add new Trivia Question 1107 (good-first-is](https://github.com/lingdojo/kana-dojo/issues/31524) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-03 | 🥇 | [[good first issue, hacktoberfest] 🍙 Add new Japanese Proverb 1142 (good-first-i](https://github.com/lingdojo/kana-dojo/issues/31523) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-03 | 🥇 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15831) | `stdlib-js/stdlib` | ⭐ 6.0k |
+| 2026-10-03 | 🥇 | [[good first issue, hacktoberfest] 🏯 Add new Japan Fact 2885 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31520) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-03 | 🥇 | [[good first issue, hacktoberfest] 🍵 Add new Theme: Coastal Breeze (good-first-i](https://github.com/lingdojo/kana-dojo/issues/31519) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-03 | 🥈 | [Strict mode overflows the stack on self-referential type arguments](https://github.com/plantain-00/type-coverage/issues/154) | `plantain-00/type-coverage` | ⭐ 1.4k |
 | 2026-10-02 | 🥇 | [[good first issue, hacktoberfest] 🎑 Add new Learner Mistake 948 (good-first-iss](https://github.com/lingdojo/kana-dojo/issues/31518) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-10-02 | 🥇 | [[good first issue, hacktoberfest] 🌸 Add new Example Sentence 797 (good-first-is](https://github.com/lingdojo/kana-dojo/issues/31517) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-10-02 | 🥇 | [[good first issue, hacktoberfest] 🀄 Add new False Friend Pair 545 (good-first-i](https://github.com/lingdojo/kana-dojo/issues/31514) | `lingdojo/kana-dojo` | ⭐ 3.5k |
@@ -96,11 +104,3 @@
 | 2026-10-01 | 🥇 | [Docs: merge the two keyboard shortcut pages and document missing shortcuts](https://github.com/Rohithgilla12/data-peek/issues/275) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
 | 2026-10-01 | 🥇 | [Docs drift: Excel export claim, Health Monitor database support, SQL Server cust](https://github.com/Rohithgilla12/data-peek/issues/274) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
 | 2026-10-01 | 🥇 | [Export: add a Markdown table format](https://github.com/Rohithgilla12/data-peek/issues/273) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
-| 2026-10-01 | 🥇 | [Application menu: five items do nothing, and Clear Results collides with the com](https://github.com/Rohithgilla12/data-peek/issues/272) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
-| 2026-10-01 | 🥇 | [SQL Server: list sequences (sys.sequences) instead of returning an empty array](https://github.com/Rohithgilla12/data-peek/issues/271) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
-| 2026-10-01 | 🥇 | [Health Monitor: show a clear not-supported state on SQLite instead of raw errors](https://github.com/Rohithgilla12/data-peek/issues/270) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
-| 2026-10-01 | 🥇 | [Health Monitor: implement getTableSizes for SQLite using dbstat](https://github.com/Rohithgilla12/data-peek/issues/269) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
-| 2026-10-01 | 🥇 | [Schema Intel for SQLite: implement the structural checks with PRAGMAs](https://github.com/Rohithgilla12/data-peek/issues/268) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
-| 2026-10-01 | 🥇 | [Schema Intel for MySQL: add an unused_indexes check](https://github.com/Rohithgilla12/data-peek/issues/267) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
-| 2026-10-01 | 🥇 | [Schema Intel for SQL Server: add duplicate_indexes and unused_indexes checks](https://github.com/Rohithgilla12/data-peek/issues/266) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
-| 2026-10-01 | 🥇 | [Schema Intel for SQL Server: add nullable_fks and missing_fk_indexes checks](https://github.com/Rohithgilla12/data-peek/issues/265) | `Rohithgilla12/data-peek` | ⭐ 1.7k |

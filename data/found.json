@@ -1,5 +1,176 @@
 [
   {
+    "key": "lingdojo/kana-dojo#31526",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31526,
+    "title": "[good first issue, hacktoberfest] 🀄 Add new Anime Quote 1112 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31526",
+    "comments": 1,
+    "createdAt": "2026-10-03T02:00:56Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-03T02:07:50.814Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31525",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31525,
+    "title": "[good first issue, hacktoberfest] 🍢 Add new Grammar Point 115 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31525",
+    "comments": 1,
+    "createdAt": "2026-10-03T01:57:36Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-03T02:07:50.814Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31524",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31524,
+    "title": "[good first issue, hacktoberfest] 🍥 Add new Trivia Question 1107 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31524",
+    "comments": 1,
+    "createdAt": "2026-10-03T01:00:57Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-03T02:07:51.059Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31523",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31523,
+    "title": "[good first issue, hacktoberfest] 🍙 Add new Japanese Proverb 1142 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31523",
+    "comments": 1,
+    "createdAt": "2026-10-03T00:57:29Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-03T02:07:51.251Z"
+  },
+  {
+    "key": "stdlib-js/stdlib#15831",
+    "tier": 1,
+    "repo": "stdlib-js/stdlib",
+    "number": 15831,
+    "title": "Fix JavaScript lint errors",
+    "url": "https://github.com/stdlib-js/stdlib/issues/15831",
+    "comments": 2,
+    "createdAt": "2026-10-03T00:11:13Z",
+    "labels": [
+      "Good First Issue"
+    ],
+    "language": "javascript",
+    "stars": 5982,
+    "foundAt": "2026-10-03T02:07:51.966Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31520",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31520,
+    "title": "[good first issue, hacktoberfest] 🏯 Add new Japan Fact 2885 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31520",
+    "comments": 1,
+    "createdAt": "2026-10-03T00:01:07Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-03T02:07:51.609Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31519",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31519,
+    "title": "[good first issue, hacktoberfest] 🍵 Add new Theme: Coastal Breeze (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31519",
+    "comments": 1,
+    "createdAt": "2026-10-02T23:57:34Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-03T02:07:51.609Z"
+  },
+  {
+    "key": "plantain-00/type-coverage#154",
+    "tier": 2,
+    "repo": "plantain-00/type-coverage",
+    "number": 154,
+    "title": "Strict mode overflows the stack on self-referential type arguments",
+    "url": "https://github.com/plantain-00/type-coverage/issues/154",
+    "comments": 0,
+    "createdAt": "2026-10-03T00:29:07Z",
+    "labels": [
+      "bug",
+      "help wanted"
+    ],
+    "language": "typescript",
+    "stars": 1352,
+    "foundAt": "2026-10-03T02:07:52.711Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#31518",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1805,150 +1976,5 @@
     "language": "typescript",
     "stars": 1675,
     "foundAt": "2026-10-01T13:35:38.689Z"
-  },
-  {
-    "key": "Rohithgilla12/data-peek#272",
-    "tier": 1,
-    "repo": "Rohithgilla12/data-peek",
-    "number": 272,
-    "title": "Application menu: five items do nothing, and Clear Results collides with the command palette shortcut",
-    "url": "https://github.com/Rohithgilla12/data-peek/issues/272",
-    "comments": 1,
-    "createdAt": "2026-10-01T13:02:45Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 1675,
-    "foundAt": "2026-10-01T13:35:38.689Z"
-  },
-  {
-    "key": "Rohithgilla12/data-peek#271",
-    "tier": 1,
-    "repo": "Rohithgilla12/data-peek",
-    "number": 271,
-    "title": "SQL Server: list sequences (sys.sequences) instead of returning an empty array",
-    "url": "https://github.com/Rohithgilla12/data-peek/issues/271",
-    "comments": 1,
-    "createdAt": "2026-10-01T13:02:43Z",
-    "labels": [
-      "bug",
-      "enhancement",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 1675,
-    "foundAt": "2026-10-01T13:35:38.689Z"
-  },
-  {
-    "key": "Rohithgilla12/data-peek#270",
-    "tier": 1,
-    "repo": "Rohithgilla12/data-peek",
-    "number": 270,
-    "title": "Health Monitor: show a clear not-supported state on SQLite instead of raw errors",
-    "url": "https://github.com/Rohithgilla12/data-peek/issues/270",
-    "comments": 1,
-    "createdAt": "2026-10-01T13:02:41Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 1675,
-    "foundAt": "2026-10-01T13:35:38.689Z"
-  },
-  {
-    "key": "Rohithgilla12/data-peek#269",
-    "tier": 1,
-    "repo": "Rohithgilla12/data-peek",
-    "number": 269,
-    "title": "Health Monitor: implement getTableSizes for SQLite using dbstat",
-    "url": "https://github.com/Rohithgilla12/data-peek/issues/269",
-    "comments": 1,
-    "createdAt": "2026-10-01T13:02:39Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 1675,
-    "foundAt": "2026-10-01T13:35:38.689Z"
-  },
-  {
-    "key": "Rohithgilla12/data-peek#268",
-    "tier": 1,
-    "repo": "Rohithgilla12/data-peek",
-    "number": 268,
-    "title": "Schema Intel for SQLite: implement the structural checks with PRAGMAs",
-    "url": "https://github.com/Rohithgilla12/data-peek/issues/268",
-    "comments": 1,
-    "createdAt": "2026-10-01T13:02:37Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 1675,
-    "foundAt": "2026-10-01T13:35:38.689Z"
-  },
-  {
-    "key": "Rohithgilla12/data-peek#267",
-    "tier": 1,
-    "repo": "Rohithgilla12/data-peek",
-    "number": 267,
-    "title": "Schema Intel for MySQL: add an unused_indexes check",
-    "url": "https://github.com/Rohithgilla12/data-peek/issues/267",
-    "comments": 1,
-    "createdAt": "2026-10-01T13:02:35Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 1675,
-    "foundAt": "2026-10-01T13:35:38.689Z"
-  },
-  {
-    "key": "Rohithgilla12/data-peek#266",
-    "tier": 1,
-    "repo": "Rohithgilla12/data-peek",
-    "number": 266,
-    "title": "Schema Intel for SQL Server: add duplicate_indexes and unused_indexes checks",
-    "url": "https://github.com/Rohithgilla12/data-peek/issues/266",
-    "comments": 1,
-    "createdAt": "2026-10-01T13:02:33Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 1675,
-    "foundAt": "2026-10-01T13:35:38.689Z"
-  },
-  {
-    "key": "Rohithgilla12/data-peek#265",
-    "tier": 1,
-    "repo": "Rohithgilla12/data-peek",
-    "number": 265,
-    "title": "Schema Intel for SQL Server: add nullable_fks and missing_fk_indexes checks",
-    "url": "https://github.com/Rohithgilla12/data-peek/issues/265",
-    "comments": 1,
-    "createdAt": "2026-10-01T13:02:31Z",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 1675,
-    "foundAt": "2026-10-01T13:35:38.690Z"
   }
 ]
