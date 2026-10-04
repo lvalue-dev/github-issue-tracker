@@ -1,5 +1,297 @@
 [
   {
+    "key": "medusajs/medusa#17127",
+    "tier": 1,
+    "repo": "medusajs/medusa",
+    "number": 17127,
+    "title": "[Bug]: /admin/index routes never respond when the index module is not configured",
+    "url": "https://github.com/medusajs/medusa/issues/17127",
+    "comments": 1,
+    "createdAt": "2026-10-04T01:23:36Z",
+    "labels": [
+      "good first issue",
+      "type: bug"
+    ],
+    "language": "typescript",
+    "stars": 36547,
+    "foundAt": "2026-10-04T01:43:57.533Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31601",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31601,
+    "title": "[good first issue, hacktoberfest] 🎋 Add new Trivia Question 515 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31601",
+    "comments": 1,
+    "createdAt": "2026-10-04T01:00:58Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-04T01:43:57.714Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31600",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31600,
+    "title": "[good first issue, hacktoberfest] 🏮 Add new Japanese Proverb 1563 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31600",
+    "comments": 1,
+    "createdAt": "2026-10-04T00:57:35Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-04T01:43:57.714Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31599",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31599,
+    "title": "[good first issue, hacktoberfest] 🌸 Add new Theme: Rice Field Gold (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31599",
+    "comments": 1,
+    "createdAt": "2026-10-04T00:00:59Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-04T01:43:58.235Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31598",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31598,
+    "title": "[good first issue, hacktoberfest] 🍥 Add new Learner Mistake 339 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31598",
+    "comments": 1,
+    "createdAt": "2026-10-03T23:57:31Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-04T01:43:58.235Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31595",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31595,
+    "title": "[good first issue, hacktoberfest] 🍘 Add new Etiquette Tip 1009 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31595",
+    "comments": 1,
+    "createdAt": "2026-10-03T23:00:54Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-04T01:43:58.587Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31594",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31594,
+    "title": "[good first issue, hacktoberfest] 🍛 Add new Dialect Entry 813 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31594",
+    "comments": 1,
+    "createdAt": "2026-10-03T22:58:08Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-04T01:43:58.587Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31593",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31593,
+    "title": "[good first issue, hacktoberfest] 🏯 Add new Japanese Idiom 968 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31593",
+    "comments": 1,
+    "createdAt": "2026-10-03T22:00:56Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-04T01:43:58.758Z"
+  },
+  {
+    "key": "ueberdosis/tiptap#8432",
+    "tier": 1,
+    "repo": "ueberdosis/tiptap",
+    "number": 8432,
+    "title": "@tiptap/extension-mention: label containing a double quote is cut off after a Markdown round-trip",
+    "url": "https://github.com/ueberdosis/tiptap/issues/8432",
+    "comments": 0,
+    "createdAt": "2026-10-03T21:58:09Z",
+    "labels": [
+      "status: triage",
+      "good first issue",
+      "area: markdown",
+      "complexity: easy",
+      "impact: low"
+    ],
+    "language": "typescript",
+    "stars": 38569,
+    "foundAt": "2026-10-04T01:43:58.758Z"
+  },
+  {
+    "key": "lingdojo/kana-dojo#31592",
+    "tier": 1,
+    "repo": "lingdojo/kana-dojo",
+    "number": 31592,
+    "title": "[good first issue, hacktoberfest] 🍤 Add new Video Game Quote 1149 (good-first-issue)",
+    "url": "https://github.com/lingdojo/kana-dojo/issues/31592",
+    "comments": 1,
+    "createdAt": "2026-10-03T21:57:28Z",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "hacktoberfest",
+      "community",
+      "low hanging fruit",
+      "up-for-grabs",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "language": "typescript",
+    "stars": 3532,
+    "foundAt": "2026-10-04T01:43:58.758Z"
+  },
+  {
+    "key": "ueberdosis/tiptap#8431",
+    "tier": 1,
+    "repo": "ueberdosis/tiptap",
+    "number": 8431,
+    "title": "@tiptap/suggestion: allowedPrefixes with regex-special characters throw or never match",
+    "url": "https://github.com/ueberdosis/tiptap/issues/8431",
+    "comments": 0,
+    "createdAt": "2026-10-03T21:56:57Z",
+    "labels": [
+      "status: triage",
+      "good first issue",
+      "complexity: easy",
+      "impact: low"
+    ],
+    "language": "typescript",
+    "stars": 38569,
+    "foundAt": "2026-10-04T01:43:58.758Z"
+  },
+  {
+    "key": "homarr-labs/homarr#7023",
+    "tier": 1,
+    "repo": "homarr-labs/homarr",
+    "number": 7023,
+    "title": "feat: Improve mobile touch interaction for dashboard editing",
+    "url": "https://github.com/homarr-labs/homarr/issues/7023",
+    "comments": 0,
+    "createdAt": "2026-10-03T21:39:52Z",
+    "labels": [
+      "good first issue"
+    ],
+    "language": "typescript",
+    "stars": 4978,
+    "foundAt": "2026-10-04T01:43:58.939Z"
+  },
+  {
+    "key": "layer5io/layer5#8176",
+    "tier": 2,
+    "repo": "layer5io/layer5",
+    "number": 8176,
+    "title": "[CI/CD]: Unit tests are broken and not executed in CI checks workflow",
+    "url": "https://github.com/layer5io/layer5/issues/8176",
+    "comments": 0,
+    "createdAt": "2026-10-03T21:47:10Z",
+    "labels": [
+      "help wanted",
+      "kind/chore"
+    ],
+    "language": "javascript",
+    "stars": 1138,
+    "foundAt": "2026-10-04T01:44:01.846Z"
+  },
+  {
+    "key": "lfnovo/open-notebook#1439",
+    "tier": 3,
+    "repo": "lfnovo/open-notebook",
+    "number": 1439,
+    "title": "content-core 2.2: accept OpenDocument uploads and document the new YouTube and audio settings",
+    "url": "https://github.com/lfnovo/open-notebook/issues/1439",
+    "comments": 0,
+    "createdAt": "2026-10-04T01:12:52Z",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "ready",
+      "area: sources"
+    ],
+    "language": "typescript",
+    "stars": 39756,
+    "foundAt": "2026-10-04T01:44:02.497Z"
+  },
+  {
     "key": "lingdojo/kana-dojo#31591",
     "tier": 1,
     "repo": "lingdojo/kana-dojo",
@@ -1756,282 +2048,5 @@
     "language": "typescript",
     "stars": 3532,
     "foundAt": "2026-10-02T12:54:52.380Z"
-  },
-  {
-    "key": "cloudflare/cloudflare-docs#33929",
-    "tier": 3,
-    "repo": "cloudflare/cloudflare-docs",
-    "number": 33929,
-    "title": "Add capo as a Python R2-client",
-    "url": "https://github.com/cloudflare/cloudflare-docs/issues/33929",
-    "comments": 0,
-    "createdAt": "2026-10-02T09:53:27Z",
-    "labels": [
-      "documentation",
-      "content:new"
-    ],
-    "language": "mdx",
-    "stars": 5260,
-    "foundAt": "2026-10-02T12:54:56.130Z"
-  },
-  {
-    "key": "open-mercato/cezar#1232",
-    "tier": 1,
-    "repo": "open-mercato/cezar",
-    "number": 1232,
-    "title": "fix(settings): PUT /workspace/config accepts resources.idleTimeoutMinutes but never applies it",
-    "url": "https://github.com/open-mercato/cezar/issues/1232",
-    "comments": 1,
-    "createdAt": "2026-10-02T05:43:02Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "priority-medium",
-      "risk-low"
-    ],
-    "language": "typescript",
-    "stars": 293,
-    "foundAt": "2026-10-02T05:55:18.712Z"
-  },
-  {
-    "key": "Rohithgilla12/data-peek#287",
-    "tier": 1,
-    "repo": "Rohithgilla12/data-peek",
-    "number": 287,
-    "title": "Menu items with no renderer listener: Format SQL (Shift+Alt+F) does nothing",
-    "url": "https://github.com/Rohithgilla12/data-peek/issues/287",
-    "comments": 1,
-    "createdAt": "2026-10-02T05:28:05Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "tech-debt",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 1675,
-    "foundAt": "2026-10-02T05:55:18.712Z"
-  },
-  {
-    "key": "Rohithgilla12/data-peek#286",
-    "tier": 1,
-    "repo": "Rohithgilla12/data-peek",
-    "number": 286,
-    "title": "Data generator: random-date is still non-reproducible under a seed when bounds are unset",
-    "url": "https://github.com/Rohithgilla12/data-peek/issues/286",
-    "comments": 2,
-    "createdAt": "2026-10-02T05:28:03Z",
-    "labels": [
-      "bug",
-      "good first issue",
-      "hacktoberfest"
-    ],
-    "language": "typescript",
-    "stars": 1675,
-    "foundAt": "2026-10-02T05:55:18.712Z"
-  },
-  {
-    "key": "medusajs/medusa#17094",
-    "tier": 1,
-    "repo": "medusajs/medusa",
-    "number": 17094,
-    "title": "[Bug]: Collection edit form silently swallows server errors (no toast, no message)",
-    "url": "https://github.com/medusajs/medusa/issues/17094",
-    "comments": 2,
-    "createdAt": "2026-10-02T03:57:56Z",
-    "labels": [
-      "good first issue",
-      "type: bug",
-      "status: needs triaging",
-      "version: 2.0"
-    ],
-    "language": "typescript",
-    "stars": 36547,
-    "foundAt": "2026-10-02T05:55:19.274Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31441",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31441,
-    "title": "[good first issue] 🎎 Add new False Friend Pair 1018 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31441",
-    "comments": 1,
-    "createdAt": "2026-10-02T00:57:28Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3532,
-    "foundAt": "2026-10-02T05:55:21.409Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31440",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31440,
-    "title": "[good first issue] 🍵 Add new Japanese Idiom 994 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31440",
-    "comments": 1,
-    "createdAt": "2026-10-02T00:01:01Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3532,
-    "foundAt": "2026-10-02T05:55:21.409Z"
-  },
-  {
-    "key": "webdriverio/webdriverio#15858",
-    "tier": 2,
-    "repo": "webdriverio/webdriverio",
-    "number": 15858,
-    "title": "[💡 Feature]: role/ selector for role + accessible name, backed by the BiDi accessibility locator",
-    "url": "https://github.com/webdriverio/webdriverio/issues/15858",
-    "comments": 2,
-    "createdAt": "2026-10-02T00:39:40Z",
-    "labels": [
-      "help wanted",
-      "Tracking 🗒",
-      "Idea 💡",
-      "v10"
-    ],
-    "language": "typescript",
-    "stars": 9841,
-    "foundAt": "2026-10-02T05:55:22.892Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31439",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31439,
-    "title": "[good first issue] 🀄 Add new Video Game Quote 1140 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31439",
-    "comments": 1,
-    "createdAt": "2026-10-01T23:57:32Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3532,
-    "foundAt": "2026-10-01T23:59:00.108Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31438",
-    "tier": 1,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31438,
-    "title": "[good first issue] 🌋 Add new Grammar Point 1371 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31438",
-    "comments": 1,
-    "createdAt": "2026-10-01T23:00:56Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3532,
-    "foundAt": "2026-10-01T23:59:00.593Z"
-  },
-  {
-    "key": "lingdojo/kana-dojo#31437",
-    "tier": 2,
-    "repo": "lingdojo/kana-dojo",
-    "number": 31437,
-    "title": "[good first issue] 🎎 Add new Japanese Proverb 852 (good-first-issue)",
-    "url": "https://github.com/lingdojo/kana-dojo/issues/31437",
-    "comments": 1,
-    "createdAt": "2026-10-01T22:57:31Z",
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "hacktoberfest",
-      "community",
-      "low hanging fruit",
-      "up-for-grabs",
-      "first-timers-only",
-      "good-first-issue"
-    ],
-    "language": "typescript",
-    "stars": 3532,
-    "foundAt": "2026-10-01T23:59:01.819Z"
-  },
-  {
-    "key": "jasonjgardner/blockbench-mcp-plugin#76",
-    "tier": 2,
-    "repo": "jasonjgardner/blockbench-mcp-plugin",
-    "number": 76,
-    "title": "Improve agent use of Undo System",
-    "url": "https://github.com/jasonjgardner/blockbench-mcp-plugin/issues/76",
-    "comments": 0,
-    "createdAt": "2026-10-01T22:28:04Z",
-    "labels": [
-      "enhancement",
-      "help wanted"
-    ],
-    "language": "typescript",
-    "stars": 471,
-    "foundAt": "2026-10-01T23:59:02.192Z"
-  },
-  {
-    "key": "adcontextprotocol/adcp#7875",
-    "tier": 3,
-    "repo": "adcontextprotocol/adcp",
-    "number": 7875,
-    "title": "a2a-guide documents the pre-1.0 agent card path; suggest deprecating /.well-known/agent.json in favour of A2A 1.x canonical",
-    "url": "https://github.com/adcontextprotocol/adcp/issues/7875",
-    "comments": 1,
-    "createdAt": "2026-10-01T23:47:51Z",
-    "labels": [
-      "documentation",
-      "claude-triaged"
-    ],
-    "language": "typescript",
-    "stars": 253,
-    "foundAt": "2026-10-01T23:59:02.886Z"
-  },
-  {
-    "key": "rome-os/rome#613",
-    "tier": 3,
-    "repo": "rome-os/rome",
-    "number": 613,
-    "title": "app_creation REFERENCE.md: the `system:create_routine` examples omit the required `trigger.tzMode`, so copying them is rejected",
-    "url": "https://github.com/rome-os/rome/issues/613",
-    "comments": 0,
-    "createdAt": "2026-10-01T23:15:47Z",
-    "labels": [
-      "documentation",
-      "P2"
-    ],
-    "language": "typescript",
-    "stars": 669,
-    "foundAt": "2026-10-01T23:59:04.121Z"
   }
 ]

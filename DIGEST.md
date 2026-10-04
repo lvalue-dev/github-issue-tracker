@@ -4,6 +4,20 @@
 
 | 발견일 | 등급 | 이슈 | 저장소 | ⭐ |
 | --- | --- | --- | --- | --- |
+| 2026-10-04 | 🥇 | [[Bug]: /admin/index routes never respond when the index module is not configured](https://github.com/medusajs/medusa/issues/17127) | `medusajs/medusa` | ⭐ 36.5k |
+| 2026-10-04 | 🥇 | [[good first issue, hacktoberfest] 🎋 Add new Trivia Question 515 (good-first-iss](https://github.com/lingdojo/kana-dojo/issues/31601) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-04 | 🥇 | [[good first issue, hacktoberfest] 🏮 Add new Japanese Proverb 1563 (good-first-i](https://github.com/lingdojo/kana-dojo/issues/31600) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-04 | 🥇 | [[good first issue, hacktoberfest] 🌸 Add new Theme: Rice Field Gold (good-first-](https://github.com/lingdojo/kana-dojo/issues/31599) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-04 | 🥇 | [[good first issue, hacktoberfest] 🍥 Add new Learner Mistake 339 (good-first-iss](https://github.com/lingdojo/kana-dojo/issues/31598) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-04 | 🥇 | [[good first issue, hacktoberfest] 🍘 Add new Etiquette Tip 1009 (good-first-issu](https://github.com/lingdojo/kana-dojo/issues/31595) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-04 | 🥇 | [[good first issue, hacktoberfest] 🍛 Add new Dialect Entry 813 (good-first-issue](https://github.com/lingdojo/kana-dojo/issues/31594) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-04 | 🥇 | [[good first issue, hacktoberfest] 🏯 Add new Japanese Idiom 968 (good-first-issu](https://github.com/lingdojo/kana-dojo/issues/31593) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-04 | 🥇 | [@tiptap/extension-mention: label containing a double quote is cut off after a Ma](https://github.com/ueberdosis/tiptap/issues/8432) | `ueberdosis/tiptap` | ⭐ 38.6k |
+| 2026-10-04 | 🥇 | [[good first issue, hacktoberfest] 🍤 Add new Video Game Quote 1149 (good-first-i](https://github.com/lingdojo/kana-dojo/issues/31592) | `lingdojo/kana-dojo` | ⭐ 3.5k |
+| 2026-10-04 | 🥇 | [@tiptap/suggestion: allowedPrefixes with regex-special characters throw or never](https://github.com/ueberdosis/tiptap/issues/8431) | `ueberdosis/tiptap` | ⭐ 38.6k |
+| 2026-10-04 | 🥇 | [feat: Improve mobile touch interaction for dashboard editing](https://github.com/homarr-labs/homarr/issues/7023) | `homarr-labs/homarr` | ⭐ 5.0k |
+| 2026-10-04 | 🥈 | [[CI/CD]: Unit tests are broken and not executed in CI checks workflow](https://github.com/layer5io/layer5/issues/8176) | `layer5io/layer5` | ⭐ 1.1k |
+| 2026-10-04 | 🥉 | [content-core 2.2: accept OpenDocument uploads and document the new YouTube and a](https://github.com/lfnovo/open-notebook/issues/1439) | `lfnovo/open-notebook` | ⭐ 39.8k |
 | 2026-10-03 | 🥇 | [[good first issue, hacktoberfest] 🎌 Add new Anime Quote 1169 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31591) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-10-03 | 🥇 | [Vault: trim whitespace from VAULT_K8S_TOKEN_PATH and VAULT_K8S_AUTH_PATH](https://github.com/libredb/libredb-studio/issues/1291) | `libredb/libredb-studio` | ⭐ 890 |
 | 2026-10-03 | 🥇 | [CONTRIBUTING.md: say that a new *_PATH, *_DIR or *_FILE variable must be classif](https://github.com/libredb/libredb-studio/issues/1290) | `libredb/libredb-studio` | ⭐ 890 |
@@ -90,17 +104,3 @@
 | 2026-10-02 | 🥈 | [VS Code extension README and AGENTS.md describe features that CALM Canvas remove](https://github.com/finos/architecture-as-code/issues/3209) | `finos/architecture-as-code` | ⭐ 411 |
 | 2026-10-02 | 🥈 | [[good first issue, hacktoberfest] 🍙 Add new Video Game Quote 885 (good-first-is](https://github.com/lingdojo/kana-dojo/issues/31475) | `lingdojo/kana-dojo` | ⭐ 3.5k |
 | 2026-10-02 | 🥈 | [[good first issue, hacktoberfest] 🍶 Add new Theme: Kabuki Drama (good-first-iss](https://github.com/lingdojo/kana-dojo/issues/31470) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-10-02 | 🥉 | [Add capo as a Python R2-client](https://github.com/cloudflare/cloudflare-docs/issues/33929) | `cloudflare/cloudflare-docs` | ⭐ 5.3k |
-| 2026-10-02 | 🥇 | [fix(settings): PUT /workspace/config accepts resources.idleTimeoutMinutes but ne](https://github.com/open-mercato/cezar/issues/1232) | `open-mercato/cezar` | ⭐ 293 |
-| 2026-10-02 | 🥇 | [Menu items with no renderer listener: Format SQL (Shift+Alt+F) does nothing](https://github.com/Rohithgilla12/data-peek/issues/287) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
-| 2026-10-02 | 🥇 | [Data generator: random-date is still non-reproducible under a seed when bounds a](https://github.com/Rohithgilla12/data-peek/issues/286) | `Rohithgilla12/data-peek` | ⭐ 1.7k |
-| 2026-10-02 | 🥇 | [[Bug]: Collection edit form silently swallows server errors (no toast, no messag](https://github.com/medusajs/medusa/issues/17094) | `medusajs/medusa` | ⭐ 36.5k |
-| 2026-10-02 | 🥇 | [[good first issue] 🎎 Add new False Friend Pair 1018 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31441) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-10-02 | 🥇 | [[good first issue] 🍵 Add new Japanese Idiom 994 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31440) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-10-02 | 🥈 | [[💡 Feature]: role/ selector for role + accessible name, backed by the BiDi acce](https://github.com/webdriverio/webdriverio/issues/15858) | `webdriverio/webdriverio` | ⭐ 9.8k |
-| 2026-10-01 | 🥇 | [[good first issue] 🀄 Add new Video Game Quote 1140 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31439) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-10-01 | 🥇 | [[good first issue] 🌋 Add new Grammar Point 1371 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31438) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-10-01 | 🥈 | [[good first issue] 🎎 Add new Japanese Proverb 852 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/31437) | `lingdojo/kana-dojo` | ⭐ 3.5k |
-| 2026-10-01 | 🥈 | [Improve agent use of Undo System](https://github.com/jasonjgardner/blockbench-mcp-plugin/issues/76) | `jasonjgardner/blockbench-mcp-plugin` | ⭐ 471 |
-| 2026-10-01 | 🥉 | [a2a-guide documents the pre-1.0 agent card path; suggest deprecating /.well-know](https://github.com/adcontextprotocol/adcp/issues/7875) | `adcontextprotocol/adcp` | ⭐ 253 |
-| 2026-10-01 | 🥉 | [app_creation REFERENCE.md: the `system:create_routine` examples omit the require](https://github.com/rome-os/rome/issues/613) | `rome-os/rome` | ⭐ 669 |
